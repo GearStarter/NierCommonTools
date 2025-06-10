@@ -1,0 +1,440 @@
+[
+    {
+        "id": "M1010_S0010_G0000_300_a9s",
+        "jp": "２Ｂさん、聞こえますか。\\n起動セットアップを始めますね。",
+        "en": "2B, can you hear me? I'm starting your boot sequence.",
+        "ru": "2B, слышите меня? Я приступаю к процедуре вашего запуска."
+    },
+    {
+        "id": "M1010_S0010_G0010_300_a9s",
+        "jp": "まず、システムの明度設定を確認してください。",
+        "en": "First, you'll want to check your brightness settings.",
+        "ru": "Во-первых, вам нужно проверить настройки яркости."
+    },
+    {
+        "id": "M1010_S0010_G0020_300_a9s",
+        "jp": "あれ、明度調整の方法、わかりませんか？\\nどこかの入力に対応してると思うんですが……",
+        "en": "...Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.",
+        "ru": "...Хм? Вы не знаете, как настроить яркость? Я думаю, нужно просто найти устройство ввода."
+    },
+    {
+        "id": "M1010_S0010_G0030_300_a9s",
+        "jp": "……えーと。わかりました。ちょっと待って下さい。",
+        "en": "Er, all right. Just give me a second here...",
+        "ru": "Э, ладно. Дайте-ка мне секундочку..."
+    },
+    {
+        "id": "M1010_S0010_G0040_300_a9s",
+        "jp": "ガイドを発見しました！ガイドに従ってください。",
+        "en": "Okay, I found the guide! If you can just follow that, it'll make things easier.",
+        "ru": "Вот, я нашёл руководство! Следуйте ему, это облегчит процесс."
+    },
+    {
+        "id": "M1010_S0010_G0050_300_a9s",
+        "jp": "それでは、早速始めますね。",
+        "en": "Right then. Let's get started.",
+        "ru": "Ну что ж. Давайте приступать."
+    },
+    {
+        "id": "M1010_S0010_G0060_300_a9s",
+        "jp": "一つずつ調整していきましょう。",
+        "en": "We'll go through each adjustment in order.",
+        "ru": "Мы пройдём по порядку через все регулировки."
+    },
+    {
+        "id": "M1010_S0010_G0070_300_a9s",
+        "jp": "まずはそのまま明度の調整、お願いします。",
+        "en": "Let's start by getting the brightness set.",
+        "ru": "Начнём с настройки яркости."
+    },
+    {
+        "id": "M1010_S0010_G0080_300_a9s",
+        "jp": "２Ｂさん、この値で大丈夫ですか？",
+        "en": "Okay. How does this look?",
+        "ru": "Есть. Как вам?"
+    },
+    {
+        "id": "M1010_S0010_G0090_300_a2b",
+        "jp": "はい",
+        "en": "Okay",
+        "ru": "Хорошо"
+    },
+    {
+        "id": "M1010_S0010_G0110_300_a2b",
+        "jp": "いいえ",
+        "en": "Not good",
+        "ru": "Плохо"
+    },
+    {
+        "id": "M1010_S0010_G0100_300_a9s",
+        "jp": "了解です。",
+        "en": "Roger that.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M1010_S0010_G0120_300_a9s",
+        "jp": "あっ、そうそう。セットアップのプロセスは一応記録させてもらっています。",
+        "en": "Oh, and I should probably let you know that this entire process is being recorded for posterity.",
+        "ru": "О, мне стоило сообщить вам, что весь процесс записывается на будущее."
+    },
+    {
+        "id": "M1010_S0010_G0100_300_a9s",
+        "jp": "了解です。",
+        "en": "Roger that.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M1010_S0010_G0130_300_a9s",
+        "jp": "それでは、次は音声認識の設定です。",
+        "en": "Now let's take a look at your voice recognition settings.",
+        "ru": "Теперь давайте займёмся настройками распознавания речи."
+    },
+    {
+        "id": "M1010_S0010_G0140_300_a9s",
+        "jp": "音声認識の設定がミュートになっているので、調整お願いします。\\n今から実際に呼びかけるので、僕の声が聴こえるようにしてください。",
+        "en": "Seems your voice recognition is set to mute, which isn't gonna work. I'm gonna call out to you now—make sure you can hear my voice.",
+        "ru": "Похоже, что распознавание речи отключено, поэтому оно и не работает.\\nЯ сейчас позвоню вам, так вы сможете слышать мой голос."
+    },
+    {
+        "id": "M1010_S0010_G0150_300_a9s",
+        "jp": "２Ｂさーん、聞こえますかー？",
+        "en": "Ma'am? Are you there? Can you hear me?",
+        "ru": "Мэм? Слышно? Слышите меня?"
+    },
+    {
+        "id": "M1010_S0010_G0160_300_a9s",
+        "jp": "えー、もしもーし、聞こえるように調整お願いしまーす。",
+        "en": "Uh, hellooo? Go ahead and adjust your settings so you can hear me, all right?",
+        "ru": "Эм, приве-е-ет? Продолжайте и настройте так, чтобы вы смогли слышать меня, хорошо?"
+    },
+    {
+        "id": "M1010_S0010_G0170_300_a9s",
+        "jp": "僕の声が聴こえるように調整お願いしまーす。",
+        "en": "Adjust the settings until you can hear my voice.",
+        "ru": "Настройте параметр так, чтобы вы слышали мой голос."
+    },
+    {
+        "id": "M1010_S0010_G0180_300_a9s",
+        "jp": "あ、あのー、恥ずかしいので早くしてもらえますか……？",
+        "en": "Er, could you try and pick up the pace a little bit? This is getting embarrassing...",
+        "ru": "Эм, не могли бы вы чуть-чуть ускориться? Мне становится неловко..."
+    },
+    {
+        "id": "M1010_S0010_G0190_300_a9s",
+        "jp": "え、僕の声、聞こえてないですよね？",
+        "en": "Wait, you shouldn't be able to hear me now...",
+        "ru": "Подождите, сейчас вы не сможете меня услышать..."
+    },
+    {
+        "id": "M1010_S0010_G0200_300_a9s",
+        "jp": "これで問題ありませんか？",
+        "en": "All right. Are we good now?",
+        "ru": "Хорошо. Так лучше?"
+    },
+    {
+        "id": "M4100_S0000_G0000_300_sele",
+        "jp": "はい",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "id": "M4100_S0000_G0010_300_sele",
+        "jp": "いいえ",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "id": "M1010_S0010_G0240_300_a2b",
+        "jp": "大丈夫……９Ｓの声って……何か安心する。",
+        "en": "I'm fine, 9S. There's something calming about your voice.",
+        "ru": "Всё в порядке, 9S. В твоём голосе есть что-то успокаивающее."
+    },
+    {
+        "id": "M1010_S0010_G0220_300_a9s",
+        "jp": "はい、これで設定は完了です。",
+        "en": "Okay! Settings should all be good to go.",
+        "ru": "Отлично! Теперь настройки должны быть в норме."
+    },
+    {
+        "id": "M1010_S0010_G0100_300_a9s",
+        "jp": "了解です。",
+        "en": "Roger that.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M1010_S0010_G0250_300_a9s",
+        "jp": "！！……あ、ありがとうございます。\\nこれでオプションの設定は完了です。",
+        "en": "Oh, uh, th-thank you! ...Anyway, that takes care of the settings.",
+        "ru": "О, эм, с-спасибо! ...В любом случае, давайте продолжим настройку."
+    },
+    {
+        "id": "M1010_S0010_G0260_300_a9s",
+        "jp": "う！……な、なんだ！？勝手に心拍数が上昇してる！？",
+        "en": "Ngh!? What the heck? My pulse rate is rising!",
+        "ru": "Нгх?! Что за фигня? Мой пульс подскочил!"
+    },
+    {
+        "id": "M1010_S0010_G0270_300_a9s",
+        "jp": "なんだ、これ……あれ、正常値に戻った……",
+        "en": "Hmm... It seems to be back to normal now. How odd.",
+        "ru": "Хм... Кажется, вернулся в норму. Как странно."
+    },
+    {
+        "id": "M1010_S0010_G0280_300_a9s",
+        "jp": "あれ？自爆許可の項目が消えてる。\\nちょっと待ってください！すぐに復元できるので！！",
+        "en": "Er, hold on. Your self-destruct permissions are missing.\\nWait a sec, we need to restore those.",
+        "ru": "Эм, погодите. У вас не установлено разрешение на самоуничтожение.\\nСекундочку, нужно установить его."
+    },
+    {
+        "id": "M1010_S0010_G0290_300_a9s",
+        "jp": "僕が設定しても良いんですが、\\n一応規則なので２Ｂさんが設定してくださいね。",
+        "en": "I could set it for you, but you should probably do it yourself. Regulations and all, you know?",
+        "ru": "Я бы включил его для вас, но вам стоит сделать это самой. Устав и всё такое, знаете ли?"
+    },
+    {
+        "id": "M1010_S0010_G0300_300_a9s",
+        "jp": "……？？？ダメですよ、ちゃんとＯＮにしてください。",
+        "en": "Huh? Wait, no. You need to leave that turned on.",
+        "ru": "А? Что, нет же. Вы должны включить разрешение."
+    },
+    {
+        "id": "M1010_S0010_G0310_300_a9s",
+        "jp": "えーと、ダメですよ。特別なケース以外、設定は必須です。",
+        "en": "Yeah, you can't really do that. It needs to be turned on except in very specific cases.",
+        "ru": "Да, вам определённо нельзя его отключать. Оно должно быть включено, за исключением редких случаев."
+    },
+    {
+        "id": "M1010_S0010_G0320_300_a9s",
+        "jp": "見逃せません。許可してください。",
+        "en": "I'm afraid I can't leave this as-is, ma'am. Please give your permission.",
+        "ru": "Боюсь, я не могу оставить всё как есть, мэм. Пожалуйста, дайте мне ваше разрешение."
+    },
+    {
+        "id": "M1010_S0010_G0330_300_a9s",
+        "jp": "もう！困らせないでください。規則なんですから。",
+        "en": "Hey, come on now! I'm just trying to follow regulations here.",
+        "ru": "Эй, вы чего! Я же пытаюсь следовать уставу."
+    },
+    {
+        "id": "M1010_S0010_G0340_300_a9s",
+        "jp": "OKです。\\nいざという時は、身を挺して作戦を遂行する必要がありますからね。",
+        "en": "Okay, good. If things go wrong during an op, you may have to sacrifice yourself in order to finish it, sooo...",
+        "ru": "Ага, хорошо. Если во время операции что-то пойдёт не так, вы можете пожертвовать собой ради успеха, так что-о-о..."
+    },
+    {
+        "id": "M1010_S0010_G0360_300_a9s",
+        "jp": "設定が終わったら、この画面を終了してください。",
+        "en": "Once you're finished making adjustments, you can go ahead and close this out.",
+        "ru": "Как только закончите настройку, можете двигаться далее и закрыть это меню."
+    },
+    {
+        "id": "M1010_S0010_G0370_300_a9s",
+        "jp": "あ、振動検知の機能を有効にしたんですね。\\nそれでは、簡単にテストしてみましょうか。",
+        "en": "Oh, I see you've turned vibration detection on. Let's run a check to make sure it's working.",
+        "ru": "О, вижу, вы включили обнаружение вибраций. Давайте убедимся, что оно работает."
+    },
+    {
+        "id": "M1010_S0010_G0380_300_a9s",
+        "jp": "今から、実際に肩を軽く叩いてみますね。",
+        "en": "I'm gonna tap you on the shoulders, all right?",
+        "ru": "Я дотронусь до ваших плеч, хорошо?"
+    },
+    {
+        "id": "M1010_S0010_G0420_300_a9s",
+        "jp": "あれ？おかしいですね。設定は正しいはずなのに。",
+        "en": "Huh? That's odd. Everything should be set up correctly.",
+        "ru": "Чего? Странно. Всё должно быть корректно настроено."
+    },
+    {
+        "id": "M1010_S0010_G0430_300_a9s",
+        "jp": "ちょっと叩く場所を変えてみましょうか。次は、腕を軽く叩きますよ。",
+        "en": "Here, let me try somewhere else. I'm gonna tap you on the arm this time, okay?",
+        "ru": "Ладно, попробуем ещё разок. В этот раз я дотронусь до вашей руки, хорошо?"
+    },
+    {
+        "id": "M1010_S0010_G0480_300_a9s",
+        "jp": "え！？本当ですか？？",
+        "en": "Huh? Really?",
+        "ru": "А? Серьёзно?"
+    },
+    {
+        "id": "M1010_S0010_G0490_300_a9s",
+        "jp": "２Ｂ、絶対わかってると思うんだけど……\\n僕のこと、からかってるのかな……",
+        "en": "2B must have felt that... Maybe she's just messing with me.",
+        "ru": "Наверное, 2B почувствовала, что... Возможно, она просто решила подколоть меня."
+    },
+    {
+        "id": "M1010_S0010_G0500_300_a9s",
+        "jp": "うーん、仕方ないですね。ここはどうですか？",
+        "en": "Well, if you say so. How about this?",
+        "ru": "Ну, раз вы так говорите. Как насчёт такого?"
+    },
+    {
+        "id": "M1010_S0010_G0510_300_a9s",
+        "jp": "次はここにしよう、でもなんだか怒られそうだな。",
+        "en": "Should I tap her here, though? She might get angry at me.",
+        "ru": "Стоит ли мне трогать её здесь? Она может разозлиться на меня."
+    },
+    {
+        "id": "M1010_S0010_G0560_300_a9s",
+        "jp": "本当ですか！？",
+        "en": "Are you serious?",
+        "ru": "Вы серьёзно?"
+    },
+    {
+        "id": "M1010_S0010_G0570_300_a9s",
+        "jp": "本当に何も感じませんか？",
+        "en": "You didn't feel anything just now?",
+        "ru": "И сейчас тоже ничего не почувствовали?"
+    },
+    {
+        "id": "M1010_S0010_G0580_300_a9s",
+        "jp": "じゃ、じゃあこれでどうですか？",
+        "en": "Well then, let's try something else.",
+        "ru": "Ладно, попробуем ещё что-нибудь."
+    },
+    {
+        "id": "M1010_S0010_G0590_300_a9s",
+        "jp": "も、もう知りませんよ……",
+        "en": "No turning back now, I guess...",
+        "ru": "Полагаю, поздно идти на попятную..."
+    },
+    {
+        "id": "M1010_S0010_G0390_300_a9s",
+        "jp": "どうですか？分かりますか？",
+        "en": "How was that? Did you feel it?",
+        "ru": "Как вы? Почувствовали?"
+    },
+    {
+        "id": "M4100_S0000_G0000_300_sele",
+        "jp": "はい",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "id": "M4100_S0000_G0010_300_sele",
+        "jp": "いいえ",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "id": "M1010_S0010_G0410_300_a9s",
+        "jp": "ＯＫ、テスト終了です。",
+        "en": "Okay, check complete.",
+        "ru": "Хорошо, проверка завершена."
+    },
+    {
+        "id": "M1010_S0010_G0440_300_a9s",
+        "jp": "今度はわかりましたよね？",
+        "en": "Did you feel that?",
+        "ru": "Почувствовали?"
+    },
+    {
+        "id": "M4100_S0000_G0000_300_sele",
+        "jp": "はい",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "id": "M4100_S0000_G0010_300_sele",
+        "jp": "いいえ",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "id": "M1010_S0010_G0460_300_a9s",
+        "jp": "OK、テスト終了です。",
+        "en": "Okay, check complete.",
+        "ru": "Хорошо, проверка завершена."
+    },
+    {
+        "id": "M1010_S0010_G0520_300_a9s",
+        "jp": "……どうですか？",
+        "en": "Er, how was that?",
+        "ru": "Эм, а сейчас как?"
+    },
+    {
+        "id": "M4100_S0000_G0000_300_sele",
+        "jp": "はい",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "id": "M4100_S0000_G0010_300_sele",
+        "jp": "いいえ",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "id": "M1010_S0010_G0540_300_a9s",
+        "jp": "OK、テスト終了です。",
+        "en": "Okay, check complete.",
+        "ru": "Хорошо, проверка завершена."
+    },
+    {
+        "id": "M1010_S0010_G0600_300_a9s",
+        "jp": "どうですか？",
+        "en": "...Well?",
+        "ru": "...Ну как?"
+    },
+    {
+        "id": "M4100_S0000_G0000_300_sele",
+        "jp": "はい",
+        "en": "Yes",
+        "ru": "Да"
+    },
+    {
+        "id": "M4100_S0000_G0010_300_sele",
+        "jp": "いいえ",
+        "en": "No",
+        "ru": "Нет"
+    },
+    {
+        "id": "M1010_S0010_G0620_300_a9s",
+        "jp": "はい……ありがとうございました。",
+        "en": "Okay, great. Thanks.",
+        "ru": "Ладно, отлично. Спасибо."
+    },
+    {
+        "id": "M1010_S0010_G0640_300_a9s",
+        "jp": "うーん。今ちょっと原因が判らないので、\\n後から精密検査を受けてもらうしかないですね。",
+        "en": "Hmm... I don't know what's causing this, so we'll need to run some precision diagnostics later.",
+        "ru": "Хм... Не знаю в чём причина, поэтому позже проведём прецизионную диагностику."
+    },
+    {
+        "id": "M1010_S0010_G0650_300_a9s",
+        "jp": "とりあえず、テストは終了です。",
+        "en": "Regardless, that's the end of the check for now.",
+        "ru": "Так или иначе, можно считать, что проверка завершена."
+    },
+    {
+        "id": "M1010_S0010_G0660_300_a9s",
+        "jp": "確かに、自爆するのは嫌ですよね……",
+        "en": "I know no one LIKES the idea of self-destructing.",
+        "ru": "Я не знаю никого, кому бы НРАВИЛАСЬ идея самоуничтожения."
+    },
+    {
+        "id": "M1010_S0010_G0670_300_a9s",
+        "jp": "規則では自爆機能は必須ですけど……司令官には、黙っておきます。",
+        "en": "But that's what regulations call for. Still, I'll keep it a secret from the Commander.",
+        "ru": "Но этого требует устав. Тем не менее, я сохраню это в тайне от Командора."
+    },
+    {
+        "id": "M1010_S0010_G0680_300_a9s",
+        "jp": "音声、聞きたくないんですか？？いいですけど……なぜ……",
+        "en": "You...don't want to hear my voice? I mean, it's your choice and all, but...",
+        "ru": "Вы... не хотите слышать меня? Я имею в виду, это ваш выбор, но..."
+    },
+    {
+        "id": "M1010_S0010_G0690_300_a9s",
+        "jp": "僕が設定をサポートした全ての項目が覆されてしまった。",
+        "en": "You undid the settings I walked you through...",
+        "ru": "Вы изменили настройки, которые я установил..."
+    },
+    {
+        "id": "M1010_S0010_G0700_300_a9s",
+        "jp": "僕、嫌われているんだろうか。\\nこの先２Ｂさんとうまくやっていけるかなあ……",
+        "en": "Er, this isn't about me, is it? Because I'm really hoping we'll be a good team going forward.",
+        "ru": "Эм, это ведь не из-за меня, да? Ведь я очень надеюсь, что в будущем мы станем отличной командой."
+    }
+]

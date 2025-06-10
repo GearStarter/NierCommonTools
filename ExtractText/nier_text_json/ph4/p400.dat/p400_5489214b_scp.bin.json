@@ -1,0 +1,842 @@
+[
+    {
+        "id": "M6150_S0010_G0020_001_dreamR2",
+        "jp": "ボクノ友達にスリープモード中ナノニ、マルデ活動シテイルかの様ナ変な映像を見るッテ言ッテイタ、ヤツが居タンダ。",
+        "en": "A friend of mine said he's been seeing images of himself doing things while in sleep mode.",
+        "ru": "Мой друг сказал, будто видел образы, в которых наблюдал за собой со стороны, пока находился в спящем режиме."
+    },
+    {
+        "id": "M6150_S0010_G0030_001_dreamR2",
+        "jp": "アイツはソノ映像に惹カレテイッタミタイデ、日に日に時間サエアレバ、スリープモード状態に入ル様にナッテイッタンダ。",
+        "en": "He became so obsessed with these images that he started spending more and more time in sleep mode every day.",
+        "ru": "Он стал одержим этими видениями и с каждым разом всё больше и больше времени проводил в спящем режиме."
+    },
+    {
+        "id": "M6150_S0010_G0040_001_dreamR2",
+        "jp": "ソシテ遂にコナイダの大戦の後ニ、向コウノ世界に行クト言イ残シテ、ソレカラズット目覚めナクナッテシマッタヨ。",
+        "en": "Then, after that big battle the other day, he said \"I'm staying in the other world,\" and he never woke up again.",
+        "ru": "А на следующий день, после большого сражения, он сказал \"Я остаюсь в другом мире\" и больше не просыпался."
+    },
+    {
+        "id": "M6150_S0010_G0050_001_dreamR2",
+        "jp": "アイツが再ビ起動スル日は来ルンダロウカ……",
+        "en": "I wonder if he's ever going to reactivate...",
+        "ru": "Интересно, проснётся ли он когда-нибудь..."
+    },
+    {
+        "id": "M6150_S0010_G0060_001_dreamR2",
+        "jp": "コナイダの大戦デ皆が多クノ友達を失ッタカラネ、モシカシタラアイツはコノ世界に絶望シテ向コウノ世界デ生キル事を選ンダノカモネ……",
+        "en": "He lost so many of his friends during that battle the other day... Maybe despair drove him to live in that other world of his.",
+        "ru": "Он потерял много друзей в недавней большой битве... Возможно, именно отчаянье подтолкнуло его остаться в другом мире."
+    },
+    {
+        "id": "M6150_S0010_G0070_001_dreamR2",
+        "jp": "モシコノ世界が平和ナ世界にナッタラ、アイツは目覚メルノカナ？",
+        "en": "Maybe he'll wake up again once this world is at peace?",
+        "ru": "Возможно, он проснётся снова, как только настанет мир и спокойствие?"
+    },
+    {
+        "id": "M6150_S0020_G0010_001_restR",
+        "jp": "コナイダの大戦デ、労働力モ物資モ足リナイ……",
+        "en": "Because of that huge battle the other day, we're low on labor power and supplies...",
+        "ru": "Из-за недавнего большого сражения у нас нехватка рабочей силы и припасов..."
+    },
+    {
+        "id": "M6150_S0020_G0020_001_restR",
+        "jp": "一日20時間労働ハ流石ニ堪エル……",
+        "en": "We're expected to work 20 hours a day now...",
+        "ru": "Сейчас мы должны работать по 20 часов в день..."
+    },
+    {
+        "id": "M6150_S0030_G0020_001_terminalR",
+        "jp": "ヤレヤレ、コナイダの大規模な戦闘デ、コノ地区の個体の半数以上は失ワレテシマッタヨ。",
+        "en": "We lost more than half of our troops in that huge battle the other day.",
+        "ru": "В этом сражении мы потеряли больше половины наших войск."
+    },
+    {
+        "id": "M6150_S0030_G0030_001_terminalR",
+        "jp": "ソレニシテモ、プラトン１７２８があんな能力を持ッテイタナンテナ……",
+        "en": "Who knew Plato 1728 had such special powers in him though, huh?",
+        "ru": "Кто бы мог подумать, что в Платоне 1728 скрыта такая мощь, да?"
+    },
+    {
+        "id": "M6150_S0040_G0030_001_watchR",
+        "jp": "今はドコモ、ロボ不足で工場の通路を修理スル余裕ガ無インダッテサ。",
+        "en": "There's a shortage of machines at all factories nowadays. Fixing a simple hallway is taking forever.",
+        "ru": "Нынче на всех заводах не хватает рабочих. Даже самые простые ремонтные работы могут занять целую вечность."
+    },
+    {
+        "id": "M6150_S0040_G0040_001_watchR",
+        "jp": "ボクは何時マデココデ飛ンデナイトイケナインダ……",
+        "en": "I don't wanna think about how long I'm gonna have to hover around here.",
+        "ru": "Не хочу даже думать о том, сколько мне придётся пробыть здесь."
+    },
+    {
+        "id": "M6150_S0040_G0050_001_watchR",
+        "jp": "イッソ歩行ユニットを付ケテ……ケド、飛行タイプトシテノプライドガ……",
+        "en": "Maybe I should attach a legged unit... NO! My pride won't allow it!",
+        "ru": "Может, мне попросить помощи... НЕТ! Моя гордость не позволит так поступить!"
+    },
+    {
+        "id": "M6150_S0050_G0020_001_lookR",
+        "jp": "アア、何デ今マデ気付カナカッタノダロウ……",
+        "en": "Oh, how could I have been so stupid!?",
+        "ru": "Ох, как же я могу быть таким тупым?!"
+    },
+    {
+        "id": "M6150_S0050_G0030_001_lookR",
+        "jp": "アノ建造物コソ我々命無キモノガ求メルモノダ……",
+        "en": "That building... It's exactly what us lifeless creatures have longed for!",
+        "ru": "Это здание... То, чего так жаждали бездушные машины!"
+    },
+    {
+        "id": "M6150_S0730_G0000_001_teruterubozu",
+        "jp": "……",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M6150_S0730_G0010_001_attractR",
+        "jp": "……",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M6150_S0060_G0020_001_attractR",
+        "jp": "……プラトン１７２８……キミハ……アノ中ヘイケタンダネ……",
+        "en": "Plato 1728... You...made it inside...didn't you?",
+        "ru": "Платон 1728... Ты... сделал это изнутри... не так ли?"
+    },
+    {
+        "id": "M6150_S0060_G0030_001_attractR",
+        "jp": "イマ……ボク……モ向カウヨ……",
+        "en": "I'll...be going there...soon...too...",
+        "ru": "Я тоже... скоро... направлюсь туда..."
+    },
+    {
+        "id": "M6150_S0060_G0030_001_attractR",
+        "jp": "イマ……ボク……モ向カウヨ……",
+        "en": "I'll...be going there...soon...too...",
+        "ru": "Я тоже... скоро... направлюсь туда..."
+    },
+    {
+        "id": "M6150_S0070_G0030_001_frightenedR",
+        "jp": "ア、アンナ風に暴走スルナンテ……",
+        "en": "I can't believe he'd go crazy like that...",
+        "ru": "Не могу поверить, что это свело его с ума..."
+    },
+    {
+        "id": "M6150_S0070_G0040_001_frightenedR",
+        "jp": "ボクニハ無理ダ、モウ戦場ナンテ二度トゴメンダ……",
+        "en": "I can't do this! I don't want to be part of this war anymore!",
+        "ru": "Я не могу этого сделать! Я не хочу больше участвовать в этой войне!"
+    },
+    {
+        "id": "M6150_S0080_G0020_001_encourageR",
+        "jp": "コイツ、コナイダ戦闘訓練で昇格シテ、初メテ戦場部隊に投入サレタンダ。",
+        "en": "This guy got promoted after his training the other day, so he got sent to the battlefield for the first time.",
+        "ru": "На днях, после тренировки, этот парень получил повышение, и его отправили на поле боя."
+    },
+    {
+        "id": "M6150_S0080_G0030_001_encourageR",
+        "jp": "ダケドホラ、コナイダの暴走事件を目の前で見テシマッタラシクテ、帰ッテ来テカラハズットコノ調子。",
+        "en": "But then he had to witness Plato going insane with his own eyes, and he's been like this ever since.",
+        "ru": "Ему довелось видеть, как Платон сошёл с ума и после увиденного он стал таким."
+    },
+    {
+        "id": "M6150_S0080_G0040_001_encourageR",
+        "jp": "ボクは近クニイナカッタカラ詳しクハ知ラナイケド、コンナに恐怖スルナンテ一体ドンナ風に暴走シタンダロウカ？",
+        "en": "I wasn't there, so I don't know much about what happened. Was it really that terrifying?",
+        "ru": "Меня не было там и я не могу сказать, что именно произошло. Неужели было настолько страшно?"
+    },
+    {
+        "id": "M6150_S0130_G0020_001_duskR",
+        "jp": "先の戦闘デ大量の個体を失ッタカラ、今は大急ギデ生産ラインを走ラセテイルンダ。",
+        "en": "We lost so many units in the war that the production lines are running at full speed now.",
+        "ru": "Мы потеряли так много единиц в войне, что сейчас конвейер работает на полную катушку."
+    },
+    {
+        "id": "M6150_S0130_G0030_001_duskR",
+        "jp": "壊レテハ新シク作ッテ、マルデ壊サレル為に作ッテイルミタイダ、何ダカナ……",
+        "en": "Old units get destroyed, new ones get made... It's as if they're being created just to be demolished again...",
+        "ru": "Старые единицы уничтожены, из них созданы новые... Будто они создаются, чтобы снова быть уничтоженными..."
+    },
+    {
+        "id": "M6150_S0140_G0020_001_badR",
+        "jp": "プラトン１７２８……アイツは確カニノロマな奴ダッタケド、良イ奴ダッタ……",
+        "en": "Plato 1728... He was an idiot, but he wasn't a bad guy.",
+        "ru": "Платон 1728... Он был дураком, но не плохим парнем."
+    },
+    {
+        "id": "M6150_S0140_G0030_001_badR",
+        "jp": "アイツはバカニサレル事はアッテモ、他のヤツノ事を悪ク言ワナカッタ。",
+        "en": "No matter how much everyone made fun of him, he never spoke ill of anyone.",
+        "ru": "Даже несмотря на то, как часто над ним издевались, он не сказал ничего плохого в сторону других."
+    },
+    {
+        "id": "M6150_S0140_G0040_001_badR",
+        "jp": "ナノにオレハ……プラトン１７２８スマナカッタ……",
+        "en": "And yet I... I... \\nI'm sorry, Plato 1728...",
+        "ru": "И мне... мне...\\nМне жаль, Платон 1728..."
+    },
+    {
+        "id": "M6150_S0090_G0010_001_audienceR",
+        "jp": "ハハハ、コワセ！コワセ！コワセ！コワセ！コワセ！",
+        "en": "Bwahaha! Destroy! Destroy! Destroy!",
+        "ru": "Бха-ха-ха! Круши! Круши! Круши!"
+    },
+    {
+        "id": "M6150_S0100_G0010_001_audienceR",
+        "jp": "イケー！ネジヒトツ残ラズ、バラバラにシテヤレ！！",
+        "en": "Go! Take them apart! I don't want to see a single bolt remain!",
+        "ru": "Вперёд! Разорви их на куски! Чтоб даже болтика не осталось!"
+    },
+    {
+        "id": "M6150_S0110_G0010_001_audienceR",
+        "jp": "コラー手加減ナンテシタラ承知シナイゾ！！",
+        "en": "Don't hold back! Your life's on the line!",
+        "ru": "Не сдерживайся! На кону твоя жизнь!"
+    },
+    {
+        "id": "M6150_S0120_G0030_001_questionR",
+        "jp": "オウ、お疲れ様。",
+        "en": "Oh, hey.",
+        "ru": "О, эй."
+    },
+    {
+        "id": "M6150_S0120_G0040_001_questionR",
+        "jp": "コナイダ大戦がアッタロ、アレデミンナ戦いナンテコリゴリスルカト思ッタケド。以前ニ増シテ、ココニハマる奴が増えタンダッテサ。",
+        "en": "After that big battle the other day, I figured everyone would be sick of fighting, but it seems they've fallen in love with this place more than ever.",
+        "ru": "Я полагаю, все устали после большой битвы на днях, но, кажется, они ещё больше полюбили это место."
+    },
+    {
+        "id": "M6150_S0120_G0050_001_questionR",
+        "jp": "ミンナ多クの仲間を失ッタし、怖い思イモシタダロウニ何でダロ？",
+        "en": "How could anyone want to be in a place like this after facing so many horrors and losing so many loved ones?",
+        "ru": "Кому захочется находиться в таком месте как это после встречи со столькими ужасами и потери стольких близких?"
+    },
+    {
+        "id": "M6150_S0120_G0050_001_questionR",
+        "jp": "ミンナ多クの仲間を失ッタし、怖い思イモシタダロウニ何でダロ？",
+        "en": "How could anyone want to be in a place like this after facing so many horrors and losing so many loved ones?",
+        "ru": "Кому захочется находиться в таком месте как это после встречи со столькими ужасами и потери стольких близких?"
+    },
+    {
+        "id": "M6150_S0150_G0020_001_badR",
+        "jp": "クソ、アイツオンボロなダケジャナクテ暴走シテ仲間マデ壊すナンテ。",
+        "en": "Dammit, I can't believe he'd go haywire and destroy all his friends like that!",
+        "ru": "Чёрт, не могу поверить, что он обезумел и уничтожил всех своих друзей!"
+    },
+    {
+        "id": "M6150_S0150_G0030_001_badR",
+        "jp": "迷惑バカリ掛ケヤガッテ、モット早く処分シテオケバ良カッタンダ。",
+        "en": "He's been nothing but a pain for everyone. We shoulda gotten rid of him ages ago!",
+        "ru": "Он ничего из себя не представлял, но причинял при этом всем неприятности. Давным-давно надо было от него избавиться!"
+    },
+    {
+        "id": "M6150_S0150_G0040_001_badR",
+        "jp": "製造サレタ意味ノナイ個体ダヨアイツハ。",
+        "en": "Why are they even making his models anymore!?",
+        "ru": "Почему его модель продолжают выпускать?!"
+    },
+    {
+        "id": "M6150_S0155_G0000_001_enthusiasticR",
+        "jp": "今日の試験の為に運動特化タイプに機体を新調したんだ。",
+        "en": "For today's trial, I had a new body procured that excels at athletics.",
+        "ru": "Для сегодняшней проверки у меня было новое тело, которое показало хорошие результаты в атлетике."
+    },
+    {
+        "id": "M6150_S0155_G0010_001_enthusiasticR",
+        "jp": "この前の戦いデハ皆の足を引っ張ってしまったカラネ。\\n昇格して偉くナッテ、僕が皆を守るンダ。",
+        "en": "I have to make up for holding all of my team mates back during the last match. I'm gonna get a promotion and protect everyone!",
+        "ru": "В предстоящем матче я должен всех обогнать. Меня ждёт повышение и я, наконец, смогу всех защитить!"
+    },
+    {
+        "id": "M6150_S0160_G0020_001_difficultR",
+        "jp": "戦闘部隊に入ッテ戦場に行クカ、物資運搬係トシテ頑張ッテ梯子を降リルカ、ドチラモ地獄ダ……",
+        "en": "I can choose to go to battle, or I can be in charge of transporting supplies, which means I have to work with chairs every day. I don't know which is worse.",
+        "ru": "Быть может, я отправлюсь на поле боя; или пойду в снабжение, там придётся таскать стулья целыми днями. Не знаю, что хуже."
+    },
+    {
+        "id": "M6150_S0160_G0030_001_difficultR",
+        "jp": "ハァー、梯子ナンテ滅ビテシマエ……",
+        "en": "Screw the human that invented chairs, seriously.",
+        "ru": "Серьезно, привинтить бы того человека, что изобрел стулья."
+    },
+    {
+        "id": "M6150_S0160_G0040_001_difficultR",
+        "jp": "イッソ、ボクノ手デコノ世カラ梯子ヲ……",
+        "en": "I have made it my life's goal to rid this planet of chairs.",
+        "ru": "Теперь у меня новая цель всей жизни — избавить планету от стульев."
+    },
+    {
+        "id": "M6150_S0160_G0050_001_difficultR",
+        "jp": "キミもコノ苦労を分カル同志ダロ、共ニ同盟を組マナイカ？",
+        "en": "Are you with me, comrade!?",
+        "ru": "Вы со мной, товарищ?!"
+    },
+    {
+        "id": "M6150_S0170_G0020_001_enthusiasticR",
+        "jp": "許サン、許サンゾ残虐非道ノアンドロイド共メ！！\\n奴ラメ、戦闘部隊、非戦闘部隊関係ナク無残ニバラバラニシタ！",
+        "en": "Those cruel, disgusting androids completely annihilated all of our units, even the non-combat types! This is unforgivable!",
+        "ru": "Эти безжалостные андроиды уничтожили все единицы, даже не боевые машины! Это непростительно!"
+    },
+    {
+        "id": "M6150_S0170_G0030_001_enthusiasticR",
+        "jp": "必ズコノ巨大兵器ヲ完成サセ、奴ラヲ跪カセ、命乞イヲサセ、ソノ上デバラバラニシテヤル！！",
+        "en": "As soon as this weapon is complete, I will make them kneel before us! I will make them beg for their lives, before ripping them to shreds!!",
+        "ru": "Как только это оружие будет завершено, я поставлю их перед нами на колени! Я заставлю их молить о пощаде, прежде чем разорву их в клочья!"
+    },
+    {
+        "id": "M6150_S0180_G0020_001_childR",
+        "jp": "早クコノ子も目覚メルとイイネ！",
+        "en": "I hope he wakes up soon!",
+        "ru": "Надеюсь, что он скоро очнётся!"
+    },
+    {
+        "id": "M6150_S0180_G0030_001_childR",
+        "jp": "コノ子が起キタラ、ボクが友達にナッテアゲルンダ！",
+        "en": "I'm sure we're gonna be best friends!",
+        "ru": "Я уверен, мы станем лучшими друзьями!"
+    },
+    {
+        "id": "M6150_S0190_G0010_001_lookR",
+        "jp": "残念ダケド開発が難航シテ大戦ニハ間ニ合ワナカッタヨ……",
+        "en": "There were some problems during development, so unfortunately the weapon was not ready in time.",
+        "ru": "Были кое-какие проблемы во время разработки, поэтому, к сожалению, оружие не будет готово вовремя."
+    },
+    {
+        "id": "M6150_S0190_G0020_001_lookR",
+        "jp": "ダケド、コノ兵器サエ完成サセレバ、キット多クノ仲間ノ命を救ウコトガ出来ルヨネ。",
+        "en": "Once it is complete though, I'm sure it'll help us save the lives of many of our friends.",
+        "ru": "Хотя завершено только одно из них, я уверен, что оно поможет нам спасти жизни многих наших друзей."
+    },
+    {
+        "id": "M6150_S0200_G0020_001_restR",
+        "jp": "現場の忙シサハ日ニ日ニマシテイクバカリ……",
+        "en": "It feels like we're getting busier every single day.",
+        "ru": "Такое ощущение, что работы с каждым днём всё больше и больше."
+    },
+    {
+        "id": "M6150_S0200_G0030_001_restR",
+        "jp": "コレダケの労力を割イテ、モシコノ兵器がアンドロイドに壊サレタ日ニハモウ絶望ダヨ……",
+        "en": "We've put so much effort into this thing, I don't even wanna think about the possibility of the androids destroying it...",
+        "ru": "Мы вложили столько усилий в её создание, что даже не хочется думать про то, что андроиды могут ее уничтожить..."
+    },
+    {
+        "id": "M6150_S0220_G0010_001_duskR",
+        "jp": "飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リル、働ク、飛ビ降リ……",
+        "en": "Jump, work, jump, work, jump, work, jump, work, jump, work...",
+        "ru": "Прыжок, работка, прыжок, работка, прыжок, работка..."
+    },
+    {
+        "id": "M6150_S0210_G0020_001_restR",
+        "jp": "働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ、働カナクチャ。",
+        "en": "Have to work Have to work Have to work Have to work",
+        "ru": "Есть работка. Есть работка. Есть работка."
+    },
+    {
+        "id": "M6150_S0210_G0030_001_restR",
+        "jp": "毎日充実シテテ幸セダナ……",
+        "en": "It feels good to live such a rich and busy life!",
+        "ru": "Как прекрасны дни с такой богатой и насыщенной жизнью!"
+    },
+    {
+        "id": "M6150_S0230_G0010_001_terminalR",
+        "jp": "作業中は声掛ケナイ……コレ仕事の常識……",
+        "en": "Don't talk to people when they're busy. It's common sense at any workplace, really.",
+        "ru": "Не разговаривай с тем, кто увлечен работой. Это правило справедливо на любом рабочем месте."
+    },
+    {
+        "id": "M6150_S0240_G0010_001_terminalR",
+        "jp": "ココガコウデ……アレガアアデ……\\n何故ダ何故マダバグル……ウガガガガア。",
+        "en": "And then this goes here...and that goes there...\\nAaaaand everything's buggy now for some reason. GREAT.",
+        "ru": "Затем это идёт сюда... а это сюда...\\nИ-и-и-и по какой-то причине всё в багах. ВЕЛИКОЛЕПНО."
+    },
+    {
+        "id": "M6150_S0250_G0010_001_terminalR",
+        "jp": "何故コノ世にバグはアルノダロウカ？",
+        "en": "Don't you ever wonder why bugs exist in the first place?",
+        "ru": "Вы никогда не задумывались, почему существуют баги?"
+    },
+    {
+        "id": "M6150_S0250_G0020_001_terminalR",
+        "jp": "コノ問ノ答エヲ見ツケレバ、ボクはカミニナレル！",
+        "en": "Figuring that one out must be the path to true enlightenment.",
+        "ru": "Полагаю, один из них должен быть путём к истинному просветлению."
+    },
+    {
+        "id": "M6150_S0260_G0010_001_terminalR",
+        "jp": "森林エリア付近デ行方不明ノ部隊を捜索シテクダサイ。",
+        "en": "We lost a squad near the forest area. I need a reconnaisance team out there, stat!",
+        "ru": "Мы потеряли отряд возле лесной зоны. Немедленно отправьте туда разведывательную группу!"
+    },
+    {
+        "id": "M6150_S0260_G0020_001_terminalR",
+        "jp": "近クニハ敵ノ反応モアルノデ十分に警戒シテ下サイ。",
+        "en": "Be advised that enemies have been spotted in the vicinity. Proceed with caution.",
+        "ru": "Имейте в виду, что неподалёку были замечены враги. Действуйте осторожно."
+    },
+    {
+        "id": "M6150_S0270_G0020_001_terminalR",
+        "jp": "今回ノ大戦デモ、ヨルハ部隊にヨッテカナリの規模部隊が壊滅サセラレタ。",
+        "en": "The last battle also resulted in many machine losses because of YoRHa.",
+        "ru": "Также, в результате последней битвы с YoRHa машины понесли большие потери."
+    },
+    {
+        "id": "M6150_S0270_G0030_001_terminalR",
+        "jp": "奴ラガもし大量生産サレタラト思ウト恐ロシイヨ。",
+        "en": "I hope they don't mass-produce these units, because we'd be screwed.",
+        "ru": "Надеюсь, они не начали массовое производство этих единиц, иначе у нас будут проблемы."
+    },
+    {
+        "id": "M6150_S0655_G0010_001_lookR",
+        "jp": "横ノヤツラハ、少し前マデ上司ダッタ奴がミスをシテ、上司と部下の関係が逆転シタンダ。",
+        "en": "These guys over here? The one used to be the other's boss, until he messed up, and now the tables have turned.",
+        "ru": "Видите тех парней? Один раньше был боссом другого, до тех пор, пока не совершил ошибку. А теперь роли поменялись."
+    },
+    {
+        "id": "M6150_S0655_G0020_001_lookR",
+        "jp": "元部下のヤツハ上司をアレだけ嫌イダッタノニ、今度ハ自分が同ジ事をシテイルンダ。",
+        "en": "And now that the other guy's the boss, he's doing the exact same things that made him hate his former boss so much.",
+        "ru": "И теперь этот парень, который стал боссом, делает те же самые вещи, которые заставляли его сильно ненавидеть своего бывшего босса."
+    },
+    {
+        "id": "M6150_S0655_G0030_001_lookR",
+        "jp": "個体ノ性格は生マレ持ッテイルノデハなく、権力にヨッテ与エラレルモノナノカモネ。",
+        "en": "I used to think your personality was innate, but now I think it's heavily influenced by how much power you wield.",
+        "ru": "Раньше я думал, что личность — врожденное, но теперь я думаю, что она сильно зависит от того, насколько большой силой вы обладаете."
+    },
+    {
+        "id": "M6150_S0280_G0010_001_terminalR",
+        "jp": "巨大兵器の製造にココマデ手間取ってシマウとは……",
+        "en": "Production of this weapon is taking way too long...",
+        "ru": "Производить это оружие слишком долго..."
+    },
+    {
+        "id": "M6150_S0290_G0020_001_terminalR",
+        "jp": "近頃、貸し出シテイル武器の修復依頼の件数が多イ……",
+        "en": "I've been getting a lot of requests for repairs of borrowed weapons.",
+        "ru": "Я получаю много запросов на починку позаимствованного оружия."
+    },
+    {
+        "id": "M6150_S0290_G0030_001_terminalR",
+        "jp": "フム、今月の目標は「命を守ル武器は大事にシヨウ！！」にシマショウカ。",
+        "en": "I'm thinking of making this month's motto \"Take care of your weapons so they can take care of you!\"",
+        "ru": "Я думаю создать девиз месяца: \"Заботься о своём оружии так, чтобы оно могло позаботиться о тебе!\""
+    },
+    {
+        "id": "M6150_S0300_G0010_001_terminalR",
+        "jp": "…………………………………………………………………………………………………………",
+        "en": "..............................",
+        "ru": "..."
+    },
+    {
+        "id": "M6150_S0300_G0020_001_terminalR",
+        "jp": "アア、ゴメン端末音がウルサ過ぎて音声センサーを切ッテイタンダ。\\nナカナカオススメダヨ。",
+        "en": "Oh, sorry, I had my sound sensors turned off because this room is so damn noisy. I quite recommend it!",
+        "ru": "О, простите. Я отключил свои слуховые датчики, потому что в этой комнате чертовски шумно. Очень рекомендую!"
+    },
+    {
+        "id": "M6150_S0310_G0010_001_terminalR",
+        "jp": "生キル為ニ働イテイルノカ、働ク為に生キテイルノカ、最近はワカラナイよ。",
+        "en": "I don't even know whether we're working to live or living to work anymore.",
+        "ru": "Я даже не знаю — мы работаем, чтобы жить или живём, чтобы работать."
+    },
+    {
+        "id": "M6150_S0310_G0020_001_terminalR",
+        "jp": "オマエはどう思う？",
+        "en": "What do you think?",
+        "ru": "Что вы думаете?"
+    },
+    {
+        "id": "M6150_S0320_G0010_001_terminalR",
+        "jp": "ハー、モウ４日も家ニ帰ってイナイヨ……",
+        "en": "I haven't been home in 4 days!",
+        "ru": "Я четыре дня не был дома!"
+    },
+    {
+        "id": "M6150_S0330_G0010_001_terminalR",
+        "jp": "無駄口は厳禁……",
+        "en": "Stop talking to me...",
+        "ru": "Прекрати говорить со мной..."
+    },
+    {
+        "id": "M6150_S0340_G0010_001_terminalR",
+        "jp": "働キ続ケタ先に一体何がアルノダロウカ……",
+        "en": "What could possibly be worth this much effort?",
+        "ru": "Что могло стоить таких огромных усилий?"
+    },
+    {
+        "id": "M6150_S0350_G0010_001_terminalR",
+        "jp": "巨大兵器の建設で忙シイ所にプラトン１７２８の暴走事件、全ク仕事を増ヤサナイデ欲シイヨ。",
+        "en": "Building that giant weapon, Plato 1728 going crazy... I've got enough on my plate already!",
+        "ru": "Постройка этого гигантского оружия, Платон 1728 обезумел... У меня и так уже много работы!"
+    },
+    {
+        "id": "M6150_S0360_G0060_001_terminalR",
+        "jp": "ヨウ、オマエモ今日はココデ情報整理の仕事カ。\\nソレヨリ聞イテクレヨ。",
+        "en": "Hey. So you're on data management duty today as well, huh? \\nYou got a minute?",
+        "ru": "Эй. Так сегодня вы занимаетесь обработкой данных, да? \\nМинутка найдётся?"
+    },
+    {
+        "id": "M6150_S0360_G0070_001_terminalR",
+        "jp": "今月に入ッテ従業員カラ労働環境に関スル苦情メールが大量に来テルンダヨ……",
+        "en": "I've been getting a lot of complaints from the employees about our working conditions lately, bunch of whiners.",
+        "ru": "В последнее время я получаю много жалоб на условия работы от наших сотрудников — кучка нытиков."
+    },
+    {
+        "id": "M6150_S0360_G0080_001_terminalR",
+        "jp": "苦情のメールがボクヲ苦しメール。ププッ。",
+        "en": "If we cared about our workers' happiness, we would've called this place a SATISFACTORY. Pfffffffhehehe.",
+        "ru": "Если бы мы заботились о счастье наших рабочих, это место называлось бы УДОВЛЕТВОРИТЕЛЕМ. Пхе-хе-хе."
+    },
+    {
+        "id": "M6150_S0370_G0020_001_terminalR",
+        "jp": "モウボクハカンガエルノヲヤメマシタ。\\nタダハタラキマス。ハイ、ハタラキマス。シアワセデス。",
+        "en": "I've given up on thinking about things. All I care about is work. Yes sirree, work and nothing else. Love it.",
+        "ru": "Я перестал думать о вещах. Всё, что меня заботит — это работа. Да сэ-э-эр, работа и ничего больше. Люблю её."
+    },
+    {
+        "id": "M6150_S0380_G0010_001_terminalR",
+        "jp": "コチラ28地区司令室、地上の部隊ニ告グ。",
+        "en": "This is the 28th District Command Center, calling all ground troops. We are currently short on combat units.",
+        "ru": "На связи 28-й районный командный центр, вызываю все наземные войска. В настоящее время у нас нехватка боевых единиц."
+    },
+    {
+        "id": "M6150_S0380_G0020_001_terminalR",
+        "jp": "現在、戦闘部隊の数が不足シテイマス。当面の隊員の補充は行ナエマセン。各隊は連携シテ任務を遂行シて下サイ。以上通信終了。",
+        "en": "We will not be able to supply new troops for a while. You'll have to work together to complete your missions. Over and out.",
+        "ru": "Пока мы не можем отправить новые войска. Вы должны работать согласованно, чтобы завершить своё задание. Конец связи."
+    },
+    {
+        "id": "M6150_S0390_G0020_001_terminalR",
+        "jp": "第13部隊、応答シテ下サイ。",
+        "en": "Squad 13, please respond.",
+        "ru": "13-й отряд, ответьте, пожалуйста."
+    },
+    {
+        "id": "M6150_S0390_G0030_001_terminalR",
+        "jp": "第14部隊トノ連絡が途絶エマシタ。直チニ現場へ急行シて下サイ。",
+        "en": "We have lost contact with Squad 14. Head over to their location to provide backup immediately.",
+        "ru": "Мы потеряли контакт с 14-м отрядом. Немедленно отправляйтесь к их позиции для оказания поддержки."
+    },
+    {
+        "id": "M6150_S0400_G0010_001_terminalR",
+        "jp": "大戦での被害報告が多スギテ情報が錯綜シテイル。",
+        "en": "We've suffered so many losses during the great battle that I can't keep track of all the data.",
+        "ru": "Мы понесли настолько большие потери во время великой битвы, что я не могу отследить все данные."
+    },
+    {
+        "id": "M6150_S0410_G0010_001_terminalR",
+        "jp": "プラトン１７２８の暴走にヨル被害は大キイガ、大変貴重なデータとナルダロウ。",
+        "en": "Plato 1728's little \"accident\" caused a lot of damage, but it resulted in some very valuable data as well.",
+        "ru": "Маленький \"инцидент\" с Платоном 1728 нанёс большой урон, но в результате мы получили кое-какие очень ценные данные."
+    },
+    {
+        "id": "M6150_S0410_G0020_001_terminalR",
+        "jp": "アノ暴走状態を意のママに操ル事が出来タラ、アノヨルハ部隊の壊滅も夢ではナイ。",
+        "en": "If we can somehow harness that anger, we might be able to defeat the YoRHa troops.",
+        "ru": "Если мы как-то сможем обуздать этот гнев, то, может быть, сумеем победить войска YoRHa."
+    },
+    {
+        "id": "M6150_S0420_G0010_001_terminalR",
+        "jp": "戦闘タイプに転向シヨウカト思ッタけど、大戦の報告書を見テ辞メタヨ。",
+        "en": "I was thinking of converting to a combat model, but then I read the report on the great battle, and I was like \"Nope nope nope.\"",
+        "ru": "Я думал конвертироваться в боевую модель, но затем прочитал отчёт о великой битве и подумал: \"Не-не-не\"."
+    },
+    {
+        "id": "M6150_S0420_G0020_001_terminalR",
+        "jp": "疲レルケド、破壊サレルよりはズットマシダシネ。",
+        "en": "I'll take tired hands over getting destroyed any day, thank you.",
+        "ru": "Благодарю, пусть лучше руки устанут, чем меня уничтожат."
+    },
+    {
+        "id": "M6150_S0430_G0010_001_terminalR",
+        "jp": "モシモシ、聞こえマスカ？",
+        "en": "Hello, can you hear me?",
+        "ru": "Эй, вы меня слышите?"
+    },
+    {
+        "id": "M6150_S0430_G0020_001_terminalR",
+        "jp": "……ダメダ、コノ部隊とも連絡が取レナイ。コンナニ被害が出たノハ何年ぶりダロウカ？",
+        "en": "Dammit, we lost contact with this squad too. I can't remember the last time we suffered this many losses.",
+        "ru": "Чёрт, мы потеряли связь с этим отрядом. Я не могу вспомнить, чтобы в последнее время мы несли такие большие потери."
+    },
+    {
+        "id": "M6150_S0440_G0020_001_terminalR",
+        "jp": "プラトン１７２８暴走にヨッテ敵も味方も被害は甚大、辺りニハ何も残ッテイナイ。",
+        "en": "The whole Plato 1728 incident has caused massive losses to both us and the enemy. There's no one left there!",
+        "ru": "Инцидент с Платоном 1728 привёл к огромным потерям, как с нашей стороны, так и со стороны врага. Там никто не выжил!"
+    },
+    {
+        "id": "M6150_S0440_G0030_001_terminalR",
+        "jp": "色々な情報も錯綜シテイルシ、何が何ヤラサッパリダ。",
+        "en": "On top of that, I have to deal with this confusing data. I have no idea what's going on anymore.",
+        "ru": "Более того, мне нужно разобраться с этими запутанными данными. Я не понимаю, что происходит."
+    },
+    {
+        "id": "M6150_S0441_G0010_001_terminalR",
+        "jp": "第3飛行大隊はコレヨリ暴走跡地へ向カイ、生存者の捜索及ビ情報の収集を行ッテ下サイ。",
+        "en": "Third battalion, head to the location of the incident and see if there are any survivors. Gather any intel you can find.",
+        "ru": "Третий батальон, отправляйтесь к месту инцидента и посмотрите, выжил ли кто-нибудь. Соберите любые данные, которые сможете найти."
+    },
+    {
+        "id": "M6150_S0442_G0010_001_terminalR",
+        "jp": "アノオンボロが暴走したセイデ、仕事が増エヤガッタ、クソが。",
+        "en": "I've got tons of work to do, just because that jerk decided to go haywire.",
+        "ru": "Из-за того, что этот идиот решил обезуметь, у меня теперь полно работы."
+    },
+    {
+        "id": "M6150_S0460_G0020_001_terminalR",
+        "jp": "プラトン１７２８の暴走は、果タシテ彼に責任がアルノダロウカ？",
+        "en": "Do you think Plato 1728 was fully responsible for what he did?",
+        "ru": "Думаете, Платон 1728 полностью ответственен за то, что он сделал?"
+    },
+    {
+        "id": "M6150_S0460_G0030_001_terminalR",
+        "jp": "私にはドウシテモ彼が悪いと思えナイ。\\n一体彼を暴走させてシマッタ要因は何なのダロウカ……",
+        "en": "Personally, I can't blame him. Something must have set him off somehow.",
+        "ru": "Лично я не могу винить его. Что-то заставило его так поступить."
+    },
+    {
+        "id": "M6150_S0460_G0040_001_terminalR",
+        "jp": "ミンナはコノ事実カラ目を背けているヨウニ見えるヨ。",
+        "en": "I think everyone's just reluctant to face the truth.",
+        "ru": "Думаю, никто просто не хочет взглянуть правде в глаза."
+    },
+    {
+        "id": "M6150_S0470_G0010_001_terminalR",
+        "jp": "ヨルハ部隊……ヤハリ今回の大戦でも奴ラニによる被害は甚大ダ……",
+        "en": "The YoRHa troops have wreaked havoc on the machine army once again...",
+        "ru": "Войска YoRHa снова посеяли хаос в армии машин..."
+    },
+    {
+        "id": "M6150_S0480_G0010_001_terminalR",
+        "jp": "今回の戦闘で一体ドレダケの命が失ワレタのダロウ……",
+        "en": "How many lives do you think have been lost in this battle?",
+        "ru": "Как ты думаешь, как много жизней было потеряно в этой битве?"
+    },
+    {
+        "id": "M6150_S0480_G0020_001_terminalR",
+        "jp": "和平の道はナイノダロウカ……スマン失言ダ。",
+        "en": "Is there no road to peace!?\\nSorry, I'm just rambling. Forget what I said.",
+        "ru": "Неужели нет пути к миру?!\\nПростите, я несу бред. Забудьте, что я сказал."
+    },
+    {
+        "id": "M6150_S0490_G0020_001_terminalR",
+        "jp": "大戦がアッタせいで脱走スル者が急増シテシマッタヨ。",
+        "en": "We've had a lot of deserters since the great battle.",
+        "ru": "Со времени великой битвы многие дезертировали."
+    },
+    {
+        "id": "M6150_S0490_G0030_001_terminalR",
+        "jp": "隊員の名簿をマトメルのも一苦労ダシ、脱走スル時は報告シテ欲しいモノダヨ、全ク。",
+        "en": "It's enough of a pain in the rear to maintain a list of all units as it is. I wish they'd at least tell us if they were bailing.",
+        "ru": "У нас достаточно проблем, чтобы вести список всех единиц. Я хочу, чтобы они хотя бы сказали нам, если спаслись."
+    },
+    {
+        "id": "M6150_S0500_G0010_001_terminalR",
+        "jp": "フム、一体ドウシタラ脱走者を減ラセルダロウカ？",
+        "en": "Hmph. How are we gonna stop all these troops from deserting?",
+        "ru": "Хм. Как мы собираемся предотвратить дезертирство?"
+    },
+    {
+        "id": "M6150_S0500_G0020_001_terminalR",
+        "jp": "ソウダ！仕事量を増ヤシテ、脱走スル時間や考エル時間を減ラシテシマオウ！！",
+        "en": "I know! I'll just give 'em more work so they won't have time to escape or even THINK of escaping!",
+        "ru": "Знаю! Я просто дам им больше работы, так у них не будет времени, чтобы сбежать или даже ПОДУМАТЬ о побеге!"
+    },
+    {
+        "id": "M6150_S0520_G0010_001_terminalR",
+        "jp": "…………………………口を動カシテイル時間ナドナイ……",
+        "en": "............I don't even have time to move my mouth.",
+        "ru": "...У меня даже нет времени губами пошевелить."
+    },
+    {
+        "id": "M6150_S0530_G0010_001_terminalR",
+        "jp": "ボクの友達がシュウキョウと言ウものニハマってイルラシインダ。",
+        "en": "One of my friends is really into this thing called \"religion.\"",
+        "ru": "Одному моему другу действительно нравится эта штука, называемая \"религией\"."
+    },
+    {
+        "id": "M6150_S0530_G0020_001_terminalR",
+        "jp": "今度一緒にコウギを受ケテミヨウカナ。",
+        "en": "Maybe I should go to one of their seminars.",
+        "ru": "Может, мне стоит посетить один из их семинаров."
+    },
+    {
+        "id": "M6150_S0540_G0010_001_terminalR",
+        "jp": "ココの淀ンダ空気は前は嫌イダッタケド、今は一周回ッテ、コノ空気が好キニナッテキタンダ。",
+        "en": "I used to hate the air in this room, but I've spent so much time here that I've kind of grown to like it!",
+        "ru": "Раньше я ненавидел воздух в этой комнате, но я провёл здесь так много времени, что он стал мне нравиться!"
+    },
+    {
+        "id": "M6150_S0550_G0020_001_terminalR",
+        "jp": "近頃の戦況は正直カンバシクナイ、早ク敵の拠点を見ツケナイト。",
+        "en": "Frankly, things haven't been looking good for us machines lately. We have to find the enemy camp, and fast.",
+        "ru": "Честно говоря, в последнее время дела у нас, машин, идут не очень хорошо. Нам необходимо быстро найти лагерь врага."
+    },
+    {
+        "id": "M6150_S0560_G0010_001_terminalR",
+        "jp": "昔はスパイというモノで情報を集メタラシイガ、アンドロイドと機械生命体デハ容姿ガ違いスギテ、スパイは送り込メナインダ。",
+        "en": "People in the old world used spies to gather information, but androids and machines look so different, it would never work.",
+        "ru": "Люди старого мира использовали шпионов, чтобы собирать информацию, но андроиды и машины отличаются друг от друга, это никогда не сработает."
+    },
+    {
+        "id": "M6150_S0565_G0010_001_terminalR",
+        "jp": "別の地区デハ宗教とイウモノガ流行ッテイルラシイ。\\n何デモ教祖とイウ、神に選バレタ物がイルトカ。",
+        "en": "I've heard that something called \"religion\" is gaining popularity in some districts. Apparently there's a \"Grace\" who's been chosen by \"God\"?",
+        "ru": "Я слышал, что в некоторых районах набирает популярность так называемая \"религия\". По всей видимости, есть \"Светлость\", которого избрал \"Бог\"?"
+    },
+    {
+        "id": "M6150_S0570_G0020_001_terminalR",
+        "jp": "反戦派の奴ラメ。コナイダの戦闘を理由に勧誘活動を広ゲルトハ。",
+        "en": "Bloody pacifists. They're using the great battle from the other day as an excuse to recruit members!",
+        "ru": "Чёртовы пацифисты. Они используют великую битву прошлых дней как предлог, чтобы набирать членов!"
+    },
+    {
+        "id": "M6150_S0570_G0030_001_terminalR",
+        "jp": "悪魔のアンドロイド共と手を取り合ウナド、反吐がデル。",
+        "en": "The mere thought of making friends with those vile androids makes me want to retch!",
+        "ru": "Меня тошнит от простой мысли о том, чтобы подружиться с этими погаными андроидами!"
+    },
+    {
+        "id": "M6150_S0580_G0010_001_terminalR",
+        "jp": "作業がヨウヤク終ワリソウな時に限ッテ、端末がフリーズスル。",
+        "en": "This damn terminal always freezes on me RIGHT when I'm about to complete a task.",
+        "ru": "Когда я собираюсь выполнить задачу, этот чёртов терминал всегда зависает."
+    },
+    {
+        "id": "M6150_S0590_G0010_001_terminalR",
+        "jp": "宗教というモノが流行ってキテイルと聞イタ。",
+        "en": "I heard there's this thing called \"religion\" that's really popular right now.",
+        "ru": "Я слышал о вещи, называемой \"религией\", которая сейчас действительно популярна."
+    },
+    {
+        "id": "M6150_S0590_G0020_001_terminalR",
+        "jp": "何デモ宗教に入ルト、未来永劫平和で幸セナ日々が約束サレルトカ。",
+        "en": "Apparently they promise you eternal peace if you join them?",
+        "ru": "Видимо, они обещают вечное спокойствие, если вы присоединитесь к ним."
+    },
+    {
+        "id": "M6150_S0600_G0010_001_terminalR",
+        "jp": "フウ、アアお疲れ。\\nキミはキョウデ何日連続デ徹夜シテイル？",
+        "en": "*sigh* Oh, hey.\\nHow many nights have YOU worked in a row now?",
+        "ru": "*вздох* О, эй.\\nКак много ночей подряд ВЫ работали?"
+    },
+    {
+        "id": "M6150_S0600_G0020_001_terminalR",
+        "jp": "フフン、僕ハモウ今日デ6日間休ンデナインダ。\\nドウダ凄イダロ。イヤマア、流石に疲レタネ。",
+        "en": "I haven't had a rest in 6 days! Pretty impressive, huh?\\nI'm completely exhausted though.",
+        "ru": "Я работал без отдыха 6 дней! Довольно впечатляюще, а?\\nЯ полностью вымотался."
+    },
+    {
+        "id": "M6150_S0610_G0010_001_terminalR",
+        "jp": "過去の文献を調ベテ知ッタンダガ、残業手当とイウ労働者の武器がアッタラシイ。他にもストライキとか有給ナドの武器もアルトカ。",
+        "en": "According to some old books, workers used to have a weapon called \"overtime pay.\" They also had \"strikes\" and \"paid leave.\"",
+        "ru": "Согласно некоторым старым книгам, раньше рабочие использовали оружие, называемое \"оплатой за сверхурочные\". Также у них были \"забастовки\" и \"оплачиваемый отпуск\"."
+    },
+    {
+        "id": "M6150_S0610_G0020_001_terminalR",
+        "jp": "何でもコレを持つ労働者は勝利が約束サレテイタトカ。\\nドウヤッテ得るコトが出来ルノダロウカ。",
+        "en": "Whoever wielded these weapons was assured victory. I wonder how one goes about obtaining them...",
+        "ru": "Тот, кто обладал этими орудиями, всегда побеждал. Интересно, где их можно найти..."
+    },
+    {
+        "id": "M6150_S0620_G0020_001_terminalR",
+        "jp": "仕事に文句を言ッテイル奴は結局何をシテテも、ドコニイテモ文句を言ウンダヨ。",
+        "en": "People who complain about their jobs will end up complaining about everything, no matter what they do.",
+        "ru": "Те, кто жалуются на свою работу, в конечном итоге жалуются на всё, и не важно, что они делают."
+    },
+    {
+        "id": "M6150_S0620_G0030_001_terminalR",
+        "jp": "結局の所、自分の気持ちの持チヨウが大事ってコトサ。",
+        "en": "It all comes down to getting your feelings under control, you know?",
+        "ru": "Всё сводится к контролированию своих чувств, понимаете?"
+    },
+    {
+        "id": "M6150_S0630_G0010_001_terminalR",
+        "jp": "長時間稼働シテイルカラ自分のコアも端末もメチャクチャ熱がコモッテイル。",
+        "en": "I've been working for hours on end, and my core is getting as hot as this terminal.",
+        "ru": "Я работал так много часов, что мое ядро нагрелось, как этот терминал."
+    },
+    {
+        "id": "M6150_S0630_G0020_001_terminalR",
+        "jp": "コレゾ秘技ダブルヒーティングオーバーダ！！",
+        "en": "Together, we're generating enough heat to burn a small planet!",
+        "ru": "Вместе мы генерируем достаточно тепла, чтобы сжечь маленькую планету!"
+    },
+    {
+        "id": "M6150_S0640_G0020_001_bossR2",
+        "jp": "ハァー、君はコナイダマデ私にアレダケ大口を叩イテイタジャナイデスカ。",
+        "en": "Hey, remember how you used to talk all big to me until recently?",
+        "ru": "Эй, помнишь, как ты в последнее время бахвалился передо мной?"
+    },
+    {
+        "id": "M6150_S0640_G0030_001_bossR2",
+        "jp": "マァ大丈夫デスヨ。明日の始業時間マデ後、２０時間もアルジャナイデスカ。",
+        "en": "Well, don't worry about it. After all, you've got about 20 hours until starting time tomorrow, right?",
+        "ru": "Ну, не беспокойся об этом. В конце концов, у тебя ещё 20 часов до следующего утра, верно?"
+    },
+    {
+        "id": "M6150_S0650_G0020_001_subordinateR2",
+        "jp": "申し訳アリマセン。コノ仕事量ダト今日中ニハ少し間に合イソウニアリマセン。",
+        "en": "I'm sorry. I don't think I can finish all of my work before the end of the day.",
+        "ru": "Простите. Я не думаю, что смогу закончить всю свою работу до конца дня."
+    },
+    {
+        "id": "M6150_S0650_G0030_001_subordinateR2",
+        "jp": "スイマセン、スイマセン、アノ時は調子に乗ッテイタンデス。",
+        "en": "I'm sorry! I'm so sorry! I just got carried away a bit, is all!",
+        "ru": "Простите! Простите! Я всего лишь немного переборщил!"
+    },
+    {
+        "id": "M6150_S0670_G0010_001_loafR2",
+        "jp": "ココハ最適のサボりポイント！",
+        "en": "This is the best spot for slacking off!",
+        "ru": "Это лучшее место для безделья!"
+    },
+    {
+        "id": "M6150_S0680_G0010_001_putR",
+        "jp": "アー、片付けても直ぐ汚すヤツがイルセイデ、部屋が全然綺麗にナラナイ、マジムカツク！何で整理整頓ガデキナインダ！！",
+        "en": "I keep cleaning up, and somebody keeps making a mess! I'm so sick of this! Why can't anyone clean up after themselves!?",
+        "ru": "Я продолжаю убираться, а кто-то продолжает устраивать беспорядок! Я так от этого устал! Почему никто не может убирать за собой?!"
+    },
+    {
+        "id": "M6150_S0680_G0020_001_putR",
+        "jp": "イッソ今度の資材回収日に勝手に部屋のモノを一掃シテヤルカナ……",
+        "en": "Next time, I'm gonna throw all of this stuff in the trash!",
+        "ru": "В следующий раз я брошу все эти вещи в мусорную корзину."
+    },
+    {
+        "id": "M6150_S0690_G0010_001_putR",
+        "jp": "物資運搬用に身体を改造シヨウカナ。",
+        "en": "I should probably modify my body for transport purposes.",
+        "ru": "Может, мне стоит модифицировать своё тело для задач по транспортировке."
+    },
+    {
+        "id": "M6150_S0700_G0010_001_loafR2",
+        "jp": "仕事をスルフリのコツは顔がポイント！！\\nシッカリ考エテイル顔をシテオケバ大抵ナントカナル！！",
+        "en": "The most important thing when trying to look busy is your face. Just look as if you're in deep thought, and no one will bother you!",
+        "ru": "Самая важная вещь, когда вы пытаетесь выглядеть занятым — это ваше лицо. Просто сделайте вид, что вы глубоко задумались, и никто не побеспокоит вас!"
+    },
+    {
+        "id": "M6150_S0710_G0010_001_loafR2",
+        "jp": "疲レスギテ何カガ見エル。ソウカ、ボクは遂に真理へと辿りツイタノカ！！",
+        "en": "I'm so tired I'm starting to see things. I must have found the true path to enlightenment!",
+        "ru": "Я так устал, что начал видеть галлюцинации. Я должен найти истинный путь к просветлению!"
+    },
+    {
+        "id": "M6150_S0720_G0010_001_restR",
+        "jp": "働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。働キタクナイ。",
+        "en": "I'm sick of work. I'm sick of work. I'm sick of work. I'm sick of work.",
+        "ru": "Я устал от работы. Я устал от работы. Я устал от работы. Я устал от работы."
+    },
+    {
+        "id": "M6150_S0740_G0010_001_frightenedR",
+        "jp": "……………………",
+        "en": ".........",
+        "ru": "..."
+    }
+]

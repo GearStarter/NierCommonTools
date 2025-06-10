@@ -1,0 +1,50 @@
+[
+    {
+        "id": "M5091_S0050_G0000_001_apolorobo",
+        "jp": "ワワー！ココハ、マダ閉マッテルヨ！デモ気ニシナイデ！",
+        "en": "Whoa there! This place is still closed, kind sir and/or madam! But fret not!",
+        "ru": "Кто здесь?! Это место ещё закрыто, уважаемый сэр и/или мадам! Но не беспокойтесь!"
+    },
+    {
+        "id": "M5091_S0050_G0010_001_apolorobo",
+        "jp": "ココニハ大シタモノナンテナイ！気ニセズ先ニススンデチョーダイナ！",
+        "en": "There is absolutely NOTHING of value here! So don't let it distract you and run along now!",
+        "ru": "Здесь нет абсолютно НИЧЕГО ценного! Поэтому вам здесь делать нечего, а теперь убегайте как можно дальше!"
+    },
+    {
+        "id": "M5091_S0050_G0020_001_apolorobo",
+        "jp": "ダケド、セッカクココヲ見ツケタノニ手ブラデ帰ス訳ニハイカナイナ。",
+        "en": "Hmmm...but I can't just send you off empty-handed, now can I?",
+        "ru": "Хм... Но я же не могу вас отпустить с пустыми руками, верно?"
+    },
+    {
+        "id": "M5091_S0050_G0030_001_apolorobo",
+        "jp": "ナニカアゲタイケド、ボクハイイモノ持ッテナイシ。ウーン、ソウダナァ……",
+        "en": "I'd love to give you a souvenir of some kind, but I have nothing on me right now. What to do, what to do...?",
+        "ru": "Я с удовольствием дал бы вам какой-нибудь хороший сувенир, но прямо сейчас у меня ничего нет. Что же делать, что же делать?.."
+    },
+    {
+        "id": "M5091_S0050_G0040_001_apolorobo",
+        "jp": "ワカッタ！ボクハ、今カラ、爆死スル！",
+        "en": "I know! I shall self-destruct for your convenience!",
+        "ru": "Знаю! Я самоуничтожусь для вас!"
+    },
+    {
+        "id": "M5091_S0050_G0050_001_apolorobo",
+        "jp": "ソウスレバ幾バクカノ素材ガ飛ビ散ルヨ。ソレヲ君ニアゲル！\\n君ハ、ムシロ、シヤワセモノダヨ？",
+        "en": "This will result in a rain of useful materials. They are yours to keep! Ah yes, fortune smiles upon you today!",
+        "ru": "И в результате появится куча полезных материалов. Они ваши, забирайте! Ах, сегодня вам крупно повезло!"
+    },
+    {
+        "id": "M5091_S0050_G0060_001_apolorobo",
+        "jp": "素材ヲ拾ッタラ、ココデミタコトハ忘レルンダヨ。",
+        "en": "Once you've collected my gifts, please forget everything you saw here.",
+        "ru": "Как только соберёте мои подарки, пожалуйста, забудьте обо всём, что здесь видели."
+    },
+    {
+        "id": "M5091_S0050_G0070_001_apolorobo",
+        "jp": "……約束シタカラネ！ジャアネ！！",
+        "en": "That's a promise, you hear? Goodbye!",
+        "ru": "Это обещание, слышите? Прощайте!"
+    }
+]

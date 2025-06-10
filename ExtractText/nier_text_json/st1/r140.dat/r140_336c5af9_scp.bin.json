@@ -1,0 +1,398 @@
+[
+    {
+        "id": "M5250_S0010_G0010_001_a9s",
+        "jp": "ちょっと聞きたい事があるんだけど……",
+        "en": "I wanted to ask you something.",
+        "ru": "Я хочу спросить кое-что."
+    },
+    {
+        "id": "M5250_S0010_G0020_001_sele",
+        "jp": "平和主義について聞く。",
+        "en": "Ask about being pacifists.",
+        "ru": "Спросить о жизни пацифистов."
+    },
+    {
+        "id": "M5250_S0010_G0030_001_sele",
+        "jp": "村での暮らしについて聞く。",
+        "en": "Ask about life in the village.",
+        "ru": "Спросить о жизни в деревне."
+    },
+    {
+        "id": "M5250_S0010_G0040_001_sele",
+        "jp": "店舗について聞く。",
+        "en": "Ask about the shop.",
+        "ru": "Спросить о магазине."
+    },
+    {
+        "id": "M5250_S0010_G0010_001_a9s",
+        "jp": "ちょっと聞きたい事があるんだけど……",
+        "en": "I wanted to ask you something.",
+        "ru": "Я хочу спросить кое-что."
+    },
+    {
+        "id": "M5250_S0010_G0030_001_sele",
+        "jp": "村での暮らしについて聞く。",
+        "en": "Ask about life in the village.",
+        "ru": "Спросить о жизни в деревне."
+    },
+    {
+        "id": "M5250_S0010_G0040_001_sele",
+        "jp": "店舗について聞く。",
+        "en": "Ask about the shop.",
+        "ru": "Спросить о магазине."
+    },
+    {
+        "id": "M5250_S0010_G0010_001_a9s",
+        "jp": "ちょっと聞きたい事があるんだけど……",
+        "en": "I wanted to ask you something.",
+        "ru": "Я хочу спросить кое-что."
+    },
+    {
+        "id": "M5250_S0010_G0040_001_sele",
+        "jp": "店舗について聞く。",
+        "en": "Ask about the shop.",
+        "ru": "Спросить о магазине."
+    },
+    {
+        "id": "M5250_S0010_G0010_001_a9s",
+        "jp": "ちょっと聞きたい事があるんだけど……",
+        "en": "I wanted to ask you something.",
+        "ru": "Я хочу спросить кое-что."
+    },
+    {
+        "id": "M5250_S0010_G0020_001_sele",
+        "jp": "平和主義について聞く。",
+        "en": "Ask about being pacifists.",
+        "ru": "Спросить о жизни пацифистов."
+    },
+    {
+        "id": "M5250_S0010_G0040_001_sele",
+        "jp": "店舗について聞く。",
+        "en": "Ask about the shop.",
+        "ru": "Спросить о магазине."
+    },
+    {
+        "id": "M5250_S0010_G0010_001_a9s",
+        "jp": "ちょっと聞きたい事があるんだけど……",
+        "en": "I wanted to ask you something.",
+        "ru": "Я хочу спросить кое-что."
+    },
+    {
+        "id": "M5250_S0010_G0040_001_sele",
+        "jp": "店舗について聞く。",
+        "en": "Ask about the shop.",
+        "ru": "Спросить о магазине."
+    },
+    {
+        "id": "M5250_S0010_G0000_001_pascal",
+        "jp": "あら、９Ｓさん。どうされました？",
+        "en": "Hello, 9S. What's on your mind?",
+        "ru": "Привет, 9S. О чём задумался?"
+    },
+    {
+        "id": "M5250_S0010_G0050_001_pascal",
+        "jp": "ああ……私達が争いを嫌う理由ですか。",
+        "en": "Ah... You wish to know the reason we in the village detest fighting?",
+        "ru": "А... Ты желаешь знать причины, по которым деревня ненавидит сражения?"
+    },
+    {
+        "id": "M5250_S0010_G0060_001_pascal",
+        "jp": "一言では言いづらいのですが、本質的には戦う意味を喪失してしまったからでしょうか。",
+        "en": "Well, it's a bit of a heady concept, but in the end, I suppose it's because conflict has ceased to have meaning for us.",
+        "ru": "Ну, причин довольно много, но в основном, я полагаю, потому что война перестала иметь для нас значение."
+    },
+    {
+        "id": "M5250_S0010_G0070_001_a9s",
+        "jp": "……よくわからないな。",
+        "en": "Care to explain?",
+        "ru": "Не хочешь объяснить?"
+    },
+    {
+        "id": "M5250_S0010_G0080_001_pascal",
+        "jp": "私達は戦争をする為に生み出された兵器です。\\nしかし、戦争は長く続きすぎました。",
+        "en": "We machines are weapons created for the purpose of waging war. However, this war simply goes on and on with no end in sight.",
+        "ru": "Мы, машины — оружие, созданное для ведения войны. Однако эта война просто продолжается, и ей нет конца."
+    },
+    {
+        "id": "M5250_S0010_G0090_001_pascal",
+        "jp": "戦争勝利によってもたらされるメリットよりも、個人のデメリットの総和の方が大きくなってしまった事に気づいたのです。",
+        "en": "We have come to realize that the cost of fighting for us as individuals far outweighs any benefits that victory might bring.",
+        "ru": "Мы пришли к осознанию, что затраты на сражения для нас, как личностей, сильно перевешивают любую выгоду, которую может принести победа."
+    },
+    {
+        "id": "M5250_S0010_G0100_001_pascal",
+        "jp": "アンドロイドと機械生命体が和平を結ぶ日も来ると思いますよ。",
+        "en": "I believe we will eventually live to see a day when androids and machine lifeforms are able to live together in peace.",
+        "ru": "Я верю, мы, в конечном счете, доживём до того дня, когда андроиды и машины смогут жить в мире и спокойствии."
+    },
+    {
+        "id": "M5250_S0010_G0110_001_a9s",
+        "jp": "……ありえないよ。",
+        "en": "Not likely.",
+        "ru": "Маловероятно."
+    },
+    {
+        "id": "M5250_S0010_G0120_001_pascal",
+        "jp": "私達の普段の暮らし……ですか？",
+        "en": "Do you mean our day-to-day existence?",
+        "ru": "Ты имеешь в виду наше повседневное существование?"
+    },
+    {
+        "id": "M5250_S0010_G0130_001_pascal",
+        "jp": "見ての通り、私達は機械であり食料を必要としません。\\n私達を駆動するコアが半永久的にエネルギーを補給しますから。",
+        "en": "Well, as you know, we are machines. We do not require food or other typical sustenance, as our cores provide a near-infinite supply of energy.",
+        "ru": "Ну, как ты знаешь, мы — машины. Нам не требуется еда или другие типичные средства существования, так как наши ядра обеспечивают нас почти бесконечным запасом энергии."
+    },
+    {
+        "id": "M5250_S0010_G0140_001_pascal",
+        "jp": "ただ、機械なので時間が経てば壊れてしまいます。それを修理したり、\\n交換したりするのが日常ですね。",
+        "en": "We do, however, deteriorate over time, which means we need to procure parts and initiate repairs.",
+        "ru": "Однако со временем мы разрушаемся, и это значит, что нам нужно добывать детали и проводить ремонт."
+    },
+    {
+        "id": "M5250_S0010_G0150_001_pascal",
+        "jp": "と言っても、頻繁に壊れる訳ではないので、ゆるやかに暮らしていますよ。",
+        "en": "Still, it's not like we break down all that often. To be completely honest, life in the village is rather slow.",
+        "ru": "Хотя, мы не так часто ломаемся. Честно говоря, жизнь в деревне довольно скучная."
+    },
+    {
+        "id": "M5250_S0010_G0160_001_a9s",
+        "jp": "どうしてパスカルの村にはお店があるの？お金なんて持ってない筈だよね？",
+        "en": "Why is there a shop in your village, Pascal? It's not like you folks use money.",
+        "ru": "Почему этот магазин в твоей деревне, Паскаль? Не похоже, что здешние машины используют деньги."
+    },
+    {
+        "id": "M5250_S0010_G0170_001_pascal",
+        "jp": "いえ、私達は簡単な素材を利用してお金の替りにしています。",
+        "en": "Oh, we do. For us, simple materials take the role of currency.",
+        "ru": "О, мы торгуем. Для нас простые материалы играют роль валюты."
+    },
+    {
+        "id": "M5250_S0010_G0180_001_pascal",
+        "jp": "私達は皆対等なので、これまでの収集・配給と言ったシステムが\\n合いませんでしたから、交換を原則とする経済社会を作ってみました。",
+        "en": "Each machine is an equal, which means the traditional capitalistic acquisition systems of the past don't work for us. Instead, our economy is focused on trading materials according to one's need.",
+        "ru": "Все машины равны, а значит, традиционные капиталистические отношения нам не подходят. Вместо этого, наша экономика сосредоточена на обмене материалами согласно потребностям."
+    },
+    {
+        "id": "M5250_S0010_G0190_001_pascal",
+        "jp": "これは人類の過去の記録から学びました。面白いシステムだと思います。",
+        "en": "It was a lesson we learned from mankind's past history. Most fascinating, don't you think?",
+        "ru": "Это урок, который мы извлекли из истории человечества. Довольно увлекательно, не правда ли?"
+    },
+    {
+        "id": "M5250_S0010_G0200_001_pascal",
+        "jp": "私達の子供にも貨幣と経済を学習させていますよ。良ければ子ども達の\\n話も聞いてやってください。",
+        "en": "We've made it a point of emphasis to teach our children about different economic systems. You should speak to them if the subject is of further interest.",
+        "ru": "Мы сделали упор на обучение наших детей разным системам экономики. Тебе следует поговорить с ними, если эта тема тебя заинтересует."
+    },
+    {
+        "id": "M5250_S0010_G0220_001_robochildrenA",
+        "jp": "アノネ、コイツヘンナノ！",
+        "en": "This kid's being weird!",
+        "ru": "Этот ребёнок странный!"
+    },
+    {
+        "id": "M5250_S0010_G0300_001_robochildrenB",
+        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
+        "en": "Yeah. What a dummy!",
+        "ru": "Ага. Вот же дурачок!"
+    },
+    {
+        "id": "M5250_S0010_G0310_001_robostrange",
+        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
+        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
+        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
+    },
+    {
+        "id": "M5250_S0010_G0210_001_a9s",
+        "jp": "楽しそうだね。何をしているの？",
+        "en": "Heh. That looks like fun. Whatcha doing?",
+        "ru": "Хех. Выглядит забавно. Что ты делаешь?"
+    },
+    {
+        "id": "M5250_S0010_G0220_001_robochildrenA",
+        "jp": "アノネ、コイツヘンナノ！",
+        "en": "This kid's being weird!",
+        "ru": "Этот ребёнок странный!"
+    },
+    {
+        "id": "M5250_S0010_G0230_001_robochildrenB",
+        "jp": "価値ノ高イ硬貨ト安イ硬貨、ドッチガホシイ？ッテ聞クト、\\n安イ硬貨ガホシイッテ言ウンダゼ。",
+        "en": "Yeah! I asked if he wanted a coin that's low value or one that's high value, and he said he wanted the worthless one!",
+        "ru": "Ага! Я спросил, хочет он монету низкого номинала или высокого, и он сказал, что хочет ту, что низкого!"
+    },
+    {
+        "id": "M5250_S0010_G0240_001_a9s",
+        "jp": "へえ……",
+        "en": "Seriously?",
+        "ru": "Серьёзно?"
+    },
+    {
+        "id": "M5250_S0010_G0250_001_a9s",
+        "jp": "君さ、価値の高い硬貨と安い硬貨、どっちが欲しい？",
+        "en": "Hey, kid. I've got one coin that's worth a little and one that's worth a lot. Which one do you want?",
+        "ru": "Эй, малыш. У меня есть одна монета малого номинала и одна большого. Какую из них ты хочешь?"
+    },
+    {
+        "id": "M5250_S0010_G0260_001_robostrange",
+        "jp": "エエトネ〜、ヤスイコウカ！",
+        "en": "UMMMM...THE LITTLE ONE!",
+        "ru": "ЭМ-М-М... МАЛОГО!"
+    },
+    {
+        "id": "M5250_S0010_G0270_001_a9s",
+        "jp": "本当にこっちでいいの？",
+        "en": "You sure about that?",
+        "ru": "Ты в этом уверен?"
+    },
+    {
+        "id": "M5250_S0010_G0280_001_robostrange",
+        "jp": "コッチノホウガカッコイイヨ〜。エヘヘ〜アリガト〜",
+        "en": "YEAH, 'CAUSE IT LOOKS COOL. HEE HEE! THANKS A LOT!",
+        "ru": "ДА, ПОТОМУ ЧТО ОНА ВЫГЛЯДИТ ЗДОРОВО. ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
+    },
+    {
+        "id": "M5250_S0010_G0290_001_robochildrenA",
+        "jp": "ネ？コイツヘンデショ？",
+        "en": "See? He's weird!",
+        "ru": "Видите? Он странный!"
+    },
+    {
+        "id": "M5250_S0010_G0300_001_robochildrenB",
+        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
+        "en": "Yeah. What a dummy!",
+        "ru": "Ага. Вот же дурачок!"
+    },
+    {
+        "id": "M5250_S0010_G0310_001_robostrange",
+        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
+        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
+        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
+    },
+    {
+        "id": "M5250_S0010_G0320_001_a9s",
+        "jp": "……計算用の回路に問題があるのかな。それとも思考回路自体が\\nおかしいのか。",
+        "en": "Hmm. This little guy might have a bad mathematical processor. Or maybe his logic circuits got crossed somehow...",
+        "ru": "Хм. У этого малыша, должно быть, плохой вычислительный процессор. Или же его схемы логики как-то замкнулись..."
+    },
+    {
+        "id": "M5250_S0010_G0330_001_a9s",
+        "jp": "……ちょっと中を覗いてみるか。",
+        "en": "I should probably take a look inside.",
+        "ru": "Вероятно, мне стоит заглянуть внутрь."
+    },
+    {
+        "id": "M5250_S0010_G0300_001_robochildrenB",
+        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
+        "en": "Yeah. What a dummy!",
+        "ru": "Ага. Вот же дурачок!"
+    },
+    {
+        "id": "M5250_S0010_G0310_001_robostrange",
+        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
+        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
+        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
+    },
+    {
+        "id": "M5250_S0010_G0290_001_robochildrenA",
+        "jp": "ネ？コイツヘンデショ？",
+        "en": "See? He's weird!",
+        "ru": "Видите? Он странный!"
+    },
+    {
+        "id": "M5250_S0010_G0300_001_robochildrenB",
+        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
+        "en": "Yeah. What a dummy!",
+        "ru": "Ага. Вот же дурачок!"
+    },
+    {
+        "id": "M5250_S0010_G0310_001_robostrange",
+        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
+        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
+        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
+    },
+    {
+        "id": "M5250_S0010_G0340_001_a9s",
+        "jp": "なんだこれ。予想以上に複雑だな……もう一度だ。",
+        "en": "Wow, this is more complex than I was expecting. Let me try again...",
+        "ru": "Воу, это куда сложнее, чем я ожидал. Попробую-ка ещё раз..."
+    },
+    {
+        "id": "M5250_S0010_G0350_001_a9s",
+        "jp": "……君は……",
+        "en": "Hmm...",
+        "ru": "Хм..."
+    },
+    {
+        "id": "M5250_S0010_G0360_001_robostrange",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M5250_S0010_G0370_001_a9s",
+        "jp": "君はこんなに高度な思考回路を持ちながら、どうして？",
+        "en": "If your logic circuits are this advanced, why are you behaving like that?",
+        "ru": "Если твои схемы логики такие продвинутые, почему ты себя так ведешь?"
+    },
+    {
+        "id": "M5250_S0010_G0380_001_robostrange",
+        "jp": "やれやれ、バレてしまいましたか。",
+        "en": "Well, I suppose there's no point in pretending anymore.",
+        "ru": "Ну, я думаю, больше нет смысла притворяться."
+    },
+    {
+        "id": "M5250_S0010_G0390_001_robostrange",
+        "jp": "答えは簡単だ。高い硬貨より安い硬貨を好むと言えば、\\n周囲は面白がって何度でも与える。そうだろう？",
+        "en": "It's simple, really: If I pretend to prefer smaller denominations of coins, the people around me are so entertained, they keep giving them to me.",
+        "ru": "Всё же просто: если я притворяюсь, что мне нравятся мелкие монеты, все вокруг увлекаются и заваливают меня ими."
+    },
+    {
+        "id": "M5250_S0010_G0400_001_robostrange",
+        "jp": "結果、高い硬貨よりも多くの金額を得られるというわけだ。\\nいや、稼がせてもらったよ。",
+        "en": "In this fashion, I'm able to earn far more than I would if I asked for larger units of currency.",
+        "ru": "Таким я могу заработать гораздо больше, чем если бы просил крупные монеты."
+    },
+    {
+        "id": "M5250_S0010_G0410_001_robostrange",
+        "jp": "いいかい？愚か者だと思わせておいた方が真実に近づくのだ。\\n覚えておきたまえ。",
+        "en": "There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.",
+        "ru": "Здесь скрыт важный урок: чем больше окружающие считают вас глупцом, тем больше вы узнаёте об их истинной натуре."
+    },
+    {
+        "id": "M5250_S0010_G0420_001_robostrange",
+        "jp": "ああ、この事は内密に。\\nまだまだ馬鹿だと思わせておかねばならないからね。",
+        "en": "Oh, but keep this between us for now, all right? I need them to keep thinking that I'm slow.",
+        "ru": "Ой, только теперь держите это в тайне, хорошо? Мне нужно, чтобы они и дальше продолжали считать меня дурачком."
+    },
+    {
+        "id": "M5250_S0010_G0430_001_robostrange",
+        "jp": "これは口止め料だ。",
+        "en": "Here's a little hush money to smooth things over.",
+        "ru": "Вот, небольшая сумма за ваше молчание."
+    },
+    {
+        "id": "M5250_S0010_G0410_001_robostrange",
+        "jp": "いいかい？愚か者だと思わせておいた方が真実に近づくのだ。\\n覚えておきたまえ。",
+        "en": "There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.",
+        "ru": "Здесь скрыт важный урок: чем больше окружающие считают вас глупцом, тем больше вы узнаёте об их истинной натуре."
+    },
+    {
+        "id": "M5250_S0010_G0440_001_a9s",
+        "jp": "賢いって一体何だろうな……",
+        "en": "I'm not sure I even know what it means to be smart anymore.",
+        "ru": "Я даже уже не уверен, что понимаю, что значит быть умным."
+    },
+    {
+        "id": "M5250_S0010_G0450_001_pod153",
+        "jp": "回答不能：質問の定義が曖昧な為。",
+        "en": "Reply unknown. Terms are too vague to formulate a reasoned response.",
+        "ru": "Ответ неизвестен. Термины слишком расплывчаты, чтобы сформулировать аргументированный ответ."
+    },
+    {
+        "id": "M5250_S0010_G0460_001_a9s",
+        "jp": "だろうね。",
+        "en": "Heh. Don't I know it...",
+        "ru": "Хех. Как будто я не знаю..."
+    }
+]

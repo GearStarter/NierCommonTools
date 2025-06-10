@@ -1,0 +1,296 @@
+[
+    {
+        "id": "M6080_S0010_G0010_300_sp",
+        "jp": "よぉ、今日からここで森支店を開店する事になったんだ。\\n何か物入りなら遠慮せずに言ってくれ。",
+        "en": "This forest branch just opened for business today. Feel free to swing by if there's anything you need.",
+        "ru": "Этот лесной магазинчик открылся только сегодня. Не стесняйтесь заглядывать, если вам что-то потребуется."
+    },
+    {
+        "id": "M5530_S0010_G0000_001_resiitem",
+        "jp": "なあ、アンタ。突然だが、食文化に興味はないか？",
+        "en": "Hey, I know this is a bit out of left field, but you look like someone who cares very deeply about gastronomy.",
+        "ru": "Эй, я знаю, что это немного неожиданно, но вы похожи на того, кто питает очень сильный интерес к гастрономии."
+    },
+    {
+        "id": "M5530_S0010_G0010_001_resiitem",
+        "jp": "俺は今、人類が地球を奪還した際の食料について研究しているんだ。",
+        "en": "See, I'm doing research about food for whenever the human race decides to return to Earth.",
+        "ru": "Видите ли, я провожу исследования о еде ради момента, когда человечество решит вернуться на Землю."
+    },
+    {
+        "id": "M5530_S0010_G0020_001_resiitem",
+        "jp": "衣食住で言ったら、まずは食い物！そうだろ？",
+        "en": "Those humans were always going on about eating, right? Well, also clothing and shelter. But mostly eating.",
+        "ru": "Эти люди всегда говорили о еде, верно? Ну, еще, конечно, об одежде и крове. Но в основном о еде."
+    },
+    {
+        "id": "M5530_S0010_G0030_001_resiitem",
+        "jp": "つーわけで、研究用に各地から様々な食料を集めているんだが、\\nアンタも協力しちゃくれないか？",
+        "en": "Anyway, I'm collecting ingredients from across the land for research purposes, and I'm betting you'd like to help me out! Er, right?",
+        "ru": "В любом случае, я собираю ингредиенты по всей Земле в научных целях, и уверен, что вы хотите помочь мне! Э-э, так ведь?"
+    },
+    {
+        "id": "M5530_S0010_G0040_001_sele",
+        "jp": "協力する。",
+        "en": "Help out.",
+        "ru": "Помочь."
+    },
+    {
+        "id": "M5530_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5530_S0010_G0080_001_resiitem",
+        "jp": "ありがとな！今研究しているのは「肉食」なんだ。\\n『シカの肉』と『イノシシの肉』を持ってきて欲しい。",
+        "en": "Thanks a million! So meat's at the top of the list, naturally, which means I need you to head out and find both moose and boar meat.",
+        "ru": "Огромное спасибо! Итак, на вершине списка мясо, естественно, это значит, что вам нужно отправиться и найти мясо, как кабана, так и лося."
+    },
+    {
+        "id": "M5530_S0010_G0060_001_resiitem",
+        "jp": "そっかぁ。まあ、気が変わったらまた声をかけてくれ。",
+        "en": "Really? I thought I had you pegged as a foodie for sure. Well, let me know if you change your mind.",
+        "ru": "Правда? Я думал, вы уважаете гурманов. Ну, дайте мне знать, если передумаете."
+    },
+    {
+        "id": "M6080_S0010_G0020_300_sp",
+        "jp": "おう、よく来たな。\\nまぁ、ゆっくりしていってくれ。",
+        "en": "Welcome, and thank you for visiting my shop. Feel free to look around.",
+        "ru": "Добро пожаловать и спасибо, что посетили мой магазин. Не стесняйтесь, осматривайтесь."
+    },
+    {
+        "id": "M5530_S0010_G0070_001_resiitem",
+        "jp": "なあ、各地の食料を集めてきちゃくれないか？\\n人類が地球を奪還した際に必要となる研究なんだ。",
+        "en": "I need your help collecting ingredients from across the land. It's research for when humans come back and reclaim the Earth.",
+        "ru": "Мне нужно, чтобы вы повсеместно собирали ингредиенты. Это для исследования к моменту, когда люди вернутся и снова освоятся на Земле."
+    },
+    {
+        "id": "M5530_S0010_G0040_001_sele",
+        "jp": "協力する。",
+        "en": "Help out.",
+        "ru": "Помочь."
+    },
+    {
+        "id": "M5530_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M6080_S0010_G0020_300_sp",
+        "jp": "おう、よく来たな。\\nまぁ、ゆっくりしていってくれ。",
+        "en": "Welcome, and thank you for visiting my shop. Feel free to look around.",
+        "ru": "Добро пожаловать и спасибо, что посетили мой магазин. Не стесняйтесь, осматривайтесь."
+    },
+    {
+        "id": "M5530_S0010_G0090_001_resiitem",
+        "jp": "頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\\nたのんだぞ。",
+        "en": "Just bring back whatever moose and boar meat you find, all right? And thanks!",
+        "ru": "Просто принесите любое мясо кабана и лося, которое найдёте, хорошо? И спасибо!"
+    },
+    {
+        "id": "M5530_S0020_G0000_001_pod042",
+        "jp": "疑問：アンドロイドは、水からエネルギーを生成可能。\\nレジスタンスにも動物の肉は不必要。",
+        "en": "Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?",
+        "ru": "Вопрос: поскольку андроиды генерируют энергию из воды, что Сопротивление намеревается делать с животным белком?"
+    },
+    {
+        "id": "M5530_S0020_G0010_001_a2b",
+        "jp": "さあ……私にはわからない。",
+        "en": "Don't ask me.",
+        "ru": "Не спрашивай меня."
+    },
+    {
+        "id": "M5530_S0020_G0020_001_pod153",
+        "jp": "疑問：アンドロイドは、水からエネルギーを生成可能。\\nレジスタンスにとって動物の肉は不必要。",
+        "en": "Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?",
+        "ru": "Вопрос: поскольку андроиды генерируют энергию из воды, что Сопротивление намеревается делать с животным белком?"
+    },
+    {
+        "id": "M5530_S0020_G0022_001_a9s",
+        "jp": "さあ……気分の問題なんじゃない？たまには食べたくなるとかさ。",
+        "en": "Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then?",
+        "ru": "Возможно, это вопрос субъективных ощущений. Например, некоторые андроиды просто хотят есть время от времени."
+    },
+    {
+        "id": "M5530_S0020_G0030_001_pod153",
+        "jp": "理解不能。",
+        "en": "It appears illogical.",
+        "ru": "Это звучит нелогично."
+    },
+    {
+        "id": "M5530_S0020_G0040_001_a9s",
+        "jp": "だろうね。",
+        "en": "Hey, you got me.",
+        "ru": "Эй, ты меня достал."
+    },
+    {
+        "id": "M5530_S0020_G0020_001_pod153",
+        "jp": "疑問：アンドロイドは、水からエネルギーを生成可能。\\nレジスタンスにとって動物の肉は不必要。",
+        "en": "Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?",
+        "ru": "Вопрос: поскольку андроиды генерируют энергию из воды, что Сопротивление намеревается делать с животным белком?"
+    },
+    {
+        "id": "M5530_S0020_G0024_001_a9s",
+        "jp": "さあ……気分の問題なんじゃない？たまには食べたくなるとかさ。",
+        "en": "Who knows. Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then.",
+        "ru": "Кто знает. Возможно, это вопрос субъективных ощущений. Например, некоторые андроиды просто хотят есть время от времени."
+    },
+    {
+        "id": "M5530_S0020_G0030_001_pod153",
+        "jp": "理解不能。",
+        "en": "It appears illogical.",
+        "ru": "Это звучит нелогично."
+    },
+    {
+        "id": "M5530_S0020_G0045_001_a9s",
+        "jp": "だろうね。",
+        "en": "Whatever.",
+        "ru": "Мне всё равно."
+    },
+    {
+        "id": "M5530_S0020_G0050_001_pod042",
+        "jp": "疑問：アンドロイドは、水からエネルギーを生成可能。\\nレジスタンスにも動物の肉は不必要。",
+        "en": "Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?",
+        "ru": "Вопрос: поскольку андроиды генерируют энергию из воды, что Сопротивление намеревается делать с животным белком?"
+    },
+    {
+        "id": "M5530_S0020_G0060_001_a2",
+        "jp": "さあね。食ってみたら意外と楽しいのかもな。",
+        "en": "Who knows? Maybe it's fun to eat. Or more fun than it looks, at any rate...",
+        "ru": "Кто знает? Может, есть — это весело. Или, по крайней мере, веселее, чем кажется..."
+    },
+    {
+        "id": "M5530_S0020_G0070_001_a2b",
+        "jp": "『シカの肉』と『イノシシの肉』は揃ったな。依頼主のところへ行こう。",
+        "en": "That should be enough moose and boar meat.\\nLet's get it back to the trader.",
+        "ru": "Этого мяса лося и кабана должно быть достаточно. Можно возвращаться к торговцу."
+    },
+    {
+        "id": "M5530_S0020_G0080_001_a9s",
+        "jp": "『シカの肉』と『イノシシの肉』が揃った。依頼主のところへ行こう。",
+        "en": "That should do it for the moose and boar meat. Guess we should report back to the trader.",
+        "ru": "Этого мяса лося и кабана должно хватить. Думаю, нужно доложить об этом торговцу."
+    },
+    {
+        "id": "M5530_S0020_G0090_001_a9s",
+        "jp": "『シカの肉』と『イノシシの肉』が揃った。依頼主のところへ行こう。",
+        "en": "That should do it for the meat. Let's get it to that trader.",
+        "ru": "Этого мяса должно хватить. Самое время отнести его торговцу."
+    },
+    {
+        "id": "M5530_S0020_G0100_001_a2",
+        "jp": "『シカの肉』と『イノシシの肉』は揃ったな。依頼主のところへ行くか。",
+        "en": "This should be enough moose and boar meat. Time to unload it on that weirdo...",
+        "ru": "Этого мяса лося и кабана должно быть достаточно. Пора сбыть его этому извращенцу..."
+    },
+    {
+        "id": "M5530_S0030_G0000_001_resiitem",
+        "jp": "『シカの肉』と『イノシシの肉』、確かに受け取った。ありがとな！",
+        "en": "Okay, let's see... Moose meat... Boar meat... Yes, that's everything.",
+        "ru": "Хорошо, посмотрим... Мясо лося... Мясо кабана... Да, это всё."
+    },
+    {
+        "id": "M5530_S0030_G0010_001_resiitem",
+        "jp": "これを塩コショウで炭火で焼いたら最高……らしいぞ？",
+        "en": "I tell you what, you fry this up with a little salt and pepper? Bam! Taste EXPLOSION! ...Er, allegedly.",
+        "ru": "Вот что я вам скажу: если пожарить это с небольшим количеством соли и перца... Бам! Ощутите ВЗРЫВ! Эм, такова информация по слухам."
+    },
+    {
+        "id": "M5530_S0030_G0020_001_a2b",
+        "jp": "食べたことあるの？",
+        "en": "Have you tried it yourself?",
+        "ru": "Ты сам это пробовал?"
+    },
+    {
+        "id": "M5530_S0030_G0030_001_a9s",
+        "jp": "食べたことあるんですか？",
+        "en": "Have you ever eaten it before?",
+        "ru": "Ты ел это прежде?"
+    },
+    {
+        "id": "M5530_S0030_G0040_001_a9s",
+        "jp": "食べたことが？",
+        "en": "You've had it before?",
+        "ru": "Ты ел это прежде?"
+    },
+    {
+        "id": "M5530_S0030_G0050_001_a2",
+        "jp": "それ、食べるのか？",
+        "en": "You're not seriously going to eat that?",
+        "ru": "Ты же не собираешься есть это?"
+    },
+    {
+        "id": "M5530_S0030_G0060_001_resiitem",
+        "jp": "まあね。あんまり効果はないけど、戦闘モデルのレジスタンスなんかには\\n人気があるぜ？",
+        "en": "It's actually pretty popular among Resistance combat models. Not that it has much of an effect...",
+        "ru": "Оно довольно популярно среди боевых моделей Сопротивления. Хотя не то чтобы оно производило какой-то эффект..."
+    },
+    {
+        "id": "M5532_S0030_G0030_001_resiitem",
+        "jp": "それにしてもさ……人間って凄いよなあ？こんな料理の知恵があるなんて。",
+        "en": "Humans were so amazing, weren't they? Just their cooking knowledge alone is enough to blow my mind!",
+        "ru": "Люди были такими удивительными, не правда ли? Одних только их познаний в готовке достаточно, чтобы шокировать меня."
+    },
+    {
+        "id": "M5532_S0030_G0040_001_resiitem",
+        "jp": "その人間が地球を奪還したら、俺達アンドロイドにはどういった役割が\\n与えられるんだろう。",
+        "en": "What do you think will happen to us androids once they finally come back?",
+        "ru": "Как думаете, что случится с нами, андроидами, когда они, наконец, вернутся?"
+    },
+    {
+        "id": "M5532_S0030_G0050_001_resiitem",
+        "jp": "戦う事にしか特化していない、俺達に……",
+        "en": "I mean, we're built to fight, and if we don't need to do that...",
+        "ru": "В смысле, мы были созданы, чтобы сражаться, и если нам не нужно будет этого делать, то..."
+    },
+    {
+        "id": "M5532_S0030_G0055_001_resiitem",
+        "jp": "……",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M5532_S0030_G0060_001_resiitem",
+        "jp": "……俺達には俺達の仕事がある、そうだよな？",
+        "en": "Ah, forget it. We've all got our own work to do, right?",
+        "ru": "Ах, забудьте. У нас у всех есть своя работа, верно?"
+    },
+    {
+        "id": "M5532_S0030_G0071_001_resiitem",
+        "jp": "俺はこれからも、食材の研究を続けるぜ。",
+        "en": "I'm going to keep up with food research for as long as I can.",
+        "ru": "Я собираюсь продолжать исследования еды до тех пор, пока это будет возможно."
+    },
+    {
+        "id": "M5532_S0030_G0080_001_resiitem",
+        "jp": "海にも川にも水産資源は沢山戻って来ている。",
+        "en": "Marine life has returned in force to the oceans and rivers, after all.",
+        "ru": "В конце концов, морские обитатели уже вернулись в океаны и реки."
+    },
+    {
+        "id": "M5532_S0030_G0090_001_resiitem",
+        "jp": "いつか人類が戻って来た時に、旨い料理を作ってやれるようにしとかないとな！",
+        "en": "So when humans return, I'll make sure to greet them with a glorious feast!",
+        "ru": "Поэтому, когда люди вернутся, я обязательно поприветствую их славным пиром!"
+    },
+    {
+        "id": "M5532_S0030_G0130_001_resiitem",
+        "jp": "じゃあな！",
+        "en": "See you around!",
+        "ru": "Увидимся!"
+    },
+    {
+        "id": "M6080_S0010_G0020_300_sp",
+        "jp": "おう、よく来たな。\\nまぁ、ゆっくりしていってくれ。",
+        "en": "Welcome, and thank you for visiting my shop. Feel free to look around.",
+        "ru": "Добро пожаловать и спасибо, что посетили мой магазин. Не стесняйтесь, осматривайтесь."
+    },
+    {
+        "id": "M5530_S0010_G0090_001_resiitem",
+        "jp": "頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\\nたのんだぞ。",
+        "en": "Just bring back whatever moose and boar meat you find, all right? And thanks!",
+        "ru": "Просто принесите любое мясо кабана и лося, которое найдёте, хорошо? И спасибо!"
+    }
+]

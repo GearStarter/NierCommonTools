@@ -1,0 +1,332 @@
+[
+    {
+        "id": "M5652_S0010_G0000_001_resiman",
+        "jp": "ああ、ここに居たレジスタンスなら外に出てるぞ。",
+        "en": "You looking for the Resistance member who's usually here?",
+        "ru": "Вы ищете дежурного по складским помещениям, который обычно сидит здесь?"
+    },
+    {
+        "id": "M5652_S0010_G0010_001_resiman",
+        "jp": "何でも、砂漠近くの駐留地に荷物を受け渡しに行ったとか……",
+        "en": "Yeah, he stepped out. Said he had to make a delivery to the outpost near the desert.",
+        "ru": "Да, он ушёл. Сказал, что ему нужно выполнить доставку на аванпост, недалеко от пустыни."
+    },
+    {
+        "id": "M5652_S0010_G0020_001_resiman",
+        "jp": "ただ、予定を大分過ぎても帰ってこないんだよなあ。",
+        "en": "I thought he'd be back by now, honestly.",
+        "ru": "Я думаю, ему уже давно пора бы вернуться."
+    },
+    {
+        "id": "M5652_S0010_G0030_001_resiman",
+        "jp": "もし良ければ、近くに行った時に様子を見に行ってやってくれないか？",
+        "en": "Maybe you can check up on him next time you're out that way?",
+        "ru": "Быть может, вы поищете его, когда отправитесь туда?"
+    },
+    {
+        "id": "M5652_S0010_G0040_001_sele",
+        "jp": "様子を見に行く。",
+        "en": "Agree to look into it.",
+        "ru": "Согласиться на это."
+    },
+    {
+        "id": "M5652_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5652_S0010_G0080_001_resiman",
+        "jp": "ありがとう。助かるよ。",
+        "en": "Thanks. I appreciate it.",
+        "ru": "Спасибо. Я это ценю."
+    },
+    {
+        "id": "M5652_S0010_G0090_001_resiman",
+        "jp": "砂漠にいるレジスタンスの女に会いに行ったはずだ。よろしく頼む。",
+        "en": "There's a female Resistance member stationed in the desert who might know where he is.",
+        "ru": "В пустыне находится женщина, член Сопротивления, которая может знать, где он."
+    },
+    {
+        "id": "M5652_S0010_G0060_001_resiman",
+        "jp": "む……そうか。その気になったら言ってくれ。",
+        "en": "Really? Well, all right. Let me know if you change your mind.",
+        "ru": "Правда? Ну, хорошо. Дайте мне знать, если передумаете."
+    },
+    {
+        "id": "M5652_S0010_G0070_001_resiman",
+        "jp": "なあ、砂漠に荷物を届けに行ったあいつの様子を、\\nちょっと見に行っちゃくれないか？",
+        "en": "Hey, you mind checking on that guy who was making a delivery to the desert?",
+        "ru": "Эй, передумали насчёт этого парня, который выполняет доставку в пустыню?"
+    },
+    {
+        "id": "M5652_S0010_G0040_001_sele",
+        "jp": "様子を見に行く。",
+        "en": "Agree to look into it.",
+        "ru": "Согласиться на это."
+    },
+    {
+        "id": "M5652_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5652_S0010_G0080_001_resiman",
+        "jp": "ありがとう。助かるよ。",
+        "en": "Thanks. I appreciate it.",
+        "ru": "Спасибо. Я это ценю."
+    },
+    {
+        "id": "M5652_S0010_G0090_001_resiman",
+        "jp": "砂漠にいるレジスタンスの女に会いに行ったはずだ。よろしく頼む。",
+        "en": "There's a female Resistance member stationed in the desert who might know where he is.",
+        "ru": "В пустыне находится женщина, член Сопротивления, которая может знать, где он."
+    },
+    {
+        "id": "M5652_S0010_G0060_001_resiman",
+        "jp": "む……そうか。その気になったら言ってくれ。",
+        "en": "Really? Well, all right. Let me know if you change your mind.",
+        "ru": "Правда? Ну, хорошо. Дайте мне знать, если передумаете."
+    },
+    {
+        "id": "M5652_S0010_G0100_001_resiman",
+        "jp": "あいつなら、荷物の受け渡しの為に砂漠に行ったはずだ。よろしく頼む。",
+        "en": "The guy who's usually here went to the desert to make a delivery. Hope you find him.",
+        "ru": "Парень, который обычно сидит здесь, ушел в пустыню, чтобы выполнить доставку. Надеюсь, он не попал в неприятности."
+    },
+    {
+        "id": "M5652_S0020_G0000_001_jackas",
+        "jp": "え？荷物を持ってきた男？……ああ、確かに来たけど。",
+        "en": "What? That delivery guy? Yeah, he was here.",
+        "ru": "Что? Доставщик? Да, он был здесь."
+    },
+    {
+        "id": "M5652_S0020_G0010_001_jackas",
+        "jp": "荷物は故障した浄水器だったんだけど、もう修理は終わって納品したよ。",
+        "en": "He brought me a broken water purifier, which I already repaired and returned to him.",
+        "ru": "Он принёс мне сломанный очиститель воды, который я уже починила и вернула ему."
+    },
+    {
+        "id": "M5652_S0020_G0020_001_jackas",
+        "jp": "一緒に保管所まで持って行ったんだが……まだ戻ってないのか？",
+        "en": "We took it out to the storage facility forever ago. You telling me he's STILL not back?",
+        "ru": "Я сказала ему отнести очиститель на склад, и заодно навести там порядок. Вы говорите, он ЕЩЁ не вернулся?"
+    },
+    {
+        "id": "M5652_S0020_G0030_001_jackas",
+        "jp": "敵に奪われないよう、廃墟都市のある場所にまとめて置いてるんだ。",
+        "en": "Our storage facility is over in the city ruins. Helps keep it safe from enemy attacks and all that noise.",
+        "ru": "Наш склад спрятан в руинах города. Это помогает защитить его от атак врагов и всякой всячины."
+    },
+    {
+        "id": "M5652_S0020_G0040_001_jackas",
+        "jp": "そのあたりに居るんじゃないかな？場所を教えるよ。",
+        "en": "Hell, he could still be there for all I know. Lemme show you where it is.",
+        "ru": "Чёрт, наверное, он всё ещё там. Давайте покажу, где это находится."
+    },
+    {
+        "id": "M5652_S0020_G0050_001_jackas",
+        "jp": "アイツなら、大廃墟都市の保管所にいるんじゃないかな。",
+        "en": "That guy you're looking for might be at our storage facility in the city ruins.",
+        "ru": "Пропавший парень, скорее всего, находится на складе в руинах города."
+    },
+    {
+        "id": "M5652_S0020_G0060_001_a9s",
+        "jp": "これが、レジスタンスの保管している資材か……",
+        "en": "This must be the Resistance storage facility.",
+        "ru": "Должно быть, это склад Сопротивления."
+    },
+    {
+        "id": "M5652_S0020_G0100_001_a2",
+        "jp": "これが、レジスタンスの保管している資材か……",
+        "en": "So this is all the crap the Resistance was storing, huh?",
+        "ru": "Так это и есть хранилище хлама, принадлежащее Сопротивлению, да?"
+    },
+    {
+        "id": "M5652_S0020_G0070_001_resiman",
+        "jp": "……けて……",
+        "en": "...me...",
+        "ru": "...мне..."
+    },
+    {
+        "id": "M5652_S0020_G0080_001_resiman",
+        "jp": "けて……たすけてー",
+        "en": "...p me. Help me...",
+        "ru": "...те мне. Помогите мне..."
+    },
+    {
+        "id": "M5652_S0020_G0090_001_pod153",
+        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
+        "en": "Alert: Voice patterns detected from inside storage facility.",
+        "ru": "Внимание: внутри склада обнаружен чей-то голос."
+    },
+    {
+        "id": "M5652_S0020_G0130_001_pod042",
+        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
+        "en": "Alert: Voice patterns detected from inside storage facility.",
+        "ru": "Внимание: внутри склада обнаружен чей-то голос."
+    },
+    {
+        "id": "M5652_S0020_G0110_001_resiman",
+        "jp": "……けて……",
+        "en": "...me...",
+        "ru": "...мне..."
+    },
+    {
+        "id": "M5652_S0020_G0120_001_resiman",
+        "jp": "けて……たすけてー",
+        "en": "...lp me. Help me...",
+        "ru": "...ите. Помогите мне..."
+    },
+    {
+        "id": "M5652_S0020_G0090_001_pod153",
+        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
+        "en": "Alert: Voice patterns detected from inside storage facility.",
+        "ru": "Внимание: внутри склада обнаружен чей-то голос."
+    },
+    {
+        "id": "M5652_S0020_G0130_001_pod042",
+        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
+        "en": "Alert: Voice patterns detected from inside storage facility.",
+        "ru": "Внимание: внутри склада обнаружен чей-то голос."
+    },
+    {
+        "id": "M5652_S0030_G0000_001_resiman",
+        "jp": "た、助かった……ありがとう……",
+        "en": "Whew! Thanks a million.",
+        "ru": "Фуф! Огромное спасибо."
+    },
+    {
+        "id": "M5652_S0030_G0001_001_resiman",
+        "jp": "悪いんだけど、僕が出口まで通れるようにしてもらえないかな？",
+        "en": "Sorry, but could you do me a favor and clear a path so I can get ouf of here?",
+        "ru": "Простите, но не могли бы вы сделать мне одолжение и расчистить путь, чтобы я мог выбраться отсюда?"
+    },
+    {
+        "id": "M5652_S0030_G0002_001_resiman",
+        "jp": "無理に出ようとして足を悪くしちゃってね……",
+        "en": "I hurt my leg trying to force my way out...",
+        "ru": "Я поранил ногу, пытаясь выбраться наружу..."
+    },
+    {
+        "id": "M5652_S0030_G0003_001_resiman",
+        "jp": "それに、僕はこの通り体が大きいから……広めに頼むよ。",
+        "en": "Also, as you can see, I'm pretty big, so I'm gonna need plenty of space.",
+        "ru": "К тому же, как видите, я очень большой, поэтому мне нужно много места."
+    },
+    {
+        "id": "M5652_S0030_G0010_001_resiman",
+        "jp": "実は荷物の整理中に閉じ込められてしまって……",
+        "en": "I got trapped in there while trying to get everything organized.",
+        "ru": "Я попал в ловушку, когда пытался всё расставить."
+    },
+    {
+        "id": "M5652_S0030_G0020_001_resiman",
+        "jp": "一緒に来た先輩が、あまりにも乱暴に荷物を投げ込むから、\\nそれに巻き込まれたんだ。",
+        "en": "My supervisor tore through the place like a tornado and ended up boxing me in.",
+        "ru": "Мой начальник ворвался сюда, словно торнадо, и в итоге \"обставил\" меня."
+    },
+    {
+        "id": "M5652_S0030_G0030_001_resiman",
+        "jp": "僕、もうあの先輩にはついていけな……",
+        "en": "I tell you what, I just can't keep up with her anym—",
+        "ru": "Нет, серьезно, я уже больше не могу так рабо..."
+    },
+    {
+        "id": "M5652_S0030_G0040_001_jackas",
+        "jp": "こらああああああっ！！",
+        "en": "Goddammit! THERE you are!",
+        "ru": "Чёрт возьми! ВОТ ты где!"
+    },
+    {
+        "id": "M5652_S0030_G0050_001_jackas",
+        "jp": "しばらく見かけないと思ったら、何サボってるんだ！",
+        "en": "I haven't seen you in who the hell knows how long, and now I find you sitting here on your ass!?",
+        "ru": "Я жду тебя уже хрен знает сколько, а ты сидишь здесь и протираешь штаны?!"
+    },
+    {
+        "id": "M5652_S0030_G0060_001_jackas",
+        "jp": "資材管理のノウハウを君には伝えた筈だぞ？",
+        "en": "And didn't I tell you to keep this place ORGANIZED!?",
+        "ru": "И разве я не сказала тебе организовать здесь ПОРЯДОК?!"
+    },
+    {
+        "id": "M5652_S0030_G0070_001_resiman",
+        "jp": "ノウハウって言われても、先輩が荷物を乱暴に放り投げるから\\n閉じ込められていたんですよ……",
+        "en": "Y-Yes, but you were throwing things all over the place and I got trapped—",
+        "ru": "Д-да, но вы разбросали вещи повсюду и я оказался в ловушке..."
+    },
+    {
+        "id": "M5652_S0030_G0080_001_jackas",
+        "jp": "そんなの爆弾で吹き飛ばせばどうにでもなるだろ！？",
+        "en": "If something's in the way, just blow it up! This is NOT freakin' difficult!",
+        "ru": "Если что-то стоит на пути, просто взорви это! Это НЕ сложно!"
+    },
+    {
+        "id": "M5652_S0030_G0090_001_resiman",
+        "jp": "爆弾なんて持ってませんよ……",
+        "en": "But I...don't have any explosives.",
+        "ru": "Но... у меня нет никакой взрывчатки."
+    },
+    {
+        "id": "M5652_S0030_G0100_001_jackas",
+        "jp": "爆弾なんてその辺の材料ですぐ作れる。基礎の基礎だ！",
+        "en": "Then build some! I mean, just LOOK at all the crap around here. I could build ten bombs with this.",
+        "ru": "Тогда сделай из чего-нибудь! В смысле, просто ПОСМОТРИ на весь это мусор вокруг. Я могла бы сделать из этого аж десять бомб."
+    },
+    {
+        "id": "M5652_S0030_G0110_001_resiman",
+        "jp": "そんな訳……",
+        "en": "But there's no way to—",
+        "ru": "Но это не выход..."
+    },
+    {
+        "id": "M5652_S0030_G0120_001_jackas",
+        "jp": "ソンナ訳もコンナ訳もない！今から爆弾製作の基礎からやり直しだ！",
+        "en": "Wah wah wah! Zip it already! Time to teach you some goddamn bomb-making skills.",
+        "ru": "Чё-чё-чё?! Заткнись уже! Пора преподать тебе урок по созданию бомб."
+    },
+    {
+        "id": "M5652_S0030_G0130_001_resiman",
+        "jp": "えええっ！？僕は資材管理担当で、そういう乱暴な……",
+        "en": "But I just work in storage! I don't need to know how to make a bo—",
+        "ru": "Но я же обычный кладовщик! Мне не нужно знать, как создать бом..."
+    },
+    {
+        "id": "M5652_S0030_G0140_001_jackas",
+        "jp": "はっはー！資材管理はどんな状況でも突破出来るエキスパートであらねば\\nならないのだ！",
+        "en": "Cram it! Even a lowly warehouse man needs to know how to blow things up!",
+        "ru": "Заткнись! Любой кладовщик просто обязан знать, как правильно устраивать взрывы!"
+    },
+    {
+        "id": "M5652_S0030_G0150_001_jackas",
+        "jp": "すまない。出来の悪い後輩が世話になったな。",
+        "en": "...Sorry my useless subordinate caused you so much trouble.",
+        "ru": "...Простите, мой бесполезный подчиненный доставил вам много проблем."
+    },
+    {
+        "id": "M5652_S0030_G0160_001_jackas",
+        "jp": "これ、お詫びだ。受け取ってくれ。",
+        "en": "You can have this. Not much, I know, but whatever.",
+        "ru": "Можете взять это. Не очень много, я знаю, но лучше, чем ничего."
+    },
+    {
+        "id": "M5652_S0030_G0170_001_jackas",
+        "jp": "じゃあ……元気でな。",
+        "en": "Anyway, I'll see you later.",
+        "ru": "В любом случае, увидимся позже."
+    },
+    {
+        "id": "M5652_S0030_G0190_001_resiman",
+        "jp": "ええっ！そんなあ！？",
+        "en": "All night!? What!?",
+        "ru": "Всю ночь?! Что?!"
+    },
+    {
+        "id": "M5652_S0030_G0180_001_jackas",
+        "jp": "私はこれから、徹夜でコイツに爆弾作りをおしえなきゃならないから。",
+        "en": "Right now I have to spend all night teaching this idiot how to craft a simple bomb.",
+        "ru": "Что ж, теперь придется провести всю ночь, обучая этого идиота, как сделать простейшую бомбу."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "M5095_S0200_G0050_001_announce",
+        "jp": "ソレデハこれより、戦闘訓練を開始する。",
+        "en": "Now commencing combat training.",
+        "ru": "Сейчас начнётся боевая тренировка."
+    },
+    {
+        "id": "M5095_S0200_G0060_001_announce",
+        "jp": "戦闘訓練を開始スル。",
+        "en": "Commencing combat training.",
+        "ru": "Начинаю боевую тренировку."
+    },
+    {
+        "id": "M5095_S0200_G0070_001_announce",
+        "jp": "戦闘訓練を終了スル。",
+        "en": "Concluding combat training.",
+        "ru": "Завершаю боевую тренировку."
+    },
+    {
+        "id": "M5095_S0200_G0080_001_announce",
+        "jp": "プラトン１７２８。成績極めて不良。",
+        "en": "Plato 1728. Results are exceedingly poor.",
+        "ru": "Платон 1728. Результаты крайне плохие."
+    },
+    {
+        "id": "M5095_S0200_G0090_001_announce",
+        "jp": "早急な修復を要請スル。",
+        "en": "Immediate recovery is required.",
+        "ru": "Требуется немедленное восстановление."
+    }
+]

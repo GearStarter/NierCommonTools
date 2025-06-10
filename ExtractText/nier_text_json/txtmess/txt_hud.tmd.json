@@ -1,0 +1,38 @@
+[
+    {
+        "id": "HUD_LOG_TXT_01",
+        "jp": "<ITEM NAME>を取得しました",
+        "en": "<ITEM NAME> obtained.",
+        "ru": "Получено: <ITEM NAME>"
+    },
+    {
+        "id": "HUD_LOG_TXT_02",
+        "jp": "<ITEM NAME>を使用しました",
+        "en": "<ITEM NAME> used.",
+        "ru": "Использовано: <ITEM NAME>"
+    },
+    {
+        "id": "HUD_LOG_TXT_04",
+        "jp": "お金を<MONEY_NUM>G取得しました",
+        "en": "<MONEY_NUM> G obtained.",
+        "ru": "Получено: <MONEY_NUM> G"
+    },
+    {
+        "id": "HUD_LOG_TXT_12",
+        "jp": "個体データが更新されました",
+        "en": "Unit data has been updated.",
+        "ru": "Информация о единицах обновлена."
+    },
+    {
+        "id": "HUD_LOG_TXT_14",
+        "jp": "<ITEM NAME>はこれ以上入手できません",
+        "en": "<ITEM NAME> capacity full.",
+        "ru": "<ITEM NAME> — максимальное количество."
+    },
+    {
+        "id": "HUD_LOG_TXT_18",
+        "jp": "<ITEM NAME>を自動使用しました（所持数：<NUM>）",
+        "en": "<ITEM NAME> used. (Remaining: <NUM>)",
+        "ru": "<ITEM NAME> использовано. (Осталось: <NUM>)"
+    }
+]

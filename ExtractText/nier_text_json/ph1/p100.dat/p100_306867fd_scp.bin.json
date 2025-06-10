@@ -1,0 +1,404 @@
+[
+    {
+        "id": "M1010_S0060_G0000_001_a9s",
+        "jp": "ここがレジスタンスキャンプか……",
+        "en": "So this is the Resistance Camp, huh?",
+        "ru": "Значит, это и есть Лагерь Сопротивления, да?"
+    },
+    {
+        "id": "M1010_S0060_G0010_001_a9s",
+        "jp": "まず、リーダーに情報を聞いてみましょうよ。",
+        "en": "We should probably go talk to their leader first thing.",
+        "ru": "Пожалуй, для начала нам стоит поговорить с их лидером."
+    },
+    {
+        "id": "M1010_S0060_G0020_001_ane",
+        "jp": "お前達は……",
+        "en": "You're...",
+        "ru": "Ты же..."
+    },
+    {
+        "id": "M1010_S0060_G0025_001_ane",
+        "jp": "二号……",
+        "en": "Number Two...",
+        "ru": "Номер 2..."
+    },
+    {
+        "id": "M1010_S0060_G0030_001_a9s",
+        "jp": "あれ？２Ｂの事、知ってるんですか？",
+        "en": "Hmm? You know about 2B?",
+        "ru": "Хм? Вы знаете о 2B?"
+    },
+    {
+        "id": "M1010_S0060_G0040_001_ane",
+        "jp": "……いや、バンカーから連絡が来てたからな。",
+        "en": "Um... Yes, well, the Bunker told me to expect you.",
+        "ru": "Эм... Да, ну, мне поступило сообщение из Бункера о том, что вы прибудете."
+    },
+    {
+        "id": "M1010_S0060_G0050_001_ane",
+        "jp": "私の名前はアネモネ。",
+        "en": "My name is Anemone.",
+        "ru": "Меня зовут Анемона."
+    },
+    {
+        "id": "M1010_S0060_G0060_001_ane",
+        "jp": "この辺り一帯のアンドロイドレジスタンスを取りまとめている。",
+        "en": "I'm the leader of the android Resistance that controls most of this territory.",
+        "ru": "Я лидер Сопротивления андроидов, которое контролирует большую часть здешней территории."
+    },
+    {
+        "id": "M1010_S0060_G0070_001_ane",
+        "jp": "バンカーから話は聞いている。このエリアの調査担当になったらしいな。",
+        "en": "You must be the new scouts we heard about.",
+        "ru": "Вы, должно быть, новобранцы-разведчики, о которых мы столько слышали."
+    },
+    {
+        "id": "M1010_S0060_G0080_001_ane",
+        "jp": "情報は私よりも他の連中の方が詳しいだろう。",
+        "en": "Well, I'm sure my people will have plenty of information for you.",
+        "ru": "Я уверена, у моих подчинённых есть масса информации для вас."
+    },
+    {
+        "id": "M1010_S0060_G0090_001_ane",
+        "jp": "私を通さなくていいから、好きに聞いてくれ。",
+        "en": "Please, feel free to ask them anything you like.",
+        "ru": "Не стесняйтесь спрашивать их о чём угодно."
+    },
+    {
+        "id": "M1010_S0060_G0100_001_ane",
+        "jp": "武器屋や道具屋は頻繁に使うだろうから、挨拶くらいしといてもいいかもな。",
+        "en": "I expect you'll be dealing a lot with the weapons trader and the supply trader, so why don't you go say 'hi'?",
+        "ru": "Я полагаю, что вам придётся частенько иметь дела с торговцами оружием и припасами, так почему бы не пойти и не поздороваться?"
+    },
+    {
+        "id": "M1010_S0060_G0110_001_ane",
+        "jp": "それと、入り口近くに機械生命体の頭をかぶったヤツがいるんだが……",
+        "en": "Also, there's this girl near the entrance wearing the head of a machine lifeform...",
+        "ru": "А ещё здесь есть девушка, у которой на голову надета голова машины..."
+    },
+    {
+        "id": "M1010_S0060_G0120_001_ane",
+        "jp": "変なヤツだが物知りだから、色々聞いてみるといい。",
+        "en": "She's a bit of an odd-ball, but she's really smart, so I'm sure she's got lots of useful information for you.",
+        "ru": "Она немного странная, но очень смышлёная; уверена, что у неё найдётся много полезной для вас информации."
+    },
+    {
+        "id": "M1020_S0005_G0000_001_ane",
+        "jp": "そうだ。私からも一つ頼みがある。",
+        "en": "Oh, hey, I actually have a request for you as well.",
+        "ru": "О, ещё кое-что: у меня есть к вам просьба."
+    },
+    {
+        "id": "M1020_S0005_G0010_001_ane",
+        "jp": "最近、砂漠地帯で凶悪な機械生命体が多く出現しているらしい。",
+        "en": "There have been lots of reports of dangerous machines appearing in the desert recently.",
+        "ru": "В последнее время поступает много докладов об опасных машинах, появившихся в пустыне."
+    },
+    {
+        "id": "M1020_S0005_G0020_001_ane",
+        "jp": "これまで無かった現象で、何か起きているのかもしれない。",
+        "en": "This is very unusual, so it may be indicative of something bigger.",
+        "ru": "Всё это довольно необычно, поэтому здесь может скрываться нечто большее."
+    },
+    {
+        "id": "M1020_S0005_G0030_001_ane",
+        "jp": "君達ヨルハ部隊は調査も得意だと聞いている。",
+        "en": "Now, I hear you YoRHa types are pretty good at examining things.",
+        "ru": "Я слышала, что солдаты YoRHa довольно хорошо разбираются в различных исследованиях."
+    },
+    {
+        "id": "M1020_S0005_G0040_001_ane",
+        "jp": "砂漠地帯の異変の原因を調べてもらえないだろうか？",
+        "en": "You think you can look into this whole mess for me?",
+        "ru": "Не могли бы вы помочь мне разобраться, что за чертовщина творится в пустыне?"
+    },
+    {
+        "id": "M1020_S0005_G0050_001_ane",
+        "jp": "手伝う。",
+        "en": "Help her.",
+        "ru": "Помочь ей."
+    },
+    {
+        "id": "M1020_S0005_G0060_001_ane",
+        "jp": "手伝わない。",
+        "en": "Don't help her.",
+        "ru": "Не помогать ей."
+    },
+    {
+        "id": "M1020_S0005_G0070_001_ane",
+        "jp": "そうか。ありがとう。",
+        "en": "Thanks! I knew I could count on you!",
+        "ru": "Спасибо! Я знала, что на вас можно положиться!"
+    },
+    {
+        "id": "M1020_S0005_G0080_001_ane",
+        "jp": "砂漠にいる私達の仲間には連絡しておく。",
+        "en": "I'll tell our allies in the desert that you're coming.",
+        "ru": "Я оповещу союзников в пустыне о том, что вы придёте."
+    },
+    {
+        "id": "M1020_S0005_G0090_001_ane",
+        "jp": "くれぐれも、気をつけて。",
+        "en": "Be careful out there, okay?",
+        "ru": "Будьте там поосторожнее, хорошо?"
+    },
+    {
+        "id": "M1020_S0005_G0100_001_ane",
+        "jp": "そうか……気が向いたらまた声をかけてくれ。",
+        "en": "I see. Alright, let me know if you change your mind.",
+        "ru": "Ясно. Тогда дайте мне знать, как передумаете."
+    },
+    {
+        "id": "M1010_S0050_G0040_300_a9s",
+        "jp": "ここは植物の侵食がかなり進んでいますが、\\n当時はかなり大きな都市だったんでしょうね。",
+        "en": "This must have been quite a city once upon a time. Too bad vegetation's claimed most of it now...",
+        "ru": "Должно быть, раньше здесь был крупный город. Но буйная растительность взяла своё..."
+    },
+    {
+        "id": "M5920_S0100_G0000_001_op60",
+        "jp": "オペレーター６Ｏより、２Ｂさんへ。定期連絡の時間です。",
+        "en": "Operator 6O to 2B. It is time for your regularly-scheduled contact.",
+        "ru": "Оператор 6O вызывает 2B. Запрашиваю регулярный сеанс связи."
+    },
+    {
+        "id": "M5920_S0100_G0010_001_a2b",
+        "jp": "こちら２Ｂ。異常なし。",
+        "en": "This is 2B. Nothing to report.",
+        "ru": "На связи 2B. Мне нечего доложить."
+    },
+    {
+        "id": "M5920_S0100_G0020_001_op60",
+        "jp": "それは良かったです。今日の地球の天気は良いですか？",
+        "en": "Good to hear. Say, how's the weather on Earth today? Good?",
+        "ru": "Рада слышать. Скажи, а какая сегодня погода на Земле? Хорошая?"
+    },
+    {
+        "id": "M5920_S0100_G0030_001_a2b",
+        "jp": "問題なし……それは作戦に関係する情報？",
+        "en": "It's fine. Does that question have anything to do with our operation?",
+        "ru": "Отличная. Этот вопрос как-то связан с нашей операцией?"
+    },
+    {
+        "id": "M5920_S0100_G0040_001_op60",
+        "jp": "いえいえ、そうではなくて。天気がいいと気分が良いのかなー、なんて。",
+        "en": "Not really! I just figured it might feel nice to have some good weather.",
+        "ru": "Не совсем! Я просто представила, каково это — почувствовать хорошую погоду."
+    },
+    {
+        "id": "M5920_S0100_G0050_001_a2b",
+        "jp": "気分が良くても良くなくても、作戦には関係ない。",
+        "en": "Feeling nice has no bearing on completing missions.",
+        "ru": "Чувство приятного никак не относится к выполнению нашего задания."
+    },
+    {
+        "id": "M5920_S0100_G0060_001_op60",
+        "jp": "ははっ……２Ｂさんらしいですね。",
+        "en": "Hee hee! That is so like you, 2B.",
+        "ru": "Хи-хи! Это так похоже на тебя, 2B."
+    },
+    {
+        "id": "M5920_S0100_G0070_001_op60",
+        "jp": "それでは、また！",
+        "en": "Anyway, talk to you later!",
+        "ru": "Ладно, до связи!"
+    },
+    {
+        "id": "M5920_S0100_G0320_001_op210",
+        "jp": "オペレーター２１Ｏより、９Ｓ。定期連絡を行います。",
+        "en": "Operator 21O to 9S. This is your regularly-scheduled contact.",
+        "ru": "Оператор 21O вызывает 9S. Запрашиваю регулярный сеанс связи."
+    },
+    {
+        "id": "M5920_S0100_G0330_001_a9s",
+        "jp": "はーい。こちら９Ｓ。異常ありませーん。いやあ、今日も天気が良くて……",
+        "en": "This is 9S. Nothing to report. Weather's sure nice today, though!",
+        "ru": "На связи 9S. Мне нечего доложить. Тем не менее, погодка сегодня отличная!"
+    },
+    {
+        "id": "M5920_S0100_G0340_001_op210",
+        "jp": "異常なしとの事。了解しました。",
+        "en": "Nothing to report, copy that.",
+        "ru": "Нечего доложить, принято."
+    },
+    {
+        "id": "M5920_S0100_G0350_001_op210",
+        "jp": "天気の情報は必要ありません。以上です。",
+        "en": "And...no need for a weather report. Operator 21O out.",
+        "ru": "И... не стоит докладывать мне о погоде. Оператор 21O — конец связи."
+    },
+    {
+        "id": "M5920_S0100_G0360_001_a9s",
+        "jp": "いやあ、オペレーターさん、相変わらずカタイなあ……",
+        "en": "Aw, you don't have to be so formal all the time, Operator.",
+        "ru": "Эх, оператор, не нужно постоянно быть такой формальной."
+    },
+    {
+        "id": "M5920_S0100_G0370_001_a9s",
+        "jp": "そこがいいところな気もしますけど。",
+        "en": "Though I kinda like that about you.",
+        "ru": "Хотя, мне нравится эта твоя черта."
+    },
+    {
+        "id": "M6090_S0010_G0015_300_kj",
+        "jp": "ああ、新顔さんかい？\\nそこにいる隊長に話を聞きに行くといい。",
+        "en": "Newcomer, are you? Go talk to the commanding officer over there.",
+        "ru": "Новенькие, да? Идите и побеседуйте с нашим командиром, вон там."
+    },
+    {
+        "id": "M6090_S0010_G0045_300_toolshop",
+        "jp": "ヨルハの人？まずはリーダーに話を通してくれ。\\n色々あるんだよ……シキタリってのが。",
+        "en": "You're with YoRHa, right? Well, you still need to talk to our commanding officer first. Even you guys gotta follow the rules.",
+        "ru": "Вы ведь из YoRHa, да? Для начала, вам следует поговорить с нашим лидером. Даже вам, ребятки, нужно следовать правилам."
+    },
+    {
+        "id": "M6090_S0010_G0835_300_bs",
+        "jp": "ああ、ヨルハ部隊の方ですか。\\nまずはリーダーのアネモネさんに会っていただけますか？",
+        "en": "Oh, you're a YoRHa soldier? You should talk to our leader Anemone first.",
+        "ru": "О, вы ведь солдаты YoRHa? Для начала, вам следует поговорить с нашим лидером, Анемоной."
+    },
+    {
+        "id": "M6090_S0010_G0125_300_resiman",
+        "jp": "ここを仕切ってるのは、リーダーのアネモネ姐さんだ。\\nまずはそこに挨拶しにいくんだな。",
+        "en": "Our leader Anemone is responsible for this camp. You should go say hi when you get a minute.",
+        "ru": "В этом лагере за главного — Анемона.\\nВам стоит поздороваться с ней, как будет свободная минутка."
+    },
+    {
+        "id": "M6090_S0010_G0145_300_resiman",
+        "jp": "……見ない顔だな？",
+        "en": "Heya. Haven't seen you around here before.",
+        "ru": "Привет. Раньше я вас здесь не видел."
+    },
+    {
+        "id": "M6090_S0010_G0165_300_resiman",
+        "jp": "おっと。リーダーの所には行ったのかい？",
+        "en": "Oh, hey. Did you talk to our leader yet?",
+        "ru": "О, эй. Вы уже побеседовали с нашим лидером?"
+    },
+    {
+        "id": "M6090_S0010_G0195_300_resiman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M6090_S0010_G0255_300_resiwoman",
+        "jp": "そこにいるアネモネさんがこのキャンプのリーダーだよ。",
+        "en": "Anemone over there is the camp leader.",
+        "ru": "Анемона — глава этого лагеря."
+    },
+    {
+        "id": "M6090_S0010_G0285_300_resiwoman",
+        "jp": "あ、こんにちは！ヨルハ部隊の方ですね！お待ちしてました！リーダーの\\nアネモネさんに会いました？会ってません？それとも会いました？",
+        "en": "You're a YoRHa soldier, right? I've been expecting you. Have you met our fearless leader Anemone yet? You have, right? Or maybe not?",
+        "ru": "Вы солдаты YoRHa, да? Я ждала вас. Уже виделись с нашим бесстрашным лидером, Анемоной? Уже успели, так ведь? Или ещё нет?"
+    },
+    {
+        "id": "M6090_S0010_G0415_300_resiwoman",
+        "jp": "やあ。ここのキャンプを色々調べるならまずは上を通してくれないかな？",
+        "en": "If you're going to inspect the camp, make sure you get permission first, okay?",
+        "ru": "Если собрались осмотреть лагерь, сначала спросите разрешения, хорошо?"
+    },
+    {
+        "id": "M6090_S0010_G0435_300_resiwoman",
+        "jp": "……ええっと……あなたは……誰ですか？",
+        "en": "Um, soooo...who are you?",
+        "ru": "Эм, та-а-а-к... и кто вы такие?"
+    },
+    {
+        "id": "M6090_S0091_G0001_300_hennawresi",
+        "jp": "アンタ達、ヨルハ部隊の新顔の人？\\nだったら、ここのリーダーと会っておくといいよ。",
+        "en": "Are you the new YoRHa soldiers? If so, you should go meet our leader.",
+        "ru": "Вы новобранцы из YoRHa? Если да, вам следует встретиться с нашим лидером."
+    },
+    {
+        "id": "M6090_S0010_G0485_300_resiman",
+        "jp": "あなたも新顔ですか？",
+        "en": "Are you new here?",
+        "ru": "Вы здесь новенькие?"
+    },
+    {
+        "id": "M6090_S0010_G0515_300_resiman",
+        "jp": "この救護室に運び込まれるようにはなるなよ……？",
+        "en": "Make sure you're never taken into this first-aid room, okay? Stay safe out there!",
+        "ru": "Постарайтесь не попадать в лазарет, хорошо? Берегите себя!"
+    },
+    {
+        "id": "M6090_S0010_G0535_300_resiman",
+        "jp": "こらこら。お嬢ちゃん達。まずはリーダーのアネモネさんに\\n話を通してくるんだな。それがここの流儀だ。",
+        "en": "Hey, you! You've got to speak to our leader Anemone before you do anything else. That's how things work around here.",
+        "ru": "Эй, вы! Прежде чем что-либо сделать, поговорите с нашим лидером. Так уж здесь заведено."
+    },
+    {
+        "id": "M6090_S0010_G0555_300_resiwoman",
+        "jp": "新しい人？よろしくね。",
+        "en": "You new here? Nice to meet you.",
+        "ru": "Вы здесь новенькие? Рада знакомству."
+    },
+    {
+        "id": "M6090_S0010_G0575_300_resiman",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M6090_S0010_G0605_300_resiwoman",
+        "jp": "リーダーのアネモネさんは広場のテントにいると思うよ？",
+        "en": "I think our leader Anemone is in the tent at the square.",
+        "ru": "Я думаю, вы найдёте нашего лидера, Анемону, под навесом на площади."
+    },
+    {
+        "id": "M6090_S0010_G0625_300_resiwoman",
+        "jp": "部外者には色々話せない事があるんですよね……",
+        "en": "I can't just tell any outsider that comes barging in here everything that's going on at this camp.",
+        "ru": "Я не могу разбалтывать информацию о том, что происходит в лагере, каждому встречному, забредающему сюда."
+    },
+    {
+        "id": "M6090_S0010_G0645_300_resiman",
+        "jp": "ん？新しいヨルハの人か……",
+        "en": "Hmm? Oh, a new YoRHa unit, eh?",
+        "ru": "Хм? О, вы ведь новички из YoRHa, да?"
+    },
+    {
+        "id": "M6090_S0010_G0665_300_resiman",
+        "jp": "あれ？リーダーの許可なくこんな奥まで来ちゃだめだよ。",
+        "en": "Huh? Hey, you can't come this far without our leader's permission.",
+        "ru": "А? Эй, вам нельзя сюда заходить без разрешения нашего лидера."
+    },
+    {
+        "id": "M6090_S0010_G0685_300_resiman",
+        "jp": "すまないね。リーダーに話を通さないとダメ、ってルールがあるんだ。",
+        "en": "Sorry. You've got to talk to our leader first. Them's the rules.",
+        "ru": "Извините. Но сначала вам нужно поговорить с нашим лидером. Таковы правила."
+    },
+    {
+        "id": "M6090_S0010_G0705_300_resiman",
+        "jp": "ここは各地のキャンプの中でも特にルールが厳しくてね。\\nまずはリーダーの承認を得るところから始めてね。",
+        "en": "The rules here are a lot stricter than the other camps. You have to get the leader's approval before you do anything.",
+        "ru": "Здешние правила намного строже, чем в других лагерях.\\nВам нужно получить одобрение от лидера, прежде чем что-либо делать."
+    },
+    {
+        "id": "M6090_S0010_G0735_300_resiman",
+        "jp": "あー、リーダーはここにはいないよ？",
+        "en": "Oh, our leader isn't here?",
+        "ru": "Ох, наш лидер не на месте?"
+    },
+    {
+        "id": "M6090_S0010_G0785_300_resiman",
+        "jp": "ん？リーダーの許可なくこんなところをウロついちゃダメだぞ？",
+        "en": "Hey, you can't loiter here without our leader's permission.",
+        "ru": "Эй, вам нельзя здесь слоняться без разрешения нашего лидера."
+    },
+    {
+        "id": "M6090_S0010_G0805_300_ys",
+        "jp": "ああ、新顔さんか。まずはリーダーのアネモネに話を聞くといい。",
+        "en": "Oh, a newcomer? You should you talk to our leader, Anemone.",
+        "ru": "О, новички? Вам следует поговорить с местным лидером, Анемоной."
+    },
+    {
+        "id": "M6090_S0010_G0455_300_resiwoman",
+        "jp": "リーダーはテントの奥にいますよ。",
+        "en": "Our leader's in the back.",
+        "ru": "Наш лидер стоит позади."
+    }
+]

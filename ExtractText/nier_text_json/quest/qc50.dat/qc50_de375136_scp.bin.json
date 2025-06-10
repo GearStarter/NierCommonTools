@@ -1,0 +1,26 @@
+[
+    {
+        "id": "M5095_S0200_G0005_001_telo",
+        "jp": "メモリ調整完了：不良率３０％",
+        "en": "Memory adjustment complete: 30% defective.",
+        "ru": "Корректировка памяти завершена: повреждения 30%."
+    },
+    {
+        "id": "M5095_S0200_G0015_001_telo",
+        "jp": "運動機能　左腕　調整完了：不良率３２％",
+        "en": "Adjustment of left arm motor functions complete: 32% defective.",
+        "ru": "Регулировка моторных функций левой руки: повреждения 32%."
+    },
+    {
+        "id": "M5095_S0200_G0025_001_telo",
+        "jp": "運動機能　右腕　調整完了：不良率１１％",
+        "en": "Adjustment of right arm motor functions complete: 11% defective.",
+        "ru": "Регулировка моторных функций правой руки: повреждения 11%."
+    },
+    {
+        "id": "M5095_S0200_G0035_001_telo",
+        "jp": "思考野　調整完了：不良率６４％",
+        "en": "Thought adjustment complete: 64% defective.",
+        "ru": "Корректировка мышления завершена: повреждения 64%."
+    }
+]

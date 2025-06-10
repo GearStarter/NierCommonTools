@@ -1,0 +1,302 @@
+[
+    {
+        "id": "M1080_S0030_G0000_101_ane",
+        "jp": "そうか……９Ｓは大変だったな。",
+        "en": "Damn... 9S really went through hell.",
+        "ru": "Проклятье... 9S действительно прошёл через ад."
+    },
+    {
+        "id": "M1080_S0030_G0010_101_ane",
+        "jp": "言われた通り、ボディごと君達の司令部に打ち上げておくよ。",
+        "en": "But you're the boss. You want him sent up to Command body and all, I'll make it happen.",
+        "ru": "Тебе решать. Если хочешь отправить тело и всё остальное в Штаб, то я сделаю это."
+    },
+    {
+        "id": "M1080_S0030_G0020_101_a2b",
+        "jp": "ありがとう……",
+        "en": "Thanks...",
+        "ru": "Спасибо..."
+    },
+    {
+        "id": "M1080_S0030_G0030_101_ane",
+        "jp": "え！？",
+        "en": "Oh!",
+        "ru": "О!"
+    },
+    {
+        "id": "M1080_S0030_G0040_101_a2b",
+        "jp": "何か？",
+        "en": "What?",
+        "ru": "Что?"
+    },
+    {
+        "id": "M1080_S0030_G0050_101_ane",
+        "jp": "君の口からそんな言葉を聞くなんて、意外だな。",
+        "en": "Nothing, just...you've never been much for gratitude, you know?",
+        "ru": "Да так, ничего... просто прежде я не слышала от тебя благодарностей."
+    },
+    {
+        "id": "M1080_S0030_G0060_101_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M1080_S0030_G0070_101_ane",
+        "jp": "まあいいさ。",
+        "en": "Not that I mind or anything.",
+        "ru": "Не то, чтобы я возражала или что-то ещё."
+    },
+    {
+        "id": "M1080_S0030_G0080_101_ane",
+        "jp": "あ、あと伝言がある。",
+        "en": "Oh, um, I also have a message for you.",
+        "ru": "А, эм, у меня тут сообщение для тебя."
+    },
+    {
+        "id": "M1080_S0030_G0090_101_ane",
+        "jp": "君達の司令部が連絡を欲しいってさ。",
+        "en": "Command needs you to contact them ASAP.",
+        "ru": "Штаб требует, чтобы вы как можно скорее связались с ними."
+    },
+    {
+        "id": "M1080_S0030_G0100_101_a2b",
+        "jp": "わかった。",
+        "en": "Got it.",
+        "ru": "Поняла."
+    },
+    {
+        "id": "M1080_S0030_G0110_101_a2b",
+        "jp": "こちら２Ｂ。司令官に繋いで。",
+        "en": "This is 2B. Patch me through to the Commander.",
+        "ru": "На связи 2B. Соедините меня с Командором."
+    },
+    {
+        "id": "M1080_S0030_G0120_101_op60",
+        "jp": "あっ、２Ｂさん。了解しました。",
+        "en": "Oh, hey, 2B. Roger that.",
+        "ru": "Ой, 2B. Принято."
+    },
+    {
+        "id": "M1080_S0030_G0130_101_op60",
+        "jp": "ちょっとお待ちくださいね……",
+        "en": "Gimme just a second here...",
+        "ru": "Секундочку..."
+    },
+    {
+        "id": "M1080_S0030_G0140_101_cmd",
+        "jp": "２Ｂか。",
+        "en": "2B.",
+        "ru": "2B."
+    },
+    {
+        "id": "M1080_S0030_G0150_101_cmd",
+        "jp": "敵機械生命体……コードネーム『アダム』の破壊、ご苦労だった。",
+        "en": "Good job destroying that machine.",
+        "ru": "Отлично сработано."
+    },
+    {
+        "id": "M1080_S0030_G0160_101_cmd",
+        "jp": "分析の結果、奴らのネットワークシステムの半数を\\nアダムが管理していた事が判明した。",
+        "en": "Upon further analysis, we learned that the machine—code named Adam—was responsible for managing half of their entire network.",
+        "ru": "В результате дальнейшего анализа мы узнали, что машина под кодовым именем Адам отвечала за управление половиной их сети."
+    },
+    {
+        "id": "M1080_S0030_G0170_101_cmd",
+        "jp": "ネットワークを破壊された機械生命体は弱体化するだろう。",
+        "en": "A disruption of this magnitude to their network should weaken the machines significantly.",
+        "ru": "Его уничтожение приведёт к ослаблению вражеских сил."
+    },
+    {
+        "id": "M1080_S0030_G0180_101_a2b",
+        "jp": "司令官。９Ｓは？",
+        "en": "What's going to happen to 9S?",
+        "ru": "Что будет с 9S?"
+    },
+    {
+        "id": "M1080_S0030_G0190_101_cmd",
+        "jp": "９Ｓはこちらでデータオーバーホールを行う。",
+        "en": "He'll undergo a full data overhaul up here.",
+        "ru": "Здесь, на базе, его полностью восстановят."
+    },
+    {
+        "id": "M1080_S0030_G0200_101_cmd",
+        "jp": "問題が無ければ、また君と同行してもらう予定だ。",
+        "en": "Assuming we don't encounter any problems, we're planning to partner him with you again.",
+        "ru": "Если не возникнет никаких проблем, он снова будет твоим напарником."
+    },
+    {
+        "id": "M1080_S0030_G0210_101_a2b",
+        "jp": "よろしくお願いします。",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M1080_S0030_G0220_101_cmd",
+        "jp": "９Ｓが動けない間、君には別の任務を頼みたい。",
+        "en": "In the meantime, I have another mission for you.",
+        "ru": "И ещё, у меня есть очередное задание для тебя."
+    },
+    {
+        "id": "M1080_S0030_G0230_101_cmd",
+        "jp": "内容をメールしたので確認してくれ。",
+        "en": "I've mailed you the briefing. Go ahead and take a look.",
+        "ru": "Я отправила тебе информацию о задании. Ознакомься и изучи её."
+    },
+    {
+        "id": "M1080_S0030_G0240_101_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5920_S0010_G0180_001_pod042",
+        "jp": "報告：アクセスポイントからメール受信の連絡。",
+        "en": "Report: Mail notification received from access point.",
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+    },
+    {
+        "id": "M1080_S0030_G0250_101_a2b",
+        "jp": "機械生命体達の動向か……",
+        "en": "\"Analyze current trends among the machines?\" ...Huh.",
+        "ru": "\"Проанализировать текущее направление в развитии машин?\" ...Хм."
+    },
+    {
+        "id": "M1080_S0030_G0260_101_a2b",
+        "jp": "って言っても、出会ったらすぐに殺しそうだけど……",
+        "en": "Something tells me this is going to involve a lot of killing.",
+        "ru": "Что-то подсказывает мне, это будет связано с большим количеством убийств."
+    },
+    {
+        "id": "M1080_S0030_G0270_101_pod042",
+        "jp": "提案：同族である機械生命体『パスカル』からの情報入手。",
+        "en": "Proposal: Procure information from the machine lifeform known as Pascal.",
+        "ru": "Предложение: добудьте информацию у машины, известной как Паскаль."
+    },
+    {
+        "id": "M1080_S0030_G0280_101_a2b",
+        "jp": "なるほど。パスカルなら何か知ってるかも。",
+        "en": "Hmm. I suppose he might know something.",
+        "ru": "Хм... думаю, он может что-то знать."
+    },
+    {
+        "id": "M1080_S0030_G0290_101_a2b",
+        "jp": "もしもし……聞こえる？パスカル。",
+        "en": "Pascal? Can you hear me?",
+        "ru": "Паскаль? Приём?"
+    },
+    {
+        "id": "M1080_S0030_G0300_101_pascal",
+        "jp": "ああ……２Ｂさん。どうしたんですか？",
+        "en": "Oh, hello, 2B. Do you need something?",
+        "ru": "О, привет, 2B. Что-то интересует?"
+    },
+    {
+        "id": "M1080_S0030_G0310_101_a2b",
+        "jp": "最近の機械生命体の動向について、何か気づいた事があれば教えて。",
+        "en": "I need to know if you've seen any new trends or behaviors among the machines.",
+        "ru": "Я хотела спросить, замечал ли ты какие-то изменения в развитии или поведении машин."
+    },
+    {
+        "id": "M1080_S0030_G0320_101_pascal",
+        "jp": "最近の機械生命体の動向ですか？",
+        "en": "New...trends? Hmm...",
+        "ru": "Новые... изменения в развитии? Хм..."
+    },
+    {
+        "id": "M1080_S0030_G0330_101_pascal",
+        "jp": "そういえば二日前、中央ネットワークから外れた機械生命体達から",
+        "en": "Well, two days ago I was contacted by some machines that disconnected themselves from the network.",
+        "ru": "Кхм, пару дней назад со мной связались несколько машин, которые отключили себя от сети."
+    },
+    {
+        "id": "M1080_S0030_G0340_101_pascal",
+        "jp": "和平協定の連絡がありました。",
+        "en": "They wanted to discuss a peace treaty.",
+        "ru": "Они хотели обсудить соглашение о мире."
+    },
+    {
+        "id": "M1080_S0030_G0350_101_a2b",
+        "jp": "和平協定？",
+        "en": "No kidding.",
+        "ru": "Ты серьёзно?"
+    },
+    {
+        "id": "M1080_S0030_G0360_101_pascal",
+        "jp": "ええ、ネットワークの支配から逃れた者達が、この村と同盟を組みたいと。",
+        "en": "Apparently, they're seeking to form an alliance of some kind with our village.",
+        "ru": "Судя по всему, они хотят заключить некий союз с деревней."
+    },
+    {
+        "id": "M1080_S0030_G0370_101_a2b",
+        "jp": "なら、パスカルの村に合流すればいいだけなんじゃ……？",
+        "en": "If that's what they want, why don't they move in?",
+        "ru": "Если это так, то почему они бездействуют?"
+    },
+    {
+        "id": "M1080_S0030_G0380_101_pascal",
+        "jp": "いえ、既に大きなコロニーを作っているそうです。",
+        "en": "I believe they're working on building a colony of their own.",
+        "ru": "Полагаю, что они работают над созданием собственной колонии."
+    },
+    {
+        "id": "M1080_S0030_G0390_101_a2b",
+        "jp": "コロニー？",
+        "en": "You don't say.",
+        "ru": "Неужели."
+    },
+    {
+        "id": "M1080_S0030_G0400_101_pascal",
+        "jp": "はい。廃工場に逃げ込んでいるようです。",
+        "en": "Indeed. Apparently, it's located in the abandoned factory.",
+        "ru": "Именно. Судя по всему, они находятся на заброшенной фабрике."
+    },
+    {
+        "id": "M1080_S0030_G0410_101_pascal",
+        "jp": "興味があるようでしたら場所を転送します。",
+        "en": "I can give you the coordinates if you'd like.",
+        "ru": "Если хотите, я могу дать вам координаты."
+    },
+    {
+        "id": "M1080_S0030_G0420_101_a2b",
+        "jp": "お願い。",
+        "en": "Please.",
+        "ru": "Пожалуйста."
+    },
+    {
+        "id": "M1080_S0030_G0430_101_pascal",
+        "jp": "私もそろそろ話にいかないといけないと思っていたので。",
+        "en": "I was actually planning to go speak with them myself, you know.",
+        "ru": "Знаешь, я планировал сходить поговорить с ними."
+    },
+    {
+        "id": "M1080_S0030_G0440_101_pascal",
+        "jp": "現地で合流しましょう。",
+        "en": "Maybe we can meet up over there?",
+        "ru": "Может, мы сможем встретиться там?"
+    },
+    {
+        "id": "M1080_S0030_G0450_101_a2b",
+        "jp": "了解。",
+        "en": "Sounds good.",
+        "ru": "Звучит неплохо."
+    },
+    {
+        "id": "M5920_S0010_G0281_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M1080_S0030_G0460_101_pascal",
+        "jp": "２Ｂさん。こんにちは。",
+        "en": "Oh, 2B! Hello!",
+        "ru": "О, 2B! Привет!"
+    },
+    {
+        "id": "M1080_S0030_G0470_101_pascal",
+        "jp": "じゃあ、行きましょうか。",
+        "en": "Are you ready to go?",
+        "ru": "Готова?"
+    }
+]

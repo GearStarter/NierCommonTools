@@ -1,0 +1,818 @@
+[
+    {
+        "id": "M6090_S0091_G0000_300_hennawresi",
+        "jp": "ああ、ヨルハ部隊の人か。",
+        "en": "Hey, you're with YoRHa, right?",
+        "ru": "Эй, вы ведь из YoRHa?"
+    },
+    {
+        "id": "M6090_S0091_G0010_300_hennawresi",
+        "jp": "ん？……この頭のカブリ物の事？",
+        "en": "Hmm? My mask?",
+        "ru": "Хм? Моя голова?"
+    },
+    {
+        "id": "M6090_S0091_G0020_300_hennawresi",
+        "jp": "これは、俗世間の不必要な情報を制限する為に頭に装着している\\n電磁波遮断装置なんだよ。",
+        "en": "It's an electromagnetic-wave shielding device. I wear it to limit unnecessary information from the world.",
+        "ru": "Это устройство, защищающее меня от электромагнитных волн. Я ношу его, чтобы ограничивать поступление ненужной информации из окружающего мира."
+    },
+    {
+        "id": "M6090_S0091_G0030_300_hennawresi",
+        "jp": "……ウソだけど。",
+        "en": "...Ha! Just kidding.",
+        "ru": "Ха! Просто шучу."
+    },
+    {
+        "id": "M6090_S0091_G0040_300_hennawresi",
+        "jp": "で、何か用？悩みでもあるの？",
+        "en": "So what do you want? Are you worried about something or whatever?",
+        "ru": "Так что вы хотите? Вас что-то беспокоит?"
+    },
+    {
+        "id": "M6090_S0091_G0110_300_sele",
+        "jp": "セーブってどうするの？",
+        "en": "How do I save?",
+        "ru": "Как я могу сохраниться?"
+    },
+    {
+        "id": "M6090_S0091_G0120_300_sele",
+        "jp": "アクセスポイントって何？",
+        "en": "What's an access point?",
+        "ru": "Что такое терминал?"
+    },
+    {
+        "id": "M6090_S0091_G0130_300_sele",
+        "jp": "死んだらどうすればいい？",
+        "en": "What should I do if I die?",
+        "ru": "Что делать, если я умру?"
+    },
+    {
+        "id": "M6090_S0091_G0140_300_sele",
+        "jp": "これからどこに行けばいい？",
+        "en": "Where should I go now?",
+        "ru": "Куда мне стоит отправиться?"
+    },
+    {
+        "id": "M6090_S0091_G0150_300_sele",
+        "jp": "３Ｄ酔いするんだけど……",
+        "en": "I feel motion sick...",
+        "ru": "Меня укачивает при движении..."
+    },
+    {
+        "id": "M6090_S0091_G0160_300_sele",
+        "jp": "ゲームが難しすぎるんだけど……",
+        "en": "This game is too difficult!",
+        "ru": "Эта игра слишком сложная!"
+    },
+    {
+        "id": "M6090_S0091_G0180_300_sele",
+        "jp": "悩みはない。",
+        "en": "I'm good.",
+        "ru": "Всё в порядке."
+    },
+    {
+        "id": "M6090_S0091_G0440_300_hennawresi",
+        "jp": "ああ、君か。",
+        "en": "Oh, it's you.",
+        "ru": "О, вот и вы."
+    },
+    {
+        "id": "M6090_S0091_G0450_300_hennawresi",
+        "jp": "実はちょっと人には言えない商売を始めたんだよね……",
+        "en": "The truth is, I've opened a little side business. Gotta be real hush-hush about it though.",
+        "ru": "Правда в том, что я открыл небольшой бизнес на стороне. Хотя, это стоит держать в секрете."
+    },
+    {
+        "id": "M6090_S0091_G0460_300_hennawresi",
+        "jp": "すごく頑張った人に与えられる称号があるじゃないか……アレ……\\nまあ大っぴらには言えないんだけど、例のアレ。",
+        "en": "See, there are certain...accolades given to a select few who really give their all. You know what I'm getting at.",
+        "ru": "Видите ли, есть определённая... награда, доступная немногим избранным, которые действительно выкладываются на полную. Вы понимаете, к чему я клоню?"
+    },
+    {
+        "id": "M6090_S0091_G0470_300_hennawresi",
+        "jp": "そのアレを解除するのが大変で、困ってるアンドロイドが沢山いてね。",
+        "en": "They're super tough to earn, which frustrates a lot of androids.",
+        "ru": "Награду очень трудно заработать, что расстраивает многих андроидов."
+    },
+    {
+        "id": "M6090_S0091_G0480_300_hennawresi",
+        "jp": "各地の有志の協力を得て、アレの解除を代行する商売を始めたんだ。",
+        "en": "So, with the help of some select volunteers, my company unlocks them.",
+        "ru": "Поэтому с помощью некоторых избранных волонтёров моя компания поможет вам открыть их."
+    },
+    {
+        "id": "M6090_S0091_G0490_300_hennawresi",
+        "jp": "内緒なんだけど、良ければ見ていってくれよ……",
+        "en": "It's a secret, but check it out if you like...",
+        "ru": "Это секрет, но проверьте, если хотите..."
+    },
+    {
+        "id": "M6090_S0091_G0110_300_sele",
+        "jp": "セーブってどうするの？",
+        "en": "How do I save?",
+        "ru": "Как я могу сохраниться?"
+    },
+    {
+        "id": "M6090_S0091_G0120_300_sele",
+        "jp": "アクセスポイントって何？",
+        "en": "What's an access point?",
+        "ru": "Что такое терминал?"
+    },
+    {
+        "id": "M6090_S0091_G0130_300_sele",
+        "jp": "死んだらどうすればいい？",
+        "en": "What should I do if I die?",
+        "ru": "Что делать, если я умру?"
+    },
+    {
+        "id": "M6090_S0091_G0140_300_sele",
+        "jp": "これからどこに行けばいい？",
+        "en": "Where should I go now?",
+        "ru": "Куда мне стоит отправиться?"
+    },
+    {
+        "id": "M6090_S0091_G0150_300_sele",
+        "jp": "３Ｄ酔いするんだけど……",
+        "en": "I feel motion sick...",
+        "ru": "Меня укачивает при движении..."
+    },
+    {
+        "id": "M6090_S0091_G0160_300_sele",
+        "jp": "ゲームが難しすぎるんだけど……",
+        "en": "This game is too difficult!",
+        "ru": "Эта игра слишком сложная!"
+    },
+    {
+        "id": "M6090_S0091_G0170_300_sele",
+        "jp": "アレの解除を依頼。",
+        "en": "Request unlocking you-know-what.",
+        "ru": "Запросить разблокировку сами-знаете-чего."
+    },
+    {
+        "id": "M6090_S0091_G0180_300_sele",
+        "jp": "悩みはない。",
+        "en": "I'm good.",
+        "ru": "Всё в порядке."
+    },
+    {
+        "id": "M6090_S0091_G0080_300_hennawresi",
+        "jp": "ああ……ヨルハの人は大変だったみたいだね。",
+        "en": "It must've been tough for you YoRHa.",
+        "ru": "Вам, YoRHa, наверное, очень непросто."
+    },
+    {
+        "id": "M6090_S0091_G0090_300_hennawresi",
+        "jp": "バンカーが無くなった今、義体は補給されなくなった。\\nだから、死んだ場合も『回収』する事は出来ない。",
+        "en": "Now we've got no Bunker, and we can't replenish our bodies. So if we die, there's no more recovery.",
+        "ru": "Теперь у нас нет Бункера, и мы не сможем пополнить запас тел. Поэтому, если вы умрёте, то вас больше не восстановят."
+    },
+    {
+        "id": "M6090_S0091_G0100_300_hennawresi",
+        "jp": "死んだらそこでおしまいだから、\\nなるべく細かくセーブしておくことをオススメするよ……",
+        "en": "If you die now, it's the end, so I'd recommend saving as much as possible.",
+        "ru": "Теперь, если вы умрёте, вам конец, поэтому рекомендую сохраняться как можно чаще."
+    },
+    {
+        "id": "M6090_S0091_G0110_300_sele",
+        "jp": "セーブってどうするの？",
+        "en": "How do I save?",
+        "ru": "Как я могу сохраниться?"
+    },
+    {
+        "id": "M6090_S0091_G0120_300_sele",
+        "jp": "アクセスポイントって何？",
+        "en": "What's an access point?",
+        "ru": "Что такое терминал?"
+    },
+    {
+        "id": "M6090_S0091_G0140_300_sele",
+        "jp": "これからどこに行けばいい？",
+        "en": "Where should I go now?",
+        "ru": "Куда мне стоит отправиться?"
+    },
+    {
+        "id": "M6090_S0091_G0150_300_sele",
+        "jp": "３Ｄ酔いするんだけど……",
+        "en": "I feel motion sick...",
+        "ru": "Меня укачивает при движении..."
+    },
+    {
+        "id": "M6090_S0091_G0160_300_sele",
+        "jp": "ゲームが難しすぎるんだけど……",
+        "en": "This game is too difficult!",
+        "ru": "Эта игра слишком сложная!"
+    },
+    {
+        "id": "M6090_S0091_G0170_300_sele",
+        "jp": "アレの解除を依頼。",
+        "en": "Request unlocking you-know-what.",
+        "ru": "Запросить разблокировку сами-знаете-чего."
+    },
+    {
+        "id": "M6090_S0091_G0180_300_sele",
+        "jp": "悩みはない。",
+        "en": "I'm good.",
+        "ru": "Всё в порядке."
+    },
+    {
+        "id": "M6090_S0091_G0060_300_hennawresi",
+        "jp": "何か悩み事があったら聞くよ？",
+        "en": "If you're worried about anything, you can always talk to me.",
+        "ru": "Если вас что-то беспокоит, то можете всегда поговорить со мной."
+    },
+    {
+        "id": "M6090_S0091_G0110_300_sele",
+        "jp": "セーブってどうするの？",
+        "en": "How do I save?",
+        "ru": "Как я могу сохраниться?"
+    },
+    {
+        "id": "M6090_S0091_G0120_300_sele",
+        "jp": "アクセスポイントって何？",
+        "en": "What's an access point?",
+        "ru": "Что такое терминал?"
+    },
+    {
+        "id": "M6090_S0091_G0130_300_sele",
+        "jp": "死んだらどうすればいい？",
+        "en": "What should I do if I die?",
+        "ru": "Что делать, если я умру?"
+    },
+    {
+        "id": "M6090_S0091_G0140_300_sele",
+        "jp": "これからどこに行けばいい？",
+        "en": "Where should I go now?",
+        "ru": "Куда мне стоит отправиться?"
+    },
+    {
+        "id": "M6090_S0091_G0150_300_sele",
+        "jp": "３Ｄ酔いするんだけど……",
+        "en": "I feel motion sick...",
+        "ru": "Меня укачивает при движении..."
+    },
+    {
+        "id": "M6090_S0091_G0160_300_sele",
+        "jp": "ゲームが難しすぎるんだけど……",
+        "en": "This game is too difficult!",
+        "ru": "Эта игра слишком сложная!"
+    },
+    {
+        "id": "M6090_S0091_G0170_300_sele",
+        "jp": "アレの解除を依頼。",
+        "en": "Request unlocking you-know-what.",
+        "ru": "Запросить разблокировку сами-знаете-чего."
+    },
+    {
+        "id": "M6090_S0091_G0180_300_sele",
+        "jp": "悩みはない。",
+        "en": "I'm good.",
+        "ru": "Всё в порядке."
+    },
+    {
+        "id": "M6090_S0091_G0050_300_hennawresi",
+        "jp": "話せて楽しかったよ……またいつでも来てね。",
+        "en": "It was fun talking with you. Come back anytime!",
+        "ru": "С вами весело разговаривать. Возвращайтесь в любое время!"
+    },
+    {
+        "id": "M6090_S0091_G0070_300_hennawresi",
+        "jp": "じゃあ、またね。",
+        "en": "See you later then.",
+        "ru": "Тогда до скорой встречи."
+    },
+    {
+        "id": "M6090_S0091_G0070_300_hennawresi",
+        "jp": "じゃあ、またね。",
+        "en": "See you later then.",
+        "ru": "Тогда до скорой встречи."
+    },
+    {
+        "id": "M6090_S0091_G0070_300_hennawresi",
+        "jp": "じゃあ、またね。",
+        "en": "See you later then.",
+        "ru": "Тогда до скорой встречи."
+    },
+    {
+        "id": "M6090_S0091_G0190_300_hennawresi",
+        "jp": "まず、このゲームはオートセーブ出来ない事を覚えておいて欲しい。",
+        "en": "First of all, remember that this game doesn't auto-save.",
+        "ru": "Перво-наперво, запомните, что в этой игре нет автосохранений."
+    },
+    {
+        "id": "M6090_S0091_G0191_300_hennawresi",
+        "jp": "セーブするにはあそこのアクセスポイントを起動する必要がある。",
+        "en": "You need to activate that access point over there in order to save.",
+        "ru": "Для сохранения нужно использовать терминалы."
+    },
+    {
+        "id": "M6090_S0091_G0192_300_hennawresi",
+        "jp": "一度端末を起動させたら、端末の近くならどこでもセーブ出来る筈だよ。",
+        "en": "Once you activate a terminal, you can save from anywhere nearby so long as you're within range.",
+        "ru": "Однажды активировав терминал, вы можете сохраниться где угодно, пока вы в зоне досягаемости."
+    },
+    {
+        "id": "M6090_S0091_G0200_300_hennawresi",
+        "jp": "スクリーンの右上にあるアンテナが立っている時に、システムメニューから\\nクイックセーブする事が出来る。",
+        "en": "When there's a connection icon displayed on the top right of your screen, you can go to the System Menu and quick save.",
+        "ru": "Когда значок подключения отобразится в правом верхнем углу экрана, вы можете перейти в системное меню и выполнить быстрое сохранение."
+    },
+    {
+        "id": "M6090_S0091_G0201_300_hennawresi",
+        "jp": "あと、ここのアクセスポイントから君達ヨルハ部隊の衛星基地に\\n戻ることも出来る。",
+        "en": "You can also use the access point here to return to that orbiting space station thingy of yours.",
+        "ru": "Вы также можете использовать терминал, чтобы вернуться на орбитальную космическую станцию."
+    },
+    {
+        "id": "M6090_S0091_G0202_300_hennawresi",
+        "jp": "他のアクセスポイントはまだ整備中だが、そのうち転送も可能になるだろう。",
+        "en": "The other access points are still undergoing maintenance, but you should be able to use them for transport soon.",
+        "ru": "Некоторые терминалы всё ещё требуют ремонта, но скоро вы сможете использовать их для перемещения."
+    },
+    {
+        "id": "M6090_S0091_G0210_300_hennawresi",
+        "jp": "もう一度言うけどオートセーブ出来ないから、忘れないように。",
+        "en": "But—and I can't repeat this enough—don't forget that there's no auto-save!",
+        "ru": "И я не устану повторять: не забывайте, что здесь нет автосохранения!"
+    },
+    {
+        "id": "M6090_S0091_G0220_300_hennawresi",
+        "jp": "アンテナが有効なエリアは限られているけど、アクセスポイントを\\nアクティブにする事でセーブ可能エリアを広げる事が出来るはずだよ。",
+        "en": "Connectivity is limited to certain areas, but you should be able to save in more locations by activating access points.",
+        "ru": "Подключение ограничено определённой зоной, но, активируя терминалы, вы сможете сохраняться в большем количестве областей."
+    },
+    {
+        "id": "M6090_S0091_G0230_300_hennawresi",
+        "jp": "念のため、もう一度だけ言うけど、オートセーブ出来ないからね……",
+        "en": "Oh, and let me say it again... There's no auto-save!",
+        "ru": "О, и позвольте мне повторить... Здесь нет автосохранений!"
+    },
+    {
+        "id": "M6090_S0091_G0240_300_hennawresi",
+        "jp": "アクセスポイントってのは、ヨルハ部隊員の為に用意された設備だ。",
+        "en": "An access point is a piece of YoRHa equipment.",
+        "ru": "Терминалы — часть оборудования YoRHa."
+    },
+    {
+        "id": "M6090_S0091_G0250_300_hennawresi",
+        "jp": "具体的に言うとアレなんだけど。",
+        "en": "More specifically, it's that thing.",
+        "ru": "Это довольно специфичная вещь."
+    },
+    {
+        "id": "M6090_S0091_G0260_300_hennawresi",
+        "jp": "アクセスポイントでは、データをセーブしたりメールを受信したりする事が\\n出来る。",
+        "en": "You can save and check your mail there.",
+        "ru": "В них вы можете сохраниться и проверить почту."
+    },
+    {
+        "id": "M6090_S0091_G0270_300_hennawresi",
+        "jp": "キャンプ外では自動販売機の残骸に偽装されているんだ。",
+        "en": "They're all disguised as wrecked vending machines outside the camp.",
+        "ru": "За пределами лагеря они все замаскированы под торговые автоматы."
+    },
+    {
+        "id": "M6090_S0091_G0280_300_hennawresi",
+        "jp": "他にも色んな機能があるけど……まあ使えば判るよ。",
+        "en": "They have a couple other functions, but I guess you'll learn about that when you use 'em.",
+        "ru": "У них есть пара других функций, но я думаю, вы узнаете о них, когда воспользуетесь им."
+    },
+    {
+        "id": "M6090_S0091_G0290_300_hennawresi",
+        "jp": "たまに、敵に襲われて使用不可能になっている端末があるから、\\nそういう時は敵を排除するといい。",
+        "en": "Sometimes enemies will attack terminals. In those cases, you won't be able to use them again until you get rid of the enemies.",
+        "ru": "Иногда враги атакуют терминалы. В этом случае вы не сможете использовать их снова, пока не избавитесь от врагов."
+    },
+    {
+        "id": "M6090_S0091_G0320_300_hennawresi",
+        "jp": "哲学的で良い質問だ。",
+        "en": "...That's a good philosophical question.",
+        "ru": "...Это хороший философский вопрос."
+    },
+    {
+        "id": "M6090_S0091_G0330_300_hennawresi",
+        "jp": "ヨルハ機体は破壊された直後に記憶データだけが『義体』に転送される。",
+        "en": "After a YoRHa body is destroyed, only its memory data is transferred to the new body.",
+        "ru": "После уничтожения тела YoRHa только данные памяти переносятся в новое тело."
+    },
+    {
+        "id": "M6090_S0091_G0340_300_hennawresi",
+        "jp": "ただ、アイテム類は転送されないから、死亡してしまったら、過去の自分の\\n死体からプラグイン・チップを回収する必要があるんだ。",
+        "en": "That means items aren't transferred—so if you die, you need to recover plug-in chips from your previous body.",
+        "ru": "Это означает, что предметы не переносятся, поэтому, если вы умрёте, то вам нужно извлечь чипы с предыдущего тела."
+    },
+    {
+        "id": "M6090_S0091_G0350_300_hennawresi",
+        "jp": "回収前にまた死亡すると、プラグイン・チップはロストしてしまうので\\n気をつけて。",
+        "en": "If you die again before recovering your plug-in chips, they'll all be lost, so take care.",
+        "ru": "Если вы умрёте снова, до того, как извлечёте чипы, они будут потеряны, поэтому будьте осторожны."
+    },
+    {
+        "id": "M6090_S0091_G0360_300_hennawresi",
+        "jp": "短く言うと……『自分の死体はすぐ回収しろ』って事。",
+        "en": "Basically, you need to recover everything from your previous body immediately.",
+        "ru": "Иными словами, вам нужно как можно скорее извлечь всё с вашего предыдущего тела."
+    },
+    {
+        "id": "M6090_S0091_G0300_300_hennawresi",
+        "jp": "歩いていると、右下にミニマップが表示されていると思う。\\nその中の<MAP_GOAL>がこれから行くべき目的地だ。",
+        "en": "When you're walking, there should be a mini map on the bottom right. The <MAP_GOAL> icon there shows your next destination.",
+        "ru": "В правом нижнем углу у вас должна отображаться мини-карта. Значок <MAP_GOAL> показывает вашу следующую точку назначения."
+    },
+    {
+        "id": "M6090_S0091_G0310_300_hennawresi",
+        "jp": "まあ、赤いマーカーを目指して進めばなんとかなるよ。",
+        "en": "You'll be fine so long as you follow the red marker.",
+        "ru": "Просто следуйте за красным маркером."
+    },
+    {
+        "id": "M6090_S0091_G0370_300_hennawresi",
+        "jp": "ああ、そういうシステム系の相談はあっちにいるメンテナンス屋に聞いてみるといい。",
+        "en": "If you have any system-related questions, ask Maintenance.",
+        "ru": "Если у вас есть любые вопросы, связанные с системой, то спросите техника."
+    },
+    {
+        "id": "M6090_S0091_G0375_300_hennawresi",
+        "jp": "義体の整備から、ポッドの調整まで何でも請け負ってるから。",
+        "en": "They handle everything from body maintenance to Pod adjustments.",
+        "ru": "Она отвечает за всё, что связано с техобслуживанием и Ботами."
+    },
+    {
+        "id": "M6090_S0091_G0380_300_hennawresi",
+        "jp": "ゲームの難易度はシステムメニューでいつでも変更出来るよ。\\nそれぞれの難易度でゲームプレイが違うので試してみるといいかもね。",
+        "en": "You can change the game difficulty at any time on the System Menu.",
+        "ru": "Вы можете изменить уровень сложности игры в любое время в системном меню."
+    },
+    {
+        "id": "M6090_S0091_G0390_300_hennawresi",
+        "jp": "「EASY」は敵が弱体化する上に「オートチップ」が装備可能だ。\\n<KC_LOCKON>で自動攻撃・自動回避が起動する。",
+        "en": "In Easy mode, enemies are weaker and you can use special auto chips. Equip them and <KC_LOCKON> will activate automatic attacks and evades.",
+        "ru": "Легко: враги слабее, а вы можете использовать особые чипы автоконтроля. Установите их и <KC_LOCKON> активирует автоматические атаки и уклонения."
+    },
+    {
+        "id": "M6090_S0091_G0400_300_hennawresi",
+        "jp": "「NORMAL」はまさにノーマルな難易度。",
+        "en": "Normal mode is a standard level of difficulty.",
+        "ru": "Нормально — это стандартный уровень сложности."
+    },
+    {
+        "id": "M6090_S0091_G0410_300_hennawresi",
+        "jp": "「HARD」は敵が強くなる上に「ロックオン」が使用不可になる。",
+        "en": "The enemy gets stronger in Hard mode and you can't use any lock-on features.",
+        "ru": "Тяжело: враги сильнее, а вы не можете использовать функцию захвата цели."
+    },
+    {
+        "id": "M6090_S0091_G0420_300_hennawresi",
+        "jp": "「VERY HARD」は「ロックオン」が使用不可な上、\\n敵の攻撃力が信じられない程上昇する。",
+        "en": "In Very Hard mode, not only is lock-on disabled, but the enemies are... Well, they're kind of insane.",
+        "ru": "Очень тяжело: помимо отключенного захвата цели, враги... Ну, это безумие."
+    },
+    {
+        "id": "M6090_S0091_G0430_300_hennawresi",
+        "jp": "……正気とは思えない難易度だが、命知らずの連中は\\nこれを選ぶみたいだよ。",
+        "en": "It's almost stupid difficult, but more daring players seem to like it.",
+        "ru": "Это дурацкая сложность, но многим смелым игрокам она должна понравиться."
+    },
+    {
+        "id": "M6090_S0091_G0431_300_hennawresi",
+        "jp": "それと、ここだけの話「DATA」→「チュートリアル」の中には未公開の技も\\n入ってるらしい。",
+        "en": "And hey, just between you and me, if you go to \"Intel\" and select \"Tutorials,\" you may find out some things you didn't know.",
+        "ru": "И только между нами: если вы зайдёте в \"знания\" и выберете \"обучение\", то, может, найдёте что-то, чего ещё не знали."
+    },
+    {
+        "id": "M6090_S0091_G0432_300_hennawresi",
+        "jp": "ヒマ過ぎて死にそうな時は、一度覗いてみるといい。",
+        "en": "May be worth checking out if you're ever bored out of your skull!",
+        "ru": "Вам стоит проверить, если вдруг заскучаете!"
+    },
+    {
+        "id": "M6090_S0091_G0500_300_hennamresi",
+        "jp": "ああ、素晴らしい……この頭部は……素晴らしいよ！",
+        "en": "Ahh, this is amazing... This head is...amazing!",
+        "ru": "Ах, она великолепна... Эта голова великолепна!"
+    },
+    {
+        "id": "M6090_S0091_G0510_300_hennamresi",
+        "jp": "このパーツを装着していると、見えるんだ……世界が見える！",
+        "en": "Put this on, and you can see the whole world!",
+        "ru": "Наденьте её, и сможете увидеть весь мир!"
+    },
+    {
+        "id": "M6090_S0091_G0531_300_hennamresi",
+        "jp": "おお、君はヨルハ部隊のスキャナーモデルじゃないか……",
+        "en": "Ooooh....You're a Scanner, aren't you?",
+        "ru": "О-о-о-о... Вы Сканер, не так ли?"
+    },
+    {
+        "id": "M6090_S0091_G0532_300_hennamresi",
+        "jp": "俺にわからないことは何もない……",
+        "en": "I know everything...",
+        "ru": "Я знаю всё..."
+    },
+    {
+        "id": "M6090_S0091_G0520_300_hennamresi",
+        "jp": "聞いてくれ。全知全能になったこの俺に、質問を投げかけてくれ！",
+        "en": "Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!",
+        "ru": "Спросите у меня что-нибудь! Что угодно! Я всезнающий, всемогущий, завалите меня вопросами!"
+    },
+    {
+        "id": "M6090_S0091_G0533_300_hennamresi",
+        "jp": "というのは言い過ぎだが、ハッキングの事とか色々聞いてくれていいんだぜ？",
+        "en": "...Okay, maybe not EVERYTHING, but you can ask me anything you want to know about hacking.",
+        "ru": "...Хорошо, может и не ВСЁ, но вы можете спрашивать у меня что угодно, если хотите узнать о взломе."
+    },
+    {
+        "id": "M6090_S0091_G0560_300_sele",
+        "jp": "メールを読むのが不便なんだけど……",
+        "en": "Reading mail is inconvenient.",
+        "ru": "Читать письма неудобно."
+    },
+    {
+        "id": "M6090_S0091_G0570_300_sele",
+        "jp": "３Ｄマップが見づらいんだけど……",
+        "en": "It's hard to see the 3D map...",
+        "ru": "На 3D карте сложно что-то разобрать..."
+    },
+    {
+        "id": "M6090_S0091_G0580_300_sele",
+        "jp": "この世界の通貨ってどうなってるの？",
+        "en": "What's the currency in this world?",
+        "ru": "Какая валюта в этом мире?"
+    },
+    {
+        "id": "M6090_S0091_G0590_300_sele",
+        "jp": "ブラックボックスって何？",
+        "en": "What's a black box?",
+        "ru": "Что такое чёрный ящик?"
+    },
+    {
+        "id": "M6090_S0091_G0595_300_sele",
+        "jp": "ハッキングについて教えて欲しい。",
+        "en": "Teach me about hacking.",
+        "ru": "Обучите меня взлому."
+    },
+    {
+        "id": "M6090_S0091_G0600_300_sele",
+        "jp": "質問はありません。",
+        "en": "I don't have any questions.",
+        "ru": "У меня больше нет вопросов."
+    },
+    {
+        "id": "M6090_S0091_G0520_300_hennamresi",
+        "jp": "聞いてくれ。全知全能になったこの俺に、質問を投げかけてくれ！",
+        "en": "Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!",
+        "ru": "Спросите у меня что-нибудь! Что угодно! Я всезнающий, всемогущий, завалите меня вопросами!"
+    },
+    {
+        "id": "M6090_S0091_G0535_300_hennamresi",
+        "jp": "是非とも俺に質問してくれよ……例えば、ハッキングの事とか。",
+        "en": "Go on, ask me about something. Like, I dunno, hacking?",
+        "ru": "Давайте, спросите меня о чем-нибудь. Ну, например, о взломе?"
+    },
+    {
+        "id": "M6090_S0091_G0560_300_sele",
+        "jp": "メールを読むのが不便なんだけど……",
+        "en": "Reading mail is inconvenient.",
+        "ru": "Читать письма неудобно."
+    },
+    {
+        "id": "M6090_S0091_G0570_300_sele",
+        "jp": "３Ｄマップが見づらいんだけど……",
+        "en": "It's hard to see the 3D map...",
+        "ru": "На 3D карте сложно что-то разобрать..."
+    },
+    {
+        "id": "M6090_S0091_G0580_300_sele",
+        "jp": "この世界の通貨ってどうなってるの？",
+        "en": "What's the currency in this world?",
+        "ru": "Какая валюта в этом мире?"
+    },
+    {
+        "id": "M6090_S0091_G0590_300_sele",
+        "jp": "ブラックボックスって何？",
+        "en": "What's a black box?",
+        "ru": "Что такое чёрный ящик?"
+    },
+    {
+        "id": "M6090_S0091_G0595_300_sele",
+        "jp": "ハッキングについて教えて欲しい。",
+        "en": "Teach me about hacking.",
+        "ru": "Обучите меня взлому."
+    },
+    {
+        "id": "M6090_S0091_G0600_300_sele",
+        "jp": "質問はありません。",
+        "en": "I don't have any questions.",
+        "ru": "У меня больше нет вопросов."
+    },
+    {
+        "id": "M6090_S0091_G0540_300_hennamresi",
+        "jp": "質問を……俺に質問をしてくれ！",
+        "en": "Ask me a question! Ask me a question! Come ooooon!",
+        "ru": "Задайте мне вопрос! Задайте мне вопрос! Дава-а-айте!"
+    },
+    {
+        "id": "M6090_S0091_G0560_300_sele",
+        "jp": "メールを読むのが不便なんだけど……",
+        "en": "Reading mail is inconvenient.",
+        "ru": "Читать письма неудобно."
+    },
+    {
+        "id": "M6090_S0091_G0570_300_sele",
+        "jp": "３Ｄマップが見づらいんだけど……",
+        "en": "It's hard to see the 3D map...",
+        "ru": "На 3D карте сложно что-то разобрать..."
+    },
+    {
+        "id": "M6090_S0091_G0580_300_sele",
+        "jp": "この世界の通貨ってどうなってるの？",
+        "en": "What's the currency in this world?",
+        "ru": "Какая валюта в этом мире?"
+    },
+    {
+        "id": "M6090_S0091_G0590_300_sele",
+        "jp": "ブラックボックスって何？",
+        "en": "What's a black box?",
+        "ru": "Что такое чёрный ящик?"
+    },
+    {
+        "id": "M6090_S0091_G0595_300_sele",
+        "jp": "ハッキングについて教えて欲しい。",
+        "en": "Teach me about hacking.",
+        "ru": "Обучите меня взлому."
+    },
+    {
+        "id": "M6090_S0091_G0600_300_sele",
+        "jp": "質問はありません。",
+        "en": "I don't have any questions.",
+        "ru": "У меня больше нет вопросов."
+    },
+    {
+        "id": "M6090_S0091_G0530_300_hennamresi",
+        "jp": "いつでも、この俺に質問をしてくれよ？",
+        "en": "You can ask me questions any time you want.",
+        "ru": "Можете задавать мне вопросы, когда захотите, в любое время."
+    },
+    {
+        "id": "M6090_S0091_G0534_300_hennamresi",
+        "jp": "また、質問してくれよ？約束だからな？",
+        "en": "Ask me something again, sometime, okay? Promise?",
+        "ru": "Спросите у меня что-нибудь ещё раз, когда-нибудь, хорошо? Обещаете?"
+    },
+    {
+        "id": "M6090_S0091_G0550_300_hennamresi",
+        "jp": "また質問しに来てくれよ？一人だとさみしいからな！",
+        "en": "Come back and ask me something if you're on your own. It gets so lonely!",
+        "ru": "Возвращайтесь и спрашивайте у меня что угодно, если захотите. Тут так одиноко!"
+    },
+    {
+        "id": "M6090_S0091_G0610_300_hennamresi",
+        "jp": "ああ、メールは確かにアクセスポイントでしか読めないな。",
+        "en": "Well, it's true that you can only read mail at access points.",
+        "ru": "Ну, это правда, что вы можете прочитать письмо только на терминале."
+    },
+    {
+        "id": "M6090_S0091_G0620_300_hennamresi",
+        "jp": "ヨルハ機体に直接送信しないのは、\\n重要な機密情報を盗まれない為らしい。",
+        "en": "Also, you can't send mail directly to other YoRHa units—that's to prevent secret information from getting out.",
+        "ru": "Также вы не можете отправлять письма напрямую другим единицам YoRHa — это чтобы предотвратить утечку секретной информации."
+    },
+    {
+        "id": "M6090_S0091_G0630_300_hennamresi",
+        "jp": "ただ、メールのレトロ感が好きで\\nわざと使うアンドロイドも多いみたいだけどな。",
+        "en": "Still, there are a lot of androids who use mail because they like how retro it is. Kind of a hipster thing, I guess.",
+        "ru": "Ещё, есть много андроидов, которые используют письма, потому что им нравится это, как ретро-любители. Похожи на хипстеров, я полагаю."
+    },
+    {
+        "id": "M6090_S0091_G0640_300_hennamresi",
+        "jp": "ああ、あれは衛星からの情報をマップデータにしてるらしいんだが……",
+        "en": "Ah, that's where satellite information is put into map data.",
+        "ru": "А, это из-за того, что информация наносится на карту со спутника."
+    },
+    {
+        "id": "M6090_S0091_G0650_300_hennamresi",
+        "jp": "衛星にあるカメラの解像度が粗くて、\\n細かい部分や地下を見る事が出来ないんだ。",
+        "en": "The satellite camera doesn't have very good resolution, so you can't see fine details or tell what's underground.",
+        "ru": "Камера спутника не имеет хорошего разрешения, поэтому вы не сможете увидеть какие-то мелкие подробности или то, что находится под землёй."
+    },
+    {
+        "id": "M6090_S0091_G0660_300_hennamresi",
+        "jp": "他のアンドロイドからも不満が出ているが、どうにもならないらしい。",
+        "en": "Other androids are also dissatisfied with it, but that's the way it is, I'm afraid.",
+        "ru": "Другие андроиды также недовольны этим, но, боюсь, это единственный доступный вариант."
+    },
+    {
+        "id": "M6090_S0091_G0670_300_hennamresi",
+        "jp": "でも、多少は自分の足で歩いて、色々発見した方が楽しい事も……ないか。",
+        "en": "Some choose to walk on their own two feet and discover things for themselves... Hint, hint!",
+        "ru": "Некоторые предпочитают ходить на своих двоих и исследовать мир самостоятельно... Намёк, намёк!"
+    },
+    {
+        "id": "M6090_S0091_G0680_300_hennamresi",
+        "jp": "ま、諦めてくれ。",
+        "en": "You'll just have to get used to it.",
+        "ru": "Вам просто нужно привыкнуть к этому."
+    },
+    {
+        "id": "M6090_S0091_G0690_300_hennamresi",
+        "jp": "基本的には破壊した敵の残骸を分解して、それを再構築した部品を我々は使っている。",
+        "en": "Basically, we take apart the enemies we destroy, and use their reconstructed parts.",
+        "ru": "В основном мы разбираем на части уничтоженных врагов и используем их восстановленные детали."
+    },
+    {
+        "id": "M6090_S0091_G0700_300_hennamresi",
+        "jp": "わざわざ鉄を掘るより便利だからね？",
+        "en": "It's much easier than digging up the iron ourselves.",
+        "ru": "Это проще, чем самим добывать железо."
+    },
+    {
+        "id": "M6090_S0091_G0710_300_hennamresi",
+        "jp": "その残骸の重さや、手に入ったパーツの貴重さによって\\n価値が決められてるんだ。その単位を『Ｇ』と言う。",
+        "en": "Worth is decided according to weight of the enemy and value of the parts you obtained. We call that unit 'G'.",
+        "ru": "Ценность определяется в зависимости от силы врага и редкости деталей, которые вы добыли. Мы называем это \"G\"."
+    },
+    {
+        "id": "M6090_S0091_G0720_300_hennamresi",
+        "jp": "え？『Ｇ』を何て読むかって？",
+        "en": "...Huh? What does 'G' stand for?",
+        "ru": "...А? Что означает \"G\"?"
+    },
+    {
+        "id": "M6090_S0091_G0730_300_hennamresi",
+        "jp": "……それは、言えないな。トップシークレットだ。",
+        "en": "Sorry! That's classified.",
+        "ru": "Простите! Это тайна."
+    },
+    {
+        "id": "M6090_S0091_G0740_300_hennamresi",
+        "jp": "何……って言われても、アンタ達の部品だからな。あまり詳しくはないよ。",
+        "en": "You're asking me? It's something you YoRHa have inside you. I'm not that familiar with it.",
+        "ru": "Вы спрашиваете меня? Это то, что находится внутри вас, YoRHa. Мои познания тут невелики."
+    },
+    {
+        "id": "M6090_S0091_G0750_300_hennamresi",
+        "jp": "ブラックボックスってのはヨルハ機体に装備されている融合炉の事だ。",
+        "en": "The black box is a fusion reactor installed in all YoRHa units.",
+        "ru": "Чёрный ящик — это термоядерный реактор, установленный во всех единицах YoRHa."
+    },
+    {
+        "id": "M6090_S0091_G0760_300_hennamresi",
+        "jp": "しかし、その構造は我々レジスタンスには明らかにされてないんだ。\\n何か怪しい素材が使われてるって噂はあるんだが……",
+        "en": "But we Resistance folks don't know much about its construction. Apparently it uses some kind of mysterious material...",
+        "ru": "Но мы, члены Сопротивления, немногое знаем об их конструкции. По-видимому, используется какой-то загадочный материал..."
+    },
+    {
+        "id": "M6090_S0091_G0770_300_hennamresi",
+        "jp": "アンタ達の身体の中のそれ、良ければ分解して解析してみたいんだけど？",
+        "en": "Say, maybe you'd let me rip it out of you and take it apart for analysis!",
+        "ru": "Скажите, может, вы позволите мне извлечь его из вас и провести анализ!"
+    },
+    {
+        "id": "M6090_S0091_G0780_300_hennamresi",
+        "jp": "……ダメか。まあ、そうだよな。",
+        "en": "...No? Hey, fair enough. Can't blame a guy for trying.",
+        "ru": "...Нет? Эх, ну ладно. Попытка не пытка."
+    },
+    {
+        "id": "M6090_S0091_G0790_300_hennamresi",
+        "jp": "君はスキャナーモデルだから敵に近づくと<KC_HEAVY_ATK>が現れると思う。",
+        "en": "Since you're a Scanner, if you get close to an enemy, <KC_HEAVY_ATK> should appear. ...Er, I think.",
+        "ru": "Поскольку вы Сканер, если вы приблизитесь к врагу, должен появиться значок <KC_HEAVY_ATK>. ...Эм, наверное."
+    },
+    {
+        "id": "M6090_S0091_G0800_300_hennamresi",
+        "jp": "<KC_HEAVY_ATK>を長押しするとハッキングが出来るんだが……その時にちょっとした裏技があってね。",
+        "en": "You can start hacking by pressing and holding <KC_HEAVY_ATK>, but there's a secret trick you can do as well.",
+        "ru": "Вы можете начать взлом, нажав и удерживая <KC_HEAVY_ATK>, но здесь также есть маленькая хитрость, которой вы можете воспользоваться."
+    },
+    {
+        "id": "M6090_S0091_G0810_300_hennamresi",
+        "jp": "敵に気づかれないようにそーっと後ろから近づいて、ハッキングすると……",
+        "en": "If you sneak up behind the enemies without being detected and hack into them...",
+        "ru": "Если вы подкрадётесь к врагу со спины, не будете обнаружены и взломаете его..."
+    },
+    {
+        "id": "M6090_S0091_G0820_300_hennamresi",
+        "jp": "なんと敵を乗っ取ってリモート操作する事が出来るんだ。",
+        "en": "You can take over their systems and control them remotely!",
+        "ru": "То сможете захватить его систему и удалённо управлять им!"
+    },
+    {
+        "id": "M6090_S0091_G0830_300_hennamresi",
+        "jp": "さらに、その敵を使って他の敵をハッキングすれば、多段で乗っ取りが出来る。",
+        "en": "Not only that, but if you use that enemy to hack another, you can keep taking over one enemy after the next!",
+        "ru": "И не только это. Если вы используете этого врага для взлома другого, то сможете продолжать захватывать одного врага за другим!"
+    },
+    {
+        "id": "M6090_S0091_G0840_300_hennamresi",
+        "jp": "敵地潜入時に、目立たない機械生命体の姿で入る事も出来るんだ。",
+        "en": "You can even use them to disguise yourself as a machine when infiltrating areas they control.",
+        "ru": "Вы даже можете использовать их, чтобы незаметно проникать на подконтрольную им область."
+    },
+    {
+        "id": "M6090_S0091_G0850_300_hennamresi",
+        "jp": "いつか気が向いた時にでも、試してみてくれ。",
+        "en": "Give it a try sometime if you're interested.",
+        "ru": "Попробуйте как-нибудь, если будет интересно."
+    }
+]

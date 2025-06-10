@@ -1,0 +1,62 @@
+[
+    {
+        "id": "M0010_S0700_G0040_101_a2b",
+        "jp": "一通り工場を探索したけど、目標らしき兵器は発見出来ず。",
+        "en": "I surveyed the entire factory, but couldn't find anything resembling our target.",
+        "ru": "Я осмотрела весь завод, но не нашла ничего похожего на Голиафа."
+    },
+    {
+        "id": "M0010_S0700_G0060_101_a9s",
+        "jp": "もしかしたら別の場所に移動しちゃったかもしれませんね。",
+        "en": "Maybe they...I dunno. Moved it somewhere?",
+        "ru": "Может они... ну не знаю, переместили его куда-нибудь?"
+    },
+    {
+        "id": "M0010_S0700_G0031_101_a2b",
+        "jp": "あれは……",
+        "en": "Is that...?",
+        "ru": "Это же?.."
+    },
+    {
+        "id": "M0010_S0700_G0032_101_a9s",
+        "jp": "ああ、鳥ですか。",
+        "en": "You mean the birds?",
+        "ru": "Ты про птиц?"
+    },
+    {
+        "id": "M0010_S0700_G0033_101_a9s",
+        "jp": "環境の変化があったのか、動物や植物は\\n旧世界の時よりも増えているみたいですね。",
+        "en": "Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.",
+        "ru": "Да, теперь тут гораздо больше флоры и фауны, чем раньше. Вероятно, из-за изменений в окружающей среде."
+    },
+    {
+        "id": "M0010_S0700_G0061_101_a9s",
+        "jp": "その橋の先に別の施設があるはずです。",
+        "en": "There should be another facility across that bridge.",
+        "ru": "По ту сторону моста должен быть ещё один цех."
+    },
+    {
+        "id": "M0010_S0700_G0062_101_a9s",
+        "jp": "ちょっと遠いですが、移動してみましょうか。",
+        "en": "It's a bit of a hike, but should we check it out?",
+        "ru": "Путь не близкий, но, может, осмотрим и его?"
+    },
+    {
+        "id": "M0010_S0700_G0070_101_a9s",
+        "jp": "しかし、司令部が敵兵器の予測位置を間違えるなんて、珍しいですね。",
+        "en": "It's not like Command to get a location wrong. I guess even they get bad intel from time to time, huh?",
+        "ru": "Не помню, чтобы Штаб когда-нибудь ошибался. Но, похоже, и они не застрахованы от этого, да?"
+    },
+    {
+        "id": "M0010_S0700_G0080_101_a2b",
+        "jp": "いや。",
+        "en": "Hmm.",
+        "ru": "Хм."
+    },
+    {
+        "id": "M0010_S0700_G0090_101_a2b",
+        "jp": "どうかな……",
+        "en": "I wouldn't bet on that.",
+        "ru": "Я так не думаю."
+    }
+]

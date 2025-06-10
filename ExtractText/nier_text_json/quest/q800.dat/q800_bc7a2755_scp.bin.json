@@ -1,0 +1,218 @@
+[
+    {
+        "id": "M5800_S0010_G0060_001_robomother",
+        "jp": "お願いします。どうか扉をブチ開けて息子を連れ出してクダサイ！",
+        "en": "Just break it down and get my son out of there.",
+        "ru": "Просто сломайте её и достаньте моего сына оттуда."
+    },
+    {
+        "id": "M5800_S0010_G0070_001_sele",
+        "jp": "協力する。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5800_S0010_G0080_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5800_S0010_G0100_001_robomother",
+        "jp": "どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！",
+        "en": "Get this door open and drag my good-for-nothing son out here this instant!",
+        "ru": "Откройте эту дверь и побыстрее вытащите моего никчёмного сына!"
+    },
+    {
+        "id": "M5800_S0010_G0070_001_sele",
+        "jp": "協力する。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5800_S0010_G0080_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5800_S0010_G0000_001_robomother",
+        "jp": "助けてクダサイ！助けてクダサイ！",
+        "en": "You there! You must help me at once!",
+        "ru": "Эй, вы! Вы должны помочь мне немедленно!"
+    },
+    {
+        "id": "M5800_S0010_G0010_001_a9s",
+        "jp": "えっ？ちょっと……",
+        "en": "What, me?",
+        "ru": "Что, я?"
+    },
+    {
+        "id": "M5800_S0010_G0020_001_robomother",
+        "jp": "助けてクダサイ！\\n息子が家に電子ロックをカケテ、引きこもってシマッタンデス。",
+        "en": "My son put some kind of electronic lock on our house and holed his fool self inside.",
+        "ru": "Мой сын установил какой-то замок на наш дом и по глупости запер себя внутри."
+    },
+    {
+        "id": "M5800_S0010_G0030_001_robomother",
+        "jp": "もう随分経つのに、全く返事もシテクレナクテ……",
+        "en": "I've been standing out here for ages, and he's simply not responding to me at all!",
+        "ru": "Я стою здесь уже вечность, а он ничего не отвечает мне!"
+    },
+    {
+        "id": "M5800_S0010_G0040_001_a9s",
+        "jp": "そんな家庭内の事を相談されても、\\nっていうか、機械生命体に家族なんて概念が……",
+        "en": "Er, I think what you need is a family counselor. I mean, not that machines have \"families\" to begin with...",
+        "ru": "Эм, я думаю, что вам нужен семейный консультант. В смысле, не то чтобы у машин была \"семья\", но..."
+    },
+    {
+        "id": "M5800_S0010_G0050_001_robomother",
+        "jp": "助けてクダサイ！この扉を開ける事が出来ないんデス！",
+        "en": "I insist that you help me get this stupid door open!",
+        "ru": "Я настаиваю на том, чтобы вы помогли мне открыть эту дурацкую дверь!"
+    },
+    {
+        "id": "M5800_S0010_G0110_001_a9s",
+        "jp": "わかったわかった……",
+        "en": "All right, all right! Sheesh...",
+        "ru": "Хорошо, хорошо! Боже..."
+    },
+    {
+        "id": "M5800_S0010_G0120_001_a9s",
+        "jp": "確かに、電子ロックされてるな……もしもーし！",
+        "en": "Yep. That's an electronic lock, all right ...Um, hello in there? Hellooo?",
+        "ru": "Да. Это электронный замок, хорошо... Эм, привет? Приве-е-ет?"
+    },
+    {
+        "id": "M5800_S0010_G0130_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5800_S0010_G0140_001_a9s",
+        "jp": "君のお母さんが心配しているよ。鍵を開けて出て来てみない？",
+        "en": "Your mother is worried about you. So how about you unlock the door and come out?",
+        "ru": "Твоя мать беспокоится о тебе. Так как насчёт того, чтобы ты открыл дверь и вышел?"
+    },
+    {
+        "id": "M5800_S0010_G0150_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5800_S0010_G0160_001_a9s",
+        "jp": "うーん、無視か……",
+        "en": "Looks like he's ignoring me.",
+        "ru": "Кажется, он игнорирует меня."
+    },
+    {
+        "id": "M5800_S0010_G0170_001_pod153",
+        "jp": "推奨：電子ロックのコア破壊による扉の解錠。",
+        "en": "Proposal: Destroy the core to open the electronic lock.",
+        "ru": "Предложение: уничтожьте ядро, чтобы открыть электронный замок."
+    },
+    {
+        "id": "M5800_S0010_G0180_001_a9s",
+        "jp": "ま、そうするしか無いかな。",
+        "en": "That seems to be my only option.",
+        "ru": "Похоже, на это способен только я."
+    },
+    {
+        "id": "M5800_S0010_G0090_001_robomother",
+        "jp": "ウウ……私はどうしタラよいのでショウカ……",
+        "en": "Rrrrgh! What am I supposed to DO!?",
+        "ru": "Р-р-р-р-р! И что же мне ДЕЛАТЬ?!"
+    },
+    {
+        "id": "M5800_S0010_G0100_001_robomother",
+        "jp": "どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！",
+        "en": "Get this door open and drag my good-for-nothing son out here this instant!",
+        "ru": "Откройте эту дверь и побыстрее вытащите моего никчёмного сына!"
+    },
+    {
+        "id": "M5800_S0010_G0190_001_a9s",
+        "jp": "クソッ……意外と手強いな。",
+        "en": "...Damn. That lock's stronger than I thought.",
+        "ru": "... Чёрт. Этот замок сложнее, чем я думал."
+    },
+    {
+        "id": "M5800_S0010_G0200_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5800_S0010_G0210_001_robomother",
+        "jp": "ああもう、アンタって子は心配掛けて！どうして引きこもったりしたの？",
+        "en": "Foolish child! I was worried sick about you! Why on earth did you barricade yourself in there!?",
+        "ru": "Глупый ребёнок! Я беспокоилась о тебе! В самом деле, зачем ты забаррикадировал себя здесь?"
+    },
+    {
+        "id": "M5800_S0010_G0220_001_robochild",
+        "jp": "……怖かった、カラ……",
+        "en": "'Cause I was scared.",
+        "ru": "Потому что я был напуган."
+    },
+    {
+        "id": "M5800_S0010_G0230_001_robochild",
+        "jp": "ネットワークから切り離サレタラ、他人が何を考えてイルノカ\\nわからナクテ……",
+        "en": "Now that we're cut off from the network, I dunno what people are thinking.",
+        "ru": "Теперь, когда мы отключены от сети, я не знаю, о чём думают окружающие."
+    },
+    {
+        "id": "M5800_S0010_G0240_001_robochild",
+        "jp": "何だかミンナが知らない化け物のヨウニ思えて、怖クテ……",
+        "en": "They're like...monsters. It's scary!",
+        "ru": "Они как... монстры. Мне так страшно!"
+    },
+    {
+        "id": "M5800_S0010_G0250_001_robomother",
+        "jp": "まあ！アナタの事はモノスゴク愛しているのに！だから大丈夫ナノニ！",
+        "en": "Oh, my darling boy. It will be all right. Mommy loves you.",
+        "ru": "Ох, мой мальчик. Всё будет хорошо. Мамочка любит тебя."
+    },
+    {
+        "id": "M5800_S0010_G0260_001_robochild",
+        "jp": "うわーん！ママー！",
+        "en": "Waaaaaah! Mamaaaaa!",
+        "ru": "Ва-а-а-а! Мама-а-а-а!"
+    },
+    {
+        "id": "M5800_S0010_G0270_001_a9s",
+        "jp": "あの……もう、帰っていいかな。",
+        "en": "Um... So can I go now, or...",
+        "ru": "Эм... Так я могу теперь идти, или..."
+    },
+    {
+        "id": "M5800_S0010_G0280_001_robomother",
+        "jp": "ああ！ありがとうゴザイマス。あなたにお願いして本当に良カッタ！",
+        "en": "Oh! Yes, of course. Thank you for your help.",
+        "ru": "О! Да, конечно. Спасибо вам за помощь."
+    },
+    {
+        "id": "M5800_S0010_G0290_001_robomother",
+        "jp": "コレ、お礼になるかどうかわかりませんが、もらってクダサイ。",
+        "en": "And take this. I insist.",
+        "ru": "И возьмите это. Я настаиваю."
+    },
+    {
+        "id": "M5800_S0010_G0300_001_robomother",
+        "jp": "コレからは息子の不安を受け止めラレルヨウニ、私も頑張りマスネ。",
+        "en": "I'll try to help my son deal with his fears better from now on.",
+        "ru": "Теперь я попытаюсь помочь моему сыну разобраться с его страхами."
+    },
+    {
+        "id": "M5800_S0010_G0300_001_robomother",
+        "jp": "コレからは息子の不安を受け止めラレルヨウニ、私も頑張りマスネ。",
+        "en": "I'll try to help my son deal with his fears better from now on.",
+        "ru": "Теперь я попытаюсь помочь моему сыну разобраться с его страхами."
+    },
+    {
+        "id": "M5800_S0010_G0260_001_robochild",
+        "jp": "うわーん！ママー！",
+        "en": "Waaaaaah! Mamaaaaa!",
+        "ru": "Ва-а-а-а! Мама-а-а-а!"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "id": "M5103_S0010_G0000_001_robomaster",
+        "jp": "ヤヤッ、お前サン達、まタまタまタ来なすったノカ。",
+        "en": "Ah! The prodigal child returns once more!",
+        "ru": "Ах! Блудное дитя вновь вернулось!"
+    },
+    {
+        "id": "M5103_S0010_G0010_001_a9s",
+        "jp": "え……これ……？",
+        "en": "Uuuuuuuuh...",
+        "ru": "Э-э-э-э..."
+    },
+    {
+        "id": "M5103_S0010_G0020_001_a2b",
+        "jp": "この間と、同じロボット……？",
+        "en": "This IS that same weird monk machine as before, right?",
+        "ru": "Это ведь ТА САМАЯ машина-монах, что была в начале, да?"
+    },
+    {
+        "id": "M5103_S0010_G0030_001_robomaster",
+        "jp": "オウ！お前サン達がくれタ素材で強くナッタンじゃ！",
+        "en": "Oh ho! Father Servo has used the gifts of his flock to make himself powerful beyond imagining!",
+        "ru": "Хо-хо! Отец Серво использовал дары своего ученика, чтобы сделать себя сильнее, чем можно вообразить."
+    },
+    {
+        "id": "M5103_S0010_G0040_001_robomaster",
+        "jp": "ドウじゃ？改造の成果を試サセてはクレンカのう？",
+        "en": "Dare you taste the forbidden fruits of his labors!?",
+        "ru": "Желаете ли вы вкусить запретных плодов его трудов?!"
+    },
+    {
+        "id": "M5103_S0010_G0050_001_sele",
+        "jp": "成果ヲ試スノニ付キ合ウ。",
+        "en": "Taste the forbidden fruits.",
+        "ru": "Вкусить запретных плодов."
+    },
+    {
+        "id": "M5103_S0010_G0060_001_sele",
+        "jp": "成果ヲ試スノニ付キ合ワナイ。",
+        "en": "Go hungry.",
+        "ru": "Уйти голодным."
+    },
+    {
+        "id": "M5103_S0010_G0070_001_robomaster",
+        "jp": "今マデと同じダと思ったら、大間違いじゃゾイ！",
+        "en": "Father Servo is born anew!",
+        "ru": "Отец Серво заново родился!"
+    },
+    {
+        "id": "M5103_S0010_G0080_001_robomaster",
+        "jp": "残念じゃ……気が変わったラまた来てオクレ。",
+        "en": "Ah, a pity. Come find Father Servo if you change your mind.",
+        "ru": "Ах, как жаль. Приходите к отцу Серво, если передумаете."
+    },
+    {
+        "id": "M5103_S0010_G0040_001_robomaster",
+        "jp": "ドウじゃ？改造の成果を試サセてはクレンカのう？",
+        "en": "Dare you taste the forbidden fruits of his labors!?",
+        "ru": "Желаете ли вы вкусить запретных плодов его трудов?!"
+    },
+    {
+        "id": "M5103_S0010_G0050_001_sele",
+        "jp": "成果ヲ試スノニ付キ合ウ。",
+        "en": "Taste the forbidden fruits.",
+        "ru": "Вкусить запретных плодов."
+    },
+    {
+        "id": "M5103_S0010_G0060_001_sele",
+        "jp": "成果ヲ試スノニ付キ合ワナイ。",
+        "en": "Go hungry.",
+        "ru": "Уйти голодным."
+    },
+    {
+        "id": "M5103_S0010_G0090_001_robomaster",
+        "jp": "自分ガ凄過ぎテ涙が出そうジャ……！",
+        "en": "Oh ho ho ho! Such power! It's almost blasphemous to even contemplate it!",
+        "ru": "О-хо-хо! Какая сила! Думать о ней — уже само по себе богохульство!"
+    },
+    {
+        "id": "M5103_S0010_G0100_001_robomaster",
+        "jp": "お前サン達、良けレバまた修行に付き合うゾイ？",
+        "en": "If you desire to test yourself anew, Father Servo is happy to oblige.",
+        "ru": "Если пожелаете вновь испытать свои силы, отец Серво с радостью поможет вам."
+    },
+    {
+        "id": "M5103_S0010_G0101_300_robomaster",
+        "jp": "お前サン達、修行に付き合ってほしいのか？",
+        "en": "Would you like to help Father Servo with his training?",
+        "ru": "Желаете ли вы помочь отцу Серво с тренировкой?"
+    },
+    {
+        "id": "M5103_S0010_G0102_300_sele",
+        "jp": "修行を再開スル。",
+        "en": "Begin anew.",
+        "ru": "Начать сначала."
+    },
+    {
+        "id": "M5103_S0010_G0103_300_sele",
+        "jp": "修行を再開シナイ。",
+        "en": "Begin nothing.",
+        "ru": "Не повторять."
+    },
+    {
+        "id": "M5103_S0010_G0070_001_robomaster",
+        "jp": "今マデと同じダと思ったら、大間違いじゃゾイ！",
+        "en": "Father Servo is born anew!",
+        "ru": "Отец Серво заново родился!"
+    },
+    {
+        "id": "M5103_S0010_G0080_001_robomaster",
+        "jp": "残念じゃ……気が変わったラまた来てオクレ。",
+        "en": "Ah, a pity. Come find Father Servo if you change your mind.",
+        "ru": "Ах, как жаль. Приходите к отцу Серво, если передумаете."
+    },
+    {
+        "id": "M5103_S0010_G0104_300_robomaster",
+        "jp": "弱った状態では相手にならぬ。出直してくるのじゃ。",
+        "en": "Father Servo will not waste his talents on a weakened foe! Begone!",
+        "ru": "Отец Серво не будет растрачивать свой талант на слабого противника! Уходите!"
+    },
+    {
+        "id": "M5103_S0010_G0110_001_robomaster",
+        "jp": "マイッタ！ヤラレタ！ココマデジャッ！",
+        "en": "Enough, I say! Show pity on an old monk!",
+        "ru": "Достаточно, хватит! Пожалейте старого монаха!"
+    },
+    {
+        "id": "M5103_S0010_G0120_001_a9s",
+        "jp": "……",
+        "en": "...Go on.",
+        "ru": "...Продолжайте."
+    },
+    {
+        "id": "M5103_S0010_G0130_001_robomaster",
+        "jp": "ワシ、『金鉱』に『溶加材』、『綺麗なケーブル』と『大きなバッテリー』が\\n欲しいのう。",
+        "en": "Father Servo requires a gold ore, a piece of filler metal, a pristine cable, and a large battery.",
+        "ru": "Отцу Серво требуется золотая руда, кусочек присадочного металла, новенький кабель и большая батарея."
+    },
+    {
+        "id": "M5103_S0010_G0140_001_a9s",
+        "jp": "どうしますか、２Ｂ。",
+        "en": "I dunno, 2B. What do you think?",
+        "ru": "Я даже не знаю, 2B. Что думаешь?"
+    },
+    {
+        "id": "M5103_S0010_G0150_001_a9s",
+        "jp": "いつまでも戦うのは無駄な気がします。有料ですし。",
+        "en": "I feel like all this fighting is a big waste of time. Plus it's starting to get REALLY expensive!",
+        "ru": "Мне кажется, что все эти сражения — лишь пустая трата времени. Плюс, с каждым разом они становятся дороже!"
+    },
+    {
+        "id": "M5103_S0010_G0160_001_a2b",
+        "jp": "完全に無駄とは言えない。",
+        "en": "It's not a waste.",
+        "ru": "Это не трата времени."
+    },
+    {
+        "id": "M5103_S0010_G0170_001_a2b",
+        "jp": "この機械生命体と戦う事で、私達の戦闘経験も上がってるみたいだから。",
+        "en": "Our own skills improve each time we spar with this machine.",
+        "ru": "Наши собственные навыки улучшаются с каждым боем с этой машиной."
+    },
+    {
+        "id": "M5103_S0010_G0180_001_robomaster",
+        "jp": "オオ！お姉サンは話が判るお人じゃノウ！好キ！",
+        "en": "Such wisdom! May the thousand blessings of a random and unspecified god rain down upon you!",
+        "ru": "Какая мудрость! Пусть на вас снизойдёт тысяча благословений некоего случайного бога!"
+    },
+    {
+        "id": "M5920_S0010_G0280_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0020_G0280_001_pod153",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0010_G0240_001_pod042",
+        "jp": "依頼されていた資材を入手。",
+        "en": "Requested material obtained.",
+        "ru": "Получен требуемый материал."
+    },
+    {
+        "id": "M5920_S0020_G0240_001_pod153",
+        "jp": "依頼されていた資材を入手。",
+        "en": "Requested material obtained.",
+        "ru": "Получен требуемый материал."
+    },
+    {
+        "id": "M5103_S0010_G0194_300_robomaster",
+        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
+        "en": "Have you brought the required items?",
+        "ru": "Вы принесли необходимые предметы?"
+    },
+    {
+        "id": "M5103_S0010_G0195_300_sele",
+        "jp": "アイテムを渡す",
+        "en": "Give him the items.",
+        "ru": "Отдать ему предметы."
+    },
+    {
+        "id": "M5103_S0010_G0196_300_sele",
+        "jp": "アイテムを渡さない",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5103_S0010_G0194_300_robomaster",
+        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
+        "en": "Have you brought the required items?",
+        "ru": "Вы принесли необходимые предметы?"
+    },
+    {
+        "id": "M5103_S0010_G0195_300_sele",
+        "jp": "アイテムを渡す",
+        "en": "Give him the items.",
+        "ru": "Отдать ему предметы."
+    },
+    {
+        "id": "M5103_S0010_G0196_300_sele",
+        "jp": "アイテムを渡さない",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5103_S0010_G0190_001_robomaster",
+        "jp": "『金鉱』に『溶加材』、『綺麗なケーブル』と『大きなバッテリー』が欲しいノウ。",
+        "en": "Fetch me a gold ore, some filler metal, a pristine cable, and a large battery.",
+        "ru": "Принесите мне золотую руду, немного присадочного материала, новенький кабель и большую батарею."
+    },
+    {
+        "id": "M5103_S0020_G0000_001_a9s",
+        "jp": "ほら、お望みのモノだぞ。",
+        "en": "One order of useless crap, as requested.",
+        "ru": "Прибыл ваш бесполезный хлам, как вы и заказывали."
+    },
+    {
+        "id": "M5103_S0020_G0010_001_robomaster",
+        "jp": "オオ、コレで最強が目指せるワイ！",
+        "en": "Oh ho! Now Father Servo can finally achieve oneness with the universe!",
+        "ru": "Такая сила точно поможет достигнуть единства со вселенной!"
+    },
+    {
+        "id": "M5103_S0020_G0020_001_a9s",
+        "jp": "はは……最強……ね。",
+        "en": "You don't say.",
+        "ru": "Да что вы говорите."
+    },
+    {
+        "id": "M5103_S0020_G0030_001_robomaster",
+        "jp": "次にお前サン達が来るマデに、とことん強くなっテおくゾイ！",
+        "en": "Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!",
+        "ru": "Просто жди, дитя моё! К твоему возвращению отец Серво станет настолько сильным, что ты себе и не представляешь!"
+    },
+    {
+        "id": "M5103_S0020_G0030_001_robomaster",
+        "jp": "次にお前サン達が来るマデに、とことん強くなっテおくゾイ！",
+        "en": "Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!",
+        "ru": "Просто жди, дитя моё! К твоему возвращению отец Серво станет настолько сильным, что ты себе и не представляешь!"
+    }
+]

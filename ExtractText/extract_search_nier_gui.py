@@ -1,0 +1,106 @@
+import os
+import sys
+from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
+                            QHBoxLayout, QLineEdit, QPushButton, QFileDialog, 
+                            QTextEdit, QLabel)
+from PyQt6.QtCore import Qt
+import string
+
+class SearchWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("Text Search Tool")
+        self.setGeometry(100, 100, 600, 400)
+
+        # Central widget and layout
+        central_widget = QWidget()
+        self.setCentralWidget(central_widget)
+        layout = QVBoxLayout(central_widget)
+
+        # Folder selection
+        folder_layout = QHBoxLayout()
+        self.folder_label = QLabel("Folder: Not selected")
+        self.choose_button = QPushButton("Choose Folder")
+        self.choose_button.clicked.connect(self.choose_folder)
+        folder_layout.addWidget(self.folder_label)
+        folder_layout.addWidget(self.choose_button)
+        layout.addLayout(folder_layout)
+
+        # Phrase input
+        phrase_layout = QHBoxLayout()
+        self.phrase_input = QLineEdit()
+        self.search_button = QPushButton("Search")
+        self.search_button.clicked.connect(self.search)
+        phrase_layout.addWidget(QLabel("Phrase:"))
+        phrase_layout.addWidget(self.phrase_input)
+        phrase_layout.addWidget(self.search_button)
+        layout.addLayout(phrase_layout)
+
+        # Results display
+        self.results_text = QTextEdit()
+        self.results_text.setReadOnly(True)
+        layout.addWidget(self.results_text)
+
+        self.folder_path = ""
+
+    def choose_folder(self):
+        folder = QFileDialog.getExistingDirectory(self, "Select Folder", "")
+        if folder:
+            self.folder_path = folder
+            self.folder_label.setText(f"Folder: {folder}")
+
+    def search_phrase(self, phrase):
+        """Searches for a phrase in text files, ignoring case and punctuation."""
+        found = False
+        results = []
+        # Create translation table to remove punctuation
+        translator = str.maketrans("", "", string.punctuation)
+        
+        for root, _, files in os.walk(self.folder_path):
+            for file in files:
+                if file.endswith('.txt'):
+                    file_path = os.path.join(root, file)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            for line_number, line in enumerate(f, 1):
+                                # Remove punctuation from both phrase and line for comparison
+                                clean_phrase = phrase.lower().translate(translator)
+                                clean_line = line.lower().translate(translator)
+                                if clean_phrase in clean_line:
+                                    if not found:
+                                        found = True
+                                    result = f"File: {file_path}\nLine {line_number}: {line.strip()}\n{'-' * 50}\n"
+                                    results.append(result)
+                    except Exception as e:
+                        results.append(f"Error reading {file_path}: {str(e)}\n")
+        
+        if not found and not any("Error" in r for r in results):
+            results.append(f"\nPhrase '{phrase}' not found in text files.\n")
+        
+        return results
+
+    def search(self):
+        phrase = self.phrase_input.text().strip()
+        if not phrase:
+            self.results_text.setText("Please enter a phrase to search.")
+            return
+        if not self.folder_path:
+            self.results_text.setText("Please select a folder first.")
+            return
+
+        self.results_text.clear()
+        # Clean phrase from punctuation before search
+        translator = str.maketrans("", "", string.punctuation)
+        clean_phrase = phrase.lower().translate(translator)
+        if not clean_phrase:
+            self.results_text.setText("Phrase contains only punctuation. Please enter a valid phrase.")
+            return
+
+        results = self.search_phrase(clean_phrase)
+        self.results_text.setText("".join(results))
+
+if __name__ == "__main__":
+    app = QApplication(sys.argv)
+    window = SearchWindow()
+    window.show()
+    sys.exit(app.exec())

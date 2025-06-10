@@ -1,0 +1,734 @@
+[
+    {
+        "id": "M5290_S0020_G0120_300_robocreator",
+        "jp": "コンナ状態デクリエイションナンテ楽シメナイ……\\nナントカシテクダサイ！",
+        "en": "How can one think about being creative under these circumstances? Please, you must help us!",
+        "ru": "Как вообще можно созидать в таких-то условиях? Прошу, вы обязаны помочь!"
+    },
+    {
+        "id": "M5290_S0010_G0000_001_robocreator",
+        "jp": "ヤア！楽シンデルカイ？",
+        "en": "Hey there! Having fun?",
+        "ru": "Привет! Развлекаетесь?"
+    },
+    {
+        "id": "M5290_S0010_G0010_001_a9s",
+        "jp": "こんなところで、楽しめるわけないだろ？",
+        "en": "This place isn't exactly what I'd call \"fun.\"",
+        "ru": "Я бы не назвал это место \"весёлым\"."
+    },
+    {
+        "id": "M5290_S0010_G0020_001_robocreator",
+        "jp": "ソウダヨネ〜。遊園地ナノニ、ロクニ遊ブモノナイモンネ〜",
+        "en": "Good point. It's more like an un-amusement park, eh?",
+        "ru": "Верно подмечено. Но разве это не парк развлечений?"
+    },
+    {
+        "id": "M5290_S0010_G0030_001_robocreator",
+        "jp": "ナノデ俺ハ、ゲームヲ作ロウト思ウ！",
+        "en": "That's why I'm thinking about making a game!",
+        "ru": "Именно поэтому я и задумался о создании игры!"
+    },
+    {
+        "id": "M5290_S0010_G0040_001_a9s",
+        "jp": "は？ゲーム？",
+        "en": "Oh yeah?",
+        "ru": "Да неужели?"
+    },
+    {
+        "id": "M5290_S0010_G0050_001_robocreator",
+        "jp": "ウン！ミンナガ遊ベル、楽シイゲームダヨ。タダ材料ガ足リナインダヨネ〜",
+        "en": "Yes! A fun game that anyone can play!\\nIf only I had the materials...",
+        "ru": "Да! Весёлая игра, в которую сможет поиграть каждый!\\nЕсли бы у меня только были материалы..."
+    },
+    {
+        "id": "M5290_S0010_G0060_001_robocreator",
+        "jp": "トイウワケデ、チョット協力シテクレナイ？",
+        "en": "I don't suppose you'd help me out with that?",
+        "ru": "Полагаю, вы вряд ли поможете мне?"
+    },
+    {
+        "id": "M5290_S0010_G0070_001_sele",
+        "jp": "協力する。",
+        "en": "Aid the game creator.",
+        "ru": "Поддержать разработчика."
+    },
+    {
+        "id": "M5290_S0010_G0080_001_sele",
+        "jp": "協力しない。",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5290_S0010_G0090_001_robocreator",
+        "jp": "サンキュー！必要ナ材料ハ『３色ケーブル』ダヨ。ヨロシクネ〜",
+        "en": "Excellent! All I need is a single tri-color cable.\\nJust let me know when you find it.",
+        "ru": "Превосходно! Мне нужен всего лишь один трёхцветный кабель.\\nДайте знать, когда найдёте его."
+    },
+    {
+        "id": "M5290_S0010_G0100_001_a9s",
+        "jp": "材料が分かってるなら自分で集めたら？",
+        "en": "If you know what you need, why don't you go find it yourself?",
+        "ru": "Если вы знаете, что вам нужно, тогда почему бы не сходить самим?"
+    },
+    {
+        "id": "M5290_S0010_G0110_001_robocreator",
+        "jp": "『３色ケーブル』ハ遊園地内ノ機械生命体カラ奪エルンダケド、\\n仲間殺シッテイヤナンダヨネー！",
+        "en": "Tri-color cables are found inside the machines in the amusement park. You don't expect me to slaughter my own kin, do you?",
+        "ru": "Трёхцветный кабель можно добыть из машин парка развлечений.\\nВы же не думаете, что я способен убить кого-то из своих, так ведь?"
+    },
+    {
+        "id": "M5290_S0010_G0120_001_a9s",
+        "jp": "じゃあ、ゲーム作りなんて諦めればいいのに。",
+        "en": "You could just decide not to make the game, you know?",
+        "ru": "Знаете, а может, вы просто откажетесь от создания игры?"
+    },
+    {
+        "id": "M5290_S0010_G0130_001_robocreator",
+        "jp": "クリエイティブノ為ナラ手段ハ選バナイノデス！",
+        "en": "Never! My creative urges must be satisfied!",
+        "ru": "Ни за что! Я должен удовлетворить свою тягу к творчеству!"
+    },
+    {
+        "id": "M5290_S0010_G0140_001_a9s",
+        "jp": "矛盾してるよ……",
+        "en": "But you just said... Oh. forget it.",
+        "ru": "Но вы ведь только что сказали... Ох. Забудьте."
+    },
+    {
+        "id": "M5290_S0020_G0122_300_robocreator",
+        "jp": "『３色ケーブル』ヲ持ッテイル奴ハ好戦的ダカラ気ヲツケテネ！",
+        "en": "The machines carrying tri-color cables are quite aggressive, so be careful!",
+        "ru": "Машины с трёхцветными кабелями довольно агрессивны, будьте осторожны!"
+    },
+    {
+        "id": "M5290_S0010_G0150_001_robocreator",
+        "jp": "ミンナガ遊ベルゲームヲ作リタインダ。ダカラ、材料集メニ協力シテクレナイ？",
+        "en": "I want to make a fun game that anyone can play.\\nWill you help out?",
+        "ru": "Я хочу создать весёлую игру, в которую сможет поиграть каждый!\\nВы ведь мне поможете?"
+    },
+    {
+        "id": "M5290_S0010_G0000_300_robocreator",
+        "jp": "協力シテクレルノカ？",
+        "en": "Will you help me out?",
+        "ru": "Не поможете ли мне?"
+    },
+    {
+        "id": "M5290_S0010_G0010_300_sele",
+        "jp": "協力する",
+        "en": "Aid the game creator.",
+        "ru": "Поддержать разработчика."
+    },
+    {
+        "id": "M5290_S0010_G0020_300_sele",
+        "jp": "協力しない",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5290_S0020_G0122_300_robocreator",
+        "jp": "『３色ケーブル』ヲ持ッテイル奴ハ好戦的ダカラ気ヲツケテネ！",
+        "en": "The machines carrying tri-color cables are quite aggressive, so be careful!",
+        "ru": "Машины с трёхцветными кабелями довольно агрессивны, будьте осторожны!"
+    },
+    {
+        "id": "M5290_S0020_G0000_001_robocreator",
+        "jp": "オオ、『３色ケーブル』ダ。コレ、俺ニクレル？",
+        "en": "Ah! A tri-color cable! I must have it!",
+        "ru": "Ах! Трёхцветный кабель! Он-то мне и нужен!"
+    },
+    {
+        "id": "M5290_S0020_G0010_001_robocreator",
+        "jp": "ヨシ、チョット待ッテテネ。コレヲ繋ゲバ……",
+        "en": "Excellent! Now I just attach this here...",
+        "ru": "Превосходно! А теперь присоединим его сюда..."
+    },
+    {
+        "id": "M5290_S0020_G0020_001_robocreator",
+        "jp": "ホラ！ゲームガ出来ルヨウニナッタヨ〜",
+        "en": "Success! The game is ready!",
+        "ru": "Получилось! Игра готова!"
+    },
+    {
+        "id": "M5290_S0020_G0030_001_a9s",
+        "jp": "へえ、どんなゲーム？",
+        "en": "So what is this game of yours anyway?",
+        "ru": "Так что это за игра?"
+    },
+    {
+        "id": "M5290_S0020_G0040_001_robocreator",
+        "jp": "シューティングゲームダヨ。\\nデモ、バグガアルヨウナ気ガシテテ……",
+        "en": "It's a shooting game. I have the feeling it's still really buggy though...",
+        "ru": "Это стрелялка. Но есть у меня такое чувство, что в ней всё ещё остались баги..."
+    },
+    {
+        "id": "M5290_S0020_G0044_001_robocreator",
+        "jp": "デキレバ、遊ブツイデニ、デバッグシテ欲シインダヨネ。",
+        "en": "I'd appreciate it if you could debug it a bit while you play.",
+        "ru": "Я буду очень вам благодарен, если вы сможете найти баги, пока играете в неё."
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0020_G0050_001_robocreator",
+        "jp": "クリアオメデトウ！楽シンデクレタ？",
+        "en": "Congratulations! Did you enjoy yourself?",
+        "ru": "Поздравляю! вам понравилось?"
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0020_G0051_001_robocreator",
+        "jp": "バグヲ発見シテクレタンダ！アリガトウ！",
+        "en": "You debugged the game! Thanks!",
+        "ru": "Вы обнаружили баг! Спасибо!"
+    },
+    {
+        "id": "M5290_S0020_G0060_001_robocreator",
+        "jp": "デモ正直、モット難易度ノ高イゲームヲ作リタインダヨネ。",
+        "en": "Though, to be honest, I was hoping it would be more of a challenge.",
+        "ru": "Хотя, если честно, я надеялся, что это будет посложнее."
+    },
+    {
+        "id": "M5290_S0020_G0070_001_robocreator",
+        "jp": "ソウイウワケデ、今度は『４色ケーブル』ヲ持ッテキテクレナイカナ？",
+        "en": "I bet a four-color cable would be just the thing to raise the difficulty. Do you think you could track one down for me?",
+        "ru": "Я уверен, четырёхцветного кабеля будет достаточно, чтобы повысить сложность. Как думаете, сможете отыскать один для меня?"
+    },
+    {
+        "id": "M5290_S0020_G0080_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5290_S0020_G0090_001_sele",
+        "jp": "持ってこない。",
+        "en": "Tell him you've done enough.",
+        "ru": "Сказать, что вы уже и так много сделали."
+    },
+    {
+        "id": "M5290_S0020_G0100_001_robocreator",
+        "jp": "シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\\n持ッテイタナ……",
+        "en": "Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.",
+        "ru": "Благодарю! Такие кабели вы сможете добыть из солдат внутри заброшенной фабрики."
+    },
+    {
+        "id": "M5290_S0020_G0101_300_robocreator",
+        "jp": "仲間カラ離レテ歩イテイル変ナ奴ダッタ。",
+        "en": "You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.",
+        "ru": "Вы без проблем их найдёте, они зачастую бродят в одиночестве, поодаль от своих собратьев."
+    },
+    {
+        "id": "M5290_S0020_G0110_001_robocreator",
+        "jp": "ソレジャア、ヨロシクネ〜",
+        "en": "Have fun out there!",
+        "ru": "Удачи вам!"
+    },
+    {
+        "id": "M5290_S0020_G0120_001_robocreator",
+        "jp": "モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\\n持ッテキテクレナイカナ？",
+        "en": "I'm trying to make my game more difficult.\\nCan you please bring me a four-color cable?",
+        "ru": "Я хочу сделать мою игру более сложной.\\nНе могли бы вы принести мне четырёхцветный кабель?"
+    },
+    {
+        "id": "M5290_S0020_G0071_001_robocreator",
+        "jp": "情熱ガ……ホトバシル……モット、スバラシイゲームヲ作リタイ、\\nトイウ情熱ガ……",
+        "en": "I feel...passion...burning inside me. Passion...to make the BEST GAME EVER.",
+        "ru": "Я чувствую... желание... пылающее внутри меня. Желание... создать САМУЮ ЛУЧШУЮ ИГРУ."
+    },
+    {
+        "id": "M5290_S0020_G0072_001_robocreator",
+        "jp": "トイウコトデ、ソンナ熱意アル僕ニ『４色ケーブル』ヲ持ッテキテクレナイカナ？",
+        "en": "And what the best game ever REALLY needs, is a four-color cable. Could you bring me one?",
+        "ru": "И для самой лучшей игры мне ОЧЕНЬ нужен четырёхцветный кабель. Не могли бы вы принести мне его?"
+    },
+    {
+        "id": "M5290_S0020_G0080_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5290_S0020_G0090_001_sele",
+        "jp": "持ってこない。",
+        "en": "Tell him you've done enough.",
+        "ru": "Сказать, что вы уже и так много сделали."
+    },
+    {
+        "id": "M5290_S0020_G0120_001_robocreator",
+        "jp": "モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\\n持ッテキテクレナイカナ？",
+        "en": "I'm trying to make my game more difficult.\\nCan you please bring me a four-color cable?",
+        "ru": "Я хочу сделать мою игру более сложной.\\nНе могли бы вы принести мне четырёхцветный кабель?"
+    },
+    {
+        "id": "M5290_S0020_G0080_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5290_S0020_G0090_001_sele",
+        "jp": "持ってこない。",
+        "en": "Tell him you've done enough.",
+        "ru": "Сказать, что вы уже и так много сделали."
+    },
+    {
+        "id": "M5290_S0020_G0100_001_robocreator",
+        "jp": "シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\\n持ッテイタナ……",
+        "en": "Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.",
+        "ru": "Благодарю! Такие кабели вы сможете добыть из солдат внутри заброшенной фабрики."
+    },
+    {
+        "id": "M5290_S0020_G0101_300_robocreator",
+        "jp": "仲間カラ離レテ歩イテイル変ナ奴ダッタ。",
+        "en": "You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.",
+        "ru": "Вы без проблем их найдёте, они зачастую бродят в одиночестве, поодаль от своих собратьев."
+    },
+    {
+        "id": "M5290_S0020_G0110_001_robocreator",
+        "jp": "ソレジャア、ヨロシクネ〜",
+        "en": "Have fun out there!",
+        "ru": "Удачи вам!"
+    },
+    {
+        "id": "M5290_S0020_G0120_001_robocreator",
+        "jp": "モウチョット難シイゲームを作リタイカラ、マタ『４色ケーブル』ヲ\\n持ッテキテクレナイカナ？",
+        "en": "I'm trying to make my game more difficult.\\nCan you please bring me a four-color cable?",
+        "ru": "Я хочу сделать мою игру более сложной.\\nНе могли бы вы принести мне четырёхцветный кабель?"
+    },
+    {
+        "id": "M5290_S0020_G0130_001_robocreator",
+        "jp": "シェイシェイ！『４色ケーブル』ハ、タシカ廃工場ノ機械生命体ガ\\n持ッテイタナ……",
+        "en": "Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.",
+        "ru": "Благодарю! Такие кабели вы сможете добыть из солдат внутри заброшенной фабрики."
+    },
+    {
+        "id": "M5290_S0020_G0131_300_robocreator",
+        "jp": "仲間カラ離レテ歩イテイル変ナ奴ダッタ。",
+        "en": "You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.",
+        "ru": "Вы без проблем их найдёте, они зачастую бродят в одиночестве, поодаль от своих собратьев."
+    },
+    {
+        "id": "M5290_S0030_G0000_001_robocreator",
+        "jp": "オオ、『４色ケーブル』ダ。コレ、俺ニクレル？",
+        "en": "Ah! You have a four-color cable! Gimme.",
+        "ru": "Ах! Вы добыли четырёхцветный кабель! Дайте мне его."
+    },
+    {
+        "id": "M5290_S0030_G0010_001_robocreator",
+        "jp": "ヨシ、チョット待ッテテネ。コレヲ繋イデ……",
+        "en": "Now then, I just connect this end to the widget here aaaand...",
+        "ru": "Ну, а теперь, подключим эту штуку сюда и-и-и..."
+    },
+    {
+        "id": "M5290_S0030_G0020_001_robocreator",
+        "jp": "オーケー！チョット難易度ガ上ガッタヨ〜！",
+        "en": "Presto! My amazingly fun game is now more difficult.",
+        "ru": "Готово! Теперь моя превосходная игра стала ещё сложнее."
+    },
+    {
+        "id": "M5290_S0030_G0030_001_robocreator",
+        "jp": "バグヲ見ツケテクレタラ報酬ガアルカラ、遊ンデミテネ〜",
+        "en": "Care to check it out? I'll give you a prize if you can debug it for me.",
+        "ru": "Не желаете ли опробовать? Я дам вам награду, если сможете найти баг."
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0030_G0031_001_robocreator",
+        "jp": "楽シンデ頂ケマシタデショウカ？",
+        "en": "That was fun, wasn't it?",
+        "ru": "Было весело, не так ли?"
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0030_G0032_001_robocreator",
+        "jp": "バグヲ見ツケテクレテアリガトウ！",
+        "en": "You debugged the game! Thanks!",
+        "ru": "Вы обнаружили баг! Спасибо!"
+    },
+    {
+        "id": "M5290_S0030_G0040_001_robocreator",
+        "jp": "タダ、正直モット難易度ノ高イゲームヲ作リタインダヨナア。\\nヘビーユーザーヲターゲットニシタイ。",
+        "en": "You know something? I don't think my fun game is hard enough yet. We need to reach beyond typical market boundaries to include hardcore gamers.",
+        "ru": "Знаете что? Мне кажется, игра ещё недостаточно сложная. Мы должны выйти за рамки типичных представлений, чтобы привлечь хардкорных игроков."
+    },
+    {
+        "id": "M5290_S0030_G0050_001_robocreator",
+        "jp": "ソウイウワケデ、マタ『５色ケーブル』ヲ持ッテキテクレナイカナ？",
+        "en": "But that can easily be rectified if you bring me a five-color cable.",
+        "ru": "И мы запросто достигнем этого, если вы принесёте мне пятицветный кабель."
+    },
+    {
+        "id": "M5290_S0030_G0060_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to bring him the cable.",
+        "ru": "Согласиться принести кабель."
+    },
+    {
+        "id": "M5290_S0030_G0070_001_sele",
+        "jp": "持ってこない。",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5290_S0030_G0080_001_robocreator",
+        "jp": "スパシーバ！ソレジャ、『５色ケーブル』ヲヨロシクネ〜",
+        "en": "Muchas gracias!  And best of luck tracking down that five-color cable.",
+        "ru": "Премного благодарен! Удачи вам в поисках пятицветного кабеля."
+    },
+    {
+        "id": "M5290_S0030_G0090_001_robocreator",
+        "jp": "砂漠ノ機械生命体カラ採取出来ルヨー",
+        "en": "You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!",
+        "ru": "Вы можете добыть его из машин в пустыне. Просто идите туда и вырвите его прямиком из их тел!"
+    },
+    {
+        "id": "M5290_S0030_G0091_300_robocreator",
+        "jp": "群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！",
+        "en": "They tend to hang out in groups, so good luck finding the right ones!",
+        "ru": "Те машины любят сбиваться в группы, посему удачи вам в поисках!"
+    },
+    {
+        "id": "M5290_S0030_G0100_001_a9s",
+        "jp": "採取……って仲間じゃないのか。",
+        "en": "Um, I thought these machines were your friends.",
+        "ru": "Эм, я думал, те машины были вашими друзьями."
+    },
+    {
+        "id": "M5290_S0030_G0110_001_robocreator",
+        "jp": "クリエイション万歳！",
+        "en": "CREATIVITY is my friend!",
+        "ru": "СОЗИДАНИЕ — вот мой друг!"
+    },
+    {
+        "id": "M5290_S0030_G0051_001_robocreator",
+        "jp": "面白イゲームヲ作ッテ、一流クリエイターニナリタイ……ナリタスギル！",
+        "en": "I want to make great games and become the world's most popular game creator! It's all I want from life, really!",
+        "ru": "Я хочу создать величайшие игры и стать известнейшим разработчиком! Это то, чего я действительно хочу от жизни!"
+    },
+    {
+        "id": "M5290_S0030_G0052_001_robocreator",
+        "jp": "トイウコトデ、ソンナ熱意アル僕ニ『５色ケーブル』ヲ持ッテキテクレナイカナ？",
+        "en": "And what the world's best game creator REALLY needs, is a five-color cable. Could you bring me one?",
+        "ru": "И для самой лучшей игры мне ОЧЕНЬ нужен пятицветный кабель. Не могли бы вы принести мне его?"
+    },
+    {
+        "id": "M5290_S0030_G0060_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to bring him the cable.",
+        "ru": "Согласиться принести кабель."
+    },
+    {
+        "id": "M5290_S0030_G0070_001_sele",
+        "jp": "持ってこない。",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5290_S0030_G0120_001_robocreator",
+        "jp": "ヘビーユーザー向ケノ難シイゲームを作リタイカラ、マタ『５色ケーブル』ヲ\\n持ッテキテクレナイカナ？",
+        "en": "I want my fun game to appeal to hardcore users. Can you get me a five-color cable so I can make it happen?",
+        "ru": "Я хочу, чтобы моя игра привлекала хардкорных игроков. Не могли бы вы принести мне пятицветный кабель для этой цели?"
+    },
+    {
+        "id": "M5290_S0030_G0060_001_sele",
+        "jp": "持ってくる。",
+        "en": "Agree to bring him the cable.",
+        "ru": "Согласиться принести кабель."
+    },
+    {
+        "id": "M5290_S0030_G0070_001_sele",
+        "jp": "持ってこない。",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5290_S0030_G0080_001_robocreator",
+        "jp": "スパシーバ！ソレジャ、『５色ケーブル』ヲヨロシクネ〜",
+        "en": "Muchas gracias!  And best of luck tracking down that five-color cable.",
+        "ru": "Премного благодарен! Удачи вам в поисках пятицветного кабеля."
+    },
+    {
+        "id": "M5290_S0030_G0090_001_robocreator",
+        "jp": "砂漠ノ機械生命体カラ採取出来ルヨー",
+        "en": "You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!",
+        "ru": "Вы можете добыть его из машин в пустыне. Просто идите туда и вырвите его прямиком из их тел!"
+    },
+    {
+        "id": "M5290_S0030_G0091_300_robocreator",
+        "jp": "群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！",
+        "en": "They tend to hang out in groups, so good luck finding the right ones!",
+        "ru": "Те машины любят сбиваться в группы, посему удачи вам в поисках!"
+    },
+    {
+        "id": "M5290_S0030_G0100_001_a9s",
+        "jp": "採取……って仲間じゃないのか。",
+        "en": "Um, I thought these machines were your friends.",
+        "ru": "Эм, я думал, те машины были вашими друзьями."
+    },
+    {
+        "id": "M5290_S0030_G0110_001_robocreator",
+        "jp": "クリエイション万歳！",
+        "en": "CREATIVITY is my friend!",
+        "ru": "СОЗИДАНИЕ — вот мой друг!"
+    },
+    {
+        "id": "M5290_S0030_G0130_001_robocreator",
+        "jp": "『５色ケーブル』ハ、砂漠ノ機械生命体ガ持ッテルヨー",
+        "en": "The machines around the desert are lousy with five-color cables.",
+        "ru": "У паршивых пустынных машин есть пятицветные кабели."
+    },
+    {
+        "id": "M5290_S0030_G0131_300_robocreator",
+        "jp": "群レノ中ニ紛レテイルカラ、ガンバッテ探シテネー！",
+        "en": "They tend to hang out in groups, so good luck finding the right ones!",
+        "ru": "Те машины любят сбиваться в группы, посему удачи вам в поисках!"
+    },
+    {
+        "id": "M5290_S0040_G0000_001_robocreator",
+        "jp": "オオ、『５色ケーブル』ダ。コレ、俺ニクレル？",
+        "en": "Ah! My precious cable! Give it here.",
+        "ru": "Ах! Мой прелестный кабель! Давайте его сюда."
+    },
+    {
+        "id": "M5290_S0040_G0010_001_robocreator",
+        "jp": "ヨシ、チョット待ッテテネ。コレヲ繋イデ……",
+        "en": "Now I just zap this...and tweak that...aaaand...",
+        "ru": "Теперь я просто ткну это... и подрегулирую здесь... и-и-и..."
+    },
+    {
+        "id": "M5290_S0040_G0020_001_robocreator",
+        "jp": "グッド！デバッグシテルノカ疑ワシイ難易度ニナッタヨ〜",
+        "en": "Yes! Now it's so hard, you'll wonder if anyone even bothered to bug-test this!",
+        "ru": "Да! Теперь она такая сложная, интересно, под силу ли кому-нибудь проверить её на баги!"
+    },
+    {
+        "id": "M5290_S0040_G0030_001_robocreator",
+        "jp": "バグヲミツケタラ報酬ガアルカラ、遊ンデミテネ〜",
+        "en": "I doubt you can beat it. But if you DO, I'll give you a really nice prize.",
+        "ru": "Я сомневаюсь, что у вас получится. Но если всё же СМОЖЕТЕ, я дам вам действительно отличную награду."
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0040_G0031_001_robocreator",
+        "jp": "フフフ……難シクナカッタ？",
+        "en": "Heheh. Hope it wasn't too hard for you!",
+        "ru": "Хе-хе. Надеюсь, это не было слишком сложно для вас!"
+    },
+    {
+        "id": "M5290_S0020_G0041_001_robocreator",
+        "jp": "ゲームヲ遊ンデ行クカイ？",
+        "en": "Feel like playing a game?",
+        "ru": "Не желаете опробовать игру?"
+    },
+    {
+        "id": "M5290_S0020_G0042_001_sele",
+        "jp": "遊ブ",
+        "en": "Sure.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5290_S0020_G0043_001_sele",
+        "jp": "遊バナイ",
+        "en": "Not right now.",
+        "ru": "Не сейчас."
+    },
+    {
+        "id": "M5290_S0020_G0080_300_robocreator",
+        "jp": "ゲームヲ楽シンデ！",
+        "en": "Have fun!",
+        "ru": "Повеселитесь там!"
+    },
+    {
+        "id": "M5290_S0020_G0090_300_robocreator",
+        "jp": "ゲームデ遊ビタクナッタライツデモ来テネ！",
+        "en": "Come back whenever you'd like to play.",
+        "ru": "Возвращайтесь, когда захотите поиграть."
+    },
+    {
+        "id": "M5290_S0040_G0032_001_robocreator",
+        "jp": "難シイノニ、バグヲ見ツケテクレテ感謝！",
+        "en": "I can't believe you managed to complete it AND debug it as well!",
+        "ru": "Поверить не могу, что вам удалось пройти её И вы обнаружили баг!"
+    },
+    {
+        "id": "M5290_S0040_G0060_001_a9s",
+        "jp": "もう次のゲームは作らなくていいの？",
+        "en": "...Is that it? You're not going to send me to find some other weird cable?",
+        "ru": "...И всё? Вы больше не отправите меня на поиски какого-нибудь странного кабеля?"
+    },
+    {
+        "id": "M5290_S0040_G0070_001_robocreator",
+        "jp": "ウウウッ……実ハアイデアガ、ネタギレナノデス。",
+        "en": "Actually, I've sort of run out of ideas.",
+        "ru": "На самом деле, у меня закончились идеи."
+    },
+    {
+        "id": "M5290_S0040_G0080_001_robocreator",
+        "jp": "クリエイションハ、ソンナニ簡単ジャナイ事ヲ思イ知リマシタ……",
+        "en": "I never knew how difficult it was to be a creative genius.",
+        "ru": "Я никогда не задумывался, как тяжело быть творческим гением."
+    },
+    {
+        "id": "M5290_S0040_G0090_001_robocreator",
+        "jp": "トイウ事デ引退サセテイタダキマス。",
+        "en": "That's why I've decided to go out on top.",
+        "ru": "Поэтому я и вознамерился подняться на самый верх."
+    },
+    {
+        "id": "M5290_S0040_G0100_001_robocreator",
+        "jp": "アリガトウゴザイマシタ。",
+        "en": "Thank you for your support!",
+        "ru": "Спасибо вам за поддержку!"
+    },
+    {
+        "id": "M5920_S0020_G0240_001_pod153",
+        "jp": "依頼されていた資材を入手。",
+        "en": "Requested material obtained.",
+        "ru": "Получен требуемый материал."
+    }
+]

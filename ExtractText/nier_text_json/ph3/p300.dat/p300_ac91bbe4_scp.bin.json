@@ -1,0 +1,122 @@
+[
+    {
+        "id": "M3060_S0500_G0000_001_announce",
+        "jp": "ヨルハ機体９Ｓ！",
+        "en": "YoRHa unit 9S!",
+        "ru": "Единица YoRHa 9S!"
+    },
+    {
+        "id": "M3060_S0500_G0010_001_girls",
+        "jp": "ヨルハ機体９Ｓ！",
+        "en": "YoRHa unit 9S!",
+        "ru": "Единица YoRHa 9S!"
+    },
+    {
+        "id": "M3060_S0500_G0020_001_announce",
+        "jp": "ようこそ『塔』へ！",
+        "en": "Welcome to the Tower!",
+        "ru": "Добро пожаловать в Башню!"
+    },
+    {
+        "id": "M3060_S0500_G0030_001_girls",
+        "jp": "ようこそ『塔』へ！",
+        "en": "Welcome to the Tower!",
+        "ru": "Добро пожаловать в Башню!"
+    },
+    {
+        "id": "M3060_S0500_G0040_001_a9s",
+        "jp": "貴様ら……ッ！！",
+        "en": "You bastards...!",
+        "ru": "Вы, ублюдки!.."
+    },
+    {
+        "id": "M3060_S0500_G0050_001_announce",
+        "jp": "ここまで辿り着いた貴様に耳寄りな情報があります。",
+        "en": "Because you made it this far, we have a special announcement just for you...",
+        "ru": "Поскольку ты зашел так далеко, у нас есть особое объявление только для тебя..."
+    },
+    {
+        "id": "M3060_S0500_G0060_001_girls",
+        "jp": "ここまで辿り着いた貴様に耳寄りな情報があります。",
+        "en": "Because you made it this far, we have a special announcement just for you...",
+        "ru": "Поскольку ты зашел так далеко, у нас есть особое объявление только для тебя..."
+    },
+    {
+        "id": "M3060_S0500_G0070_001_girls",
+        "jp": "この場に居る機械生命体を全て破壊したら教えよう。",
+        "en": "We'll reveal it once you destroy all the machine lifeforms here.",
+        "ru": "И мы раскроем его тебе, как только ты уничтожишь здесь все машины."
+    },
+    {
+        "id": "M3060_S0500_G0080_001_girls",
+        "jp": "全てを破壊したな。",
+        "en": "You did it.",
+        "ru": "Ты справился."
+    },
+    {
+        "id": "M3060_S0500_G0090_001_girls",
+        "jp": "全てを破壊したな。",
+        "en": "You did it.",
+        "ru": "Ты справился."
+    },
+    {
+        "id": "M3060_S0500_G0100_001_girls",
+        "jp": "ならば約束通り見せてやろう。",
+        "en": "Now let us show you what we promised.",
+        "ru": "Теперь мы покажем тебе то, что обещали."
+    },
+    {
+        "id": "M3060_S0560_G0000_001_girls",
+        "jp": "私達は機械生命体のネットワークから生まれた概念人格。",
+        "en": "We are conceptual human personalities created within the machine network.",
+        "ru": "Мы — концепции человеческих личностей, созданные в сети машин."
+    },
+    {
+        "id": "M3060_S0560_G0010_001_girls",
+        "jp": "破壊する事は不可能。",
+        "en": "We cannot be destroyed.",
+        "ru": "Нас нельзя уничтожить."
+    },
+    {
+        "id": "M3060_S0560_G0020_001_girls",
+        "jp": "ヨルハ機体９Ｓ。",
+        "en": "YoRHa unit 9S...",
+        "ru": "Единица YoRHa 9S..."
+    },
+    {
+        "id": "M3060_S0560_G0030_001_girls",
+        "jp": "貴様の攻撃は無駄だ。",
+        "en": "Your attack is meaningless.",
+        "ru": "Твои атаки бессмысленны."
+    },
+    {
+        "id": "M3060_S0560_G0040_001_girls",
+        "jp": "貴様の存在は無意味だ。",
+        "en": "Your existence is meaningless.",
+        "ru": "Твоё существование бессмысленно."
+    },
+    {
+        "id": "M3060_S0560_G0050_001_a9s",
+        "jp": "うるさいッ！！",
+        "en": "Shut up!",
+        "ru": "Заткнись!"
+    },
+    {
+        "id": "M3060_S0560_G0060_001_a9s",
+        "jp": "何度も何度も……",
+        "en": "Keep 'em coming...",
+        "ru": "Они продолжают наступать..."
+    },
+    {
+        "id": "M3060_S0560_G0070_001_a9s",
+        "jp": "全部壊す……",
+        "en": "I'll destroy them all...",
+        "ru": "Я всех их уничтожу..."
+    },
+    {
+        "id": "M3060_S0560_G0080_001_a9s",
+        "jp": "お前達も、この塔も……！",
+        "en": "All of them...AND this Tower!",
+        "ru": "Всех их... И эту Башню тоже!"
+    }
+]

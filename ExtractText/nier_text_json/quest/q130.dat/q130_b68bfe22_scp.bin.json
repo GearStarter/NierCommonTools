@@ -1,0 +1,962 @@
+[
+    {
+        "id": "M5130_S0010_G0130_001_resiwoman",
+        "jp": "この壊れたポッドがライフログを撮っているハズだから、取り出してくれない？",
+        "en": "This broken Pod was recording her life log. Think you can get it for me?",
+        "ru": "Этот сломанный бот вёл журнал её жизнедеятельности. Сможете извлечь его для меня?"
+    },
+    {
+        "id": "M5130_S0010_G0140_001_sele",
+        "jp": "協力する。",
+        "en": "Help her out.",
+        "ru": "Помочь ей."
+    },
+    {
+        "id": "M5130_S0010_G0150_001_sele",
+        "jp": "協力しない。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5130_S0010_G0170_001_resiwoman",
+        "jp": "ポッドから友人のライフログを取り出してくれる？",
+        "en": "I need you to get my friend's life log out of this Pod...",
+        "ru": "Мне нужно, чтобы вы выгрузили журнал моей подруги из этого бота..."
+    },
+    {
+        "id": "M5130_S0010_G0140_001_sele",
+        "jp": "協力する。",
+        "en": "Help her out.",
+        "ru": "Помочь ей."
+    },
+    {
+        "id": "M5130_S0010_G0150_001_sele",
+        "jp": "協力しない。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5130_S0010_G0000_001_resiwoman",
+        "jp": "あ……う……",
+        "en": "Owwwwww...",
+        "ru": "О-о-о-о-х..."
+    },
+    {
+        "id": "M5130_S0010_G0010_001_a9s",
+        "jp": "あの、大丈夫ですか？レジスタンスの人ですよね？",
+        "en": "Hey, you're with the Resistance, right? Are you okay?",
+        "ru": "Эй, вы ведь из Сопротивления, да? Вы в порядке?"
+    },
+    {
+        "id": "M5130_S0010_G0020_001_resiwoman",
+        "jp": "う……少し前に、廃墟で爆発があったでしょう？",
+        "en": "Nnngh... You know that explosion that happened in the ruins?",
+        "ru": "Нгх... Вы знаете, что за взрыв произошёл в руинах?"
+    },
+    {
+        "id": "M5130_S0010_G0030_001_resiwoman",
+        "jp": "その時の衝撃でちょっと調子が悪いのよね。",
+        "en": "The shockwave hit me like...well, a shockwave, I guess. Knocked my circuits all out of whack, but I managed to—",
+        "ru": "Ударная волна задела меня... ну, я полагаю, что ударная. Волна вырубила все мои схемы, но мне удалось..."
+    },
+    {
+        "id": "M5130_S0010_G0040_001_resiwoman",
+        "jp": "……っていうか、そっちのお姉さんヨルハの人……前に会った事があるかしら？",
+        "en": "Wait a second... You look familiar—have we met before?",
+        "ru": "Подождите-ка... Вы кажетесь мне знакомыми, мы не встречались прежде?"
+    },
+    {
+        "id": "M5130_S0010_G0050_001_a2b",
+        "jp": "いいえ……ヨルハ型は似てるモデルが多いから。",
+        "en": "Me? No. But lots of YoRHa models look alike.",
+        "ru": "Мы? Нет. Но многие модели YoRHa имеют схожую внешность."
+    },
+    {
+        "id": "M5130_S0010_G0060_001_resiwoman",
+        "jp": "貴方達、ヨルハ部隊の人？",
+        "en": "Oh... So, you two are with YoRHa, are you?",
+        "ru": "О... Значит, вы двое из YoRHa, не так ли?"
+    },
+    {
+        "id": "M5130_S0010_G0070_001_a9s",
+        "jp": "そ、そうですけど？",
+        "en": "Um, yes? Why do you want to know?",
+        "ru": "Эм, да? Зачем вы хотите это узнать?"
+    },
+    {
+        "id": "M5130_S0010_G0080_001_resiwoman",
+        "jp": "すごく、高性能だって聞いてるけど……",
+        "en": "No reason! I mean, I've just heard stories about how advanced you guys are, and how kind, and...",
+        "ru": "Просто так! Я имею в виду, я столько раз слышала о том, насколько вы, ребята, продвинутые, умные и..."
+    },
+    {
+        "id": "M5130_S0010_G0090_001_resiwoman",
+        "jp": "良ければ助けてくれない？",
+        "en": "Okay, fine. I need help.",
+        "ru": "Хорошо, ладно. Мне нужна помощь."
+    },
+    {
+        "id": "M5130_S0010_G0100_001_a9s",
+        "jp": "え？……ああ、はい。出来る事なら。",
+        "en": "Well, sure, I guess? What's the problem?",
+        "ru": "Ну, конечно же. И чем помочь?"
+    },
+    {
+        "id": "M5130_S0010_G0110_001_resiwoman",
+        "jp": "実は、一緒に作戦に従事していた友人が死んでしまって……",
+        "en": "What happened is, my friend who was with me on this mission was killed, and...",
+        "ru": "Что-то случилось и моя подруга, которая пошла на задание со мной, была убита и..."
+    },
+    {
+        "id": "M5130_S0010_G0120_001_resiwoman",
+        "jp": "最後の想い出を取り出したいの。",
+        "en": "I want to retrieve her final moments.",
+        "ru": "Я хочу увидеть, что случилось незадолго до её убийства."
+    },
+    {
+        "id": "M5130_S0010_G0160_001_resiwoman",
+        "jp": "ありがとう！",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M5130_S0010_G0130_001_resiwoman",
+        "jp": "この壊れたポッドがライフログを撮っているハズだから、取り出してくれない？",
+        "en": "This broken Pod was recording her life log. Think you can get it for me?",
+        "ru": "Этот сломанный бот вёл журнал её жизнедеятельности. Сможете извлечь его для меня?"
+    },
+    {
+        "id": "M5130_S0010_G0180_001_a9s",
+        "jp": "わかりました。そのポッドから写真を取り出せばいいんですね？",
+        "en": "All right. I just need to extract some images, right?",
+        "ru": "Хорошо. Нам просто нужно выгрузить несколько изображений, да?"
+    },
+    {
+        "id": "M5130_S0010_G0190_001_telo",
+        "jp": "ライフログから画像を取り出した。",
+        "en": "You extracted the images from the life log.",
+        "ru": "Вы извлекли изображения из журнала."
+    },
+    {
+        "id": "M5130_S0030_G0000_001_a9s",
+        "jp": "今、表示されたのは、ポッドに残されていた最後のログです。",
+        "en": "...That was the last entry contained in the life log.",
+        "ru": "...Это была самая последняя запись из журнала."
+    },
+    {
+        "id": "M5130_S0030_G0010_001_a9s",
+        "jp": "レジスタンス同士の争いみたいですが……",
+        "en": "I could be wrong, but it looked like two Resistance members fighting each other.",
+        "ru": "Я могу ошибаться, но выглядело так, будто два члена Сопротивления сражались друг с другом."
+    },
+    {
+        "id": "M5130_S0030_G0020_001_resiwoman",
+        "jp": "まさか、彼女はレジスタンスに……仲間に殺されたの！？",
+        "en": "So my friend was killed by the Resistance? By one of her own!?",
+        "ru": "Значит, моя подруга была убита кем-то из Сопротивления? Одним из союзников?!"
+    },
+    {
+        "id": "M5130_S0030_G0030_001_a9s",
+        "jp": "待って！まだ完全には修復出来ていません。",
+        "en": "Easy. We haven't finished fully restoring the data.",
+        "ru": "Не спешите. Мы ещё не полностью восстановили картину."
+    },
+    {
+        "id": "M5130_S0030_G0040_001_a9s",
+        "jp": "今よりもっと深い階層に潜らないと、完全には——",
+        "en": "It won't be complete until we dig into a deeper layer and—",
+        "ru": "И мы не сможем закончить её, пока не копнём поглубже и..."
+    },
+    {
+        "id": "M5130_S0030_G0050_001_resiwoman",
+        "jp": "いいえ、もう十分……十分よ……",
+        "en": "No. That's enough. I don't need to know any more.",
+        "ru": "Нет. Этого будет достаточно. Большего мне знать и не нужно."
+    },
+    {
+        "id": "M5130_S0030_G0060_001_resiwoman",
+        "jp": "この赤いフードのレジスタンスが彼女の仇……",
+        "en": "That person in the red hood killed my friend...",
+        "ru": "Этот андроид в красном капюшоне убил мою подругу..."
+    },
+    {
+        "id": "M5130_S0030_G0070_001_resiwoman",
+        "jp": "仲間を殺すなんて、許せないッ！",
+        "en": "And she's going to pay for it!",
+        "ru": "И она заплатит за это!"
+    },
+    {
+        "id": "M5130_S0030_G0080_001_a9s",
+        "jp": "待って！",
+        "en": "Wait!",
+        "ru": "Подождите!"
+    },
+    {
+        "id": "M5130_S0030_G0090_001_resiwoman",
+        "jp": "何？",
+        "en": "What is it?",
+        "ru": "Что ещё?"
+    },
+    {
+        "id": "M5130_S0030_G0100_001_a9s",
+        "jp": "どこに行くんですか？",
+        "en": "Where are you going?",
+        "ru": "Куда вы собрались?"
+    },
+    {
+        "id": "M5130_S0030_G0110_001_resiwoman",
+        "jp": "犯人を探しだして……殺す。",
+        "en": "To kill the bastard who murdered my friend!",
+        "ru": "Убить тварь, что убила мою подругу!"
+    },
+    {
+        "id": "M5130_S0030_G0120_001_a9s",
+        "jp": "殺すって言ったって、情報が足りなさすぎますよ！",
+        "en": "Just slow down, all right? We need more data about what happened.",
+        "ru": "Успокойтесь, хорошо? Нам нужно собрать больше данных о произошедшем."
+    },
+    {
+        "id": "M5130_S0030_G0130_001_a9s",
+        "jp": "それに、貴方は犯人に見られている可能性がありますから危険です。",
+        "en": "Besides, it's dangerous. The killer could be watching you right now for all we know.",
+        "ru": "Кроме того, это очень опасно. Убийца может быть в курсе того, что мы тут узнали."
+    },
+    {
+        "id": "M5130_S0030_G0140_001_resiwoman",
+        "jp": "じゃあ、どうすれば……",
+        "en": "Fine then. What do YOU think I should do?",
+        "ru": "Ну что ж, ладно. И что же, ПО ВАШЕМУ мнению, я должна делать?"
+    },
+    {
+        "id": "M5130_S0030_G0150_001_a9s",
+        "jp": "僕が、レジスタンスキャンプで調査してきますよ。",
+        "en": "Let me ask around the Resistance camp before you go running off.",
+        "ru": "Прежде чем идти куда-либо, позвольте мне всё разузнать в лагере Сопротивления."
+    },
+    {
+        "id": "M5130_S0030_G0160_001_a9s",
+        "jp": "赤いフードなんてあまり見る服装じゃないですからね。",
+        "en": "There can't be that many people in red hoods, after all. Someone must know something.",
+        "ru": "Ведь вряд ли там найдётся много андроидов в красных капюшонах. Кто-нибудь должен что-то знать."
+    },
+    {
+        "id": "M5130_S0030_G0170_001_resiwoman",
+        "jp": "……わかった。頼んだぞ。",
+        "en": "All right. I can wait for a little while.",
+        "ru": "Хорошо. Я могу немного подождать здесь."
+    },
+    {
+        "id": "M5130_S0030_G0180_001_resiwoman",
+        "jp": "礼ははずむからな。",
+        "en": "Hey, and...thanks.",
+        "ru": "Эй, и... спасибо."
+    },
+    {
+        "id": "M5130_S0030_G0060_001_resiwoman",
+        "jp": "この赤いフードのレジスタンスが彼女の仇……",
+        "en": "That person in the red hood killed my friend...",
+        "ru": "Этот андроид в красном капюшоне убил мою подругу..."
+    },
+    {
+        "id": "M5130_S0030_G0070_001_resiwoman",
+        "jp": "仲間を殺すなんて、許せないッ！",
+        "en": "And she's going to pay for it!",
+        "ru": "И она заплатит за это!"
+    },
+    {
+        "id": "M5130_S0030_G0110_001_resiwoman",
+        "jp": "犯人を探しだして……殺す。",
+        "en": "To kill the bastard who murdered my friend!",
+        "ru": "Убить тварь, что убила мою подругу!"
+    },
+    {
+        "id": "M5130_S0030_G0190_001_a2b",
+        "jp": "お人好し。",
+        "en": "Well. Aren't we generous?",
+        "ru": "Ну. Разве мы не благородны?"
+    },
+    {
+        "id": "M5130_S0030_G0200_001_a9s",
+        "jp": "え？",
+        "en": "Hmm?",
+        "ru": "Хм?"
+    },
+    {
+        "id": "M5130_S0030_G0210_001_a2b",
+        "jp": "美人だからとはいえ、サービスしすぎ。",
+        "en": "All this help for no personal gain? I know she's pretty, but—",
+        "ru": "И вся эта помощь без личной выгоды? Я знаю, она красивая, но..."
+    },
+    {
+        "id": "M5130_S0030_G0220_001_a9s",
+        "jp": "いやいやいや！そんな事ないですって！",
+        "en": "Whoa, whoa! It's not like that!",
+        "ru": "Воу-воу! Ничего подобного!"
+    },
+    {
+        "id": "M5130_S0030_G0230_001_a9s",
+        "jp": "いや、不美人っていう訳じゃなくて……",
+        "en": "I mean, she IS pretty, but that's... It's not...",
+        "ru": "Я имею в виду, да, она красивая, но... Это тут ни при чём..."
+    },
+    {
+        "id": "M5130_S0030_G0240_001_a2b",
+        "jp": "どっちでもいい。",
+        "en": "Whatever.",
+        "ru": "Как скажешь."
+    },
+    {
+        "id": "M5130_S0120_G0000_001_a9s",
+        "jp": "そういえば、赤色のフードを付けているって言ってたよな……",
+        "en": "We need to find someone wearing a red hood.",
+        "ru": "Мы должны найти кого-то, кто носит красный капюшон."
+    },
+    {
+        "id": "M5130_S0120_G0010_001_a9s",
+        "jp": "そのフード、綺麗な色ですね。",
+        "en": "Say, nice hood. You make it?",
+        "ru": "Ну и ну, классный капюшон. Вы сами его сшили?"
+    },
+    {
+        "id": "M5130_S0120_G0020_001_resiwoman2",
+        "jp": "え？ああ、ありがとう。友達に貰ったの。",
+        "en": "What, this? No, a girlfriend of mine gave it to me.",
+        "ru": "Что, этот? Нет, моя подруга отдала мне его."
+    },
+    {
+        "id": "M5130_S0120_G0030_001_resiwoman2",
+        "jp": "今日、初めて着たんだけど似合うかな？",
+        "en": "This is the first time I've worn it in public. Do you really like it?",
+        "ru": "Я впервые решила выйти в свет в нём. Он вам действительно понравился?"
+    },
+    {
+        "id": "M5130_S0120_G0040_001_a9s",
+        "jp": "ええ、とても似合ってます。僕も欲しくなっちゃった。",
+        "en": "Yeah, it's great. In fact, I wish I had one for myself.",
+        "ru": "Ага, он великолепен. На самом деле, я бы и сам не отказался от такого."
+    },
+    {
+        "id": "M5130_S0120_G0050_001_a9s",
+        "jp": "お友達に、どこで手に入れたのか聞いてみたいなぁ……？",
+        "en": "Do you happen to know where she got it?",
+        "ru": "Не знаете, случаем, где она достала его?"
+    },
+    {
+        "id": "M5130_S0120_G0060_001_resiwoman2",
+        "jp": "残念。彼女、ここにはいないの。",
+        "en": "No, sorry. I didn't think to ask.",
+        "ru": "К сожалению нет. Я не подумала спросить у неё."
+    },
+    {
+        "id": "M5130_S0120_G0070_001_a9s",
+        "jp": "そうなんですか？じゃあ、今はどこに？",
+        "en": "Do you know where your friend is? Maybe I'll go ask her myself.",
+        "ru": "В таком случае, может, вы знаете, где сейчас ваша подруга? Быть может, я сам схожу и спрошу у неё?"
+    },
+    {
+        "id": "M5130_S0120_G0080_001_resiwoman2",
+        "jp": "聞きに行くの？ずいぶんフードが気に入ったのね。",
+        "en": "Man, you REALLY like this hood!",
+        "ru": "Парень, да тебе ДЕЙСТВИТЕЛЬНО очень понравился этот капюшон!"
+    },
+    {
+        "id": "M5130_S0120_G0090_001_resiwoman2",
+        "jp": "今は砂漠の駐留地よ。",
+        "en": "Last I heard, she was out at the desert station.",
+        "ru": "В последний раз я слышала, что она находится на пустынной базе."
+    },
+    {
+        "id": "M5130_S0120_G0100_001_resiwoman2",
+        "jp": "女性は彼女一人だから、すぐに判ると思う。",
+        "en": "She shouldn't be hard to find—I think she's the only woman there.",
+        "ru": "Будет не трудно отыскать её, я полагаю, она будет там единственной женщиной."
+    },
+    {
+        "id": "M5130_S0120_G0110_001_a9s",
+        "jp": "ありがとうございます！",
+        "en": "Thanks. I appreciate it.",
+        "ru": "Спасибо. Премного благодарен."
+    },
+    {
+        "id": "M5130_S0120_G0120_001_resiwoman2",
+        "jp": "フード、手に入るといいね。",
+        "en": "Hope you manage to get a hood of your own!",
+        "ru": "Надеюсь, тебе удастся достать еще один такой капюшон!"
+    },
+    {
+        "id": "M5130_S0120_G0120_001_resiwoman2",
+        "jp": "フード、手に入るといいね。",
+        "en": "Hope you manage to get a hood of your own!",
+        "ru": "Надеюсь, тебе удастся достать еще один такой капюшон!"
+    },
+    {
+        "id": "M5130_S0130_G0000_001_a9s",
+        "jp": "赤いフードの服はプレゼントされた物だったんだ……",
+        "en": "Sounds like that red hood was a gift of some sort.",
+        "ru": "Похоже, что красный капюшон был чем-то вроде подарка."
+    },
+    {
+        "id": "M5130_S0130_G0010_001_a2b",
+        "jp": "プレゼントなんて無意味な行為。",
+        "en": "Gifts are such a useless ritual.",
+        "ru": "Подарки — такой бесполезный ритуал."
+    },
+    {
+        "id": "M5130_S0130_G0020_001_a9s",
+        "jp": "ど、どうしたんですか！？急に。",
+        "en": "Wow, okay. Where'd THAT come from?",
+        "ru": "Воу, хорошо. И почему же?"
+    },
+    {
+        "id": "M5130_S0130_G0030_001_a2b",
+        "jp": "相手に聞かずに物を送るのは迷惑。",
+        "en": "It's rude to give a person something without their permission.\\nWhat if they don't want it?",
+        "ru": "Грубо дарить кому-то что-либо без его разрешения.\\nА что, если они этого не хотят?"
+    },
+    {
+        "id": "M5130_S0130_G0040_001_a9s",
+        "jp": "うーん……物というより、贈る気持ちが重要、とか？",
+        "en": "Hmm. I think it's more about the feeling behind it than the actual item, right?",
+        "ru": "Хм. Мне кажется, за всем этим стоят больше чувства, нежели сам предмет, не думаешь?"
+    },
+    {
+        "id": "M5130_S0130_G0050_001_a2b",
+        "jp": "気持ちとか感情を持つことは禁止されている。",
+        "en": "Feelings are prohibited.",
+        "ru": "Чувства под запретом."
+    },
+    {
+        "id": "M5130_S0130_G0060_001_a9s",
+        "jp": "はいはーい。",
+        "en": "Yeah, yeah.",
+        "ru": "Да, да."
+    },
+    {
+        "id": "M5130_S0130_G0070_001_a2b",
+        "jp": "ハイは一回。",
+        "en": "One affirmation will suffice.",
+        "ru": "Одного подтверждения будет достаточно."
+    },
+    {
+        "id": "M5130_S0130_G0080_001_a9s",
+        "jp": "はーい。",
+        "en": "Oh, for the love of... Fine. \"Yeah.\"",
+        "ru": "Ох, ради всего... Ладно. \"Да\"."
+    },
+    {
+        "id": "M5130_S0130_G0090_001_a9s",
+        "jp": "赤いフードを贈った女性レジスタンスが砂漠に居るはずです。",
+        "en": "Our red-hooded target should be in the desert.",
+        "ru": "Наша цель с красным капюшоном должна быть в пустыне."
+    },
+    {
+        "id": "M5130_S0130_G0100_001_a2b",
+        "jp": "そいつが犯人の可能性もあるから、気をつけないと……",
+        "en": "Stay alert. She could be our killer.",
+        "ru": "Будь начеку. Она может оказаться убийцей."
+    },
+    {
+        "id": "M5130_S0130_G0110_001_a9s",
+        "jp": "でも、砂漠の駐留地には女性レジスタンスは一人しかいないですよ……",
+        "en": "But there's only one female resistance member at the desert station...",
+        "ru": "Здесь, на пустынной базе, должна быть только одна женщина из Сопротивления..."
+    },
+    {
+        "id": "M5130_S0130_G0120_001_a9s",
+        "jp": "あれ……？いないですね。",
+        "en": "Hmm. I don't see her.",
+        "ru": "Хм. Я не вижу её."
+    },
+    {
+        "id": "M5130_S0130_G0130_001_a2b",
+        "jp": "あそこにいる人に聞いてみよう。",
+        "en": "Let's ask that guy over there.",
+        "ru": "Давай спросим у того парня."
+    },
+    {
+        "id": "M5130_S0130_G0140_001_resiman",
+        "jp": "え……？女レジスタンスを探してる？",
+        "en": "...How's that? You're looking for a Resistance lady?",
+        "ru": "...Как дела? Ищете Джекэсс?"
+    },
+    {
+        "id": "M5130_S0130_G0150_001_resiman",
+        "jp": "ああ、ジャッカスの事か。",
+        "en": "Oh, you must mean Jackass, huh?",
+        "ru": "Уверены, что хотите связываться с ней?"
+    },
+    {
+        "id": "M5130_S0130_G0180_001_resiman",
+        "jp": "何でも爆破とか乱暴な手段で済ませようとする女なんだよな……",
+        "en": "Every time there's an issue, ol' Jackass tries to solve it with explosives or some other violent method.",
+        "ru": "Каждую проблему старина Джекэсс пытается решить при помощи взрывчатки или неким другим жестоким методом."
+    },
+    {
+        "id": "M5130_S0130_G0190_001_resiman",
+        "jp": "彼女なら今、砂漠の洞窟に地質調査に行ってるハズだ。",
+        "en": "I think she's off doing geological research in one of the desert caves.",
+        "ru": "Я думаю, она проводит геологические изыскания в одной из пустынных пещер."
+    },
+    {
+        "id": "M5130_S0130_G0200_001_resiman",
+        "jp": "位置情報を渡しておくから、勝手に探してくれ。",
+        "en": "I'll send you the coordinates if you want.",
+        "ru": "Если так уж нужно, могу отправить вам координаты."
+    },
+    {
+        "id": "M5130_S0130_G0210_001_resiman",
+        "jp": "あ、あと……",
+        "en": "Oh, but if you're gonna head out there—",
+        "ru": "О, если решите отправиться туда..."
+    },
+    {
+        "id": "M5130_S0130_G0220_001_resiman",
+        "jp": "君達も吹き飛ばされないように気をつけろよ。",
+        "en": "Just make sure you don't get caught up in one of her explosions, you hear?",
+        "ru": "Постарайтесь не угодить в один из её взрывов, хорошо?"
+    },
+    {
+        "id": "M5130_S0130_G0190_001_resiman",
+        "jp": "彼女なら今、砂漠の洞窟に地質調査に行ってるハズだ。",
+        "en": "I think she's off doing geological research in one of the desert caves.",
+        "ru": "Я думаю, она проводит геологические изыскания в одной из пустынных пещер."
+    },
+    {
+        "id": "M5130_S0130_G0220_001_resiman",
+        "jp": "君達も吹き飛ばされないように気をつけろよ。",
+        "en": "Just make sure you don't get caught up in one of her explosions, you hear?",
+        "ru": "Постарайтесь не угодить в один из её взрывов, хорошо?"
+    },
+    {
+        "id": "M5130_S0130_G0240_001_a9s",
+        "jp": "あの……ジャッカス……さん？",
+        "en": "Excuse me? Are you...um...\"Jackass\"?",
+        "ru": "Джекэсс? Здравствуйте!"
+    },
+    {
+        "id": "M5130_S0130_G0250_001_jackas",
+        "jp": "ん？……何か用？",
+        "en": "Who wants to know?",
+        "ru": "О, привет. Что вам здесь нужно?"
+    },
+    {
+        "id": "M5130_S0130_G0260_001_a9s",
+        "jp": "ああ、ちょっとヨルハ部隊で必要な現地調査を行っていまして……",
+        "en": "We're with YoRHa. We're conducting a field investigation.",
+        "ru": "Ну так, выполняем одно важное задание."
+    },
+    {
+        "id": "M5130_S0130_G0270_001_resiwoman2",
+        "jp": "へえ、わざわざご苦労様。",
+        "en": "Well, yippee for you.",
+        "ru": "Какие молодцы."
+    },
+    {
+        "id": "M5130_S0130_G0280_001_a9s",
+        "jp": "ご友人に赤色のフードを贈ったのって、貴女ですか？",
+        "en": "Listen, did you happen to give a red hood to a friend earlier?",
+        "ru": "Послушайте, вы, случаем, не отдавали ранее красный капюшон своей подруге?"
+    },
+    {
+        "id": "M5130_S0130_G0290_001_a9s",
+        "jp": "我々の部隊旗の色を染めるのに、あの赤色染料を手に入れたいんですが……",
+        "en": "That red is perfect for our new YoRHa colors, so we were hoping to—",
+        "ru": "Красный отлично подойдёт к нашим новым цветам YoRHa, поэтому мы надеялись, что..."
+    },
+    {
+        "id": "M5130_S0130_G0300_001_jackas",
+        "jp": "ああ、あれ？いきなり売りつけられたんだよね。",
+        "en": "That old piece of crap? Yeah, I gave it to her. Hell, I never wanted it in the first place.",
+        "ru": "То старое тряпьё? Ага, я отдала его ей. Угораздило меня купить эту бесполезную ерунду."
+    },
+    {
+        "id": "M5130_S0130_G0310_001_a9s",
+        "jp": "売りつけられた？",
+        "en": "Er, so it came from someone else originally?",
+        "ru": "Э-э, значит, вам тоже его кто-то дал?"
+    },
+    {
+        "id": "M5130_S0130_G0320_001_jackas",
+        "jp": "そう。廃墟都市が爆発したすぐ後だったかな。",
+        "en": "Did I stutter? Yeah, it came from someone else. I bought the stupid thing right after that explosion in the city ruins.",
+        "ru": "Разве я только что не сказала? Да, оно досталось мне от другого хозяина. Я купила эту фигню сразу же после взрыва в руинах города."
+    },
+    {
+        "id": "M5130_S0130_G0330_001_jackas",
+        "jp": "買ってくれって、赤い髪の女レジスタンスに言われたんだよ。",
+        "en": "Some Resistance lady with red hair practically tackled me trying to get me to buy it.",
+        "ru": "Некая рыжеволосая девушка из Сопротивления насела на меня в попытках заставить купить его."
+    },
+    {
+        "id": "M5130_S0130_G0340_001_jackas",
+        "jp": "フード自体は友達に似合いそうな色だったし、まあいいかなって。",
+        "en": "I only did it to get her off my case. Well, and because I thought it might look good on my friend... But if you tell her that, you're dead!",
+        "ru": "Мне пришлось, лишь бы она отстала. Ну, я подумала, он будет неплохо\\nсмотреться на моей подруге... Но если проболтаешься ей, считай, что тебе конец!"
+    },
+    {
+        "id": "M5130_S0130_G0350_001_a9s",
+        "jp": "赤い髪の、女レジスタンス……",
+        "en": "A red-haired Resistance member...",
+        "ru": "Рыжеволосая девушка из Сопротивления..."
+    },
+    {
+        "id": "M5130_S0130_G0360_001_pod153",
+        "jp": "依頼主の特徴と一致。",
+        "en": "The same color as our client's hair.",
+        "ru": "Тот же цвет волос, что и у нашего клиента."
+    },
+    {
+        "id": "M5130_S0130_G0370_001_jackas",
+        "jp": "ん？依頼主？",
+        "en": "What client? What the hell's going on here?",
+        "ru": "Какого ещё клиента? Что за чертовщина здесь творится?"
+    },
+    {
+        "id": "M5130_S0130_G0380_001_a9s",
+        "jp": "いえ、なんでもないです！",
+        "en": "Uh, nothing! It's just...that's her nickname. \"The Client.\"",
+        "ru": "Эм, ничего! Просто... у неё прозвище такое. \"Клиент\"."
+    },
+    {
+        "id": "M5130_S0130_G0390_001_jackas",
+        "jp": "でも、今思えば、不思議なヤツだったな……",
+        "en": "That's even stupider than Jackass!",
+        "ru": "Да это даже тупее, чем Джекэсс!"
+    },
+    {
+        "id": "M5130_S0130_G0400_001_jackas",
+        "jp": "ずっと笑ってたよ。",
+        "en": "That lady WAS pretty creepy, though.\\nKept grinning at me like a crazy person.",
+        "ru": "Однако, эта дамочка была УЖАСНО пугающей.\\nУхмылялась мне, как сумасшедшая."
+    },
+    {
+        "id": "M5130_S0130_G0410_001_a9s",
+        "jp": "笑ってた……",
+        "en": "Grinning...?",
+        "ru": "Ухмылялась?.."
+    },
+    {
+        "id": "M5130_S0130_G0420_001_a9s",
+        "jp": "ありがとうございました。失礼します。",
+        "en": "Uh, well, thanks for your help. We'll be on our way.",
+        "ru": "Эм, ну, спасибо за помощь. Мы, пожалуй, пойдём."
+    },
+    {
+        "id": "M5130_S0130_G0390_001_jackas",
+        "jp": "でも、今思えば、不思議なヤツだったな……",
+        "en": "That's even stupider than Jackass!",
+        "ru": "Да это даже тупее, чем Джекэсс!"
+    },
+    {
+        "id": "M5130_S0130_G0400_001_jackas",
+        "jp": "ずっと笑ってたよ。",
+        "en": "That lady WAS pretty creepy, though.\\nKept grinning at me like a crazy person.",
+        "ru": "Однако, эта дамочка была УЖАСНО пугающей.\\nУхмылялась мне, как сумасшедшая."
+    },
+    {
+        "id": "M5130_S0140_G0000_001_pod153",
+        "jp": "報告：赤い頭髪は依頼人である女性型レジスタンスと特徴が一致。",
+        "en": "Alert: The description of a female Resistance member with red hair matches that of our client.",
+        "ru": "Внимание: описание рыжеволосой женщины из Сопротивления полностью совпадает с внешностью нашего клиента."
+    },
+    {
+        "id": "M5130_S0140_G0010_001_a9s",
+        "jp": "仮に本人だとして、友人を殺した犯人のフードを、何で彼女が……",
+        "en": "But if it's the same person, why would she have had the killer's hood?",
+        "ru": "Но если это одна и та же личность, то откуда у неё капюшон убийцы?"
+    },
+    {
+        "id": "M5130_S0140_G0020_001_pod153",
+        "jp": "推測：女性型レジスタンスが当該犯人であるか、\\nまたはその関係者である状態。",
+        "en": "Hypothesis: The red-haired Resistance member is either the killer or an accomplice.",
+        "ru": "Предположение: член Сопротивления с рыжими волосами является убийцей или сообщником."
+    },
+    {
+        "id": "M5130_S0140_G0030_001_a2b",
+        "jp": "……とにかく、話してみよう。",
+        "en": "Let's go talk to her.",
+        "ru": "Давай-ка поговорим с ней."
+    },
+    {
+        "id": "M5130_S0140_G0040_001_resiwoman",
+        "jp": "どうだった？友達を殺した、赤色のフードの奴は見つかった！？",
+        "en": "So? How'd it go? Did you find that murdering wench in the red hood?",
+        "ru": "Ну? Как продвигается? Вы нашли эту девку-убийцу в красном капюшоне?"
+    },
+    {
+        "id": "M5130_S0140_G0050_001_a9s",
+        "jp": "その件なんですが……",
+        "en": "Not...exactly.",
+        "ru": "Не... совсем."
+    },
+    {
+        "id": "M5130_S0140_G0060_001_a9s",
+        "jp": "どうやらそのフードを、貴女が売った可能性があるんです。",
+        "en": "But we DID learn that you sold the hood to someone.",
+        "ru": "Но мы выяснили, что это ВЫ продали капюшон кое-кому."
+    },
+    {
+        "id": "M5130_S0140_G0070_001_resiwoman",
+        "jp": "え……？",
+        "en": "Wha!?",
+        "ru": "Чего?!"
+    },
+    {
+        "id": "M5130_S0140_G0080_001_a9s",
+        "jp": "廃墟都市の爆発のすぐ後に、赤い髪の女レジスタンスが\\n赤色のフードを売りに来た、と。",
+        "en": "Apparently a red-haired Resistance member sold the hood after the explosion in the ruins.",
+        "ru": "Вернее, член Сопротивления с рыжими волосами продала капюшон после взрыва в руинах."
+    },
+    {
+        "id": "M5130_S0140_G0090_001_resiwoman2",
+        "jp": "赤い……髪……？私が、あのフードを……？",
+        "en": "This doesn't make sense...",
+        "ru": "Бред какой-то..."
+    },
+    {
+        "id": "M5130_S0140_G0100_001_a9s",
+        "jp": "貴女と犯人に何らかの関係があった可能性も……",
+        "en": "We're starting to believe you had something to do with the murder.",
+        "ru": "Мы считаем, что вы как-то связаны с убийством."
+    },
+    {
+        "id": "M5130_S0140_G0110_001_resiwoman2",
+        "jp": "……判らない。そんなの判らない、知らない……",
+        "en": "But that's impossible! I don't know about any of that...",
+        "ru": "Но это невозможно! Я ничего об этом не знаю..."
+    },
+    {
+        "id": "M5130_S0140_G0120_001_a9s",
+        "jp": "でも……",
+        "en": "Listen, if you—",
+        "ru": "Послушайте, если вы..."
+    },
+    {
+        "id": "M5130_S0140_G0130_001_resiwoman2",
+        "jp": "……確かこのポッドの記録、まだ残ってる部分があるんでしょう？",
+        "en": "Look, you said there were still some records left in this Pod, right?",
+        "ru": "Так, вы говорили, что в этом боте остались ещё данные, я права?"
+    },
+    {
+        "id": "M5130_S0140_G0140_001_resiwoman2",
+        "jp": "だったらお願い。今すぐ調べてみて！",
+        "en": "Then we have to look at them right now!",
+        "ru": "Тогда давайте посмотрим их прямо сейчас!"
+    },
+    {
+        "id": "M5130_S0140_G0150_001_a9s",
+        "jp": "言いにくいんですが……",
+        "en": "Think about this for a second. I want you to understand what you're asking.",
+        "ru": "Обождите. Я хочу, чтобы вы поняли, о чём просите."
+    },
+    {
+        "id": "M5130_S0140_G0160_001_a9s",
+        "jp": "記憶喪失状態の貴方が、犯人である可能性も……",
+        "en": "You may have killed your own friend. I don't know why or how, but it's possible.",
+        "ru": "Возможно, вы убили свою подругу. Я не знаю, почему и как, но есть такая возможность."
+    },
+    {
+        "id": "M5130_S0140_G0170_001_resiwoman",
+        "jp": "……構わない。私は真実が知りたい。だからお願い！",
+        "en": "I don't care. I have to know the truth. Please!",
+        "ru": "Не важно. Я должна узнать правду. Пожалуйста!"
+    },
+    {
+        "id": "M5130_S0140_G0180_001_a9s",
+        "jp": "……判りました。では、始めます。",
+        "en": "...All right. I'm heading in.",
+        "ru": "...Хорошо. Приступаю."
+    },
+    {
+        "id": "M5130_S0140_G0170_001_resiwoman",
+        "jp": "……構わない。私は真実が知りたい。だからお願い！",
+        "en": "I don't care. I have to know the truth. Please!",
+        "ru": "Не важно. Я должна узнать правду. Пожалуйста!"
+    },
+    {
+        "id": "M5130_S0010_G0190_001_telo",
+        "jp": "ライフログから画像を取り出した。",
+        "en": "You extracted the images from the life log.",
+        "ru": "Вы извлекли изображения из журнала."
+    },
+    {
+        "id": "M5130_S0150_G0010_001_resiwoman",
+        "jp": "あ……ああ……",
+        "en": "Ah! Ahhhhh...",
+        "ru": "Ах! А-а-а-а..."
+    },
+    {
+        "id": "M5130_S0150_G0020_001_resiwoman",
+        "jp": "……私は……ヨルハＥ型……",
+        "en": "I... I'm a Type-E... A YoRHa Type-E...",
+        "ru": "Я... Я — тип E... YoRHa типа E..."
+    },
+    {
+        "id": "M5130_S0150_G0030_001_a9s",
+        "jp": "ヨルハ？",
+        "en": "YoRHa?",
+        "ru": "YoRHa?"
+    },
+    {
+        "id": "M5130_S0150_G0040_001_resiwoman",
+        "jp": "脱走者や裏切り者を殺す為に作られた、アンドロイド殺しの為のモデル……",
+        "en": "My function is to seek out and execute deserters and traitors.",
+        "ru": "Моё предназначение — поиск и ликвидация дезертиров и предателей."
+    },
+    {
+        "id": "M5130_S0150_G0050_001_resiwoman",
+        "jp": "偽装し、裏切り者に近づき、殺す。",
+        "en": "I disguise myself so I can approach my targets and kill without warning.",
+        "ru": "Я скрываю свою личность, чтобы сблизиться с целями, а затем убиваю их без всяких предупреждений."
+    },
+    {
+        "id": "M5130_S0150_G0060_001_resiwoman",
+        "jp": "だけれど、ある日、友達を殺す命令が下されて……",
+        "en": "But one day, I was ordered to kill my friend.",
+        "ru": "Но однажды мне приказали убить собственную подругу."
+    },
+    {
+        "id": "M5130_S0150_G0070_001_resiwoman",
+        "jp": "それで私は……指示に、従って……",
+        "en": "So I did. I had my orders, and I followed them.",
+        "ru": "Я сделала это. У меня был приказ, и я исполнила его."
+    },
+    {
+        "id": "M5130_S0150_G0080_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5130_S0150_G0090_001_resiwoman",
+        "jp": "でも、つらくて。親友を手にかけた事実から、逃げたくて。だから私、記憶を……",
+        "en": "It was hard. So hard. And after a while, I couldn't live with what I had done.",
+        "ru": "Это было тяжело. Очень тяжело. И после я уже не могла жить с тем, что совершила."
+    },
+    {
+        "id": "M5130_S0150_G0100_001_a9s",
+        "jp": "自分で……消去したんですね。",
+        "en": "So you erased your own memories.",
+        "ru": "Поэтому вы стёрли свои воспоминания."
+    },
+    {
+        "id": "M5130_S0150_G0110_001_resiwoman",
+        "jp": "そう……",
+        "en": "Yes.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5130_S0150_G0120_001_resiwoman",
+        "jp": "でも、これ一回じゃない。",
+        "en": "But...this wasn't the first time.",
+        "ru": "Но... это был уже не первый раз."
+    },
+    {
+        "id": "M5130_S0150_G0130_001_resiwoman",
+        "jp": "何度も何度も、友達や恋人になっては殺す事を命じられた……",
+        "en": "I've killed comrades. Friends. Lovers. I've done it more times than I can count. Again and again and again and...",
+        "ru": "Я убивала товарищей. Друзей. Любимых. Я делала это столько раз, что уже\\nне могу сосчитать. Снова и снова, вновь и вновь, и..."
+    },
+    {
+        "id": "M5130_S0150_G0140_001_resiwoman",
+        "jp": "繰り返し、繰り返し、繰り返し……",
+        "en": "Hee.",
+        "ru": "Хи-и."
+    },
+    {
+        "id": "M5130_S0150_G0150_001_resiwoman",
+        "jp": "フフッ……フフフッ",
+        "en": "Eee hee hee hee hee.",
+        "ru": "И-хи-хи-хи-хи."
+    },
+    {
+        "id": "M5130_S0150_G0160_001_a9s",
+        "jp": "ど、どうしました！？",
+        "en": "Um, are you all right?",
+        "ru": "Эм, вы в порядке?"
+    },
+    {
+        "id": "M5130_S0150_G0170_001_resiwoman",
+        "jp": "これでいいんだよ。これで、いいんだよね？",
+        "en": "Yes. I am \"all right.\" Everything is \"all right.\"",
+        "ru": "Да. Я в \"порядке\". Всё в полном \"порядке\"."
+    },
+    {
+        "id": "M5130_S0150_G0180_001_resiwoman",
+        "jp": "私はヨルハＥ型……処刑モデル。",
+        "en": "I am a YoRHa Type-E. E for \"Execution.\"",
+        "ru": "Я YoRHa типа E. E — от слова \"Execution\" (казнь)."
+    },
+    {
+        "id": "M5130_S0150_G0190_001_resiwoman",
+        "jp": "友達を殺すのが……ヒヒッ……任務……",
+        "en": "I follow orders. I kill my friends. Eee hee hee!",
+        "ru": "Я следовала приказам. Я убила своих друзей. И-хи-хи!"
+    },
+    {
+        "id": "M5130_S0150_G0200_001_resiwoman",
+        "jp": "ああ、ヒッ調べてくれてありがとうフフッ。お礼ハハッあげるね。",
+        "en": "And you solved it! Solved the murder! Eee hee! Now I have to pay you! Eee hee hee!",
+        "ru": "И вы решили загадку! Раскрыли убийство! И-хи-хи! И теперь с меня причитается! И-хи-хи-хи!"
+    },
+    {
+        "id": "M5130_S0150_G0210_001_a9s",
+        "jp": "そんな……",
+        "en": "Wait, you don't—",
+        "ru": "Погодите-ка, вы же не..."
+    },
+    {
+        "id": "M5130_S0150_G0220_001_resiwoman",
+        "jp": "ヒヒッ……友達を殺したくなったら言ってね……私のしごと仕事シゴト仕事しごと\\n仕事シゴト仕事しごとナン仕事だから……ウフ",
+        "en": "Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...",
+        "ru": "И-хи-хи-хи! Желаете убить друга? Любимого? Таковая моя работа! Моя работа! Хи-хи! Моя работа! И-хи-хи! Моя р-работа, моя р-р-работа, мо-я-я-я р-рабо-и-хи-хи-хи..."
+    },
+    {
+        "id": "M5130_S0150_G0230_001_a2b",
+        "jp": "……行こう、９Ｓ……",
+        "en": "...Let's go.",
+        "ru": "...Идём."
+    },
+    {
+        "id": "M5130_S0150_G0190_001_resiwoman",
+        "jp": "友達を殺すのが……ヒヒッ……任務……",
+        "en": "I follow orders. I kill my friends. Eee hee hee!",
+        "ru": "Я следовала приказам. Я убила своих друзей. И-хи-хи!"
+    },
+    {
+        "id": "M5130_S0150_G0220_001_resiwoman",
+        "jp": "ヒヒッ……友達を殺したくなったら言ってね……私のしごと仕事シゴト仕事しごと\\n仕事シゴト仕事しごとナン仕事だから……ウフ",
+        "en": "Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...",
+        "ru": "И-хи-хи-хи! Желаете убить друга? Любимого? Таковая моя работа! Моя работа! Хи-хи! Моя работа! И-хи-хи! Моя р-работа, моя р-р-работа, мо-я-я-я р-рабо-и-хи-хи-хи..."
+    },
+    {
+        "id": "M5130_S0150_G0240_001_a9s",
+        "jp": "ヨルハＥ型……そんなモデルがあったんですね。",
+        "en": "Type-E... I didn't know there was such a thing.",
+        "ru": "Тип E... Я никогда о таких не слышал."
+    },
+    {
+        "id": "M5130_S0150_G0250_001_a9s",
+        "jp": "２Ｂは知っていましたか？",
+        "en": "Did you, 2B?",
+        "ru": "А ты, 2B?"
+    },
+    {
+        "id": "M5130_S0150_G0260_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5130_S0150_G0270_001_a2b",
+        "jp": "……知らなくていいことだって、ある。",
+        "en": "Some things are better left unknown.",
+        "ru": "Порой лучше не знать некоторых вещей."
+    },
+    {
+        "id": "M5130_S0150_G0280_001_a9s",
+        "jp": "そうかも、しれませんね……",
+        "en": "...Yeah. I suppose so.",
+        "ru": "...Угу. Полагаю, что так."
+    }
+]

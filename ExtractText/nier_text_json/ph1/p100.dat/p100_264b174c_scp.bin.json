@@ -1,0 +1,92 @@
+[
+    {
+        "id": "M5920_S0010_G0360_001_pod042",
+        "jp": "警告：アクセスポイントに通信障害。",
+        "en": "Alert: Access point communications jammed.",
+        "ru": "Внимание: связь с терминалом нарушена."
+    },
+    {
+        "id": "M5920_S0020_G0360_001_pod153",
+        "jp": "警告：アクセスポイントに通信障害。",
+        "en": "Alert: Access point communications jammed.",
+        "ru": "Внимание: связь с терминалом нарушена."
+    },
+    {
+        "id": "M5920_S0010_G0370_001_pod042",
+        "jp": "予測：当該地帯の敵による通信妨害。",
+        "en": "Hypothesis: Jamming caused by enemies in local vicinity.",
+        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала."
+    },
+    {
+        "id": "M5920_S0020_G0370_001_pod153",
+        "jp": "予測：当該地帯の敵による通信妨害。",
+        "en": "Hypothesis: Jamming caused by enemies in local vicinity.",
+        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала."
+    },
+    {
+        "id": "M5920_S0010_G0380_001_pod042",
+        "jp": "推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。",
+        "en": "Proposal: Eliminate enemies in vicinity and restore access point immediately.",
+        "ru": "Предложение: устраните противников и восстановите работу терминала."
+    },
+    {
+        "id": "M5920_S0020_G0380_001_pod153",
+        "jp": "推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。",
+        "en": "Proposal: Eliminate enemies in vicinity and restore access point immediately.",
+        "ru": "Предложение: устраните противников и восстановите работу терминала."
+    },
+    {
+        "id": "M5920_S0070_G0000_001_pod042",
+        "jp": "バンカーよりマップデータを入手。",
+        "en": "Map data obtained from Bunker.",
+        "ru": "Картографические данные получены из Бункера."
+    },
+    {
+        "id": "M5920_S0070_G0010_001_pod042",
+        "jp": "システムメニュー上で表示可能。",
+        "en": "Data may be displayed from the system menu.",
+        "ru": "С данными можно ознакомиться через системное меню."
+    },
+    {
+        "id": "M5920_S0070_G0030_001_a9s",
+        "jp": "マップデータですか……",
+        "en": "Map data, huh?",
+        "ru": "Картографические данные?"
+    },
+    {
+        "id": "M5920_S0070_G0040_001_a9s",
+        "jp": "衛星から取得出来る解像度が粗くて、\\nあまり正確な形状が把握出来ないんですよね。",
+        "en": "It's hard to get an accurate picture from this—our satellite resolution isn't so hot.",
+        "ru": "По этой карте трудно ориентироваться — разрешение наших спутников далеко не лучшее."
+    },
+    {
+        "id": "M5920_S0070_G0050_001_a9s",
+        "jp": "新しい衛星が配備されるといいんですけど。",
+        "en": "Hopefully they deploy some new satellites soon.",
+        "ru": "Надеюсь, в скором времени они запустят парочку новых спутников."
+    },
+    {
+        "id": "M5920_S0070_G0060_001_a2b",
+        "jp": "大体わかればいい。",
+        "en": "A general idea is good enough.",
+        "ru": "В целом, задумка довольно неплоха."
+    },
+    {
+        "id": "M5920_S0070_G0070_001_a9s",
+        "jp": "意外とたくましいですね……２Ｂは。",
+        "en": "Heh. You don't let anything get in your way, do you?",
+        "ru": "Хех. Ты никогда не унываешь, да, 2В?"
+    },
+    {
+        "id": "M5920_S0060_G0280_001_a9s",
+        "jp": "これは……旧世界の情報だな。",
+        "en": "Oh, hey. This is data from the old world.",
+        "ru": "О, эй. Это же информация из старого мира."
+    },
+    {
+        "id": "M5920_S0060_G0290_001_a9s",
+        "jp": "旧世界の情報か……",
+        "en": "Old-world data, huh?",
+        "ru": "Информация из старого мира, да?"
+    }
+]

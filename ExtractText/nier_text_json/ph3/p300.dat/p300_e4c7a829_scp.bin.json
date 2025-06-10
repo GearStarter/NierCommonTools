@@ -1,0 +1,302 @@
+[
+    {
+        "id": "M6010_S0090_G0610_300_op",
+        "jp": "このチーム、ちょっと成長した気がするわ。\\nそろそろ私の手を離れてもいい頃かも。",
+        "en": "I feel like this team's grown a lot. They probably won't even need my help soon.",
+        "ru": "Я чувствую, что этот отряд сильно вырос. Возможно, вскоре им вообще не понадобится моя помощь."
+    },
+    {
+        "id": "M6010_S0090_G0620_300_op",
+        "jp": "このチームはもう安心ね。",
+        "en": "Yep. This team is going to be fine without me.",
+        "ru": "Ага. Этот отряд отлично справится и без меня."
+    },
+    {
+        "id": "M6010_S0100_G0550_300_op",
+        "jp": "後は、祈るだけね。",
+        "en": "All we can do now is hope.",
+        "ru": "Сейчас всё, что мы можем, это только надеяться."
+    },
+    {
+        "id": "M6010_S0100_G0560_300_op",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0090_G0400_300_op",
+        "jp": "最近、彼女聞き分けが良くなって、大変仕事がしやすくなったんです。",
+        "en": "She's been picking things up quickly lately. It makes my job a lot easier!",
+        "ru": "В последнее время она всё так быстро схватывает. Это очень упрощает мою работу!"
+    },
+    {
+        "id": "M6010_S0090_G0410_300_op",
+        "jp": "前から思っていましたが、やれば出来るんですよ。彼女は。",
+        "en": "She really can do anything if she puts her mind to it.",
+        "ru": "Если она что-то решила, то обязательно сделает это."
+    },
+    {
+        "id": "M6010_S0100_G0380_300_op",
+        "jp": "私の出来ることはやりました。\\nあとは彼女がどこまでやれるかです。",
+        "en": "I've done my part. Now it's in her hands.",
+        "ru": "Я выполнила свою часть. Теперь дело за ней."
+    },
+    {
+        "id": "M6010_S0100_G0390_300_op",
+        "jp": "客観的に見て、私達いいコンビだと思います。",
+        "en": "...You know what? We make a pretty darn good team!",
+        "ru": "...Знаете что? Мы подготовили отличный отряд!"
+    },
+    {
+        "id": "M6010_S0090_G0420_300_op",
+        "jp": "はぁ……今まで私の発言は雑音扱いだったんですって……\\nまぁ、これからは大丈夫らしいからいいんだけど。",
+        "en": "I guess my voice was being processed as static or something? I don't really get the details—I'm just glad it's solved.",
+        "ru": "По-видимому, мой голос обрабатывался статическим сигналом или что-то вроде того?\\nЯ не совсем поняла, но рада что с этим покончено."
+    },
+    {
+        "id": "M6010_S0090_G0430_300_op",
+        "jp": "根はいい子だから、気長に付き合っていくとするわ。",
+        "en": "Her heart's always been in the right place regardless, so I'm happy I stuck with it.",
+        "ru": "Она всегда была такой добросердечной, поэтому я и рада, что застряла здесь с ней."
+    },
+    {
+        "id": "M6010_S0100_G0400_300_op",
+        "jp": "持てる情報は全て彼女に渡しました。\\nやれるはずです。",
+        "en": "I've given her all the information I have. Now it's up to her.",
+        "ru": "Я передала ей всю известную мне информацию. Теперь всё зависит от неё."
+    },
+    {
+        "id": "M6010_S0100_G0410_300_op",
+        "jp": "どれだけやれるか、楽しみです。",
+        "en": "I know she can do it... I know it!",
+        "ru": "Знаю, что она справится... Я уверена в этом!"
+    },
+    {
+        "id": "M6010_S0090_G0460_300_op",
+        "jp": "彼が完璧な状態なら、イヴだろうが何だろうが一撃だったんですがね……\\nでもまぁ、結果オーライですね！",
+        "en": "If she was in perfect condition, she would have taken Eve or anyone else down in one hit! Still, it's the end result that counts.",
+        "ru": "Если бы она была в идеальном состоянии, то вынесла бы Еву или ещё\\nкого с одного удара! Тем не менее, такой результат тоже считается."
+    },
+    {
+        "id": "M6010_S0090_G0470_300_op",
+        "jp": "次の出撃にはちゃんと調整して間に合わせてあげますからね！",
+        "en": "We'll make sure she's ready for the next attack!",
+        "ru": "Будем надеяться, что она готова к следующему нападению!"
+    },
+    {
+        "id": "M6010_S0100_G0430_300_op",
+        "jp": "うーん、この数値が良くないんですよねぇ……",
+        "en": "Uh-oh... These readings don't look good...",
+        "ru": "Э, ох... Эти показания выглядят так себе..."
+    },
+    {
+        "id": "M6010_S0100_G0440_300_op",
+        "jp": "健闘を祈ります。",
+        "en": "Good luck.",
+        "ru": "Удачи."
+    },
+    {
+        "id": "M6010_S0090_G0320_300_ys",
+        "jp": "……あ、ちょっとまってくれ、２Ｂが来た……",
+        "en": "Oh, hold on a second, 2B's here...",
+        "ru": "О, секундочку, здесь же 2B..."
+    },
+    {
+        "id": "M6010_S0090_G0330_300_ys",
+        "jp": "ほら、お前もやることあるんだろ？行った行った。",
+        "en": "Hey, don't you have something to do? Get the lead out!",
+        "ru": "Эй, тебе разве нечем заняться? Пошевеливайся!"
+    },
+    {
+        "id": "M6010_S0100_G0320_300_ys",
+        "jp": "……すまん、邪魔が入った……",
+        "en": "...Sorry, someone needs to speak with me.",
+        "ru": "...Прости, что приходится разговаривать со мной."
+    },
+    {
+        "id": "M6010_S0100_G0330_300_ys",
+        "jp": "私も後で行く。心配するな、先へ行けよ。",
+        "en": "Just get going, okay? I'll be right behind you.",
+        "ru": "Просто двигайся вперёд, хорошо? Я буду позади тебя."
+    },
+    {
+        "id": "M6010_S0090_G0340_300_ys",
+        "jp": "……ヤツのコツが分かったよ。とりあえず全部喋らせて疑問点だけ質問する。\\nこれがベストだ。",
+        "en": "I've figured out how to deal with her. Just let her say all she wants to say first and then ask only about the points that don't make sense.",
+        "ru": "Я выяснила, как нам с ней быть. Сначала дайте ей сказать всё, что она хочет, а затем задавайте бессмысленные вопросы."
+    },
+    {
+        "id": "M6010_S0090_G0350_300_ys",
+        "jp": "説明が網羅的だから、その方が効率がいいんだ。",
+        "en": "Her explanations are comprehensive, so that works best.",
+        "ru": "Её объяснения довольно исчерпывающи, это сработает лучше всего."
+    },
+    {
+        "id": "M6010_S0090_G0350_300_ys",
+        "jp": "説明が網羅的だから、その方が効率がいいんだ。",
+        "en": "Her explanations are comprehensive, so that works best.",
+        "ru": "Её объяснения довольно исчерпывающи, это сработает лучше всего."
+    },
+    {
+        "id": "M6010_S0100_G0340_300_ys",
+        "jp": "出撃だな。",
+        "en": "It's go time!",
+        "ru": "Время выдвигаться!"
+    },
+    {
+        "id": "M6010_S0100_G0350_300_ys",
+        "jp": "作戦は完璧に把握した。後はやるだけだ。",
+        "en": "I understand the plan and agree with it completely. Now we all just have to do our part!",
+        "ru": "Я понимаю суть плана и полностью с ним согласна. Нам лишь нужно выполнить свою часть!"
+    },
+    {
+        "id": "M6010_S0090_G0370_300_ys",
+        "jp": "私、気づいたんです！私の感覚設定が、なぜかオペレーターさんの発言を\\n雑音として認識していたんです！",
+        "en": "I realized that my sensory settings were making me hear operator speech as background noise for some reason!",
+        "ru": "Я осознала, что настройки моих сенсоров по какой-то причине\\nзаставляют меня слышать речь операторов в качестве фонового шума!"
+    },
+    {
+        "id": "M6010_S0090_G0380_300_ys",
+        "jp": "だから、ぜんぜん聞こえづらくて理解できなかったんです！\\nでもちゃんと修正したのでもう大丈夫です！",
+        "en": "That's why I was having such a hard time understanding stuff. But they made a couple of tweaks and now I'm good to go!",
+        "ru": "Вот почему у меня были серьёзные проблемы с пониманием. Но они сделали пару корректировок и теперь всё в порядке!"
+    },
+    {
+        "id": "M6010_S0090_G0390_300_ys",
+        "jp": "これからはうまくやっていけると思います！",
+        "en": "I think my problems are over now!",
+        "ru": "Полагаю, с моими проблемами покончено!"
+    },
+    {
+        "id": "M6010_S0100_G0360_300_ys",
+        "jp": "お互い頑張りましょうね。",
+        "en": "Let's be in this thing to win this thing!",
+        "ru": "Благодаря этой штуке мы точно победим!"
+    },
+    {
+        "id": "M6010_S0100_G0370_300_ys",
+        "jp": "オペレーターさんのおかげで作戦は完璧です！",
+        "en": "Thanks to my operator, I understand the plan perfectly.",
+        "ru": "Благодаря моему оператору я отлично поняла план."
+    },
+    {
+        "id": "M6010_S0090_G0440_300_ys",
+        "jp": "結局、一度も出撃せずにイヴが倒されてしまった……\\nなんだか複雑な気分だよ。",
+        "en": "In the end, Eve was defeated without my help. I know I should be happy regardless, but I just...",
+        "ru": "В итоге, Еву победили и без моей помощи. Знаю, я должна быть безмерно счастлива, но просто..."
+    },
+    {
+        "id": "M6010_S0090_G0450_300_ys",
+        "jp": "とにかくまぁ、ありがと。",
+        "en": "Well anyway, thanks.",
+        "ru": "Как бы то ни было, спасибо."
+    },
+    {
+        "id": "M6010_S0100_G0420_300_ys",
+        "jp": "なんてことだ！！まだ出撃できないのかよ！\\n早く！早く調整してくれ！",
+        "en": "What do you mean, I can't head out yet? Find the problem and fix it already!",
+        "ru": "Что значит — я не могу пойти? Найдите проблему и устраните её!"
+    },
+    {
+        "id": "M6010_S0090_G0520_300_ys",
+        "jp": "いいかお前達！先の２Ｂ・９Ｓの戦闘データを頭に叩き込め！",
+        "en": "Listen up! Make sure you download every last bit of data from 2B and 9S's battle into your heads!",
+        "ru": "Слушайте сюда! Не забудьте загрузить каждый бит боевых данных 2B и 9S в свою память!"
+    },
+    {
+        "id": "M6010_S0090_G0530_300_ys",
+        "jp": "これで我らは盤石だ！機械生命体を駆逐せよ！",
+        "en": "Those machines are going to be piles of scrap with this intel at our fingertips!",
+        "ru": "С такими данными все эти машины будут лишь грудой металла для нас!"
+    },
+    {
+        "id": "M6010_S0100_G0470_300_ys",
+        "jp": "いいかお前達！今までの成果を見せてみろ！",
+        "en": "Listen up, you lot! It's time to show me what you've learned!",
+        "ru": "Вы все, слушайте сюда! Пришло время показать всё, чему вы научились!"
+    },
+    {
+        "id": "M6010_S0100_G0480_300_ys",
+        "jp": "人類に栄光あれぇぇぇ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0090_G0540_300_ys",
+        "jp": "あなた達の戦闘データ、無駄にはしませんよ！",
+        "en": "We'll make good use of your battle data.",
+        "ru": "Мы по максимуму используем ваши боевые данные."
+    },
+    {
+        "id": "M6010_S0090_G0550_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0100_G0490_300_ys",
+        "jp": "あなた達の戦闘データ、無駄にはしませんよ！",
+        "en": "We'll make good use of your battle data.",
+        "ru": "Мы по максимуму используем ваши боевые данные."
+    },
+    {
+        "id": "M6010_S0100_G0500_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0090_G0560_300_ys",
+        "jp": "君たちは確かにすごいけどさ……\\n私にはムリな気がする……",
+        "en": "You guys are amazing. Seriously, I could never have done that...",
+        "ru": "Вы, ребятки, просто поразительны. Серьёзно, мне такого никогда не сделать..."
+    },
+    {
+        "id": "M6010_S0090_G0570_300_ys",
+        "jp": "……でもまぁ、ちょっとは頑張ってみるか。",
+        "en": "I'm still going to keep trying my best, though. Even if my best is only about 1/47 as good as your best...",
+        "ru": "Я продолжу прикладывать все свои усилия. Даже если мой предел — это 1/47 от вашего..."
+    },
+    {
+        "id": "M6010_S0090_G0580_300_ys",
+        "jp": "……人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    },
+    {
+        "id": "M6010_S0100_G0510_300_ys",
+        "jp": "……隊長にも世話になったし、頑張ってみるよ。",
+        "en": "I owe everything to my commanding officer, so I'll do my best for her sake.",
+        "ru": "Я очень сильно обязана своему офицеру, поэтому я сделаю всё ради её блага."
+    },
+    {
+        "id": "M6010_S0100_G0520_300_ys",
+        "jp": "……人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0090_G0590_300_ys",
+        "jp": "隊長の戦闘データじゃないんですね。\\nまぁ、参考になるからいっか。",
+        "en": "Wait... This isn't our commanding officer's battle data! Well, I guess it'll still be useful.",
+        "ru": "Подождите... Это боевые данные не нашего офицера! Но, полагаю, они всё равно будут полезны."
+    },
+    {
+        "id": "M6010_S0090_G0600_300_ys",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    },
+    {
+        "id": "M6010_S0100_G0530_300_ys",
+        "jp": "さて、いいとこ見せちゃおうかな！",
+        "en": "Time to show them what we can do...",
+        "ru": "Пришло время показать им, на что мы способны..."
+    },
+    {
+        "id": "M6010_S0100_G0540_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    }
+]

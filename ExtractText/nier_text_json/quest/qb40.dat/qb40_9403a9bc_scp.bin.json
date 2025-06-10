@@ -1,0 +1,488 @@
+[
+    {
+        "id": "M6010_S0080_G0510_300_op",
+        "jp": "＜＜バンカーより地上部隊へ。\\n任務の情報が更新されたから、データを転送しますね＞＞",
+        "en": "\"This is the Bunker. I'm uploading updated mission intel to you now.\"",
+        "ru": "\"Это Бункер. Загружаю обновленные разведданные по вашей миссии\"."
+    },
+    {
+        "id": "M6010_S0080_G0520_300_op",
+        "jp": "＜＜ちゃんと隊長の命令を聞いて、くれぐれも無理しないように！＞＞",
+        "en": "\"Make sure to listen to your commanding officer, and don't push yourself too hard.\"",
+        "ru": "\"Внимательно слушайте своего командующего офицера, и не переусердствуйте\"."
+    },
+    {
+        "id": "M6010_S0080_G0530_300_op",
+        "jp": "あらあなた、任務はもう終わったの？",
+        "en": "Hmm? Done with your mission already? Must be nice!",
+        "ru": "Хм? Уже выполнили своё задание? Это же здорово!"
+    },
+    {
+        "id": "M6010_S0020_G1060_300_op",
+        "jp": "機械生命体との和睦が成立すれば、これ以上の犠牲は\\n出ないんだろうけど、そうと割り切れない人も中にはいるのよ。",
+        "en": "If we made peace with the machines, no one else would have to die. Yet that's a trade-off some of us still aren't willing to make.",
+        "ru": "Если мы заключим мир с машинами, никто больше не умрёт. Но многие всё ещё не хотят пойти на компромисс."
+    },
+    {
+        "id": "M6010_S0020_G1070_300_op",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    },
+    {
+        "id": "M6010_S0010_G1030_300_op",
+        "jp": "号令に熱が入りすぎて、任務内容を伝えてないみたいだけど、大丈夫かしら？",
+        "en": "They're so obsessed with giving orders, they forget to provide details about the actual mission! I sure hope we're going to be okay...",
+        "ru": "Они так одержимы раздачей приказов, что забыли обеспечить информацией о текущем задании! Я очень надеюсь, что у нас всё будет в порядке..."
+    },
+    {
+        "id": "M6010_S0010_G1040_300_op",
+        "jp": "まぁ、地上についたら私が連絡するから別にいいんだけど。",
+        "en": "Still, I'll be managing things once everyone's on Earth, so at least I know THAT part will go smoothly.",
+        "ru": "Я буду ответственна за управление, как только все окажутся на Земле, так что я хотя бы могу быть уверена, что ЭТА часть пройдёт гладко."
+    },
+    {
+        "id": "M6010_S0010_G1050_300_op",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0080_G0340_300_op",
+        "jp": "＜＜地上部隊、こちらバンカー。次の任務に必要なデータを転送します＞＞",
+        "en": "\"This is the Bunker. I'm uploading the data required for your next mission.\"",
+        "ru": "\"Это Бункер. Загружаю данные, необходимые для вашего следующего задания\"."
+    },
+    {
+        "id": "M6010_S0080_G0350_300_op",
+        "jp": "こんなところで何してるんですか？",
+        "en": "...What the hell are YOU doing here?",
+        "ru": "...Что, чёрт возьми, ты делаешь ЗДЕСЬ?"
+    },
+    {
+        "id": "M6010_S0080_G0360_300_op",
+        "jp": "戦闘部隊は今も地上で戦ってるんです。\\n早く向かってください。",
+        "en": "We're fighting a war on Earth, you know? And you need to get down there and help out NOW!",
+        "ru": "Сражение идёт на Земле, ты в курсе? И тебе нужно совершить высадку и помочь, СЕЙЧАС ЖЕ!"
+    },
+    {
+        "id": "M6010_S0020_G0730_300_op",
+        "jp": "……以上が任務の概要です。\\n詳細は追って連絡します。",
+        "en": "...And that concludes the mission briefing. I'll contact you later with further details.",
+        "ru": "...И на этом завершаем брифинг. Я свяжусь с тобой позже и передам дополнительные сведения."
+    },
+    {
+        "id": "M6010_S0020_G0740_300_op",
+        "jp": "……何ですか？その目は。",
+        "en": "...What? Why are you looking at me like that?",
+        "ru": "...Что? Почему ты так на меня смотришь?"
+    },
+    {
+        "id": "M6010_S0010_G0730_300_op",
+        "jp": "……以上が任務の概要です。\\n次に詳細ですが……",
+        "en": "That concludes your mission summary. As for the detailed breakdown, the first thing to remember is...",
+        "ru": "Это заключительная сводка твоего задания. Что касается детального анализа, первое, что нужно запомнить, это..."
+    },
+    {
+        "id": "M6010_S0010_G0740_300_op",
+        "jp": "……何か御用ですか？\\n今は任務の伝達中なので、邪魔しないでください。",
+        "en": "Um, unless something is literally on fire, please go away. I'm in the middle of a critical mission briefing.",
+        "ru": "Эм, если это не срочно, пожалуйста, уходи. Я тут провожу инструктаж по очень важному заданию."
+    },
+    {
+        "id": "M6010_S0080_G0370_300_op",
+        "jp": "＜＜地上部隊、こちらバンカー＞＞",
+        "en": "\"This is the Bunker.\"",
+        "ru": "\"На связи Бункер\"."
+    },
+    {
+        "id": "M6010_S0080_G0380_300_op",
+        "jp": "＜＜ちょっとバイタル反応が低下してるみたいだから、\\n無理せず治療してね＞＞",
+        "en": "\"We're reading a sudden decrease in your vital signs. Please make sure you don't push yourself too hard.\"",
+        "ru": "\"Мы заметили внезапное ухудшение вашего состояния. Пожалуйста, убедитесь, что не сильно себя перегружаете\"."
+    },
+    {
+        "id": "M6010_S0080_G0390_300_op",
+        "jp": "……あら、こんなところでどうしたの？\\nあなた達が休んでるうちに、手柄をもらっちゃおうかしら。",
+        "en": "...You know, while you sit here lazing about and eating bon-bons, someone is probably down on Earth stealing your glory!",
+        "ru": "...Знаете, можно сидеть здесь без дела и есть сладости, но доказать свою полезность и прославиться можно только на Земле!"
+    },
+    {
+        "id": "M6010_S0020_G0750_300_op",
+        "jp": "最近すっかり仕事にも慣れちゃったみたいで、少しさみしいわ。",
+        "en": "Lately, she's been doing all her work perfectly. I'm actually starting to miss when she needed help.",
+        "ru": "В последнее время она отлично справляется со своей работой. Я уже позабыла, когда ей действительно была необходима помощь."
+    },
+    {
+        "id": "M6010_S0020_G0760_300_op",
+        "jp": "あなた達も息ぴったりね。\\n私達も負けてられないわねぇ。",
+        "en": "You guys always seem to be synched up. We're gonna make sure we are, too!",
+        "ru": "Вы, ребята, всегда действуете как единое целое. Мы обязательно станем такими же!"
+    },
+    {
+        "id": "M6010_S0010_G0750_300_op",
+        "jp": "この子はまだ製造されて日が浅いせいか、すっごく緊張してるみたい。",
+        "en": "This unit was only manufactured recently, so she's still quite nervous.",
+        "ru": "Эта единица произведена совсем недавно, поэтому она очень нервничает."
+    },
+    {
+        "id": "M6010_S0010_G0760_300_op",
+        "jp": "情報は短く簡潔に、要点だけをまとめないと一人前とは言えないわね。",
+        "en": "You aren't a full-fledged operator until you can summarize information accurately and concisely.",
+        "ru": "Чтобы стать оператором, необходимо умение точно и кратко излагать информацию."
+    },
+    {
+        "id": "M6010_S0010_G0770_300_op",
+        "jp": "ちょっとくらいヘマをしたってフォローするのにねぇ。\\n相棒だもの……あなた達もそうでしょう？",
+        "en": "She can relax a little, though. I'll cover for her. She's my partner, after all. You guys know what that's like.",
+        "ru": "Однако она может немного расслабиться. Я прикрою её. Всё-таки она мой партнёр. Вы, ребята, знаете, каково это?"
+    },
+    {
+        "id": "M6010_S0080_G0400_300_op",
+        "jp": "＜＜地上部隊、こちらバンカー＞＞",
+        "en": "\"This is the Bunker.\"",
+        "ru": "\"На связи Бункер\"."
+    },
+    {
+        "id": "M6010_S0080_G0410_300_op",
+        "jp": "＜＜何か異常はありませんか？＞＞",
+        "en": "\"Are you experiencing anything unusual?\"",
+        "ru": "\"Ты чувствуешь что-нибудь необычное?\""
+    },
+    {
+        "id": "M6010_S0080_G0415_300_op",
+        "jp": "＜＜バイタル反応は正常みたいですが、検出できないエラーが潜んでるかも\\nしれないのでそろそろ戻ってメンテナンスを……＞＞",
+        "en": "\" Your vital signs appear normal, but there's always the possibility of undetected errors. It's about time you returned for maintenance.\"",
+        "ru": "\"Твои показатели в норме, но всегда есть вероятность необнаруженных ошибок. Самое время тебе пройти техобслуживание\"."
+    },
+    {
+        "id": "M6010_S0080_G0420_300_op",
+        "jp": "＜＜ああちょっと、切らないでください！！！＞＞",
+        "en": "\"No, wait! Stay on the line!\"",
+        "ru": "\"Нет, подожди! Оставайся на связи!\""
+    },
+    {
+        "id": "M6010_S0080_G0430_300_op",
+        "jp": "通信がつながらない……もしかして何かあったんじゃ……",
+        "en": "...Dammit! I can't get through! What if something's happening?",
+        "ru": "...Чёрт! Я не могу связаться! Что, если что-то случилось?"
+    },
+    {
+        "id": "M6010_S0080_G0440_300_op",
+        "jp": "＜＜もしもし、聞こえますか？もしもーし！＞＞",
+        "en": "\"This is the Bunker! Come in! ...Do you read me!?\"",
+        "ru": "\"Это Бункер! Приём! ...Ты меня слышишь?!\""
+    },
+    {
+        "id": "M6010_S0020_G0810_300_op",
+        "jp": "いいですか？絶対に油断しないでくださいよ？",
+        "en": "Don't ever let your guard down, you hear me?",
+        "ru": "Никогда не ослабляйте бдительность, поняли меня?"
+    },
+    {
+        "id": "M6010_S0020_G0820_300_op",
+        "jp": "危ないと思ったらすぐ引いて、他の隊員に任せて……ちゃんと聞いてますか？",
+        "en": "If you're in danger, back off and wait for reinforcements. Also, whenever— Hey! Are you listening to me!?",
+        "ru": "Если ты в опасности, отступи и жди подкреплений. Также, когда... Эй! Ты меня слушаешь?!"
+    },
+    {
+        "id": "M6010_S0020_G0830_300_op",
+        "jp": "……この間はたまたま、運良く無傷で帰ってこれたものの……\\n次は大けがしたらと思うと気が重い……",
+        "en": "You were damn lucky to escape unharmed the other day, you know? Next time things might not turn out so well.",
+        "ru": "Тебе чертовски повезло, что ты смогла на днях сбежать невредимой, знаешь ли? В следующий раз всё может закончиться куда хуже."
+    },
+    {
+        "id": "M6010_S0020_G0840_300_op",
+        "jp": "いっそ私も戦闘特化型にモデルチェンジすれば……？",
+        "en": "Maybe I should change to a combat model so I can help you out...",
+        "ru": "Может, мне стоит конвертироваться в боевую модель... Так я смогу помогать тебе..."
+    },
+    {
+        "id": "M6010_S0010_G0810_300_op",
+        "jp": "本当に大丈夫ですか？",
+        "en": "Are you feeling all right?",
+        "ru": "Ты хорошо себя чувствуешь?"
+    },
+    {
+        "id": "M6010_S0010_G0820_300_op",
+        "jp": "回復薬は持ちました？数は足りてますか？\\nバイタル反応が低下したらすぐに治療するんですよ？",
+        "en": "Do you have enough recovery items? How are your vital signs? It's critical to deal with injuries right away!",
+        "ru": "У тебя достаточно восстанавливающих предметов? Как твоё самочувствие? Очень важно разобраться с ранами прямо сейчас!"
+    },
+    {
+        "id": "M6010_S0010_G0830_300_op",
+        "jp": "はぁ……心配です……\\n今からオペレーターモデルに転換願い出そうかな……",
+        "en": "I'm so worried... Maybe I should talk to one of the operators and request a model change.",
+        "ru": "Я беспокоюсь... Может, стоит поговорить с одним из операторов и запросить смену моего типа."
+    },
+    {
+        "id": "M6010_S0020_G0640_300_ys",
+        "jp": "……お前達は信じてるか？これは誰のための戦争だ？",
+        "en": "Do you believe... I mean, do you even know who this war is FOR at this point?",
+        "ru": "Вы верите... Я имею в виду, вы знаете ради КОГО эта война?"
+    },
+    {
+        "id": "M6010_S0020_G0650_300_ys",
+        "jp": "……なんでもない、失言だった。\\n気にしないでくれ。",
+        "en": "Er, never mind. I've said too much.",
+        "ru": "Эм, не важно. Я сказала слишком много."
+    },
+    {
+        "id": "M6010_S0020_G0660_300_ys",
+        "jp": "私を見張ったところで無駄だぞ。",
+        "en": "...You don't have to watch me like that, you know? I'm not planning a rebellion or anything.",
+        "ru": "...Не обязательно смотреть на меня так, знаете ли? Я не планирую никаких восстаний или чего-то подобного."
+    },
+    {
+        "id": "M6010_S0020_G0670_300_ys",
+        "jp": "別に謀反を企ててるわけじゃない。\\nなんなら司令部に報告するか？",
+        "en": "Feel free to report me to Command if you feel like it.",
+        "ru": "Не стесняйтесь доложить обо мне в Штаб, если вам так хочется."
+    },
+    {
+        "id": "M6010_S0020_G0680_300_ys",
+        "jp": "……どうせ聞いちゃくれないだろうがな。",
+        "en": "They wouldn't listen even if you did.",
+        "ru": "Они даже слушать не захотели."
+    },
+    {
+        "id": "M6010_S0010_G0640_300_ys",
+        "jp": "……こっちは順調だ。\\nああ、特に気づかれてる様子は……",
+        "en": "Everything's proceeding smoothly. \\nThere's no sign anyone's noticed any—",
+        "ru": "Всё проходит гладко.\\nНет никаких признаков, что кто-то заметил..."
+    },
+    {
+        "id": "M6010_S0010_G0650_300_ys",
+        "jp": "なんだお前、あっちにいけ。",
+        "en": "What's your problem? Get outta my face before I rearrange yours!",
+        "ru": "Какие-то проблемы? Убирайся, пока я не подправила твоё личико!"
+    },
+    {
+        "id": "M6010_S0010_G0660_300_ys",
+        "jp": "おい、しつこいぞ。\\n何の通信かって？そんなのお前に関係ないだろ。",
+        "en": "Back off! This is none of your business!",
+        "ru": "Отвали! Это не твоё дело!"
+    },
+    {
+        "id": "M6010_S0010_G0670_300_ys",
+        "jp": "…………ああ、こっちの問題だ。\\n気にしないでくれ。",
+        "en": "...Yeah, just a minor annoyance. Nothing to get your undies in a twist over.",
+        "ru": "...Да, просто незначительное раздражение. Ничего серьёзного, не стоит обижаться."
+    },
+    {
+        "id": "M6010_S0010_G0680_300_ys",
+        "jp": "ほら、早く行った行った。",
+        "en": "Hey, didn't you hear me the first time? Make like a machine and get outta here!",
+        "ru": "Эй, с первого раза было не понятно? Прочь отсюда!"
+    },
+    {
+        "id": "M6010_S0020_G0690_300_ys",
+        "jp": "調子はどうだ？\\n私達はまぁ……ぼちぼちだな。",
+        "en": "Hey, how's it going? ...Hmm? Us? Uh, we're fine, I guess.",
+        "ru": "Эй, как дела? ...Хм? У нас? Ух, да всё в порядке, наверное."
+    },
+    {
+        "id": "M6010_S0020_G0700_300_ys",
+        "jp": "最初に比べて大分マシになったが、まだ全然だ。\\nもっと精進しないとな。",
+        "en": "Better than we were at the beginning, although we still have a ways to go. Lots of hard work ahead for sure.",
+        "ru": "Сейчас уже лучше, чем было вначале, хотя неизвестно, что нас ждёт впереди. Скорее всего, множество всевозможных трудностей."
+    },
+    {
+        "id": "M6010_S0010_G0690_300_ys",
+        "jp": "……オペレーターの説明は細かすぎるんだ。\\n現地で必要なデータさえあれば、後は適当にこっちで対処するんだが。",
+        "en": "Man, these operators are so fussy! Wish they'd just get me the data I need and let me do my thing!",
+        "ru": "Боже, эти операторы такие суетливые! Я хочу, чтобы они просто дали данные, которые мне нужны и позволили мне сделать своё дело!"
+    },
+    {
+        "id": "M6010_S0010_G0700_300_ys",
+        "jp": "相棒がかなり緊張しているようだな……\\nそんなに私は頼りなく見えるだろうか？",
+        "en": "My partner seems...tense. Do you think it's something I did?",
+        "ru": "Мой партнёр выглядит напряжённым. Думаете, это я что-то сделала?"
+    },
+    {
+        "id": "M6010_S0020_G0710_300_ys",
+        "jp": "最近少しだけ任務に慣れてきたんです。\\nまだまだ足を引っ張ってばかりだけど、いつかは私も……",
+        "en": "Missions seem easier now—or maybe I'm just more used to them. I mean, I still get in the way sometimes, but I'm learning.",
+        "ru": "Сейчас задания кажутся куда более легкими... или же я просто привыкла к ним. Иногда, конечно, возникают проблемы, но я быстро учусь."
+    },
+    {
+        "id": "M6010_S0020_G0720_300_ys",
+        "jp": "……任務了解です！\\n精一杯頑張りますね！",
+        "en": "Mission received loud and clear! I won't let you down!",
+        "ru": "Поставленная задача ясна! Я не подведу!"
+    },
+    {
+        "id": "M6010_S0010_G0710_300_ys",
+        "jp": "オペレーターさんが丁寧に説明してくれてるのに、私全然理解できなくて……\\n先輩の足を引っ張らないか心配です……",
+        "en": "The operators try hard to explain everything, but I'm still so confused. ...I just hope I don't get in anyone's way.",
+        "ru": "Операторы очень стараются всё объяснить, но я всё ещё сбита с толку. Надеюсь, я никому не помешаю."
+    },
+    {
+        "id": "M6010_S0010_G0720_300_ys",
+        "jp": "……あの、すみません……説明がちょっとわからなくて……\\nもう一度お願いできませんか……？",
+        "en": "Yeah, sorry, but I don't really get it. Can you explain it again? Maybe go a little slower this time?",
+        "ru": "Да, прости, но я действительно не поняла. Можешь объяснить снова? Может, в этот раз немного медленнее?"
+    },
+    {
+        "id": "M6010_S0020_G0770_300_ys",
+        "jp": "仲間が戦ってるのに、危ないからって一人だけ引くわけにはいかないだろう。",
+        "en": "When you're fighting alongside your comrades, you can't just run away when things get hairy.",
+        "ru": "Сражаясь плечом к плечу с товарищами, нельзя просто так взять и сбежать, когда дела принимают скверный оборот."
+    },
+    {
+        "id": "M6010_S0020_G0780_300_ys",
+        "jp": "データはちゃんとバックアップしてあるんだし、怪我なんて修理すればすぐに治る。\\n……オペレーターは心配性だなぁ。",
+        "en": "That's why I make sure to back up my data regularly and repair any injuries right away. ...So someone tell those operators to just relax already!",
+        "ru": "Вот почему я всегда провожу резервное копирование моих данных и сразу устраняю любые повреждения. ...Может кто-нибудь уже скажет этим операторам успокоиться?!"
+    },
+    {
+        "id": "M6010_S0020_G0790_300_ys",
+        "jp": "戦闘部隊は戦うためにいるんだ。",
+        "en": "Combat troops exist to fight.",
+        "ru": "Боевые отряды созданы для сражений."
+    },
+    {
+        "id": "M6010_S0020_G0800_300_ys",
+        "jp": "私も仲間と一緒に人類の勝利に貢献したい。\\nお前達もそうだろう？",
+        "en": "My comrades and I want only to contribute to humanity's great victory. Can I assume you feel the same?",
+        "ru": "Мы с моими товарищами всего лишь хотим внести свой вклад в великую победу человечества. Ты ведь разделяешь наши чувства?"
+    },
+    {
+        "id": "M6010_S0010_G0780_300_ys",
+        "jp": "そんなに心配しなくても大丈夫だ。\\n回復薬は足りてるし、自分の体調管理くらいできる。",
+        "en": "Don't worry, I can take care of myself. I've got plenty of recovery items.",
+        "ru": "Не беспокойся, я могу позаботиться о себе. Я взяла много восстанавливающих предметов."
+    },
+    {
+        "id": "M6010_S0010_G0790_300_ys",
+        "jp": "…………はぁ……",
+        "en": "Uuuurgh...",
+        "ru": "Угх..."
+    },
+    {
+        "id": "M6010_S0010_G0800_300_ys",
+        "jp": "心配してくれるのはありがたいんだが……\\nこのまま永遠に出撃出来ない気がする……",
+        "en": "Look, I'm grateful that people are concerned about me, but at some point they need to just let me go on a mission!",
+        "ru": "Знаешь, я благодарна, что все беспокоятся обо мне, но в какой-то момент им нужно просто дать мне отправиться на задание!"
+    },
+    {
+        "id": "M6010_S0020_G0950_300_ys",
+        "jp": "お前達！先の作戦はよくやったな！\\nこの調子で我々が活躍して、人類に栄光を取り戻すぞ！",
+        "en": "You did great in the last mission. Such efforts are how we will win this war and bring glory to mankind!",
+        "ru": "Ты отлично справилась с последним заданием. Такими темпами мы очень скоро победим в этой войне и вернём дом человечеству!"
+    },
+    {
+        "id": "M6010_S0020_G0960_300_ys",
+        "jp": "正義が負けるなど、あってはならんことだ。\\n先に散っていった仲間たちのためにも、必ず勝つぞ。",
+        "en": "Justice cannot fail. We must endure on behalf of those who have fallen before us.",
+        "ru": "Справедливость не может проиграть. Мы должны сражаться ради павших товарищей."
+    },
+    {
+        "id": "M6010_S0020_G0970_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0010_G0940_300_ys",
+        "jp": "いいかお前達！人類の存続は我々の手にかかっている！\\n気を引き締めて任務にかかるんだぞ！",
+        "en": "Listen up! The future of the human race is in our hands! Now get out there and complete your missions!",
+        "ru": "Послушайте! Будущее человеческой расы в наших руках! А сейчас, идите и выполните свои задачи!"
+    },
+    {
+        "id": "M6010_S0010_G0950_300_ys",
+        "jp": "機械生命体を見つけたら容赦するな！\\n悪を許してはならない！",
+        "en": "If you come across any machines, show no mercy and grant no quarter! Their evil must not be forgiven!",
+        "ru": "Если столкнётесь с машинами, не проявляйте милосердия и снисхождения! Не забывайте обо всех их злодеяниях!"
+    },
+    {
+        "id": "M6010_S0010_G0960_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0020_G0980_300_ys",
+        "jp": "自分も人類の勝利に貢献したいのに、皆の足を引っ張ってばかりで……\\n次こそは……絶対……",
+        "en": "I want to contribute to the victory of mankind, but right now, I just hold everyone back. I hope I finally get a chance to make a difference someday...",
+        "ru": "Я хочу внести вклад в победу человечества, но сейчас я только всем мешаю. Надеюсь, когда-нибудь у меня будет шанс изменить ситуацию..."
+    },
+    {
+        "id": "M6010_S0020_G0990_300_ys",
+        "jp": "……人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0010_G0970_300_ys",
+        "jp": "自分は隊長みたいに、機械生命体を沢山倒して人類の勝利に貢献するのが\\n夢なんです。",
+        "en": "Just like our commanding officer, my dream is to kill scores of machines and contribute to humanity's great victory.",
+        "ru": "Как и наш командующий офицер, я мечтаю убить много машин и внести вклад в великую победу человечества."
+    },
+    {
+        "id": "M6010_S0010_G0980_300_ys",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M6010_S0020_G1000_300_ys",
+        "jp": "……自分には、人類なんて見たこともない人たちのために誰かが死ぬのは\\n嫌です。",
+        "en": "I hate the thought of dying for humans when I've never even seen one.",
+        "ru": "Я ненавижу думать о смерти тех, кого я даже ни разу не видела."
+    },
+    {
+        "id": "M6010_S0020_G1010_300_ys",
+        "jp": "このまま皆でここに住んでいられたらいいのに……\\nどうしてそれが許されないんだろう。",
+        "en": "I just want to keep living here with my friends. Is that too much to ask?",
+        "ru": "Я просто хочу остаться здесь, с моими друзьями. Разве я многого прошу?"
+    },
+    {
+        "id": "M6010_S0020_G1020_300_ys",
+        "jp": "……人類に栄光あれ。",
+        "en": "Glory to mankind...",
+        "ru": "Слава человечеству..."
+    },
+    {
+        "id": "M6010_S0010_G0990_300_ys",
+        "jp": "敵と戦うのは向いてないのに、戦闘部隊に配属されてしまった……\\n今からでもオペレーターにチェンジできないかな……",
+        "en": "Fighting isn't really my thing, but they assigned me to combat duty anyway. Wonder if I can transfer to being an operator...",
+        "ru": "Сражения — это не моё, но они всё равно назначили меня на боевое дежурство. Интересно, могу ли я перевестись в операторы..."
+    },
+    {
+        "id": "M6010_S0010_G1000_300_ys",
+        "jp": "……人類に栄光あれ。",
+        "en": "Glory to mankind...",
+        "ru": "Слава человечеству..."
+    },
+    {
+        "id": "M6010_S0020_G1030_300_ys",
+        "jp": "隊長、誰かがやられそうになるといつも庇うんですよ。",
+        "en": "If one of us is going to get hit, the commanding officer steps in to take it in their place.",
+        "ru": "Если кто-то из нас попадает по удар, то командующий офицер закрывает её своим телом."
+    },
+    {
+        "id": "M6010_S0020_G1040_300_ys",
+        "jp": "その度にデータが巻き戻って、だから自分達と過ごした記憶なんてそんなに無いくせに、馬鹿ですよね。",
+        "en": "But each time that happens, the officer's data resets—which means she never remembers any of us or what she did. It's so stupid.",
+        "ru": "Но каждый раз, когда это происходит, данные офицера удаляются, и это значит, что она никогда не вспомнит нас или что она делала. Это так глупо."
+    },
+    {
+        "id": "M6010_S0020_G1050_300_ys",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    },
+    {
+        "id": "M6010_S0010_G1010_300_ys",
+        "jp": "隊長は形にこだわるタイプなんですよね。\\nこんなところで号令なんかしてないで、さっさと任務に行きたいんですが……",
+        "en": "Our commanding officer loooves formalities. Me? I'd rather just get the orders over with and start the mission already.",
+        "ru": "Наш командующий офицер лю-ю-юбит формальности. Я? Я бы предпочла просто получить приказы и приступить уже к заданию."
+    },
+    {
+        "id": "M6010_S0010_G1020_300_ys",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    }
+]

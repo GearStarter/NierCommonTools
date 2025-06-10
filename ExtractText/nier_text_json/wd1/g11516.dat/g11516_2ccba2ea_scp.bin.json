@@ -1,0 +1,452 @@
+[
+    {
+        "id": "M5240_S0010_G0000_001_robophd",
+        "jp": "ふむ、このワタクシが天才発明家であると知って声をかけたのですかな？",
+        "en": "Don't tell me—you heard tales of a genius inventor and came to see me straightaway, yes?",
+        "ru": "Неужели вы услышали истории о том, какой я гениальный изобретатель, и решили познакомиться?"
+    },
+    {
+        "id": "M5240_S0010_G0010_001_robophd",
+        "jp": "ああ、そうでしょう。そうでしょうとも。",
+        "en": "Quite! I'm sure of it. Yes yes.",
+        "ru": "Ни слова! Я в этом уверен. Абсолютно уверен."
+    },
+    {
+        "id": "M5240_S0010_G0020_001_robophd",
+        "jp": "我が名は天に轟き地に響く、唯一無二の大天才ですからね！",
+        "en": "After all, I am the genius whose very name makes the earth itself tremble!",
+        "ru": "Всё-таки я гений, чьё имя громыхает в небесах и эхом расходится по земле!"
+    },
+    {
+        "id": "M5240_S0010_G0030_001_robophd",
+        "jp": "そんなワタクシに声をかけたあなたはお目が高い！",
+        "en": "Coming to me for advice proves a keen mind and stout heart! Yes.",
+        "ru": "Вы не так уж глупы, если решили искать знаний у меня."
+    },
+    {
+        "id": "M5240_S0010_G0040_001_robophd",
+        "jp": "あなたが私に投資してくれれば、どんな発明品も思うがままです。",
+        "en": "Why, if you invest but a little in my efforts, I shall provide you with all the desires of your imagining!",
+        "ru": "Что ж, в обмен на небольшие инвестиции в моё дело, я смогу дать вам всё, чего вы только можете пожелать!"
+    },
+    {
+        "id": "M5240_S0010_G0050_001_robophd",
+        "jp": "投資していただけますかな？",
+        "en": "Well then? Care you to invest in my life's work?",
+        "ru": "Ну как? По рукам?"
+    },
+    {
+        "id": "M5240_S0010_G0060_001_sele",
+        "jp": "はい。",
+        "en": "Invest.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5240_S0010_G0070_001_sele",
+        "jp": "いいえ。",
+        "en": "Turn him down.",
+        "ru": "Нет."
+    },
+    {
+        "id": "M5240_S0010_G0240_300_robophd",
+        "jp": "現在、あなた様が投資して下さった金額は<_pool>Gでございます。",
+        "en": "You have currently invested in me to the tune of <_pool> G.",
+        "ru": "Сумма ваших инвестиций на данный момент составляет <_pool> G."
+    },
+    {
+        "id": "M5240_S0010_G0240_001_robophd",
+        "jp": "この大天才の発明の為、是非ともご投資いただけませんか？",
+        "en": "Would you possibly be able to invest in the inventions of the world's foremost genius?",
+        "ru": "Желаете ли инвестировать в изобретения величайшего гения в мире?"
+    },
+    {
+        "id": "M5240_S0010_G0060_001_sele",
+        "jp": "はい。",
+        "en": "Invest.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5240_S0010_G0070_001_sele",
+        "jp": "いいえ。",
+        "en": "Turn him down.",
+        "ru": "Нет."
+    },
+    {
+        "id": "M5240_S0030_G0130_001_robophd",
+        "jp": "おお、ワタクシに投資する気になりましたか？",
+        "en": "Oh ho! Changed our mind about investing, have we?",
+        "ru": "Ого! Наконец передумали?"
+    },
+    {
+        "id": "M5240_S0030_G0140_001_robophd",
+        "jp": "なあに、たったの１０００００Ｇほどですよ。",
+        "en": "Mind you, we're talking the meager amount of 100,000 G. Why, you can find that rolling about in the bottom of any beggar's cup!",
+        "ru": "Напоминаю, мне нужны лишь жалкие 100000G."
+    },
+    {
+        "id": "M5240_S0030_G0020_001_sele",
+        "jp": "はい。",
+        "en": "Invest.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5240_S0030_G0030_001_sele",
+        "jp": "いいえ。",
+        "en": "Turn him down.",
+        "ru": "Нет."
+    },
+    {
+        "id": "M5240_S0030_G0210_001_robophd",
+        "jp": "良ければ、火星の探査艇から持ち帰った資材をお売り致しますよ。",
+        "en": "Still, all is not lost. I'll gladly sell you some of the materials the rocket carried back from that red and desolate planet.",
+        "ru": "Ну, не всё так плохо. По крайней мере я смогу продать вам вещи, которые ракета привезла с Марса."
+    },
+    {
+        "id": "M5240_S0010_G0120_001_robophd",
+        "jp": "今後ともよろしくお願い申し上げます。",
+        "en": "I look forward to a fruitful working relationship in the future! Quite!",
+        "ru": "Надеюсь на вашу поддержку в будущем!"
+    },
+    {
+        "id": "M5240_S0010_G0130_001_robophd",
+        "jp": "……チッ",
+        "en": "...Tch.",
+        "ru": "...Цт."
+    },
+    {
+        "id": "M5240_S0010_G0140_001_robophd",
+        "jp": "え？舌打ち？はは、滅相もございません。",
+        "en": "...Pardon? You accuse me of clicking my tongue in your general direction? Horrors! I would not! I would NEVER!",
+        "ru": "Что? Я цокнул на вас? О нет, это просто невозможно!"
+    },
+    {
+        "id": "M5240_S0010_G0150_001_robophd",
+        "jp": "あなた様あってのワタクシですよ？",
+        "en": "I, after all, am nothing without you. Is this not true?",
+        "ru": "Теперь вы злитесь на меня, да?"
+    },
+    {
+        "id": "M5240_S0030_G0080_001_robophd",
+        "jp": "お気持ちはありがたいのですが、お手持ちの資金が足りぬようです。",
+        "en": "The heart is willing! But alas, the pocketbook is thin.",
+        "ru": "Я благодарен за ваше желание помочь, но, похоже, вы не можете себе этого позволить."
+    },
+    {
+        "id": "M5240_S0030_G0090_001_robophd",
+        "jp": "残念です……",
+        "en": "Truly a pity.",
+        "ru": "Очень жаль."
+    },
+    {
+        "id": "M5240_S0010_G0160_001_robophd",
+        "jp": "ご投資いただきありがとうございます！",
+        "en": "A thousand thanks for your investment efforts.",
+        "ru": "Спасибо за ваши инвестиции!"
+    },
+    {
+        "id": "M5240_S0010_G0170_001_robophd",
+        "jp": "ですが、投資額がいささか足りず、見返りの品のご用意は\\n出来ませんでした……",
+        "en": "However, I yet lack the budget I require, and so am unable to provide the promised material dividends.",
+        "ru": "К сожалению, их хватило лишь на покрытие расходов, поэтому я не смог сделать чего-то сверх этого."
+    },
+    {
+        "id": "M5240_S0010_G0180_001_robophd",
+        "jp": "またの機会がありましたら、よろしく頼みます。",
+        "en": "Do let me know if you find another opportunity for us to do business together! Yes yes!",
+        "ru": "Дайте знать, когда решите продолжить наше плодотворное сотрудничество!"
+    },
+    {
+        "id": "M5240_S0010_G0080_001_robophd",
+        "jp": "おお、ありがたき幸せ！恐悦至極にございます！！",
+        "en": "Joy! Elation! I'd not thought myself capable of such.",
+        "ru": "Класс! Здорово! Я так рад!"
+    },
+    {
+        "id": "M5240_S0010_G0090_001_robophd",
+        "jp": "ここだけの話、一定量投資していただければ、見返りも……",
+        "en": "And just between you and I, know that if you provide enough of an investment, I'll be able to provide certain...dividends in return.",
+        "ru": "И только между нами: если вы вложите достаточную сумму, то сможете получить взамен кое-что..."
+    },
+    {
+        "id": "M5240_S0010_G0100_001_robophd",
+        "jp": "して、いかほど投資していただけるのでしょうか？",
+        "en": "Now then! What care you to invest?",
+        "ru": "Итак, сколько желаете инвестировать?"
+    },
+    {
+        "id": "M5240_S0010_G0101_001_sele",
+        "jp": "１０G",
+        "en": "10 G",
+        "ru": "10 G"
+    },
+    {
+        "id": "M5240_S0010_G0102_001_sele",
+        "jp": "１００Ｇ",
+        "en": "100 G",
+        "ru": "100 G"
+    },
+    {
+        "id": "M5240_S0010_G0103_001_sele",
+        "jp": "５００Ｇ",
+        "en": "500 G",
+        "ru": "500 G"
+    },
+    {
+        "id": "M5240_S0010_G0104_001_sele",
+        "jp": "１０００Ｇ",
+        "en": "1000 G",
+        "ru": "1000 G"
+    },
+    {
+        "id": "M5240_S0010_G0105_001_sele",
+        "jp": "２５００Ｇ",
+        "en": "2500 G",
+        "ru": "2500 G"
+    },
+    {
+        "id": "M5240_S0010_G0106_001_sele",
+        "jp": "５０００Ｇ",
+        "en": "5000 G",
+        "ru": "5000 G"
+    },
+    {
+        "id": "M5240_S0010_G0107_001_sele",
+        "jp": "１００００Ｇ",
+        "en": "10,000 G",
+        "ru": "10000 G"
+    },
+    {
+        "id": "M5240_S0010_G0108_001_sele",
+        "jp": "２００００Ｇ",
+        "en": "20,000 G",
+        "ru": "20000 G"
+    },
+    {
+        "id": "M5240_S0010_G0109_001_sele",
+        "jp": "投資を止める。",
+        "en": "Don't invest.",
+        "ru": "Нисколько."
+    },
+    {
+        "id": "M5240_S0010_G0080_001_robophd",
+        "jp": "おお、ありがたき幸せ！恐悦至極にございます！！",
+        "en": "Joy! Elation! I'd not thought myself capable of such.",
+        "ru": "Класс! Здорово! Я так рад!"
+    },
+    {
+        "id": "M5240_S0010_G0100_001_robophd",
+        "jp": "して、いかほど投資していただけるのでしょうか？",
+        "en": "Now then! What care you to invest?",
+        "ru": "Итак, сколько желаете инвестировать?"
+    },
+    {
+        "id": "M5240_S0010_G0101_001_sele",
+        "jp": "１０G",
+        "en": "10 G",
+        "ru": "10 G"
+    },
+    {
+        "id": "M5240_S0010_G0102_001_sele",
+        "jp": "１００Ｇ",
+        "en": "100 G",
+        "ru": "100 G"
+    },
+    {
+        "id": "M5240_S0010_G0103_001_sele",
+        "jp": "５００Ｇ",
+        "en": "500 G",
+        "ru": "500 G"
+    },
+    {
+        "id": "M5240_S0010_G0104_001_sele",
+        "jp": "１０００Ｇ",
+        "en": "1000 G",
+        "ru": "1000 G"
+    },
+    {
+        "id": "M5240_S0010_G0105_001_sele",
+        "jp": "２５００Ｇ",
+        "en": "2500 G",
+        "ru": "2500 G"
+    },
+    {
+        "id": "M5240_S0010_G0106_001_sele",
+        "jp": "５０００Ｇ",
+        "en": "5000 G",
+        "ru": "5000 G"
+    },
+    {
+        "id": "M5240_S0010_G0107_001_sele",
+        "jp": "１００００Ｇ",
+        "en": "10,000 G",
+        "ru": "10000 G"
+    },
+    {
+        "id": "M5240_S0010_G0108_001_sele",
+        "jp": "２００００Ｇ",
+        "en": "20,000 G",
+        "ru": "20000 G"
+    },
+    {
+        "id": "M5240_S0010_G0109_001_sele",
+        "jp": "投資を止める。",
+        "en": "Don't invest.",
+        "ru": "Нисколько."
+    },
+    {
+        "id": "M5240_S0010_G0200_001_robophd",
+        "jp": "ああ、残念ながら今回の発明で資金が枯渇してしまいました。",
+        "en": "Alas, but sadly this staggering work of genius has exhausted my funding.",
+        "ru": "К сожалению, я потратил всё на разработку этого изобретения."
+    },
+    {
+        "id": "M5240_S0010_G0210_001_robophd",
+        "jp": "新たな投資をしてくださいませんか？",
+        "en": "Would you care to make a new investment in my efforts?",
+        "ru": "Желаете произвести дополнительные инвестиции?"
+    },
+    {
+        "id": "M5240_S0010_G0060_001_sele",
+        "jp": "はい。",
+        "en": "Invest.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5240_S0010_G0070_001_sele",
+        "jp": "いいえ。",
+        "en": "Turn him down.",
+        "ru": "Нет."
+    },
+    {
+        "id": "M5240_S0010_G0110_001_robophd",
+        "jp": "ありがとうございます！知者不惑とはまさにこのこと。",
+        "en": "Very wise, very wise. A shrewd investor knows to strike when the iron is hot, eh?",
+        "ru": "Благодарю! Вы намного умнее, чем кажетесь."
+    },
+    {
+        "id": "M5240_S0010_G0120_001_robophd",
+        "jp": "今後ともよろしくお願い申し上げます。",
+        "en": "I look forward to a fruitful working relationship in the future! Quite!",
+        "ru": "Надеюсь на вашу поддержку в будущем!"
+    },
+    {
+        "id": "M5240_S0010_G0190_001_robophd",
+        "jp": "新たな発明品ですよ！さあ、見てください！！",
+        "en": "Eureka! I've done it! Feast eyes and senses alike upon my new invention!",
+        "ru": "Новое изобретение уже готово! Посмотрите!"
+    },
+    {
+        "id": "M5240_S0030_G0000_001_robophd",
+        "jp": "ああ、また資金が足りなくなってしまいました。今回の発明は厄介です。",
+        "en": "Alack and woe, I find myself once again strapped for the proverbial coin of the realm.",
+        "ru": "Ох, у меня снова закончились деньги. Создание великих изобретений требует больших вложений."
+    },
+    {
+        "id": "M5240_S0030_G0010_001_robophd",
+        "jp": "どうでしょう？ここで思い切って１０００００Ｇほど投資していただけませんか？",
+        "en": "What say you? Might you be willing to loosen your purse strings and aid me with the meager sum of 100,000 G?",
+        "ru": "Может быть вложитесь еще? На этот раз мне нужна лишь небольшая сумма в 100000 G."
+    },
+    {
+        "id": "M5240_S0030_G0020_001_sele",
+        "jp": "はい。",
+        "en": "Invest.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5240_S0030_G0030_001_sele",
+        "jp": "いいえ。",
+        "en": "Turn him down.",
+        "ru": "Нет."
+    },
+    {
+        "id": "M5240_S0030_G0100_001_robophd",
+        "jp": "……残念ですな。",
+        "en": "...A pity.",
+        "ru": "...Жаль."
+    },
+    {
+        "id": "M5240_S0030_G0110_001_robophd",
+        "jp": "このワタクシ一世一代の発明になるやもしれませんのに。",
+        "en": "This was to be the foremost invention of our generation.",
+        "ru": "Это могло бы стать величайшим изобретением этой эпохи."
+    },
+    {
+        "id": "M5240_S0030_G0120_001_robophd",
+        "jp": "後になって「あの時、投資しておけば良かった！」などと思わぬ事ですな。",
+        "en": "I fear you may awaken one night with cold sweat upon your brow cursing your very name for your lack of investing foresight. Yes yes. A shame.",
+        "ru": "Когда-нибудь вы подумаете \"Эх, у меня ведь была тогда возможность инвестировать в это!\", но будет уже поздно."
+    },
+    {
+        "id": "M5240_S0030_G0040_001_robophd",
+        "jp": "ほ、本当によろしいのですか？",
+        "en": "Are you certain?",
+        "ru": "Вы уверены?"
+    },
+    {
+        "id": "M5240_S0030_G0050_001_robophd",
+        "jp": "とうとう来た……",
+        "en": "Then the time has come...",
+        "ru": "В таком случае..."
+    },
+    {
+        "id": "M5240_S0030_G0060_001_robophd",
+        "jp": "この天才が遂に一世一代の発明に取り掛かる時が来たのだ……！",
+        "en": "Time for the foremost genius of his generation to perfect the greatest invention of the age!",
+        "ru": "Настало время известнейшему ученому поколения создать величайшее изобретение эпохи!"
+    },
+    {
+        "id": "M5240_S0030_G0070_001_robophd",
+        "jp": "よーし！やるよ！やりますよワタクシは！！",
+        "en": "Right then, off to work. I just know I can make this happen!",
+        "ru": "Хорошо! Я смогу! Я сделаю это!"
+    },
+    {
+        "id": "M5240_S0030_G0145_001_telo",
+        "jp": "一週間後……",
+        "en": "One week later...",
+        "ru": "Одну неделю спустя..."
+    },
+    {
+        "id": "M5240_S0030_G0150_001_robophd",
+        "jp": "ようやく完成した、ワタクシの一世一代の発明品……",
+        "en": "It is finally complete! The greatest invention of this or any generation!",
+        "ru": "Наконец-то оно завершено! Величайшее изобретение этой эпохи!"
+    },
+    {
+        "id": "M5240_S0030_G0160_001_robophd",
+        "jp": "……になるはずだったのですが……失敗しました。",
+        "en": "...Or it was meant to be. Sadly, I have failed.",
+        "ru": "...Ну или то, что должно было стать им... У меня не получилось."
+    },
+    {
+        "id": "M5240_S0030_G0170_001_robophd",
+        "jp": "あれは、月に向かうロケット発射台として建造したのです。",
+        "en": "It was meant to be a launch tower for sending rockets to the very moon itself!",
+        "ru": "Это должно было быть ракетой, которая бы отправилась прямо на Луну!"
+    },
+    {
+        "id": "M5240_S0030_G0180_001_robophd",
+        "jp": "何とか宇宙までは達したものの、残念ながら月には到着しませんでした。",
+        "en": "And while the craft it launched did soar into the lofty darkness of outer space, it regrettably did not reach the moon.",
+        "ru": "К сожалению, несмотря на то, что она вышла в космос, на Луну она не попала."
+    },
+    {
+        "id": "M5240_S0030_G0190_001_robophd",
+        "jp": "その代わりに火星に到着してしまったのですが……",
+        "en": "...Instead, it landed on Mars.",
+        "ru": "Вместо этого она улетела на Марс..."
+    },
+    {
+        "id": "M5240_S0030_G0200_001_robophd",
+        "jp": "ああ、悔しい！この天才、初めての挫折です！！",
+        "en": "It's all so damnably frustrating. I am the world's foremost genius, after all! Never before have I sipped the bitter brew of defeat!",
+        "ru": "Ох, какое разочарование! Это первая неудача великого гения!"
+    },
+    {
+        "id": "M5240_S0010_G0185_001_telo",
+        "jp": "二日後……",
+        "en": "Two days later...",
+        "ru": "Два дня спустя..."
+    }
+]

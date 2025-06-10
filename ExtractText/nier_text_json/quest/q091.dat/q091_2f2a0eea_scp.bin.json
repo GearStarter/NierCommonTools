@@ -1,0 +1,740 @@
+[
+    {
+        "id": "M6120_S0000_G0000_001_resi",
+        "jp": "いやー、ここは本当に最高の施設だよ！",
+        "en": "Man, this place is AWESOME!",
+        "ru": "Чувак, это место ВОСХИТИТЕЛЬНО!"
+    },
+    {
+        "id": "M6120_S0000_G0010_001_resi",
+        "jp": "あなた最近人気なんだってね、期待してるわよ！",
+        "en": "You're very popular these days. Lookin' forward to your next efforts!",
+        "ru": "Нынче вы очень популярны. С нетерпением ждём ваших дальнейших успехов!"
+    },
+    {
+        "id": "M6120_S0000_G0020_001_resi",
+        "jp": "あなたがSランクの王者を負かしてくれたおかげで、アイツはまた当分の間、牢屋暮らしね。ありがとね！",
+        "en": "Thanks to you defeating the S Rank champ, he'll be spending his days in jail for a while. Thanks!",
+        "ru": "Спасибо вам за победу над S-рангом, это удержит его в тюрьме на какое-то время. Спасибо!"
+    },
+    {
+        "id": "M6120_S0010_G0000_001_resi",
+        "jp": "こんな楽しみが違法なんて上の奴らは馬鹿ばっかだぜ。",
+        "en": "Would you believe the guys at the top think all of this is illegal? How stupid is that!?",
+        "ru": "Вы бы поверили в то, что наверху считают всё это незаконным? Как же это глупо?!"
+    },
+    {
+        "id": "M6120_S0010_G0010_001_resi",
+        "jp": "お前なかなか強いんだってな、今度試合を見に行かせて貰うわ。",
+        "en": "I hear you're pretty strong! Maybe I should check out one of your matches some day.",
+        "ru": "Я слышала, что ты достойный противник! Мне всё же стоит посетить битву с твоим участием."
+    },
+    {
+        "id": "M6120_S0010_G0020_001_resi",
+        "jp": "いやーお前の試合最高だったぜ！",
+        "en": "Man, you rock at this!",
+        "ru": "Да ты в ударе!"
+    },
+    {
+        "id": "M6120_S0010_G0030_001_resi",
+        "jp": "ここの施設をたまに悪く言うバカがいるんだが、ココの楽しさが分からないなんて本当に可哀相な奴らだ。お前もそう思うだろ？",
+        "en": "Some people make fun of this place, but they're just simple-minded idiots who don't know what fun is. I feel sorry for 'em. Don't you?",
+        "ru": "Некоторые думают, что это место — смехотворно; они просто наивные идиоты, непонимающие насколько здесь здорово. Мне жаль их. Как считаешь?"
+    },
+    {
+        "id": "M6120_S0010_G0030_001_resi",
+        "jp": "ここの施設をたまに悪く言うバカがいるんだが、ココの楽しさが分からないなんて本当に可哀相な奴らだ。お前もそう思うだろ？",
+        "en": "Some people make fun of this place, but they're just simple-minded idiots who don't know what fun is. I feel sorry for 'em. Don't you?",
+        "ru": "Некоторые думают, что это место — смехотворно; они просто наивные идиоты, непонимающие насколько здесь здорово. Мне жаль их. Как считаешь?"
+    },
+    {
+        "id": "M6120_S0020_G0000_001_resi",
+        "jp": "どうだい、アンタも楽しんでるかい？",
+        "en": "Hey there. Having fun?",
+        "ru": "Хей-хей. Веселишься?"
+    },
+    {
+        "id": "M6120_S0020_G0010_001_resi",
+        "jp": "アンタもここの楽しみ方が分かってきただろ？",
+        "en": "You're getting the hang of this place, aren't ya?",
+        "ru": "Вы уже здесь освоились?"
+    },
+    {
+        "id": "M6120_S0020_G0020_001_resi",
+        "jp": "何でここの施設が摘発されないか不思議か？",
+        "en": "Hm? You're wondering why this place hasn't been locked down?",
+        "ru": "Хм? Удивляетесь, почему это место до сих пор не закрыли?"
+    },
+    {
+        "id": "M6120_S0020_G0030_001_resi",
+        "jp": "上層部の奴らだってバカじゃない、ここの施設の存在を知っていて黙認しているのさ。",
+        "en": "The higher-ups ain't stupid. They know what we're doing, but they're turnin' a blind eye.",
+        "ru": "Начальство глуповато. Они прекрасно знают о происходящем, но благополучно закрывают глаза на всё это."
+    },
+    {
+        "id": "M6120_S0020_G0040_001_resi",
+        "jp": "奴らは分かっているんだよ、ここでガス抜きが出来る事で反逆や離反を抑えられている事をさ。",
+        "en": "They know that if they don't give us a chance to let off steam, we'll end up takin' out our frustations elsewhere.",
+        "ru": "Они знают, что если не дать нам шанса выпустить пар здесь, то мы выплеснем его где-нибудь еще."
+    },
+    {
+        "id": "M6120_S0020_G0050_001_resi",
+        "jp": "それに、ここの金の一部は上に流れているしな。\\nまぁ組織っていうのはそんなものさ。",
+        "en": "Besides, some of the money we make here goes directly towards the top. That's society for ya.",
+        "ru": "Кроме того, часть выручки, которую мы здесь делаем, направляется руководству. Такое вот наше общество."
+    },
+    {
+        "id": "M6120_S0020_G0060_001_resi",
+        "jp": "アンタも、あんまり余計な事に首を突っ込まない方が身のためだぜ。",
+        "en": "You'd better not poke your nose where it don't belong either, ya hear?",
+        "ru": "Не суй свой нос в чужой вопрос, понятно?"
+    },
+    {
+        "id": "M6120_S0020_G0060_001_resi",
+        "jp": "アンタも、あんまり余計な事に首を突っ込まない方が身のためだぜ。",
+        "en": "You'd better not poke your nose where it don't belong either, ya hear?",
+        "ru": "Не суй свой нос в чужой вопрос, понятно?"
+    },
+    {
+        "id": "M6120_S0030_G0000_001_resi",
+        "jp": "最近はどこも激戦地だしな。\\nこれがなきゃとっくに脱走してるよ。",
+        "en": "Nowadays it's war everywhere you go.\\nI need a bit of distraction like this to keep me sane.",
+        "ru": "Сегодня война будет везде, куда бы ты ни пошёл.\\nМне нужно отвлечься от всего этого, чтобы не сойти с ума."
+    },
+    {
+        "id": "M6120_S0030_G0010_001_resi",
+        "jp": "アナタが機械生命体を粉々にしてくれたおかげで、ストレスが取れたわ。ありがとね！",
+        "en": "Watching you pound those machines to shreds is very therapeutic. Hypnotic, almost!",
+        "ru": "Смотреть за тем, как вы крушите эти машины на болтики — словно бальзам на душу. Завораживает!"
+    },
+    {
+        "id": "M6120_S0030_G0020_001_resi",
+        "jp": "ここを知ってからは戦場で機械生命体を殺すのが楽しくて楽しくて、本当に最高よ。",
+        "en": "Ever since I found out about this place, I've been much more eager to go out and fight. It's awesome!",
+        "ru": "С тех пор, как я узнал об этом месте, я всё чаще хочу выйти и сражаться. Это потрясающе!"
+    },
+    {
+        "id": "M6120_S0040_G0000_001_resi",
+        "jp": "ここのおかげでツライ仕事もやっていけるよな。",
+        "en": "As long as I get my entertainment, I can keep working every day.",
+        "ru": "Пока я получаю удовольствие от всего этого, я готов работать каждый день."
+    },
+    {
+        "id": "M6120_S0040_G0010_001_resi",
+        "jp": "ああ、ここのおかげで明日も頑張れる。",
+        "en": "This place is what's keeping me sane every day.",
+        "ru": "Это место — то, что позволяет мне оставаться в своем уме."
+    },
+    {
+        "id": "M6120_S0040_G0020_001_resi",
+        "jp": "あなた、機械生命体の壊し方、もう最高だったわ！",
+        "en": "I've never seen anyone destroy machines with so much flair! You're amazing!",
+        "ru": "Я никогда не видел, чтобы кто-то так искусно уничтожал машины! Вы удивительны!"
+    },
+    {
+        "id": "M6120_S0050_G0000_001_resi",
+        "jp": "いいモノを……揃えてるぜ？",
+        "en": "Got some really good stuff on sale...if you're interested.",
+        "ru": "У меня есть разные классные штуки... если тебе интересно."
+    },
+    {
+        "id": "M6120_S0050_G0010_001_resi",
+        "jp": "しょうがない、多少危険だが地下洞窟辺りに仕入れに行ってみるか。",
+        "en": "Looks like I'm gonna have to stock up near that underground cave again.",
+        "ru": "Похоже, мне снова придется запасаться возле этой пещеры."
+    },
+    {
+        "id": "M6120_S0050_G0020_001_resi",
+        "jp": "最高ランクをクリアした奴は久し振りだ。アンタならいいハンターになれるぞ。",
+        "en": "It's been a while since someone cleared the highest rank. You're gonna be a great hunter, I can tell!",
+        "ru": "Прошло уже много времени с тех пор, как кто-то мог потягаться с высокоуровневыми рангами. Хочу сказать, что из тебя бы вышел отличный охотник."
+    },
+    {
+        "id": "M6120_S0060_G0000_001_resi",
+        "jp": "10,000Gで新しいのを仕入れたいんだが。",
+        "en": "I'd like to place a new order for 10,000 G.",
+        "ru": "Я бы хотел сделать новый заказ на 10000 G."
+    },
+    {
+        "id": "M6120_S0060_G0010_001_resi",
+        "jp": "こないだ買ったのはダメだ直ぐ壊れちまった。もっと頑丈なのをくれ。",
+        "en": "That last one was worthless! It broke down almost instantly! I need a stronger one!",
+        "ru": "Последний был слаб! Сломался почти мгновенно! Мне нужен более сильный!"
+    },
+    {
+        "id": "M6120_S0060_G0020_001_resi",
+        "jp": "おお、お前の試合みたぞ。その腕で活きのいいのを持ってきてくれよ！",
+        "en": "Hey, I saw your match! I'm sure you could bring me some really lively ones!",
+        "ru": "Эй, я видел ваш матч! Уверен, кого-нибудь можно было оставить в живых!"
+    },
+    {
+        "id": "M6120_S0070_G0000_001_resi",
+        "jp": "悪いが此処から先は立入禁止だ。",
+        "en": "Sorry, this place is off-limits.",
+        "ru": "Извините, это место недоступно."
+    },
+    {
+        "id": "M6120_S0070_G0000_001_resi",
+        "jp": "悪いが此処から先は立入禁止だ。",
+        "en": "Sorry, this place is off-limits.",
+        "ru": "Извините, это место недоступно."
+    },
+    {
+        "id": "M6120_S0070_G0020_001_resi",
+        "jp": "どうだい、これ以上に面白い見世物はそうないだろ？",
+        "en": "You're not gonna find any better entertainment than this place, lemme tell ya.",
+        "ru": "Вы не найдёте места для отдыха лучше, чем это, точно говорю."
+    },
+    {
+        "id": "M6120_S0080_G0000_001_resi",
+        "jp": "クソッ！クソッ！\\nアイツが負けたせいで俺の大金がパァだ！",
+        "en": "Dammit! All of my money's gone cause that piece of junk didn't win!",
+        "ru": "Вот чёрт! Я проиграл все свои деньги из-за этого куска металлолома!"
+    },
+    {
+        "id": "M6120_S0080_G0010_001_resi",
+        "jp": "どうだ、どうだ！勝ったぞ、俺は勝ったぞ！見ろ大金だ！あははは！",
+        "en": "YES! I WON! I WON! Look at all this money! I'm rich! Wahahaha!",
+        "ru": "ДА! Я ВЫИГРАЛА! ВЫИГРАЛА! Посмотри на эту гору денег! Я богата! А-ха-ха-ха!"
+    },
+    {
+        "id": "M6120_S0080_G0020_001_resi",
+        "jp": "え、ここにいたもう一人の奴はどうしたかって？",
+        "en": "Huh? You wanna know what happened to the other girl?",
+        "ru": "А? Интересно, что же случилось с другой девушкой?"
+    },
+    {
+        "id": "M6120_S0080_G0030_001_resi",
+        "jp": "アイツは負けが続いて金を返せなくなって、どこかに連れて行かれちまったよ。全く馬鹿なやつだよ。",
+        "en": "She kept losin' until she ran out of money, then she got dragged off somewhere. Dumb broad.",
+        "ru": "Она проигрывала до тех пор, пока не кончились деньги, а потом её куда-то утащили. Глупая баба."
+    },
+    {
+        "id": "M6120_S0080_G0040_001_resi",
+        "jp": "俺はまだやれる。ヨシ次はもっと大穴狙いだ……",
+        "en": "That won't happen to me though! I'm ready for my next big win!",
+        "ru": "Со мной такого не случится! Я готов к следующей большой победе!"
+    },
+    {
+        "id": "M6120_S0080_G0040_001_resi",
+        "jp": "俺はまだやれる。ヨシ次はもっと大穴狙いだ……",
+        "en": "That won't happen to me though! I'm ready for my next big win!",
+        "ru": "Со мной такого не случится! Я готов к следующей большой победе!"
+    },
+    {
+        "id": "M6120_S0090_G0000_001_resi",
+        "jp": "ヤバイヤバイヤバイ……\\nこんな大金どうやって返せばいいんだ……",
+        "en": "Oh man, what am I gonna do now?\\nHow am I gonna make that money back!?",
+        "ru": "Ох, чел, что мне теперь делать?\\nКак я верну эти деньги?"
+    },
+    {
+        "id": "M6120_S0100_G0000_001_resi",
+        "jp": "この先は闘技場参加者以外の方はご遠慮願います。",
+        "en": "This place is off-limits except for Colosseum combatants.",
+        "ru": "Сюда нельзя никому, за исключением бойцов Колизея."
+    },
+    {
+        "id": "M6120_S0100_G0010_001_resi",
+        "jp": "もし、参加するのであれば受付で手続きの方をよろしくお願いします。",
+        "en": "If you wanna fight, get yourself registered at the reception first.",
+        "ru": "Если вы хотите драться, сначала пройдите регистрацию."
+    },
+    {
+        "id": "M6120_S0110_G0000_001_resi",
+        "jp": "ここは、無難に行くべきか、大穴を狙うべきか悩みどころだな……",
+        "en": "Should I play it safe, or bet big?",
+        "ru": "Поставить немного или закатить большую ставку?"
+    },
+    {
+        "id": "M6120_S0110_G0010_001_resi",
+        "jp": "おお君の試合見たよ、次は絶対に君に賭けさせて貰うよ！",
+        "en": "Oh hey, I saw you fight before! I think I'm gonna bet on you next!",
+        "ru": "О, эй, я видел, как вы сражались до этого! Вот теперь-то я знаю, на кого буду ставить!"
+    },
+    {
+        "id": "M6120_S0110_G0020_001_resi",
+        "jp": "まさか闘技場の王者に勝つなんて、君に賭けとけば良かったよ。",
+        "en": "Wow, I never thought you'd beat the champ! I should've put my money on you...",
+        "ru": "Вау, я никогда не думала, что ты победишь чемпиона! Надо было ставить на тебя..."
+    },
+    {
+        "id": "M6120_S0110_G0030_001_resi",
+        "jp": "次は絶対君に賭けるから、出場する時は教えてくれよ。",
+        "en": "Next time I'm definitely betting on you, so lemme know when your next match is, 'kay?",
+        "ru": "В следующий раз обязательно поставлю на тебя. Дай знать, как снова решишься выйти на арену, окей?"
+    },
+    {
+        "id": "M6120_S0120_G0000_001_resi",
+        "jp": "何やってるんだ！！\\nもっと派手にぶっ壊してくれなきゃ、つまんねーんだよ！！",
+        "en": "Come on, you call this a fight!?\\nI wanna see bolts flyin' all over the place!",
+        "ru": "Ой, да брось, это ты называешь сражением?\\nЯ хочу, чтобы вся арена была в болтах!"
+    },
+    {
+        "id": "M6120_S0120_G0010_001_resi",
+        "jp": "そんなポンコツに後れなんか取ってんじゃねーよ、クソが！！",
+        "en": "What the hell, you can't even beat a broken-ass piece of junk like that!? Loser!",
+        "ru": "Да какого чёрта?! Ты не в состоянии победить эту консервную банку? Неудачник!"
+    },
+    {
+        "id": "M6120_S0120_G0020_001_resi",
+        "jp": "おいコラ、手を止めんな！壊した後もズタズタにしろ！！",
+        "en": "Don't stop just cause you already won! Grind him to dust!",
+        "ru": "Не останавливайся, даже если победил. Сотри его в порошок!"
+    },
+    {
+        "id": "M6120_S0130_G0000_001_resi",
+        "jp": "オッシャー！！\\nそこだ、ぶっかませ！！",
+        "en": "That's the spirit! Hit 'em where it hurts!",
+        "ru": "Так держать! Бей в уязвимые места!"
+    },
+    {
+        "id": "M6120_S0130_G0010_001_resi",
+        "jp": "オオォォ！！\\nアンタの試合最高にエキサイティングだったぜ！！",
+        "en": "OH. MY. GOD. That was the most exciting match I've ever seen!",
+        "ru": "О. МОЙ. БОГ. Это был самый захватывающий матч, который я когда-либо видела!"
+    },
+    {
+        "id": "M6120_S0130_G0020_001_resi",
+        "jp": "ウオォォォ！！\\nアンタ、まさかあの王者を倒しちまうなんて最高に感激したぞ！！",
+        "en": "WOOOOOOW! You actually beat the champ!? Un-friggin-believable!",
+        "ru": "ВААААААААААААУ! Ты сокрушил чемпиона?! Не-могу-поверить!"
+    },
+    {
+        "id": "M6120_S0140_G0000_001_resi",
+        "jp": "機械生命体がはじけ飛ぶのを見てると胸の辺りがこう、整理された感じになるんだ。",
+        "en": "It's a wonderful sight, seeing machine bits fly everywhere, isn't it? Makes me feel all peaceful inside.",
+        "ru": "Как же восхитительно наблюдать за частичками машинного кода, витающего в воздухе, не так ли? Это успокаивает меня."
+    },
+    {
+        "id": "M6120_S0140_G0010_001_resi",
+        "jp": "この感覚は何て言えばいいんだろうな。",
+        "en": "I wonder if there's a word for that.",
+        "ru": "Интересно, можно ли это чувство описать одним словом."
+    },
+    {
+        "id": "M6120_S0140_G0020_001_resi",
+        "jp": "人間の文献を調べてみたら、機械生命体がはじけ飛ぶのを見た時に感じる感覚は「爽快とか愉快、気が晴れる」って言うのが近いのかな。",
+        "en": "So I checked some human records and apparently the joy of seeing machine bits fly everywhere is called \"elation.\"",
+        "ru": "Я посмотрела в записях людей, и то чувство, когда видишь частички машинного кода, витающих в воздухе, указано как \"восторг\"."
+    },
+    {
+        "id": "M6120_S0140_G0030_001_resi",
+        "jp": "機械生命体には散々な目に遭わされて来たからね。\\n奴らが壊される様は本当に爽快だよ。",
+        "en": "We lost so many of our troops to these bastards, it's truly...elating to see them get destroyed!",
+        "ru": "Мы потеряли столько солдат из-за этих ублюдков... Какой же восторг — видеть их уничтожение!"
+    },
+    {
+        "id": "M6120_S0140_G0040_001_resi",
+        "jp": "アハハハ愉快だ、奴らの壊れる様は本当に愉快だよ！",
+        "en": "Bwahaha! The elation, oh the elation! I'm so elated right now!",
+        "ru": "Бха-ха-ха! Восторг, какой же восторг! Я так счастлива!"
+    },
+    {
+        "id": "M6120_S0150_G0000_001_resi",
+        "jp": "何やってんだ、このポンコツが！！",
+        "en": "What are you DOING, you worthless sack of metal!?",
+        "ru": "Что ты ДЕЛАЕШЬ, ты, бесполезный мешок с болтами?!"
+    },
+    {
+        "id": "M6120_S0150_G0010_001_resi",
+        "jp": "テメーに賭けてやってんだ、死ぬ気でいけよ！！",
+        "en": "I've got money ridin' on you! Fight to win!",
+        "ru": "Я поставил на тебя! Сражайся до победного!"
+    },
+    {
+        "id": "M6120_S0150_G0020_001_resi",
+        "jp": "あんたの試合見たぞ、あんたならあのクソ生意気なSランクの王者をぶっ壊せるかもな、期待しているぜ。",
+        "en": "I saw you fight just now. You might be able to take that asshole S Rank champ down!",
+        "ru": "Я видел ваше сражение. Вы достойно победили этого дебила S-ранга!"
+    },
+    {
+        "id": "M6120_S0150_G0030_001_resi",
+        "jp": "最高だよ！あんたが王者を倒してくれたおかげで、まだ王者を奴隷にしておけるよ。",
+        "en": "Fantastic! Thanks to you, the former champion has been taken down a notch. He won't be acting so tough anymore now, I bet.",
+        "ru": "Восхитительно! Спасибо вам, что спустили чемпиона с небес на землю. Теперь он не будет вести себя так вызывающе."
+    },
+    {
+        "id": "M6120_S0160_G0000_001_resi",
+        "jp": "いやー、やっぱり最前列だね！",
+        "en": "Nothing beats front row seats, am I right?",
+        "ru": "Нет ничего лучше мест в первом ряду. Я прав?"
+    },
+    {
+        "id": "M6120_S0160_G0010_001_resi",
+        "jp": "稀に弾がここまで飛んで来るのがたまらないんだよ！！",
+        "en": "Gotta watch out for those stray bullets though, but that's part of the fun!",
+        "ru": "Нужно опасаться шальных пуль, но это ведь тоже часть веселья!"
+    },
+    {
+        "id": "M6120_S0160_G0020_001_resi",
+        "jp": "こう、ゾクゾクってするんだよね！！",
+        "en": "Makes you feel alive!!",
+        "ru": "Почувствуй себя живым!"
+    },
+    {
+        "id": "M6120_S0160_G0030_001_resi",
+        "jp": "最近は最前列でも弾が余り飛んで来ないのよね……",
+        "en": "Not many stray bullets have made their way over here lately...",
+        "ru": "В последнее время шальных пуль не так уж и много..."
+    },
+    {
+        "id": "M6120_S0160_G0040_001_resi",
+        "jp": "もっと、もっとこっちに弾を飛ばしてスリルを、スリルを頂戴！！",
+        "en": "I need to see those beautiful red bubbles coming at me to experience the true thrill of combat!",
+        "ru": "Хотелось бы увидеть красивые красные пузыри, летящие в тебя во время восхитительного боя!"
+    },
+    {
+        "id": "M6120_S0160_G0060_001_resi",
+        "jp": "Sランクを制覇するなんて凄いわね。",
+        "en": "Good job completing the S Rank!",
+        "ru": "Поздравляю с получением S-ранга!"
+    },
+    {
+        "id": "M6120_S0160_G0070_001_resi",
+        "jp": "ああ、Sランクの危険な弾をもっと浴びたいわ。",
+        "en": "You think you could maybe try again and send some bullets my way? Please?",
+        "ru": "Как думаешь, сможешь повторить снова и отправить пару пуль в мою сторону? Пожалуйста?"
+    },
+    {
+        "id": "M6120_S0170_G0000_001_resi",
+        "jp": "アンタ、新顔だな。\\nここで賭けをするなら気を付けた方がいいぞ。",
+        "en": "You're new here, ain't ya? If you plan on bettin' some money here, you'd better use your head.",
+        "ru": "Ты новенький, не так ли? Если захочешь сделать ставку, то ставь с умом."
+    },
+    {
+        "id": "M6120_S0170_G0010_001_resi",
+        "jp": "ここで破産したやつは何人もいるが、皆どこかに連れて行かれて帰って来なくなるんだ。",
+        "en": "Some people lose everything they have. They get taken off and are never seen again.",
+        "ru": "Некоторые проиграли здесь всё. Потом их куда-то уводят и больше они не появляются."
+    },
+    {
+        "id": "M6120_S0170_G0020_001_resi",
+        "jp": "お前が噂になっているアンドロイドか、アンタ……ここの施設は楽しめているか？",
+        "en": "You're that android everyone's been talkin' about, huh? You enjoyin' yourself here?",
+        "ru": "Ты андроид, про которого все говорят, да? Нравится здесь?"
+    },
+    {
+        "id": "M6120_S0170_G0030_001_resi",
+        "jp": "ここは強者のみが楽しめる弱肉強食を体現する場所だ。",
+        "en": "This is a place where only the strong survive, so it's not for everyone.",
+        "ru": "Здесь выживает сильнейший, так что это место не для всех."
+    },
+    {
+        "id": "M6120_S0170_G0040_001_resi",
+        "jp": "だが、果たしてアンドロイドはこの世界の強者なのかは疑問だな。",
+        "en": "I guess we'll see soon enough if us androids are really the strongest ones on this planet, huh?",
+        "ru": "Скоро мы увидим, являются ли андроиды самыми сильными на этой планете, верно?"
+    },
+    {
+        "id": "M6120_S0170_G0050_001_resi",
+        "jp": "アンタ、ここの施設についてどう思う？",
+        "en": "So tell me, what do you think of this place?",
+        "ru": "Скажи мне, что ты думаешь об этом месте?"
+    },
+    {
+        "id": "M6120_S0170_G0060_001_resi",
+        "jp": "仲間を大勢殺されたアンドロイドには機械生命体を殺す大義名分がある。",
+        "en": "I don't think you'll disagree that us androids have plenty of reasons to kick the crap outta the machines after all they've done to us, right?",
+        "ru": "Думаю, ты согласишься, что у нас, андроидов, имеются все основания выбить из машин всё дерьмо, особенно после того, что они с нами сотворили, верно?"
+    },
+    {
+        "id": "M6120_S0170_G0070_001_resi",
+        "jp": "だが、ここにいる奴らのほとんどは大義名分を盾にただ殺す事を楽しんでいる。",
+        "en": "That said, most people here don't even care about revenge. They're just here to kill.",
+        "ru": "Тем не менее, никто из здешних участников не думает о смерти. Они здесь для того, чтобы убивать."
+    },
+    {
+        "id": "M6120_S0170_G0080_001_resi",
+        "jp": "もしかしたら、殺せれば相手は機械生命体じゃなくてもいいかもしれない。",
+        "en": "I'm gettin' the impression they'd slaughter anything put in front of 'em, be it machine or something else.",
+        "ru": "Меня впечатляет то, как они крушат всё в округе, будь то машина или что-то еще."
+    },
+    {
+        "id": "M6120_S0170_G0090_001_resi",
+        "jp": "しかし、この施設のおかげで生きる気力が湧いた者も大勢いる。",
+        "en": "On the other hand, there's lots of people here who gain the energy to keep on livin' every day as well.",
+        "ru": "С другой стороны, здесь есть много андроидов, которые каждый день получают энергию, чтобы продолжать жить."
+    },
+    {
+        "id": "M6120_S0170_G0100_001_resi",
+        "jp": "ここにいる奴らが正常なのか狂っているのか、誰が判断出来るんだろうな……",
+        "en": "I dunno whether we're all doin' the right thing, or if we're all just completely deranged...",
+        "ru": "Не знаю, правильно ли всё это, быть может, мы все давным-давно сошли с ума..."
+    },
+    {
+        "id": "M6120_S0170_G0100_001_resi",
+        "jp": "ここにいる奴らが正常なのか狂っているのか、誰が判断出来るんだろうな……",
+        "en": "I dunno whether we're all doin' the right thing, or if we're all just completely deranged...",
+        "ru": "Не знаю, правильно ли всё это, быть может, мы все давным-давно сошли с ума..."
+    },
+    {
+        "id": "M6120_S0180_G0000_001_resi",
+        "jp": "クソッ、また負けだ！！",
+        "en": "Dammit, I lost again!",
+        "ru": "Чёрт, я снова продул..."
+    },
+    {
+        "id": "M6120_S0180_G0010_001_resi",
+        "jp": "いっそ、俺もバトルに参加してみるか……",
+        "en": "Maybe I should try becoming a contestant...",
+        "ru": "Может, мне стоит поучаствовать..."
+    },
+    {
+        "id": "M6120_S0180_G0020_001_resi",
+        "jp": "イテテテ……",
+        "en": "Owowowowow...",
+        "ru": "Ой-ой-ой-ой-ой-ой..."
+    },
+    {
+        "id": "M6120_S0180_G0030_001_resi",
+        "jp": "クソッ、バトルになんか参加するんじゃなかった！",
+        "en": "Man, I should NOT have tried becoming a contestant!",
+        "ru": "Блин, мне НЕ стоило участвовать!"
+    },
+    {
+        "id": "M6120_S0180_G0000_001_resi",
+        "jp": "クソッ、また負けだ！！",
+        "en": "Dammit, I lost again!",
+        "ru": "Чёрт, я снова продул..."
+    },
+    {
+        "id": "M6120_S0180_G0010_001_resi",
+        "jp": "いっそ、俺もバトルに参加してみるか……",
+        "en": "Maybe I should try becoming a contestant...",
+        "ru": "Может, мне стоит поучаствовать..."
+    },
+    {
+        "id": "M6120_S0190_G0000_001_resi",
+        "jp": "やっぱり低ランクの試合は見ていても退屈だな……",
+        "en": "Man, these low-level matches are so boring...",
+        "ru": "Эти низкоранговые матчи такие скучные..."
+    },
+    {
+        "id": "M6120_S0190_G0010_001_resi",
+        "jp": "高ランクの試合を見たいが、高いんだよな……",
+        "en": "I wanna watch the higher level ones, but they're so expensive.",
+        "ru": "Хотелось бы глянуть на высокоранговый матч, но они слишком дорогие."
+    },
+    {
+        "id": "M6120_S0190_G0020_001_resi",
+        "jp": "アンタの試合最高に楽しませてもらったよ。",
+        "en": "You are an absolutely joy to watch in combat, you know that?",
+        "ru": "Знаешь, когда ты в бою, за тобой интересно наблюдать."
+    },
+    {
+        "id": "M6120_S0190_G0030_001_resi",
+        "jp": "チケット代が高い分、やっぱり高ランクの試合はひと味違うな。",
+        "en": "The tickets for high rank matches may be expensive, but wow, you do get your money's worth!",
+        "ru": "Билет на высокоранговый матч дорогой, но эй, ты сможешь вернуть деньги!"
+    },
+    {
+        "id": "M6120_S0190_G0040_001_resi",
+        "jp": "慣れってこわいもんだな。\\nあれほど楽しかった高ランクの試合も今では退屈になってしまったよ。",
+        "en": "Even the excitement of high rank matches starts wearing off after a while. It's funny how the mind works.",
+        "ru": "Восхищение от просмотра высокоранговых матчей приедается. Забавный момент сознания."
+    },
+    {
+        "id": "M6120_S0190_G0050_001_resi",
+        "jp": "私達アンドロイドは案外欲深いモノなんだね。",
+        "en": "Androids must be starving for entertainment more than I thought.",
+        "ru": "Андроиды жаждут развлечений сильнее, чем я думал."
+    },
+    {
+        "id": "M6120_S0200_G0000_001_resi",
+        "jp": "Sランクの王者はかなりの強者で、現在なんと90連勝中なんだ。",
+        "en": "The S Rank champion is super strong. He's won 90 matches in a row!",
+        "ru": "Чемпион S-ранга очень силён. Он победил в 90 матчах подряд!"
+    },
+    {
+        "id": "M6120_S0200_G0010_001_resi",
+        "jp": "あいつが出る試合は人気があって中々チケットが取れないんだよ。",
+        "en": "Whenever he has a match, tickets get sold out in no time.",
+        "ru": "Билеты на матч с его участием моментально раскупаются."
+    },
+    {
+        "id": "M6120_S0200_G0020_001_resi",
+        "jp": "アンタ見させて貰ったよ、なかなかの腕だ。",
+        "en": "I saw you fight before. You're pretty good.",
+        "ru": "Я видел, как вы сражались. Довольно хорошо держишься."
+    },
+    {
+        "id": "M6120_S0200_G0030_001_resi",
+        "jp": "王者はあれから更に勝ち続け96連勝を成し遂げたよ。",
+        "en": "In the meanwhile, the champion has won 96 matches in a row though.",
+        "ru": "Тем временем, чемпион выиграл 96 матчей подряд."
+    },
+    {
+        "id": "M6120_S0200_G0040_001_resi",
+        "jp": "100連勝するのが先か、はたまたアンタがヤツを倒すのが先か……",
+        "en": "The question now is: will he reach 100, or are you going to stop him?",
+        "ru": "А теперь вопрос: сможет ли он достигнуть 100 или же кто-то сможет его остановить?"
+    },
+    {
+        "id": "M6120_S0200_G0050_001_resi",
+        "jp": "ああアンタか、王者を下したようだな。",
+        "en": "Looks like you took down the champ, huh?",
+        "ru": "Похоже, ты справился с чемпионом, да?"
+    },
+    {
+        "id": "M6120_S0200_G0060_001_resi",
+        "jp": "アイツなら100連勝してココから抜け出してくれると思ったが……",
+        "en": "I was sure he was gonna get 100 victories and escape this place, but there you go...",
+        "ru": "Я думал, что он одержит 100 побед и покинет это место, но вы..."
+    },
+    {
+        "id": "M6120_S0200_G0070_001_resi",
+        "jp": "所詮、アンドロイドも機械生命体も定められた運命からは逃れられないのか……",
+        "en": "Just goes to show that no one can escape their destiny, be they android or machine.",
+        "ru": "Просто пришли и дали понять, что невозможно избежать своей судьбы, будь ты андроид или машина."
+    },
+    {
+        "id": "M6120_S0200_G0070_001_resi",
+        "jp": "所詮、アンドロイドも機械生命体も定められた運命からは逃れられないのか……",
+        "en": "Just goes to show that no one can escape their destiny, be they android or machine.",
+        "ru": "Просто пришли и дали понять, что невозможно избежать своей судьбы, будь ты андроид или машина."
+    },
+    {
+        "id": "M6120_S0210_G0000_001_resi",
+        "jp": "あーダメだな……今日はツキがないみたいだ。",
+        "en": "Ugh... I'm just shit outta luck today.",
+        "ru": "Эх... как-то сегодня хреново с везением."
+    },
+    {
+        "id": "M6120_S0210_G0010_001_resi",
+        "jp": "連勝続きみたいだな、どうやらツキがあるらしいな。",
+        "en": "I've been on a winning streak! Luck's finally on my side!",
+        "ru": "Наконец-то серия побед! Удача на моей стороне!"
+    },
+    {
+        "id": "M6120_S0210_G0020_001_resi",
+        "jp": "ツキの流れには逆らえないが、呼び込む事も出来る。\\nツキっていうのは不思議なもんだ。",
+        "en": "Luck's a strange thing. You can't go against it, but you can somehow channel it if you really try.",
+        "ru": "Удача — странная штука. Вы не можете пойти против нее, но можете направить её в своё русло."
+    },
+    {
+        "id": "M6120_S0210_G0030_001_resi",
+        "jp": "闘技場の王者を倒したか。アイツはツキを呼び込める奴かと思ったが……",
+        "en": "So you beat the champion, huh? I thought fortune was on his side for sure...",
+        "ru": "Так ты победил чемпиона, да? Я думал, что удача наверняка была на его стороне..."
+    },
+    {
+        "id": "M6120_S0210_G0040_001_resi",
+        "jp": "まあ、アイツにはツキがなくアンタにはツキがあった。ただそれだけのことか。",
+        "en": "Well, looks like you were lucky, and he wasn't. End of story.",
+        "ru": "Ну что ж, тебе повезло, а ему — нет. Конец истории."
+    },
+    {
+        "id": "M6120_S0220_G0000_001_resi",
+        "jp": "ウオオオオオオオオオオオオ！！",
+        "en": "GRRRRRAAAAAAAAAAAAHHHH!",
+        "ru": "РРРААААААААААААААРХ!"
+    },
+    {
+        "id": "M6120_S0220_G0010_001_resi",
+        "jp": "ふぅ、大声で叫ぶとスカッとするぜ！！",
+        "en": "Phew, feels good to flex your lungs sometimes!",
+        "ru": "Фух, как хорошо порой размять свои лёгкие!"
+    },
+    {
+        "id": "M6120_S0220_G0020_001_resi",
+        "jp": "シャアアアアアアアア！！",
+        "en": "GRRRRRAAAAAAAAAAAAHHHH!",
+        "ru": "РРРААААААААААААААРХ!"
+    },
+    {
+        "id": "M6120_S0220_G0030_001_resi",
+        "jp": "やっぱり大声を出すのは止められないね！一緒にどうだ？",
+        "en": "I just can't stop shouting! Wanna join in?",
+        "ru": "Я попросту не могу перестать орать! Хочешь присоединиться?"
+    },
+    {
+        "id": "M6120_S0220_G0040_001_resi",
+        "jp": "……大声……出し……ス……ギ…声帯……イカ……レ……ッタ……",
+        "en": "...Too...much...shouting... Vocal...cords...busted...",
+        "ru": "Похоже... докричался... Голосовые... связки... сломаны..."
+    },
+    {
+        "id": "M6120_S0230_G0000_001_n02",
+        "jp": "アンドロイドの方、どうかアナタにお願いしたい事があります。",
+        "en": "Excuse me, I have a favor to ask of you.",
+        "ru": "Извиняюсь, у меня есть просьба."
+    },
+    {
+        "id": "M6120_S0230_G0010_001_n02",
+        "jp": "ワタシは身体が弱く、この地獄から抜ける事は出来ないでしょう……",
+        "en": "I'm just a feeble machine, and there's no way out of this hell for me.",
+        "ru": "Я всего лишь слабая машина, которой нет выхода из этого ада."
+    },
+    {
+        "id": "M6120_S0230_G0020_001_n02",
+        "jp": "ですから、どうか一思いに私を殺しては貰えないでしょうか？",
+        "en": "So would you mind killing me, please?",
+        "ru": "Можете убить меня, пожалуйста?"
+    },
+    {
+        "id": "M6120_S0230_G0030_001_n02",
+        "jp": "家族も失い、ワタシにはもう何もないのです。",
+        "en": "My family is gone, and I have nothing left of value.",
+        "ru": "Семья ушла от меня, больше нет смысла жить."
+    },
+    {
+        "id": "M6120_S0230_G0040_001_n02",
+        "jp": "この地獄で永遠の苦しみを受けるよりは……",
+        "en": "I'm tired of having to live through the same nightmare every day.",
+        "ru": "Я устал переживать этот кошмар снова и снова."
+    },
+    {
+        "id": "M6120_S0230_G0050_001_n02",
+        "jp": "アナタにとっては不快なお願いかもしれませんが……",
+        "en": "I know this might not sit very well with you...",
+        "ru": "Я понимаю, если вам не по себе от этого..."
+    },
+    {
+        "id": "M6120_S0230_G0060_001_n02",
+        "jp": "どうか、どうかワタシを殺して下さい……",
+        "en": "But...could you kill me... Please?",
+        "ru": "Но... можете убить меня... Пожалуйста?"
+    },
+    {
+        "id": "M6120_S0240_G0000_001_toolshop",
+        "jp": "お、あんさん新顔やね。\\n試合に参加されるんやろ、ならここで準備しとき！！",
+        "en": "Over here, stranger!\\nGot somethin' that might interest ya, so whaddaya buyin'?",
+        "ru": "Сюда, странник.\\nУ меня есть масса интересных вещичек, не желаешь прикупить?"
+    },
+    {
+        "id": "M6120_S0240_G0010_001_toolshop",
+        "jp": "え、話し方が何か変やって？",
+        "en": "What, ya godda problem with the way I talk?",
+        "ru": "Чё? Какие-то проблемы с моим говором?"
+    },
+    {
+        "id": "M6120_S0240_G0020_001_toolshop",
+        "jp": "過去の文献で学んだんヤケド、どうやら商いを上手にこなす言葉らしいねん。",
+        "en": "I studied a relic of ancient civilization and apparently this is how merchants communicate, alright?",
+        "ru": "Я изучил реликт древней цивилизации, и так говорили все торговцы, понятненько?"
+    },
+    {
+        "id": "M6120_S0240_G0030_001_toolshop",
+        "jp": "え、ドコカおかしゅうナイかって？",
+        "en": "What's that? You highly doubt it!?",
+        "ru": "Что такое? В сомнениях?"
+    },
+    {
+        "id": "M6120_S0240_G0040_001_toolshop",
+        "jp": "まだ、覚えたてやねん、細かい事は気にせんとイて！！",
+        "en": "Look, I only just started out, okay? I'm still tryin' ta get the hang of this!",
+        "ru": "Слушай, я только начал этим заниматься, окей? Не успел разобраться во всех тонкостях!"
+    },
+    {
+        "id": "M6120_S0240_G0050_001_toolshop",
+        "jp": "へいらっしゃい、自由に見てっテヤー。",
+        "en": "Got a selection of good things on sale, stranger!",
+        "ru": "В продаже имеются интересные вещи, странник!"
+    },
+    {
+        "id": "M6120_S0240_G0060_001_toolshop",
+        "jp": "毎度おおきに！",
+        "en": "Hehehe, thank you.",
+        "ru": "Хе-хе-хе, спасибо."
+    }
+]

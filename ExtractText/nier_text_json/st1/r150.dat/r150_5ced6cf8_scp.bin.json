@@ -1,0 +1,608 @@
+[
+    {
+        "id": "M6030_S0010_G0390_300_sp",
+        "jp": "無事だったか。\\nこのエリアは幸い被害が少なかったが、これからはどうなるかわからない。",
+        "en": "You all in one piece? There weren't many casualties in this area, but we might not be so lucky next time!",
+        "ru": "Вы целы? В этой области было не много потерь, но вполне быть может, что в следующий раз нам так не повезёт!"
+    },
+    {
+        "id": "M6030_S0010_G0400_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "So then! What can I do ya for?",
+        "ru": "Итак! Что я могу для вас сделать?"
+    },
+    {
+        "id": "M6030_S0010_G0410_300_sp",
+        "jp": "また……な。",
+        "en": "See ya.",
+        "ru": "Увидимся."
+    },
+    {
+        "id": "M6030_S0010_G0400_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "So then! What can I do ya for?",
+        "ru": "Итак! Что я могу для вас сделать?"
+    },
+    {
+        "id": "M6030_S0010_G0410_300_sp",
+        "jp": "また……な。",
+        "en": "See ya.",
+        "ru": "Увидимся."
+    },
+    {
+        "id": "M6030_S0010_G0270_300_sp",
+        "jp": "君達のおかげでまともな商品がそろってきたよ。",
+        "en": "Thanks to you, I have a decent lineup of products.",
+        "ru": "Благодаря вам, у меня приличная линейка продуктов."
+    },
+    {
+        "id": "M6030_S0010_G0280_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "Wanna do business?",
+        "ru": "Хотите провести сделку?"
+    },
+    {
+        "id": "M6030_S0010_G0290_300_sp",
+        "jp": "また寄ってくれよ。",
+        "en": "Come back any time.",
+        "ru": "Возвращайтесь в любое время."
+    },
+    {
+        "id": "M6030_S0010_G0280_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "Wanna do business?",
+        "ru": "Хотите провести сделку?"
+    },
+    {
+        "id": "M6030_S0010_G0290_300_sp",
+        "jp": "また寄ってくれよ。",
+        "en": "Come back any time.",
+        "ru": "Возвращайтесь в любое время."
+    },
+    {
+        "id": "M1020_S0010_G0260_001_resi",
+        "jp": "ああ、君達か。",
+        "en": "Hey, welcome back!",
+        "ru": "Эй, с возвращением!"
+    },
+    {
+        "id": "M1020_S0010_G0270_001_resi",
+        "jp": "砂漠の資材が入手出来るようになって助かったよ。",
+        "en": "Thanks for securing access to those desert resources.\\nIt's a huge help.",
+        "ru": "Спасибо, что обеспечили доступ к ресурсами пустыни.\\nЭто неоценимая помощь."
+    },
+    {
+        "id": "M1020_S0010_G0280_001_resi",
+        "jp": "つまらないモノだけど、これをお礼に取っておいてくれ。",
+        "en": "I know it isn't much, but please take this. It's the least I can do.",
+        "ru": "Я знаю, что это не много, но прошу, возьмите. Это меньшее, что я могу сделать."
+    },
+    {
+        "id": "M1020_S0010_G0290_001_resi",
+        "jp": "何か入り用の時はここに立ち寄ってくれよ。",
+        "en": "Oh, and be sure to swing by if you ever need anything, all right?",
+        "ru": "О, и обязательно заглядывайте, если еще что-то нужно, хорошо?"
+    },
+    {
+        "id": "M1020_S0010_G0300_001_resi",
+        "jp": "何か交換していくかい？",
+        "en": "What can I help you with?",
+        "ru": "Чем я могу помочь?"
+    },
+    {
+        "id": "M6030_S0010_G0180_300_sp",
+        "jp": "また寄ってくれよ。",
+        "en": "Come back any time.",
+        "ru": "Возвращайтесь в любое время."
+    },
+    {
+        "id": "M6030_S0010_G0160_300_sp",
+        "jp": "君達か。\\n砂漠の資材が入手出来るようになって助かったよ。",
+        "en": "Oh, it's you. Hey, thanks for securing access to those desert resources. It's been a huge help.",
+        "ru": "О, это вы. Эй, спасибо за обеспечение доступа к этим ресурсам пустыни. Это огромная помощь."
+    },
+    {
+        "id": "M6030_S0010_G0170_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "Here to do a little business?",
+        "ru": "Прибыли, чтобы совершить небольшую сделку?"
+    },
+    {
+        "id": "M6030_S0010_G0180_300_sp",
+        "jp": "また寄ってくれよ。",
+        "en": "Come back any time.",
+        "ru": "Возвращайтесь в любое время."
+    },
+    {
+        "id": "M6030_S0010_G0170_300_sp",
+        "jp": "何か交換していくかい？",
+        "en": "Here to do a little business?",
+        "ru": "Прибыли, чтобы совершить небольшую сделку?"
+    },
+    {
+        "id": "M6030_S0010_G0180_300_sp",
+        "jp": "また寄ってくれよ。",
+        "en": "Come back any time.",
+        "ru": "Возвращайтесь в любое время."
+    },
+    {
+        "id": "M1020_S0010_G0160_001_resi",
+        "jp": "ああ、君達がヨルハか。話は聞いてるよ。",
+        "en": "You're from YoRHa, right? I've heard about you guys.",
+        "ru": "Вы из YoRHa, верно? Я слышал о вас, ребята."
+    },
+    {
+        "id": "M1020_S0010_G0170_001_resi",
+        "jp": "この先の岩場で仲間が待ってるから、そっちに向かってくれ。",
+        "en": "We've got a squadmate waiting in a rocky stretch up ahead. Head on over.",
+        "ru": "У нас есть товарищи, ожидающие перед скалистым участком. Идите туда."
+    },
+    {
+        "id": "M1020_S0010_G0180_001_resi",
+        "jp": "ただ、砂漠地帯には補給する場所が無い。",
+        "en": "Just remember that there's nowhere to resupply out there.",
+        "ru": "Просто запомните, что там негде пополнить запасы."
+    },
+    {
+        "id": "M1020_S0010_G0190_001_resi",
+        "jp": "何か必要だったらここで交換していった方がいいな。",
+        "en": "If you need anything, best to take care of it here while you can.",
+        "ru": "Если вам что-нибудь нужно, лучше позаботьтесь об этом здесь, пока можете."
+    },
+    {
+        "id": "M1020_S0010_G0300_001_resi",
+        "jp": "何か交換していくかい？",
+        "en": "What can I help you with?",
+        "ru": "Чем я могу помочь?"
+    },
+    {
+        "id": "M1020_S0010_G0300_001_resi",
+        "jp": "何か交換していくかい？",
+        "en": "What can I help you with?",
+        "ru": "Чем я могу помочь?"
+    },
+    {
+        "id": "M1020_S0010_G0120_001_resi",
+        "jp": "最近、このあたりは物騒でね……",
+        "en": "Things have been dangerous around here lately.",
+        "ru": "В последнее время в округе стало опасно."
+    },
+    {
+        "id": "M6033_S0013_G0414_300_js",
+        "jp": "お前は……Ａ２……",
+        "en": "You're...A2...",
+        "ru": "Ты... A2..."
+    },
+    {
+        "id": "M6033_S0013_G0415_300_js",
+        "jp": "……いや、なんでもない。気をつけてな。",
+        "en": "...Never mind. Just be careful out there, yeah?",
+        "ru": "...Забудь. Просто будь осторожна, хорошо?"
+    },
+    {
+        "id": "M6033_S0013_G0416_300_js",
+        "jp": "今はあまり、話したい気分じゃないな……",
+        "en": "Don't really feel like talking now.",
+        "ru": "Сейчас мне правда не хочется разговаривать."
+    },
+    {
+        "id": "M6031_S0011_G0411_300_js",
+        "jp": "バンカーが落ちたのか……",
+        "en": "So the Bunker's gone, eh?",
+        "ru": "Так Бункер потерян, да?"
+    },
+    {
+        "id": "M6032_S0012_G0412_300_js",
+        "jp": "ホワイト……クソッ！！",
+        "en": "Goddammit, White...",
+        "ru": "Чёрт, Белая..."
+    },
+    {
+        "id": "M6033_S0013_G0413_300_js",
+        "jp": "……すまない、ちょっと知り合いがバンカーにいてね。",
+        "en": "...Sorry. I had a friend back at the Bunker.",
+        "ru": "...Прости. У меня был друг в Бункере."
+    },
+    {
+        "id": "M6030_S0010_G0381_300_js",
+        "jp": "あんたには感謝している。",
+        "en": "Thanks for the help.",
+        "ru": "Спасибо за помощь."
+    },
+    {
+        "id": "M6030_S0010_G0382_300_js",
+        "jp": "最近、ちょっと気になる事があってね……",
+        "en": "You know, I've been thinking about something lately.",
+        "ru": "Знаете, я недавно кое о чём думала."
+    },
+    {
+        "id": "M6030_S0010_G0383_300_js",
+        "jp": "少し調査してみようかな。",
+        "en": "Maybe I should look into it...",
+        "ru": "Может, мне стоит взглянуть на это..."
+    },
+    {
+        "id": "M1020_S0010_G0310_001_resi",
+        "jp": "砂漠の機械共を倒してもらえて助かったよ……",
+        "en": "I hear you kicked some tin-can ass out in the desert.",
+        "ru": "Я слышала, вы неплохо наподдали жестянкам в пустыне."
+    },
+    {
+        "id": "M1020_S0010_G0320_001_resi",
+        "jp": "ありがと。",
+        "en": "So I guess...you know. Thanks or whatever.",
+        "ru": "Поэтому, ну... вы знаете. Спасибо."
+    },
+    {
+        "id": "M1020_S0010_G0250_001_resi",
+        "jp": "……あんまり無理しないようにね。",
+        "en": "Don't go trying to be a hero, all right?",
+        "ru": "И не пытайтесь геройствовать, хорошо?"
+    },
+    {
+        "id": "M1020_S0010_G0250_001_resi",
+        "jp": "……あんまり無理しないようにね。",
+        "en": "Don't go trying to be a hero, all right?",
+        "ru": "И не пытайтесь геройствовать, хорошо?"
+    },
+    {
+        "id": "M6030_S0010_G0261_300_js",
+        "jp": "研究に付き合ってくれてありがとう。",
+        "en": "Yo. Thanks for helping out with my research.",
+        "ru": "Привет. Спасибо за помощь в моих исследованиях."
+    },
+    {
+        "id": "M6030_S0010_G0262_300_js",
+        "jp": "あんたには感謝しているんだ。",
+        "en": "Thanks for the help.",
+        "ru": "Спасибо за помощь."
+    },
+    {
+        "id": "M6030_S0010_G0263_300_js",
+        "jp": "用があれば力になるよ。",
+        "en": "Holler at me if you ever need anything.",
+        "ru": "Позовите меня, если вам понадобится какая-нибудь помощь."
+    },
+    {
+        "id": "M1020_S0010_G0130_001_resi",
+        "jp": "この前も私達の仲間が敵に襲われた。",
+        "en": "One of our teams came under attack just the other day.",
+        "ru": "На днях одна из наших групп подверглась нападению."
+    },
+    {
+        "id": "M1020_S0010_G0140_001_resi",
+        "jp": "これからどうなるのか心配で……",
+        "en": "Who knows what'll happen to us next?",
+        "ru": "Кто знает, что с нами будет дальше?"
+    },
+    {
+        "id": "M1020_S0010_G0150_001_resi",
+        "jp": "砂漠は足を取られやすいから、気をつけてね。",
+        "en": "You jerks be careful in the desert, yeah? Folks die out there.",
+        "ru": "Болваны, в пустыне нужно быть осторожнее, поняли? Там, между прочим, многие умирают."
+    },
+    {
+        "id": "M5150_S0030_G0080_001_ys",
+        "jp": "ああ、薬？……摂取すると、気持ちがふわぁって楽になるの。\\nフフッ……フフフッ……",
+        "en": "That drug... S-So wonderful... Everything feels amaaaaazing... Heeee hee hee...",
+        "ru": "Этот наркотик... Т-такой замечательный... Все чувства удивительны... Хеее-хе-хе..."
+    },
+    {
+        "id": "M5150_S0030_G0090_001_ys",
+        "jp": "薬……？これはヤバイよ……楽しくて……戦闘が止められないんだ。",
+        "en": "Drug... More drug... Can't stop fighting... So fuuuuun...",
+        "ru": "Наркотики... Больше наркотиков... Не могу прекратить сражаться... Так ве-е-есело..."
+    },
+    {
+        "id": "M5150_S0030_G0100_001_pod042",
+        "jp": "薬の摂取による副作用と判定。",
+        "en": "Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.",
+        "ru": "Анализ: необычное поведение напрямую связано со стимулирующим эффектом употребленного вещества."
+    },
+    {
+        "id": "M5150_S0030_G0110_001_a2b",
+        "jp": "薬物の乱用……",
+        "en": "They're abusing it.",
+        "ru": "Она им злоупотребляет."
+    },
+    {
+        "id": "M5150_S0030_G0120_001_a2b",
+        "jp": "いや、薬に頼らないといけない程、辛いのか……",
+        "en": "Or maybe their lives are just too hard to fathom without it.",
+        "ru": "Или, может, их жизнь очень трудна, чтобы обходиться без него."
+    },
+    {
+        "id": "M5150_S0030_G0130_001_pod153",
+        "jp": "薬の摂取による副作用と判定。",
+        "en": "Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.",
+        "ru": "Анализ: необычное поведение напрямую связано со стимулирующим эффектом употребленного вещества."
+    },
+    {
+        "id": "M5150_S0030_G0140_001_a9s",
+        "jp": "薬物の乱用……",
+        "en": "They're abusing it.",
+        "ru": "Она им злоупотребляет."
+    },
+    {
+        "id": "M5150_S0030_G0150_001_a9s",
+        "jp": "いや、薬に頼らないといけないくらい辛いのか……",
+        "en": "Or maybe their lives are just too hard to fathom without it.",
+        "ru": "Или, может, их жизнь очень трудна, чтобы обходиться без него."
+    },
+    {
+        "id": "M5150_S0030_G0160_001_pod042",
+        "jp": "薬の摂取による副作用と判定。",
+        "en": "Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.",
+        "ru": "Анализ: необычное поведение напрямую связано со стимулирующим эффектом употребленного вещества."
+    },
+    {
+        "id": "M5150_S0030_G0170_001_a2",
+        "jp": "薬物の乱用……",
+        "en": "They're abusing it.",
+        "ru": "Она им злоупотребляет."
+    },
+    {
+        "id": "M5150_S0030_G0180_001_a2",
+        "jp": "いや、薬に頼らないといけない程、辛いのか……",
+        "en": "Or maybe their lives are just too hard to fathom without it.",
+        "ru": "Или, может, их жизнь очень трудна, чтобы обходиться без него."
+    },
+    {
+        "id": "M6030_S0010_G0420_300_ys",
+        "jp": "薬……？これはヤバイよ……楽しくて……戦闘が止められないんだ。",
+        "en": "...Drugs? Yeah, they're pretty crazy. I can't stop fighting!",
+        "ru": "...Наркотики? Ага, они просто офигенные. Я не могу прекратить сражаться!"
+    },
+    {
+        "id": "M6030_S0010_G0430_300_ys",
+        "jp": "任務？……もうどうでもいい。……ほうっておいてくれ。",
+        "en": "Mission? Whatever... Leave me alone.",
+        "ru": "Задание? Всё равно... Оставь меня в покое."
+    },
+    {
+        "id": "M6030_S0010_G0440_300_ys",
+        "jp": "はぁー……はぁー……",
+        "en": "*huff, huff...*",
+        "ru": "*вдох, вдох...*"
+    },
+    {
+        "id": "M6030_S0010_G0480_300_ys",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6030_S0010_G0300_300_ys",
+        "jp": "想定より進捗状況が悪いんだ。",
+        "en": "Progress isn't exactly going as planned.",
+        "ru": "Всё идёт не так, как планировалось."
+    },
+    {
+        "id": "M6030_S0010_G0310_300_ys",
+        "jp": "司令部にもせっつかれているし、どうにかしなくては……",
+        "en": "And Command keeps pestering me, so I gotta do something.",
+        "ru": "И Штаб продолжает доставать меня, поэтому я должна что-нибудь сделать."
+    },
+    {
+        "id": "M6030_S0010_G0320_300_ys",
+        "jp": "どうしたものか……",
+        "en": "Siiigh... Why do I always draw the short straw?",
+        "ru": "Ох... И почему мне всегда попадается такая неприятная работа?"
+    },
+    {
+        "id": "M6030_S0010_G0190_300_ys",
+        "jp": "私達は、このエリアの資源をバンカーに送る任務を受け持った。",
+        "en": "We've been charged with sending resources from here to the bunker.",
+        "ru": "Мы отвечаем за отправку ресурсов отсюда в бункер."
+    },
+    {
+        "id": "M6030_S0010_G0200_300_ys",
+        "jp": "ここの環境はアンドロイドが活動するには厳しいんだが……",
+        "en": "This is a harsh environment for androids.",
+        "ru": "Это суровая окружающая среда для андроидов."
+    },
+    {
+        "id": "M6030_S0010_G0210_300_ys",
+        "jp": "……いや、すまない任務に集中しよう。",
+        "en": "Welp, nothing for it! Better just concentrate on the task at hand, right?",
+        "ru": "Ну, ничего не поделаешь! Лучше просто сосредоточиться на текущей задаче, верно?"
+    },
+    {
+        "id": "M6030_S0010_G0000_300_ys",
+        "jp": "こっちのエリアは私達が調査している。",
+        "en": "We're investigating this area.",
+        "ru": "Мы исследуем эту зону."
+    },
+    {
+        "id": "M6030_S0010_G0010_300_ys",
+        "jp": "お互い、大変な任務だが……頑張ろう。",
+        "en": "I know we both have serious missions to do, so let's give it our all.",
+        "ru": "Знаю, у нас обоих серьёзные задания, поэтому давайте выложимся на полную."
+    },
+    {
+        "id": "M6030_S0010_G0450_300_ys",
+        "jp": "ああ、薬？……勧める気は全然ないんだけど、もしどうしてもって言うなら……",
+        "en": "...Hmm? Drugs? Yeah, they make me feel REALLY WEIRD! ...Wanna try some?",
+        "ru": "...Хм? Наркотики? Да, они вызывают у меня ДОВОЛЬНО СТРАННЫЕ ощущения! Хотите немного попробовать?"
+    },
+    {
+        "id": "M6030_S0010_G0470_300_ys",
+        "jp": "ありがとう……これで……フフフフッ……",
+        "en": "See you later... Hee! Heeee hee hee hee...",
+        "ru": "Увидимся позже... Хи! Хи-хи-хи-хи..."
+    },
+    {
+        "id": "M6030_S0010_G0460_300_ys",
+        "jp": "このクスリ……欲しくなっちゃった？",
+        "en": "Pssst! Hey! Hey, buddy! You need some drugs?",
+        "ru": "Пс! Эй! Эй, друг! Не желаешь ли наркотиков?"
+    },
+    {
+        "id": "M6030_S0010_G0470_300_ys",
+        "jp": "ありがとう……これで……フフフフッ……",
+        "en": "See you later... Hee! Heeee hee hee hee...",
+        "ru": "Увидимся позже... Хи! Хи-хи-хи-хи..."
+    },
+    {
+        "id": "M6030_S0010_G0480_300_ys",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6030_S0010_G0330_300_ys",
+        "jp": "お疲れ様です！\\nあなたの活動記録は欠かさずチェックしてます！",
+        "en": "Hey there! Hope you don't mind, but I've been tracking your activity log.",
+        "ru": "Привет! Надеюсь, вы не возражаете, что я веду журнал вашей активности."
+    },
+    {
+        "id": "M6030_S0010_G0340_300_ys",
+        "jp": "私も自分の任務がんばりますね！",
+        "en": "Your success has inspired me to work harder during my own missions!",
+        "ru": "Ваши успехи вдохновили меня работать усерднее на своих заданиях!"
+    },
+    {
+        "id": "M6030_S0010_G0220_300_ys",
+        "jp": "機械生命体を討伐したって聞きました！",
+        "en": "I hear you defeated the machines.",
+        "ru": "Я слышала, что вы победили машины."
+    },
+    {
+        "id": "M6030_S0010_G0230_300_ys",
+        "jp": "すごいです！尊敬します……",
+        "en": "You're amazing! I wish I was as strong as you...",
+        "ru": "Вы удивительны! Я хочу быть такой же сильной, как вы..."
+    },
+    {
+        "id": "M6030_S0010_G0020_300_ys",
+        "jp": "この油田は資源として利用できそうです。",
+        "en": "Looks like we can use this oil field as a resource.",
+        "ru": "Похоже, мы сможем использовать это нефтяное месторождение как источник ресурсов."
+    },
+    {
+        "id": "M6030_S0010_G0030_300_ys",
+        "jp": "砂漠地帯の機械生命体の活動を抑えることができれば、\\n安全に輸送することが出来ます。",
+        "en": "If we can minimize machine activity in the desert area, we'll be able to transport the oil safely.",
+        "ru": "Если мы снизим активность машин в пустыне, то сможем безопасно осуществлять поставки нефти."
+    },
+    {
+        "id": "M6030_S0010_G0040_300_ys",
+        "jp": "地道な作業でも一人でも多くの仲間を救えるなら……",
+        "en": "It may be unexciting work, but if it can help save even a single ally, I'll do whatever it takes.",
+        "ru": "Это может оказаться неинтересной работой, но если это поможет спасти даже одного союзника, я сделаю всё, что потребуется."
+    },
+    {
+        "id": "M6030_S0010_G0350_300_ys",
+        "jp": "こんにちは！",
+        "en": "Hello!",
+        "ru": "Привет!"
+    },
+    {
+        "id": "M6030_S0010_G0360_300_ys",
+        "jp": "この前、鳥の群れがここに羽を休めに来たの。\\n嵐の抜け道を知っているのかな。",
+        "en": "A flock of birds came to rest their wings here. I wonder if they instinctively knew how to escape the storm?",
+        "ru": "Стая птиц прилетела сюда, чтобы передохнуть. Интересно, их инстинкты помогают им избегать бури или же нет?"
+    },
+    {
+        "id": "M6030_S0010_G0370_300_ys",
+        "jp": "ここにいると、時間がゆっくり流れている気がするの。",
+        "en": "It seems like time moves more slowly here.",
+        "ru": "Такое ощущение, будто время здесь движется медленнее."
+    },
+    {
+        "id": "M6030_S0010_G0380_300_ys",
+        "jp": "あなたも余裕があるなら、釣りでもしていったらどう？",
+        "en": "If you've got nothing to do, why don't you try fishing? Everyone loves settling down for a round by the pond!",
+        "ru": "Если вам нечем заняться, почему бы не попробовать порыбачить? Все любят посидеть у пруда!"
+    },
+    {
+        "id": "M6030_S0010_G0240_300_ys",
+        "jp": "こんにちは。",
+        "en": "Hello.",
+        "ru": "Привет."
+    },
+    {
+        "id": "M6030_S0010_G0250_300_ys",
+        "jp": "ここの調査任務を司令官にお願いしたの。\\nここは静かで、安全な所だから嬉しかったわ。",
+        "en": "The Commander ordered me to check out this area. There's not much going on—which is just fine by me!",
+        "ru": "Командор приказала мне проверить эту зону. Здесь происходит не так много событий, что для меня просто прекрасно!"
+    },
+    {
+        "id": "M6030_S0010_G0260_300_ys",
+        "jp": "他のエリアも、ここみたいになればいいのにな。",
+        "en": "I wish all the other areas were like this.",
+        "ru": "Хочу, чтобы все другие зоны были, как эта."
+    },
+    {
+        "id": "M6030_S0010_G0050_300_ys",
+        "jp": "あなた！こんな所で何してるの。\\n任務はどうしたの。",
+        "en": "Hey, you! What are you doing here? What happened to your mission?",
+        "ru": "Эй, ты! Что ты делаешь здесь? Что случилось с твоим заданием?"
+    },
+    {
+        "id": "M6030_S0010_G0060_300_ys",
+        "jp": "私？……迷ったの！\\nあはは！驚かせてごめんなさい。",
+        "en": "...Who, me? Oh, I'm just lost. Ha! Sorry if I startled you.",
+        "ru": "...Кто, я? О, я просто потерялась. Ха! Простите, если напугала."
+    },
+    {
+        "id": "M6030_S0010_G0070_300_ys",
+        "jp": "このエリアだけ淡水が湧き出て、植物が育っている。",
+        "en": "This is the only area with fresh water, and there's vegetation growing too.",
+        "ru": "Это единственная зона с пресной водой, и здесь также растут растения."
+    },
+    {
+        "id": "M6030_S0010_G0080_300_ys",
+        "jp": "アンドロイドでも、活動するのが大変な地域なのに、\\n自然ってすごいのね。",
+        "en": "Even androids have trouble living in this environment, yet here these plants are. Isn't nature amazing?",
+        "ru": "Даже андроидам неприятно жить в такой среде, но эти растения... Разве природа не удивительна?"
+    },
+    {
+        "id": "M6030_S0010_G0090_300_ys",
+        "jp": "私はもう少し、ここを調査しているわ。\\n司令官には内緒にしてね。",
+        "en": "I'm going to stick around and investigate this place a little more. Don't tell the Commander, okay?",
+        "ru": "Я собираюсь побродить по округе и исследовать это место ещё немного. Только не рассказывайте Командору, хорошо?"
+    },
+    {
+        "id": "M6030_S0010_G0100_300_robowoman",
+        "jp": "アラ！こんにちは。",
+        "en": "Oh! Hello.",
+        "ru": "О! Привет."
+    },
+    {
+        "id": "M6030_S0010_G0110_300_robowoman",
+        "jp": "ごきげんいかが？",
+        "en": "How are you?",
+        "ru": "Как дела?"
+    },
+    {
+        "id": "M6030_S0010_G0120_300_n02",
+        "jp": "何シニキタ！",
+        "en": "Why are you here?",
+        "ru": "Почему вы здесь?"
+    },
+    {
+        "id": "M6030_S0010_G0130_300_n02",
+        "jp": "ヨソモノ！",
+        "en": "Outsider!",
+        "ru": "Чужаки!"
+    },
+    {
+        "id": "M6030_S0010_G0140_300_n02",
+        "jp": "変ナ奴。",
+        "en": "Freak!",
+        "ru": "Уроды!"
+    },
+    {
+        "id": "M6030_S0010_G0150_300_n02",
+        "jp": "外カラ来タノカ。",
+        "en": "Did you come from the outside?",
+        "ru": "Вы пришли снаружи?"
+    },
+    {
+        "id": "M5590_S0050_G0360_001_resistance",
+        "jp": "どんな文明があったんだろうなあ……この場所には。",
+        "en": "I wonder what kind of civilization used to exist here...",
+        "ru": "Интересно, какая цивилизация здесь жила..."
+    }
+]

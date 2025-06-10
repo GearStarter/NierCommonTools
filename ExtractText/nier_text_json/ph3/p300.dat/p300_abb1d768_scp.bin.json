@@ -1,0 +1,422 @@
+[
+    {
+        "id": "M3000_S0040_G0000_001_op210",
+        "jp": "……以上が命令です。理解出来ましたか？",
+        "en": "...And those are your orders. Do you understand?",
+        "ru": "...Такова ваша текущая цель. Все понятно?"
+    },
+    {
+        "id": "M3000_S0040_G0010_001_a9s",
+        "jp": "えーっと……",
+        "en": "Um...",
+        "ru": "Эм..."
+    },
+    {
+        "id": "M3000_S0040_G0020_001_a9s",
+        "jp": "僕達スキャナー部隊は、総攻撃に備え、\\n敵の防空システムをハッキングで麻痺させる。",
+        "en": "The Scanners are going to hack into the enemy's anti-air system and shut it down in advance of an all-out assault, right?",
+        "ru": "Сканеры попытаются взломать и отключить вражескую систему ПВО перед началом массированной атаки, так?"
+    },
+    {
+        "id": "M3000_S0040_G0030_001_op210",
+        "jp": "その通りです。良く出来ました。",
+        "en": "That's right. Good job, 9S!",
+        "ru": "Всё верно. Хорошая работа, 9S!"
+    },
+    {
+        "id": "M3000_S0040_G0040_001_a9s",
+        "jp": "なんか……子供扱いされてる？",
+        "en": "Why are you talking to me like I'm a child?",
+        "ru": "Почему это вы разговариваете со мной, будто я ребёнок?"
+    },
+    {
+        "id": "M3000_S0040_G0050_001_op210",
+        "jp": "気のせいです。",
+        "en": "What? That must be your imagination.",
+        "ru": "Что? Наверное, вам просто показалось."
+    },
+    {
+        "id": "M3000_S0040_G0060_001_op210",
+        "jp": "防空システムを受信している機械生命体は、",
+        "en": "Look for machines that are receiving signals from the anti-air system.",
+        "ru": "Разыщите машины, которые получают сигнал от ПВО системы."
+    },
+    {
+        "id": "M3000_S0040_G0070_001_op210",
+        "jp": "電波状況の良い高所にいる筈です。",
+        "en": "They should be located in elevated areas with good signal reception.",
+        "ru": "Они должны находиться на возвышенностях с хорошим приёмом сигнала."
+    },
+    {
+        "id": "M3000_S0040_G0071_001_op210",
+        "jp": "ハッキング対象の機械生命体について\\n大雑把な予測位置をマップに転送しました。",
+        "en": "I've forwarded the general positions of the machine lifeforms you need to hack.",
+        "ru": "Передаю основные позиции машин для взлома."
+    },
+    {
+        "id": "M3000_S0040_G0080_001_a9s",
+        "jp": "了解。",
+        "en": "Roger.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M3000_S0040_G0020_300_op210",
+        "jp": "対象はくれぐれも破壊しないでください。\\n破壊してもしばらくすると代わりの個体が現れてキリがありません。",
+        "en": "Please refrain from destroying the target. If you do, another one will simply take its place.",
+        "ru": "Прошу воздержаться от уничтожения цели. В противном случае, её место займёт другая машина."
+    },
+    {
+        "id": "M3000_S0040_G0030_300_a9s",
+        "jp": "はいはい。そんなことしませんよ～",
+        "en": "No killing the target. Got it.",
+        "ru": "Не убивать цель. Понял."
+    },
+    {
+        "id": "M3000_S0040_G0000_300_op210",
+        "jp": "対象は電波状況の良い高いところに居ると推察されます。\\nビルの屋上などを調べてみてください。",
+        "en": "The target is thought to be in a high location with good network reception. Try examining the rooftops of buildings.",
+        "ru": "Предполагается, что цели находятся в местах с хорошим приёмом сигнала. Попробуйте обыскать крыши зданий."
+    },
+    {
+        "id": "M3000_S0040_G0010_300_a9s",
+        "jp": "了解。",
+        "en": "Roger.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M3000_S0040_G0040_300_op210",
+        "jp": "対象の外見は通常個体と同じなので注意してください。\\nただ、対象に接近すればマーカーが表示されます。",
+        "en": "Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear.",
+        "ru": "Учтите, что внешний вид цели идентичен обычному противнику. Как только приблизитесь, появится маркер."
+    },
+    {
+        "id": "M3000_S0040_G0050_300_a9s",
+        "jp": "なんだか、あいつらどんどん賢くなってるような気がするな。",
+        "en": "Is it me, or does it seem like they're getting smarter?",
+        "ru": "Это я, или же они стали умнее?"
+    },
+    {
+        "id": "M3000_S0040_G0090_001_a9s",
+        "jp": "しまった……",
+        "en": "Whoops!",
+        "ru": "Упс!"
+    },
+    {
+        "id": "M3000_S0040_G0100_001_op210",
+        "jp": "９Ｓ。命令はハッキングであって、撃破ではありません。",
+        "en": "Unit 9S, your orders are to hack in to enemy units, not destroy them.",
+        "ru": "Единица 9S, ваша цель — взламывать единицы противника, а не уничтожать их."
+    },
+    {
+        "id": "M3000_S0040_G0110_001_op210",
+        "jp": "壊してしまうと再配備されるので意味が無いからです",
+        "en": "Destroyed units will simply be replaced. Attacking is pointless.",
+        "ru": "Уничтоженную единицу заменят другие. Атаковать их бессмысленно."
+    },
+    {
+        "id": "M3000_S0040_G0120_001_op210",
+        "jp": "敵の視界の後ろからそーっと迫って……",
+        "en": "Try to sneak up behind your foes, keep out of sight, and then...",
+        "ru": "Подкрадитесь к противнику сзади, не попадайтесь ему на глаза, а потом..."
+    },
+    {
+        "id": "M3000_S0040_G0130_001_op210",
+        "jp": "ギュッっとハッキングしてください。",
+        "en": "Boom! Hack 'em up good.",
+        "ru": "Бум! И они взломаны."
+    },
+    {
+        "id": "M3000_S0040_G0140_001_a9s",
+        "jp": "わかってるよ……",
+        "en": "Um, okay.",
+        "ru": "Эм, хорошо."
+    },
+    {
+        "id": "M3000_S0040_G0150_001_a9s",
+        "jp": "『ギュッっとハッキング』って何だ……",
+        "en": "...\"Boom?\" Is she serious?",
+        "ru": "...\"Бум?\" Она это серьёзно?"
+    },
+    {
+        "id": "M3000_S0040_G0060_300_op210",
+        "jp": "あー。また破壊してしまったんですか……",
+        "en": "Hmph! You destroyed it again.",
+        "ru": "Хмпф! Опять уничтожил."
+    },
+    {
+        "id": "M3000_S0040_G0070_300_op210",
+        "jp": "ギュッとハッキングするんですよ！ギュッと！\\n交代の敵が配備されると思うので次こそはお願いします。",
+        "en": "You have to hack 'em! Hack-hack-hack!\\nThey'll substitute another enemy soon, so try again.",
+        "ru": "Их нужно взламывать! Взламывать, взламывать!\\nСкоро её место займет новая машина, можно будет попробовать еще раз."
+    },
+    {
+        "id": "M3000_S0040_G0080_300_a9s",
+        "jp": "了解です。",
+        "en": "Got it.",
+        "ru": "Понял."
+    },
+    {
+        "id": "M3000_S0040_G0090_300_op210",
+        "jp": "ハッキングに成功したみたいですね。\\nエラいですね。",
+        "en": "I see your hacking was successful. Way to go!",
+        "ru": "Как я вижу, взлом прошёл успешно. Так держать!"
+    },
+    {
+        "id": "M3000_S0040_G0100_300_a9s",
+        "jp": "やっぱり子供扱いされてる……",
+        "en": "You're totally treating me like a kid.",
+        "ru": "Вы точно обращаетесь со мной, как с ребёнком!"
+    },
+    {
+        "id": "M3000_S0040_G0110_300_op210",
+        "jp": "次もよろしくお願いします。",
+        "en": "Now move onto the next one!",
+        "ru": "Теперь двигайтесь к следующей!"
+    },
+    {
+        "id": "M3000_S0040_G0120_300_a9s",
+        "jp": "……はーい",
+        "en": "Fiiiine.",
+        "ru": "Хо-ро-шо."
+    },
+    {
+        "id": "M3000_S0040_G0130_300_op210",
+        "jp": "防衛システム稼働率低下を確認。",
+        "en": "Defensive system operation confirmed to be declining.",
+        "ru": "Подтверждаю снижение эффективности оборонной системы."
+    },
+    {
+        "id": "M3000_S0040_G0140_300_a9s",
+        "jp": "もう少しだね。",
+        "en": "Almost there.",
+        "ru": "Почти на месте."
+    },
+    {
+        "id": "M3000_S0040_G0160_001_op210",
+        "jp": "順調なようですね。",
+        "en": "Looks like it's going well down there.",
+        "ru": "Похоже, что всё продвигается успешно."
+    },
+    {
+        "id": "M3000_S0040_G0170_001_op210",
+        "jp": "今回の作戦では、他のスキャナー部隊員も総動員されています。",
+        "en": "Every Scanner in the force is involved in this operation.",
+        "ru": "Для участия в операции привлекли всех сканеров."
+    },
+    {
+        "id": "M3000_S0040_G0180_001_op210",
+        "jp": "私達も後れをとらないようにしなければ。",
+        "en": "So let's try not to fall behind.",
+        "ru": "Так что постарайтесь не сдавать позиции."
+    },
+    {
+        "id": "M3000_S0040_G0190_001_a9s",
+        "jp": "はーい。後れをとらないようにしまーす。",
+        "en": "Yeah, yeah. No falling behind. Got it.",
+        "ru": "Ага, ага. Не отставать. Понял."
+    },
+    {
+        "id": "M3000_S0040_G0200_001_op210",
+        "jp": "９Ｓ。",
+        "en": "9S?",
+        "ru": "9S?"
+    },
+    {
+        "id": "M3000_S0040_G0210_001_a9s",
+        "jp": "なに？",
+        "en": "What is it?",
+        "ru": "Что такое?"
+    },
+    {
+        "id": "M3000_S0040_G0220_001_op210",
+        "jp": "戦闘中はなるべく当該エリアから離れて下さい。",
+        "en": "Make sure to do whatever is necessary to avoid combat.",
+        "ru": "Делай всё возможное, чтобы избежать боя."
+    },
+    {
+        "id": "M3000_S0040_G0230_001_a9s",
+        "jp": "それじゃあ、支援出来ませんけど。",
+        "en": "And how will I provide support to the squad if I don't fight?",
+        "ru": "И как же я буду помогать отряду, если не буду сражаться?"
+    },
+    {
+        "id": "M3000_S0040_G0240_001_op210",
+        "jp": "貴方のようなスキャナーモデルは戦闘向きではありません。",
+        "en": "Scanner units such as yourself are not designed for battle.",
+        "ru": "Сканеры, подобные тебе, не предназначены для сражения."
+    },
+    {
+        "id": "M3000_S0040_G0250_001_a9s",
+        "jp": "あれ？心配してくれてるんですか？",
+        "en": "Aw, are you worried about me?",
+        "ru": "О, вы беспокоитесь обо мне?"
+    },
+    {
+        "id": "M3000_S0040_G0260_001_op210",
+        "jp": "いえ。戦場にいても足手まといなだけですので。",
+        "en": "No. I'm merely pointing out that you would be a liability on the battlefield.",
+        "ru": "Нет. Моя обязанность — следить за вашим состоянием на задании."
+    },
+    {
+        "id": "M3000_S0040_G0270_001_a9s",
+        "jp": "酷すぎる。",
+        "en": "Wow, that's...harsh.",
+        "ru": "Воу, это было... строго."
+    },
+    {
+        "id": "M3000_S0040_G0280_001_a11s",
+        "jp": "１１Ｓより９Ｓへ。聞こえますか？",
+        "en": "11S to 9S, come in.",
+        "ru": "11S вызывает 9S, приём."
+    },
+    {
+        "id": "M3000_S0040_G0290_001_a9s",
+        "jp": "聞こえますー",
+        "en": "9S here. Go ahead.",
+        "ru": "9S на связи. Продолжай."
+    },
+    {
+        "id": "M3000_S0040_G0300_001_a11s",
+        "jp": "こちらの担当分作業は全て終了。そっちはどう？",
+        "en": "I'm just about wrapped up here. How about you?",
+        "ru": "Я уже почти закончил."
+    },
+    {
+        "id": "M3000_S0040_G0310_001_a9s",
+        "jp": "こっちも……あと一つかな。",
+        "en": "Um, just one left, I think.",
+        "ru": "Эм, мне остался последний, я полагаю."
+    },
+    {
+        "id": "M3000_S0040_G0320_001_a11s",
+        "jp": "了解。",
+        "en": "Roger.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M3000_S0040_G0330_001_a11s",
+        "jp": "あと、バンカーに戻ったらデータ同期をしておいて。",
+        "en": "Be sure to head back to the Bunker when you're done so you can sync your data.",
+        "ru": "Не забудь вернуться в Бункер и провести синхронизацию данных, когда закончишь."
+    },
+    {
+        "id": "M3000_S0040_G0340_001_a9s",
+        "jp": "あ……忘れてた。",
+        "en": "Oh, right. I forgot about that.",
+        "ru": "Ох, точно. Совсем забыл об этом."
+    },
+    {
+        "id": "M3000_S0040_G0350_001_a11s",
+        "jp": "君の戦闘データが未納だから、スキャナーモデル全体が\\nアップデート出来ないんです。",
+        "en": "Until your combat data is uploaded, none of the Scanner modules can run updates.",
+        "ru": "Пока ты не загрузишь боевые данные, ни один модуль сканеров не начнёт обновление."
+    },
+    {
+        "id": "M3000_S0040_G0360_001_a9s",
+        "jp": "了解。この作戦が終了したら対応する。",
+        "en": "Okay. I'll take care of it as soon as I'm done here.",
+        "ru": "Хорошо. Я займусь этим, как только закончу здесь."
+    },
+    {
+        "id": "M3000_S0040_G0370_001_a11s",
+        "jp": "頼みましたよー",
+        "en": "Appreciated.",
+        "ru": "Благодарю."
+    },
+    {
+        "id": "M3000_S0050_G0000_001_a9s",
+        "jp": "ふうっ……これで分担は全部かな。",
+        "en": "Whew... That looks like everything.",
+        "ru": "Фуф... Похоже, что всё."
+    },
+    {
+        "id": "M3000_S0050_G0020_001_pod153",
+        "jp": "推奨：戦闘状況が悪化する前に２Ｂと合流。",
+        "en": "Proposal: Unit 9S should rendezvous with unit 2B before the combat situation worsens.",
+        "ru": "Предложение: единице 9S следует объединиться с единицей 2B до ухудшения боевой обстановки."
+    },
+    {
+        "id": "M3000_S0050_G0030_001_a9s",
+        "jp": "わかってる。",
+        "en": "Sounds like a plan.",
+        "ru": "Хороший план."
+    },
+    {
+        "id": "M3000_S0050_G0040_001_a9s",
+        "jp": "えーっと、２Ｂとの合流地点を地図にマーク……っと。",
+        "en": "Lemme just mark the point on the map. Aaaand...there.",
+        "ru": "Давай я отмечу точку на карте. И-и-и... вот."
+    },
+    {
+        "id": "M3000_S0040_G0150_300_op210",
+        "jp": "敵防衛システム、完全に沈黙。\\nやれば出来るじゃないですか。",
+        "en": "Enemy defense system fully offline.\\nI knew you could do it.",
+        "ru": "Оборонная система полностью отключена.\\nЯ знала, что ты справишься."
+    },
+    {
+        "id": "M3000_S0040_G0160_300_a9s",
+        "jp": "いつも出来てるよ……",
+        "en": "I-I always do...",
+        "ru": "Я-я всегда справляюсь..."
+    },
+    {
+        "id": "M3000_S0040_G0170_300_op210",
+        "jp": "素晴らしい成果なので、ご褒美を用意しました。",
+        "en": "That really was brilliant work, which means I've got a special surprise for you.",
+        "ru": "Отличная работа, поэтому у меня есть для вас особый сюрприз."
+    },
+    {
+        "id": "M3000_S0040_G0180_300_op210",
+        "jp": "私の部屋に置いておくので後で取りに来てください。",
+        "en": "I'll leave it in my room so you can pick it up later.",
+        "ru": "Я оставлю его в своей комнате, сможете забрать его позже."
+    },
+    {
+        "id": "M3000_S0040_G0190_300_a9s",
+        "jp": "……ご褒美？",
+        "en": "...A surprise?",
+        "ru": "...Сюрприз?"
+    },
+    {
+        "id": "M3000_S0040_G0151_001_pod153",
+        "jp": "報告：目標の大型機械生命体に直接ハッキングするのは不可能。",
+        "en": "Analysis: It is not possible to hack directly into the target Goliath-class machine lifeform.",
+        "ru": "Анализ: невозможно провести взлом машины класса Голиаф напрямую."
+    },
+    {
+        "id": "M3000_S0040_G0152_001_pod153",
+        "jp": "特殊なプロテクトを検知。\\n機械生命体以外からのアクセスを拒否している模様。",
+        "en": "Special software protection detected. Enemy is refusing access from anything other than machine lifeforms.",
+        "ru": "Обнаружено особое защитное ПО. Враг не принимает соединений ни от кого, кроме других машин."
+    },
+    {
+        "id": "M3000_S0040_G0153_001_pod153",
+        "jp": "推奨：まず小型の敵を乗っ取り、その敵を利用して大型の敵をハッキング。",
+        "en": "Proposal: Unit 9S should commandeer a smaller enemy and use it to hack the large one.",
+        "ru": "Предложение: единице 9S следует осуществить захват меньшего противника и использовать его для взлома большего."
+    },
+    {
+        "id": "M3000_S0040_G0154_001_a9s",
+        "jp": "多段でハッキングすればいいのか……",
+        "en": "A little multi-level hacking, huh?",
+        "ru": "Многоуровневый взлом, да?.."
+    },
+    {
+        "id": "M3000_S0050_G0010_001_a9s",
+        "jp": "始まった……",
+        "en": "Here we go...",
+        "ru": "Понеслась..."
+    },
+    {
+        "id": "M5920_S0020_G0310_001_pod153",
+        "jp": "警告：予定されていた作戦区域から離脱中。",
+        "en": "Alert: Exiting the planned operational area.",
+        "ru": "Внимание: вы покидаете зону операции."
+    },
+    {
+        "id": "M5920_S0020_G0320_001_pod153",
+        "jp": "推奨：作戦区域への早急な復帰。",
+        "en": "Proposal: Return to the operational area immediately.",
+        "ru": "Предложение: немедленно вернитесь в зону операции."
+    }
+]

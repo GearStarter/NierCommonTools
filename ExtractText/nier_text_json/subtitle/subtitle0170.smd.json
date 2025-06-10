@@ -1,0 +1,98 @@
+[
+    {
+        "id": "M1010_S0005_H0000_101_man",
+        "jp": "西暦5012年",
+        "en": "5012 A.D.",
+        "ru": "5012 г. н.э."
+    },
+    {
+        "id": "M1010_S0005_H0010_101_man",
+        "jp": "人類の華やかな歴史に突如終わりが訪れた。",
+        "en": "The year mankind's glorious history came to a sudden and abrupt end...",
+        "ru": "Год, в котором славная история человечества внезапно подошла к концу..."
+    },
+    {
+        "id": "M1010_S0005_H0020_101_man",
+        "jp": "外宇宙から飛来したエイリアンによる侵略。",
+        "en": "when the world was invaded by aliens from beyond the stars.",
+        "ru": "Когда наш мир подвергся вторжению пришельцев с других звезд."
+    },
+    {
+        "id": "M1010_S0005_H0030_101_man",
+        "jp": "異星人達の繰り出す兵器『機械生命体』によって人類文明は壊滅。",
+        "en": "The aliens unleashed a new breed of weapon—machine lifeforms—that all but annihilated human civilization.",
+        "ru": "Пришельцы пустили в ход оружие нового поколения — машины, которые почти уничтожили человеческую цивилизацию."
+    },
+    {
+        "id": "M1010_S0005_H0040_101_man",
+        "jp": "生き延びた僅かな者達は、月に逃げ延びる事になった。",
+        "en": "The handful of survivors that remained fled from Earth, seeking refuge on the moon.",
+        "ru": "Те немногие, кому посчастливилось выжить, сбежали с Земли в поисках убежища на Луне."
+    },
+    {
+        "id": "M1010_S0005_H0050_101_man",
+        "jp": "西暦5204年",
+        "en": "5204 A.D.",
+        "ru": "5204 г. н.э."
+    },
+    {
+        "id": "M1010_S0005_H0060_101_man",
+        "jp": "衛星軌道上に敷設された基地群よりアンドロイドを使った反攻作戦が\\n開始される。",
+        "en": "Humanity launched its counterattack, deploying an army of androids from a network of orbiting bases.",
+        "ru": "Человечество провело контратаку, высадив армию андроидов через сеть орбитальных баз."
+    },
+    {
+        "id": "M1010_S0005_H0070_101_man",
+        "jp": "十数回に及ぶ大規模降下作戦を経てもなお、決定的な打撃を与えるには至っていない。",
+        "en": "But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.",
+        "ru": "Но даже после дюжины крупномасштабных атак, нам все ещё не удалось победить захватчиков."
+    },
+    {
+        "id": "M1010_S0005_H0080_101_man",
+        "jp": "この膠着状態に陥った戦況を打破するために",
+        "en": "That is why you, the YoRHa forces, exist:",
+        "ru": "Вот почему вы, подразделение YoRHa, существуете:"
+    },
+    {
+        "id": "M1010_S0005_H0090_101_man",
+        "jp": "君達ヨルハ部隊は存在するのだ。",
+        "en": "To break this stalemate once and for all.",
+        "ru": "Чтобы, наконец, сдвинуть ход битвы с мёртвой точки."
+    },
+    {
+        "id": "M1010_S0005_H0100_101_man",
+        "jp": "最終決戦兵器としての役割を果たして欲しい。",
+        "en": "You are our ultimate weapon...and you must put an end to this war.",
+        "ru": "Вы — наше сильнейшее оружие... и вы должны положить конец этой войне."
+    },
+    {
+        "id": "M1010_S0005_H0110_101_cmd",
+        "jp": "はっ。承知しております。",
+        "en": "Understood, sir.",
+        "ru": "Поняли, сэр."
+    },
+    {
+        "id": "M1010_S0005_H0120_101_man",
+        "jp": "健闘を祈る",
+        "en": "I wish you good hunting.",
+        "ru": "Я желаю вам успехов в битве."
+    },
+    {
+        "id": "M1010_S0005_H0130_101_cmd",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M1010_S0005_H0140_101_yall",
+        "jp": "人類に栄光あれ！",
+        "en": "Glory to mankind!",
+        "ru": "Слава человечеству!"
+    },
+    {
+        "id": "M1010_S0005_H0150_101_man",
+        "jp": "人類に……栄光あれ。",
+        "en": "Glory...to mankind.",
+        "ru": "Слава... человечеству."
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "M1010_S0040_G0000_001_a9s",
+        "jp": "でも、どうして２Ｂのような戦闘モデルが調査を担当するんでしょうか？",
+        "en": "Hey, 2B. Why do you think they sent a combat model like you to a recon job?",
+        "ru": "Эй, 2B. Как ты думаешь, почему они послали боевую модель вроде тебя на разведку?"
+    },
+    {
+        "id": "M1010_S0040_G0010_001_a9s",
+        "jp": "現地調査なら僕達スキャナーモデルだけで十分なのに。",
+        "en": "If all they want is intel, we Scanner models are built for that kind of thing.",
+        "ru": "Если им нужны лишь данные, то это дело как раз для нас, сканеров."
+    },
+    {
+        "id": "M1010_S0040_G0020_001_a2b",
+        "jp": "……命令に文句を言わない。",
+        "en": "Orders are orders.",
+        "ru": "Приказ есть приказ."
+    },
+    {
+        "id": "M1010_S0040_G0030_001_a9s",
+        "jp": "はーい。",
+        "en": "All right, all right.",
+        "ru": "Хорошо, хорошо."
+    },
+    {
+        "id": "M1010_S0040_G0031_001_op60",
+        "jp": "２Ｂさん。今回から新装備が搭載されています。",
+        "en": "2B, you're going to have some new weaponry installed from here on out.",
+        "ru": "2B, недавно мы установили тебе новое вооружение."
+    },
+    {
+        "id": "M1010_S0040_G0032_001_op60",
+        "jp": "使用方法を表示しますので確認してください。",
+        "en": "I'll put up instructions for you. Make sure to commit them to memory!",
+        "ru": "Я подготовила обучение для тебя. Постарайся хорошенько всё запомнить!"
+    },
+    {
+        "id": "M1010_S0040_G0033_001_a2b",
+        "jp": "了解。",
+        "en": "Roger.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M1010_S0040_G0040_001_op60",
+        "jp": "バンカーより２Ｂさんへ。",
+        "en": "Bunker to 2B, come in.",
+        "ru": "Бункер вызывает 2B, приём."
+    },
+    {
+        "id": "M1010_S0040_G0050_001_op60",
+        "jp": "飛行ユニットの降下地点を設定しました。",
+        "en": "I've set a landing point for your flight units.",
+        "ru": "Я установила точку высадки для ваших полётных модулей."
+    },
+    {
+        "id": "M1010_S0040_G0060_001_op60",
+        "jp": "レジスタンスのキャンプよりちょっと離れた場所なんですが……",
+        "en": "You'll be touching down quite a ways from the Resistance camp, unfortunately.",
+        "ru": "К сожалению, высадка пройдёт вдалеке от лагеря Сопротивления."
+    },
+    {
+        "id": "M1010_S0040_G0070_001_op60",
+        "jp": "敵への情報漏洩を防止する為なので我慢してください。",
+        "en": "Sorry for the trouble, but we can't risk the enemy discovering their position.",
+        "ru": "Прошу прощения за неудобства, но мы не можем позволить врагу раскрыть нашу позицию."
+    },
+    {
+        "id": "M1010_S0040_G0080_001_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M1010_S0040_G0090_001_op60",
+        "jp": "がんばってくださいね！",
+        "en": "Good luck down there!",
+        "ru": "Удачи на поверхности!"
+    }
+]

@@ -1,0 +1,356 @@
+[
+    {
+        "id": "M5770_S0010_G0000_001_kj",
+        "jp": "ああ……アンタ達がヨルハ部隊か。聞いてるよ。",
+        "en": "Oh, you must be with YoRHa. I heard about what happened.",
+        "ru": "О, вы, должно быть, из YoRHa. Я слышал о вас."
+    },
+    {
+        "id": "M5770_S0010_G0010_001_kj",
+        "jp": "ウチでは武器を扱ってるんだ。",
+        "en": "I deal in weapons, if you're interested in that type of thing.",
+        "ru": "Я занимаюсь оружием, если вас интересуют подобные вещи."
+    },
+    {
+        "id": "M5770_S0010_G0020_001_a9s",
+        "jp": "どんな武器を売ってるんですか？",
+        "en": "What kind of weapons?",
+        "ru": "Каким оружием?"
+    },
+    {
+        "id": "M5770_S0010_G0030_001_kj",
+        "jp": "基本的には過去の遺産である武器を整備しなおしてる。",
+        "en": "Basically, I rebuild and repair relics from the old world.",
+        "ru": "В основном я перековываю и чиню реликвии из старого мира."
+    },
+    {
+        "id": "M5770_S0010_G0040_001_kj",
+        "jp": "ただ、今ちょっと道具が壊れててね。",
+        "en": "Although to be honest, my tools are in pretty sad shape at the moment.",
+        "ru": "Хотя, честно говоря, мои инструменты на данный момент в довольно плохом состоянии."
+    },
+    {
+        "id": "M5770_S0010_G0050_001_kj",
+        "jp": "この道具箱に入ってる整備デバイスさえ直れば、\\n武器の整備販売が再開出来るんだがな……",
+        "en": "But if I can get the servicing device in that toolbox up and running, I could start fixing and selling weapons again. Take a look at it, will you?",
+        "ru": "Но, если я смогу починить приспособление для ремонта в этом ящике инструментов, то смогу снова начать ремонтировать и продавать оружие. Взгляните на него, хорошо?"
+    },
+    {
+        "id": "M5770_S0010_G0050_001_kj",
+        "jp": "この道具箱に入ってる整備デバイスさえ直れば、\\n武器の整備販売が再開出来るんだがな……",
+        "en": "But if I can get the servicing device in that toolbox up and running, I could start fixing and selling weapons again. Take a look at it, will you?",
+        "ru": "Но, если я смогу починить приспособление для ремонта в этом ящике инструментов, то смогу снова начать ремонтировать и продавать оружие. Взгляните на него, хорошо?"
+    },
+    {
+        "id": "M5770_S0010_G0080_001_sele",
+        "jp": "手助けする。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5770_S0010_G0090_001_sele",
+        "jp": "放置する。",
+        "en": "Leave him to his own devices.",
+        "ru": "Пусть сам разбирается со своими проблемами."
+    },
+    {
+        "id": "M5770_S0010_G0100_001_kj",
+        "jp": "ふうっ……整備デバイスが直らない事には、商売あがったりだよ。",
+        "en": "If I can't get that servicing device repaired, I won't be long for this line of work...",
+        "ru": "Если я не починю приспособление для ремонта, то больше не смогу работать в этом направлении..."
+    },
+    {
+        "id": "M5770_S0010_G0060_001_a9s",
+        "jp": "これは……結構壊れていますね。",
+        "en": "That looks busted, all right.",
+        "ru": "Выглядит сломанным, и правда."
+    },
+    {
+        "id": "M5770_S0010_G0070_001_kj",
+        "jp": "だろう？\\n見ての通り、デバイス修理みたいな繊細な作業は得意じゃなくてね。",
+        "en": "You know it! And as I bet you can tell, I'm no good at that sort of delicate repair.",
+        "ru": "Верно! И скажу вам, что я плохо разбираюсь в такого рода деликатном ремонте."
+    },
+    {
+        "id": "M5770_S0010_G0080_001_sele",
+        "jp": "手助けする。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5770_S0010_G0090_001_sele",
+        "jp": "放置する。",
+        "en": "Leave him to his own devices.",
+        "ru": "Пусть сам разбирается со своими проблемами."
+    },
+    {
+        "id": "M5770_S0010_G0100_001_kj",
+        "jp": "ふうっ……整備デバイスが直らない事には、商売あがったりだよ。",
+        "en": "If I can't get that servicing device repaired, I won't be long for this line of work...",
+        "ru": "Если я не починю приспособление для ремонта, то больше не смогу работать в этом направлении..."
+    },
+    {
+        "id": "M5770_S0010_G0110_001_kj",
+        "jp": "おいおい……本当かよ。そりゃあ助かるな。",
+        "en": "You mean it? That'd be a huge help!",
+        "ru": "Вы серьёзно? Это неоценимая помощь!"
+    },
+    {
+        "id": "M5770_S0010_G0119_001_a9s",
+        "jp": "この整備デバイスは、過負荷で内部がショートしています。",
+        "en": "Looks like the servicing device shorted out. Must have put too much load on it.",
+        "ru": "По-видимому, приспособление для ремонта замкнуло. Наверное, оно подверглось очень большой нагрузке."
+    },
+    {
+        "id": "M5770_S0010_G0120_001_a9s",
+        "jp": "ただ『複雑な機械』が４つ程あればなんとか直せると思います。",
+        "en": "I'm thinking four complex gadgets will be enough to fix it.",
+        "ru": "Я думаю, четырех сложных механизмов будет достаточно для ремонта."
+    },
+    {
+        "id": "M5770_S0010_G0130_001_a9s",
+        "jp": "このあたりで入手出来る場所はありますか？",
+        "en": "Any idea where I'd find complex gadgets?",
+        "ru": "Есть идеи, где я могу найти сложные механизмы?"
+    },
+    {
+        "id": "M5770_S0010_G0140_001_kj",
+        "jp": "ああ……それなら廃墟都市の中央付近でよく見かけるが、あの辺りは\\n攻撃的な機械共がウロウロしてるんだ……危なくて近寄れないね。",
+        "en": "Folks say you can find 'em over in the city ruins—although I also hear the place is crawling with incredibly aggressive machines.",
+        "ru": "Ходят слухи, что их можно найти в руинах города, хотя, я также слышал, что это место кишит невероятно агрессивными машинами."
+    },
+    {
+        "id": "M5770_S0010_G0100_001_kj",
+        "jp": "ふうっ……整備デバイスが直らない事には、商売あがったりだよ。",
+        "en": "If I can't get that servicing device repaired, I won't be long for this line of work...",
+        "ru": "Если я не починю приспособление для ремонта, то больше не смогу работать в этом направлении..."
+    },
+    {
+        "id": "M5770_S0020_G0000_001_a9s",
+        "jp": "武器屋さんが言ってたのは、この辺りですが……",
+        "en": "This is the place that weapons trader was talking about...",
+        "ru": "Это место, о котором говорил торговец оружием..."
+    },
+    {
+        "id": "M5770_S0020_G0010_001_a9s",
+        "jp": "機械生命体を確認。しかも敵性反応があります。",
+        "en": "Uh oh. I'm picking up hostile machine lifeforms.",
+        "ru": "Э, ох. Вижу враждебные машины."
+    },
+    {
+        "id": "M5770_S0020_G0020_001_pod042",
+        "jp": "敵機械生命体の排除を確認。",
+        "en": "Hostile machine lifeforms destroyed.",
+        "ru": "Враждебные машины уничтожены."
+    },
+    {
+        "id": "M5770_S0020_G0030_001_a9s",
+        "jp": "ふうっ。なんとか倒せましたね。",
+        "en": "Whew! That was a slog and a half.",
+        "ru": "Фух! Это было труднее, чем казалось."
+    },
+    {
+        "id": "M5770_S0020_G0040_001_a9s",
+        "jp": "武器屋さんに言われている『複雑な機械』が無いか、ちょっと探してみましょう。",
+        "en": "Let's see if we can find any of those complex gadgets the weapons trader was after.",
+        "ru": "Давай посмотрим, сможем ли мы найти сложные механизмы, которые нужны торговцу оружием."
+    },
+    {
+        "id": "M5770_S0020_G0050_001_a9s",
+        "jp": "これで全部かな。武器屋さんに見てもらいましょう。",
+        "en": "That should be enough. Let's get these back to the trader.",
+        "ru": "Этого должно быть достаточно. Давай доставим их торговцу."
+    },
+    {
+        "id": "M5770_S0030_G0000_001_a9s",
+        "jp": "……よし、これで整備デバイスは修理完了ですね。",
+        "en": "I think this should be enough to fix your broken device.",
+        "ru": "Полагаю, этого должно быть достаточно для ремонта сломанного устройства."
+    },
+    {
+        "id": "M5770_S0030_G0010_001_kj",
+        "jp": "おお、サンキュー！これでようやく営業が出来る。",
+        "en": "Well, how do you like that? Looks like I'm back in business!",
+        "ru": "Ну, как вам? Похоже, я вернулся в бизнес!"
+    },
+    {
+        "id": "M5770_S0030_G0020_001_a9s",
+        "jp": "そうなんですね。楽しみです。",
+        "en": "Good to hear.",
+        "ru": "Рад слышать."
+    },
+    {
+        "id": "M5770_S0030_G0030_001_kj",
+        "jp": "任せとけ！俺は仲間を守る為に武器を作ってるんだ。",
+        "en": "You know it! I make these weapons to keep my friends safe, after all.",
+        "ru": "Верно! Ведь я делаю это оружие, чтобы мои друзья были в безопасности."
+    },
+    {
+        "id": "M5770_S0030_G0040_001_kj",
+        "jp": "けど、さ……時折、思うんだよな。",
+        "en": "Although sometimes I wonder...",
+        "ru": "Хотя, иногда я задумываюсь..."
+    },
+    {
+        "id": "M5770_S0030_G0050_001_kj",
+        "jp": "もしかしたら俺が武器を作る事で、\\n仲間を早く死なせているのかもしれねぇって……",
+        "en": "What if my weapons are just making my friends die all the faster?",
+        "ru": "Что, если моё оружие просто приближает смерть моих друзей?"
+    },
+    {
+        "id": "M5770_S0030_G0060_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5770_S0030_G0070_001_kj",
+        "jp": "あ～悪ぃ。今のは無し！な？",
+        "en": "Ah, never mind. Forget I said anything.",
+        "ru": "Ах, не важно. Забудьте всё, что я сказал."
+    },
+    {
+        "id": "M5770_S0030_G0080_001_kj",
+        "jp": "また来てくれよ！次は新しい武器を用意しておくから。",
+        "en": "Anyway, come back in a little while, all right? I should have some new gear for you then.",
+        "ru": "В любом случае, зайдите через некоторое время, хорошо? Тогда у меня будет какое-нибудь новое снаряжение для вас."
+    },
+    {
+        "id": "M5770_S0010_G0100_001_kj",
+        "jp": "ふうっ……整備デバイスが直らない事には、商売あがったりだよ。",
+        "en": "If I can't get that servicing device repaired, I won't be long for this line of work...",
+        "ru": "Если я не починю приспособление для ремонта, то больше не смогу работать в этом направлении..."
+    },
+    {
+        "id": "M5770_S0030_G0090_001_kj",
+        "jp": "ああ、アンタ達か。おかげで助かったよ。",
+        "en": "Hey, it's you!",
+        "ru": "Эй, это вы!"
+    },
+    {
+        "id": "M5770_S0030_G0091_200_robocreator",
+        "jp": "そう言えば礼を渡し忘れてたな……",
+        "en": "Oh, I almost forgot. I still owe you a reward.",
+        "ru": "Ох, чуть не забыл. Я ещё должен вас наградить."
+    },
+    {
+        "id": "M5770_S0030_G0100_001_kj",
+        "jp": "機械を直してくれた礼に、強化素材をやるよ。",
+        "en": "I wanted to say thanks for helping me get things up and running again, so I whipped you up some upgrade materials.",
+        "ru": "Ещё раз спасибо за помощь с этой проблемой, я подготовил для вас несколько материалов для улучшения."
+    },
+    {
+        "id": "M5770_S0030_G0101_300_robocreator",
+        "jp": "試しに強化していくか？",
+        "en": "Wanna try 'em out?",
+        "ru": "Хотите попробовать улучшить что-нибудь?"
+    },
+    {
+        "id": "M5770_S0030_G0102_300_sele",
+        "jp": "強化していく。",
+        "en": "You bet!",
+        "ru": "Конечно!"
+    },
+    {
+        "id": "M5770_S0030_G0103_300_sele",
+        "jp": "やめておく。",
+        "en": "Not this time.",
+        "ru": "Не в этот раз."
+    },
+    {
+        "id": "M6090_S0030_G0041_300_kj",
+        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
+        "en": "Right-o! This weapon is now Level 3.",
+        "ru": "Отлично-о-о! Теперь это оружие 3-го уровня."
+    },
+    {
+        "id": "M6090_S0030_G0042_300_kj",
+        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
+        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
+        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
+    },
+    {
+        "id": "M6090_S0030_G0043_300_kj",
+        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
+        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
+        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
+    },
+    {
+        "id": "M5770_S0030_G0104_300_robocreator",
+        "jp": "武器の事ならいつでも相談してくれよ。",
+        "en": "Come to me whenever you need help with your weapons.",
+        "ru": "Приходите ко мне всякий раз, когда понадобится помощь с оружием."
+    },
+    {
+        "id": "M5770_S0030_G0111_001_a2b",
+        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
+        "en": "Hey, so where do you get these older weapon models from?",
+        "ru": "Эй, так где вы получаете эти старые модели оружия?"
+    },
+    {
+        "id": "M5770_S0030_G0110_001_a9s",
+        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
+        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
+        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
+    },
+    {
+        "id": "M5770_S0030_G0112_001_a2",
+        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているんだ？",
+        "en": "So where do all these older weapon models come from, huh?",
+        "ru": "Так откуда все эти модели старого оружия, а?"
+    },
+    {
+        "id": "M5770_S0030_G0120_001_kj",
+        "jp": "ああ、この店の主人が送ってくるんだよ。",
+        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
+        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
+    },
+    {
+        "id": "M5770_S0030_G0130_001_kj",
+        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
+        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
+        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
+    },
+    {
+        "id": "M5770_S0030_G0140_001_kj",
+        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
+        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
+        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
+    },
+    {
+        "id": "M5770_S0030_G0150_001_kj",
+        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
+        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
+        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
+    },
+    {
+        "id": "M5770_S0030_G0160_001_kj",
+        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
+        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
+        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
+    },
+    {
+        "id": "M6090_S0030_G0011_300_kj",
+        "jp": "購入した武器はウチで強化する事も出来る。",
+        "en": "You can upgrade the weapons you buy here.",
+        "ru": "Кстати, здесь вы можете улучшить своё оружие за определенную плату."
+    },
+    {
+        "id": "M6090_S0030_G0012_300_kj",
+        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
+        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
+        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
+    },
+    {
+        "id": "M6090_S0030_G0013_300_kj",
+        "jp": "気が向いたら試してくれ。",
+        "en": "Give it a try if you like.",
+        "ru": "Попробуйте, если хотите."
+    },
+    {
+        "id": "M5770_S0030_G0104_300_robocreator",
+        "jp": "武器の事ならいつでも相談してくれよ。",
+        "en": "Come to me whenever you need help with your weapons.",
+        "ru": "Приходите ко мне всякий раз, когда понадобится помощь с оружием."
+    }
+]

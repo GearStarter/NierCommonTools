@@ -1,0 +1,62 @@
+[
+    {
+        "id": "M5095_S0100_G0000_001_announce",
+        "jp": "プラトンモデル１７２８号機。",
+        "en": "Plato Model No. 1728.",
+        "ru": "Платон. Модель за номером 1728."
+    },
+    {
+        "id": "M5095_S0100_G0010_001_announce",
+        "jp": "運動機能試験を始メル。",
+        "en": "Starting examination of motor functions.",
+        "ru": "Запуск проверки моторных функций."
+    },
+    {
+        "id": "M5095_S0100_G0020_001_announce",
+        "jp": "制限時間内に、マーカーの点灯スル箇所に移動する事。",
+        "en": "Move to the location highlighted by the marker within the allotted time.",
+        "ru": "Переместитесь до обозначенного места за отведенное время."
+    },
+    {
+        "id": "M5095_S0100_G0030_001_announce",
+        "jp": "ソレデハ試験を開始する。",
+        "en": "Commencing examination.",
+        "ru": "Запуск проверки."
+    },
+    {
+        "id": "M5095_S0100_G0050_001_announce",
+        "jp": "プラトン１７２８。",
+        "en": "Plato 1728.",
+        "ru": "Платон 1728."
+    },
+    {
+        "id": "M5095_S0100_G0060_001_announce",
+        "jp": "成績記録：非常に悪イ。",
+        "en": "Results: Extremely poor.",
+        "ru": "Результаты: Очень плохо."
+    },
+    {
+        "id": "M5095_S0100_G0070_001_announce",
+        "jp": "次回試験マデニ対処シテオクヨウニ。",
+        "en": "Measures must be taken before the next examination.",
+        "ru": "Требуется принять меры до следующей проверки."
+    },
+    {
+        "id": "M5095_S0100_G0080_001_announce",
+        "jp": "以上。",
+        "en": "That is all.",
+        "ru": "На этом всё."
+    },
+    {
+        "id": "M5095_S0100_G0040_001_announce",
+        "jp": "測定基準を満たしてイナイ為、再試験を命ずる。",
+        "en": "The required measurement standard has not been met. Reexamination is required.",
+        "ru": "Требуемая норма не была выполнена. Необходима повторная проверка."
+    },
+    {
+        "id": "M5095_S0100_G0030_001_announce",
+        "jp": "ソレデハ試験を開始する。",
+        "en": "Commencing examination.",
+        "ru": "Запуск проверки."
+    }
+]

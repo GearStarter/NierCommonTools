@@ -1,0 +1,596 @@
+[
+    {
+        "id": "M5660_S0010_G0000_001_roborece",
+        "jp": "遊園地にヨウコソ！コソコソ！",
+        "en": "Hello hello! Welcome to the amusement park!",
+        "ru": "Привет-привет! Добро пожаловать в парк развлечений!"
+    },
+    {
+        "id": "M5660_S0010_G0010_001_roborece",
+        "jp": "こちらはスタンプカードになります。スタンプを集めると景品をプレゼント！",
+        "en": "Here's your stamp card. If you collect all the stamps, you'll win a free prize!",
+        "ru": "Вот ваша карточка для печатей. Если соберёте все печати, то выиграете бесплатный приз!"
+    },
+    {
+        "id": "M5660_S0010_G0020_001_roborece",
+        "jp": "スタンプは園内のどこかにありマス。探してみてクダサイネ。",
+        "en": "You'll find the stamps inside the amusement park. Make sure to search high and low!",
+        "ru": "Печати можно собрать внутри парка развлечений. Убедитесь, что обыскали его сверху донизу!"
+    },
+    {
+        "id": "M5660_S0010_G0030_001_roborece",
+        "jp": "……ここダケのハナシ、景品はとっても豪華カモしれない可能性を秘メタ\\n様子があるトイウ噂を聞キマスヨ？",
+        "en": "And just between you and me, I hear that the prizes are more than just free—they're DELUXE!",
+        "ru": "И, между нами, я слышал, что призы не только бесплатные... они еще и ШИКАРНЫЕ!"
+    },
+    {
+        "id": "M5660_S0010_G0040_001_roborece",
+        "jp": "それじゃあ、お楽しみクダサイ！",
+        "en": "Off you go then. Good luck, and have fun!",
+        "ru": "А теперь идите. Удачи и веселья!"
+    },
+    {
+        "id": "M5660_S0010_G0020_001_roborece",
+        "jp": "スタンプは園内のどこかにありマス。探してみてクダサイネ。",
+        "en": "You'll find the stamps inside the amusement park. Make sure to search high and low!",
+        "ru": "Печати можно собрать внутри парка развлечений. Убедитесь, что обыскали его сверху донизу!"
+    },
+    {
+        "id": "M5660_S0010_G0040_001_roborece",
+        "jp": "それじゃあ、お楽しみクダサイ！",
+        "en": "Off you go then. Good luck, and have fun!",
+        "ru": "А теперь идите. Удачи и веселья!"
+    },
+    {
+        "id": "M5660_S0030_G0000_001_pod042",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0030_G0010_001_pod042",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0030_G0020_001_pod153",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0030_G0030_001_pod153",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0030_G0000_001_pod042",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0030_G0010_001_pod042",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0030_G0020_001_pod153",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0030_G0030_001_pod153",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0020_G0000_001_pod042",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0020_G0010_001_pod042",
+        "jp": "用意された収集要素は可能な限り回収する事が合理的。",
+        "en": "It is advisable to recover as many of these collectible items as possible.",
+        "ru": "Рекомендуется получить как можно больше этих предметов."
+    },
+    {
+        "id": "M5660_S0020_G0020_001_pod042",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0020_G0030_001_a2b",
+        "jp": "スタンプ……",
+        "en": "You mean \"stamp it\"?",
+        "ru": "В смысле \"проштамповать\"?"
+    },
+    {
+        "id": "M5660_S0020_G0040_001_pod153",
+        "jp": "スタンプを発見。",
+        "en": "Stamp discovered.",
+        "ru": "Обнаружена печать."
+    },
+    {
+        "id": "M5660_S0020_G0050_001_pod153",
+        "jp": "用意された収集要素は可能な限り回収する事が合理的。",
+        "en": "It is advisable to recover as many of these collectible items as possible.",
+        "ru": "Рекомендуется получить как можно больше этих предметов."
+    },
+    {
+        "id": "M5660_S0020_G0060_001_pod153",
+        "jp": "推奨：カードへの押印。",
+        "en": "Proposal: Imprint the stamp upon the card.",
+        "ru": "Предложение: поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0020_G0070_001_a9s",
+        "jp": "真面目か……",
+        "en": "You're taking this pretty seriously.",
+        "ru": "А ты довольно серьезно к этому относишься."
+    },
+    {
+        "id": "M5660_S0055_G0040_001_robosmail",
+        "jp": "アッハッハ……この世界ハおかしいネェ……",
+        "en": "Aaaah ha ha ha! The world is hilarious!",
+        "ru": "Аха-ха-ха-ха! Мир такой весёлый!"
+    },
+    {
+        "id": "M5660_S0055_G0050_001_robosmail",
+        "jp": "スタンプ？いくらでもアゲルヨ！ハッハッハ！",
+        "en": "A stamp? Sure! I'll stamp whatever you want! Aaaaah ha ha ha!",
+        "ru": "Печать? Конечно! Я отпечатаю всё, что тебе нужно! А-ха-ха-ха!"
+    },
+    {
+        "id": "M5660_S0055_G0040_001_robosmail",
+        "jp": "アッハッハ……この世界ハおかしいネェ……",
+        "en": "Aaaah ha ha ha! The world is hilarious!",
+        "ru": "Аха-ха-ха-ха! Мир такой весёлый!"
+    },
+    {
+        "id": "M5660_S0055_G0080_001_robokiller",
+        "jp": "フザケンナヨ！機械生命体ダッテ生キテルンダヨ！",
+        "en": "BACK OFF, ASSHOLE! WE MACHINES ARE ALIVE! YOU GOT THAT?",
+        "ru": "ОТВАЛИ, МУДИЛА! МЫ, МАШИНЫ, ЖИВЫЕ! ВЫ ПОНЯЛИ ЭТО?"
+    },
+    {
+        "id": "M5660_S0055_G0090_001_robokiller",
+        "jp": "ミンナミンナシネ！スタンプもシネ！",
+        "en": "YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!",
+        "ru": "ВЫ ДОЛЖНЫ УМЕРЕТЬ! ВЫ ВСЕ ДОЛЖНЫ УМЕРЕТЬ! И ЭТА ПРОКЛЯТАЯ ПЕЧАТЬ ТОЖЕ ДОЛЖНА УМЕРЕТЬ!"
+    },
+    {
+        "id": "M5660_S0055_G0090_001_robokiller",
+        "jp": "ミンナミンナシネ！スタンプもシネ！",
+        "en": "YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!",
+        "ru": "ВЫ ДОЛЖНЫ УМЕРЕТЬ! ВЫ ВСЕ ДОЛЖНЫ УМЕРЕТЬ! И ЭТА ПРОКЛЯТАЯ ПЕЧАТЬ ТОЖЕ ДОЛЖНА УМЕРЕТЬ!"
+    },
+    {
+        "id": "M5660_S0055_G0000_001_roboeerie",
+        "jp": "スタンプ……ホシイの？",
+        "en": "Saaaay. You...you wanna stamp?",
+        "ru": "Скажите-ка. Вам... Вам нужна печать?"
+    },
+    {
+        "id": "M5660_S0055_G0010_001_roboeerie",
+        "jp": "じゃあアゲル……ふフッ……",
+        "en": "Here... Take it... Eh heh heh heh...",
+        "ru": "Вот... Возьмите... Э-хе-хе-хе..."
+    },
+    {
+        "id": "M5660_S0055_G0010_001_roboeerie",
+        "jp": "じゃあアゲル……ふフッ……",
+        "en": "Here... Take it... Eh heh heh heh...",
+        "ru": "Вот... Возьмите... Э-хе-хе-хе..."
+    },
+    {
+        "id": "M5660_S0055_G0020_001_roboyell",
+        "jp": "オイシャコラー！スタンプ？スタンプ！？",
+        "en": "Yahoo! Stamps! Stamps stamps stamps!",
+        "ru": "Йеху! Печати! Печати-печати-печати!"
+    },
+    {
+        "id": "M5660_S0055_G0030_001_roboyell",
+        "jp": "オッケーダゼ！スタンプオシテヤルゼ！ヤルゼ！",
+        "en": "One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!",
+        "ru": "Ещё одна печать на подходе! О, да, я люблю печати. Сделаем это!"
+    },
+    {
+        "id": "M5660_S0055_G0030_001_roboyell",
+        "jp": "オッケーダゼ！スタンプオシテヤルゼ！ヤルゼ！",
+        "en": "One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!",
+        "ru": "Ещё одна печать на подходе! О, да, я люблю печати. Сделаем это!"
+    },
+    {
+        "id": "M5660_S0055_G0060_001_robocry",
+        "jp": "うううっ……悲シイ……スタンプなんカホシインデスネ。",
+        "en": "*sniff* S-So sad... I g-guess you want a dumb stamp, huh?",
+        "ru": "*хнык* Т-так грустно... я п-полагаю, вам нужна дурацкая печать, да?"
+    },
+    {
+        "id": "M5660_S0055_G0070_001_robocry",
+        "jp": "ホラ……ボクの涙デスタンプを押してあげ……ウワーン！",
+        "en": "Fine... I'll stamp it with m-m-my tears! Waaaaaah!",
+        "ru": "Отлично... Я отпечатаю её со слезами! Ва-а-а-а!"
+    },
+    {
+        "id": "M5660_S0055_G0060_001_robocry",
+        "jp": "うううっ……悲シイ……スタンプなんカホシインデスネ。",
+        "en": "*sniff* S-So sad... I g-guess you want a dumb stamp, huh?",
+        "ru": "*хнык* Т-так грустно... я п-полагаю, вам нужна дурацкая печать, да?"
+    },
+    {
+        "id": "M5660_S0040_G0000_001_robozombie",
+        "jp": "イッショニ……アソボ……",
+        "en": "Leeeet's...plaaaaay...",
+        "ru": "Давай... играть..."
+    },
+    {
+        "id": "M5660_S0040_G0010_001_pod042",
+        "jp": "敵の体内にスタンプを発見。",
+        "en": "Stamp discovered inside enemy body.",
+        "ru": "Обнаружена печать внутри тела противника."
+    },
+    {
+        "id": "M5660_S0040_G0020_001_pod042",
+        "jp": "推奨：敵の破壊及びカードへの押印。",
+        "en": "Proposal: Destroy the enemy and imprint the stamp upon the card.",
+        "ru": "Предложение: уничтожьте противников и поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0040_G0030_001_a2b",
+        "jp": "って言われても……",
+        "en": "Easy for you to say.",
+        "ru": "Тебе легко говорить."
+    },
+    {
+        "id": "M5660_S0040_G0000_001_robozombie",
+        "jp": "イッショニ……アソボ……",
+        "en": "Leeeet's...plaaaaay...",
+        "ru": "Давай... играть..."
+    },
+    {
+        "id": "M5660_S0040_G0040_001_pod153",
+        "jp": "敵の体内にスタンプを発見。",
+        "en": "Stamp discovered inside enemy body.",
+        "ru": "Обнаружена печать внутри тела противника."
+    },
+    {
+        "id": "M5660_S0040_G0050_001_pod153",
+        "jp": "推奨：敵の破壊及びカードへの押印。",
+        "en": "Proposal: Destroy the enemy and imprint the stamp upon the card.",
+        "ru": "Предложение: уничтожьте противников и поставьте печать на карточку."
+    },
+    {
+        "id": "M5660_S0040_G0060_001_a9s",
+        "jp": "何でそんな所に……",
+        "en": "Why the heck is there a stamp INSIDE a machine?",
+        "ru": "Почему, чёрт возьми, эта печать ВНУТРИ машины?"
+    },
+    {
+        "id": "M5660_S0040_G0070_001_robozombie",
+        "jp": "アタシト……アソボ……",
+        "en": "Plaaaay...with meeeee...",
+        "ru": "Поигра-а-ай... со мно-о-о-ой..."
+    },
+    {
+        "id": "M5660_S0040_G0080_001_robozombie",
+        "jp": "アソボ……",
+        "en": "Play...",
+        "ru": "Поиграй..."
+    },
+    {
+        "id": "M5660_S0040_G0090_001_robozombie",
+        "jp": "アーソーボー",
+        "en": "Plaaaaay...",
+        "ru": "Поигра-а-а-ай..."
+    },
+    {
+        "id": "M5660_S0040_G0100_001_robozombie",
+        "jp": "アソンデクレテ……アリガトウ……",
+        "en": "Thaaanks...for plaaaaying...with meeeee...",
+        "ru": "Спа-а-асибо... что... поигра-а-а-али... со мно-о-ой..."
+    },
+    {
+        "id": "M5660_S0050_G0000_001_jyuri1",
+        "jp": "オオ！ロミオ！ロミオ！貴方は何故ロミオなの！",
+        "en": "O Romeo, Romeo, wherefore art thou, Romeo?",
+        "ru": "О, Ромео, Ромео, зачем же ты Ромео?"
+    },
+    {
+        "id": "M5660_S0050_G0010_001_romi1",
+        "jp": "アア！ジュリエット！ジュリエット！貴方は何故ジュリエットナノ？",
+        "en": "Ah, Juliet, Juliet, wherefore art thou, Juliet?",
+        "ru": "Ах, Джульетта, Джульетта, зачем же ты Джульетта?"
+    },
+    {
+        "id": "M5660_S0050_G0020_001_jyuri2",
+        "jp": "オオ！ロミオ！ロミオ！一体ドレがロミオなの？",
+        "en": "O Romeo, Romeo, which one of thou art Romeo?",
+        "ru": "О, Ромео, Ромео, который из вас Ромео?"
+    },
+    {
+        "id": "M5660_S0050_G0030_001_romi2",
+        "jp": "アア！ジュリエット！ジュリエット！私にも良くわかラナインだ！",
+        "en": "Ah Juliet, Juliet, I am not wholly sure!",
+        "ru": "Ах, Джульетта, Джульетта, я не полностью уверен!"
+    },
+    {
+        "id": "M5660_S0050_G0040_001_jyuri3",
+        "jp": "オオ！ロミオ！ロミオ！ナラバ貴方の数を減らしましょう！",
+        "en": "O Romeo, Romeo, then let us cull thy numbers!",
+        "ru": "О, Ромео, Ромео, тогда позволь нам сократить вашу численность!"
+    },
+    {
+        "id": "M5660_S0050_G0050_001_romi3",
+        "jp": "アア！ジュリエット！ジュリエット！ナラバ君ノ命も奪ッテミセヨウ！",
+        "en": "Ah Juliet, Juliet, then I shall take thy life!",
+        "ru": "Ах, Джульетта, Джульетта, тогда я заберу твою жизнь!"
+    },
+    {
+        "id": "M5660_S0050_G0060_001_jyuri1",
+        "jp": "死ねイ！ロミオ！このクソ野郎！",
+        "en": "Die, Romeo! Thou stupid asshole!",
+        "ru": "Умри, Ромео! Тупой ты сударь!"
+    },
+    {
+        "id": "M5660_S0050_G0070_001_romi1",
+        "jp": "生まレタ事を後悔サセテヤル！来いッ！",
+        "en": "I shall make thee regret the day of thy birth!",
+        "ru": "Я заставлю тебя пожалеть о том, что ты родилась!"
+    },
+    {
+        "id": "M5660_S0050_G0080_001_jyuri2",
+        "jp": "貴様ニ土の味を味アワセテやる！",
+        "en": "I shall make thee taste dirt!",
+        "ru": "Я заставлю тебя отведать грязи!"
+    },
+    {
+        "id": "M5660_S0050_G0090_001_romi2",
+        "jp": "シネエエエエエエエエ！！！！",
+        "en": "Diiiieeeeeee!",
+        "ru": "Умри-и-и-и!"
+    },
+    {
+        "id": "M5660_S0050_G0100_001_jyuri3",
+        "jp": "滅びよ！呪ワレシ男ヨ！",
+        "en": "Meet thy doom, O wretched man!",
+        "ru": "Узри свою погибель, о, жалкий мужчина!"
+    },
+    {
+        "id": "M5660_S0050_G0110_001_romi3",
+        "jp": "このクサレ女メ！世界から消エテ無くなれェエエ！",
+        "en": "Begone from this world forever, wench!",
+        "ru": "Убирайся из этого мира навсегда, девка!"
+    },
+    {
+        "id": "M5660_S0050_G0120_001_jyuri1",
+        "jp": "殺ス！",
+        "en": "I'll kill thee!",
+        "ru": "Я убью тебя!"
+    },
+    {
+        "id": "M5660_S0050_G0130_001_jyuri2",
+        "jp": "ブッ壊ス！",
+        "en": "I'll tear the shit out of thee!",
+        "ru": "Я выбью из тебя всё дерьмо!"
+    },
+    {
+        "id": "M5660_S0050_G0140_001_jyuri3",
+        "jp": "イタイ！イタイ！",
+        "en": "Owwww! Aaaah!",
+        "ru": "О-о-о-ой! А-а-а-а-ах!"
+    },
+    {
+        "id": "M5660_S0050_G0150_001_romi1",
+        "jp": "破壊スル！",
+        "en": "Destroy!",
+        "ru": "Крушить!"
+    },
+    {
+        "id": "M5660_S0050_G0160_001_romi2",
+        "jp": "シネシネエ！！！！",
+        "en": "Die die die!",
+        "ru": "Умри умри умри!"
+    },
+    {
+        "id": "M5660_S0050_G0170_001_romi3",
+        "jp": "バカチンがー！",
+        "en": "Pisseth off!",
+        "ru": "Сгинь!"
+    },
+    {
+        "id": "M5660_S0050_G0180_001_jyuri3",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5660_S0050_G0190_001_jyuri3",
+        "jp": "アア……ロミオはモウイナイ。全部殺シテしまった！",
+        "en": "My Romeos are no more. I have slain them each and all.",
+        "ru": "Моих Ромео больше нет. Посланы мною на тот свет."
+    },
+    {
+        "id": "M5660_S0050_G0200_001_jyuri3",
+        "jp": "私もオトモをイタシマス！",
+        "en": "I must join them anon!",
+        "ru": "Должна я тотчас следовать за ними!"
+    },
+    {
+        "id": "M5660_S0050_G0210_001_reception",
+        "jp": "えー、これにて『ロミオ達とジュリエット達』の上演を終わらせていただきます。",
+        "en": "Ummm... Well, I suppose this marks the end of our production of \"Romeos and Juliets.\"",
+        "ru": "Эм... Ну, я полагаю, это ознаменует конец нашей постановки \"Ромео и Джульетты\"."
+    },
+    {
+        "id": "M5660_S0050_G0220_001_reception",
+        "jp": "お足元にお気をつけてお帰りください。",
+        "en": "Please watch your step as you exit.",
+        "ru": "Пожалуйста, смотрите под ноги при выходе."
+    },
+    {
+        "id": "M5660_S0050_G0230_001_reception",
+        "jp": "スタンプをご希望の方は、どうぞコチラまで。",
+        "en": "If you'd like to have your card stamped, please come this way.",
+        "ru": "Если хотите получить печать на карту, пожалуйста, подходите сюда."
+    },
+    {
+        "id": "M5660_S0050_G0240_001_reception",
+        "jp": "はい、どうぞ。",
+        "en": "Right then. Here you are.",
+        "ru": "Порядок. Вот, возьмите."
+    },
+    {
+        "id": "M5660_S0050_G0250_001_reception",
+        "jp": "あれ？既にこのアトラクションはスタンプ押されていますね。",
+        "en": "Hmm? You've already received the stamp for this attraction.",
+        "ru": "Хм? Вы уже получили печать на этом аттракционе."
+    },
+    {
+        "id": "M5660_S0050_G0260_001_audience",
+        "jp": "アア、ジュリエット、ジュリエット……\\n君ヲ思うと何故だかコアが熱クなるヨ……",
+        "en": "Oh, Juliet, Juliet... Just thinking of you makes my core all warm and fuzzy.",
+        "ru": "Ох, Джульетта, Джульетта... Одни лишь мысли о тебе согревают моё ядро."
+    },
+    {
+        "id": "M5660_S0050_G0270_001_audience",
+        "jp": "コノ劇、何カオカシクないカ？",
+        "en": "This play doesn't make any sense at all.",
+        "ru": "Эта пьеса такая бестолковая."
+    },
+    {
+        "id": "M5660_S0050_G0280_001_audience",
+        "jp": "ブラボー、ナンテ素晴らしい劇ナんだ！",
+        "en": "Bravo! Truly a most spectacular performance!",
+        "ru": "Браво! Действительно захватывающее представление!"
+    },
+    {
+        "id": "M5660_S0050_G0290_001_audience",
+        "jp": "ロミオが３体、ジュリエットが３体……\\n最後はロミオもジュリエットも０体……",
+        "en": "So we started out with 3 Romeos and 3 Juliets, and now there are none...",
+        "ru": "Так, мы начали с 3-мя Ромео и 3-мя Джульеттами, и теперь нет ни одного..."
+    },
+    {
+        "id": "M5660_S0050_G0300_001_audience",
+        "jp": "ソウカ……コレガ真理か！",
+        "en": "Wait! It's all starting to make sense now!!",
+        "ru": "Подождите! Теперь всё становится понятным!"
+    },
+    {
+        "id": "M5660_S0050_G0310_001_audience",
+        "jp": "フム、コレが過去に残ル有名ナ文献か、ワタクシの見解によるとコノ話は\\n人の残虐性を説いた物デスネ。",
+        "en": "So this is a piece of literature from the old world? Hmmm. I believe it speaks of the cruelty of mankind.",
+        "ru": "Итак, это отрывок произведения из старого мира? Хм. Я полагаю, это посыл о жестокости человечества."
+    },
+    {
+        "id": "M5660_S0050_G0320_001_audience",
+        "jp": "感動スル劇がアルト聞いテ村からハルバル見ニ来たんダ。",
+        "en": "I came all the way here from the village to see this play everyone's been talking about.",
+        "ru": "Я притащился сюда из деревни, чтобы посмотреть на эту пьесу, о которой все говорили."
+    },
+    {
+        "id": "M5660_S0050_G0330_001_audience",
+        "jp": "コレが感動するとイウ事なんダネ！\\n村に帰ったら友達ニモ教えてあげルンダ！",
+        "en": "I haven't been this deeply moved by anything before! I'm going to go home and tell all my friends!",
+        "ru": "Никогда прежде не испытывал такого волнения! Я пойду домой и расскажу всем своим друзьям!"
+    },
+    {
+        "id": "M5660_S0060_G0000_001_pod042",
+        "jp": "報告：全てのスタンプを入手完了。",
+        "en": "Alert: All stamps have been obtained.",
+        "ru": "Внимание: собраны все печати."
+    },
+    {
+        "id": "M5660_S0060_G0010_001_pod042",
+        "jp": "推奨：受付で豪華景品を入手。",
+        "en": "Proposal: Return to the entrance and secure the promised \"deluxe prize.\"",
+        "ru": "Предложение: вернитесь к входу и получите обещанный \"шикарный приз\"."
+    },
+    {
+        "id": "M5660_S0060_G0020_001_a2b",
+        "jp": "豪華、景品……",
+        "en": "Deluxe, huh?",
+        "ru": "Шикарный, да?"
+    },
+    {
+        "id": "M5660_S0060_G0030_001_pod153",
+        "jp": "報告：全てのスタンプを入手完了。",
+        "en": "Alert: All stamps have been obtained.",
+        "ru": "Внимание: собраны все печати."
+    },
+    {
+        "id": "M5660_S0060_G0040_001_pod153",
+        "jp": "推奨：受付で豪華景品を入手。",
+        "en": "Proposal: Return to the entrance and secure the promised \"deluxe prize.\"",
+        "ru": "Предложение: вернитесь к входу и получите обещанный \"шикарный приз\"."
+    },
+    {
+        "id": "M5660_S0060_G0050_001_a9s",
+        "jp": "豪華、景品ねぇ……",
+        "en": "Deluxe? We'll see...",
+        "ru": "Шикарный? Ну-с, поглядим..."
+    },
+    {
+        "id": "M5660_S0060_G0060_001_roborece",
+        "jp": "スタンプを全て集めたんデスネ。オメデトウゴザイマス！",
+        "en": "Hey, you got all the stamps! Great job!",
+        "ru": "Эй, вы собрали все печати. Отличная работа!"
+    },
+    {
+        "id": "M5660_S0060_G0070_001_roborece",
+        "jp": "楽しんでイタダケマシタカ？イタダケマセンデシタカ？",
+        "en": "Did you enjoy your time here? Or maybe not?",
+        "ru": "Вы весело провели здесь время? Или нет?"
+    },
+    {
+        "id": "M5660_S0060_G0080_001_roborece",
+        "jp": "マアドチラデモいいです……ケド、本当はワカッテイルンデショウ？",
+        "en": "Well, it doesn't really matter. Though I'm sure you realize that by now.",
+        "ru": "Ну, это не столь важно. Хотя, я уверен, что теперь вы это понимаете."
+    },
+    {
+        "id": "M5660_S0060_G0090_001_roborece",
+        "jp": "貴方が楽シメルかドウカは、貴方ノ心ノ問題にしか存在シマセン。",
+        "en": "Whether or not you enjoy something simply depends on your own heart.",
+        "ru": "Получаете ли вы удовольствие или нет от чего-нибудь, зависит лишь от вашего сердца."
+    },
+    {
+        "id": "M5660_S0060_G0100_001_roborece",
+        "jp": "コノ施設はソレを映し出す、鏡ノヨウナモノです。",
+        "en": "This place is but a mirror that reflects one's true self back at them.",
+        "ru": "Это место — лишь зеркало, которое отражает их истинное я."
+    },
+    {
+        "id": "M5660_S0060_G0110_001_roborece",
+        "jp": "ハイ、コレをドウゾ。スタンプを全部集めた方へお渡しスル景品デス。",
+        "en": "Anyway, here you go: One deluxe prize, coming up.",
+        "ru": "В любом случае, это вам: один шикарный приз за старания."
+    },
+    {
+        "id": "M5660_S0060_G0120_001_roborece",
+        "jp": "マタ遊びに来てクダサイネ！",
+        "en": "Come again anytime!",
+        "ru": "Возвращайтесь в любое время!"
+    },
+    {
+        "id": "M5660_S0060_G0090_001_roborece",
+        "jp": "貴方が楽シメルかドウカは、貴方ノ心ノ問題にしか存在シマセン。",
+        "en": "Whether or not you enjoy something simply depends on your own heart.",
+        "ru": "Получаете ли вы удовольствие или нет от чего-нибудь, зависит лишь от вашего сердца."
+    },
+    {
+        "id": "M5660_S0060_G0120_001_roborece",
+        "jp": "マタ遊びに来てクダサイネ！",
+        "en": "Come again anytime!",
+        "ru": "Возвращайтесь в любое время!"
+    }
+]

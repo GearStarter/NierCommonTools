@@ -1,0 +1,230 @@
+[
+    {
+        "id": "M5222_S0010_G0000_001_pascal",
+        "jp": "ああ、Ａ２さん。",
+        "en": "Hello, A2.",
+        "ru": "Приветствую, A2."
+    },
+    {
+        "id": "M5222_S0010_G0010_001_pascal",
+        "jp": "遊び場の件、ありがとうございました。\\n本当に感謝しています……",
+        "en": "I appreciate all the time and effort you took for our children.",
+        "ru": "Я ценю усилия и время, которые ты потратила на наших детей."
+    },
+    {
+        "id": "M5222_S0010_G0020_001_pascal",
+        "jp": "あの子達は、私にとって……",
+        "en": "Every one of them is a singular treasure to me.",
+        "ru": "Каждый из них для меня — уникальное сокровище."
+    },
+    {
+        "id": "M5222_S0010_G0030_001_pascal",
+        "jp": "いえ、この村にとって宝であり、将来の希望なんです。",
+        "en": "Indeed, they are treasures to the entire village! Our very future rests in their little hands.",
+        "ru": "Верно, они — сокровища нашей деревни! Наше будущее в их маленьких ручках."
+    },
+    {
+        "id": "M5222_S0010_G0040_001_pascal",
+        "jp": "機械生命体の私達が将来を語るなんて、おかしいと思いますか？",
+        "en": "I imagine you find it odd for machines to speak of the future like this.",
+        "ru": "Полагаю, тебе странно видеть, как машина пытается рассуждать о будущем."
+    },
+    {
+        "id": "M5222_S0010_G0050_001_a2",
+        "jp": "……さあ。",
+        "en": "I dunno.",
+        "ru": "Я не знаю."
+    },
+    {
+        "id": "M5222_S0010_G0060_001_pascal",
+        "jp": "あの子達ならきっと、この不毛な争いにも負けずに、\\n新たな道を切り拓いてくれる。",
+        "en": "I trust that our children can stand strong against the senseless conflicts of this world and blaze a new trail for our people.",
+        "ru": "Я верю, что наши дети смогут противостоять бессмысленным конфликтам этого мира, и проложат новый путь для нашего народа."
+    },
+    {
+        "id": "M5222_S0010_G0070_001_pascal",
+        "jp": "私は、そう信じているんです。でも……",
+        "en": "However...",
+        "ru": "Однако..."
+    },
+    {
+        "id": "M5222_S0010_G0080_001_pascal",
+        "jp": "実は村の子供の中に、記憶素子の調子が悪い子がおりまして。",
+        "en": "One of the children is suffering from a faulty storage element.",
+        "ru": "У одного из наших детей поврежден блок памяти."
+    },
+    {
+        "id": "M5222_S0010_G0090_001_pascal",
+        "jp": "このままだとあの子は……",
+        "en": "If we don't do something for the child—",
+        "ru": "Если мы что-нибудь не сделаем, ребёнок..."
+    },
+    {
+        "id": "M5222_S0010_G0100_001_a2",
+        "jp": "修理すればいいじゃないか。",
+        "en": "So repair it already.",
+        "ru": "Возьмите и почините его."
+    },
+    {
+        "id": "M5222_S0010_G0110_001_pascal",
+        "jp": "それが、必要な素材が不足してるんです。",
+        "en": "Alas, we lack the parts to do so.",
+        "ru": "Увы, у нас нет деталей для этого."
+    },
+    {
+        "id": "M5222_S0010_G0120_001_pascal",
+        "jp": "その素材は工場廃墟でしか手に入らないのですが、\\nそこには凶暴な機械生命体が多くて……",
+        "en": "They can only be found deep within the abandoned factory, and that area is swarming with terrible machines...",
+        "ru": "Их можно найти только в глубинах заброшенной фабрики, а эта область кишит ужасными машинами..."
+    },
+    {
+        "id": "M5222_S0010_G0130_001_pascal",
+        "jp": "Ａ２さんなら、と思い恥を忍んでお願いしている次第なのです。",
+        "en": "It pains me to say this, but you, A2, are the only one we can turn to.",
+        "ru": "Мне больно это признавать, но, A2, ты единственная, кто способен сделать это."
+    },
+    {
+        "id": "M5222_S0010_G0140_001_sele",
+        "jp": "手を貸す。",
+        "en": "Help Pascal.",
+        "ru": "Помочь Паскалю."
+    },
+    {
+        "id": "M5222_S0010_G0150_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5222_S0010_G0190_001_pascal",
+        "jp": "ありがとうございます！",
+        "en": "Thank you so much.",
+        "ru": "Большое спасибо."
+    },
+    {
+        "id": "M5222_S0010_G0200_001_pascal",
+        "jp": "必要な素材は工場廃墟にありますので、どうかよろしくお願いします。",
+        "en": "The required part is in the area known as the abandoned factory. I truly do appreciate this.",
+        "ru": "Необходимая деталь находится в области заброшенной фабрики. Я буду тебе очень благодарен."
+    },
+    {
+        "id": "M5222_S0010_G0160_001_pascal",
+        "jp": "そうですか……もしご都合がつくようでしたら、考えておいてください。",
+        "en": "I understand. Though I hope you will reconsider at a later time.",
+        "ru": "Понимаю. Хотя, надеюсь, что позже ты передумаешь."
+    },
+    {
+        "id": "M5222_S0010_G0170_001_pascal",
+        "jp": "村の子供の修理をしてやる為には素材が必要なんです。",
+        "en": "We need a certain part to repair one of the children.",
+        "ru": "Чтобы произвести ремонт ребёнка, нам нужна одна определённая деталь."
+    },
+    {
+        "id": "M5222_S0010_G0180_001_pascal",
+        "jp": "どうか手を貸していただけませんか？",
+        "en": "Would you perhaps lend us your aid?",
+        "ru": "Не могла бы ты помочь нам?"
+    },
+    {
+        "id": "M5222_S0010_G0140_001_sele",
+        "jp": "手を貸す。",
+        "en": "Help Pascal.",
+        "ru": "Помочь Паскалю."
+    },
+    {
+        "id": "M5222_S0010_G0150_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5222_S0010_G0210_001_pascal",
+        "jp": "子供の修理に必要な素材は工場廃墟にあります。",
+        "en": "The part needed to repair the child is in the area known as the abandoned factory.",
+        "ru": "Деталь, необходимая для ремонта ребёнка, находится в области заброшенной фабрики."
+    },
+    {
+        "id": "M5222_S0010_G0220_001_pascal",
+        "jp": "大変お手数ですが、よろしくお願いします。",
+        "en": "I appreciate your help.",
+        "ru": "Я очень ценю твою помощь."
+    },
+    {
+        "id": "M5222_S0020_G0000_001_pod042",
+        "jp": "敵性機械生命体の破壊を確認。",
+        "en": "Enemy machines destroyed.",
+        "ru": "Противники уничтожены."
+    },
+    {
+        "id": "M5222_S0020_G0010_001_a2",
+        "jp": "これがパスカルの欲しがっていた記憶素子の素材か。",
+        "en": "So this is the part Pascal wanted?",
+        "ru": "Значит, вот эта деталь нужна Паскалю?"
+    },
+    {
+        "id": "M5222_S0020_G0020_001_a2",
+        "jp": "機械生命体の子供を守る為に、別の機械生命体を殺す……",
+        "en": "Can't believe I'm killing machines to save a machine.",
+        "ru": "Поверить не могу, что убиваю машины, чтобы спасти машину."
+    },
+    {
+        "id": "M5222_S0020_G0030_001_a2",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5222_S0020_G0040_001_a2",
+        "jp": "パスカルのところへ、素材を届けよう。",
+        "en": "Ah, screw it. Better go see Pascal.",
+        "ru": "А, к чёрту всё это. Пойду-ка наведаюсь к Паскалю."
+    },
+    {
+        "id": "M5222_S0030_G0000_001_pascal",
+        "jp": "ああ！Ａ２さん。子供を修理する為の素材を\\n集めてきてくださったんですね。",
+        "en": "Ah, A2! You have the part needed to repair the child!",
+        "ru": "О, A2! Ты добыла деталь для ремонта ребёнка!"
+    },
+    {
+        "id": "M5222_S0030_G0010_001_pascal",
+        "jp": "ありがとうございます。",
+        "en": "I cannot thank you enough.",
+        "ru": "Даже и не знаю, как мне тебя отблагодарить."
+    },
+    {
+        "id": "M5222_S0030_G0020_001_pascal",
+        "jp": "こちら、とても足りないと思いますが、お礼という事で……",
+        "en": "This is meager compared to what you've done, but please take it.",
+        "ru": "Это ничто по сравнению с тем, что сделала ты, но всё же, прими это."
+    },
+    {
+        "id": "M5222_S0030_G0030_001_pascal",
+        "jp": "……本当はわざわざ修理せずとも、新しい身体にコアを移せばいい\\n話なんです。",
+        "en": "In all honestly, we could have transferred the child's core to another body instead of repairing the original.",
+        "ru": "Честно говоря, мы бы могли переместить ядро ребёнка в другое тело вместо того, что б чинить старое."
+    },
+    {
+        "id": "M5222_S0030_G0040_001_pascal",
+        "jp": "そうすれば、私達は何度でも生き返る事ができる。",
+        "en": "This process allows us to resurrect ourselves as many times as we want.",
+        "ru": "Этот процесс позволяет нам перерождаться столько раз, сколько мы пожелаем."
+    },
+    {
+        "id": "M5222_S0030_G0050_001_pascal",
+        "jp": "けれど……記憶は失われてしまいます。",
+        "en": "However, it comes at the cost of our memories.",
+        "ru": "Однако это осуществляется ценой наших воспоминаний."
+    },
+    {
+        "id": "M5222_S0030_G0060_001_pascal",
+        "jp": "それは、もう……その子ではないような気がして。",
+        "en": "So in a way, he would no longer be the same child.",
+        "ru": "Таким образом, он уже не будет тем же ребёнком."
+    },
+    {
+        "id": "M5222_S0030_G0070_001_pascal",
+        "jp": "本当に、ありがとうございました！",
+        "en": "Thankfully, this is no longer an issue. Thank you so much!",
+        "ru": "К счастью, теперь это не проблема. Большое тебе спасибо!"
+    }
+]

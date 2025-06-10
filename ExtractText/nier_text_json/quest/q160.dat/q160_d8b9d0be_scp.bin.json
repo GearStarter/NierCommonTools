@@ -1,0 +1,284 @@
+[
+    {
+        "id": "M5160_S0010_G0000_001_cmd",
+        "jp": "ああ、そういえば頼みたい仕事がある。",
+        "en": "Actually, there's something I needed to ask you.",
+        "ru": "Вы очень кстати, я хотела спросить у вас кое-что."
+    },
+    {
+        "id": "M5160_S0010_G0010_001_cmd",
+        "jp": "君達には、地上とこことの通信環境の改善を行ってもらいたい。",
+        "en": "We need your help improving the network environment between the Bunker and the surface.",
+        "ru": "Нам нужна помощь в улучшении сети коммуникаций между Бункером и поверхностью."
+    },
+    {
+        "id": "M5160_S0010_G0020_001_cmd",
+        "jp": "これは、より効率の良い作戦展開を図る為だ。",
+        "en": "Doing so will allow us to carry out our operations in a more efficient manner.",
+        "ru": "Данные манипуляции позволят нам вести операции более эффективно."
+    },
+    {
+        "id": "M5160_S0010_G0030_001_cmd",
+        "jp": "まずは、レジスタンスキャンプのリーダーに必要な資材を届けて欲しい。",
+        "en": "First, I need you to transport the required materials to the leader of the Resistance camp.",
+        "ru": "Для начала, вам нужно доставить необходимые материалы лидеру лагеря Сопротивления."
+    },
+    {
+        "id": "M5160_S0010_G0040_001_cmd",
+        "jp": "資材の入手方法は、地上降下後にオペレーターを通じて伝える。",
+        "en": "I'll have an operator explain how to obtain the materials once you touch down.",
+        "ru": "После высадки оператор объяснит вам, как добыть материалы."
+    },
+    {
+        "id": "M5160_S0010_G0050_001_a9s",
+        "jp": "了解しました。",
+        "en": "Yes, Commander.",
+        "ru": "Так точно, Командор."
+    },
+    {
+        "id": "M5160_S0000_G0000_300_cmd",
+        "jp": "必要な素材はレジスタンスリーダーに届けてくれ。",
+        "en": "Take the necessary materials to the Resistance leader.",
+        "ru": "Передайте необходимые материалы лидеру Сопротивления."
+    },
+    {
+        "id": "M5160_S0020_G0000_001_op60",
+        "jp": "オペレーターより２Ｂさんへ。",
+        "en": "Operator to 2B. Come in, 2B.",
+        "ru": "Оператор вызывает 2B. Приём, 2B."
+    },
+    {
+        "id": "M5160_S0020_G0010_001_op60",
+        "jp": "通信環境改善の為に必要な資材を収集してください。",
+        "en": "We need you to collect the materials required to improve the network environment.",
+        "ru": "Вам нужно собрать необходимые материалы в целях улучшения сети коммуникаций."
+    },
+    {
+        "id": "M5160_S0020_G0020_001_op60",
+        "jp": "必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』です。",
+        "en": "You're going to need a rusty bolt, a small gear, and a broken key.",
+        "ru": "Вам потребуются: ржавый болт, маленькая шестерня и сломанный ключ."
+    },
+    {
+        "id": "M5160_S0020_G0021_001_op60",
+        "jp": "素材は小型の敵から入手出来る場合があるみたいです。",
+        "en": "You should be able to find them on small-sized enemies.",
+        "ru": "Их можно добыть из машин маленького размера."
+    },
+    {
+        "id": "M5160_S0020_G0030_001_op60",
+        "jp": "資材が集まったらレジスタンスキャンプのリーダー、\\nアネモネさんに渡してくださいね。",
+        "en": "Once you have everything, please take it to the Resistance leader, Anemone.",
+        "ru": "Как соберёте всё необходимое, передайте их лидеру Сопротивления, Анемоне."
+    },
+    {
+        "id": "M5160_S0020_G0040_001_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5160_S0020_G0050_001_op60",
+        "jp": "少し大変ですけど、頑張ってくださいね、２Ｂさん！",
+        "en": "I know it's a bit of a pain, but good luck!",
+        "ru": "Я знаю, это немного неудобно, но удачи вам!"
+    },
+    {
+        "id": "M5920_S0010_G0280_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5160_S0020_G0060_001_op210",
+        "jp": "オペレーターより９Ｓへ。",
+        "en": "Operator to 9S.",
+        "ru": "Оператор вызывает 9S."
+    },
+    {
+        "id": "M5160_S0020_G0070_001_op60",
+        "jp": "通信環境改善の為に必要な資材を伝えます。",
+        "en": "I will now relay the materials necessary to improve the network environment.",
+        "ru": "Сейчас я сообщу вам список материалов, необходимых для улучшения сети коммуникаций."
+    },
+    {
+        "id": "M5160_S0020_G0080_001_op60",
+        "jp": "必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』。",
+        "en": "You need to acquire a rusty bolt, a small gear, and a broken key.",
+        "ru": "Вам необходимо добыть: ржавый болт, маленькую шестерню и сломанный ключ."
+    },
+    {
+        "id": "M5160_S0020_G0081_001_op60",
+        "jp": "素材は小型の敵から入手出来る場合があるようです。",
+        "en": "You should be able to find them on small-sized enemies.",
+        "ru": "Их можно добыть из машин маленького размера."
+    },
+    {
+        "id": "M5160_S0020_G0090_001_op60",
+        "jp": "資材が集まったらレジスタンスキャンプのアネモネリーダーに\\n資材を渡すように。",
+        "en": "Once you have the materials, bring them to Anemone, the leader of the Resistance.",
+        "ru": "Как раздобудете материалы, отнесите их Анемоне, лидеру Сопротивления."
+    },
+    {
+        "id": "M5160_S0020_G0100_001_a9s",
+        "jp": "了解でーす。",
+        "en": "Gotcha.",
+        "ru": "Ясно."
+    },
+    {
+        "id": "M5160_S0020_G0110_001_op210",
+        "jp": "語尾は伸ばす必要はありません。以上。",
+        "en": "\"Gotcha\" is not an approved form of radio engagement, 9S. Operator 21O out.",
+        "ru": "\"Ясно\" не является уставной формой при радиосвязи, 9S. Оператор 21O — конец связи."
+    },
+    {
+        "id": "M5920_S0020_G0280_001_pod153",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5160_S0030_G0000_001_op60",
+        "jp": "オペレーター６Ｏより２Ｂさんへ。",
+        "en": "Operator 6O to 2B.",
+        "ru": "Оператор 6O вызывает 2B."
+    },
+    {
+        "id": "M5160_S0030_G0010_001_op60",
+        "jp": "通信環境改善に必要な素材が全て手に入ったようですね。",
+        "en": "Looks like you found all the necessary parts to improve our network environment. Nice work!",
+        "ru": "Похоже, что вы собрали все необходимые детали для улучшения сети коммуникаций. Отличная работа!"
+    },
+    {
+        "id": "M5160_S0030_G0020_001_op60",
+        "jp": "収集した素材はアネモネさんに渡してください。それで任務は終了です。",
+        "en": "You can conclude your mission by bringing everything over to Anemone.",
+        "ru": "Вы можете завершить своё задание, передав материалы Анемоне."
+    },
+    {
+        "id": "M5160_S0030_G0030_001_op210",
+        "jp": "オペレーター２１Ｏより９Ｓへ。",
+        "en": "Operator 21O to 9S.",
+        "ru": "Оператор 21O вызывает 9S."
+    },
+    {
+        "id": "M5160_S0030_G0040_001_op60",
+        "jp": "通信環境改善に必要な素材が揃った事を確認しました。",
+        "en": "I've confirmed that you have the necessary parts to improve our network environment.",
+        "ru": "Подтверждаю наличие всех необходимых для улучшения коммуникаций материалов."
+    },
+    {
+        "id": "M5160_S0030_G0050_001_op60",
+        "jp": "収集した素材はレジスタンスリーダーに渡してください。以上。",
+        "en": "Take the materials to Anemone in the Resistance camp. Operator 21O out.",
+        "ru": "Отнесите эти материалы Анемоне в лагерь Сопротивления. Оператор 21O — конец связи."
+    },
+    {
+        "id": "M5160_S0040_G0000_001_ane",
+        "jp": "バンカーから連絡は受けている。",
+        "en": "I heard about this from the Bunker.",
+        "ru": "Я уже слышала об этом из Бункера."
+    },
+    {
+        "id": "M5160_S0040_G0010_001_ane",
+        "jp": "通信環境整備の為に必要な資材だな。確かに受け取った。",
+        "en": "These are the parts we need for our network structure, right? Thanks for bringing them over.",
+        "ru": "Это детали, которые нужны для нашей структуры коммуникаций, так ведь? Спасибо, что принесли их."
+    },
+    {
+        "id": "M5160_S0040_G0020_001_ane",
+        "jp": "これは、少ないけど謝礼だ。\\n規定違反だろうから、司令官には内緒にしておくよ。",
+        "en": "It's not much, but I have a reward for you. Oh, but don't tell the Commander—it's probably against regulations.",
+        "ru": "Мелочь, конечно, но я должна вознаградить вас. Ой, но не говорите Командору, скорее всего, это против правил."
+    },
+    {
+        "id": "M6090_S0010_G0000_300_ane",
+        "jp": "調子はどうだ？\\nあまり無茶するなよ。",
+        "en": "How's it going? You hanging in there?",
+        "ru": "Как дела? Решили передохнуть?"
+    },
+    {
+        "id": "M5160_S0040_G0030_001_a2b",
+        "jp": "２Ｂからオペレーター６Ｏへ。資材の受け渡しを完了。",
+        "en": "2B to Operator 6O. Material handover complete.",
+        "ru": "2B вызывает оператора 6O. Передача материала завершена."
+    },
+    {
+        "id": "M5160_S0040_G0040_001_op60",
+        "jp": "了解です。おつかれ様でした！",
+        "en": "Copy that. Good work!",
+        "ru": "Принято. Хорошая работа!"
+    },
+    {
+        "id": "M5160_S0040_G0050_001_a9s",
+        "jp": "……全く、相変わらず司令官は人使いが荒いですよね。",
+        "en": "I see the Commander's as much of a slave driver as ever.",
+        "ru": "Командор, как и всегда, похожа на тирана."
+    },
+    {
+        "id": "M5160_S0040_G0060_001_a9s",
+        "jp": "ルールにも厳しいし、効率優先のロボットみたいな\\n生活を送ってるんでしょうね。",
+        "en": "It's like she was built to be as efficient and hard-assed as possible.",
+        "ru": "Похоже, что её специально создали, чтобы достичь максимальной эффективности и усердия."
+    },
+    {
+        "id": "M5160_S0040_G0070_001_op60",
+        "jp": "司令官はそんなにお固くないですよ？",
+        "en": "Aw, she's not so bad.",
+        "ru": "О, да не такая уж она и плохая."
+    },
+    {
+        "id": "M5160_S0040_G0080_001_a9s",
+        "jp": "え？どういうコトですか？",
+        "en": "Are you serious?",
+        "ru": "Вы это серьёзно?"
+    },
+    {
+        "id": "M5160_S0040_G0090_001_op60",
+        "jp": "司令官って、ああ見えて意外に大雑把なんです。",
+        "en": "Totally serious! The Commander actually lets a lot of things slide on the side.",
+        "ru": "На полном серьёзе! Вообще-то, Командор довольно многое упускает из виду."
+    },
+    {
+        "id": "M5160_S0040_G0100_001_op60",
+        "jp": "服なんて脱いだら脱ぎっぱなしの溜めっぱなしなので、\\nよく洗濯班が嘆いてるんですよ。",
+        "en": "Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is SO sick of it.",
+        "ru": "К примеру, вы знали, что она повсюду разбрасывает одежду?\\nКоманда уборщиков ТАК устала от этого."
+    },
+    {
+        "id": "M5160_S0040_G0110_001_op60",
+        "jp": "それに、自分のボディのメンテナンスチェックとか\\n全然実行しないんですよね。",
+        "en": "Oh, and she never performs regular maintenance on herself.",
+        "ru": "О, и она никогда не проводит самостоятельно своё регулярное техобслуживание."
+    },
+    {
+        "id": "M5160_S0040_G0120_001_op60",
+        "jp": "そういう雑な所を人に見せないのが司令官らしいんですけど。",
+        "en": "A lot of the \"hard-ass\" nature you mention is just for show.",
+        "ru": "Вся эта природная \"бескомпромиссность\" только для виду."
+    },
+    {
+        "id": "M5160_S0040_G0130_001_a2b",
+        "jp": "貴方はどうしてそれを知ってるの？",
+        "en": "How do you know all this?",
+        "ru": "И откуда вы всё это узнали?"
+    },
+    {
+        "id": "M5160_S0040_G0140_001_op60",
+        "jp": "ふふふっ……秘密です。",
+        "en": "Hee hee! I can't tell you that...",
+        "ru": "Хи-хи! Это секрет."
+    },
+    {
+        "id": "M5160_S0040_G0150_001_op60",
+        "jp": "それでは。",
+        "en": "Operator 6O out.",
+        "ru": "До связи!"
+    },
+    {
+        "id": "M5160_S0040_G0160_001_a9s",
+        "jp": "秘密……",
+        "en": "What the heck was all that about?",
+        "ru": "Секрет..."
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "M0010_S0140_G0000_201_op210",
+        "jp": "攻撃部隊支援の為、敵の防衛システムをダウンさせます。",
+        "en": "We'll need you to take down the enemy's defense systems to give our attack squadron a chance.",
+        "ru": "Вам необходимо отключить системы защиты противника, чтобы у нашей эскадрильи появился шанс на атаку."
+    },
+    {
+        "id": "M0010_S0140_G0010_201_op210",
+        "jp": "ハッキングターゲットは４箇所。",
+        "en": "You have four targets that need to be hacked.",
+        "ru": "У вас будет четыре цели, которые вы должны будете взломать."
+    },
+    {
+        "id": "M0010_S0140_G0020_201_op210",
+        "jp": "目標の周囲には敵の反応がありますので、まず排除してください。",
+        "en": "Be advised that hostiles have been detected around each target and must be defeated before continuing.",
+        "ru": "Имейте в виду — для проведения взлома будет необходимо сначала зачистить область от врагов."
+    },
+    {
+        "id": "M0010_S0140_G0030_201_op210",
+        "jp": "目標へのアクセスが可能になりました。",
+        "en": "The target is now accessible.",
+        "ru": "Теперь цель доступна."
+    },
+    {
+        "id": "M0010_S0140_G0040_201_a9s",
+        "jp": "ハイハーイ。",
+        "en": "Yeah, yeah.",
+        "ru": "Да, да."
+    },
+    {
+        "id": "M0010_S0140_G0050_201_op210",
+        "jp": "ハイは一回でいいです。",
+        "en": "One affirmation will suffice.",
+        "ru": "Одного подтверждения будет достаточно."
+    },
+    {
+        "id": "M0010_S0140_G0060_201_a9s",
+        "jp": "ハーイ。",
+        "en": "Fine.",
+        "ru": "Хорошо."
+    },
+    {
+        "id": "M0010_S0140_G0070_201_op210",
+        "jp": "ハッキング完了。次の目標へ向かってください。",
+        "en": "Hacking complete. Proceed to the next target.",
+        "ru": "Взлом завершён. Переходите к следующей цели."
+    },
+    {
+        "id": "M0010_S0140_G0080_201_op210",
+        "jp": "ハッキング完了。残り２箇所です。",
+        "en": "Hacking complete. Two targets remain.",
+        "ru": "Взлом завершён. Осталось две цели."
+    },
+    {
+        "id": "M0010_S0140_G0090_201_op210",
+        "jp": "ハッキング完了。残り1箇所です。",
+        "en": "Hacking complete. One target remains.",
+        "ru": "Взлом завершён. Осталась одна цель."
+    },
+    {
+        "id": "M0010_S0140_G0100_201_a9s",
+        "jp": "いやー。意外と面倒くさいですね。",
+        "en": "Man, this is a real pain...",
+        "ru": "Блин, сколько проблем..."
+    },
+    {
+        "id": "M0010_S0140_G0110_201_op210",
+        "jp": "作戦中の私語は認められません。",
+        "en": "May I remind you that personal chatter during operations is restricted?",
+        "ru": "Могу я напомнить вам о том, что выражать своё мнение во время операции запрещено?"
+    },
+    {
+        "id": "M0010_S0140_G0120_201_a9s",
+        "jp": "ハーイ。",
+        "en": "Fiiiine.",
+        "ru": "Хо-ро-шо."
+    },
+    {
+        "id": "M0010_S0140_G0130_201_op210",
+        "jp": "敵防衛システムのハッキングを完了しました。",
+        "en": "Hacking of enemy defense system complete.",
+        "ru": "Взлом систем защиты завершён."
+    },
+    {
+        "id": "M0010_S0140_G0140_201_op210",
+        "jp": "これで攻撃部隊の侵入が可能になります。",
+        "en": "Our attack squadron can now infiltrate the base.",
+        "ru": "Теперь наша эскадрилья сможет приступить к проникновению на базу."
+    },
+    {
+        "id": "M0010_S0140_G0150_201_op210",
+        "jp": "引き続き、侵入した攻撃部隊の支援にあたってください。",
+        "en": "You are to continue providing support by whatever means available.",
+        "ru": "Продолжайте оказывать поддержку любыми доступными средствами."
+    }
+]

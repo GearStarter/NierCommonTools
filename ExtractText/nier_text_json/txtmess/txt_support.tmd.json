@@ -1,0 +1,3458 @@
+[
+    {
+        "id": "SUPPORT_BASE_00",
+        "jp": "<NAME> 「【<SENTENCE_01>】【<CONJUNCTION>】【<SENTENCE_02>】」 【<COUNTRY>】",
+        "en": "<NAME> \"[<SENTENCE_01>] [<CONJUNCTION>] [<SENTENCE_02>]\" [<COUNTRY>]",
+        "ru": "<NAME> \"[<SENTENCE_01>] [<CONJUNCTION>] [<SENTENCE_02>]\" [<COUNTRY>]"
+    },
+    {
+        "id": "SUPPORT_BASE_01",
+        "jp": "<NAME> 「<SENTENCE_01><CONJUNCTION><SENTENCE_02>」　<COUNTRY>",
+        "en": "<NAME> \"<SENTENCE_01> <CONJUNCTION> <SENTENCE_02>\" <COUNTRY>",
+        "ru": "<NAME> \"<SENTENCE_01> <CONJUNCTION> <SENTENCE_02>\" <COUNTRY>"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_000",
+        "jp": "アメリカ",
+        "en": "USA",
+        "ru": "Россия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_001",
+        "jp": "カナダ",
+        "en": "Canada",
+        "ru": "Украина"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_002",
+        "jp": "アルゼンチン",
+        "en": "Argentina",
+        "ru": "Белоруссия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_003",
+        "jp": "アンティグア・バーブーダ",
+        "en": "Antigua and Barbuda",
+        "ru": "Антигуа и Барбуда"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_004",
+        "jp": "ウルグアイ",
+        "en": "Uruguay",
+        "ru": "Уругвай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_005",
+        "jp": "エクアドル",
+        "en": "Ecuador",
+        "ru": "Эквадор"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_006",
+        "jp": "エルサルバドル",
+        "en": "El Salvador",
+        "ru": "Сальвадор"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_007",
+        "jp": "ガイアナ",
+        "en": "Guyana",
+        "ru": "Гайана"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_008",
+        "jp": "キューバ",
+        "en": "Cuba",
+        "ru": "Куба"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_009",
+        "jp": "グアテマラ",
+        "en": "Guatemala",
+        "ru": "Гватемала"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_010",
+        "jp": "グレナダ",
+        "en": "Grenada",
+        "ru": "Гренада"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_011",
+        "jp": "コスタリカ",
+        "en": "Costa Rica",
+        "ru": "Коста-Рика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_012",
+        "jp": "コロンビア",
+        "en": "Colombia",
+        "ru": "Колумбия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_013",
+        "jp": "ジャマイカ",
+        "en": "Jamaica",
+        "ru": "Ямайка"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_014",
+        "jp": "スリナム",
+        "en": "Suriname",
+        "ru": "Суринам"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_015",
+        "jp": "セントビンセントおよびグレナディーン諸島",
+        "en": "St. Vincent and the Grenadines",
+        "ru": "Сент-Винсент и Гренадины"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_016",
+        "jp": "セントクリストファー・ネーヴィス",
+        "en": "St. Christopher and Nevis",
+        "ru": "Сент-Китс и Невис"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_017",
+        "jp": "セントルシア",
+        "en": "Saint Lucia",
+        "ru": "Сент-Люсия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_018",
+        "jp": "チリ",
+        "en": "Chile",
+        "ru": "Чили"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_019",
+        "jp": "ドミニカ国",
+        "en": "Dominica",
+        "ru": "Доминика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_020",
+        "jp": "ドミニカ共和国",
+        "en": "Dominican Republic",
+        "ru": "Доминиканская Республика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_021",
+        "jp": "トリニダード・トバゴ",
+        "en": "Trinidad and Tobago",
+        "ru": "Тринидад и Тобаго"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_022",
+        "jp": "ニカラグア",
+        "en": "Nicaragua",
+        "ru": "Никарагуа"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_023",
+        "jp": "ハイチ",
+        "en": "Haiti",
+        "ru": "Гаити"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_024",
+        "jp": "パナマ",
+        "en": "Panama",
+        "ru": "Панама"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_025",
+        "jp": "バハマ",
+        "en": "Bahamas",
+        "ru": "Багамы"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_026",
+        "jp": "パラグアイ",
+        "en": "Paraguay",
+        "ru": "Парагвай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_027",
+        "jp": "バルバドス",
+        "en": "Barbados",
+        "ru": "Барбадос"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_028",
+        "jp": "ブラジル",
+        "en": "Brazil",
+        "ru": "Бразилия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_029",
+        "jp": "ベネズエラ",
+        "en": "Venezuela",
+        "ru": "Венесуэла"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_030",
+        "jp": "ベリーズ",
+        "en": "Belize",
+        "ru": "Белиз"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_031",
+        "jp": "ペルー",
+        "en": "Peru",
+        "ru": "Перу"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_032",
+        "jp": "ボリビア",
+        "en": "Bolivia",
+        "ru": "Боливия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_033",
+        "jp": "ホンジュラス",
+        "en": "Honduras",
+        "ru": "Гондурас"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_034",
+        "jp": "メキシコ",
+        "en": "Mexico",
+        "ru": "Мексика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_035",
+        "jp": "インド",
+        "en": "India",
+        "ru": "Индия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_036",
+        "jp": "インドネシア",
+        "en": "Indonesia",
+        "ru": "Индонезия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_037",
+        "jp": "カンボジア",
+        "en": "Cambodia",
+        "ru": "Камбоджа"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_038",
+        "jp": "シンガポール",
+        "en": "Singapore",
+        "ru": "Сингапур"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_039",
+        "jp": "スリランカ",
+        "en": "Sri Lanka",
+        "ru": "Шри-Ланка"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_040",
+        "jp": "タイ",
+        "en": "Thailand",
+        "ru": "Таиланд"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_041",
+        "jp": "韓国",
+        "en": "South Korea",
+        "ru": "Южная Корея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_042",
+        "jp": "中国",
+        "en": "China",
+        "ru": "Китай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_043",
+        "jp": "ネパール",
+        "en": "Nepal",
+        "ru": "Непал"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_044",
+        "jp": "パキスタン",
+        "en": "Pakistan",
+        "ru": "Пакистан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_045",
+        "jp": "バングラデシュ",
+        "en": "Bangladesh",
+        "ru": "Бангладеш"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_046",
+        "jp": "東ティモール",
+        "en": "Timor-Leste",
+        "ru": "Восточный Тимор"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_047",
+        "jp": "フィリピン",
+        "en": "Philippines",
+        "ru": "Филиппины"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_048",
+        "jp": "ブータン",
+        "en": "Bhutan",
+        "ru": "Бутан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_049",
+        "jp": "ブルネイ",
+        "en": "Brunei",
+        "ru": "Бруней"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_050",
+        "jp": "ベトナム",
+        "en": "Vietnam",
+        "ru": "Вьетнам"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_051",
+        "jp": "マレーシア",
+        "en": "Malaysia",
+        "ru": "Малайзия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_052",
+        "jp": "ミャンマー",
+        "en": "Myanmar",
+        "ru": "Мьянма"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_053",
+        "jp": "モルディブ",
+        "en": "Maldives",
+        "ru": "Мальдивы"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_054",
+        "jp": "モンゴル",
+        "en": "Mongolia",
+        "ru": "Монголия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_055",
+        "jp": "ラオス",
+        "en": "Laos",
+        "ru": "Лаос"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_056",
+        "jp": "北朝鮮",
+        "en": "North Korea",
+        "ru": "Северная Корея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_057",
+        "jp": "香港",
+        "en": "Hong Kong",
+        "ru": "Гонконг"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_058",
+        "jp": "台湾",
+        "en": "Taiwan",
+        "ru": "Тайвань"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_059",
+        "jp": "マカオ",
+        "en": "Macau",
+        "ru": "Макао"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_060",
+        "jp": "日本",
+        "en": "Japan",
+        "ru": "Япония"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_061",
+        "jp": "オーストラリア",
+        "en": "Australia",
+        "ru": "Австралия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_062",
+        "jp": "キリバス",
+        "en": "Kiribati",
+        "ru": "Кирибати"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_063",
+        "jp": "クック諸島",
+        "en": "Cook Islands",
+        "ru": "Острова Кука"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_064",
+        "jp": "サモア",
+        "en": "Samoa",
+        "ru": "Самоа"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_065",
+        "jp": "ソロモン諸島",
+        "en": "Solomon Islands",
+        "ru": "Соломоновы Острова"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_066",
+        "jp": "ツバル",
+        "en": "Tuvalu",
+        "ru": "Тувалу"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_067",
+        "jp": "トンガ",
+        "en": "Tonga",
+        "ru": "Тонга"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_068",
+        "jp": "ナウル",
+        "en": "Nauru",
+        "ru": "Науру"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_069",
+        "jp": "ニウエ",
+        "en": "Niue",
+        "ru": "Ниуэ"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_070",
+        "jp": "ニュージーランド",
+        "en": "New Zealand",
+        "ru": "Новая Зеландия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_071",
+        "jp": "バヌアツ",
+        "en": "Vanuatu",
+        "ru": "Вануату"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_072",
+        "jp": "パプアニューギニア",
+        "en": "Papua New Guinea",
+        "ru": "Папуа — Новая Гвинея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_073",
+        "jp": "パラオ",
+        "en": "Palau",
+        "ru": "Палау"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_074",
+        "jp": "フィジー",
+        "en": "Fiji",
+        "ru": "Фиджи"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_075",
+        "jp": "マーシャル",
+        "en": "Marshall Islands",
+        "ru": "Маршалловы Острова"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_076",
+        "jp": "ミクロネシア",
+        "en": "Micronesia",
+        "ru": "Микронезия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_077",
+        "jp": "アフガニスタン",
+        "en": "Afghanistan",
+        "ru": "Афганистан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_078",
+        "jp": "アラブ首長国連邦",
+        "en": "United Arab Emirates",
+        "ru": "ОАЭ"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_079",
+        "jp": "イエメン",
+        "en": "Yemen",
+        "ru": "Йемен"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_080",
+        "jp": "イスラエル",
+        "en": "Israel",
+        "ru": "Израиль"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_081",
+        "jp": "イラク",
+        "en": "Iraq",
+        "ru": "Ирак"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_082",
+        "jp": "イラン",
+        "en": "Iran",
+        "ru": "Иран"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_083",
+        "jp": "オマーン",
+        "en": "Oman",
+        "ru": "Оман"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_084",
+        "jp": "カタール",
+        "en": "Qatar",
+        "ru": "Катар"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_085",
+        "jp": "クウェート",
+        "en": "Kuwait",
+        "ru": "Кувейт"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_086",
+        "jp": "サウジアラビア",
+        "en": "Saudi Arabia",
+        "ru": "Саудовская Аравия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_087",
+        "jp": "シリア",
+        "en": "Syria",
+        "ru": "Сирия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_088",
+        "jp": "トルコ",
+        "en": "Turkey",
+        "ru": "Турция"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_089",
+        "jp": "バーレーン",
+        "en": "Bahrain",
+        "ru": "Бахрейн"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_090",
+        "jp": "ヨルダン",
+        "en": "Jordan",
+        "ru": "Джордан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_091",
+        "jp": "レバノン",
+        "en": "Lebanon",
+        "ru": "Ливан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_092",
+        "jp": "パレスチナ自治政府",
+        "en": "Palestine",
+        "ru": "Палестина"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_093",
+        "jp": "アイスランド",
+        "en": "Iceland",
+        "ru": "Исландия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_094",
+        "jp": "アイルランド",
+        "en": "Ireland",
+        "ru": "Ирландия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_095",
+        "jp": "アゼルバイジャン",
+        "en": "Azerbaijan",
+        "ru": "Азербайджан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_096",
+        "jp": "アルバニア",
+        "en": "Albania",
+        "ru": "Албания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_097",
+        "jp": "アルメニア",
+        "en": "Armenia",
+        "ru": "Армения"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_098",
+        "jp": "アンドラ",
+        "en": "Andorra",
+        "ru": "Андорра"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_099",
+        "jp": "イタリア",
+        "en": "Italy",
+        "ru": "Италия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_100",
+        "jp": "ウクライナ",
+        "en": "Ukraine",
+        "ru": "Канада"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_101",
+        "jp": "ウズベキスタン",
+        "en": "Uzbekistan",
+        "ru": "Узбекистан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_102",
+        "jp": "イギリス",
+        "en": "United Kingdom",
+        "ru": "Великобритания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_103",
+        "jp": "エストニア",
+        "en": "Estonia",
+        "ru": "Эстония"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_104",
+        "jp": "オーストリア",
+        "en": "Austria",
+        "ru": "Австрия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_105",
+        "jp": "オランダ",
+        "en": "Netherlands",
+        "ru": "Нидерланды"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_106",
+        "jp": "カザフスタン",
+        "en": "Kazakhstan",
+        "ru": "Казахстан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_107",
+        "jp": "キプロス",
+        "en": "Cyprus",
+        "ru": "Кипр"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_108",
+        "jp": "ギリシャ",
+        "en": "Greece",
+        "ru": "Греция"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_109",
+        "jp": "キルギス",
+        "en": "Kyrgyzstan",
+        "ru": "Киргизия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_110",
+        "jp": "クロアチア",
+        "en": "Croatia",
+        "ru": "Хорватия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_111",
+        "jp": "コソボ",
+        "en": "Kosovo",
+        "ru": "Косово"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_112",
+        "jp": "サンマリノ",
+        "en": "San Marino",
+        "ru": "Сан-Марино"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_113",
+        "jp": "ジョージア",
+        "en": "Georgia",
+        "ru": "Грузия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_114",
+        "jp": "スイス",
+        "en": "Switzerland",
+        "ru": "Швейцария"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_115",
+        "jp": "スウェーデン",
+        "en": "Sweden",
+        "ru": "Швеция"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_116",
+        "jp": "スペイン",
+        "en": "Spain",
+        "ru": "Испания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_117",
+        "jp": "スロバキア",
+        "en": "Slovakia",
+        "ru": "Словакия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_118",
+        "jp": "スロベニア",
+        "en": "Slovenia",
+        "ru": "Словения"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_119",
+        "jp": "セルビア",
+        "en": "Serbia",
+        "ru": "Сербия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_120",
+        "jp": "タジキスタン",
+        "en": "Tajikistan",
+        "ru": "Таджикистан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_121",
+        "jp": "チェコ",
+        "en": "Czech Republic",
+        "ru": "Чехия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_122",
+        "jp": "デンマーク",
+        "en": "Denmark",
+        "ru": "Дания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_123",
+        "jp": "ドイツ",
+        "en": "Germany",
+        "ru": "Германия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_124",
+        "jp": "トルクメニスタン",
+        "en": "Turkmenistan",
+        "ru": "Туркмения"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_125",
+        "jp": "ノルウェー",
+        "en": "Norway",
+        "ru": "Норвегия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_126",
+        "jp": "バチカン",
+        "en": "Vatican",
+        "ru": "Ватикан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_127",
+        "jp": "ハンガリー",
+        "en": "Hungary",
+        "ru": "Венгрия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_128",
+        "jp": "フィンランド",
+        "en": "Finland",
+        "ru": "Финляндия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_129",
+        "jp": "フランス",
+        "en": "France",
+        "ru": "Франция"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_130",
+        "jp": "ブルガリア",
+        "en": "Bulgaria",
+        "ru": "Болгария"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_131",
+        "jp": "ベラルーシ",
+        "en": "Belarus",
+        "ru": "Аргентина"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_132",
+        "jp": "ベルギー",
+        "en": "Belgium",
+        "ru": "Бельгия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_133",
+        "jp": "ポーランド",
+        "en": "Poland",
+        "ru": "Польша"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_134",
+        "jp": "ボスニア・ヘルツェゴビナ",
+        "en": "Bosnia and Herzegovina",
+        "ru": "Босния и Герцеговина"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_135",
+        "jp": "ポルトガル",
+        "en": "Portugal",
+        "ru": "Португалия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_136",
+        "jp": "マケドニア旧ユーゴスラビア共和国",
+        "en": "Macedonia",
+        "ru": "Македония"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_137",
+        "jp": "マルタ",
+        "en": "Malta",
+        "ru": "Мальта"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_138",
+        "jp": "モナコ",
+        "en": "Monaco",
+        "ru": "Монако"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_139",
+        "jp": "モルドバ",
+        "en": "Moldova",
+        "ru": "Молдавия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_140",
+        "jp": "モンテネグロ",
+        "en": "Montenegro",
+        "ru": "Черногория"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_141",
+        "jp": "ラトビア",
+        "en": "Latvia",
+        "ru": "Латвия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_142",
+        "jp": "リヒテンシュタイン",
+        "en": "Liechtenstein",
+        "ru": "Лихтенштейн"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_143",
+        "jp": "リトアニア",
+        "en": "Lithuania",
+        "ru": "Литва"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_144",
+        "jp": "ルーマニア",
+        "en": "Romania",
+        "ru": "Румыния"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_145",
+        "jp": "ルクセンブルク",
+        "en": "Luxembourg",
+        "ru": "Люксембург"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_146",
+        "jp": "ロシア",
+        "en": "Russia",
+        "ru": "США"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_147",
+        "jp": "アルジェリア",
+        "en": "Algeria",
+        "ru": "Алжир"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_148",
+        "jp": "アンゴラ",
+        "en": "Angola",
+        "ru": "Ангола"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_149",
+        "jp": "ウガンダ",
+        "en": "Uganda",
+        "ru": "Уганда"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_150",
+        "jp": "エジプト",
+        "en": "Egypt",
+        "ru": "Египет"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_151",
+        "jp": "エチオピア",
+        "en": "Ethiopia",
+        "ru": "Эфиопия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_152",
+        "jp": "エリトリア",
+        "en": "Eritrea",
+        "ru": "Эритрея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_153",
+        "jp": "ガーナ",
+        "en": "Ghana",
+        "ru": "Гана"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_154",
+        "jp": "カーボヴェルデ",
+        "en": "Cabo Verde",
+        "ru": "Кабо-Верде"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_155",
+        "jp": "ガボン",
+        "en": "Gabon",
+        "ru": "Габон"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_156",
+        "jp": "カメルーン",
+        "en": "Cameroon",
+        "ru": "Камерун"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_157",
+        "jp": "ガンビア",
+        "en": "Gambia",
+        "ru": "Гамбия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_158",
+        "jp": "ギニア",
+        "en": "Guinea",
+        "ru": "Гвинея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_159",
+        "jp": "ギニアビサウ",
+        "en": "Guinea-Bissau",
+        "ru": "Гвинея-Бисау"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_160",
+        "jp": "ケニア",
+        "en": "Kenya",
+        "ru": "Кения"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_161",
+        "jp": "コートジボワール",
+        "en": "Ivory Coast",
+        "ru": "Кот-д’Ивуар"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_162",
+        "jp": "コモロ",
+        "en": "Comoros",
+        "ru": "Коморы"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_163",
+        "jp": "コンゴ共和国",
+        "en": "Congo Republic",
+        "ru": "Республика Конго"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_164",
+        "jp": "コンゴ民主共和国",
+        "en": "DR Congo",
+        "ru": "Демократическая Республика Конго"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_165",
+        "jp": "サントメ・プリンシペ",
+        "en": "Sao Tome and Principe",
+        "ru": "Сан-Томе и Принсипи"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_166",
+        "jp": "ザンビア",
+        "en": "Zambia",
+        "ru": "Замбия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_167",
+        "jp": "シエラレオネ",
+        "en": "Sierra Leone",
+        "ru": "Сьерра-Леоне"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_168",
+        "jp": "ジブチ",
+        "en": "Djibouti",
+        "ru": "Джибути"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_169",
+        "jp": "ジンバブエ",
+        "en": "Zimbabwe",
+        "ru": "Зимбабве"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_170",
+        "jp": "スーダン",
+        "en": "Sudan",
+        "ru": "Судан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_171",
+        "jp": "スワジランド",
+        "en": "Swaziland",
+        "ru": "Свазиленд"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_172",
+        "jp": "セーシェル",
+        "en": "The Seychelles",
+        "ru": "Сейшелы"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_173",
+        "jp": "赤道ギニア",
+        "en": "Equatorial Guinea",
+        "ru": "Экваториальная Гвинея"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_174",
+        "jp": "セネガル",
+        "en": "Senegal",
+        "ru": "Сенегал"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_175",
+        "jp": "ソマリア",
+        "en": "Somalia",
+        "ru": "Сомали"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_176",
+        "jp": "タンザニア",
+        "en": "Tanzania",
+        "ru": "Танзания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_177",
+        "jp": "チャド",
+        "en": "Chad",
+        "ru": "Чад"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_178",
+        "jp": "中央アフリカ",
+        "en": "Central African Republic",
+        "ru": "Центральноафриканская Республика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_179",
+        "jp": "チュニジア",
+        "en": "Tunisia",
+        "ru": "Тунис"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_180",
+        "jp": "トーゴ",
+        "en": "Togo",
+        "ru": "Того"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_181",
+        "jp": "ナイジェリア",
+        "en": "Nigeria",
+        "ru": "Нигерия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_182",
+        "jp": "ナミビア",
+        "en": "Namibia",
+        "ru": "Намибия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_183",
+        "jp": "ニジェール",
+        "en": "Niger",
+        "ru": "Нигер"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_184",
+        "jp": "ブルキナファソ",
+        "en": "Burkina Faso",
+        "ru": "Буркина-Фасо"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_185",
+        "jp": "ブルンジ",
+        "en": "Burundi",
+        "ru": "Бурунди"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_186",
+        "jp": "ベナン",
+        "en": "Benin",
+        "ru": "Бенин"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_187",
+        "jp": "ボツワナ",
+        "en": "Botswana",
+        "ru": "Ботсвана"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_188",
+        "jp": "マダガスカル",
+        "en": "Madagascar",
+        "ru": "Мадагаскар"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_189",
+        "jp": "マラウイ",
+        "en": "Malawi",
+        "ru": "Малави"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_190",
+        "jp": "マリ",
+        "en": "Mali",
+        "ru": "Мали"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_191",
+        "jp": "南アフリカ",
+        "en": "South Africa",
+        "ru": "ЮАР"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_192",
+        "jp": "南スーダン",
+        "en": "South Sudan",
+        "ru": "Южный Судан"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_193",
+        "jp": "モザンビーク",
+        "en": "Mozambique",
+        "ru": "Мозамбик"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_194",
+        "jp": "モーリシャス",
+        "en": "Mauritius",
+        "ru": "Маврикий"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_195",
+        "jp": "モーリタニア",
+        "en": "Mauritania",
+        "ru": "Мавритания"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_196",
+        "jp": "モロッコ",
+        "en": "Morocco",
+        "ru": "Марокко"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_197",
+        "jp": "リビア",
+        "en": "Libya",
+        "ru": "Ливия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_198",
+        "jp": "リベリア",
+        "en": "Liberia",
+        "ru": "Либерия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_199",
+        "jp": "ルワンダ",
+        "en": "Rwanda",
+        "ru": "Руанда"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_200",
+        "jp": "レソト",
+        "en": "Lesotho",
+        "ru": "Лесото"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_201",
+        "jp": "海王星",
+        "en": "Neptune",
+        "ru": "Нептун"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_202",
+        "jp": "火星",
+        "en": "Mars",
+        "ru": "Марс"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_203",
+        "jp": "金星",
+        "en": "Venus",
+        "ru": "Венера"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_204",
+        "jp": "水星",
+        "en": "Mercury",
+        "ru": "Меркурий"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_205",
+        "jp": "地球",
+        "en": "Earth",
+        "ru": "Земля"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_206",
+        "jp": "天王星",
+        "en": "Uranus",
+        "ru": "Уран"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_207",
+        "jp": "土星",
+        "en": "Saturn",
+        "ru": "Сатурн"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_208",
+        "jp": "木星",
+        "en": "Jupiter",
+        "ru": "Юпитер"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_209",
+        "jp": "冥王星",
+        "en": "Pluto",
+        "ru": "Плутон"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_210",
+        "jp": "月",
+        "en": "Moon",
+        "ru": "Луна"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_211",
+        "jp": "バンカー",
+        "en": "The Bunker",
+        "ru": "Бункер"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_212",
+        "jp": "廃墟都市",
+        "en": "City Ruins",
+        "ru": "Руины города"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_213",
+        "jp": "レジスタンスキャンプ",
+        "en": "Resistance Camp",
+        "ru": "Лагерь Сопротивления"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_214",
+        "jp": "工場廃墟",
+        "en": "Abandoned Factory",
+        "ru": "Заброшенная фабрика"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_215",
+        "jp": "砂漠",
+        "en": "Desert Area",
+        "ru": "Пустынная зона"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_216",
+        "jp": "遊園地",
+        "en": "Amusement Park",
+        "ru": "Парк развлечений"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_217",
+        "jp": "パスカルの村",
+        "en": "Pascal's Village",
+        "ru": "Деревня Паскаля"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_218",
+        "jp": "水没都市",
+        "en": "Flooded City",
+        "ru": "Затопленный город"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_219",
+        "jp": "森の城",
+        "en": "Forest Castle",
+        "ru": "Лесной замок"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_220",
+        "jp": "複製された街",
+        "en": "Copied City",
+        "ru": "Реплика города"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_221",
+        "jp": "塔",
+        "en": "The Tower",
+        "ru": "Башня"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_222",
+        "jp": "崖の村",
+        "en": "The Aerie",
+        "ru": "Орлиное гнездо"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_223",
+        "jp": "神話の森",
+        "en": "Forest of Myth",
+        "ru": "Лес мифов"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_224",
+        "jp": "海岸の街",
+        "en": "Seafront",
+        "ru": "Набережная"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_225",
+        "jp": "仮面の街",
+        "en": "Facade",
+        "ru": "Фасад"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_226",
+        "jp": "新宿",
+        "en": "Shinjuku",
+        "ru": "Синдзюку"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_227",
+        "jp": "アトランティス",
+        "en": "Atlantis",
+        "ru": "Атлантида"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_228",
+        "jp": "アヴァロン",
+        "en": "Avalon",
+        "ru": "Авалон"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_229",
+        "jp": "蓬莱",
+        "en": "Penglai",
+        "ru": "Пэнлай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_230",
+        "jp": "マグ・メル",
+        "en": "Mag Mell",
+        "ru": "Маг Мелл"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_231",
+        "jp": "ヴァルハラ",
+        "en": "Valhalla",
+        "ru": "Вальхалла"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_232",
+        "jp": "ニライカナイ",
+        "en": "Nirai Kanai",
+        "ru": "Нирай Канай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_233",
+        "jp": "ヘルヘイム",
+        "en": "Helheim",
+        "ru": "Хельхейм"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_234",
+        "jp": "桃源郷",
+        "en": "Paradise",
+        "ru": "Рай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_235",
+        "jp": "ユートピア",
+        "en": "Utopia",
+        "ru": "Утопия"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_236",
+        "jp": "ムー大陸",
+        "en": "Mu",
+        "ru": "Му"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_237",
+        "jp": "高天原",
+        "en": "Heavenly Plains",
+        "ru": "Небесные равнины"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_238",
+        "jp": "一次元",
+        "en": "The First Dimension",
+        "ru": "Первое измерение"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_239",
+        "jp": "二次元",
+        "en": "The Second Dimension",
+        "ru": "Второе измерение"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_240",
+        "jp": "三次元",
+        "en": "The Third Dimension",
+        "ru": "Третье измерение"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_241",
+        "jp": "四次元",
+        "en": "The Fourth Dimension",
+        "ru": "Четвёртое измерение"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_242",
+        "jp": "並行世界",
+        "en": "A Parallel World",
+        "ru": "Параллельный мир"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_243",
+        "jp": "天国",
+        "en": "Heaven",
+        "ru": "Рай"
+    },
+    {
+        "id": "SUPPORT_COUNTRY_244",
+        "jp": "地獄",
+        "en": "Hell",
+        "ru": "Ад"
+    },
+    {
+        "id": "SUPPORT_WORD_01_000",
+        "jp": "君は今、ものすごく大変だと思う。",
+        "en": "I bet you're having a tough time right now.",
+        "ru": "Могу поспорить, тебе сейчас нелегко."
+    },
+    {
+        "id": "SUPPORT_WORD_01_001",
+        "jp": "シューティングは辛い。",
+        "en": "Shooters are tough.",
+        "ru": "Стрелялки сложные."
+    },
+    {
+        "id": "SUPPORT_WORD_01_002",
+        "jp": "私も君と同じ道を通りました。",
+        "en": "I've walked the same road as you.",
+        "ru": "Я шёл по тому же пути, что и ты."
+    },
+    {
+        "id": "SUPPORT_WORD_01_003",
+        "jp": "私も辛かった。",
+        "en": "It was hard for me as well.",
+        "ru": "Вообще, для меня это было сложно."
+    },
+    {
+        "id": "SUPPORT_WORD_01_004",
+        "jp": "まだまだ、何度も、死ぬだろう。",
+        "en": "You'll die many times before it's over.",
+        "ru": "Так много смертей, но скоро всё закончится."
+    },
+    {
+        "id": "SUPPORT_WORD_01_005",
+        "jp": "とりあえず、落ち着いて。",
+        "en": "Let's calm down for a moment.",
+        "ru": "Передохни немного."
+    },
+    {
+        "id": "SUPPORT_WORD_01_006",
+        "jp": "次もありますよ。",
+        "en": "There's always next time!",
+        "ru": "В следующий раз ты сможешь!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_007",
+        "jp": "目が疲れるよね～。",
+        "en": "Your eyes get tired, don't they?",
+        "ru": "Твои глаза не устали?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_008",
+        "jp": "終わらないかと思った。",
+        "en": "I thought it would never end.",
+        "ru": "Я думал, что это никогда не кончится."
+    },
+    {
+        "id": "SUPPORT_WORD_01_009",
+        "jp": "言いたいことは分かる。",
+        "en": "I know what you want to say.",
+        "ru": "Я знаю, что ты хочешь сказать."
+    },
+    {
+        "id": "SUPPORT_WORD_01_010",
+        "jp": "私はやり遂げたよ。",
+        "en": "I saw this through to the end.",
+        "ru": "Я прочёл это до конца."
+    },
+    {
+        "id": "SUPPORT_WORD_01_011",
+        "jp": "自力クリアしたらすごい。",
+        "en": "It'd be amazing if you cleared this alone.",
+        "ru": "Будет здорово, если ты разберешься с этим в одиночку."
+    },
+    {
+        "id": "SUPPORT_WORD_01_012",
+        "jp": "何度でも挑戦するんだ。",
+        "en": "Step up as many times as it takes!",
+        "ru": "Иди вперёд столько, сколько потребуется!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_013",
+        "jp": "諦めたら終わり。",
+        "en": "If you give up, you're done for.",
+        "ru": "Если сдашься, то погибнешь."
+    },
+    {
+        "id": "SUPPORT_WORD_01_014",
+        "jp": "最初は何かの間違いかと思った。",
+        "en": "I thought it was some kind of mistake.",
+        "ru": "Я думал, что здесь какая-то ошибка."
+    },
+    {
+        "id": "SUPPORT_WORD_01_015",
+        "jp": "良い結果は勝ち取るものだ。",
+        "en": "Good results must be earned.",
+        "ru": "Обязательно выложись по полной."
+    },
+    {
+        "id": "SUPPORT_WORD_01_016",
+        "jp": "ここでやめるの？",
+        "en": "Are you really giving up here?",
+        "ru": "Ты правда сдашься здесь?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_017",
+        "jp": "何度目のコンティニューだ？",
+        "en": "How many continues is this?",
+        "ru": "Как долго это может продолжаться?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_018",
+        "jp": "自分の弱さに気づいたか？",
+        "en": "Have you realized how weak you are?",
+        "ru": "Осознаешь свою беспомощность?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_019",
+        "jp": "ボンヤリしていましたね。",
+        "en": "You were zoning out there!",
+        "ru": "Вы покидаете зону!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_020",
+        "jp": "裏ワザは無いぞ。",
+        "en": "There's no trick to this.",
+        "ru": "В этом нет никакой хитрости."
+    },
+    {
+        "id": "SUPPORT_WORD_01_021",
+        "jp": "何をやってるんだ？",
+        "en": "What are you doing?",
+        "ru": "Что ты делаешь?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_022",
+        "jp": "楽しいか？",
+        "en": "Having fun?",
+        "ru": "Веселишься?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_023",
+        "jp": "追い込まれてどうする？",
+        "en": "What if you get cornered?",
+        "ru": "Что если вас загонят в угол?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_024",
+        "jp": "世界にはズルをしたりする人もいる。",
+        "en": "Not everyone in this world plays fair.",
+        "ru": "Не все в этом мире играют честно."
+    },
+    {
+        "id": "SUPPORT_WORD_01_025",
+        "jp": "２Ｂも９Ｓも命を賭けて戦った。",
+        "en": "2B and 9S put their lives on the line.",
+        "ru": "2B и 9S рисковали своими жизнями."
+    },
+    {
+        "id": "SUPPORT_WORD_01_026",
+        "jp": "この世界は苦難で満ちている。",
+        "en": "This world is rife with hardship.",
+        "ru": "Этот мир полон трудностей."
+    },
+    {
+        "id": "SUPPORT_WORD_01_027",
+        "jp": "シューティングの弾幕は厚い。",
+        "en": "The bullets rain down without pause.",
+        "ru": "Дождь из пуль не прекращается."
+    },
+    {
+        "id": "SUPPORT_WORD_01_028",
+        "jp": "この戦いは勝ち目の無い戦いだ。",
+        "en": "This is an unwinnable fight.",
+        "ru": "В этой битве невозможно победить."
+    },
+    {
+        "id": "SUPPORT_WORD_01_029",
+        "jp": "今遊んでるのは、たかがゲーム。",
+        "en": "What you're playing now is a mere game.",
+        "ru": "Вы играете в очень простую игру."
+    },
+    {
+        "id": "SUPPORT_WORD_01_030",
+        "jp": "所詮は遊びだよね。",
+        "en": "It's just a game in the end, right?",
+        "ru": "В конце концов, это всего лишь игра, да?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_031",
+        "jp": "必死でやってもうまくいかない時は誰にでもある。",
+        "en": "It's sad, but things don't always work out.",
+        "ru": "Это грустно, но не всегда всё идёт по плану."
+    },
+    {
+        "id": "SUPPORT_WORD_01_032",
+        "jp": "「勝てる訳がない！」そう思ってるよね？",
+        "en": "You're thinking this is impossible, right?",
+        "ru": "Думаешь это невозможно, верно?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_033",
+        "jp": "追い詰められると辛い気持ちになる。",
+        "en": "Sometimes you just feel trapped.",
+        "ru": "Иногда чувствуешь себя, словно в ловушке."
+    },
+    {
+        "id": "SUPPORT_WORD_01_034",
+        "jp": "さっきの戦いは惜しかった。",
+        "en": "You were so close to winning that last fight.",
+        "ru": "Вы были так близки к победе в этой битве."
+    },
+    {
+        "id": "SUPPORT_WORD_01_035",
+        "jp": "クソみたいな世界、クソみたいなゲーム。",
+        "en": "Shitty world, shitty game!",
+        "ru": "Грёбаный мир, сраная игра!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_036",
+        "jp": "僕はがんばった。",
+        "en": "I did my best.",
+        "ru": "Я старался изо всех сил."
+    },
+    {
+        "id": "SUPPORT_WORD_01_037",
+        "jp": "誰も助けてはくれない。",
+        "en": "No one will help you.",
+        "ru": "Никто тебе не поможет."
+    },
+    {
+        "id": "SUPPORT_WORD_01_038",
+        "jp": "貴方は恐怖を知る人。",
+        "en": "You are one who knows fear.",
+        "ru": "Ты познаешь страх."
+    },
+    {
+        "id": "SUPPORT_WORD_01_039",
+        "jp": "負けて負けて、負け続けて。",
+        "en": "Lose, lose, and lose some more!",
+        "ru": "Проигрывай, проигрывай, проигрывай ещё больше!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_040",
+        "jp": "生きる事の意味を見失いそうになった時。",
+        "en": "Sometimes you forget what it means to live.",
+        "ru": "Иногда ты забываешь, что значит жить."
+    },
+    {
+        "id": "SUPPORT_WORD_01_041",
+        "jp": "「ゲームは遊びだ」と言われ続けた。",
+        "en": "I've always heard games are \"just for fun.\"",
+        "ru": "Я всегда слышал, что игры «просто для развлечения»."
+    },
+    {
+        "id": "SUPPORT_WORD_01_042",
+        "jp": "この戦いに意味はあるのか？",
+        "en": "Does this battle have meaning?",
+        "ru": "У этой битвы есть смысл?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_043",
+        "jp": "現実世界は辛い事ばかりだ。",
+        "en": "The real world is naught but hardship.",
+        "ru": "Реальный мир не лишён трудностей."
+    },
+    {
+        "id": "SUPPORT_WORD_01_044",
+        "jp": "もしかしたら、この声は届かないかもしれない。",
+        "en": "My voice may not reach you.",
+        "ru": "Мой голос может не достигнуть тебя."
+    },
+    {
+        "id": "SUPPORT_WORD_01_045",
+        "jp": "たとえゲームでも僕は死ぬ気を出す！",
+        "en": "I'm serious, even if it's just a game!",
+        "ru": "Я серьёзен, даже если это просто игра!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_046",
+        "jp": "貴方はこのゲームが好きか？",
+        "en": "Do you like this game?",
+        "ru": "Тебе понравилась эта игра?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_047",
+        "jp": "僕はこのゲームが好きだ！",
+        "en": "I love this game!",
+        "ru": "Я обожаю эту игру!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_048",
+        "jp": "この世界に存在する意味は自分自身が決めるべきだ。",
+        "en": "You must decide what it means to exist.",
+        "ru": "Вы должны осознать, что такое жизнь."
+    },
+    {
+        "id": "SUPPORT_WORD_01_049",
+        "jp": "僕にこの言葉を言う資格は無いのかもしれない。",
+        "en": "I may not have the right to say this.",
+        "ru": "Возможно, я не имею права говорить об этом."
+    },
+    {
+        "id": "SUPPORT_WORD_01_050",
+        "jp": "覚悟の強さで己の成長が決まる。",
+        "en": "Your growth hinges on your resolve.",
+        "ru": "Твой прогресс зависит от твоей решимости."
+    },
+    {
+        "id": "SUPPORT_WORD_01_051",
+        "jp": "限界は破るためにある！",
+        "en": "Limits exist to be broken!",
+        "ru": "Правила существуют, чтобы их нарушать!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_052",
+        "jp": "周りは敵だらけ……。",
+        "en": "You're surrounded by enemies.",
+        "ru": "Враги повсюду."
+    },
+    {
+        "id": "SUPPORT_WORD_01_053",
+        "jp": "キミはこの下らない世界が好きですか？",
+        "en": "Do you care for this worthless world?",
+        "ru": "Вы заботитесь об этом никчёмном мире?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_054",
+        "jp": "この戦いの先に答えはあるのだろうか。",
+        "en": "Is there an answer at the end of this battle?",
+        "ru": "Есть ли ответ в конце этой битвы?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_055",
+        "jp": "終わりのない戦いに挑もう。",
+        "en": "Throw yourself into a battle with no end.",
+        "ru": "Да начнется бесконечная битва!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_056",
+        "jp": "キミは一人だ。",
+        "en": "You are alone.",
+        "ru": "Вы здесь одни."
+    },
+    {
+        "id": "SUPPORT_WORD_01_057",
+        "jp": "これが求めていた戦いなのか。",
+        "en": "Is this the fight you wanted?",
+        "ru": "Этого боя вы желали?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_058",
+        "jp": "助けが来ると思っているのか？",
+        "en": "Do you think help is on the way?",
+        "ru": "Думаешь, что помощь уже в пути?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_059",
+        "jp": "追い詰められたか？",
+        "en": "Are you at your wit's end?",
+        "ru": "Ты в своём уме?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_060",
+        "jp": "逃げ出したくなったか？",
+        "en": "Feel like running away?",
+        "ru": "Уже хочешь сбежать?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_061",
+        "jp": "私は諦めない。",
+        "en": "I won't give up!",
+        "ru": "Я не сдамся!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_062",
+        "jp": "もう帰りたいよね。",
+        "en": "You'd love to go home already, wouldn't you?",
+        "ru": "Ты уже хочешь домой, да?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_063",
+        "jp": "アナタとワタシは同じです。",
+        "en": "You and I are the same.",
+        "ru": "Мы с тобой одинаковы."
+    },
+    {
+        "id": "SUPPORT_WORD_01_064",
+        "jp": "お前は誰だ？",
+        "en": "Who are you?",
+        "ru": "Кто ты?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_065",
+        "jp": "肩の力を抜け。",
+        "en": "Your shoulders are tense. Relaaaaax.",
+        "ru": "Твои плечи напряжены. Рассла-а-абься."
+    },
+    {
+        "id": "SUPPORT_WORD_01_066",
+        "jp": "助けはこない。",
+        "en": "Help isn't coming.",
+        "ru": "Помощь не придёт."
+    },
+    {
+        "id": "SUPPORT_WORD_01_067",
+        "jp": "充電は残っているか？",
+        "en": "Any juice left in your batteries?",
+        "ru": "У тебя в батареях ещё остался заряд?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_068",
+        "jp": "いつまで続けるつもりだ？",
+        "en": "How long do you plan to continue?",
+        "ru": "Как долго ты сможешь это продолжать?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_069",
+        "jp": "オレも大変な思いをした。",
+        "en": "I've had my share of hardship.",
+        "ru": "У меня были свои трудности."
+    },
+    {
+        "id": "SUPPORT_WORD_01_070",
+        "jp": "よく耐えているな。",
+        "en": "You're holding up well.",
+        "ru": "Вы держитесь вполне уверенно."
+    },
+    {
+        "id": "SUPPORT_WORD_01_071",
+        "jp": "そろそろいいんじゃないか？",
+        "en": "Haven't you just about had enough?",
+        "ru": "Разве вам не достаточно?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_072",
+        "jp": "よく頑張ったよ。",
+        "en": "You did your best.",
+        "ru": "Постарайся изо всех сил."
+    },
+    {
+        "id": "SUPPORT_WORD_01_073",
+        "jp": "しんどいでしょう？",
+        "en": "You must be exhausted.",
+        "ru": "Вы, наверное, устали."
+    },
+    {
+        "id": "SUPPORT_WORD_01_074",
+        "jp": "キミは弱い。",
+        "en": "You're weak!",
+        "ru": "Ты не пройдешь!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_075",
+        "jp": "希望の光は見えているか？",
+        "en": "Can you see the light of hope?",
+        "ru": "Видишь луч надежды?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_076",
+        "jp": "絶望しかない。",
+        "en": "There is nothing but despair.",
+        "ru": "Нет ничего, кроме отчаяния."
+    },
+    {
+        "id": "SUPPORT_WORD_01_077",
+        "jp": "シューティングは得意なんだ。",
+        "en": "I'm confident in my shooting abilities.",
+        "ru": "Я уверен в своих стрелковых навыках."
+    },
+    {
+        "id": "SUPPORT_WORD_01_078",
+        "jp": "シューティングは苦手なんだ。",
+        "en": "I'm not a strong shooter.",
+        "ru": "В шутерах я не силён."
+    },
+    {
+        "id": "SUPPORT_WORD_01_079",
+        "jp": "私は２Bが好きだ！",
+        "en": "I like 2B!",
+        "ru": "Мне нравится 2B!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_080",
+        "jp": "私は９Sが好きだ！",
+        "en": "I like 9S!",
+        "ru": "Я обожаю 9S!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_081",
+        "jp": "私はA２が好きだ！",
+        "en": "I like A2!",
+        "ru": "A2 круче всех!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_082",
+        "jp": "私はエミールが好きだ！",
+        "en": "I like Emil!",
+        "ru": "Эмиль такой классный!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_083",
+        "jp": "私はポポル派です！",
+        "en": "I'm a Popola fan!",
+        "ru": "Я фанат Пополы!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_084",
+        "jp": "私はデボル派です！",
+        "en": "I'm a Devola fan!",
+        "ru": "Я фанат Деволы!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_085",
+        "jp": "終わりのない戦いもある。",
+        "en": "Some wars never end.",
+        "ru": "Некоторые войны никогда не заканчиваются."
+    },
+    {
+        "id": "SUPPORT_WORD_01_086",
+        "jp": "明日は休日なんだ。",
+        "en": "Tomorrow is my day off.",
+        "ru": "Завтра у меня выходной."
+    },
+    {
+        "id": "SUPPORT_WORD_01_087",
+        "jp": "明日は月曜日だって！？",
+        "en": "Wait, tomorrow's MONDAY!?",
+        "ru": "Завтра что, уже ПОНЕДЕЛЬНИК?!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_088",
+        "jp": "まだ諦めていないのか？",
+        "en": "Haven't given up yet?",
+        "ru": "Ещё не сдаешься?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_089",
+        "jp": "しぶとい奴ですね。",
+        "en": "You're tough.",
+        "ru": "Вы жестоки."
+    },
+    {
+        "id": "SUPPORT_WORD_01_090",
+        "jp": "お前は一人か？",
+        "en": "Are you alone?",
+        "ru": "Тебе одиноко?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_091",
+        "jp": "戦いこそが全てだった。",
+        "en": "The fight was everything.",
+        "ru": "Сражение было всем."
+    },
+    {
+        "id": "SUPPORT_WORD_01_092",
+        "jp": "おいおい、まだいけるんですか？",
+        "en": "Can you really keep going?",
+        "ru": "Сможешь ли ты продолжить?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_093",
+        "jp": "こんなこと、聞いてないぞ。",
+        "en": "Oh, come on! No one told me about this!",
+        "ru": "Ох, да ладно! Никто мне не говорил об этом!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_094",
+        "jp": "まだだ、まだやれる！",
+        "en": "I'm not done yet!",
+        "ru": "Я ещё не закончил!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_095",
+        "jp": "限界の更に向こうへ挑め。",
+        "en": "Push yourself beyond your limits.",
+        "ru": "Выйди за рамки своих возможностей."
+    },
+    {
+        "id": "SUPPORT_WORD_01_096",
+        "jp": "活路を見い出せ！",
+        "en": "Cut your way through!",
+        "ru": "Проложи свой путь!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_097",
+        "jp": "腹が減っては戦えない。",
+        "en": "You can't fight on an empty stomach.",
+        "ru": "Ты не можешь сражаться на пустой желудок."
+    },
+    {
+        "id": "SUPPORT_WORD_01_098",
+        "jp": "貴方ならやれるでしょう？",
+        "en": "I'm sure *you* can handle this.",
+        "ru": "Уверен, ТЫ сможешь!"
+    },
+    {
+        "id": "SUPPORT_WORD_01_099",
+        "jp": "それで全力か？",
+        "en": "That all you've got?",
+        "ru": "И это всё, на что вы способны?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_100",
+        "jp": "って思うんだよね→",
+        "en": "You'd think so, wouldn't you?",
+        "ru": "О чем ты думаешь?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_101",
+        "jp": "抗い続けろ。",
+        "en": "The struggle must continue.",
+        "ru": "Борьба должна продолжаться."
+    },
+    {
+        "id": "SUPPORT_WORD_01_102",
+        "jp": "疲れているの？",
+        "en": "Are you tired?",
+        "ru": "Вы устали?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_103",
+        "jp": "憎悪と愛情は表裏一体だ。",
+        "en": "Love and hate are two sides of the same coin.",
+        "ru": "Любовь и ненависть — две стороны одной медали."
+    },
+    {
+        "id": "SUPPORT_WORD_01_104",
+        "jp": "オレもお前も同じだ。",
+        "en": "We're not that different, you and I.",
+        "ru": "Мы не такие разные, ты и я."
+    },
+    {
+        "id": "SUPPORT_WORD_01_105",
+        "jp": "困難から目を逸らすな。",
+        "en": "Do not avert your eyes from difficulties.",
+        "ru": "Не убегай от трудностей."
+    },
+    {
+        "id": "SUPPORT_WORD_01_106",
+        "jp": "睡眠を削れ。",
+        "en": "Who needs sleep anyway?",
+        "ru": "Кому нужен сон?"
+    },
+    {
+        "id": "SUPPORT_WORD_01_107",
+        "jp": "否定：",
+        "en": "Negative.",
+        "ru": "Отрицательно."
+    },
+    {
+        "id": "SUPPORT_WORD_01_108",
+        "jp": "肯定：",
+        "en": "Affirmative.",
+        "ru": "Подтверждаю."
+    },
+    {
+        "id": "SUPPORT_WORD_01_109",
+        "jp": "提案：",
+        "en": "Proposal:",
+        "ru": "Предложение:"
+    },
+    {
+        "id": "SUPPORT_WORD_02_000",
+        "jp": "いずれにしても、",
+        "en": "In any case,",
+        "ru": "В любом случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_001",
+        "jp": "おまけに、",
+        "en": "On top of that,",
+        "ru": "Более того,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_002",
+        "jp": "かわりに、",
+        "en": "Instead,",
+        "ru": "Вместо этого,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_003",
+        "jp": "結局、",
+        "en": "In the end,",
+        "ru": "Наконец,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_004",
+        "jp": "けど、",
+        "en": "But,",
+        "ru": "Но,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_005",
+        "jp": "けれど、",
+        "en": "But",
+        "ru": "Но"
+    },
+    {
+        "id": "SUPPORT_WORD_02_006",
+        "jp": "けれども、",
+        "en": "But...",
+        "ru": "Но..."
+    },
+    {
+        "id": "SUPPORT_WORD_02_007",
+        "jp": "さもないと、",
+        "en": "If not,",
+        "ru": "Если нет,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_008",
+        "jp": "さもなくば、",
+        "en": "Otherwise,",
+        "ru": "В противном случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_009",
+        "jp": "さもなければ、",
+        "en": "If not, then",
+        "ru": "Если нет, тогда"
+    },
+    {
+        "id": "SUPPORT_WORD_02_010",
+        "jp": "さらに、",
+        "en": "What's more,",
+        "ru": "Кроме того,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_011",
+        "jp": "しかし、",
+        "en": "However,",
+        "ru": "Однако,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_012",
+        "jp": "しかも、",
+        "en": "Moreover,",
+        "ru": "Более того,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_013",
+        "jp": "しからば、",
+        "en": "If so,",
+        "ru": "Если так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_014",
+        "jp": "したがって、",
+        "en": "Therefore,",
+        "ru": "Следовательно,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_015",
+        "jp": "じゃあ、",
+        "en": "Well,",
+        "ru": "Ну,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_016",
+        "jp": "じゃなくて、",
+        "en": "Or, rather,",
+        "ru": "Или, скорее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_017",
+        "jp": "すなわち、",
+        "en": "Namely,",
+        "ru": "А именно,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_018",
+        "jp": "せめて、",
+        "en": "At least",
+        "ru": "Как минимум"
+    },
+    {
+        "id": "SUPPORT_WORD_02_019",
+        "jp": "そうしたら、",
+        "en": "Then, after that,",
+        "ru": "Затем, после этого,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_020",
+        "jp": "そうして、",
+        "en": "Doing so,",
+        "ru": "Делать то,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_021",
+        "jp": "そうしないと、",
+        "en": "If you don't,",
+        "ru": "Если вы не сделаете,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_022",
+        "jp": "そうじゃなくて、",
+        "en": "Not really, but...",
+        "ru": "Не совсем, но..."
+    },
+    {
+        "id": "SUPPORT_WORD_02_023",
+        "jp": "そうだとすれば、",
+        "en": "If that's the case,",
+        "ru": "Если это так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_024",
+        "jp": "そうでないなら、",
+        "en": "If that's not so, then",
+        "ru": "Если это не так, то"
+    },
+    {
+        "id": "SUPPORT_WORD_02_025",
+        "jp": "そうでなくて、",
+        "en": "Er, I mean,",
+        "ru": "Эм, я имею в виду,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_026",
+        "jp": "そうでなければ、",
+        "en": "Otherwise,",
+        "ru": "В противном случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_027",
+        "jp": "そうではなく、",
+        "en": "Wait, no, I mean",
+        "ru": "Подожди, нет, я имел в виду"
+    },
+    {
+        "id": "SUPPORT_WORD_02_028",
+        "jp": "そうは言っても、",
+        "en": "That being said,",
+        "ru": "Как говорится,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_029",
+        "jp": "そう言えば、",
+        "en": "That reminds me,",
+        "ru": "Это напомнило мне,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_030",
+        "jp": "そこで、",
+        "en": "So, then,",
+        "ru": "Так что,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_031",
+        "jp": "そして、",
+        "en": "Then",
+        "ru": "Тогда,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_032",
+        "jp": "そしてまた、",
+        "en": "And, also,",
+        "ru": "И, также,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_033",
+        "jp": "そのかわりに、",
+        "en": "As an alternative,",
+        "ru": "Вместо этого,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_034",
+        "jp": "そのために、",
+        "en": "For that purpose,",
+        "ru": "Для этой цели,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_035",
+        "jp": "その結果、",
+        "en": "As a result,",
+        "ru": "В результате,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_036",
+        "jp": "その後、",
+        "en": "After that,",
+        "ru": "После этого,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_037",
+        "jp": "それから、",
+        "en": "And also,",
+        "ru": "И также,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_038",
+        "jp": "それじゃあ、",
+        "en": "In that case,",
+        "ru": "В этом случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_039",
+        "jp": "それで、",
+        "en": "So,",
+        "ru": "Так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_040",
+        "jp": "それでいて、",
+        "en": "Despite that,",
+        "ru": "Несмотря на это,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_041",
+        "jp": "それでは、",
+        "en": "Because of that,",
+        "ru": "Из-за этого,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_042",
+        "jp": "それでも、",
+        "en": "All the same,",
+        "ru": "Тем не менее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_043",
+        "jp": "それと同時に、",
+        "en": "At the same time,",
+        "ru": "В то же время,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_044",
+        "jp": "それなのに、",
+        "en": "Even so,",
+        "ru": "Даже так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_045",
+        "jp": "それならば、",
+        "en": "And thus we can say,",
+        "ru": "Таким образом, мы можем сказать,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_046",
+        "jp": "それに、",
+        "en": "In addition,",
+        "ru": "К тому же,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_047",
+        "jp": "それにしては、",
+        "en": "And yet,",
+        "ru": "И ещё,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_048",
+        "jp": "それにもかかわらず、",
+        "en": "Nevertheless,",
+        "ru": "Тем не менее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_049",
+        "jp": "それに加えて、",
+        "en": "In addition to that,",
+        "ru": "В дополнение к этому,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_050",
+        "jp": "そればかりか、",
+        "en": "Not only that,",
+        "ru": "Не только к этому,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_051",
+        "jp": "そればかりでなく、",
+        "en": "But that's not all;",
+        "ru": "Но это не все;"
+    },
+    {
+        "id": "SUPPORT_WORD_02_052",
+        "jp": "それはさておき、",
+        "en": "That aside,",
+        "ru": "А в остальном,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_053",
+        "jp": "それはそうと、",
+        "en": "Putting that aside,",
+        "ru": "Это не считая,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_054",
+        "jp": "それ故に、",
+        "en": "Because of this,",
+        "ru": "Потому что это,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_055",
+        "jp": "だが、",
+        "en": "As such,",
+        "ru": "Как таковой,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_056",
+        "jp": "だから、",
+        "en": "So",
+        "ru": "Поэтому"
+    },
+    {
+        "id": "SUPPORT_WORD_02_057",
+        "jp": "だからといって、",
+        "en": "While it may be so,",
+        "ru": "Хотя может быть так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_058",
+        "jp": "だけど、",
+        "en": "Or",
+        "ru": "Или"
+    },
+    {
+        "id": "SUPPORT_WORD_02_059",
+        "jp": "だけれど、",
+        "en": "But even so,",
+        "ru": "Но даже так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_060",
+        "jp": "ただ、",
+        "en": "But still,",
+        "ru": "Но всё же,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_061",
+        "jp": "ただし、",
+        "en": "Still,",
+        "ru": "Всё же,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_062",
+        "jp": "だったら、",
+        "en": "In which case,",
+        "ru": "В таком случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_063",
+        "jp": "だって、",
+        "en": "I mean,",
+        "ru": "Я имею в виду,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_064",
+        "jp": "だとしたら、",
+        "en": "If that's true,",
+        "ru": "Если это правда,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_065",
+        "jp": "だとすると、",
+        "en": "Given that,",
+        "ru": "При условии,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_066",
+        "jp": "だのに、",
+        "en": "In spite of that,",
+        "ru": "Не смотря на это,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_067",
+        "jp": "ちなみに、",
+        "en": "By the way,",
+        "ru": "Кстати,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_068",
+        "jp": "ついで、",
+        "en": "Incidentally,",
+        "ru": "Между прочим,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_069",
+        "jp": "つまり、",
+        "en": "What I mean is...",
+        "ru": "Я имею в виду..."
+    },
+    {
+        "id": "SUPPORT_WORD_02_070",
+        "jp": "ですが、",
+        "en": "Though,",
+        "ru": "Однако,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_071",
+        "jp": "ですから、",
+        "en": "And thus,",
+        "ru": "И поэтому,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_072",
+        "jp": "ですけれど、",
+        "en": "Nonetheless,",
+        "ru": "Тем не менее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_073",
+        "jp": "でなくて、",
+        "en": "What I mean to say is,",
+        "ru": "Я хочу сказать,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_074",
+        "jp": "でなければ、",
+        "en": "If that weren't the case,",
+        "ru": "Если бы это было не так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_075",
+        "jp": "では、",
+        "en": "Now then,",
+        "ru": "Сейчас, когда"
+    },
+    {
+        "id": "SUPPORT_WORD_02_076",
+        "jp": "でも、",
+        "en": "But, even so,",
+        "ru": "Но даже так,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_077",
+        "jp": "というか、",
+        "en": "Or should I say,",
+        "ru": "Или я должен сказать,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_078",
+        "jp": "というより、",
+        "en": "Or rather,",
+        "ru": "Или скорее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_079",
+        "jp": "ところが、",
+        "en": "Yet,",
+        "ru": "И всё же,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_080",
+        "jp": "ところで、",
+        "en": "Anyway,",
+        "ru": "Как бы то ни было,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_081",
+        "jp": "どっちにしても、",
+        "en": "Either way,",
+        "ru": "Так или иначе,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_082",
+        "jp": "とにかく、",
+        "en": "At any rate,",
+        "ru": "В любом случае,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_083",
+        "jp": "とはいうものの、",
+        "en": "Having said that,",
+        "ru": "Было сказано, что"
+    },
+    {
+        "id": "SUPPORT_WORD_02_084",
+        "jp": "とは言え、",
+        "en": "Be that as it may,",
+        "ru": "Как бы то ни было,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_085",
+        "jp": "なおかつ、",
+        "en": "And yet, still,",
+        "ru": "И, тем не менее, до сих пор"
+    },
+    {
+        "id": "SUPPORT_WORD_02_086",
+        "jp": "なぜなら、",
+        "en": "Why? Because",
+        "ru": "Почему? Потому что"
+    },
+    {
+        "id": "SUPPORT_WORD_02_087",
+        "jp": "なのに、",
+        "en": "Despite this,",
+        "ru": "Несмотря на это,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_088",
+        "jp": "ならば、",
+        "en": "If that's the truth,",
+        "ru": "Если это правда,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_089",
+        "jp": "にもかかわらず、",
+        "en": "Notwithstanding,",
+        "ru": "Несмотря на это,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_090",
+        "jp": "ひいては、",
+        "en": "Which leads us to:",
+        "ru": "Вот что:"
+    },
+    {
+        "id": "SUPPORT_WORD_02_091",
+        "jp": "ましてや、",
+        "en": "And remember,",
+        "ru": "И помни,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_092",
+        "jp": "また、",
+        "en": "Also,",
+        "ru": "Также,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_093",
+        "jp": "または、",
+        "en": "Or, you could say",
+        "ru": "Или, ты можешь сказать"
+    },
+    {
+        "id": "SUPPORT_WORD_02_094",
+        "jp": "むしろ、",
+        "en": "Rather,",
+        "ru": "Скорее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_095",
+        "jp": "もしくは、",
+        "en": "Just remember,",
+        "ru": "Просто помни,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_096",
+        "jp": "よって、",
+        "en": "Thus,",
+        "ru": "Таким образом,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_097",
+        "jp": "一方では、",
+        "en": "On the other hand,",
+        "ru": "С другой стороны,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_098",
+        "jp": "逆に、",
+        "en": "On the contrary,",
+        "ru": "Напротив,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_099",
+        "jp": "具体的には、",
+        "en": "Specifically,",
+        "ru": "В частности,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_100",
+        "jp": "言い換えてみれば、",
+        "en": "In other words,",
+        "ru": "Другими словами,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_101",
+        "jp": "言ってみれば、",
+        "en": "Actually,",
+        "ru": "На самом деле,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_102",
+        "jp": "言い訳しないで、",
+        "en": "Don't make excuses;",
+        "ru": "Не оправдывайся;"
+    },
+    {
+        "id": "SUPPORT_WORD_02_103",
+        "jp": "他方では、",
+        "en": "That said,",
+        "ru": "Тем не менее,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_104",
+        "jp": "特に、",
+        "en": "In particular,",
+        "ru": "В частности,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_105",
+        "jp": "反対に、",
+        "en": "Conversely,",
+        "ru": "И наоборот,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_106",
+        "jp": "要するに、",
+        "en": "Basically,",
+        "ru": "В основном,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_107",
+        "jp": "例えるなら、",
+        "en": "To give an example,",
+        "ru": "Чтобы привести пример,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_108",
+        "jp": "と言って、からの……、",
+        "en": "With that in mind,",
+        "ru": "Размышляя об этом,"
+    },
+    {
+        "id": "SUPPORT_WORD_02_109",
+        "jp": "その心は、",
+        "en": "The feeling is:",
+        "ru": "Такое чувство:"
+    },
+    {
+        "id": "SUPPORT_WORD_02_110",
+        "jp": "いつだって、",
+        "en": "One thing is certain:",
+        "ru": "Одно можно сказать наверняка:"
+    },
+    {
+        "id": "SUPPORT_WORD_03_000",
+        "jp": "エミールの如く、風となれ！",
+        "en": "become the wind, like Emil!",
+        "ru": "стань ветром, как Эмиль!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_001",
+        "jp": "冷静にやりゃなんとかなるって。",
+        "en": "it'll work out if you stay calm.",
+        "ru": "это сработает, если сохранять спокойствие."
+    },
+    {
+        "id": "SUPPORT_WORD_03_002",
+        "jp": "２Ｂのようにワイルドになれ！",
+        "en": "get wild, like 2B!",
+        "ru": "Покажи такую же силу, как у 2B!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_003",
+        "jp": "大切なものの為に戦え！",
+        "en": "fight for what's important to you!",
+        "ru": "борись за то, что важно для тебя!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_004",
+        "jp": "叫んでもいいんだ！",
+        "en": "scream if you need to!",
+        "ru": "кричи, если нужно!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_005",
+        "jp": "その苦しみが人を成長させるんだよ。",
+        "en": "suffering makes people grow.",
+        "ru": "страдания делают человека сильнее."
+    },
+    {
+        "id": "SUPPORT_WORD_03_006",
+        "jp": "僕も頑張る！",
+        "en": "I'll give it all I've got!",
+        "ru": "я отдам всё, что у меня есть!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_007",
+        "jp": "一緒に楽しみましょう！",
+        "en": "let's enjoy this!",
+        "ru": "насладись этим!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_008",
+        "jp": "君もがんばってください！",
+        "en": "you should do your best, too!",
+        "ru": "ты тоже должен постараться изо всех сил."
+    },
+    {
+        "id": "SUPPORT_WORD_03_009",
+        "jp": "もう少し続けてみてはいかがでしょう？",
+        "en": "how about trying to go a little farther?",
+        "ru": "как насчёт того, чтобы зайти немного дальше?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_010",
+        "jp": "根性出せ！",
+        "en": "show me what you're made of!",
+        "ru": "покажи мне, из чего ты сделан!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_011",
+        "jp": "ここでやめるな！",
+        "en": "don't give up here!",
+        "ru": "не сдавайся здесь!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_012",
+        "jp": "タノシイネ！",
+        "en": "it's fun!",
+        "ru": "это весело!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_013",
+        "jp": "ヨロコビヲ ワカチアオウ！",
+        "en": "let's share in our joy!",
+        "ru": "давай поделимся нашей радостью!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_014",
+        "jp": "あきらめないで！",
+        "en": "never surrender!",
+        "ru": "никогда не сдавайся!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_015",
+        "jp": "続けろ！",
+        "en": "keep going!",
+        "ru": "продолжай!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_016",
+        "jp": "世界中のみんなが応援しています。",
+        "en": "the whole world is rooting for you.",
+        "ru": "весь мир болеет за тебя."
+    },
+    {
+        "id": "SUPPORT_WORD_03_017",
+        "jp": "必ず成功するでしょう！",
+        "en": "we've got this!",
+        "ru": "мы сделаем это!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_018",
+        "jp": "落ち着いてプレイすれば大丈夫。",
+        "en": "you'll be fine if you stay calm.",
+        "ru": "всё будет хорошо, если сохранять спокойствие."
+    },
+    {
+        "id": "SUPPORT_WORD_03_019",
+        "jp": "気楽に行って。",
+        "en": "stay optimistic.",
+        "ru": "оставайся оптимистом."
+    },
+    {
+        "id": "SUPPORT_WORD_03_020",
+        "jp": "本当の結末を見に行こうよ。",
+        "en": "let's see how this really ends.",
+        "ru": "давай посмотрим, чем это закончится."
+    },
+    {
+        "id": "SUPPORT_WORD_03_021",
+        "jp": "夜はこれからじゃない？",
+        "en": "the night has just begun.",
+        "ru": "ночь только началась."
+    },
+    {
+        "id": "SUPPORT_WORD_03_022",
+        "jp": "私は応援している。",
+        "en": "I'm in your corner.",
+        "ru": "я на твоей стороне."
+    },
+    {
+        "id": "SUPPORT_WORD_03_023",
+        "jp": "命を無駄にするな。",
+        "en": "don't throw your life away.",
+        "ru": "не разбрасывайся своей жизнью."
+    },
+    {
+        "id": "SUPPORT_WORD_03_024",
+        "jp": "私達がついている。",
+        "en": "you've got us with you.",
+        "ru": "вы взяли нас с собой."
+    },
+    {
+        "id": "SUPPORT_WORD_03_025",
+        "jp": "あと少しだけがんばりましょう。",
+        "en": "keep trying for just a biiiit longer!",
+        "ru": "попробуй еще немножечко!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_026",
+        "jp": "もっとやれるはずだ。",
+        "en": "we should be able to get further.",
+        "ru": "мы должны зайти ещё дальше."
+    },
+    {
+        "id": "SUPPORT_WORD_03_027",
+        "jp": "努力は報われる。",
+        "en": "effort will be rewarded.",
+        "ru": "усилия будут вознаграждены."
+    },
+    {
+        "id": "SUPPORT_WORD_03_028",
+        "jp": "君を助けたい。",
+        "en": "I want to help you.",
+        "ru": "я хочу помочь тебе."
+    },
+    {
+        "id": "SUPPORT_WORD_03_029",
+        "jp": "冷静になってみろ。",
+        "en": "try to stay cool.",
+        "ru": "попытайся сохранять спокойствие."
+    },
+    {
+        "id": "SUPPORT_WORD_03_030",
+        "jp": "力を抜いてみて。",
+        "en": "try to relax.",
+        "ru": "постарайся успокоиться."
+    },
+    {
+        "id": "SUPPORT_WORD_03_031",
+        "jp": "その先に光がある。",
+        "en": "there's light at the end of the tunnel.",
+        "ru": "есть свет в конце туннеля."
+    },
+    {
+        "id": "SUPPORT_WORD_03_032",
+        "jp": "君だけじゃないよ。",
+        "en": "you're not the only one.",
+        "ru": "я с тобой."
+    },
+    {
+        "id": "SUPPORT_WORD_03_033",
+        "jp": "応援している。",
+        "en": "I'm rooting for you.",
+        "ru": "я болею за тебя."
+    },
+    {
+        "id": "SUPPORT_WORD_03_034",
+        "jp": "誘惑に負けないで！",
+        "en": "don't give in to temptation!",
+        "ru": "не поддавайтесь искушению!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_035",
+        "jp": "自力で頑張れる！",
+        "en": "rely on your own strength!",
+        "ru": "полагайся на собственные силы!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_036",
+        "jp": "もう一度だ。",
+        "en": "give it one more go.",
+        "ru": "дайте ему ещё один шанс."
+    },
+    {
+        "id": "SUPPORT_WORD_03_037",
+        "jp": "一息入れてください。",
+        "en": "take a breather.",
+        "ru": "сделай передышку."
+    },
+    {
+        "id": "SUPPORT_WORD_03_038",
+        "jp": "とりあえず続けろ。",
+        "en": "keep going for now.",
+        "ru": "продолжай двигаться вперёд."
+    },
+    {
+        "id": "SUPPORT_WORD_03_039",
+        "jp": "自信を持ってね。",
+        "en": "believe in yourself.",
+        "ru": "верь в себя."
+    },
+    {
+        "id": "SUPPORT_WORD_03_040",
+        "jp": "まだまだ長いぞ。",
+        "en": "there's still a long way to go.",
+        "ru": "ещё предстоит пройти долгий путь."
+    },
+    {
+        "id": "SUPPORT_WORD_03_041",
+        "jp": "君がやらなくて誰がやるの！？",
+        "en": "if you won't do it, who will?",
+        "ru": "если ты не сделаешь этого, тогда кто?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_042",
+        "jp": "怖気づくな！",
+        "en": "don't lose your nerve!",
+        "ru": "не трать свои нервы!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_043",
+        "jp": "がんばれ！",
+        "en": "break a leg!",
+        "ru": "ни пуха ни пера!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_044",
+        "jp": "やりゃーできる！",
+        "en": "you can do it if you try!",
+        "ru": "ты сможешь, если постараешься!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_045",
+        "jp": "一気に進みきれ！",
+        "en": "push through in one go!",
+        "ru": "покончи с этим одним махом!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_046",
+        "jp": "どってことないさ！",
+        "en": "there's nothing to worry about!",
+        "ru": "не о чем беспокоиться!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_047",
+        "jp": "全力前進です！",
+        "en": "full steam ahead!",
+        "ru": "полный вперёд!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_048",
+        "jp": "大丈夫。",
+        "en": "it's all right.",
+        "ru": "всё хорошо."
+    },
+    {
+        "id": "SUPPORT_WORD_03_049",
+        "jp": "うまくいくよ！",
+        "en": "everything will be fine!",
+        "ru": "всё будет хорошо!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_050",
+        "jp": "少しずつ歩めばいい。",
+        "en": "take it one step at a time.",
+        "ru": "делай всё постепенно."
+    },
+    {
+        "id": "SUPPORT_WORD_03_051",
+        "jp": "休憩してもいい。",
+        "en": "it's OK to take a break.",
+        "ru": "сделать перерыв — это нормально."
+    },
+    {
+        "id": "SUPPORT_WORD_03_052",
+        "jp": "無理をするな。",
+        "en": "don't push yourself.",
+        "ru": "не стоит себя загонять."
+    },
+    {
+        "id": "SUPPORT_WORD_03_053",
+        "jp": "ゆっくり思い出していこう！",
+        "en": "take your time remembering.",
+        "ru": "постарайся всё запомнить."
+    },
+    {
+        "id": "SUPPORT_WORD_03_054",
+        "jp": "ヨロコビヲ、ワカチアオウ！",
+        "en": "let us share in our joy!",
+        "ru": "давайте же поделимся нашей радостью!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_055",
+        "jp": "落ち着こうか。",
+        "en": "let's calm down.",
+        "ru": "давай успокоимся."
+    },
+    {
+        "id": "SUPPORT_WORD_03_056",
+        "jp": "もうひとふんばりだよ！",
+        "en": "hang on just a bit longer!",
+        "ru": "продержитесь ещё чуть-чуть!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_057",
+        "jp": "まだいける。",
+        "en": "I can keep going.",
+        "ru": "я могу продолжать."
+    },
+    {
+        "id": "SUPPORT_WORD_03_058",
+        "jp": "足掻け！",
+        "en": "never give up the struggle!",
+        "ru": "никогда не сдавайтесь!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_059",
+        "jp": "次こそうまくやればいいです。",
+        "en": "just do better next time.",
+        "ru": "в следующий раз сделай всё как следует."
+    },
+    {
+        "id": "SUPPORT_WORD_03_060",
+        "jp": "他人のプレイに任せてしまおう。",
+        "en": "let someone else play for you.",
+        "ru": "пусть кто-то другой играет за вас."
+    },
+    {
+        "id": "SUPPORT_WORD_03_061",
+        "jp": "貴方に出来る訳がない。",
+        "en": "there's no way you can do it.",
+        "ru": "вы не сможете этого сделать."
+    },
+    {
+        "id": "SUPPORT_WORD_03_062",
+        "jp": "心が折れるだろう？",
+        "en": "you'll reach the end of your rope.",
+        "ru": "вы обязательно достигните конца."
+    },
+    {
+        "id": "SUPPORT_WORD_03_063",
+        "jp": "キミは役立たずだ。",
+        "en": "you're worthless.",
+        "ru": "ты бесполезен."
+    },
+    {
+        "id": "SUPPORT_WORD_03_064",
+        "jp": "負け犬のまま終わってしまおう。",
+        "en": "you lost. Let it go.",
+        "ru": "ты проиграл, забей."
+    },
+    {
+        "id": "SUPPORT_WORD_03_065",
+        "jp": "もうすでに終わってますよ。",
+        "en": "it's already over.",
+        "ru": "всё уже позади."
+    },
+    {
+        "id": "SUPPORT_WORD_03_066",
+        "jp": "たかだかゲームだ。現実を見ろ。",
+        "en": "it's just a game. Face reality already!",
+        "ru": "это всего лишь игра, посмотрите правде в лицо!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_067",
+        "jp": "諦めて。",
+        "en": "surrender.",
+        "ru": "сдайся."
+    },
+    {
+        "id": "SUPPORT_WORD_03_068",
+        "jp": "死んでしまえ。",
+        "en": "just forget it.",
+        "ru": "забудь об этом."
+    },
+    {
+        "id": "SUPPORT_WORD_03_069",
+        "jp": "意味が無いんだよ。",
+        "en": "it's meaningless.",
+        "ru": "это бессмысленно."
+    },
+    {
+        "id": "SUPPORT_WORD_03_070",
+        "jp": "時間の無駄だよ。",
+        "en": "you're wasting your time.",
+        "ru": "ты тратишь своё время."
+    },
+    {
+        "id": "SUPPORT_WORD_03_071",
+        "jp": "帰ったほうが良いですよ？",
+        "en": "why not head home?",
+        "ru": "почему бы не отправиться домой?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_072",
+        "jp": "電源を切れ。",
+        "en": "turn the power off.",
+        "ru": "выключай компьютер."
+    },
+    {
+        "id": "SUPPORT_WORD_03_073",
+        "jp": "君は必要ない。",
+        "en": "you're not needed.",
+        "ru": "ты не нужен."
+    },
+    {
+        "id": "SUPPORT_WORD_03_074",
+        "jp": "ゲームを投げ出そう。",
+        "en": "give up the game.",
+        "ru": "откажись от игры."
+    },
+    {
+        "id": "SUPPORT_WORD_03_075",
+        "jp": "消えろ。",
+        "en": "disappear.",
+        "ru": "исчезни."
+    },
+    {
+        "id": "SUPPORT_WORD_03_076",
+        "jp": "今すぐゲームのコントローラーを置けばいい。",
+        "en": "you can just put down the controller.",
+        "ru": "просто отложи геймпад."
+    },
+    {
+        "id": "SUPPORT_WORD_03_077",
+        "jp": "オマエはクソッタレだ。",
+        "en": "you're worthless.",
+        "ru": "ты бесполезен."
+    },
+    {
+        "id": "SUPPORT_WORD_03_078",
+        "jp": "もっと他に楽しいこと探しなよ？",
+        "en": "go look for something else to enjoy.",
+        "ru": "попробуй насладиться чем-нибудь другим."
+    },
+    {
+        "id": "SUPPORT_WORD_03_079",
+        "jp": "こんなクダラナイ事をやりつづける意味はない。",
+        "en": "it's stupid to continue this nonsense.",
+        "ru": "глупо продолжать эту чушь."
+    },
+    {
+        "id": "SUPPORT_WORD_03_080",
+        "jp": "もう止めてしまっていいよ。",
+        "en": "why not just stop already?",
+        "ru": "почему бы уже не остановиться?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_081",
+        "jp": "NieR:Automataみたいなクソゲー捨ててしまえ！",
+        "en": "this game is crap anyway.",
+        "ru": "в любом случае, эта игра — дерьмо."
+    },
+    {
+        "id": "SUPPORT_WORD_03_082",
+        "jp": "プラチナゲームズなんて嫌いだ！",
+        "en": "I hate PlatinumGames!",
+        "ru": "я ненавижу PlatinumGames!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_083",
+        "jp": "オマエのような下手くそにプレイする意味はない。",
+        "en": "just stop playing if you're that bad.",
+        "ru": "если ты криворукий, просто закрой игру."
+    },
+    {
+        "id": "SUPPORT_WORD_03_084",
+        "jp": "君はゲームの中でも不必要な人間だ。",
+        "en": "even in video games, you're useless.",
+        "ru": "даже в играх ты бесполезен."
+    },
+    {
+        "id": "SUPPORT_WORD_03_085",
+        "jp": "現実世界に戻る時間だ。",
+        "en": "it's time to return to the real world.",
+        "ru": "время вернуться в реальный мир."
+    },
+    {
+        "id": "SUPPORT_WORD_03_086",
+        "jp": "嫌いじゃないだろう？",
+        "en": "it's not like you hate it, right?",
+        "ru": "не похоже, что вам это не нравится, да?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_087",
+        "jp": "孤独こそが人を強くする。",
+        "en": "solitude makes people stronger.",
+        "ru": "одиночество делает людей сильнее."
+    },
+    {
+        "id": "SUPPORT_WORD_03_088",
+        "jp": "遊びだからこそ、心を燃やせ！",
+        "en": "it's a game. Go wild!",
+        "ru": "это игра. Развлекайся!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_089",
+        "jp": "私もだ。",
+        "en": "I feel the same.",
+        "ru": "я тоже это чувствую."
+    },
+    {
+        "id": "SUPPORT_WORD_03_090",
+        "jp": "目を逸らし、背を向けるのか？",
+        "en": "can you avert your eyes and walk away?",
+        "ru": "ты сможешь отвернуться и уйти?"
+    },
+    {
+        "id": "SUPPORT_WORD_03_091",
+        "jp": "諦めが肝心だ。",
+        "en": "you need to know when to give up.",
+        "ru": "тебе нужно знать, когда сдаться."
+    },
+    {
+        "id": "SUPPORT_WORD_03_092",
+        "jp": "お腹が減った。",
+        "en": "I'm starving.",
+        "ru": "я голоден."
+    },
+    {
+        "id": "SUPPORT_WORD_03_093",
+        "jp": "犠牲になろう。",
+        "en": "let's sacrifice ourselves.",
+        "ru": "давайте пожертвуем собой."
+    },
+    {
+        "id": "SUPPORT_WORD_03_094",
+        "jp": "指がつりそうだ。",
+        "en": "I feel a finger cramp coming on.",
+        "ru": "я чувствую, как судорога схватила за палец."
+    },
+    {
+        "id": "SUPPORT_WORD_03_095",
+        "jp": "お菓子でも食べよう。",
+        "en": "let's have some candy.",
+        "ru": "пора перекусить вкусняшками."
+    },
+    {
+        "id": "SUPPORT_WORD_03_096",
+        "jp": "孤独を生きましょう。",
+        "en": "let's live in solitude.",
+        "ru": "давайте жить в уединении."
+    },
+    {
+        "id": "SUPPORT_WORD_03_097",
+        "jp": "私は諦めた。",
+        "en": "I've given up.",
+        "ru": "я сдался."
+    },
+    {
+        "id": "SUPPORT_WORD_03_098",
+        "jp": "絶望せよ。",
+        "en": "wallow in despair!",
+        "ru": "окунись в отчаяние!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_099",
+        "jp": "人類に栄光あれ！",
+        "en": "glory to mankind!",
+        "ru": "слава человечеству!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_100",
+        "jp": "夜更かしはするなよ。",
+        "en": "don't stay up too late.",
+        "ru": "не ложись спать слишком поздно."
+    },
+    {
+        "id": "SUPPORT_WORD_03_101",
+        "jp": "掟は自由を知るためにある。",
+        "en": "rules exist so we can know our freedoms.",
+        "ru": "правила существуют, чтобы мы могли познать нашу свободу."
+    },
+    {
+        "id": "SUPPORT_WORD_03_102",
+        "jp": "お前のことを見ているぞ。",
+        "en": "I've got my eyes on you.",
+        "ru": "я слежу за тобой."
+    },
+    {
+        "id": "SUPPORT_WORD_03_103",
+        "jp": "ガンバレ！この※★○▲野郎！！",
+        "en": "put your back into it, you $&*@#!",
+        "ru": "готовь свою задницу!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_104",
+        "jp": "オレの方が上手いぞ！",
+        "en": "I'm better than you!",
+        "ru": "я лучше тебя!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_105",
+        "jp": "生き残れ！",
+        "en": "survive!",
+        "ru": "выживи!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_106",
+        "jp": "絶望を喰らいながら生きろ！",
+        "en": "feed on despair and survive!",
+        "ru": "вкуси отчаяние и выживи!"
+    },
+    {
+        "id": "SUPPORT_WORD_03_107",
+        "jp": "さようなら。",
+        "en": "goodbye.",
+        "ru": "прощай."
+    }
+]

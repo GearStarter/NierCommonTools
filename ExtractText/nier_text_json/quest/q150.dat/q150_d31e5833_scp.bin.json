@@ -1,0 +1,794 @@
+[
+    {
+        "id": "M5150_S0020_G0111_300_jackas",
+        "jp": "研究に協力してほしいところだけど、今はそれどころじゃないよな……",
+        "en": "I need your help with my research, but I'm kinda tied up at the moment.",
+        "ru": "Мне, конечно, нужна ваша помощь в моих исследованиях, но я, скажем так, пока что притомилась."
+    },
+    {
+        "id": "M5150_S0020_G0121_300_jackas",
+        "jp": "またあとで来てくれ！",
+        "en": "Come back later. And don't forget!",
+        "ru": "Приходите попозже. И не забывайте об этом!"
+    },
+    {
+        "id": "M5150_S0010_G0000_001_resiman",
+        "jp": "ふざけんなよ、ジャッカス。お前の道楽に付き合ってられるか！",
+        "en": "Leave me alone, Jackass! I can't deal with your weird hobbies anymore!",
+        "ru": "Оставь меня в покое, Джекэсс! Я более не хочу иметь дел с твоими странными увлечениями!"
+    },
+    {
+        "id": "M5150_S0010_G0010_001_jackas",
+        "jp": "ふーんだ！ケチ！",
+        "en": "Like I care what you think, jerk!",
+        "ru": "Да плевала я на то, что ты там себе думаешь, болван!"
+    },
+    {
+        "id": "M5150_S0010_G0020_001_jackas",
+        "jp": "ああ、アンタ達か。",
+        "en": "Oh. Hey there.",
+        "ru": "О. Приветик."
+    },
+    {
+        "id": "M5150_S0010_G0030_001_jackas",
+        "jp": "あいつ、ケチでさ……ちっとも仕事手伝ってくれないんだよね。",
+        "en": "Listen, just ignore that guy. Selfish fool refuses to help me with my work.",
+        "ru": "Слушайте, просто игнорируйте этого парня. Эгоистичный дурак отказывается помогать мне с работой."
+    },
+    {
+        "id": "M5150_S0010_G0050_001_jackas",
+        "jp": "今、戦闘状態におけるアンドロイドの興奮について調べてるんだ。",
+        "en": "See, I'm doing a study on the excitement levels of androids while in battle.",
+        "ru": "Дело такое: я изучаю эмоциональные уровни андроидов во время битвы."
+    },
+    {
+        "id": "M5150_S0010_G0060_001_jackas",
+        "jp": "で、さらなる機能拡張の為に最新型の戦闘データを取らせて\\n欲しいんだけど……",
+        "en": "But I need to record combat data from the newest models in order to reach more steady conclusions. So whatcha think? Fun, right?",
+        "ru": "Но чтобы закрепить выводы, мне необходимы боевые данные андроидов\\nпоследней модели. Что скажете? Весело ведь?"
+    },
+    {
+        "id": "M5150_S0010_G0070_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0010_G0080_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0000_001_jackas",
+        "jp": "そうか、ありがとう！",
+        "en": "All right! Good to know not everyone around this joint is a spineless hunk of crap!",
+        "ru": "Хорошо! Рада слышать, что не все здесь — бесхарактерные куски дерьма!"
+    },
+    {
+        "id": "M5150_S0010_G0090_001_resiman",
+        "jp": "まったく、ジャッカスときたら……",
+        "en": "Man, I have had it up to HERE with Jackass lately. I mean, come on...",
+        "ru": "Блин, как же меня достала эта Джекэсс. Я имею в виду, ну сколько можно..."
+    },
+    {
+        "id": "M5150_S0010_G0001_300_jackas",
+        "jp": "協力してくれる気になったのかい？",
+        "en": "Feel like helping yet?",
+        "ru": "Не желаете ли помочь?"
+    },
+    {
+        "id": "M5150_S0010_G0011_300_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0010_G0021_300_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0001_001_jackas",
+        "jp": "じゃあ、ちょっとついてきてくれ。",
+        "en": "Here. Follow me.",
+        "ru": "Сюда. Следуйте за мной."
+    },
+    {
+        "id": "M5150_S0020_G0002_001_jackas",
+        "jp": "ほら、あそこに敵が見えるだろう？",
+        "en": "All right. See that jerk over there?",
+        "ru": "Ладненько. Видите того засранца?"
+    },
+    {
+        "id": "M5150_S0020_G0003_001_jackas",
+        "jp": "アイツとの戦闘データを取りたいんだよ。",
+        "en": "I need you to get combat data for him.",
+        "ru": "Мне нужно, чтобы вы добыли боевые данные для него."
+    },
+    {
+        "id": "M5150_S0020_G0010_001_jackas",
+        "jp": "では、さらなる科学の発展の為に……いざ、戦いたまえ！",
+        "en": "Science will pay you back for this, I promise. Now...FIGHT!",
+        "ru": "Наука окупит нам это сторицей, обещаю. А теперь... В БОЙ!"
+    },
+    {
+        "id": "M5150_S0020_G0180_001_jackas",
+        "jp": "あそこにいる敵を全滅させて欲しいんだよね。やってくれるかい？",
+        "en": "I need you to wipe out those enemies over there. Think you can handle that? Mmmm?",
+        "ru": "Мне нужно, чтобы вы уничтожили вон тех противников. Ну как, справитесь? М-м-м?"
+    },
+    {
+        "id": "M5150_S0020_G0030_300_jackas",
+        "jp": "どうした？遠慮せずどんどんやってくれたまえ！",
+        "en": "Come on! Do it already! Don't hold anything back!",
+        "ru": "Ну же! Давай! Не сдерживайся!"
+    },
+    {
+        "id": "M5150_S0020_G0040_300_jackas",
+        "jp": "おい、どうしたんだ？早く戦いたまえ。",
+        "en": "Hey, what's the hold-up? Hurry up and start kicking some ass!",
+        "ru": "Эй, чего тянете? Поторопитесь и надерите там пару задниц!"
+    },
+    {
+        "id": "M5150_S0020_G0170_001_jackas",
+        "jp": "……あれ、ちょっと難しくし過ぎた？これじゃデータにならないなぁ。\\nやり直しを要求するッ！",
+        "en": "Okay, that was pathetic. I mean, you are REALLY starting to chap my chrome over here. Now try it again!",
+        "ru": "Итак, это было никчёмно. Я имею в виду, из-за вас у меня ДЕЙСТВИТЕЛЬНО\\nпотрескается всё моё хромирование. Попробуйте ещё раз!"
+    },
+    {
+        "id": "M5150_S0020_G0050_300_jackas",
+        "jp": "やる気になってくれた？",
+        "en": "Feel like helping yet?",
+        "ru": "Не желаете ли помочь?"
+    },
+    {
+        "id": "M5150_S0020_G0060_300_sele",
+        "jp": "うん",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5150_S0020_G0070_300_sele",
+        "jp": "いや……",
+        "en": "Beg off.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5150_S0020_G0080_300_jackas",
+        "jp": "素晴らしい！じゃあ再開といこうか！",
+        "en": "Peachy. Let's get rolling, then.",
+        "ru": "Чудненько. Что ж, давайте приступим."
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5920_S0010_G0250_001_pod042",
+        "jp": "依頼されていた目的を達成。",
+        "en": "Requested mission completed.",
+        "ru": "Задание выполнено."
+    },
+    {
+        "id": "M5150_S0020_G0130_001_jackas",
+        "jp": "うんうん、素晴らしい！お蔭で良いデータが取れたよ、ありがとう。",
+        "en": "Oh man. Oh man, oh man. That was GREAT!",
+        "ru": "Ох, блин. Блин-блинский. Это было ВЕЛИКОЛЕПНО!"
+    },
+    {
+        "id": "M5150_S0020_G0140_001_jackas",
+        "jp": "知ってるかい？戦闘状態における興奮は、人類の記録にある『恋』と\\n良く似ているんだ。",
+        "en": "Hey, did you know that android battle fever is actually quite similar to the human emotion of \"love\"?",
+        "ru": "Эй, а вы знали, что боевое упоение андроида очень похоже на человеческую эмоцию \"любви\"?"
+    },
+    {
+        "id": "M5150_S0020_G0150_001_jackas",
+        "jp": "つまり、戦う事で『恋』の疑似体験が出来る……とも言える。",
+        "en": "So if we want to know what all those old human records are always going on about, all we need to do is let our fists fly!",
+        "ru": "Поэтому, если мы хотим получше разобраться в данных людей, всё, что нам нужно — дать свободу нашим кулакам!"
+    },
+    {
+        "id": "M5150_S0020_G0160_001_jackas",
+        "jp": "そう考えると、戦闘も中々にロマンチックだろう？",
+        "en": "Makes this whole thing feel more romantic, don't you think?",
+        "ru": "Становится всё романтичнее, вы так не считаете?"
+    },
+    {
+        "id": "M5150_S0040_G0000_300_jackas",
+        "jp": "うーん、まだデータが足りないなぁ……。\\n君、もう少し協力してくれないか？",
+        "en": "Hmmm, I still don't have enough data...\\nI could use some more help.",
+        "ru": "Хм, данных всё ещё недостаточно...\\nМне стоит прибегнуть к помощи со стороны."
+    },
+    {
+        "id": "M5150_S0040_G0030_300_sele",
+        "jp": "協力する",
+        "en": "Give her a hand.",
+        "ru": "Протянуть ей руку помощи."
+    },
+    {
+        "id": "M5150_S0040_G0040_300_sele",
+        "jp": "また今度",
+        "en": "Keep your hands to yourself.",
+        "ru": "Держать руки при себе."
+    },
+    {
+        "id": "M5150_S0040_G0050_300_jackas",
+        "jp": "そうこなくっちゃな。",
+        "en": "That's what I'm talkin' about!",
+        "ru": "Как раз об этом я и говорю!"
+    },
+    {
+        "id": "M5150_S0020_G0330_001_jackas",
+        "jp": "あそこにいる敵を全滅させて欲しいんだが\\n『一度もダメージを受けてはいけない』から。",
+        "en": "Okay! So I need you to wipe out those enemies over there without taking any damage. Like, at all. Zero. Zip. Naaaaada.",
+        "ru": "Хорошо! Мне нужно, чтобы вы уничтожили тех противников, не получив при этом урона. Только и всего. Ноль. Быстро. Прям бах."
+    },
+    {
+        "id": "M5150_S0040_G0075_300_jackas",
+        "jp": "では、さらなる科学の発展の為に……いざ、戦いたまえ！",
+        "en": "Now it's time to fight! \\nIn the name... OF SCIENCE!",
+        "ru": "Пришло время сражаться!\\nВо имя... НАУКИ!"
+    },
+    {
+        "id": "M5150_S0020_G0308_001_jackas",
+        "jp": "他にも調査したい事が沢山あるから、またいつでも声をかけてくれ。",
+        "en": "There's lots of other research I need help with, so don't hesitate to holler at me.",
+        "ru": "Есть много других исследований, с которыми мне нужна помощь, поэтому не стесняйтесь и приходите почаще."
+    },
+    {
+        "id": "M5150_S0020_G0310_001_jackas",
+        "jp": "お、まだまだヤル気満々だねぇ～今度の戦闘は面白いぞ。",
+        "en": "Hey there! Big challenge this time, but I know you're up for it.",
+        "ru": "Привет! На этот раз дело серьёзное, но я знаю — вы точно готовы."
+    },
+    {
+        "id": "M5150_S0020_G0320_001_jackas",
+        "jp": "是非ともデータを取らせてくれたまえ！",
+        "en": "And I ALSO know you'll let me record some of that sweet, sweet data.",
+        "ru": "И также я знаю, что вы позволите мне записать немного чудесных, прекрасных боевых данных."
+    },
+    {
+        "id": "M5150_S0020_G0330_001_jackas",
+        "jp": "あそこにいる敵を全滅させて欲しいんだが\\n『一度もダメージを受けてはいけない』から。",
+        "en": "Okay! So I need you to wipe out those enemies over there without taking any damage. Like, at all. Zero. Zip. Naaaaada.",
+        "ru": "Хорошо! Мне нужно, чтобы вы уничтожили тех противников, не получив при этом урона. Только и всего. Ноль. Быстро. Прям бах."
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0340_001_jackas",
+        "jp": "そうか、ありがとう！では、さらなる科学の発展の為に……\\nいざ、戦いたまえ！",
+        "en": "Remember that science will reward you handsomely for your efforts. Now...FIGHT!",
+        "ru": "Запомните, наука стократно вознаградит вас за ваши усилия. А теперь... В БОЙ!"
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5150_S0020_G0430_001_jackas",
+        "jp": "あそこの、敵を全滅させて欲しいんだが\\n『一度もダメージを受けてはいけない』……できるかい？",
+        "en": "I need you to wipe out those enemies over there without taking any damage. Think you can handle that?",
+        "ru": "Мне нужно, чтобы вы уничтожили вон тех противников, не получив урона. Справитесь?"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0030_300_jackas",
+        "jp": "どうした？遠慮せずどんどんやってくれたまえ！",
+        "en": "Come on! Do it already! Don't hold anything back!",
+        "ru": "Ну же! Давай! Не сдерживайся!"
+    },
+    {
+        "id": "M5150_S0020_G0170_001_jackas",
+        "jp": "……あれ、ちょっと難しくし過ぎた？これじゃデータにならないなぁ。\\nやり直しを要求するッ！",
+        "en": "Okay, that was pathetic. I mean, you are REALLY starting to chap my chrome over here. Now try it again!",
+        "ru": "Итак, это было никчёмно. Я имею в виду, из-за вас у меня ДЕЙСТВИТЕЛЬНО\\nпотрескается всё моё хромирование. Попробуйте ещё раз!"
+    },
+    {
+        "id": "M5150_S0020_G0430_001_jackas",
+        "jp": "あそこの、敵を全滅させて欲しいんだが\\n『一度もダメージを受けてはいけない』……できるかい？",
+        "en": "I need you to wipe out those enemies over there without taking any damage. Think you can handle that?",
+        "ru": "Мне нужно, чтобы вы уничтожили вон тех противников, не получив урона. Справитесь?"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0080_300_jackas",
+        "jp": "素晴らしい！じゃあ再開といこうか！",
+        "en": "Peachy. Let's get rolling, then.",
+        "ru": "Чудненько. Что ж, давайте приступим."
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5920_S0010_G0250_001_pod042",
+        "jp": "依頼されていた目的を達成。",
+        "en": "Requested mission completed.",
+        "ru": "Задание выполнено."
+    },
+    {
+        "id": "M5150_S0020_G0350_001_jackas",
+        "jp": "いや、さすがヨルハ部隊。期待以上のデータが取れたよ！",
+        "en": "YESSSSS! I love you YoRHa goons. I really do. Just look at all this data!",
+        "ru": "ДА-А-А-А! Обожаю вас, головорезов YoRHa. На полном серьёзе. Только поглядите на эти данные!"
+    },
+    {
+        "id": "M5150_S0020_G0360_001_jackas",
+        "jp": "時に、キミ達ヨルハは戦闘に特化しているが、普通に思考は\\nしているみたいだね。",
+        "en": "Speaking of YoRHa goons, I'm a bit surprised you types are so...intellectual.",
+        "ru": "Кстати говоря о головорезах YoRHa, я немного удивлена, что вы такие... умные."
+    },
+    {
+        "id": "M5150_S0020_G0370_001_jackas",
+        "jp": "いやね、戦闘に特化したモデルなら普通の思考なんて邪魔かなと\\n思ってね。",
+        "en": "I thought combat models would be a bit more dense. Less thinking, more killing and all that?",
+        "ru": "Я думала, что боевые модели более туповатые. Ну, меньше думаешь, больше убиваешь, так ведь?"
+    },
+    {
+        "id": "M5150_S0020_G0380_001_jackas",
+        "jp": "むしろ無駄な機能だと思うんだけどねぇ。",
+        "en": "Frankly, giving you any kind of intellect at all strikes me as pointless.",
+        "ru": "По моему мнению, давать вам хоть какой-то интеллект — бессмысленно."
+    },
+    {
+        "id": "M5150_S0020_G0400_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5150_S0040_G0010_300_jackas",
+        "jp": "もっと……もっとデータが欲しい……！\\nもちろん、協力するだろう？",
+        "en": "More data... I NEED MORE DATA!\\nAnd YOU are going to help me, right?\\nThat's a rhetorical question by the way.",
+        "ru": "Больше данных... МНЕ НУЖНО БОЛЬШЕ ДАННЫХ! Вы ведь поможете мне, да? И кстати, это был риторический вопрос."
+    },
+    {
+        "id": "M5150_S0040_G0030_300_sele",
+        "jp": "協力する",
+        "en": "Give her a hand.",
+        "ru": "Протянуть ей руку помощи."
+    },
+    {
+        "id": "M5150_S0040_G0040_300_sele",
+        "jp": "また今度",
+        "en": "Keep your hands to yourself.",
+        "ru": "Держать руки при себе."
+    },
+    {
+        "id": "M5150_S0020_G0441_001_jackas",
+        "jp": "おお、また挑戦してくれるのか？いいねぇ。\\nヤル気がオーバーフローしているねぇ！",
+        "en": "Still haven't had enough, eh? I like you! You've got GUTS! Metaphorically speaking, of course.",
+        "ru": "Всё ещё недостаточно, да? Я вас обожаю! Кишка у вас не тонка! Образно говоря, конечно же."
+    },
+    {
+        "id": "M5150_S0020_G0445_001_jackas",
+        "jp": "あそこにいる敵を『３０秒以内』に殲滅して欲しいんだよね。",
+        "en": "I want you to take out those enemies over there in 30 seconds or less.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше."
+    },
+    {
+        "id": "M5150_S0040_G0075_300_jackas",
+        "jp": "では、さらなる科学の発展の為に……いざ、戦いたまえ！",
+        "en": "Now it's time to fight! \\nIn the name... OF SCIENCE!",
+        "ru": "Пришло время сражаться!\\nВо имя... НАУКИ!"
+    },
+    {
+        "id": "M5150_S0020_G0309_001_jackas",
+        "jp": "他にも手伝って欲しい事はあるんだな～\\nヒマになったら寄ってくれ。",
+        "en": "There's plenty of stuff to do around here, so drop why when you feel bored.",
+        "ru": "Здесь есть, чем заняться, так что заглядывайте, когда вам станет скучно."
+    },
+    {
+        "id": "M5150_S0020_G0440_001_jackas",
+        "jp": "キミ達！今度の戦闘は手強いぞ。",
+        "en": "Okay, killers. I've prepared a real rogues' gallery of thugs for you today.",
+        "ru": "Так, убийцы. Сегодня я приготовила для вас целую партию головорезов."
+    },
+    {
+        "id": "M5150_S0020_G0445_001_jackas",
+        "jp": "あそこにいる敵を『３０秒以内』に殲滅して欲しいんだよね。",
+        "en": "I want you to take out those enemies over there in 30 seconds or less.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше."
+    },
+    {
+        "id": "M5150_S0020_G0450_001_jackas",
+        "jp": "是非ともデータを取らせてくれたまえ！",
+        "en": "Because more thugs means more data! And more data means we get some BEAUTIFUL SCIENCE up in this joint!",
+        "ru": "Больше противников — больше данных! А большее количество данных позволит нам узреть всю КРАСОТУ НАУКИ!"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0480_001_jackas",
+        "jp": "そうか、ありがとう！では、さらなる科学の発展の為に……\\nいざ、戦いたまえ！",
+        "en": "You're doing good work here. You really are. Now...FIGHT!",
+        "ru": "Вы хорошо стараетесь. Правда. А теперь... В БОЙ!"
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5150_S0020_G0535_001_jackas",
+        "jp": "あそこにいる敵を『３０秒以内』に殲滅して欲しいんだ。",
+        "en": "I want you to wipe out those enemies in 30 seconds or less.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше."
+    },
+    {
+        "id": "M5150_S0020_G0460_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to get science up in the joint.",
+        "ru": "Согласиться помочь науке."
+    },
+    {
+        "id": "M5150_S0020_G0470_001_sele",
+        "jp": "協力しない。",
+        "en": "Walk away.",
+        "ru": "Уйти."
+    },
+    {
+        "id": "M5150_S0020_G0030_300_jackas",
+        "jp": "どうした？遠慮せずどんどんやってくれたまえ！",
+        "en": "Come on! Do it already! Don't hold anything back!",
+        "ru": "Ну же! Давай! Не сдерживайся!"
+    },
+    {
+        "id": "M5150_S0020_G0530_001_jackas",
+        "jp": "はい、駄目です。駄目駄目です。次は真面目にやってくださーい。",
+        "en": "Are you serious about this or what? Come ON already!",
+        "ru": "Вы серьёзно, что ли? Ой да ладно, ну же!"
+    },
+    {
+        "id": "M5150_S0020_G0535_001_jackas",
+        "jp": "あそこにいる敵を『３０秒以内』に殲滅して欲しいんだ。",
+        "en": "I want you to wipe out those enemies in 30 seconds or less.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше."
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0080_300_jackas",
+        "jp": "素晴らしい！じゃあ再開といこうか！",
+        "en": "Peachy. Let's get rolling, then.",
+        "ru": "Чудненько. Что ж, давайте приступим."
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5920_S0010_G0250_001_pod042",
+        "jp": "依頼されていた目的を達成。",
+        "en": "Requested mission completed.",
+        "ru": "Задание выполнено."
+    },
+    {
+        "id": "M5150_S0020_G0490_001_jackas",
+        "jp": "キミ達のお蔭で、面白いデータが取れたよ。これを見てくれ！",
+        "en": "Holy crispy crap on a stick... Now THIS is data!",
+        "ru": "Пресвятой чип мне в разъём... Вот ЭТО данные!"
+    },
+    {
+        "id": "M5150_S0020_G0500_001_jackas",
+        "jp": "ここ、この反応だ。どうやら、アンドロイドの回路内には『戦闘に\\n喜びを見出す』というアルゴリズムが組まれているようなんだ。",
+        "en": "Here, look at this. See this reaction? It proves that android brains contain an algorithm which allows them to derive pleasure from battle!",
+        "ru": "Только посмотрите. Видите эти показания? Это доказывает, что в мозгу\\nандроида есть алгоритм, позволяющий ему получать удовольствие от сражения!"
+    },
+    {
+        "id": "M5150_S0020_G0510_001_jackas",
+        "jp": "まあ、そうじゃなきゃ戦い続けていられないよねぇ。\\n実に効率的で素晴らしい！",
+        "en": "Without that, we'd probably have stopped fighting a long time ago. What a brutally efficient piece of evolution!",
+        "ru": "Без этого, мы, скорее всего, уже давно бы бросили сражаться. Какая зверски-эффективная часть развития!"
+    },
+    {
+        "id": "M5150_S0020_G0520_001_jackas",
+        "jp": "もしかしたら人類を模倣したのかな……だとしたら、人間とは何と\\n偉大なんだ！",
+        "en": "It's possible this is based on an identical pleasure center in the human brain. Man, those fleshbags really were something!",
+        "ru": "Возможно, он сделан наподобие центров наслаждения в мозгу человека. Ну и ну, а эти мешки с костями были что-то с чем-то!"
+    },
+    {
+        "id": "M5150_S0040_G0020_300_jackas",
+        "jp": "もう少しだけ、不足してるデータがあるんだ。協力してくれ。",
+        "en": "I just need a teensy bit more data...\\nYou look like you've got nothing better to do, \\nso give me a hand here!",
+        "ru": "Мне просто нужно ещё немного данных... Похоже, что вам совсем нечем\\nзаняться, так что протяните-ка мне руку помощи!"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0040_G0070_300_jackas",
+        "jp": "よし来た！君は最高だな！\\nこれが最後のデータ採取だ。",
+        "en": "Excellent! You're the best guinea pig a gal could ask for! This should be the last bit of data I need.",
+        "ru": "Отлично! Вы — лучшая морская свинка, о какой только может мечтать девушка! Это будет последние данные, которые мне были нужны."
+    },
+    {
+        "id": "M5150_S0020_G0545_001_jackas",
+        "jp": "『一度もダメージを受けず』に『３０秒以内』に敵を殲滅してほしい。",
+        "en": "I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше... Ой, и вам нельзя получать урон."
+    },
+    {
+        "id": "M5150_S0040_G0075_300_jackas",
+        "jp": "では、さらなる科学の発展の為に……いざ、戦いたまえ！",
+        "en": "Now it's time to fight! \\nIn the name... OF SCIENCE!",
+        "ru": "Пришло время сражаться!\\nВо имя... НАУКИ!"
+    },
+    {
+        "id": "M5150_S0040_G0100_300_jackas",
+        "jp": "これは君にしか頼めないことなんだ。わかるね？",
+        "en": "You're the only one stu...uh, brave enough to do this for me. You know that, right?",
+        "ru": "Вы единственные тупи... э-э, храбрецы, сделавшие это для меня. Вы ведь в курсе?"
+    },
+    {
+        "id": "M5150_S0020_G0540_001_jackas",
+        "jp": "今度の戦闘でデータの採取は最後だ。",
+        "en": "All right, my little science nerds. I have one more data-gathering battle for you.",
+        "ru": "Итак, мои маленькие любители науки. Для вас осталось последнее сражение со сбором данных."
+    },
+    {
+        "id": "M5150_S0020_G0545_001_jackas",
+        "jp": "『一度もダメージを受けず』に『３０秒以内』に敵を殲滅してほしい。",
+        "en": "I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше... Ой, и вам нельзя получать урон."
+    },
+    {
+        "id": "M5150_S0020_G0550_001_jackas",
+        "jp": "是非とも協力してくれ！",
+        "en": "So let's get out there and do it already! Woo!",
+        "ru": "Так что идите и сделайте это! Йеху!"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0580_001_jackas",
+        "jp": "そうか、ありがとう！では、さらなる科学の発展の為に……\\nいざ、戦いたまえ！",
+        "en": "Excellent! The fruits of science are but a battle away! Now, FIGHT!",
+        "ru": "Отлично! Плоды науки ждут нас после битвы! А теперь, В БОЙ!"
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5150_S0020_G0645_001_jackas",
+        "jp": "『一度もダメージを受けず』に『３０秒以内』に敵を殲滅……\\nやれるかい？",
+        "en": "I want you to wipe out those enemies in 30 seconds or less without taking any damage. Now MAKE IT HAPPEN!",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше,\\nне получив урона. А теперь ИДИТЕ и СДЕЛАЙТЕ ЭТО!"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0030_300_jackas",
+        "jp": "どうした？遠慮せずどんどんやってくれたまえ！",
+        "en": "Come on! Do it already! Don't hold anything back!",
+        "ru": "Ну же! Давай! Не сдерживайся!"
+    },
+    {
+        "id": "M5150_S0020_G0640_001_jackas",
+        "jp": "ここまで来てこの結果とは……\\n何事も全力で取り組んでいただきたい。",
+        "en": "Hey! This is NOT the time to start slacking off!",
+        "ru": "Эй! Сейчас НЕ время бездельничать!"
+    },
+    {
+        "id": "M5150_S0020_G0645_001_jackas",
+        "jp": "『一度もダメージを受けず』に『３０秒以内』に敵を殲滅……\\nやれるかい？",
+        "en": "I want you to wipe out those enemies in 30 seconds or less without taking any damage. Now MAKE IT HAPPEN!",
+        "ru": "Я хочу, чтобы вы уничтожили тех противников за 30 секунд или меньше,\\nне получив урона. А теперь ИДИТЕ и СДЕЛАЙТЕ ЭТО!"
+    },
+    {
+        "id": "M5150_S0020_G0331_001_sele",
+        "jp": "協力する。",
+        "en": "Agree to help Jackass.",
+        "ru": "Согласиться помочь Джекэсс."
+    },
+    {
+        "id": "M5150_S0020_G0332_001_sele",
+        "jp": "協力しない。",
+        "en": "Carefully turn her down.",
+        "ru": "Вежливо отказать ей."
+    },
+    {
+        "id": "M5150_S0020_G0080_300_jackas",
+        "jp": "素晴らしい！じゃあ再開といこうか！",
+        "en": "Peachy. Let's get rolling, then.",
+        "ru": "Чудненько. Что ж, давайте приступим."
+    },
+    {
+        "id": "M5150_S0020_G0090_300_jackas",
+        "jp": "そうか……やる気になったらまた声をかけてくれ。",
+        "en": "Freakin' USELESS. If you change your mind, let me know, I guess.",
+        "ru": "Чёртовы БЕЗДЕЛЬНИКИ. Если передумаете, дайте мне знать."
+    },
+    {
+        "id": "M5920_S0010_G0250_001_pod042",
+        "jp": "依頼されていた目的を達成。",
+        "en": "Requested mission completed.",
+        "ru": "Задание выполнено."
+    },
+    {
+        "id": "M5150_S0020_G0590_001_jackas",
+        "jp": "聞いてくれ！前回に引き続き、実に興味深い事が判ったんだ。",
+        "en": "Bloody hell. Bloody, nasty, gut-strewn HELL! Do you know what I just discovered?",
+        "ru": "Ну ни фига себе! Просто, мать его, ОХРЕНЕТЬ! Вы хоть представляете, что я только что обнаружила?"
+    },
+    {
+        "id": "M5150_S0020_G0600_001_jackas",
+        "jp": "戦闘状態におけるアンドロイドの興奮だが、ある種の快楽物質に\\n似た成分が回路内に生成される事が確認された。",
+        "en": "The excitement we feel in battle is caused by a type of pleasure-generating chemical produced in our circuits!",
+        "ru": "Эмоции, которые мы чувствуем в битве, вызваны химической реакцией наших схем, вызывающей наслаждение!"
+    },
+    {
+        "id": "M5150_S0020_G0610_001_jackas",
+        "jp": "これを利用すれば、機能拡張用の新しい薬を開発する事が\\n出来そうだ。",
+        "en": "Anyway, I think I can localize this substance and turn it into a drug that will help expand our combat capabilities.",
+        "ru": "В любом случае, мне кажется, я смогу создать субстанцию и превратить её в наркотик, который поможет усилить наши боевые возможности."
+    },
+    {
+        "id": "M5150_S0020_G0620_001_jackas",
+        "jp": "それもこれも、キミ達が協力してくれたお蔭だ。",
+        "en": "All these advances, and it's all thanks to YOU! ...See? I told you science was the best.",
+        "ru": "Все эти успехи были достигнуты благодаря ВАМ! ...Ну как? Я же говорила, что наука классная штука!"
+    },
+    {
+        "id": "M5150_S0020_G0630_001_jackas",
+        "jp": "ありがとう！薬が出来るのを楽しみにしていてくれたまえ。",
+        "en": "Anyway, keep an eye out for that drug. Once I get it synthesized, it's all yours.",
+        "ru": "В любом случае, подумайте об этом наркотике. Когда я изготовлю его, он целиком и полностью ваш."
+    },
+    {
+        "id": "M5150_S0020_G0100_300_jackas",
+        "jp": "薬ができるまで少し時間がかかるから、好きにしているといい。",
+        "en": "I can't just whip up a complicated drug like this overnight. Go keep yourself busy for a while, yeah?",
+        "ru": "Я не смогу управиться с этим за один день. Займитесь пока чем-нибудь другим, лады?"
+    },
+    {
+        "id": "M5920_S0010_G0180_001_pod042",
+        "jp": "報告：アクセスポイントからメール受信の連絡。",
+        "en": "Report: Mail notification received from access point.",
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+    },
+    {
+        "id": "M5150_S0030_G0000_001_jackas",
+        "jp": "やあ、キミ達！薬を試しに来てくれたのかい？",
+        "en": "Ha! I bet SOMEONE'S here to try out my new combat wonder drug!",
+        "ru": "Ха! Уверена, кто-то здесь явно опробовал мой расчудесный боевой наркотик!"
+    },
+    {
+        "id": "M5150_S0030_G0010_001_jackas",
+        "jp": "これがまた評判が良くてねぇ。一度使うと止められないらしいんだ。",
+        "en": "I've already handed it out to a few folks, and man, is it ever popular. One taste and you're hooked for life!",
+        "ru": "Я уже дала его нескольким андроидам, и блин, он пользуется спросом. Попробовав однажды, уже не слезешь!"
+    },
+    {
+        "id": "M5150_S0030_G0020_001_jackas",
+        "jp": "君達のお仲間にも気に入ってもらっている。",
+        "en": "And yeah, it sounds bad when I say it like that, but your YoRHa buddies don't seem to mind.",
+        "ru": "И да, это, конечно, звучит плохо, но, похоже, ваши дружки из YoRHa не возражают."
+    },
+    {
+        "id": "M5150_S0030_G0030_001_jackas",
+        "jp": "まあ、副作用でちょっとだけ精神が不安定になるんだが……",
+        "en": "Sure, there are some side effects... Like a horrifying destabilizing effect on one's psyche.",
+        "ru": "Однако есть некие побочные эффекты... Например, ужасное влияние на психику."
+    },
+    {
+        "id": "M5150_S0030_G0040_001_jackas",
+        "jp": "戦闘に特化したモデルなら問題ないはずだ。",
+        "en": "But none of that should be a problem for combat-focused models like you.",
+        "ru": "Но у таких сосредоточенных на бое моделей проблем возникнуть не должно."
+    },
+    {
+        "id": "M5150_S0030_G0050_001_jackas",
+        "jp": "手伝ってくれた君たちにもサービスであげるから、試してくれたまえ。",
+        "en": "Anyway, the first round's on me. Check it out and let me know what you think.",
+        "ru": "Как бы то ни было, первый раунд за мной. Опробуйте его и потом расскажите, что думаете о нём."
+    },
+    {
+        "id": "M5150_S0030_G0071_001_jackas",
+        "jp": "もっと薬が欲しければ、砂漠の奥にある油田にいるヨルハ部隊員を\\n訪ねてみるといい。",
+        "en": "If you want more, go visit the YoRHa unit at the oil field in the desert.",
+        "ru": "Если понадобится ещё, загляните к бойцу YoRHa в пустыню, около нефтяного месторождения."
+    },
+    {
+        "id": "M5150_S0030_G0072_001_jackas",
+        "jp": "そいつはレシピを聞いてきたから、きっと自分で作ってるはずだよ。",
+        "en": "She was asking for the recipe, so I'm sure she's cooking up a stash of her own.",
+        "ru": "Она спрашивала рецепт, поэтому я уверена, что она сможет изготовить его сама."
+    }
+]

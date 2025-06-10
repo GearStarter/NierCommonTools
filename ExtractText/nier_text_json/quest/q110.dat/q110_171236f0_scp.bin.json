@@ -1,0 +1,542 @@
+[
+    {
+        "id": "M5110_S0010_G0000_001_roboane",
+        "jp": "すみマセん！聞いて下サイ！",
+        "en": "Excuse me? Do you have a moment?",
+        "ru": "Извините? У вас не найдётся минутки?"
+    },
+    {
+        "id": "M5110_S0010_G0010_001_roboane",
+        "jp": "お願いシマス！オネガイします！",
+        "en": "Please, I need your help!",
+        "ru": "Мне нужна ваша помощь, прошу вас!"
+    },
+    {
+        "id": "M5110_S0010_G0020_001_roboane",
+        "jp": "あの、すみまセン！どうか、迷子になった私の妹を探してくれまセンカ？",
+        "en": "Um, excuse me? Can you please help me? I need to find my little sister. She's lost.",
+        "ru": "Эм, простите. Вы можете мне помочь? Мне нужно найти младшую сестру. Она потерялась."
+    },
+    {
+        "id": "M5110_S0010_G0021_001_sele",
+        "jp": "探す。",
+        "en": "Agree to help look for her.",
+        "ru": "Согласиться помочь с поисками."
+    },
+    {
+        "id": "M5110_S0010_G0022_001_sele",
+        "jp": "探さない。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5110_S0010_G0030_001_roboane",
+        "jp": "元はと言えば私が悪いんデス……",
+        "en": "And it's all my fault...",
+        "ru": "И всё это моя вина..."
+    },
+    {
+        "id": "M5110_S0010_G0040_001_roboane",
+        "jp": "あの子の前でふと『パーツの調子が悪い』なんてぼやいてしまったカラ。",
+        "en": "It seems she overheard me complaining about how one of my parts was starting to seize up.",
+        "ru": "Похоже, что она услышала, как я жаловалась на то, что одна из моих деталей начала заклинивать."
+    },
+    {
+        "id": "M5110_S0010_G0050_001_roboane",
+        "jp": "心配したあの子は、砂漠に代わりのパーツを探しに行ってくれたんデス。",
+        "en": "So she went off to the desert in search of a replacement.",
+        "ru": "Поэтому она ушла в пустыню в поисках детали на замену."
+    },
+    {
+        "id": "M5110_S0010_G0060_001_roboane",
+        "jp": "でも数日帰ってこなクテ……お礼はしますので、どうかお願いしマス！",
+        "en": "It's been days now, and she's still not back. Please, you have to help me! I'll pay you whatever you want!",
+        "ru": "Прошло уже много дней, а она всё ещё не вернулась. Прошу, вы должны помочь мне! Я дам вам всё, что вы пожелаете!"
+    },
+    {
+        "id": "M5110_S0010_G0070_001_roboane",
+        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
+        "en": "Can you please help me find my little sister? She's lost in the desert!",
+        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
+    },
+    {
+        "id": "M5110_S0010_G0021_001_sele",
+        "jp": "探す。",
+        "en": "Agree to help look for her.",
+        "ru": "Согласиться помочь с поисками."
+    },
+    {
+        "id": "M5110_S0010_G0022_001_sele",
+        "jp": "探さない。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5110_S0010_G0080_001_a9s",
+        "jp": "妹想いのお姉さん……",
+        "en": "She sure cares about her little sister, huh?",
+        "ru": "Она на самом деле заботится о младшей сестре, да?"
+    },
+    {
+        "id": "M5110_S0010_G0090_001_a9s",
+        "jp": "っていうか、機械生命体の姉妹って変な話ですね。",
+        "en": "Still, it's pretty funny to hear machines talk about siblings.",
+        "ru": "Хотя довольно забавно слышать о том, как машины говорят о своих братьях и сёстрах."
+    },
+    {
+        "id": "M5110_S0010_G0100_001_a9s",
+        "jp": "同じ工場で作られた、とかでしょうか？",
+        "en": "Do you think she just means they were built at the same factory or something?",
+        "ru": "Ты, случаем, не думала, что их попросту изготовили на одной и той же фабрике или что-то вроде того?"
+    },
+    {
+        "id": "M5110_S0010_G0110_001_a2b",
+        "jp": "さあ……",
+        "en": "Maybe.",
+        "ru": "Возможно."
+    },
+    {
+        "id": "M5110_S0020_G0000_001_pascal",
+        "jp": "２Ｂさん、９Ｓさん。",
+        "en": "Um, hello there! Hello? Testing testing?",
+        "ru": "Эм, привет! Здравствуйте? Приём-приём?"
+    },
+    {
+        "id": "M5110_S0020_G0010_001_a9s",
+        "jp": "わっ、パスカル？",
+        "en": "Er, Pascal? Is that you?",
+        "ru": "Эм, Паскаль? Это ты?"
+    },
+    {
+        "id": "M5110_S0020_G0020_001_pascal",
+        "jp": "突然の通信ですみません。",
+        "en": "Ah! 9S! Yes, it is me. Many apologies for the sudden transmission.",
+        "ru": "О! 9S! Да, это я. Премного извиняюсь за внезапный сеанс связи."
+    },
+    {
+        "id": "M5110_S0020_G0030_001_pascal",
+        "jp": "話は聞きました。迷子を捜してくださっているそうですね。",
+        "en": "I heard that you were searching for the missing child, yes?",
+        "ru": "Я слышал, что вы ищете пропавшего ребёнка, так ведь?"
+    },
+    {
+        "id": "M5110_S0020_G0040_001_pascal",
+        "jp": "私からもお願いします。どうか、早く見つけてやってください。",
+        "en": "Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!",
+        "ru": "Если это так, прошу, рассматривайте это как мою личную просьбу. Ступайте и отыщите ребёнка как можно быстрее!"
+    },
+    {
+        "id": "M5110_S0020_G0050_001_pascal",
+        "jp": "あれは姉思いのいい子なんです。",
+        "en": "She's such a good little girl, and so fond of her sister!",
+        "ru": "Она такая хорошая девочка, и она так сильно любит свою сестру!"
+    },
+    {
+        "id": "M5110_S0020_G0060_001_pascal",
+        "jp": "恐らく、あの子は砂漠地帯にいるかと思います。",
+        "en": "She's probably somewhere around the desert at the moment.",
+        "ru": "Возможно, что сейчас она находится где-то в пустыне."
+    },
+    {
+        "id": "M5110_S0020_G0070_001_pascal",
+        "jp": "その付近に、あの子の姉が必要としているパーツ\\n『凹んだ金属板』があるので……",
+        "en": "That's where she's likely to find the dented plate her sister needs.",
+        "ru": "Скорее всего, она будет искать погнутую пластину для своей сестры вот здесь."
+    },
+    {
+        "id": "M5110_S0020_G0080_001_a2b",
+        "jp": "わかった。",
+        "en": "Got it.",
+        "ru": "Поняла."
+    },
+    {
+        "id": "M5110_S0020_G0090_001_pascal",
+        "jp": "ありがとうございます。２人とも、どうかお気をつけて。",
+        "en": "Thank you so much. And please be careful, all right?",
+        "ru": "Большое вам спасибо. И будьте осторожны, ладно?"
+    },
+    {
+        "id": "M5110_S0030_G0001_001_a9s",
+        "jp": "あれは……",
+        "en": "Is that...?",
+        "ru": "Уж не?.."
+    },
+    {
+        "id": "M5110_S0030_G0000_001_roboimouto",
+        "jp": "うう……おうちにかえりたいヨゥ……おねえサン……",
+        "en": "I wanna go hoooome... Siiiiisteeeeer! Where are you!?",
+        "ru": "Я хочу домо-о-о-й... Сестра-а-а! Где же ты?!"
+    },
+    {
+        "id": "M5110_S0030_G0010_001_roboimouto",
+        "jp": "ううう……",
+        "en": "Nnngh... *sniff*",
+        "ru": "Нгх... *шмыгает*"
+    },
+    {
+        "id": "M5110_S0030_G0020_001_a9s",
+        "jp": "もしもし。君はもしかして、ここにパーツを探しに来たロボット？",
+        "en": "Hey there. Are you the machine who came out here looking for a spare part?",
+        "ru": "Привет. Ты ведь машина, которая пошла искать деталь для замены?"
+    },
+    {
+        "id": "M5110_S0030_G0030_001_roboimouto",
+        "jp": "お、おにいちゃんたち……ダレ？",
+        "en": "Huh? Who are you?",
+        "ru": "А? Кто вы?"
+    },
+    {
+        "id": "M5110_S0030_G0040_001_a9s",
+        "jp": "君のお姉さんに頼まれて、探しに来たんだよ。",
+        "en": "Your sister asked us to look for you.",
+        "ru": "Твоя сестра попросила нас приглядеть за тобой."
+    },
+    {
+        "id": "M5110_S0030_G0050_001_roboimouto",
+        "jp": "おねえサンに？ホントに？",
+        "en": "...She did? Really?",
+        "ru": "...Она попросила? Правда?"
+    },
+    {
+        "id": "M5110_S0030_G0060_001_a9s",
+        "jp": "本当。だから一緒に戻ろう？",
+        "en": "Really. So what do you say we head home?",
+        "ru": "Правда. Ты не возражаешь, если мы проводим тебя до дома?"
+    },
+    {
+        "id": "M5110_S0030_G0070_001_roboimouto",
+        "jp": "う……うわアああァん！こわかったアァ。こわかったよオォ！",
+        "en": "Waaaaaaaah! I was soooo scaaaaaared!",
+        "ru": "Ува-а-а! Я была так напугана!"
+    },
+    {
+        "id": "M5110_S0030_G0080_001_a2b",
+        "jp": "じゃあ、あとはこの子をパスカルの村まで連れて行くだけ……",
+        "en": "Right. Let's get her back to Pascal's village.",
+        "ru": "Хорошо. Давай отведём её в деревню Паскаля."
+    },
+    {
+        "id": "M5110_S0030_G0090_001_a9s",
+        "jp": "でも、どうしてこんなところをさ迷ってたの？",
+        "en": "How'd you get lost out here, anyway?",
+        "ru": "И как же ты умудрилась здесь потеряться?"
+    },
+    {
+        "id": "M5110_S0030_G0110_001_roboimouto",
+        "jp": "おねえサンのパーツ……探してたら……",
+        "en": "I was looking for my sister's part...",
+        "ru": "Я искала деталь для своей сестры..."
+    },
+    {
+        "id": "M5110_S0030_G0120_001_roboimouto",
+        "jp": "こわくて……動けな……うわあああアアアん！",
+        "en": "But then I got scared and I couldn't move and...and...and... Waaaaah!",
+        "ru": "Но я была так напугана, что не могла пошевелиться и... и... и... Ува-а-а!"
+    },
+    {
+        "id": "M5110_S0030_G0130_001_a9s",
+        "jp": "ああ、泣かないで。",
+        "en": "Aw, come on now, don't cry!",
+        "ru": "О, ну же, не плачь!"
+    },
+    {
+        "id": "M5110_S0030_G0140_001_a9s",
+        "jp": "それで？パーツは見つかったの？",
+        "en": "Did you at least find what you needed?",
+        "ru": "Ты ведь нашла то, за чем пришла?"
+    },
+    {
+        "id": "M5110_S0030_G0150_001_roboimouto",
+        "jp": "うん……おねえサン、よろこぶカナ？",
+        "en": "Y-Yeah. *sniff* She'll be happy, right?",
+        "ru": "А-ага. *шмыгает* Она ведь будет рада?"
+    },
+    {
+        "id": "M5110_S0030_G0160_001_a9s",
+        "jp": "そうだね。けど君が無事に戻ったら、もっと喜ぶと思うよ。",
+        "en": "I'm sure she will. But I bet she'll be even happier to see you back home safe and sound.",
+        "ru": "Уверен, что будет. Но, держу пари, она будет ещё счастливее увидеть тебя в целости и сохранности дома."
+    },
+    {
+        "id": "M5110_S0030_G0170_001_roboimouto",
+        "jp": "……うん",
+        "en": "...'Kay.",
+        "ru": "...Хорошо."
+    },
+    {
+        "id": "M5110_S0030_G0250_001_roboimouto",
+        "jp": "ねえ、どうしてさばくはできタノ？",
+        "en": "Hey, mister? Why'd they make the desert?",
+        "ru": "Эй, дяденька? А кто создал пустыню?"
+    },
+    {
+        "id": "M5110_S0030_G0260_001_a9s",
+        "jp": "えーっと……降水量の減少のせいで植生が失われて、",
+        "en": "No one \"made\" the desert. It's just an area that lost all its vegetation due to a lack of precipitation.",
+        "ru": "Никто её не \"создавал\". Это обычная зона, откуда исчезла растительность ввиду недостатка осадков."
+    },
+    {
+        "id": "M5110_S0030_G0270_001_a9s",
+        "jp": "それに従って土壌が変化し……",
+        "en": "This caused lasting changes in the soil, which means plants aren't able to—",
+        "ru": "Это вызвало устойчивые изменения почвы, поэтому растения больше не могут..."
+    },
+    {
+        "id": "M5110_S0030_G0280_001_roboimouto",
+        "jp": "ドジョウってナアニ？",
+        "en": "What's \"soil\"?",
+        "ru": "А что такое \"почва\"?"
+    },
+    {
+        "id": "M5110_S0030_G0290_001_a9s",
+        "jp": "ああ、土壌っていうのは地面にある土の事だよ。",
+        "en": "Soil? Uh, it's dirt. Ground. The stuff we're walking on?",
+        "ru": "Почва? Эм, это земля. Штука, по которой мы ходим."
+    },
+    {
+        "id": "M5110_S0030_G0300_001_roboimouto",
+        "jp": "ふうーん！土ってスゴイんダネ！",
+        "en": "Oooooooo! I like ground.",
+        "ru": "Ого-о-о! Мне нравится земля."
+    },
+    {
+        "id": "M5110_S0030_G0310_001_roboimouto",
+        "jp": "ねえ、かぜはどこからふクノ？",
+        "en": "Hey, mister? Where does the wind blow from?",
+        "ru": "Эй, дяденька? А откуда дует ветер?"
+    },
+    {
+        "id": "M5110_S0030_G0320_001_a9s",
+        "jp": "それは気温や気圧の変化が……",
+        "en": "Wind is just a force caused by changes in temperature and atmospheric pressure and...",
+        "ru": "Ветер — сила, вызванная изменениями температуры и атмосферного давления и..."
+    },
+    {
+        "id": "M5110_S0030_G0330_001_a9s",
+        "jp": "っていうか、確かに風ってどこから吹いてくるんでしょうか。",
+        "en": "Huh. That's actually a hard question, now that I think about it.",
+        "ru": "Хм. Теперь, когда я задумался над этим, мне кажется, что это довольно сложный вопрос."
+    },
+    {
+        "id": "M5110_S0030_G0340_001_a9s",
+        "jp": "哲学的な問いでもありますね……ね、２Ｂ？",
+        "en": "Kind of deep, really. I mean, where does the wind blow from? What do you think, 2B?",
+        "ru": "Сложно, правда. Я имею в виду вопрос: \"Откуда дует ветер?\" А ты что думаешь, 2B?"
+    },
+    {
+        "id": "M5110_S0030_G0350_001_a2b",
+        "jp": "私に聞かない。",
+        "en": "Don't know. Don't care.",
+        "ru": "Меня это не касается."
+    },
+    {
+        "id": "M5110_S0030_G0360_001_roboimouto",
+        "jp": "ねえ、こどもはどうやってうまれルノ？",
+        "en": "Hey, mister? How do you make children?",
+        "ru": "Эй, дяденька? А откуда берутся дети?"
+    },
+    {
+        "id": "M5110_S0030_G0370_001_a9s",
+        "jp": "それは……",
+        "en": "Uuuuuuum....",
+        "ru": "Э-э-эм..."
+    },
+    {
+        "id": "M5110_S0030_G0380_001_a9s",
+        "jp": "いや、機械生命体もアンドロイドも子供は作る事は出来なくて……",
+        "en": "Well, machines can't really make children. Neither can androids, now that I think about it.",
+        "ru": "Ну, вообще-то, машины не могут делать детей. И андроиды тоже не могут, если задуматься."
+    },
+    {
+        "id": "M5110_S0030_G0390_001_roboimouto",
+        "jp": "こどもはどうやってつくルノ？",
+        "en": "Yeah, but how DO you make 'em?",
+        "ru": "Ага, но как их НУЖНО делать?"
+    },
+    {
+        "id": "M5110_S0030_G0400_001_a9s",
+        "jp": "２Ｂ……",
+        "en": "Uh, 2B? Little help here?",
+        "ru": "Эм, 2B? Не поможешь мне тут?"
+    },
+    {
+        "id": "M5110_S0030_G0410_001_a2b",
+        "jp": "そ、そんな声で言われても、私は助けられない。",
+        "en": "Huh? You're the chatty one. Work it out.",
+        "ru": "Чего? Ты уже у нас болтун. Вот и расхлёбывай сам."
+    },
+    {
+        "id": "M5110_S0030_G0420_001_a9s",
+        "jp": "う……",
+        "en": "Ooof.",
+        "ru": "У-у-уф."
+    },
+    {
+        "id": "M5110_S0030_G0430_001_roboimouto",
+        "jp": "ねえ、こどもは……",
+        "en": "Mister! Mister, wait! You gotta tell me how you make chil—",
+        "ru": "Мистер! Мистер, подождите! Вы должны рассказать мне, как вы делаете де..."
+    },
+    {
+        "id": "M5110_S0030_G0440_001_a9s",
+        "jp": "早く行こう！ほら、おねえサン待ってるよ！",
+        "en": "Wow, it's getting late! Let's get you home already!",
+        "ru": "Вау, уже так поздно! Надо бы поскорее отвести тебя домой!"
+    },
+    {
+        "id": "M5110_S0030_G0000_001_roboimouto",
+        "jp": "うう……おうちにかえりたいヨゥ……おねえサン……",
+        "en": "I wanna go hoooome... Siiiiisteeeeer! Where are you!?",
+        "ru": "Я хочу домо-о-о-й... Сестра-а-а! Где же ты?!"
+    },
+    {
+        "id": "M5110_S0040_G0000_001_roboimouto",
+        "jp": "ここまでくれば、もうだいジョーブ！ひとりでかえれルヨ！",
+        "en": "Hey, I know this place! I can get home by myself now.",
+        "ru": "Эй, это место я уже знаю! Теперь смогу дойти до дома сама."
+    },
+    {
+        "id": "M5110_S0040_G0010_001_roboimouto",
+        "jp": "あんないしてくれて、ありがトウ。これ、あゲル！",
+        "en": "Thanks, mister! Thanks, grumpy lady! Oh, and here. You can have this.",
+        "ru": "Спасибо, дяденька! Спасибо, ворчливая тётя! О, вот ещё. Возьмите это."
+    },
+    {
+        "id": "M5110_S0040_G0020_001_roboimouto",
+        "jp": "じゃあね、おにーちゃん、おねーちゃん、バイバーイ！",
+        "en": "Bye-byeeeeee!",
+        "ru": "Пока-пока-а-а!"
+    },
+    {
+        "id": "M5110_S0040_G0030_001_roboimouto",
+        "jp": "今度、こどもの作り方おしエテねえええええ！",
+        "en": "Make sure to come back and tell me how to make childreeeeeeen!",
+        "ru": "Обязательно приходите ещё и узнайте, откуда берутся дети-и-и!"
+    },
+    {
+        "id": "M5110_S0040_G0040_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5110_S0040_G0050_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5110_S0040_G0060_001_a9s",
+        "jp": "何だか……どっと疲れました。",
+        "en": "Well, that was exhausting.",
+        "ru": "Что ж, это было утомительно."
+    },
+    {
+        "id": "M5110_S0040_G0070_001_a2b",
+        "jp": "……確かに。",
+        "en": "Yep.",
+        "ru": "Ага."
+    },
+    {
+        "id": "M5110_S0010_G0001_300_sister",
+        "jp": "妹を連れ戻してくれてありがとうございました。",
+        "en": "Thank you for bringing my sister home.",
+        "ru": "Спасибо, что привели мою сестру домой."
+    },
+    {
+        "id": "M5110_S0010_G0002_300_sister",
+        "jp": "妹が見つけてきてくれたパーツのおかげで、身体の具合も良くなりました。",
+        "en": "I'm feeling much better thanks to the part she found.",
+        "ru": "Благодаря тому, что она нашлась, я чувствую себя намного лучше."
+    },
+    {
+        "id": "M5110_S0010_G0007_300_sister",
+        "jp": "お礼にコレを差し上げマス",
+        "en": "Please, take this...",
+        "ru": "Прошу, примите это..."
+    },
+    {
+        "id": "M5110_S0010_G0003_300_youngsister",
+        "jp": "この前は探しに来てくれてアリガトウ",
+        "en": "Thanks for helping me search earlier!",
+        "ru": "Ещё раз спасибо вам за помощь с поисками!"
+    },
+    {
+        "id": "M5110_S0010_G0004_300_youngsister",
+        "jp": "もうお姉ちゃんに心配かけるようなコトはしないヨ",
+        "en": "I promise not to make my sister worry any more.",
+        "ru": "Я обещаю больше не доставлять проблем своей сестре."
+    },
+    {
+        "id": "M5110_S0010_G0001_300_sister",
+        "jp": "妹を連れ戻してくれてありがとうございました。",
+        "en": "Thank you for bringing my sister home.",
+        "ru": "Спасибо, что привели мою сестру домой."
+    },
+    {
+        "id": "M5110_S0010_G0004_300_youngsister",
+        "jp": "もうお姉ちゃんに心配かけるようなコトはしないヨ",
+        "en": "I promise not to make my sister worry any more.",
+        "ru": "Я обещаю больше не доставлять проблем своей сестре."
+    },
+    {
+        "id": "M5110_S0030_G0180_001_a2b",
+        "jp": "９Ｓ……あの迷子だった子が見当たらない。",
+        "en": "9S? Where's the girl?",
+        "ru": "9S? Где девочка?"
+    },
+    {
+        "id": "M5110_S0030_G0190_001_a9s",
+        "jp": "ええっ！？……本当だ。",
+        "en": "Huh? Oh, hell!",
+        "ru": "А? Вот чёрт!"
+    },
+    {
+        "id": "M5110_S0030_G0200_001_a9s",
+        "jp": "どこではぐれちゃったんだろう……",
+        "en": "We must have gotten separated somehow.",
+        "ru": "Должно быть, мы где-то разошлись."
+    },
+    {
+        "id": "M5110_S0030_G0210_001_a9s",
+        "jp": "あの子を見つけた場所に戻ってみましょうか。",
+        "en": "Let's go back to where we first found her. I bet she's waiting there.",
+        "ru": "Давай вернёмся к месту, где впервые нашли её. Уверен, она ждёт нас именно там."
+    },
+    {
+        "id": "M5110_S0030_G0220_001_roboimouto",
+        "jp": "う……うわアああァん！こわかったアァ。こわかったよオォ！",
+        "en": "WAAAAAAAAAAAAH! YOU LEFT MEEEEEEEE!",
+        "ru": "УВА-А-А-А-А! ПОЧЕМУ ВЫ БРОСИЛИ МЕНЯ-Я-Я?!"
+    },
+    {
+        "id": "M5110_S0030_G0230_001_roboimouto",
+        "jp": "おにいチャン達……いなくなって……",
+        "en": "You guys walk too fast. *sniff*",
+        "ru": "Вы так быстро идёте. *шмыгает*"
+    },
+    {
+        "id": "M5110_S0030_G0240_001_a9s",
+        "jp": "ごめんごめん。次からは見失わないようにするから。",
+        "en": "Sorry! Sorry. We'll try to walk slower, okay?",
+        "ru": "Извини! Мы попробуем идти помедленнее, хорошо?"
+    },
+    {
+        "id": "M5110_S0010_G0070_001_roboane",
+        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
+        "en": "Can you please help me find my little sister? She's lost in the desert!",
+        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
+    },
+    {
+        "id": "M5110_S0010_G0070_001_roboane",
+        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
+        "en": "Can you please help me find my little sister? She's lost in the desert!",
+        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
+    },
+    {
+        "id": "M5110_S0010_G0070_001_roboane",
+        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
+        "en": "Can you please help me find my little sister? She's lost in the desert!",
+        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
+    }
+]

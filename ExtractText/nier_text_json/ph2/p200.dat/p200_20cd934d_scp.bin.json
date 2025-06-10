@@ -1,0 +1,122 @@
+[
+    {
+        "id": "M1060_S0070_G0000_001_a2b",
+        "jp": "これが……機械生命体！？",
+        "en": "Is that...a machine?",
+        "ru": "Это что... машина?"
+    },
+    {
+        "id": "M1060_S0070_G0010_001_a9s",
+        "jp": "こんな大きいの……見たことない……",
+        "en": "It's freakin' HUGE...",
+        "ru": "Да она просто ОГРОМЕННАЯ..."
+    },
+    {
+        "id": "M1060_S0070_G0140_011_pod042",
+        "jp": "通知：司令部から敵の情報を入手。",
+        "en": "Enemy data obtained from Command.",
+        "ru": "От Штаба поступила информация о противнике."
+    },
+    {
+        "id": "M1060_S0070_G0150_011_a2b",
+        "jp": "情報を開封して。",
+        "en": "Go ahead.",
+        "ru": "Выкладывай."
+    },
+    {
+        "id": "M1060_S0070_G0160_011_pod042",
+        "jp": "巨大機械生命体は、３２０年前に確認されたのが唯一の記録。",
+        "en": "The only known record of this machine lifeform is a lone sighting 320 years ago.",
+        "ru": "Единственная известная запись об этой машине сделана 320 лет назад."
+    },
+    {
+        "id": "M1060_S0070_G0170_011_pod042",
+        "jp": "上陸後に超々強力電磁波攻撃を敢行。",
+        "en": "Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.",
+        "ru": "Достигнув суши, она атаковала, высвободив разрушительную электромагнитную волну."
+    },
+    {
+        "id": "M1060_S0070_G0180_011_pod042",
+        "jp": "当時の戦闘では、護衛部隊のレジスタンスが全滅。",
+        "en": "All Resistance fighters in the vicinity were annihilated.",
+        "ru": "Все бойцы Сопротивления поблизости были уничтожены."
+    },
+    {
+        "id": "M1060_S0070_G0190_011_a2b",
+        "jp": "つまり、上陸を阻止しなくては再び惨劇が起きる……",
+        "en": "So basically, if this thing reaches land, we're screwed.",
+        "ru": "То есть, если эта штука достигнет земли, то нам конец."
+    },
+    {
+        "id": "M1060_S0070_G0200_011_pod042",
+        "jp": "その推論を支持。",
+        "en": "Affirmative.",
+        "ru": "Подтверждаю."
+    },
+    {
+        "id": "M1060_S0070_G0020_001_a9s",
+        "jp": "くそっ……ＥＭＰ攻撃で接近を防いでるのか……",
+        "en": "Crap! It's blocking close-range attacks with EMP blasts.",
+        "ru": "Чёрт. Она блокирует ближние атаки с помощью ЭМИ-пушки."
+    },
+    {
+        "id": "M1060_S0070_G0030_001_a9s",
+        "jp": "なんとか別の方法で攻撃しないと……",
+        "en": "We've got to find another way to damage it.",
+        "ru": "Нам нужно найти другой способ нанести ей урон."
+    },
+    {
+        "id": "M1060_S0070_G0090_021_op210",
+        "jp": "オペレーター２１Oより９Sへ通達。",
+        "en": "Operator 21O to 9S.",
+        "ru": "Оператор 21O вызывает 9S."
+    },
+    {
+        "id": "M1060_S0070_G0100_021_op",
+        "jp": "衛星レーザーの直接攻撃を敢行する事が決定。",
+        "en": "Command has decided to stage a direct satellite laser strike on the hostile.",
+        "ru": "Штаб решил нанести орбитальный лазерный удар по противнику."
+    },
+    {
+        "id": "M1060_S0070_G0110_021_op210",
+        "jp": "照準を安定させる為、敵のＥＭＰ発生器を破壊してください。",
+        "en": "We need you to destroy the enemy EMP generator so we can lock on to the target.",
+        "ru": "Вам необходимо уничтожить вражеский ЭМИ-генератор, чтобы мы смогли прицелиться."
+    },
+    {
+        "id": "M1060_S0070_G0120_021_a9s",
+        "jp": "ＥＭＰ発生器って……",
+        "en": "EMP generator?",
+        "ru": "ЭМИ-генератор?"
+    },
+    {
+        "id": "M1060_S0070_G0130_021_op210",
+        "jp": "具体的な座標をマップデータとして転送します。",
+        "en": "Sending the coordinates to your map now.",
+        "ru": "Отмечаю координаты на вашей карте."
+    },
+    {
+        "id": "M1060_S0070_G0131_011_pod042",
+        "jp": "ＥＭＰ発生器の位置を確認。マップにマーク。",
+        "en": "EMP generator target confirmed. Marking on map.",
+        "ru": "Цель подтверждена. Отмечаю на карте."
+    },
+    {
+        "id": "M1060_S0070_G0132_011_pod042",
+        "jp": "推奨：ＥＭＰ発生器の速やかな破壊。",
+        "en": "Proposal: Destroy the generator quickly.",
+        "ru": "Предложение: незамедлительно уничтожьте генератор."
+    },
+    {
+        "id": "M1060_S0070_G0230_021_op210",
+        "jp": "妨害電磁波の消失を確認。",
+        "en": "Confirmed elimination of electromagnetic interference.",
+        "ru": "Подтверждаю подавление электромагнитных помех."
+    },
+    {
+        "id": "M1060_S0070_G0240_021_op210",
+        "jp": "衛星レーザー攻撃、着弾します。",
+        "en": "Stand by for incoming satellite laser strike.",
+        "ru": "Ожидайте орбитальный лазерный удар."
+    }
+]

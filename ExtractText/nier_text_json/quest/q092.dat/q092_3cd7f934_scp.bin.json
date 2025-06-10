@@ -1,0 +1,44 @@
+[
+    {
+        "id": "M5092_S0010_G0000_001_robomask",
+        "jp": "汝は試練への挑戦を望む者か？",
+        "en": "Come you here to challenge the trials?",
+        "ru": "Вы пришли сюда, чтобы пройти испытание?"
+    },
+    {
+        "id": "M5092_S0010_G0010_001_sele",
+        "jp": "はい。",
+        "en": "Indeed.",
+        "ru": "Разумеется."
+    },
+    {
+        "id": "M5092_S0010_G0020_001_sele",
+        "jp": "いいえ。",
+        "en": "Not really.",
+        "ru": "Не совсем."
+    },
+    {
+        "id": "M5092_S0010_G0030_001_robomask",
+        "jp": "ならば立ち去るがよい。",
+        "en": "Then begone!",
+        "ru": "Тогда проваливайте!"
+    },
+    {
+        "id": "M5092_S0010_G0040_001_robomask",
+        "jp": "ならば迎えよう。",
+        "en": "Then enter and be welcome.",
+        "ru": "Тогда входите и добро пожаловать."
+    },
+    {
+        "id": "M5092_S0010_G0045_001_robomask",
+        "jp": "我らが王よ。この先で皆が待っている。",
+        "en": "Your Majesty! Everyone is waiting for you up ahead.",
+        "ru": "Ваше Величество! Все ожидают вас."
+    },
+    {
+        "id": "M5092_S0010_G0041_001_robomask",
+        "jp": "試練を望むならばそこのエレベーターに乗るがいい……",
+        "en": "If you wish to partake in the trials, please get on the elevator over there.",
+        "ru": "Если вы желаете принять участие в испытании, тогда, пожалуйста, воспользуйтесь лифтом."
+    }
+]

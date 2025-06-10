@@ -1,0 +1,542 @@
+[
+    {
+        "id": "M5040_S0010_G0090_001_robomother",
+        "jp": "外は危険で、ワタシにはとても……",
+        "en": "I'd go myself, but I'd never survive out there on my own.",
+        "ru": "Я бы пошла сама, но мне в одиночку не выжить в этом городе."
+    },
+    {
+        "id": "M5040_S0010_G0100_001_sele",
+        "jp": "子供を連れ戻す。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5040_S0010_G0110_001_sele",
+        "jp": "忙しいので無視する。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5040_S0010_G0140_001_robomother",
+        "jp": "お願いします。ウチの子を連れ戻してください！",
+        "en": "Please bring my child home. Please!",
+        "ru": "Прошу, приведите моего ребёнка домой. Умоляю!"
+    },
+    {
+        "id": "M5040_S0010_G0100_001_sele",
+        "jp": "子供を連れ戻す。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5040_S0010_G0110_001_sele",
+        "jp": "忙しいので無視する。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5040_S0010_G0000_001_robomother",
+        "jp": "待って！待ちなさい！",
+        "en": "Hey! Stop right this instant!",
+        "ru": "Эй! Сейчас же остановись!"
+    },
+    {
+        "id": "M5040_S0010_G0010_001_robochild",
+        "jp": "知ルカ！バカー！！",
+        "en": "No! Get away from me, dummy!",
+        "ru": "Нет! Отвали от меня, дура!"
+    },
+    {
+        "id": "M5040_S0010_G0020_001_a9s",
+        "jp": "……何でしょうね、今の。",
+        "en": "What was all that about?",
+        "ru": "Что здесь происходит?"
+    },
+    {
+        "id": "M5040_S0010_G0030_001_a2b",
+        "jp": "さあ……",
+        "en": "No idea.",
+        "ru": "Без понятия."
+    },
+    {
+        "id": "M5040_S0010_G0040_001_a9s",
+        "jp": "あ、さっきの……どうかしたんですか？",
+        "en": "Excuse me. Can I ask what just happened?",
+        "ru": "Извините. Могу я поинтересоваться, что случилось?"
+    },
+    {
+        "id": "M5040_S0010_G0050_001_robomother",
+        "jp": "その……お恥ずかしい話なんですが、子どもとケンカしてしまって。",
+        "en": "Oh, this is so embarrassing! But if you must know, I was arguing with my child.",
+        "ru": "Ох, это так неловко! Так уж и быть, скажу вам: я поругалась со своим ребёнком."
+    },
+    {
+        "id": "M5040_S0010_G0060_001_a2b",
+        "jp": "子ども？あなたの？",
+        "en": "You don't say.",
+        "ru": "Да неужели."
+    },
+    {
+        "id": "M5040_S0010_G0070_001_robomother",
+        "jp": "はい。あの子ったら、話も聞かずに外に飛び出してしまったんです。",
+        "en": "That boy just refuses to listen to me, and now he's gone and run off to who knows where!",
+        "ru": "Этот мальчик наотрез отказывается слушаться меня, и теперь он взял и убежал в неизвестном направлении!"
+    },
+    {
+        "id": "M5040_S0010_G0080_001_robomother",
+        "jp": "すみません。もしよろしければ、あの子を連れ戻してはくれないでしょうか？",
+        "en": "This is terribly forward of me, but would you mind finding him and bringing him home?",
+        "ru": "Ужас-то какой, быть может, вы поможете мне найти и привести его домой?"
+    },
+    {
+        "id": "M5040_S0010_G0120_001_a2b",
+        "jp": "わかった。",
+        "en": "We'll see what we can do.",
+        "ru": "Мы посмотрим, чем можно помочь."
+    },
+    {
+        "id": "M5040_S0010_G0130_001_a9s",
+        "jp": "はあっ。２Ｂはお人好しなんだから……",
+        "en": "Heh. Look at you, you big softie.",
+        "ru": "Хех. Только взгляните на себя, вы просто взрослая тряпка."
+    },
+    {
+        "id": "M5040_S0010_G0140_001_robomother",
+        "jp": "お願いします。ウチの子を連れ戻してください！",
+        "en": "Please bring my child home. Please!",
+        "ru": "Прошу, приведите моего ребёнка домой. Умоляю!"
+    },
+    {
+        "id": "M5040_S0010_G0150_001_a9s",
+        "jp": "それにしても、『母』に『子ども』か……",
+        "en": "So this machine \"mother\" has a \"child,\" eh?",
+        "ru": "У этой машины-\"мамаши\" есть ребёнок, да?"
+    },
+    {
+        "id": "M5040_S0010_G0160_001_a9s",
+        "jp": "機械生命体が家族という組織を形成しているなんて、驚きですね。",
+        "en": "It's surprising to see them form familial units like that.",
+        "ru": "Довольно удивительно видеть, что они создают семейные ячейки, подобные этой."
+    },
+    {
+        "id": "M5040_S0010_G0170_001_a9s",
+        "jp": "連れ戻したら、お礼に脳回路を覗かせてもらえないかな。",
+        "en": "I wonder if they'll let us examine their brain circuits if we bring the kid home.",
+        "ru": "Мне интересно, они дадут нам изучить их мозговые схемы, если мы приведём ребёнка домой."
+    },
+    {
+        "id": "M5040_S0010_G0180_001_a2b",
+        "jp": "行き過ぎた探究心は、悪趣味。",
+        "en": "Your scientific curiosity is getting out of hand, 9S.",
+        "ru": "Твоё научное любопытство выходит из-под контроля, 9S."
+    },
+    {
+        "id": "M5040_S0010_G0190_001_a9s",
+        "jp": "冗談ですよ、冗談。",
+        "en": "Joking! I'm joking! ...Mostly.",
+        "ru": "Шутка! Я просто шучу! ...В основном."
+    },
+    {
+        "id": "M5040_S0020_G0000_001_robochild",
+        "jp": "助ケテ！お母サン！お母サーン！",
+        "en": "Help! Mom! Mommyyyyyy!",
+        "ru": "Помогите! Мама! Мамочка-а-а!"
+    },
+    {
+        "id": "M5040_S0020_G0020_001_a9s",
+        "jp": "２Ｂ、気を付けて。近くに敵の反応があります！",
+        "en": "Careful, 2B. I'm picking up hostiles.",
+        "ru": "Осторожнее, 2B. Я обнаружил врагов."
+    },
+    {
+        "id": "M5040_S0020_G0010_001_a2b",
+        "jp": "あそこ。",
+        "en": "Over there.",
+        "ru": "Туда."
+    },
+    {
+        "id": "M5040_S0020_G0030_001_a9s",
+        "jp": "怖かった？もう大丈夫だよ。",
+        "en": "Easy there, little guy. It's all right. You weren't scared, were you?",
+        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?"
+    },
+    {
+        "id": "M5040_S0020_G0040_001_robochild",
+        "jp": "ウ……ヒック……",
+        "en": "Nnngh... *sniff*",
+        "ru": "Нгх... *шмыгает*"
+    },
+    {
+        "id": "M5040_S0020_G0050_001_a2b",
+        "jp": "早く戻ろう。別の敵が来るかもしれない。",
+        "en": "We should leave before more enemies arrive.",
+        "ru": "Нам следует уходить, пока не явилось ещё больше врагов."
+    },
+    {
+        "id": "M5040_S0020_G0060_001_robochild",
+        "jp": "ヤ、ヤダ！ボクは戻ラナイ！戻ルモンカ！",
+        "en": "No! I'm not going back! I'm NEVER going back!",
+        "ru": "Нет! Я не собираюсь возвращаться! Я НИКОГДА не вернусь!"
+    },
+    {
+        "id": "M5040_S0020_G0070_001_a9s",
+        "jp": "そんな、駄々をこねないで……",
+        "en": "Come on, kid. Don't be unreasonable.",
+        "ru": "Ну же, малыш. Не глупи."
+    },
+    {
+        "id": "M5040_S0020_G0080_001_a9s",
+        "jp": "２Ｂ、どうしよう。こんな小さな機械生命体の相手をした事なくて……",
+        "en": "Any ideas, 2B? I've never dealt with a snot-nosed machine before.",
+        "ru": "2B, есть идеи? Я раньше никогда не возился с машинами, которые распускают нюни."
+    },
+    {
+        "id": "M5040_S0020_G0090_001_a2b",
+        "jp": "私にも判らない……",
+        "en": "You got me.",
+        "ru": "Ну ты и спросил."
+    },
+    {
+        "id": "M5040_S0020_G0100_001_a9s",
+        "jp": "言ってる傍からきましたよ、２Ｂ！",
+        "en": "Uh oh. More enemies incoming!",
+        "ru": "Э, ох. Враги наступают!"
+    },
+    {
+        "id": "M5040_S0020_G0110_001_a2b",
+        "jp": "判ってる！",
+        "en": "I'm on it.",
+        "ru": "Я ими займусь."
+    },
+    {
+        "id": "M5040_S0020_G0120_001_robochild",
+        "jp": "お母サンは、いつもお兄チャンばっかり褒メルンダ！",
+        "en": "Mommy only ever praises my big brother!",
+        "ru": "Мамочка всегда хвалит только моего старшего брата!"
+    },
+    {
+        "id": "M5040_S0020_G0130_001_robochild",
+        "jp": "お皿を割ッタノハ弟ナノニ、ボクのセイにサレタ！",
+        "en": "My little brother broke a plate once and she blamed ME for it!",
+        "ru": "Однажды мой младший брат сломал тарелку, а она обвинила в этом МЕНЯ!"
+    },
+    {
+        "id": "M5040_S0020_G0140_001_robochild",
+        "jp": "先に叩イテキタノはお兄チャンなのニ、ボクが悪イッテ！",
+        "en": "My big brother punched me, but somehow it was MY fault!",
+        "ru": "Мой старший брат ударил меня, но почему-то виноватым оказался Я!"
+    },
+    {
+        "id": "M5040_S0020_G0150_001_robochild",
+        "jp": "いつもボクだけ我慢シロッテ！",
+        "en": "It's not fair!",
+        "ru": "Это нечестно!"
+    },
+    {
+        "id": "M5040_S0020_G0160_001_robochild",
+        "jp": "お母サンは、ボクが嫌イナンダ！",
+        "en": "I hate my mommy!",
+        "ru": "Я ненавижу свою мамочку!"
+    },
+    {
+        "id": "M5040_S0020_G0170_001_robochild",
+        "jp": "お母サンなんか、嫌イダ！",
+        "en": "I HATE her!",
+        "ru": "Я НЕНАВИЖУ её!"
+    },
+    {
+        "id": "M5040_S0020_G0180_001_robochild",
+        "jp": "ウウ……お母サンの、バカァ……",
+        "en": "Stupid mom...",
+        "ru": "Глупая мама..."
+    },
+    {
+        "id": "M5040_S0020_G0190_001_a9s",
+        "jp": "……気は済んだ？",
+        "en": "Are you finished?",
+        "ru": "Ты закончил?"
+    },
+    {
+        "id": "M5040_S0020_G0200_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5040_S0020_G0210_001_a9s",
+        "jp": "お母さん、心配してたよ。だから僕達が来たんだ。",
+        "en": "Your mother is worried about you. She sent us here to find you.",
+        "ru": "Твоя мама беспокоилась о тебе. Она отправила нас на твои поиски."
+    },
+    {
+        "id": "M5040_S0020_G0220_001_a9s",
+        "jp": "一緒に帰ろう？",
+        "en": "So quit with the whining and let us take you home already.",
+        "ru": "Так что хватит ныть и дай нам уже довести тебя до дома."
+    },
+    {
+        "id": "M5040_S0020_G0230_001_robochild",
+        "jp": "……ウン。",
+        "en": "...'Kay.",
+        "ru": "...Хорошо."
+    },
+    {
+        "id": "M5040_S0020_G0240_001_a2b",
+        "jp": "あの小さい機械生命体が……",
+        "en": "Oh. That's...unfortunate.",
+        "ru": "Ох. Как... неудачно вышло."
+    },
+    {
+        "id": "M5040_S0020_G0250_001_a9s",
+        "jp": "仕方ないですね……戻って母親に説明しましょう。",
+        "en": "Yeah, this is rough. Better go tell Mom what happened.",
+        "ru": "Ага, жёстко. Нам стоит рассказать матери о том, что произошло."
+    },
+    {
+        "id": "M5040_S0020_G0040_001_robochild",
+        "jp": "ウ……ヒック……",
+        "en": "Nnngh... *sniff*",
+        "ru": "Нгх... *шмыгает*"
+    },
+    {
+        "id": "M5040_S0020_G0030_001_a9s",
+        "jp": "怖かった？もう大丈夫だよ。",
+        "en": "Easy there, little guy. It's all right. You weren't scared, were you?",
+        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?"
+    },
+    {
+        "id": "M5040_S0020_G0220_001_a9s",
+        "jp": "一緒に帰ろう？",
+        "en": "So quit with the whining and let us take you home already.",
+        "ru": "Так что хватит ныть и дай нам уже довести тебя до дома."
+    },
+    {
+        "id": "M5040_S0020_G0230_001_robochild",
+        "jp": "……ウン。",
+        "en": "...'Kay.",
+        "ru": "...Хорошо."
+    },
+    {
+        "id": "M5040_S0020_G0231_001_a9s",
+        "jp": "あれ……あの小さな機械生命体が見当たりませんね。",
+        "en": "Huh? I don't see that little machine anywhere.",
+        "ru": "А? Я нигде не вижу эту мелкую машину."
+    },
+    {
+        "id": "M5040_S0020_G0232_001_a2b",
+        "jp": "どこかではぐれたのか……",
+        "en": "We must have lost him somewhere.",
+        "ru": "Должно быть, мы где-то потеряли его."
+    },
+    {
+        "id": "M5040_S0020_G0233_001_a9s",
+        "jp": "最初の場所に戻っているかもしれません。探してみましょう。",
+        "en": "He may have gone back to where we first found him.\\nLet's look around.",
+        "ru": "Наверное он вернулся на то место, где мы с ним впервые встретились.\\nДавай поищем его."
+    },
+    {
+        "id": "M5040_S0020_G0240_001_a2b",
+        "jp": "あの小さい機械生命体が……",
+        "en": "Oh. That's...unfortunate.",
+        "ru": "Ох. Как... неудачно вышло."
+    },
+    {
+        "id": "M5040_S0020_G0250_001_a9s",
+        "jp": "仕方ないですね……戻って母親に説明しましょう。",
+        "en": "Yeah, this is rough. Better go tell Mom what happened.",
+        "ru": "Ага, жёстко. Нам стоит рассказать матери о том, что произошло."
+    },
+    {
+        "id": "M5040_S0030_G0000_001_a9s",
+        "jp": "僕達から離れちゃ駄目だよ。ちゃんと付いてきて。",
+        "en": "Stay close, all right? Don't go wandering off.",
+        "ru": "Будь рядом, хорошо? Не уходи далеко."
+    },
+    {
+        "id": "M5040_S0030_G0010_001_robochild",
+        "jp": "ウン……お母サン、本当にボクのコト心配シテタ？",
+        "en": "Hey, mister? Was Mommy really worried about me?",
+        "ru": "Эй, дяденька? Мамочка правда переживает за меня?"
+    },
+    {
+        "id": "M5040_S0030_G0020_001_a9s",
+        "jp": "してたよ。だから戻ってちゃんと謝ろうね？",
+        "en": "She sure was. So let's go home and have you apologize, all right?",
+        "ru": "Конечно. Поэтому давай пойдём домой и ты извинишься перед ней, ладно?"
+    },
+    {
+        "id": "M5040_S0030_G0030_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5040_S0040_G0000_001_robomother",
+        "jp": "ああ……ああああ！",
+        "en": "Ah! You're back!",
+        "ru": "Ах! Вы вернулись!"
+    },
+    {
+        "id": "M5040_S0040_G0010_001_robomother",
+        "jp": "ありがとうございます！ウチの子を連れ戻してくれたんですね！",
+        "en": "Thank you so much for bringing him home.",
+        "ru": "Большое вам спасибо за то, что привели его домой."
+    },
+    {
+        "id": "M5040_S0040_G0020_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5040_S0040_G0030_001_robomother",
+        "jp": "まったくこの子は、心配ばかりかけて！",
+        "en": "Selfish child! How dare you make me worry like that!",
+        "ru": "Маленький эгоист! Кто дал тебе разрешение так заставлять меня волноваться!"
+    },
+    {
+        "id": "M5040_S0040_G0040_001_a9s",
+        "jp": "あ、あの、あまり怒らないで……",
+        "en": "Um, hey...no need to get all angry about this.",
+        "ru": "Эм, эй... не нужно сердиться по этому поводу."
+    },
+    {
+        "id": "M5040_S0040_G0052_001_mama",
+        "jp": "ウウウ……",
+        "en": "*sniff* *sniff*",
+        "ru": "*шмыг* *шмыг*"
+    },
+    {
+        "id": "M5040_S0040_G0050_001_robochild",
+        "jp": "……ッ！？お、お母サン、泣かナイデ！",
+        "en": "M-Mommy? Mommy, no! Don't cry!",
+        "ru": "М-мамочка? Мамочка, нет! Не плачь!"
+    },
+    {
+        "id": "M5040_S0040_G0051_001_robomother",
+        "jp": "ワタシがどれだけ……どれだけ……",
+        "en": "Do you have any idea how worried I was?",
+        "ru": "Ты хоть знаешь, как я волновалась?"
+    },
+    {
+        "id": "M5040_S0040_G0060_001_robochild",
+        "jp": "ゴメンナサイ！泣かナイデ！",
+        "en": "I'm sorry, Mommy! Please don't cry!",
+        "ru": "Прости меня, мамочка! Пожалуйста, не плачь!"
+    },
+    {
+        "id": "M5040_S0040_G0070_001_robomother",
+        "jp": "……お母さんも御免ね。言い過ぎた。",
+        "en": "*sniff* I'm sorry too, my darling. I shouldn't have said that.",
+        "ru": "*шмыг* и ты меня прости, радость моя. Мне не следовало говорить того."
+    },
+    {
+        "id": "M5040_S0040_G0080_001_robochild",
+        "jp": "ウン……ウン……",
+        "en": "*sniff* Oh, Mommy...",
+        "ru": "*шмыг* Ох, мамочка..."
+    },
+    {
+        "id": "M5040_S0040_G0090_001_robomother",
+        "jp": "ほら、先に家に戻ってな。",
+        "en": "Go on, honey. Get yourself home.",
+        "ru": "Ступай, дорогуша. Иди домой."
+    },
+    {
+        "id": "M5040_S0040_G0100_001_robomother",
+        "jp": "お母さん、この人達にお礼を言わなきゃいけないから。",
+        "en": "I have to thank these nice people for helping you.",
+        "ru": "Я обязана поблагодарить этих ребят за твоё спасение."
+    },
+    {
+        "id": "M5040_S0040_G0110_001_robochild",
+        "jp": "ハイ……アンドロイドのヒト……アリガトウございマシタ！",
+        "en": "Okay. Bye-bye, androids!",
+        "ru": "Хорошо. Пока-пока, андроиды!"
+    },
+    {
+        "id": "M5040_S0040_G0120_001_robomother",
+        "jp": "……あの子が何を思って何を考えているのか、ワタシにはさっぱりです。",
+        "en": "...I swear, sometimes I think that child's mind is just a bunch of bolts rattling around an empty pail.",
+        "ru": "...Клянусь, порой мне кажется, что разум ребёнка состоит из кучи болтов, грохочущих в пустом ведёрке."
+    },
+    {
+        "id": "M5040_S0040_G0130_001_robomother",
+        "jp": "ネットワークから切り離された状態が、こんなに難しいなんて思いませんでした。",
+        "en": "I never imagined how hard it would be to disconnect from the network.",
+        "ru": "Я никогда не задумывалась, насколько сложным будет жить вне сети."
+    },
+    {
+        "id": "M5040_S0040_G0140_001_robomother",
+        "jp": "年がら年中、擦れ違いばかり。でも……",
+        "en": "We're constantly misunderstanding each other.",
+        "ru": "Мы постоянно недопонимаем друг друга."
+    },
+    {
+        "id": "M5040_S0040_G0150_001_robomother",
+        "jp": "だからこそ、こうやって判りあえた時の嬉しさは大きいんですよ。",
+        "en": "Still, on those rare occasions where we connect, it makes me so very happy.",
+        "ru": "Но именно такие редкие моменты, которые связывают нас, делают меня такой счастливой."
+    },
+    {
+        "id": "M5040_S0040_G0160_001_a2b",
+        "jp": "……",
+        "en": "I can see that.",
+        "ru": "Понимаю."
+    },
+    {
+        "id": "M5040_S0040_G0170_001_robomother",
+        "jp": "あの子を連れ戻してくれて、本当にありがとうございました。",
+        "en": "Thank you again for bringing him home.",
+        "ru": "Ещё раз спасибо вам за то, что привели его домой."
+    },
+    {
+        "id": "M5040_S0040_G0180_001_robomother",
+        "jp": "お礼と言ってはなんですが、これを……",
+        "en": "This isn't much, but I'd very much like you to have it.",
+        "ru": "Здесь не много, но я очень хочу, чтобы вы приняли это."
+    },
+    {
+        "id": "M5040_S0040_G0190_001_a9s",
+        "jp": "ネットワークなしでの相互理解……大変そうですね。",
+        "en": "Mutual understanding without a network sounds tough.",
+        "ru": "Достичь взаимопонимания без сети довольно трудно."
+    },
+    {
+        "id": "M5040_S0040_G0200_001_a2b",
+        "jp": "ええ、でも……なんだか楽しそうだった。",
+        "en": "True. But it also seems kind of fun.",
+        "ru": "Верно. Но это кажется довольно забавным."
+    },
+    {
+        "id": "M5040_S0040_G0210_001_robomother",
+        "jp": "あの、ウチの子は！？あの子は無事なんですか！？",
+        "en": "What happened? Where is my child?",
+        "ru": "Что случилось? Где мой ребёнок?"
+    },
+    {
+        "id": "M5040_S0040_G0220_001_a2b",
+        "jp": "……残念だが、連れ戻せなかった。",
+        "en": "I'm sorry. We couldn't save him.",
+        "ru": "Сожалею. Мы не смогли спасти его."
+    },
+    {
+        "id": "M5040_S0040_G0230_001_robomother",
+        "jp": "そんな……！",
+        "en": "No...",
+        "ru": "Нет..."
+    },
+    {
+        "id": "M5040_S0040_G0240_001_robomother",
+        "jp": "そんな……そんな……",
+        "en": "No no no no no...",
+        "ru": "Нет нет нет нет..."
+    },
+    {
+        "id": "M5040_S0040_G0240_001_robomother",
+        "jp": "そんな……そんな……",
+        "en": "No no no no no...",
+        "ru": "Нет нет нет нет..."
+    }
+]

@@ -1,0 +1,992 @@
+[
+    {
+        "id": "M6090_S0020_G0110_300_resiman",
+        "jp": "最近、敵が活発になってる気がしないか？\\n気のせいだといいんだが……",
+        "en": "Does it seem like the enemy's been more active lately? I hope it's just my imagination...",
+        "ru": "Похоже, в последнее время вражеская активность увеличилась? Надеюсь, это просто моё воображение..."
+    },
+    {
+        "id": "M6090_S0020_G0120_300_resiman",
+        "jp": "いざとなったら皆を守れるように、こっそり訓練してるんだ。\\nまだまだ未熟だがな。",
+        "en": "I'm secretly training so I can protect everyone when the time comes. But I still have a long way to go.",
+        "ru": "Я втайне тренировался, поэтому смогу защитить всех, когда придёт время. Но мне предстоит ещё долгий путь."
+    },
+    {
+        "id": "M6090_S0010_G0130_300_resiman",
+        "jp": "どこから敵が襲ってくるかわからないからな。\\n見回りは欠かせないんだ。",
+        "en": "We don't know where the enemy will attack from, so we have to keep watch at all times.",
+        "ru": "Мы не знаем, когда нападут враги, поэтому мы должны быть настороже всё время."
+    },
+    {
+        "id": "M6090_S0010_G0140_300_resiman",
+        "jp": "俺達の義体はそれほど戦闘能力が高くない。\\nあんたらがうらやましいよ。",
+        "en": "We aren't very good at fighting. I'm jealous of you combat types.",
+        "ru": "Мы не очень хороши в сражении. Я завидую вам, боевым моделям."
+    },
+    {
+        "id": "M6090_S0030_G0110_300_resiman",
+        "jp": "お前もまだ生きてるみたいだな。",
+        "en": "You're still alive?",
+        "ru": "Вы ещё живы?"
+    },
+    {
+        "id": "M6090_S0030_G0120_300_resiman",
+        "jp": "俺達は何が何でも生きなくちゃならない。\\n弱気になってる場合じゃないんだ。",
+        "en": "We must survive at all costs. This is no time to be fainthearted!",
+        "ru": "Мы должны выжить любой ценой. Не время для трусости!"
+    },
+    {
+        "id": "M6090_S0020_G0130_300_resiman",
+        "jp": "ヨルハ部隊はすごいな。\\n機械生命体をあんな大量に撃破出来るなんて。",
+        "en": "YoRHa soldiers are amazing. To think how you could destroy all those machines just like that!",
+        "ru": "Солдаты YoRHa восхитительны. Вы так легко можете уничтожать все эти машины!"
+    },
+    {
+        "id": "M6090_S0020_G0140_300_resiman",
+        "jp": "道中気をつけてな。\\nまあ、言われなくても大丈夫だろうが。",
+        "en": "Let's be careful out there! ...I probably don't need to tell you that, but hey, just in case.",
+        "ru": "Будьте там поосторожнее! Даже если кажется, что всё идет хорошо, будьте начеку, мало ли что."
+    },
+    {
+        "id": "M6090_S0010_G0150_300_resiman",
+        "jp": "やあ、今日もいい天気だな。",
+        "en": "Nice weather we're having, eh?",
+        "ru": "Хорошая погодка, да?"
+    },
+    {
+        "id": "M6090_S0010_G0160_300_resiman",
+        "jp": "こいつお前の事をいたく気に入ってるらしい。\\n良い奴なんだが、自慢話には気をつけろよ。",
+        "en": "That guy really seems to like you. Don't worry—he's a good man at heart, though he sure likes to brag.",
+        "ru": "Этот парень очень на вас похож. Не беспокойтесь, в душе он хороший человек, хотя и хвастлив."
+    },
+    {
+        "id": "M6090_S0020_G0150_300_resiman",
+        "jp": "こないだの大型兵器の件といい、お前はホントすごいな。\\nこの調子で戦争を終わらせようぜ。",
+        "en": "You were really amazing with those Goliath units! If you keep it up, this war will be over in no time!",
+        "ru": "Вы отлично справились с этими Голиафами! Если так продолжится, эта война вмиг завершится!"
+    },
+    {
+        "id": "M6090_S0020_G0160_300_resiman",
+        "jp": "俺達が集めた情報を君達が役立てる……",
+        "en": "Make good use of the intelligence we gathered...",
+        "ru": "С умом используйте разведданные, которые мы собрали..."
+    },
+    {
+        "id": "M6090_S0020_G0170_300_resiman",
+        "jp": "情報収集は危険だから物資調達を好む奴もいるが、やりがいがある仕事だ。",
+        "en": "Intelligence gathering is dangerous, so many prefer to procure goods instead.",
+        "ru": "Сбор разведданных опасен, поэтому многие предпочитают добывать вместо них всякие вещи и товары."
+    },
+    {
+        "id": "M6090_S0010_G0170_300_resiman",
+        "jp": "お前の噂は聞いてるよ。\\nすごい活躍なんだってな。",
+        "en": "I've heard a lot about you. You're doing great work!",
+        "ru": "Я наслышан о вас. Вы многое сделали!"
+    },
+    {
+        "id": "M6090_S0010_G0180_300_resiman",
+        "jp": "俺達は戦闘向きじゃないが、調査は得意なんだ。",
+        "en": "We may not be geared for battle, but we ARE good at investigating.",
+        "ru": "Может мы и не приспособлены для битв, но мы хороши в исследованиях."
+    },
+    {
+        "id": "M6090_S0010_G0190_300_resiman",
+        "jp": "マップデータがあるだろ？アレは俺達が手伝ったんだぜ。\\n他にも……えっ、もういいのか？",
+        "en": "You know about map data, right? We helped make that. In fact, I was one of— Hey! Are you leaving already!?",
+        "ru": "Вы знаете о данных карты, так ведь? Мы помогли их сделать. На самом деле, я был одним из... Эй! Вы уже уходите?!"
+    },
+    {
+        "id": "M6090_S0080_G0000_300_resiwoman",
+        "jp": "バンカー、こちらレジスタンスキャンプ。\\n地上のデータを送信します。",
+        "en": "Resistance Camp to bunker. I'm sending Earth data.",
+        "ru": "Лагерь Сопротивления вызывает бункер. Отправляю данные о Земле."
+    },
+    {
+        "id": "M6090_S0080_G0010_300_resiwoman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0180_300_resiwoman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0190_300_resiwoman",
+        "jp": "陥没した地域の記録で忙しいんです。\\nすみませんがそっとしておいてください。",
+        "en": "I'm busy recording information on the area that collapsed. You mind leaving me alone?",
+        "ru": "Я занята записью информации об обрушении этой зоны. Не дадите ли мне побыть одной?"
+    },
+    {
+        "id": "M6090_S0020_G0200_300_resiwoman",
+        "jp": "……",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0210_300_resiwoman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0220_300_resiwoman",
+        "jp": "………………",
+        "en": ".........",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0230_300_resiwoman",
+        "jp": "しつこいですよ。",
+        "en": "Okay, RUDE!",
+        "ru": "Как же у вас ужасные МАНЕРЫ!"
+    },
+    {
+        "id": "M6090_S0010_G0200_300_resiwoman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0210_300_resiwoman",
+        "jp": "……すみません、集中しないと手元が狂ってしまうので……",
+        "en": "Sorry. I have to concentrate on this or I'll screw it up.",
+        "ru": "Простите. Мне нужно сосредоточиться или я всё испорчу."
+    },
+    {
+        "id": "M6090_S0010_G0220_300_resiwoman",
+        "jp": "……",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0230_300_resiwoman",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0240_300_resiwoman",
+        "jp": "………………",
+        "en": ".........",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0250_300_resiwoman",
+        "jp": "ちょっと、いい加減にしてください。",
+        "en": "DO YOU MIND!?",
+        "ru": "ВЫ НЕ ВОЗРАЖАЕТЕ?!"
+    },
+    {
+        "id": "M6090_S0080_G0020_300_resiman",
+        "jp": "お前か。\\n首尾はどうだ？あんまり無茶するなよ。",
+        "en": "You again? What happened? Also, you should be more careful!",
+        "ru": "Снова вы? Что случилось? И ещё, вам следует быть осторожней!"
+    },
+    {
+        "id": "M6090_S0080_G0030_300_resiman",
+        "jp": "補給はしっかりしていけ。\\n自己管理も大事な仕事だぞ。",
+        "en": "Make sure you replenish what you need. You have to take care of yourself.",
+        "ru": "Обязательно пополните запасы, если есть необходимость. Очень важно заботиться о себе."
+    },
+    {
+        "id": "M6090_S0020_G0240_300_resiman",
+        "jp": "リーダーに何か用か？\\nあの人はああ見えて心配性だから、あまり無茶しないでくれよ。",
+        "en": "Our leader is tough, but that doesn't mean she doesn't worry. So don't go upsetting her, understand!?",
+        "ru": "Наш лидер — сильная, но это не значит, что она не может беспокоиться. Поэтому не расстраивайте её, поняли?!"
+    },
+    {
+        "id": "M6090_S0020_G0250_300_resiman",
+        "jp": "補給はしっかりしていけ。\\n自己管理も大事な仕事だぞ。",
+        "en": "Make sure you replenish what you need. It's important to take care of yourself.",
+        "ru": "Обязательно пополните запасы, если есть необходимость. Очень важно заботиться о себе."
+    },
+    {
+        "id": "M6090_S0010_G0260_300_resiman",
+        "jp": "この周辺地域で活動するレジスタンスは、皆ここを拠点にしている。",
+        "en": "All of the Resistance members in this area are based in this camp.",
+        "ru": "Все члены Сопротивления в этой области базируются в этом лагере."
+    },
+    {
+        "id": "M6090_S0010_G0270_300_resiman",
+        "jp": "だから人や物資はしっかり管理しないとな。",
+        "en": "So we need to strictly manage everything and everyone that comes through here.",
+        "ru": "Поэтому в лагере мы осуществляем строгий надзор за всеми и каждым, кто сюда приходит."
+    },
+    {
+        "id": "M6090_S0010_G0280_300_resiman",
+        "jp": "足りないものがあるなら、そこにいる担当者から補給してくれ。",
+        "en": "If you're ever short on anything, go talk to the guy in charge of supplies over there.",
+        "ru": "Если вам чего-то не хватает, поговорите с парнем, ответственным здесь за снабжение."
+    },
+    {
+        "id": "M6090_S0020_G0260_300_resiwoman",
+        "jp": "こんにちは！お元気ですか？ここのところ立て続けに異変が起こってますよね、それもこのエリアばっかり。私本当に心配で心配で心配で、",
+        "en": "Strange things keep happening around here, but only in this little area. I'm worried. Very, very, very worried.",
+        "ru": "Странные вещи продолжают происходить в округе, но только в этой маленькой области, я беспокоюсь, очень, очень, очень беспокоюсь,"
+    },
+    {
+        "id": "M6090_S0020_G0270_300_resiwoman",
+        "jp": "私もこのあいだちょっと外に出た時に機械生命体に襲われて、まぁ大型兵器に比べたら大した相手じゃないんでしょうけど本当にびっくりして、",
+        "en": "I went outside recently and got attacked by some of those dinky little machines—which aren't much compared to a Goliath, I know, but it still surprised me—but thankfully",
+        "ru": "недавно я вышла наружу и была атакована какой-то глупой маленькой машиной, которая совсем не велика по сравнению с Голиафом, я знаю, но это было просто так внезапно,"
+    },
+    {
+        "id": "M6090_S0020_G0280_300_resiwoman",
+        "jp": "一緒に調査してた同僚がとっさに助けてくれたんで、怪我もなかったんですがあの時は本当に死ぬかと思いました。持つべきものは友ですよね。",
+        "en": "I had a partner with me who managed to take 'em out, so I avoided serious injury. Thank goodness for friends, am I right sure I am friends are the",
+        "ru": "но благодаря моему партнёру, которому удалось уничтожить её, я избежала серьёзных повреждений, как хорошо иметь друзей, я точно уверена, друзья"
+    },
+    {
+        "id": "M6090_S0020_G0290_300_resiwoman",
+        "jp": "本当に感謝してもしきれないというか、ああ解ってますよ、喋りすぎるなって目ですよね知ってます。でもせっかく来たんだからもう少し話を",
+        "en": "best I'm so grateful for all the—I'm doing it again, aren't I? I'm talking too much. Well, YOU started it, so let's keep the conversation going!",
+        "ru": "это лучшее, поэтому я благодарна за всё, я делаю это снова, не так ли, я говорю очень много, ну, ВЫ начали разговор, так что давайте продолжим..."
+    },
+    {
+        "id": "M6090_S0020_G0300_300_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0310_300_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0320_300_resiwoman",
+        "jp": "ああ、また来てくれたんですね！忙しいところをわざわざ来てくださって、皆私の話が長いからって無視するのにあなたはいつも話しかけてくれて、",
+        "en": "Oh, you've come back! I appreciate you coming here even though you're busy because everyone always ignores me since I talk so much but you always talk with",
+        "ru": "О, вы вернулись, я благодарна, что вы пришли сюда, хотя и заняты, все всегда игнорируют меня, так как я очень много говорю, но вы всегда говорите со"
+    },
+    {
+        "id": "M6090_S0020_G0330_300_resiwoman",
+        "jp": "本当にやさしいですよね。やさしいといえばリーダーがこの間怪我を手当てしてくれて、いやちょっと荷物を運んでるときに切っただけだったんです、",
+        "en": "me which is really nice and hey you know who else is nice? Our leader! She treated my wounds recently because I cut myself carrying some stuff which was dumb but",
+        "ru": "мной, что действительно приятно, и вы знаете, кто ещё хорош, наш лидер, недавно она лечила мои раны, потому что я поранилась, перенося кое-какие дурацкие вещи, но"
+    },
+    {
+        "id": "M6090_S0020_G0340_300_resiwoman",
+        "jp": "だけどリーダーったらものすごく心配して、確かに血がたくさん出てたんですけど見た目より全然大したことないからなんだか申し訳なくって、",
+        "en": "she was really worried especially because there was a LOT of blood but it wasn't as bad as it looked so I felt bad for scaring her like that and now",
+        "ru": "она действительно сильно беспокоилась, потому что было МНОГО крови, но всё было не так плохо, как выглядело, поэтому мне больше не хочется пугать её так и теперь"
+    },
+    {
+        "id": "M6090_S0020_G0350_300_resiwoman",
+        "jp": "いつも気をつけようと思ってるんですけどついうっかりしちゃうことが多いんですよね。アンドロイドなんで修理すればすぐ直っちゃうんですけど、",
+        "en": "I always try to be careful but I'm often thoughtless which is bad even though androids can just be repaired and go back to normal but",
+        "ru": "я всегда стараюсь быть осторожной, но зачастую я беспечна, что плохо, хотя андроидов можно починить и вернуть в нормальное состояние но"
+    },
+    {
+        "id": "M6090_S0020_G0360_300_resiwoman",
+        "jp": "こういうのは慣れてしまうと取り返しのつかないことになるっていつもリーダーが言うんですよ。本当にリーダーは心配性で、他にもリーダーったら",
+        "en": "our leader says I should be careful anyway before I really hurt myself and I know she's right but also think she worries too much.",
+        "ru": "наш лидер говорит, что я должна быть осторожна в любом случае, до этого я действительно навредила себе, и я знаю, она права, но также я думаю, что она беспокоится слишком много."
+    },
+    {
+        "id": "M6090_S0020_G0370_300_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0380_300_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0290_300_resiwoman",
+        "jp": "調子はどうですか？このキャンプは気に入りました？ヨルハ部隊はホームシックにならないんですか？レジスタンスの人はどうですか？",
+        "en": "How are you? Do you like the camp? Do YoRHa soldiers ever get homesick? What do you think of the Resistance?",
+        "ru": "Как дела? Вам понравился лагерь? Солдаты YoRHa когда-нибудь тоскуют по дому? Что вы думаете о Сопротивлении?"
+    },
+    {
+        "id": "M6090_S0010_G0300_300_resiwoman",
+        "jp": "なんたってリーダーはやさしいし。そんな目で見ないでくださいよ。わかってますよこの早口のことでしょ？私の早口は癖みたいはもので",
+        "en": "Our leader's nice. Really nice. Super nice! Hey, don't look at me like that. It's because I talk so much, isn't it? It's a bad habit but",
+        "ru": "Наш лидер хороший. Действительно хороший. Суперхороший! Эй, не смотри так на меня. Тебе кажется, что я слишком много говорю, не так ли? Это плохая привычка, но"
+    },
+    {
+        "id": "M6090_S0010_G0310_300_resiwoman",
+        "jp": "なかなか治らないんですよみんなそれをからかうんだけど、思考が爆発しちゃうことがあってそれを声に出すとこんな早口になっちゃうんですよ",
+        "en": "I can't help it and everyone teases me for it but my thoughts just explode and when I try to speak it just all comes out at once in a big tidal wave of words so then",
+        "ru": "я не ничего не могу поделать, и все дразнят меня за это, но мои мысли просто вырываются, а когда я говорю, всё сразу выходит наружу, словно цунами из слов, поэтому"
+    },
+    {
+        "id": "M6090_S0010_G0320_300_resiwoman",
+        "jp": "からかわれた時もちゃんと理由と正当性を説明してるんですけど、ほらこの早口でしょ？何を言ってるのか全然わかんないみたいで",
+        "en": "I try to explain why I talk this way but I explain so quickly nobody seems to understand what I'm saying so that never gets me anywhere and",
+        "ru": "я пытаюсь объяснить, почему я так говорю, но я объясняю так быстро, что никто не может понять, что я сказала, так что это ни к чему не приводит и"
+    },
+    {
+        "id": "M6090_S0010_G0330_300_resiwoman",
+        "jp": "みんなポカーンとしちゃってなんとももどかしい！みんなにあわせてたら思ってることの十分の一も伝えられないのに！それに比べてリーダーは……",
+        "en": "everyone just stares blankly at me and it's really annoying because when I try to slow down to their level I can't get across what I wanna say but our leader is...",
+        "ru": "все просто безучастно смотрят на меня, и это действительно раздражает, потому что когда я пытаюсь замедлиться, я не могу чётко изложить, что я хочу сказать, но наш лидер..."
+    },
+    {
+        "id": "M6090_S0010_G0340_300_a2b",
+        "jp": "……（よく喋る人）",
+        "en": "(How can anyone possibly talk this much?)",
+        "ru": "(Как вообще кто-то может так много говорить?)"
+    },
+    {
+        "id": "M6090_S0010_G0360_300_a9s",
+        "jp": "……（よく喋る人だなあ）",
+        "en": "(Wow. Is she EVER going to stop?)",
+        "ru": "(Воу. Она даже не СОБИРАЕТСЯ останавливаться?)"
+    },
+    {
+        "id": "M6090_S0010_G0370_300_resiwoman",
+        "jp": "どうしました？何か困ったことがありました？困ったことがあったら遠慮せずに何でも言ってくださいね。出来る限りなんでもサポートしますよ！",
+        "en": "What's wrong? Is something wrong? There is, isn't there? Don't be shy you can tell me and I'll support you as best I can even though",
+        "ru": "Что не так? Что случилось? Там, не там? Не стесняйся, ты можешь сказать мне, и я поддержу тебя, чем смогу, даже"
+    },
+    {
+        "id": "M6090_S0010_G0380_300_resiwoman",
+        "jp": "とはいえ私にできることはあんまりないんですけどね。だってこの早口ですから、他の皆とも上手くやれなくてそのせいかいまいち覚えも悪くて、",
+        "en": "there's nothing much I can do because I speak so fast I don't get along with the others and so maybe that's why my memory's not so good either which is why",
+        "ru": "если ничего серьёзного, я смогу это сделать, из-за того что я говорю так быстро, я не уживаюсь с остальными и поэтому, быть может, вот почему у меня не очень хорошая память, поэтому"
+    },
+    {
+        "id": "M6090_S0010_G0390_300_resiwoman",
+        "jp": "だからこうして物資の整理をしながらほとんどキャンプにいるんですけど、\\n最近このあたりの調査にも参加できるようになって、この間なんか……",
+        "en": "I'm mostly in the camp sorting supplies but recently I've been participating in the investigations around the area and just the other day I started...",
+        "ru": "я в основном сортирую припасы лагеря, но недавно я участвовала в исследовании прилежащей местности и только на днях я начала..."
+    },
+    {
+        "id": "M6090_S0010_G0400_300_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0010_G0410_300_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0020_G0390_300_resiwoman",
+        "jp": "噂のヨルハ隊員さんじゃないか。\\n君の活躍は聞いてるよ。",
+        "en": "Aren't you the YoRHa I keep hearing about? Everyone's talking about your successes.",
+        "ru": "Не вы ли YoRHa, о которых я столь наслышана? Все только и говорят о ваших успехах."
+    },
+    {
+        "id": "M6090_S0020_G0400_300_resiwoman",
+        "jp": "元気がない時は、こいつの元気を分けてもらうといい。\\n元気すぎてこっちがつかれるくらいだけどな。",
+        "en": "If you ever feel low on energy, maybe take some of hers. It's exhausting just being around her!",
+        "ru": "Если вы испытываете недостаток энергии, может, возьмёте часть у неё. Просто находиться рядом с ней — уже утомительно!"
+    },
+    {
+        "id": "M6090_S0010_G0420_300_resiwoman",
+        "jp": "月が壊れる前は、このあたりも夜ってのがあったらしいね。",
+        "en": "Before that whole thing happened with the moon, this area actually had a proper night time.",
+        "ru": "Прежде чем всё это произошло с Луной, эта область была спокойной в ночное время."
+    },
+    {
+        "id": "M6090_S0010_G0430_300_resiwoman",
+        "jp": "こいつ、変なヤツだろう？",
+        "en": "She's a pretty odd gal, ain't she?",
+        "ru": "Она довольно странная девушка, не так ли?"
+    },
+    {
+        "id": "M6090_S0020_G0410_300_resiwoman",
+        "jp": "最近メモを取るようにしてるんだ。\\n紙に書いておけば、忘れても思い出せるでしょう？",
+        "en": "I've started taking notes recently. If I write things down on paper, I can remember the things I've forgotten.",
+        "ru": "Недавно я начала делать записи. Если я напишу всё на бумаге, я смогу вспомнить всё, что забыла."
+    },
+    {
+        "id": "M6090_S0020_G0420_300_resiwoman",
+        "jp": "でも怖いよね……記憶が消えるって事は、自分が自分でなくなってしまうって\\n事だから……",
+        "en": "But it's pretty scary to consider. I mean, when your memories disappear, you stop being yourself.",
+        "ru": "Но об этом довольно страшно думать. В смысле, когда твои воспоминания исчезают, ты перестаёшь быть собой."
+    },
+    {
+        "id": "M6090_S0010_G0440_300_resiwoman",
+        "jp": "ええっと、あなたと会ったのは初めてだったかな？\\nごめんなさい、私記憶回路が壊れてて、すぐ忘れてしまうの。",
+        "en": "I don't think we've met. Er, HAVE we met? Sorry. My memory circuit is corrupted, so I forget stuff all the time.",
+        "ru": "Я не думаю, что мы встречались. Эм, мы встречались? Простите. Моя схема памяти повреждена, поэтому я всё забываю."
+    },
+    {
+        "id": "M6090_S0010_G0450_300_resiwoman",
+        "jp": "ヨルハ部隊の２Ｂと９Ｓ……やっぱり覚えられないわ……",
+        "en": "2B and 9S from YoRHa, eh? Nope, sorry, doesn't ring a bell.",
+        "ru": "2B и 9S из YoRHa, да? Нет, простите, ничего не припоминаю."
+    },
+    {
+        "id": "M5121_S0010_G0010_300_manager",
+        "jp": "ごめんなさい、また後で来てくれる？",
+        "en": "Sorry, but can you come back later?",
+        "ru": "Простите, но не могли бы вы зайти чуть попозже?"
+    },
+    {
+        "id": "M5121_S0010_G0020_300_manager",
+        "jp": "皆が必死に戦ってるのに、うだうだ言っていられないわよね……\\nがんばらなくちゃ……",
+        "en": "I can't just sit here while everyone's fighting so hard around me. I need to shape up...",
+        "ru": "Я не могу сидеть, сложа руки, пока все вокруг меня стараются изо всех сил. Мне нужно взяться за работу..."
+    },
+    {
+        "id": "M6090_S0010_G0110_300_manager",
+        "jp": "この先は資材置き場につながってるの。\\n悪いけど、関係者以外立ち入り禁止だよ。",
+        "en": "Up ahead is the material storage site. \\nSorry, but it's off-limits.",
+        "ru": "Впереди находится склад материалов.\\nСожалею, но он закрыт."
+    },
+    {
+        "id": "M6090_S0010_G0120_300_manager",
+        "jp": "この先は関係者以外立ち入り禁止だよ。",
+        "en": "This place is off-limits.",
+        "ru": "Это место закрыто."
+    },
+    {
+        "id": "M6090_S0010_G0121_300_manager",
+        "jp": "綺麗な音色……いくら聞いても飽きないわね……",
+        "en": "What a beautiful sound...I could listen to this all day...",
+        "ru": "Какая прекрасная мелодия... Я могу слушать её весь день..."
+    },
+    {
+        "id": "M6090_S0010_G0122_300_manager",
+        "jp": "この先は自由に出入りしていいからね。",
+        "en": "You're free to come and go here whenever you please.",
+        "ru": "Вы можете приходить сюда и бродить здесь, когда пожелаете."
+    },
+    {
+        "id": "M6090_S0020_G0480_300_resiman",
+        "jp": "任務、お疲れ様です！\\n自分も少しずつですが、ここの環境に慣れてきた気がします。",
+        "en": "You're doing great! And bit by bit, I feel like I'm getting used to this environment.",
+        "ru": "Вы отлично справляетесь! И я чувствую, что постепенно привыкаю к такой обстановке."
+    },
+    {
+        "id": "M6090_S0020_G0490_300_resiman",
+        "jp": "えーっと、キャンプの北が森、北東が機械生命体の村……ですよね？",
+        "en": "Okay, so north of the camp is the forest, and northeast is the machine village. ...Er, right?",
+        "ru": "На севере от лагеря — лес, а на северо-востоке — деревня машин. ...Э-э, правильно?"
+    },
+    {
+        "id": "M6090_S0010_G0490_300_resiman",
+        "jp": "お疲れ様です！",
+        "en": "Hello!",
+        "ru": "Привет!"
+    },
+    {
+        "id": "M6090_S0010_G0500_300_resiman",
+        "jp": "あの、僕は最近配属になったばかりで……\\nその、この辺りの事を聞かれてもそんなに詳しくないんです……",
+        "en": "I've only just been assigned here, so...yeah. Can't really tell you much about this place.",
+        "ru": "Я только что назначен сюда, поэтому... да. Серьёзно, я действительно почти ничего не знаю об этом месте."
+    },
+    {
+        "id": "M6090_S0010_G0510_300_resiman",
+        "jp": "キャンプの西に工場跡地、北西に砂漠……調査任務の前にちゃんと覚えて\\nおかないと……",
+        "en": "The abandoned factory is west of camp, and the desert is...northwest? Geez, I'm never gonna be able to remember all of this.",
+        "ru": "Заброшенная фабрика на западе от лагеря, а пустыня на... северо-западе? Уф, я никогда не смогу всё это запомнить."
+    },
+    {
+        "id": "M6090_S0080_G0040_300_resiman",
+        "jp": "またケガ人か？",
+        "en": "Another casualty?",
+        "ru": "Ещё одно ранение?"
+    },
+    {
+        "id": "M6090_S0080_G0050_300_resiman",
+        "jp": "違うならよかった。\\nここじゃ簡単な修理位しかしてやれないからな……",
+        "en": "...No? Well, that's a piece of good news! We can only do simple repairs here.",
+        "ru": "...Нет? Ну, это хорошие новости! Здесь мы можем провести только простенький ремонт."
+    },
+    {
+        "id": "M6090_S0080_G0060_300_resiman",
+        "jp": "頑張りすぎるな、っていっても無理な話だが、自分を大事にしてやれよ。",
+        "en": "There's no use saying don't push yourself too hard, but at least try to look after yourself.",
+        "ru": "Бессмысленно говорить, но не напрягайтесь слишком сильно. По крайней мере, постарайтесь заботиться о себе."
+    },
+    {
+        "id": "M6090_S0020_G0500_300_resiman",
+        "jp": "最近、皆も忙しくてさ。\\nメンテナンスを手伝ってるんだが、なかなか難しいな。",
+        "en": "Everyone's been so busy lately. I've been helping with maintenance when I can, but it's pretty tough!",
+        "ru": "С недавнего времени все заняты. Я помогаю с техобслуживанием, когда могу, но это довольно трудно!"
+    },
+    {
+        "id": "M6090_S0020_G0510_300_resiman",
+        "jp": "なんか疲れてないか？\\n頑張るのはいいが、ほどほどにな。",
+        "en": "Aren't you tired? It's good you're trying your best, but don't overdo it.",
+        "ru": "Вы не устали? Хорошо, что вы стараетесь изо всех сил, но не переусердствуйте."
+    },
+    {
+        "id": "M6090_S0010_G0520_300_resiman",
+        "jp": "機体は定期的にメンテナンスしてるか？\\nアップグレードしたければ、表にいる女に言うといい。",
+        "en": "Make sure you get regular maintenance. Also, if you want an upgrade, you should talk to the woman out front.",
+        "ru": "Обязательно проводите техобслуживание. Также, если вам нужно улучшение, вы должны поговорить с женщиной у входа."
+    },
+    {
+        "id": "M6090_S0010_G0530_300_resiman",
+        "jp": "ヨルハ義体は高価だからな、大事にしろよ。",
+        "en": "YoRHa bodies are expensive, so don't go getting yourself hurt!",
+        "ru": "Тела YoRHa дорогие, поэтому не дайте себя повредить!"
+    },
+    {
+        "id": "M6090_S0080_G0070_300_resiman",
+        "jp": "データのセーブはちゃんとしてるか？\\n代わりの義体があっても、データが壊れちゃ死んだも同然だ。",
+        "en": "Are you saving your data regularly? Even if you get a replacement body, you're as good as dead if your data's lost.",
+        "ru": "Вы регулярно сохраняете свои данные? Пускай вы и получите новое тело, но это смерти подобно, когда случается потеря ваших данных."
+    },
+    {
+        "id": "M6090_S0080_G0080_300_resiman",
+        "jp": "データはこまめにセーブしておけよ。\\n手遅れになってからじゃ遅いからな。",
+        "en": "Have you been saving your data regularly? If not, do it before it's too late!",
+        "ru": "Вы регулярно сохраняете свои данные? Если нет, то сделайте это, прежде чем станет слишком поздно!"
+    },
+    {
+        "id": "M6090_S0020_G0520_300_resiman",
+        "jp": "今よその転送装置を修理して回ってるんだが、直したそばから敵が\\n壊しやがるんだ。",
+        "en": "I've been trying to repair the surrounding transporters, but the enemy keeps breaking them as soon as I finish.",
+        "ru": "Я пытался ремонтировать окрестные транспортёры, но как только я заканчиваю, враги тут же ломают их снова."
+    },
+    {
+        "id": "M6090_S0020_G0530_300_resiman",
+        "jp": "もう、自動販売機の偽装も意味がないんだよなぁ。",
+        "en": "There's no point in the vending machine camouflage anymore.",
+        "ru": "Маскировать их под торговый автомат совершенно бессмысленно."
+    },
+    {
+        "id": "M6090_S0020_G0540_300_resiman",
+        "jp": "転送装置の周囲に機械生命体がいたらよ、いっちょ懲らしめてやってくれ。",
+        "en": "If you find any machines near a transporter, make them pay!",
+        "ru": "Если найдёте какие-то машины возле транспортёра, наваляйте им!"
+    },
+    {
+        "id": "M6090_S0010_G0540_300_resiman",
+        "jp": "キャンプの転送装置を整備して、バンカーに戻れるようにしておいた。\\n好きに使っていいからな。",
+        "en": "I fixed the camp's transporter so that you can return to the Bunker. It's ready for you whenever.",
+        "ru": "Я починил транспортёр лагеря, поэтому вы можете вернуться в Бункер. Теперь он в вашем распоряжении."
+    },
+    {
+        "id": "M6090_S0010_G0550_300_resiman",
+        "jp": "よその転送装置も整備したいんだが、機械生命体が邪魔で作業が\\n進まないんだ。",
+        "en": "I'd like to fix other transporters as well, but I can't so long as the machines are in the way.",
+        "ru": "Я бы починил и другие транспортёры, но не могу, пока там снуют машины."
+    },
+    {
+        "id": "M6090_S0080_G0090_300_resiwoman",
+        "jp": "義体はただの入れ物だって解ってるんだけど、\\n怪我人を見るのは心が痛むね……",
+        "en": "I know these bodies are basically just shells, but it pains me to see them injured...",
+        "ru": "Я знаю, что эти тела по существу — просто оболочки, но мне больно смотреть на их повреждения..."
+    },
+    {
+        "id": "M6090_S0080_G0100_300_resiwoman",
+        "jp": "怪我はない？\\n無茶しないでちゃんと休むのよ。",
+        "en": "Are you injured? If not, then stay that way! Don't do anything reckless, and make sure to get enough rest.",
+        "ru": "Вы ранены? Если нет, тогда вам здесь делать нечего! Не будьте безрассудными, и убедитесь, что выделяете время на отдых."
+    },
+    {
+        "id": "M6090_S0020_G0550_300_resiwoman",
+        "jp": "あなた達、いつも仲良しよね。\\nうらやましいわ。",
+        "en": "You two always look so close. Honestly, I'm jealous.",
+        "ru": "Вы двое, кажется, довольно близки. Честно говоря, я завидую."
+    },
+    {
+        "id": "M6090_S0020_G0570_300_resiwoman",
+        "jp": "機械生命体なんて皆滅びてしまえばいいのに。",
+        "en": "I wish all the machines would just die already.",
+        "ru": "Я желаю, чтобы все машины умерли."
+    },
+    {
+        "id": "M6090_S0020_G0560_300_resiwoman",
+        "jp": "皆には内緒だけど、機械生命体にもイイ奴はいると思うんだよね……",
+        "en": "It's a secret from the others, but there are some good machines out there...",
+        "ru": "Это секрет, но снаружи есть несколько хороших машин..."
+    },
+    {
+        "id": "M6090_S0010_G0560_300_resiwoman",
+        "jp": "最近胸のあたりがざわつく……どうしたんだろう？",
+        "en": "I've been having this really weird feeling in my chest lately... I wonder what it could be.",
+        "ru": "В последнее время у меня странное ощущение в груди... Интересно, что бы это могло быть."
+    },
+    {
+        "id": "M6090_S0010_G0570_300_resiwoman",
+        "jp": "義体に異常はないって言われたんだけど……\\nアンドロイドなのに、変よね。",
+        "en": "I was told there was nothing wrong with my body, but I'm sure this isn't normal for androids.",
+        "ru": "Мне сказали, что с моим телом всё в порядке, но я уверена, это не нормально для андроидов."
+    },
+    {
+        "id": "M6090_S0080_G0110_300_resiman",
+        "jp": "おい、こんなところで油売ってていいのか？\\n仲間がお前を必要としてるだろ、早く行ってやれ。",
+        "en": "Why are you lazing around here? Your friends need you!",
+        "ru": "Чего это мы тут прохлаждаемся? Вы нужны своим друзьям!"
+    },
+    {
+        "id": "M6090_S0080_G0120_300_resiman",
+        "jp": "俺達に出来ることは少ないが……頼りにしてるぜ、ヨルハ部隊のエース殿！",
+        "en": "There's not much we can do, but I'm relying on you!",
+        "ru": "Мы можем немногое, но я рассчитываю на вас!"
+    },
+    {
+        "id": "M6090_S0030_G0160_300_resiman",
+        "jp": "おい、大丈夫か？\\n最近いろいろあったから、疲れがたまってるんじゃないか？",
+        "en": "So much has happened recently. You must be exhausted!",
+        "ru": "Много всего произошло в последнее время. Наверное, вы сильно устали!"
+    },
+    {
+        "id": "M6090_S0030_G0170_300_resiman",
+        "jp": "俺は最後まで自分の仕事を全うする。\\nそれが全てだからな。",
+        "en": "I'll carry out my work until the bitter end. Everything depends on it.",
+        "ru": "Я буду выполнять свою работу до самого конца. От неё многое зависит."
+    },
+    {
+        "id": "M6090_S0020_G0580_300_resiman",
+        "jp": "よう、ヨルハ部隊のエース殿。\\nお前達が最善の状態で戦えるように、サポート体制はばっちりだぜ。",
+        "en": "Hi there, YoRHa ace! We're making sure we're equipped to support you to the utmost so you can fight at your best.",
+        "ru": "Привет, ас YoRHa! Мы следим за вашим оснащением, дабы оказать вам максимальную поддержку и вы могли сражаться изо всех сил."
+    },
+    {
+        "id": "M6090_S0020_G0590_300_resiman",
+        "jp": "俺は仕事中だ。\\nほら、行った行った！",
+        "en": "I'm working. ...Look, there they go!",
+        "ru": "Я работаю."
+    },
+    {
+        "id": "M6090_S0010_G0580_300_resiman",
+        "jp": "俺はキャンプの荷物を見て回って、物資の在庫を調べるのが仕事なんだ。",
+        "en": "My job is to look through the camp supplies and check our stock.",
+        "ru": "Моя работа — следить за припасами лагеря и контролировать наши запасы."
+    },
+    {
+        "id": "M6090_S0010_G0590_300_resiman",
+        "jp": "足りない物資は各地の調達係が集めてきて、ここでまとめて管理する\\n仕組みなのさ。",
+        "en": "When supplies are low, providers from each area send us what we need and leave it for us to manage.",
+        "ru": "Когда припасов мало, поставщики из других областей отправляют нам то, что нужно."
+    },
+    {
+        "id": "M6090_S0010_G0600_300_resiman",
+        "jp": "最近はこのあたりの調査が活発だから、忙しくて参っちまうよ。",
+        "en": "We've been doing lots of investigations lately, so I've been swamped.",
+        "ru": "В последнее время мы проводим много исследований, поэтому у меня дел невпроворот."
+    },
+    {
+        "id": "M6090_S0020_G0600_300_resiwoman",
+        "jp": "ヒソヒソ……なるほど……",
+        "en": "Psst... Oh, I see!",
+        "ru": "П-с-с... О, ясно!"
+    },
+    {
+        "id": "M6090_S0020_G0610_300_resiwoman",
+        "jp": "混ぜてほしいって？君にはまだ早いよ。",
+        "en": "...Hmm? You want me to tell you what we're talking about? Heck no! I still don't know you well enough.",
+        "ru": "...Хм? Вы хотите, чтобы я рассказала, о чём мы говорили? Чёрт возьми, нет! Я ещё не достаточно хорошо вас знаю."
+    },
+    {
+        "id": "M6090_S0010_G0610_300_resiwoman",
+        "jp": "ヒソヒソ……うんうん……",
+        "en": "Psst... Uh-huh.",
+        "ru": "П-с-с... Ах-хах."
+    },
+    {
+        "id": "M6090_S0010_G0620_300_resiwoman",
+        "jp": "ん？何の話か気になるって？\\n秘密だよ。",
+        "en": "...Hmm? You wanna know what I'm saying? Well, it's none of your beeswax!",
+        "ru": "...Хм? Хотите узнать, что я сказал? Ну, это не ваше дело!"
+    },
+    {
+        "id": "M6090_S0030_G0180_300_resiwoman",
+        "jp": "ヒソヒソ……うんうん……",
+        "en": "Psst... Uh-huh... You don't say!",
+        "ru": "П-с-с... Ух-хух... Не может быть!"
+    },
+    {
+        "id": "M6090_S0030_G0190_300_a2b",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0030_G0200_300_a9s",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6090_S0030_G0210_300_a2",
+        "jp": "おい、誰と話してるんだ？",
+        "en": "Who you talking to?",
+        "ru": "С кем, ты говоришь?"
+    },
+    {
+        "id": "M6090_S0030_G0220_300_resiwoman",
+        "jp": "立ち聞きは悪趣味ですよ。",
+        "en": "It's rude to eavesdrop!",
+        "ru": "Подслушивать — грубо!"
+    },
+    {
+        "id": "M6090_S0020_G0620_300_resiwoman",
+        "jp": "ヒソヒソ……それで……",
+        "en": "So anyway, I says to her...",
+        "ru": "В любом случае, я сказала ей..."
+    },
+    {
+        "id": "M6090_S0020_G0630_300_resiwoman",
+        "jp": "耳をそばだてて聞いても、大した話じゃないですよ。",
+        "en": "Eavesdrop all you want. It's nothing important.",
+        "ru": "Похоже, вам действительно нравится подслушивать."
+    },
+    {
+        "id": "M6090_S0010_G0630_300_resiwoman",
+        "jp": "ヒソヒソ……そうそう……",
+        "en": "Psst... Yes? Oh my!",
+        "ru": "П-с-с... Да? Ничего себе!"
+    },
+    {
+        "id": "M6090_S0010_G0640_300_resiwoman",
+        "jp": "立ち聞きは悪趣味ですよ！",
+        "en": "...Hey! No eavesdropping!",
+        "ru": "...Эй! Не подслушивайте!"
+    },
+    {
+        "id": "M6090_S0020_G0640_300_resiman",
+        "jp": "えーっと、これは向こうの箱に移し替えて……",
+        "en": "Um, let's move that to the box over there...",
+        "ru": "Эм, давайте передвинем эту коробку..."
+    },
+    {
+        "id": "M6090_S0020_G0650_300_resiman",
+        "jp": "パスカルのところと交易することになったのは良いんだが、\\nあいつら機械の癖に大雑把なんだよな。",
+        "en": "I'm happy we're trading with Pascal, but it's still a little weird swapping stuff with machines.",
+        "ru": "Я рад, что мы торгуем с Паскалем, но это довольно странно — вести обмен вещами с машин."
+    },
+    {
+        "id": "M6090_S0010_G0650_300_resiman",
+        "jp": "まったく……誰がこんな適当に入れたんだ……",
+        "en": "Geez, who made this mess?",
+        "ru": "Боже, кто устроил этот беспорядок?"
+    },
+    {
+        "id": "M6090_S0010_G0660_300_resiman",
+        "jp": "これだけ荷物が多いと、管理するのにも一苦労だよ。",
+        "en": "There's so much stuff here, it's hard to keep track of it all.",
+        "ru": "Здесь так много вещей, трудно за всем уследить."
+    },
+    {
+        "id": "M6090_S0030_G0230_300_resiman",
+        "jp": "うぃ～っ、やっぱ酒は最高だなぁ～\\nおい、酒はもうないのか～？",
+        "en": "Man, booze is the BEST! ...Is it gone? Please tell me it's not all gone!",
+        "ru": "Выпивка — это ХОРОШО! Она закончилась? Прошу, скажите, что она не закончилась!"
+    },
+    {
+        "id": "M6090_S0030_G0240_300_resiman",
+        "jp": "……なんだよぉ……なんか文句あるのかよぉ……",
+        "en": "...What? You gotta problem with me!?",
+        "ru": "...Чего? Что вам от меня нужно?!"
+    },
+    {
+        "id": "M6090_S0020_G0660_300_resiman",
+        "jp": "中央が吹っ飛んだ時に古い酒を見つけてよ、ちょっと飲んでみたんだが\\nあれはいいな。",
+        "en": "I found some old alcohol when the center of the city ruins was blown off, so I tried a little. It's really good!",
+        "ru": "Я нашёл немного старого алкоголя, когда центр руин города обрушился, затем я попробовал немного. Он действительно хорош!"
+    },
+    {
+        "id": "M6090_S0020_G0670_300_resiman",
+        "jp": "……この話、リーダーには内緒だぞ。",
+        "en": "Don't tell my boss!",
+        "ru": "Только не рассказывайте моему начальнику!"
+    },
+    {
+        "id": "M6090_S0020_G0680_300_resiman",
+        "jp": "酒を飲むと情報処理機能が低下するのか、頭がぼーっとして、\\nなんか全部どうでもよくなっちまう。",
+        "en": "Data processing must get worse when you drink. I feel so out of it, plus nothing seems to matter anymore.",
+        "ru": "Алкоголь ухудшает обработку данных. Я чувствую себя пьяным, плюс теперь мне всё по барабану."
+    },
+    {
+        "id": "M6090_S0020_G0690_300_resiman",
+        "jp": "ああいうのを夢見ごこちっていうのかもな。",
+        "en": "It's like I'm in a dream.",
+        "ru": "Как будто я во сне."
+    },
+    {
+        "id": "M6090_S0010_G0670_300_resiman",
+        "jp": "あー、仕事の後は一杯やりたいもんだねぇ。",
+        "en": "Ahhh... I can't wait to have a drink after work.",
+        "ru": "А-а-ах... Не могу дождаться момента, когда смогу выпить после работы."
+    },
+    {
+        "id": "M6090_S0010_G0680_300_resiman",
+        "jp": "人間は仕事終わりにこうやって仲間と固まって酒を飲んでたらしい。\\n俺達も取り入れるべき文化だ。そう思わないか？",
+        "en": "Humans used to have drinks and talk together after work. That's a tradition we should bring back!",
+        "ru": "В старые времена люди собирались после работы, общались и выпивали. Мы обязаны возродить эту традицию!"
+    },
+    {
+        "id": "M6090_S0030_G0250_300_resiman",
+        "jp": "……なんで生き残っちまったんだろう。",
+        "en": "Why did I survive...?",
+        "ru": "Почему я выжил?.."
+    },
+    {
+        "id": "M6090_S0030_G0260_300_resiman",
+        "jp": "俺なんかじゃなくてさ、もっと良い奴とか、まじめな奴とかが\\n生き残るべきだったんだ。",
+        "en": "I shouldn't have survived. It should've been someone better. Someone who took his job more seriously.",
+        "ru": "Я не должен был выжить. Это должен был быть кто-то лучше. Кто-то, кто более серьёзно относится к своей работе."
+    },
+    {
+        "id": "M6090_S0030_G0270_300_resiman",
+        "jp": "お前もそう思うだろ？",
+        "en": "You think so too, don't you?",
+        "ru": "Вы тоже так думаете, не так ли?"
+    },
+    {
+        "id": "M6090_S0030_G0280_300_resiman",
+        "jp": "こんな状況になっても、俺は戦いが怖くてここから動けないような屑野郎だ。",
+        "en": "Even with things the way they are, I'm scared of fighting. I don't think I can even move.",
+        "ru": "Даже при таком раскладе, я боюсь сражаться. Не думаю, что смогу двигаться."
+    },
+    {
+        "id": "M6090_S0030_G0290_300_resiman",
+        "jp": "全部どうでもいいって投げ出せたらどんなにいいだろうな……",
+        "en": "I wish I could give up and stop caring.",
+        "ru": "Я хотел бы сдаться и перестать беспокоиться."
+    },
+    {
+        "id": "M6090_S0020_G0700_300_resiman",
+        "jp": "最近慌ただしくて、ろくに休めてないからな。\\nたまには休憩しないとな。",
+        "en": "I've been so busy lately that I haven't had a proper break. You've got to rest sometimes.",
+        "ru": "В последнее время я так занят, что нет времени даже на небольшой перерыв. А отдых тоже крайне важен."
+    },
+    {
+        "id": "M6090_S0020_G0710_300_resiman",
+        "jp": "いつも休んでるじゃないかって？\\n細かいこと気にすんなよ。",
+        "en": "...What's that? I look like I'm always resting? Hey, mind your business!",
+        "ru": "...Что такое? Вам кажется, что я всегда отдыхаю? Эй, не суйте нос в чужие дела!"
+    },
+    {
+        "id": "M6090_S0010_G0690_300_resiman",
+        "jp": "生まれてからずーっと戦争してるなんて……大変だよな。",
+        "en": "It must be tough having to spend every day of your life in combat.",
+        "ru": "Должно быть, это непросто — каждый день своей жизни проводить в битвах."
+    },
+    {
+        "id": "M6090_S0010_G0700_300_resiman",
+        "jp": "気張ってても世の中、なるようにしかならないんだ。\\n気楽にいこうぜ。",
+        "en": "No matter how hard you push yourself, what will be will be. So take it easy!",
+        "ru": "Не важно, как сильно вы стараетесь, чему быть, того не миновать. Поэтому относитесь к жизни проще!"
+    },
+    {
+        "id": "M6090_S0020_G0720_300_resiwoman",
+        "jp": "こんにちは。\\nゆっくりしていってね。",
+        "en": "Make sure you take it easy, all right?",
+        "ru": "Обязательно расслабляйтесь, хорошо?"
+    },
+    {
+        "id": "M6090_S0020_G0730_300_resiwoman",
+        "jp": "あなたいつも忙しそうだけど、たまには大切な人との時間もとらないとだめよ。",
+        "en": "You always seem busy, but you've got to make time for your loved ones, too.",
+        "ru": "Вы всегда очень заняты, но вам следует уделять время и своим близким."
+    },
+    {
+        "id": "M6090_S0020_G0740_300_resiwoman",
+        "jp": "いつまでも一緒に居られる訳じゃないからね。\\n……この人は言っても聞かないでしょうけど。",
+        "en": "You're not going to be together forever... Not that you'll listen to someone like me, though.",
+        "ru": "Вы не будете вместе вечно... Хотя, не думаю, что вы послушаете кого-то вроде меня."
+    },
+    {
+        "id": "M6090_S0010_G0710_300_resiwoman",
+        "jp": "こんにちは。\\nあなたも休憩しに来たの？",
+        "en": "Hiya! Here to take a load off?",
+        "ru": "Привет! Прибыли, чтобы передохнуть?"
+    },
+    {
+        "id": "M6090_S0010_G0720_300_resiwoman",
+        "jp": "彼も少しは休めばいいのに、いつも仕事ばっかり。",
+        "en": "I'm always telling him he should rest sometimes, but he never listens.",
+        "ru": "Я всегда говорю ему, что он должен иногда отдыхать, но он никогда не слушает."
+    },
+    {
+        "id": "M6090_S0010_G0730_300_resiwoman",
+        "jp": "調査から帰ってきたと思ったら道具屋の手伝い……\\n得意なわけでもないのに、なんでも引き受けちゃうみたいなのよね。",
+        "en": "As soon as he gets back from his investigations, he goes to help at the item shop. He takes on every little task, even if he's no good at it.",
+        "ru": "Как только он вернётся со своих исследований, он пойдёт помогать в магазин предметов. Он возьмётся за любое мелкое поручение, даже если оно ему не понравится."
+    },
+    {
+        "id": "M6090_S0020_G0750_300_resiman",
+        "jp": "あれがここにはまって……こっちをつないで……",
+        "en": "So that goes in here...and connects to this...",
+        "ru": "Так, это идёт сюда... и подключается к этому..."
+    },
+    {
+        "id": "M6090_S0020_G0760_300_resiman",
+        "jp": "うーん……なんでパーツが余ったんだ？",
+        "en": "Hmm... Why are there so many parts?",
+        "ru": "Хм... Почему тут так много деталей?"
+    },
+    {
+        "id": "M6090_S0010_G0740_300_resiman",
+        "jp": "ここをこうして……うーん……",
+        "en": "So this goes here... Ummm...",
+        "ru": "Так, это сюда... Эм..."
+    },
+    {
+        "id": "M6090_S0010_G0750_300_resiman",
+        "jp": "おかしいな……なんで動かないんだ？",
+        "en": "That's odd. Why isn't it moving?",
+        "ru": "Странно. Почему оно не двигается?"
+    },
+    {
+        "id": "M6090_S0080_G0160_300_resiman",
+        "jp": "どうした？\\n心配しなくても、ここはちゃんと守っとくよ。",
+        "en": "What happened!? ...Oh, and don't worry—I'm protecting this place.",
+        "ru": "Что-то случилось?! О, и не беспокойтесь... Я способен защитить это место."
+    },
+    {
+        "id": "M6090_S0080_G0170_300_resiman",
+        "jp": "俺達にはこんなことしかできないからな。\\nせめてできることはやりぬかないとな。",
+        "en": "This is all we can do. At the very least, we've got to push on.",
+        "ru": "Это всё, что в наших силах. Несмотря на это, мы должны двигаться дальше."
+    },
+    {
+        "id": "M6090_S0010_G0760_300_resiman",
+        "jp": "毎日毎日運んでも運んでもキリがない……\\nちょっと休憩だ！休憩！",
+        "en": "I'm endlessly carrying things, day after day after day. I need a break!",
+        "ru": "Я постоянно передвигаю вещи, день за днём. Мне нужен перерыв!"
+    },
+    {
+        "id": "M6090_S0010_G0770_300_resiman",
+        "jp": "仕事は多いし、同僚は使えないし、上司は横暴……\\nその上相変わらず戦争は続いてるときたもんだ。",
+        "en": "There's so much work, my colleagues are useless, my superiors are tyrants, and this war shows no signs of ending!",
+        "ru": "Здесь так много работы, мои коллеги бесполезны, мой начальник тиран, а этой войне нет конца!"
+    },
+    {
+        "id": "M6090_S0010_G0780_300_resiman",
+        "jp": "一つくらい、何か良いことでもないかなぁ……",
+        "en": "It's just bad news everywhere you look.",
+        "ru": "Куда ни глянь, одни плохие новости кругом."
+    },
+    {
+        "id": "M6090_S0080_G0180_300_resiman",
+        "jp": "君達がこんなところまで一体……まさか、敵襲！？\\n大変だ！すぐに資材を運び出さないと！！！",
+        "en": "Why are you here? Are we...under attack!?\\nOh no! I've got to carry out the supplies right away!",
+        "ru": "Зачем вы здесь? Мы... атакованы?!\\nО, нет! Я должен немедленно эвакуировать припасы!"
+    },
+    {
+        "id": "M6090_S0080_G0190_300_resiman",
+        "jp": "……え、違う？\\nまったく、驚かすなよ。",
+        "en": "...Oh, we're not? Geez, don't scare me like that!",
+        "ru": "...О, мы не атакованы? Боже, не пугайте меня так!"
+    },
+    {
+        "id": "M6090_S0080_G0200_300_resiman",
+        "jp": "ここにある資材は我々の生命線だからな。\\n命に変えてでも守りぬくぜ。",
+        "en": "Everyone's depending on these supplies. I must protect them with my life!",
+        "ru": "Жизни многих зависят от этих припасов. Я обязан защищать их даже ценой своей жизни!"
+    },
+    {
+        "id": "M6090_S0010_G0790_300_resiman",
+        "jp": "右よし！左よし！\\nうむ、今日も異常はないな！",
+        "en": "All clear to the right! All clear to the left!\\nNothing to report today!",
+        "ru": "Справа всё чисто! Слева всё чисто!\\nСегодня докладывать нечего!"
+    },
+    {
+        "id": "M6090_S0010_G0800_300_resiman",
+        "jp": "警備は任せてくれ。\\n倉庫には、ネズミ一匹入れないぜ。",
+        "en": "I'm taking care of the guard duties. I won't let even a single mouse get in.",
+        "ru": "Я исполняю обязанности охранника. И не позволю проскользнуть даже мыши."
+    }
+]

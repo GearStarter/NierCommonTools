@@ -1,0 +1,284 @@
+[
+    {
+        "id": "M5910_S0100_G0155_001_pascal",
+        "jp": "…………",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M3030_S0100_G0060_001_select",
+        "jp": "死んだ仲間は再生できないのか？",
+        "en": "Can't you regenerate your dead villagers?",
+        "ru": "Ты сможешь восстановить мёртвых жителей?"
+    },
+    {
+        "id": "M3030_S0100_G0070_001_select",
+        "jp": "この工場は安全か？",
+        "en": "Is this factory safe?",
+        "ru": "Эта фабрика безопасна?"
+    },
+    {
+        "id": "M3030_S0100_G0080_001_select",
+        "jp": "もう少し情報が欲しいな……",
+        "en": "We really need more info...",
+        "ru": "Нам нужно больше информации..."
+    },
+    {
+        "id": "M5910_S0100_G0155_001_pascal",
+        "jp": "…………",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M3030_S0100_G0070_001_select",
+        "jp": "この工場は安全か？",
+        "en": "Is this factory safe?",
+        "ru": "Эта фабрика безопасна?"
+    },
+    {
+        "id": "M3030_S0100_G0080_001_select",
+        "jp": "もう少し情報が欲しいな……",
+        "en": "We really need more info...",
+        "ru": "Нам нужно больше информации..."
+    },
+    {
+        "id": "M5910_S0100_G0155_001_pascal",
+        "jp": "…………",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M3030_S0100_G0080_001_select",
+        "jp": "もう少し情報が欲しいな……",
+        "en": "We really need more info...",
+        "ru": "Нам нужно больше информации..."
+    },
+    {
+        "id": "M5910_S0100_G0155_001_pascal",
+        "jp": "…………",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M3030_S0100_G0060_001_select",
+        "jp": "死んだ仲間は再生できないのか？",
+        "en": "Can't you regenerate your dead villagers?",
+        "ru": "Ты сможешь восстановить мёртвых жителей?"
+    },
+    {
+        "id": "M3030_S0100_G0080_001_select",
+        "jp": "もう少し情報が欲しいな……",
+        "en": "We really need more info...",
+        "ru": "Нам нужно больше информации..."
+    },
+    {
+        "id": "M5910_S0100_G0155_001_pascal",
+        "jp": "…………",
+        "en": "...",
+        "ru": "..."
+    },
+    {
+        "id": "M3030_S0100_G0080_001_select",
+        "jp": "もう少し情報が欲しいな……",
+        "en": "We really need more info...",
+        "ru": "Нам нужно больше информации..."
+    },
+    {
+        "id": "M3030_S0100_G0000_001_a2",
+        "jp": "大丈夫か！？パスカル。",
+        "en": "Pascal! Are you okay?",
+        "ru": "Паскаль! Ты в порядке?"
+    },
+    {
+        "id": "M3030_S0100_G0010_001_pascal",
+        "jp": "ああ……Ａ２さん。",
+        "en": "Oh, A2...",
+        "ru": "Ох, A2..."
+    },
+    {
+        "id": "M3030_S0100_G0020_001_a2",
+        "jp": "一体何があったんだ？",
+        "en": "So what exactly happened?",
+        "ru": "Так что здесь произошло?"
+    },
+    {
+        "id": "M3030_S0100_G0030_001_pascal",
+        "jp": "わかりません……いきなり一部の村人達が同じ村の仲間を\\n食べ始めたのです……",
+        "en": "I don't know. Some of the villagers just started to...feed on each other.",
+        "ru": "Я не знаю. Некоторые жители просто начали... поедать друг друга."
+    },
+    {
+        "id": "M3030_S0100_G0040_001_pascal",
+        "jp": "Ａ２さんが来てくださらなかったら、私達もきっと……",
+        "en": "If you hadn't come along, I'm sure we would have met the same grim fate.",
+        "ru": "Если бы ты не пришла, нас ожидала бы страшная участь."
+    },
+    {
+        "id": "M3030_S0100_G0050_001_pascal",
+        "jp": "ありがとうございました。",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M3030_S0100_G0090_001_pod042",
+        "jp": "疑問：機械生命体は素材さえあれば再生出来るのではないか？",
+        "en": "Query: We understand that machine lifeforms can regenerate as long as they possess the required materials. Is this accurate?",
+        "ru": "Вопрос: судя по всему, машины способны на регенерацию при достаточном количестве нужных материалов. Это так?"
+    },
+    {
+        "id": "M3030_S0100_G0100_001_pascal",
+        "jp": "いえ……実は、私達には『コア』と呼ばれるユニットがあります。",
+        "en": "Unfortunately, we cannot regenerate our cores.",
+        "ru": "К сожалению, мы не способны регенерировать наши ядра."
+    },
+    {
+        "id": "M3030_S0100_G0110_001_pascal",
+        "jp": "このコアは自我データを形成するユニットなんですが、",
+        "en": "Cores contain the data which forms our self-consciousness.",
+        "ru": "Ядро содержит данные, которые формируют наше самосознание."
+    },
+    {
+        "id": "M3030_S0100_G0120_001_pascal",
+        "jp": "それを破壊されてしまうと元に戻る事はできません。",
+        "en": "If one is destroyed, there is no way to restore it.",
+        "ru": "Если его разрушить, то нет никакой возможности для восстановления."
+    },
+    {
+        "id": "M3030_S0100_G0130_001_pascal",
+        "jp": "コアは普段は安全な場所に格納しておくのですが、",
+        "en": "We usually store our cores in safe places,",
+        "ru": "Обычно мы храним ядра в безопасном месте,"
+    },
+    {
+        "id": "M3030_S0100_G0140_001_pascal",
+        "jp": "今回犠牲になった村人達はコアごと破壊されてしまっているので……",
+        "en": "but this time, the villagers had their cores destroyed as well as their bodies.",
+        "ru": "но на сей раз у жителей были разрушены не только их тела, но и ядра."
+    },
+    {
+        "id": "M3030_S0100_G0150_001_a2",
+        "jp": "そうか……",
+        "en": "I see...",
+        "ru": "Ясно..."
+    },
+    {
+        "id": "M3030_S0100_G0160_001_a2",
+        "jp": "この工場は安全なのか？",
+        "en": "So is this factory safe?",
+        "ru": "Так эта фабрика безопасна?"
+    },
+    {
+        "id": "M3030_S0100_G0170_001_pascal",
+        "jp": "以前、暴走した機械生命体が住んでいたのですが、",
+        "en": "It was once occupied by a cadre of fellow machines that had gone berserk.",
+        "ru": "Когда-то она кишела обезумевшими машинами."
+    },
+    {
+        "id": "M3030_S0100_G0180_001_pascal",
+        "jp": "２Ｂさんが撃退してくれて。",
+        "en": "However, 2B took care of that threat.",
+        "ru": "Однако 2B позаботилась об этой угрозе."
+    },
+    {
+        "id": "M3030_S0100_G0190_001_pascal",
+        "jp": "今は、安全なんです。",
+        "en": "It is quite safe now.",
+        "ru": "Теперь фабрика довольно безопасна."
+    },
+    {
+        "id": "M3030_S0100_G0200_001_pascal",
+        "jp": "ここしばらくは、私達が資材置き場として使っていました。",
+        "en": "We've been using it for storage for some time.",
+        "ru": "И мы воспользуемся ей, на какое-то время."
+    },
+    {
+        "id": "M3030_S0100_G0210_001_a2",
+        "jp": "わかった。",
+        "en": "All right.",
+        "ru": "Хорошо."
+    },
+    {
+        "id": "M3030_S0110_G0000_001_a2",
+        "jp": "ここで籠城するにも、もう少し情報が必要だな……",
+        "en": "Still, if we're gonna hole up here, I wish we had more info to work with...",
+        "ru": "Однако если мы планируем остаться тут, нам нужно больше информации с..."
+    },
+    {
+        "id": "M3030_S0110_G0010_001_pod042",
+        "jp": "推奨：パスカル達の早急な安全確保。",
+        "en": "Proposal: Unit A2 should secure the safety of Pascal and the children immediately.",
+        "ru": "Предложение: единица A2 должна немедленно обеспечить безопасность Паскаля и детей."
+    },
+    {
+        "id": "M3030_S0110_G0020_001_a2",
+        "jp": "そんなに急がせるな……",
+        "en": "What's the hurry?",
+        "ru": "К чему такая спешка?"
+    },
+    {
+        "id": "M3030_S0110_G0030_001_pod042",
+        "jp": "各地のポッドネットワークから情報を入手。",
+        "en": "Haste is predicated on data obtained from the recently restored cross-regional Pod network.",
+        "ru": "Данная спешка основывается на данных, полученных из восстановленной межрегиональной сети Ботов."
+    },
+    {
+        "id": "M3030_S0110_G0040_001_a2",
+        "jp": "お前達に仲間がいるのか？",
+        "en": "Wait, there's more of you?",
+        "ru": "Погоди-ка, есть и другие?"
+    },
+    {
+        "id": "M3030_S0110_G0050_001_pod042",
+        "jp": "肯定。",
+        "en": "Affirmative.",
+        "ru": "Подтверждаю."
+    },
+    {
+        "id": "M3030_S0110_G0060_001_pod042",
+        "jp": "本工場廃墟に多数の機械生命体が集結しているとの情報あり。",
+        "en": "Cross-regional data reveals a large number of machine lifeforms amassing around these ruins.",
+        "ru": "В межрегиональной сети есть информация о скоплении множества машин в данной области."
+    },
+    {
+        "id": "M3030_S0110_G0070_001_a2",
+        "jp": "何だって！？",
+        "en": "What!?",
+        "ru": "Что?!"
+    },
+    {
+        "id": "M3030_S0110_G0080_001_a2",
+        "jp": "パスカルッ！",
+        "en": "Pascal!",
+        "ru": "Паскаль!"
+    },
+    {
+        "id": "M3030_S0110_G0090_001_pascal",
+        "jp": "ああっ……Ａ２さん！",
+        "en": "Aaaah! A2!",
+        "ru": "А-а-а! A2!"
+    },
+    {
+        "id": "M3030_S0110_G0100_001_pod042",
+        "jp": "敵の増援部隊、本施設への侵入を開始。",
+        "en": "Alert: Enemy reinforcements are infiltrating the facility.",
+        "ru": "Внимание: вражеское подкрепление проникает на объект."
+    },
+    {
+        "id": "M3030_S0110_G0110_001_a2",
+        "jp": "この部屋に入られる前に、叩き潰す！",
+        "en": "I'll smash 'em before they can reach this room.",
+        "ru": "Я разберусь с ними ещё до того, как они достигнут этой комнаты."
+    },
+    {
+        "id": "M3030_S0110_G0120_001_pascal",
+        "jp": "わ、私も、援護します！！",
+        "en": "You...you must let me help you!",
+        "ru": "Ты... ты должна мне помочь!"
+    },
+    {
+        "id": "M3030_S0110_G0121_001_pascal",
+        "jp": "あいつらを叩き潰して、ぶっ殺します！",
+        "en": "I will smash them up and kill them!",
+        "ru": "Я их всех разнесу!"
+    }
+]

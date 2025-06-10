@@ -1,0 +1,728 @@
+[
+    {
+        "id": "M5092_S0010_G0050_001_robomaskrece",
+        "jp": "ここは仮面と掟を崇める聖なる場所……",
+        "en": "This is a sacred place where we worship the masks and the rules.",
+        "ru": "Это святое место, где мы почитаем маски и правила."
+    },
+    {
+        "id": "M5092_S0010_G0060_001_robomaskrece",
+        "jp": "掟２８５８に従い、来訪者には丁寧に説明を行う。",
+        "en": "As per Rule 2,858, I will now provide a more thorough explanation.",
+        "ru": "Согласно правилу 2858, сейчас я должен предоставить подробное объяснение."
+    },
+    {
+        "id": "M5092_S0010_G0070_001_robomaskrece",
+        "jp": "ここは真の仮面の人を選定する場所だ。",
+        "en": "In this place, we select the True Masked One.",
+        "ru": "В этом месте мы выбираем истинного скрывающегося."
+    },
+    {
+        "id": "M5092_S0010_G0080_001_robomaskrece",
+        "jp": "真の仮面の人になるには、６つの試練を乗り越えねばならない。",
+        "en": "In order to become the True Masked One, six trials must be overcome.",
+        "ru": "Чтобы стать истинным скрывающимся, необходимо преодолеть шесть испытаний."
+    },
+    {
+        "id": "M5092_S0010_G0090_001_robomaskrece",
+        "jp": "汝にその意志があるならば、受付にて参加手続きを行おう。",
+        "en": "If you possess the will to continue, register yourself at the reception area.",
+        "ru": "Если вы желаете продолжить, то зарегистрируйтесь в приёмной зоне."
+    },
+    {
+        "id": "M5092_S0010_G0100_001_robomaskrece",
+        "jp": "試練に挑戦してみるか？",
+        "en": "Do you wish to challenge the trials?",
+        "ru": "Желаете подвергнуться испытанию?"
+    },
+    {
+        "id": "M5092_S0020_G0010_001_sele",
+        "jp": "はい。",
+        "en": "Indeed.",
+        "ru": "Разумеется."
+    },
+    {
+        "id": "M5092_S0020_G0020_001_sele",
+        "jp": "いいえ。",
+        "en": "Not really.",
+        "ru": "Не совсем."
+    },
+    {
+        "id": "M5092_S0020_G0070_001_robomaskrece",
+        "jp": "よしわかった。",
+        "en": "Very well.",
+        "ru": "Очень хорошо."
+    },
+    {
+        "id": "M5092_S0020_G0075_001_robomaskrece",
+        "jp": "この闘技場では、試練挑戦中のアイテム使用は禁じられているから注意するように。",
+        "en": "You are not allowed to use items in this arena, so keep your hands where I can see them!",
+        "ru": "Вам запрещено использовать предметы на этой арене, поэтому держите свои руки так, чтобы я мог их видеть!"
+    },
+    {
+        "id": "M5092_S0020_G0061_001_robomaskrece",
+        "jp": "掟６０５１３に従い試練への挑戦を認める。",
+        "en": "Per Rule 60,513, I shall accept your request to challenge the trial.",
+        "ru": "Согласно правилу 60513, я приму ваш запрос на прохождение испытания."
+    },
+    {
+        "id": "M5092_S0020_G0030_001_robomaskrece",
+        "jp": "試練には、試練1、試練2、試練3、試練4、試練5、最終試練の６段階ある。",
+        "en": "Then know that there are six levels of trials.",
+        "ru": "Тогда знайте, что есть шесть уровней испытаний."
+    },
+    {
+        "id": "M5092_S0020_G0040_001_robomaskrece",
+        "jp": "最初に参加出来るのは試練１のみだ。試練１をクリアすれば試練２に挑戦する事が出来る。",
+        "en": "You must begin at the first trial. Once completed, you will be permitted to attempt the second.",
+        "ru": "Вы должны начать с первого испытания. Как только вы закончите, вам разрешат попытаться пройти второе."
+    },
+    {
+        "id": "M5092_S0020_G0050_001_robomaskrece",
+        "jp": "試練２をクリアすれば試練３に、試練３をクリアすれば試練４に……という仕組みだ。",
+        "en": "Once you complete the second trial, you will be permitted to attempt the third... And so forth.",
+        "ru": "Как только вы завершите второе испытание, вам разрешат попытаться пройти третье... И так далее."
+    },
+    {
+        "id": "M5092_S0020_G0060_001_robomaskrece",
+        "jp": "説明は以上だ。",
+        "en": "This hereby completes the explanation as required by Rule 2,858.",
+        "ru": "На этом завершается объяснение, как того требует правило 2585."
+    },
+    {
+        "id": "M5092_S0055_G0020_001_robomaskrece",
+        "jp": "現在、難易度<difficulty>において試練EXの最高撃破数は<m_count>体だ。",
+        "en": "At present, the highest number of enemies you have defeated in the Special Trial on <difficulty> difficulty is: <m_count>.",
+        "ru": "В настоящий момент, самое большое число врагов, побеждённых вами в особом испытании на сложности <difficulty>: <m_count>."
+    },
+    {
+        "id": "M5092_S0010_G0100_001_robomaskrece",
+        "jp": "試練に挑戦してみるか？",
+        "en": "Do you wish to challenge the trials?",
+        "ru": "Желаете подвергнуться испытанию?"
+    },
+    {
+        "id": "M5092_S0020_G0010_001_sele",
+        "jp": "はい。",
+        "en": "Indeed.",
+        "ru": "Разумеется."
+    },
+    {
+        "id": "M5092_S0020_G0020_001_sele",
+        "jp": "いいえ。",
+        "en": "Not really.",
+        "ru": "Не совсем."
+    },
+    {
+        "id": "M5092_S0055_G0010_001_robomaskrece",
+        "jp": "我らが王よ、新たな試練を用意しておいた。",
+        "en": "We prepared a special new trial for you, your Highness!",
+        "ru": "Ваше высочество, мы приготовили для вас новое особое испытание!"
+    },
+    {
+        "id": "M5092_S0055_G0012_001_robomaskrece",
+        "jp": "この試練では、真の王の力を測るためオートチップ類は使えないようになっている。",
+        "en": "This trial is meant to test your true strength as King, so your auto-chips will be disabled.",
+        "ru": "Это испытание предназначено для проверки вашей истинной силы в качестве короля, поэтому авто-чипы будут отключены."
+    },
+    {
+        "id": "M5092_S0055_G0014_001_robomaskrece",
+        "jp": "是非とも我らに真の王の力を示してくれ。",
+        "en": "Now show us the power of royalty!",
+        "ru": "А теперь покажите нам королевскую силу!"
+    },
+    {
+        "id": "M5092_S0030_G0000_001_robomaskmode",
+        "jp": "掟６１２８４に従い「自らの力のみで」切り抜けよ！",
+        "en": "Know that you must \"rely on your own strength\", as is demanded by Rule 61,284.",
+        "ru": "Знайте, что вы должны \"полагаться на свою силу\", как требует правило 61284."
+    },
+    {
+        "id": "M5092_S0030_G0005_001_robomaskmode",
+        "jp": "正々堂々と戦うように。始めッ！",
+        "en": "Fight with fairness and honor. Now begin!",
+        "ru": "Сражайтесь с отвагой и честью. А теперь, начали!"
+    },
+    {
+        "id": "M5092_S0030_G0010_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練１を終了とする。",
+        "en": "Per Rule 61,444, I declare the first trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю завершение первого испытания."
+    },
+    {
+        "id": "M5092_S0030_G0020_001_robomaskrece",
+        "jp": "おめでとう。掟６１８９２に従い、試練１をクリアした報酬を与えよう。",
+        "en": "Well done. In accordance with Rule 61,892, I shall grant your reward.",
+        "ru": "Отлично. В соответствии с правилом 61892, я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0030_001_robomaskrece",
+        "jp": "……我々が何故仮面をつけているのか、疑問に思っているようだな？",
+        "en": "Are you puzzled by the masks we wear? Then permit me to grant an explanation.",
+        "ru": "Вас вводят в замешательство маски, которые мы носим? Тогда разрешите мне предоставить объяснение."
+    },
+    {
+        "id": "M5092_S0030_G0040_001_robomaskrece",
+        "jp": "この地には昔、仮面をつけた人々による王国があったと伝えられている。",
+        "en": "Long ago, it is said, this land was a great kingdom inhabited by a people who wore such masks.",
+        "ru": "Говорят, очень давно на этой земле было великое королевство, населённое людьми, которые носили такие маски."
+    },
+    {
+        "id": "M5092_S0030_G0050_001_robomaskrece",
+        "jp": "我々はその文化を模倣する事で、この地に適応しようとしているのだ。",
+        "en": "In an attempt to better understand our ancient predecessors, we have chosen to emulate their ways.",
+        "ru": "В попытке лучше понять наших предшественников, мы решили подражать им."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0090_001_robomaskmode",
+        "jp": "エエト、掟６１……えーと",
+        "en": "Per Rule 6...61... Er, what was it again?",
+        "ru": "Согласно прав-вилу 6... 61... Эм, что это было?"
+    },
+    {
+        "id": "M5092_S0030_G0091_001_robomaskmode",
+        "jp": "そうだ、「逃ゲル事ナク闘ウベシ！」",
+        "en": "Oh yes! \"Fight without evading!\"",
+        "ru": "О да! \"Сражение без уклонений\"!"
+    },
+    {
+        "id": "M5092_S0030_G0095_001_robomaskmode",
+        "jp": "それでは、試練スタート！",
+        "en": "Let the trial begin!",
+        "ru": "Давайте начнём испытание!"
+    },
+    {
+        "id": "M5092_S0030_G0100_001_robomaskmode",
+        "jp": "試練２ヲ見事突破シタ事ヲ認メマス！",
+        "en": "I hereby declare you victorious over the second trial.",
+        "ru": "Таким образом, я объявляю вашу победу во втором испытании."
+    },
+    {
+        "id": "M5092_S0030_G0110_001_robomaskrece",
+        "jp": "おめでとう。掟６１８９２に従い、試練２をクリアした報酬を与えよう。",
+        "en": "Well done. In accordance with Rule 61,892, I shall grant your reward.",
+        "ru": "Отлично. В соответствии с правилом 61892, я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0120_001_robomaskrece",
+        "jp": "この砂の地で暮らすには、様々な苦労があるのだ。",
+        "en": "Life in the desert takes a toll in ways both large and small.",
+        "ru": "Жизнь в пустыне не щадит ни больших ни малых."
+    },
+    {
+        "id": "M5092_S0030_G0130_001_robomaskrece",
+        "jp": "この掟も、その為のもの。皆が暮らしやすくする為に、掟を増やしているのだ。",
+        "en": "The rules help us cope with hardship. As such, we continue to expand them so that all might ease their daily lives.",
+        "ru": "Правила помогают нам справляться с трудностями. Таким образом, мы продолжаем расширять их, чтобы всем облегчить повседневную жизнь."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0140_001_robomaskmode",
+        "jp": "掟６２１１７：試練は「三分以内に終わるベシ」。",
+        "en": "Rule 62,117: The trial must end within 3 minutes!",
+        "ru": "Правило 62117: испытание должно завершиться за 3 минуты!"
+    },
+    {
+        "id": "M5092_S0030_G0145_001_robomaskmode",
+        "jp": "では始め！",
+        "en": "Now...begin!",
+        "ru": "А теперь... начали!"
+    },
+    {
+        "id": "M5092_S0030_G0150_001_robomaskmode",
+        "jp": "見事デス！",
+        "en": "Most impressive!",
+        "ru": "Довольно впечатляюще!"
+    },
+    {
+        "id": "M5092_S0030_G0151_001_robomaskmode",
+        "jp": "掟６１５１２に従い、試練３を突破したと認メマス！",
+        "en": "In accordance with Rule 61,512, I hereby declare you victorious over the third trial!",
+        "ru": "Таким образом, в соответствии с правилом 61512, я объявляю вашу победу на третьем испытании."
+    },
+    {
+        "id": "M5092_S0030_G0160_001_robomaskrece",
+        "jp": "おめでとう。掟６１８９２に従い、試練３をクリアした報酬を与えよう。",
+        "en": "Well done. In accordance with Rule 61,892, I shall grant your reward.",
+        "ru": "Отлично. В соответствии с правилом 61892, я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0170_001_robomaskrece",
+        "jp": "む？掟の数……だと？この間１２万４千を突破したと聞いたな。",
+        "en": "...Hmm? You wish to know how many rules we have? I heard we broke 124,000 fairly recently.",
+        "ru": "...Хм? Вы желаете знать, как много у нас правил? Я слышал, что совсем недавно их число превысило 124000."
+    },
+    {
+        "id": "M5092_S0030_G0180_001_robomaskrece",
+        "jp": "我々は昔の仮面の人に習い、常に掟の数を増やしているのだ。",
+        "en": "We must learn from the masks of the past and continue to expand upon our rules.",
+        "ru": "Мы должны добывать маски из прошлого и продолжать расширять наши правила."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0190_001_robomaskmode",
+        "jp": "掟５４９３：「闇の中で己を見失ってはナラナイ」……",
+        "en": "Rule 5,493: Do not lose sight of yourself in the darkness...",
+        "ru": "Правило 5493: запрещено терять зрение в темноте..."
+    },
+    {
+        "id": "M5092_S0030_G0191_001_robomaskmode",
+        "jp": "気を抜カズニ……では、始メ！",
+        "en": "Whether in or out of the arena, you must not let your guard down. Now begin!",
+        "ru": "Входя на арену или уходя с неё, вы не должны ослаблять бдительность. А теперь, начали!"
+    },
+    {
+        "id": "M5092_S0030_G0200_001_robomaskmode",
+        "jp": "そこまでッ！掟６１９９３に従い、試練４クリアです！",
+        "en": "Enough! As per Rule 61,993, I declare the fourth trial to be complete!",
+        "ru": "Достаточно! Согласно правилу 61993, я объявляю завершение четвёртого испытания!"
+    },
+    {
+        "id": "M5092_S0030_G0210_001_robomaskrece",
+        "jp": "おめでとう。掟６１８９２に従い、試練４をクリアした報酬を与えよう。",
+        "en": "Well done. In accordance with Rule 61,892, I shall grant your reward.",
+        "ru": "Отлично. В соответствии с правилом 61892, я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0220_001_robomaskrece",
+        "jp": "知っているか？昔、この地で生き抜く為には狼と戦わねばならなかったそうだ。",
+        "en": "A bit of history for you: Those who used to live in this land once had to do battle with a great scourge of wolves.",
+        "ru": "Маленькая история для вас: те, кто раньше жил на этой земле, однажды сражались с великой волчьей напастью."
+    },
+    {
+        "id": "M5092_S0030_G0230_001_robomaskrece",
+        "jp": "群れのボスは大変賢く、それ故に多くの住人が犠牲になったと文献にはある。",
+        "en": "The alpha wolf was an old and clever soul, and under his guidance did the pack take many of their lives.",
+        "ru": "Альфа-волк был старым и мудрым, и под его предводительством стая забрала много жизней."
+    },
+    {
+        "id": "M5092_S0030_G0240_001_robomaskrece",
+        "jp": "いつの時代も、生きる事は戦いなのだな。",
+        "en": "No matter what era one lives in, life is an eternal struggle.",
+        "ru": "Не важно, в какую эпоху вы живёте, жизнь — это вечная борьба."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0250_001_robomaskmode",
+        "jp": "掟５４９４：「地に足を付いてはならない」。",
+        "en": "Rule 5,494: Do not let your feet touch the ground.",
+        "ru": "Правило 5494: вашим ногам запрещено касаться земли."
+    },
+    {
+        "id": "M5092_S0030_G0251_001_robomaskmode",
+        "jp": "この掟は理不尽ダナ……でも、始メ！",
+        "en": "A bit of an unfair rule, I'd say... But BEGIN!",
+        "ru": "Немного несправедливое правило, я считаю... НАЧАЛИ!"
+    },
+    {
+        "id": "M5092_S0030_G0270_001_robomaskmode",
+        "jp": "お見事デス！掟６３７１０に従い、試練５を突破したと認めマス！",
+        "en": "Remarkable! As demanded by Rule 63,710, I formally acknowledge your victory over the fifth trial.",
+        "ru": "Замечательно! Правило 63710 требует, чтобы я официально подтвердил вашу победу в пятом испытании."
+    },
+    {
+        "id": "M5092_S0030_G0280_001_robomaskrece",
+        "jp": "おめでとう。掟６１８９２に従い、試練５をクリアした報酬を与えよう。",
+        "en": "In accordance with Rule 61,892, I shall grant your reward.",
+        "ru": "В соответствии с правилом 61892, я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0290_001_robomaskrece",
+        "jp": "しかし、いくら平和の為とはいえ、掟が増え過ぎると窮屈なものだ。",
+        "en": "It is said that rules exist not to bind us, but so we might know our freedoms. And yet, I somehow feel...constrained by them.",
+        "ru": "Оно говорит, что правила существуют не для того, чтобы сковывать нас, а для того, чтобы мы могли познать нашу свободу. И всё же, я почему-то чувствую... что они сковывают."
+    },
+    {
+        "id": "M5092_S0030_G0300_001_robomaskrece",
+        "jp": "我らでさえこれなのだから、昔の人の苦労はいかばかりか……",
+        "en": "Think, then, how our great ancestors must have felt. Think how terrible it must have been for them.",
+        "ru": "Интересно, как тогда должны были чувствовать себя наши великие предки. Как, должно быть, ужасно это было для них."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0030_G0310_001_robomaskmode",
+        "jp": "掟６４１９９：「真の勇者には触れる事すらデキナイ！」。",
+        "en": "Rule 64,199: A true hero is untouchable!",
+        "ru": "Правило 64199: истинный герой неприкасаем!"
+    },
+    {
+        "id": "M5092_S0030_G0311_001_robomaskmode",
+        "jp": "ここは難関……どうか、ご武運を！",
+        "en": "Good fighting to you!",
+        "ru": "Хорошее сражение!"
+    },
+    {
+        "id": "M5092_S0030_G0320_001_robomaskmode",
+        "jp": "なんと、突破するとは！",
+        "en": "Magnificent! The trial is complete!",
+        "ru": "Изумительно! Испытание завершено!"
+    },
+    {
+        "id": "M5092_S0030_G0321_001_robomaskmode",
+        "jp": "掟６５１２３により汝を最終試練の勝者とシマス！",
+        "en": "As per the stipulations of Rule 65,123, I declare you victorious over the final trial!",
+        "ru": "В соответствии с правилом 65123, я объявляю вашу победу в финальном испытании."
+    },
+    {
+        "id": "M5092_S0040_G0000_001_robomaskrece",
+        "jp": "掟０００２８に従い、汝を真の仮面の人のモノと認める！",
+        "en": "As demanded by Rule 28, I hereby declare you to be the True Masked One!",
+        "ru": "Как того требует правило 28, я объявляю вас истинным скрывающимся!"
+    },
+    {
+        "id": "M5092_S0040_G0001_001_robomaskrece",
+        "jp": "まずは、こちらの「砂の仮面」を与エヨウ。",
+        "en": "First, let me bestow upon you this \"Sand Mask.\"",
+        "ru": "Во-первых, позвольте мне даровать вам эту \"пустынную маску\"."
+    },
+    {
+        "id": "M5092_S0040_G0002_001_robomaskrece",
+        "jp": "さらにオマケとして……",
+        "en": "And as a little extra...",
+        "ru": "И в качестве небольшого дополнения..."
+    },
+    {
+        "id": "M5092_S0040_G0003_001_robomaskrece",
+        "jp": "この服を進呈スル。",
+        "en": "I shall also grant you these clothes.",
+        "ru": "Я также вручу вам эту одежду."
+    },
+    {
+        "id": "M5092_S0040_G0004_001_robomaskrece",
+        "jp": "世界を滅ぼした男が着ていた……と言われている服だ。",
+        "en": "It is said these clothes were worn by the man who destroyed the world.",
+        "ru": "Говорят, что эту одежду носил человек, который уничтожил мир."
+    },
+    {
+        "id": "M5092_S0040_G0005_001_robomaskrece",
+        "jp": "まあ、世界はこうやって滅んでいないから、嘘の伝説だろうけどな。",
+        "en": "However, as you can see, the world still exists, so I'm sure it is but a mere legend.",
+        "ru": "Однако, как вы можете видеть, мир всё ещё существует, поэтому я уверен, что это всего лишь легенда."
+    },
+    {
+        "id": "M5092_S0040_G0006_001_robomaskrece",
+        "jp": "ともかく、おめでとう！",
+        "en": "In any case, congratulations to you!",
+        "ru": "В любом случае, поздравляю!"
+    },
+    {
+        "id": "M5092_S0040_G0010_001_robomaskrece",
+        "jp": "我らが『王』よ。試練を乗り越えた汝にはその称号が相応しい。",
+        "en": "As the one conqueror of the trials, you have earned the title of \"King.\"",
+        "ru": "Как единственный победитель в испытаниях, вы заслужили титул \"Короля\"."
+    },
+    {
+        "id": "M5092_S0040_G0020_001_robomaskrece",
+        "jp": "『王』が何を指すのか我々には判らないのだが、その責務はおそろしく重い……らしい。",
+        "en": "We know not what one is entitled to as \"King,\" save that the post carries an exceedingly heavy burden.",
+        "ru": "Мы не знаем, какие полномочия имеет \"Король\", за исключением того, что этот титул несёт с собой тяжёлое бремя."
+    },
+    {
+        "id": "M5092_S0040_G0030_001_robomaskrece",
+        "jp": "『王』は民の基本となるべく、しっかりと掟を守ってほしい。",
+        "en": "From this day forth, you shall serve as an example to us all. You must follow each rule to the letter so that we might also strive for such perfection.",
+        "ru": "С этого дня вы будете служить для всех нас примером. Вы должны следовать каждому написанному правилу, чтобы быть примером абсолютного совершенства."
+    },
+    {
+        "id": "M5092_S0040_G0040_001_robomaskrece",
+        "jp": "だが、時には寛容も必要だ。掟に縛られ過ぎて真実を見失ってはいけない。",
+        "en": "And yet, there may be times where tolerance is required. So let yourself not be bound by rules if such a need arises.",
+        "ru": "И всё же, бывают времена, когда необходима терпимость. Поэтому не давайте правилам сковывать вас, если возникнет такая необходимость."
+    },
+    {
+        "id": "M5092_S0040_G0050_001_robomaskrece",
+        "jp": "この地にあった国は、最後は自分達で作った掟によって滅びたらしいのでな……",
+        "en": "For it is said that the people of this land met their end at the hands of their own rules...",
+        "ru": "Ибо сказано, что люди этой земли встретили свой конец из-за собственных правил..."
+    },
+    {
+        "id": "M5092_S0030_G0070_001_robomaskmode",
+        "jp": "始めッ！",
+        "en": "Begin!",
+        "ru": "Начали!"
+    },
+    {
+        "id": "M5092_S0030_G0080_001_robomaskmode",
+        "jp": "掟６１４４４に従い、試練を終了とシマス。",
+        "en": "Per Rule 61,444, I declare the trial to be complete.",
+        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0060_G0000_001_robomaskmode",
+        "jp": "掟６２３０５：日々精進し強くなるべし。では始め！",
+        "en": "Rule 62,305: Train hard every day to become stronger. Let the combat commence!",
+        "ru": "Правило 62305: усердно тренируйся каждый день, чтобы стать сильнее. Да начнётся бой!"
+    },
+    {
+        "id": "M5092_S0060_G0010_001_robomaskmode",
+        "jp": "そこまデ！",
+        "en": "Enough!",
+        "ru": "Достаточно!"
+    },
+    {
+        "id": "M5092_S0060_G0020_001_robomaskmode",
+        "jp": "掟６９４０６に従い、試練EXを終了しマス。",
+        "en": "This concludes the Special Trial, as per Rule 69,406.",
+        "ru": "На этом завершается особое испытание, как гласит правило 69406."
+    },
+    {
+        "id": "M5092_S0060_G0025_001_robomaskrece",
+        "jp": "今の試練で我らが王は<_count>体の機械生命体を撃破した。",
+        "en": "In this trial, you defeated this many enemies: <_count>.",
+        "ru": "Количество врагов, которых вы одолели в этом испытании: <_count>."
+    },
+    {
+        "id": "M5092_S0020_G0025_001_robomaskrece",
+        "jp": "ならば立ち去るがよい。",
+        "en": "Then begone!",
+        "ru": "Тогда уходите!"
+    },
+    {
+        "id": "M5092_S0030_G0100_300_telo",
+        "jp": "ポッドを使用せずに勝利せよ。",
+        "en": "Win without using your Pod.",
+        "ru": "Победите, не используя своего Бота."
+    },
+    {
+        "id": "M5092_S0030_G0110_300_telo",
+        "jp": "回避を行わずに勝利せよ。",
+        "en": "Win without dodging.",
+        "ru": "Победите, не используя уклонения."
+    },
+    {
+        "id": "M5092_S0030_G0120_300_telo",
+        "jp": "３分以内に全ての敵を撃破せよ。",
+        "en": "Defeat all enemies within 3 minutes.",
+        "ru": "Одолейте всех врагов за 3 минуты."
+    },
+    {
+        "id": "M5092_S0030_G0130_300_telo",
+        "jp": "暗闇の中で勝利せよ。",
+        "en": "Fight in the dark.",
+        "ru": "Сражайтесь в темноте."
+    },
+    {
+        "id": "M5092_S0030_G0140_300_telo",
+        "jp": "ブロックから落ちずに勝利せよ。",
+        "en": "Win without touching the ground.",
+        "ru": "Победите, не касаясь земли."
+    },
+    {
+        "id": "M5092_S0030_G0150_300_telo",
+        "jp": "一度も攻撃を食らわずに勝利せよ。",
+        "en": "Win without getting hit.",
+        "ru": "Победите, не получив урона."
+    },
+    {
+        "id": "M5092_S0030_G0160_301_telo",
+        "jp": "５分以内にできるだけ多くの敵を撃破せよ。",
+        "en": "Destroy as many enemies as you can in 5 minutes.",
+        "ru": "За 5 минут уничтожьте так много врагов, сколько сможете."
+    },
+    {
+        "id": "M5092_S0030_G0030_300_robomaskrece",
+        "jp": "どの試練への挑戦を望む？",
+        "en": "Which trial do you wish to challenge?",
+        "ru": "Какому испытанию вы желаете подвергнуться?"
+    },
+    {
+        "id": "M5092_S0030_G0095_300_sele",
+        "jp": "試練EX　（推奨Lv：90）",
+        "en": "Special Trial (Rec. Lv: 90)",
+        "ru": "Особое испытание (Lv: 90)"
+    },
+    {
+        "id": "M5092_S0030_G0090_300_sele",
+        "jp": "試練６　（推奨Lv：80）",
+        "en": "Trial 6 (Rec. Lv: 80)",
+        "ru": "6-е испытание (Ур: 80)"
+    },
+    {
+        "id": "M5092_S0030_G0080_300_sele",
+        "jp": "試練５　（推奨Lv：70）",
+        "en": "Trial 5 (Rec. Lv: 70)",
+        "ru": "5-е испытание (Ур: 70)"
+    },
+    {
+        "id": "M5092_S0030_G0070_300_sele",
+        "jp": "試練４　（推奨Lv：60）",
+        "en": "Trial 4 (Rec. Lv: 60)",
+        "ru": "4-е испытание (Ур: 60)"
+    },
+    {
+        "id": "M5092_S0030_G0060_300_sele",
+        "jp": "試練３　（推奨Lv：50）",
+        "en": "Trial 3 (Rec. Lv: 50)",
+        "ru": "3-е испытание (Ур: 50)"
+    },
+    {
+        "id": "M5092_S0030_G0050_300_sele",
+        "jp": "試練２　（推奨Lv：35）",
+        "en": "Trial 2 (Rec. Lv: 35)",
+        "ru": "2-е испытание (Ур: 35)"
+    },
+    {
+        "id": "M5092_S0030_G0040_300_sele",
+        "jp": "試練１　（推奨Lv：25）",
+        "en": "Trial 1 (Rec. Lv: 25)",
+        "ru": "1-е испытание (Ур: 25)"
+    },
+    {
+        "id": "M5092_S0030_G0094_300_sele",
+        "jp": "試練の説明を受ける",
+        "en": "Hear the rules",
+        "ru": "Прослушать правила"
+    },
+    {
+        "id": "M5092_S0030_G0096_300_sele",
+        "jp": "やめる",
+        "en": "Quit",
+        "ru": "Выйти"
+    },
+    {
+        "id": "M5092_S0030_G0010_300_robomaskmode",
+        "jp": "掟６１４４６に従い、試練失敗とする。",
+        "en": "In accordance with Rule 61,446, I hereby declare you to have failed the trial.",
+        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание."
+    },
+    {
+        "id": "M5092_S0030_G0020_300_robomaskrece",
+        "jp": "残念だったな。掟６１８９１に従い、再び試練を受ける事を勧める。",
+        "en": "A pity. Pursuant to Rule 61,891, I suggest that you challenge the trial again.",
+        "ru": "Какая жалость. В соответствии правилу 61891, я предлагаю вам снова пройти испытание."
+    },
+    {
+        "id": "M5092_S0030_G0010_300_robomaskmode",
+        "jp": "掟６１４４６に従い、試練失敗とする。",
+        "en": "In accordance with Rule 61,446, I hereby declare you to have failed the trial.",
+        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание."
+    },
+    {
+        "id": "M5092_S0060_G0025_001_robomaskrece",
+        "jp": "今の試練で我らが王は<_count>体の機械生命体を撃破した。",
+        "en": "In this trial, you defeated this many enemies: <_count>.",
+        "ru": "Количество врагов, которых вы одолели в этом испытании: <_count>."
+    },
+    {
+        "id": "M5092_S0060_G0040_001_robomaskrece",
+        "jp": "我らが王よ。またの挑戦を待っている。",
+        "en": "We look forward to seeing you again, your Majesty!",
+        "ru": "Ваше Величество, мы с нетерпением ждём нашей следующей встречи."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    },
+    {
+        "id": "M5092_S0060_G0035_001_robomaskrece",
+        "jp": "この仮面は勇者のみに許される束縛の証……",
+        "en": "This mask is a symbol of restraint that only worthy heroes may wear.",
+        "ru": "Эта маска — символ самообладания, который могут носить только достойные герои."
+    },
+    {
+        "id": "M5092_S0060_G0040_001_robomaskrece",
+        "jp": "我らが王よ。またの挑戦を待っている。",
+        "en": "We look forward to seeing you again, your Majesty!",
+        "ru": "Ваше Величество, мы с нетерпением ждём нашей следующей встречи."
+    },
+    {
+        "id": "M5092_S0060_G0030_001_robomaskrece",
+        "jp": "掟６９８３４に従い、報酬を与えよう。",
+        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
+        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
+    }
+]

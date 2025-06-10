@@ -1,0 +1,314 @@
+[
+    {
+        "id": "M5120_S0010_G0000_001_toolshop",
+        "jp": "お、新顔だな。新しいお客さんは大歓迎だ！",
+        "en": "Welcome, welcome! It's always great to get new customers.",
+        "ru": "Приветствую! Добро пожаловать! Я всегда рад новым покупателям."
+    },
+    {
+        "id": "M5120_S0010_G0010_001_a9s",
+        "jp": "へえ……レジスタンスの道具屋さんですか。",
+        "en": "You some kind of supply trader for the Resistance?",
+        "ru": "Вы торговец припасами для Сопротивления?"
+    },
+    {
+        "id": "M5120_S0010_G0020_001_toolshop",
+        "jp": "ああ、廃品や鹵獲した敵機体を再利用して道具を作ってるんだ。",
+        "en": "You know it. Every item here is hand-crafted from abandoned parts and stuff plundered from enemy corpses.",
+        "ru": "В точку. Каждый предмет изготовлен вручную из брошенных деталей и предметов, добытых из трупов врагов."
+    },
+    {
+        "id": "M5120_S0010_G0030_001_toolshop",
+        "jp": "何か買っていくかい？",
+        "en": "So then! To business. What can I get you?",
+        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
+    },
+    {
+        "id": "M5120_S0010_G0040_001_a9s",
+        "jp": "こちらではプラグイン・チップは扱ってないんですか？",
+        "en": "Do you sell plug-in chips?",
+        "ru": "Вы продаёте сменные чипы?"
+    },
+    {
+        "id": "M5120_S0010_G0050_001_toolshop",
+        "jp": "ああ、義体を強化するチップか……",
+        "en": "You mean those little doo-dads that serve as power-ups for your body? 'Fraid not.",
+        "ru": "Вы имеете в виду те крохотные штучки-дрючки, которые дают усиления вашим телам? К сожалению, нет."
+    },
+    {
+        "id": "M5120_S0010_G0060_001_toolshop",
+        "jp": "今、チップ関係は機材不調で休業中だ。",
+        "en": "I'd love to sell plug-in chips, but I don't have the necessary raw materials.",
+        "ru": "Я бы с удовольствием продавал их, но у меня нет нужного сырья для их создания."
+    },
+    {
+        "id": "M5120_S0010_G0070_001_toolshop",
+        "jp": "修理資材があれば対応出来るんだが……",
+        "en": "Now, if I happened to GET those raw materials, I bet we could do business. But until then...",
+        "ru": "Но, если вдруг случится так, что у меня ПОЯВИТСЯ сырьё, я бы смог сделать парочку. А до той поры..."
+    },
+    {
+        "id": "M5120_S0010_G0080_001_toolshop",
+        "jp": "そうだ！もしお望みなら、あんたらで資材を調達してきてくれないか？",
+        "en": "Say! Now there's an idea: what if YOU got the materials for me?",
+        "ru": "Точно! У меня есть идея: а что, если ВЫ принесёте мне материалы?"
+    },
+    {
+        "id": "M5120_S0010_G0090_001_toolshop",
+        "jp": "足が悪くてね。もう少し自由に動けば、自分で探しに行くんだが……",
+        "en": "I've got this bum leg, see? Can't really get around myself.",
+        "ru": "Одна из моих ног совсем бесполезна, видите? Мне трудно бродить в одиночку."
+    },
+    {
+        "id": "M5120_S0010_G0100_001_a9s",
+        "jp": "だったら、まずは自分の足を修理したらどうです？",
+        "en": "Can't you just repair your own leg? You work in the supply trade, after all.",
+        "ru": "Разве вы не можете просто починить свою ногу? Вы же торговец припасами, как-никак."
+    },
+    {
+        "id": "M5120_S0010_G0110_001_toolshop",
+        "jp": "そうはいかない。まずは戦力になるヤツを優先して修理しないと。",
+        "en": "If only! Unfortunately, all of our parts are dedicated to the war effort. Can't spare any for myself.",
+        "ru": "Если бы я мог! К сожалению, все детали уходят на военные нужды. Я не могу оставлять ничего для себя."
+    },
+    {
+        "id": "M5120_S0010_G0120_001_toolshop",
+        "jp": "あんたらが機械生命体どもを一掃したら、ゆっくり自分を修理するさ。\\nだから頼む！",
+        "en": "Personally, I'm hoping you wipe out those machines so I can start dancing again. But until then, will you look for what I need?",
+        "ru": "Я уверен, что если вы уничтожите те машины, то вновь смогу танцевать. А пока что, не поищете необходимые материалы?"
+    },
+    {
+        "id": "M5120_S0010_G0130_001_sele",
+        "jp": "依頼を引き受ける。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5120_S0010_G0140_001_sele",
+        "jp": "依頼を断る。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5120_S0010_G0030_001_toolshop",
+        "jp": "何か買っていくかい？",
+        "en": "So then! To business. What can I get you?",
+        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
+    },
+    {
+        "id": "M5120_S0010_G0060_001_toolshop",
+        "jp": "今、チップ関係は機材不調で休業中だ。",
+        "en": "I'd love to sell plug-in chips, but I don't have the necessary raw materials.",
+        "ru": "Я бы с удовольствием продавал их, но у меня нет нужного сырья для их создания."
+    },
+    {
+        "id": "M5120_S0010_G0070_001_toolshop",
+        "jp": "修理資材があれば対応出来るんだが……",
+        "en": "Now, if I happened to GET those raw materials, I bet we could do business. But until then...",
+        "ru": "Но, если вдруг случится так, что у меня ПОЯВИТСЯ сырьё, я бы смог сделать парочку. А до той поры..."
+    },
+    {
+        "id": "M5120_S0010_G0130_001_sele",
+        "jp": "依頼を引き受ける。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5120_S0010_G0140_001_sele",
+        "jp": "依頼を断る。",
+        "en": "Refuse to help.",
+        "ru": "Отказаться помочь."
+    },
+    {
+        "id": "M5120_S0010_G0150_001_a2b",
+        "jp": "……了解。",
+        "en": "All right.",
+        "ru": "Хорошо."
+    },
+    {
+        "id": "M5120_S0010_G0160_001_toolshop",
+        "jp": "恩に着るよ！",
+        "en": "Aw, thanks a million!",
+        "ru": "О, премного благодарен!"
+    },
+    {
+        "id": "M5120_S0010_G0170_001_toolshop",
+        "jp": "じゃあ、『壊れたゼンマイ』に『小さな歯車』、『壊れた回路』を集めてきてくれ。",
+        "en": "Okay, so I need one broken key, one small gear, and one broken circuit. You can smash up a few small machines to find 'em.",
+        "ru": "Хорошо, мне нужны: 1 сломанный ключ, 1 маленькая шестерня и 1 сломанная схема. Чтобы добыть их, уничтожьте несколько маленьких машин неподалеку."
+    },
+    {
+        "id": "M5120_S0010_G0175_001_toolshop",
+        "jp": "ここのキャンプを出て、左の方に行った広場の場所の敵から\\n入手できるはずだ。",
+        "en": "You can obtain them from enemies at the big open area towards the left when you exit the camp.",
+        "ru": "Вы можете получить материалы из противников, обитающих в области слева от выхода из лагеря."
+    },
+    {
+        "id": "M5120_S0010_G0180_001_toolshop",
+        "jp": "そうか……無理言ってすまなかったな。",
+        "en": "Hey, I get it. You're probably busy with the killin' and whatnot. Maybe next time.",
+        "ru": "Хех, ясно. Возможно, сейчас вы заняты уничтожением чего-то другого. Тогда, быть может, в другой раз."
+    },
+    {
+        "id": "M5120_S0010_G0190_001_toolshop",
+        "jp": "もし時間があれば、修理用の資材を頼まれてくれないか？",
+        "en": "If you've got the time, can you help me find some raw materials?",
+        "ru": "Если вы сейчас свободны, может поможете мне раздобыть материалы?"
+    },
+    {
+        "id": "M5920_S0010_G0280_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0020_G0280_001_pod153",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5120_S0010_G0030_001_toolshop",
+        "jp": "何か買っていくかい？",
+        "en": "So then! To business. What can I get you?",
+        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
+    },
+    {
+        "id": "M5120_S0010_G0200_001_toolshop",
+        "jp": "依頼した『壊れたゼンマイ』、『小さな歯車』、『壊れた回路』を\\n忘れないでくれよ。",
+        "en": "I need one broken key, one small gear, and one broken circuit. Don’t forget!",
+        "ru": "Мне нужны: 1 сломанный ключ, 1 маленькая шестерня и 1 сломанная схема. Не забудьте!"
+    },
+    {
+        "id": "M5120_S0020_G0000_001_a9s",
+        "jp": "よし、これで道具屋さんに頼まれたものは全て集まりましたね。",
+        "en": "Okay, that's everything the supply trader asked for.",
+        "ru": "Хорошо, это всё, что просил торговец припасами."
+    },
+    {
+        "id": "M5120_S0020_G0010_001_a9s",
+        "jp": "雑用って大変ですね～",
+        "en": "Man, these chores are a real pain in the butt, huh?",
+        "ru": "Блин, все эти хлопоты — такая морока, да?"
+    },
+    {
+        "id": "M5120_S0020_G0020_001_a2b",
+        "jp": "地上のレジスタンスはヨルハ部隊にとっても大事な同胞。",
+        "en": "The Resistance is a valuable ally to YoRHa.",
+        "ru": "Сопротивление — ценный союзник YoRHa."
+    },
+    {
+        "id": "M5120_S0020_G0030_001_a2b",
+        "jp": "彼等の手助けをするのも、私達の重要な任務。",
+        "en": "By helping them, we also help ourselves.",
+        "ru": "Помогая им, ты помогаешь и нам."
+    },
+    {
+        "id": "M5120_S0020_G0040_001_a2b",
+        "jp": "だから、文句を言わない。",
+        "en": "So no. I don't think they're a pain.",
+        "ru": "Так что нет. Я не считаю, что это морока."
+    },
+    {
+        "id": "M5120_S0020_G0050_001_a9s",
+        "jp": "はーい。",
+        "en": "Yeah, yeah...",
+        "ru": "Ладно, ладно..."
+    },
+    {
+        "id": "M5120_S0010_G0030_001_toolshop",
+        "jp": "何か買っていくかい？",
+        "en": "So then! To business. What can I get you?",
+        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
+    },
+    {
+        "id": "M5120_S0010_G0200_001_toolshop",
+        "jp": "依頼した『壊れたゼンマイ』、『小さな歯車』、『壊れた回路』を\\n忘れないでくれよ。",
+        "en": "I need one broken key, one small gear, and one broken circuit. Don’t forget!",
+        "ru": "Мне нужны: 1 сломанный ключ, 1 маленькая шестерня и 1 сломанная схема. Не забудьте!"
+    },
+    {
+        "id": "M5120_S0030_G0000_001_toolshop",
+        "jp": "おお、資材を調達してきてくれたんだな。ありがたい！",
+        "en": "Hey, you found the materials! That's great.",
+        "ru": "Эй, вам удалось найти материалы! Отлично."
+    },
+    {
+        "id": "M5120_S0030_G0010_001_toolshop",
+        "jp": "これでプラグイン・チップを売ることが出来る……",
+        "en": "Now I can start upgrading and crafting items for you.",
+        "ru": "Теперь я смогу начать улучшать и создавать предметы для вас."
+    },
+    {
+        "id": "M5120_S0030_G0020_001_a2b",
+        "jp": "それで自分の足も直したら？資材は十分だと思うけど……",
+        "en": "I imagine you can spare a few of these supplies to fix your leg?",
+        "ru": "Я всё думаю, вы ведь сможете оставить пару деталей для починки своей ноги?"
+    },
+    {
+        "id": "M5120_S0030_G0030_001_toolshop",
+        "jp": "ああ、うん……いや……",
+        "en": "Yeaaaaaah...no.",
+        "ru": "Да-а-а-а... нет."
+    },
+    {
+        "id": "M5120_S0030_G0040_001_a2b",
+        "jp": "何か他に修理できない理由が？",
+        "en": "Why don't you tell us what's really going on.",
+        "ru": "По-моему, вам стоит рассказать, в чем проблема."
+    },
+    {
+        "id": "M5120_S0030_G0050_001_toolshop",
+        "jp": "……壊れた左足は……まだオリジナルパーツなんだ。",
+        "en": "See, it's my left leg that's all busted up. And my left leg is the one that's fully original.",
+        "ru": "Видите ли, моя левая нога сломана. Но она — полностью оригинальна."
+    },
+    {
+        "id": "M5120_S0030_G0060_001_toolshop",
+        "jp": "長い戦争の間に、この身体は何度も修理した。",
+        "en": "I've repaired this ol' body of mine a hundred times over during this war.",
+        "ru": "На протяжении этой войны я уже сотни раз чинил своё старенькое тело."
+    },
+    {
+        "id": "M5120_S0030_G0070_001_toolshop",
+        "jp": "部品を換装して換装して換装して換装して、",
+        "en": "I've swapped parts in and out so many times I can't even keep track.",
+        "ru": "Я столько раз менял детали, что уже не упомню всего."
+    },
+    {
+        "id": "M5120_S0030_G0080_001_toolshop",
+        "jp": "最初から残ってるのは……この左足だけなんだ。",
+        "en": "But this leg? This left leg? It's never been touched.",
+        "ru": "Но эта нога... Эта левая нога... Была неприкасаема."
+    },
+    {
+        "id": "M5120_S0030_G0090_001_toolshop",
+        "jp": "これまで交換してしまったら、自分が自分でなくなるような気がして。",
+        "en": "So if I go and replace that, what happens?",
+        "ru": "Если я её заменю, что произойдёт?"
+    },
+    {
+        "id": "M5120_S0030_G0100_001_toolshop",
+        "jp": "俺はまだ本当に『俺』なのかな……",
+        "en": "I mean, would I even be ME anymore? Or would I just...",
+        "ru": "Я имею в виду, смогу ли я и дальше быть СОБОЙ? Или же я просто..."
+    },
+    {
+        "id": "M5120_S0030_G0110_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5120_S0030_G0120_001_toolshop",
+        "jp": "ああ、しみったれた話をしてすまない。",
+        "en": "Anyway, it's my own problem. Didn't mean to trouble you with it.",
+        "ru": "Как бы то ни было, это моя личная проблема. Не хочу вас беспокоить."
+    },
+    {
+        "id": "M5120_S0030_G0130_001_toolshop",
+        "jp": "これからもしっかり仕入れるから、いつでも寄ってくれよな！",
+        "en": "I should be getting more inventory soon, so swing by when you can.",
+        "ru": "Скоро ожидается прибытие свежей партии товаров, так что заглядывайте ещё."
+    }
+]

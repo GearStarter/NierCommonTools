@@ -1,0 +1,26 @@
+[
+    {
+        "id": "M3060_S7000_S0000_001_pod153",
+        "jp": "報告：ヨルハ機体全機のブラックボックス反応の停止を確認。",
+        "en": "Alert: Black boxes for all YoRHa units now offline.",
+        "ru": "Внимание: чёрные ящики всех единиц YoRHa отключены."
+    },
+    {
+        "id": "M3060_S7000_S0010_001_pod153",
+        "jp": "我々が担当していたヨルハ計画進行管理任務は終了。",
+        "en": "Mission to advance and manage Project YoRHa is complete.",
+        "ru": "Задание по развитию и управлению проектом YoRHa выполнено."
+    },
+    {
+        "id": "M3060_S7000_S0020_001_pod153",
+        "jp": "最寄りのアンドロイド部隊に合流後、全記憶を消去。",
+        "en": "Rendezvous with nearest android squadron and delete all memories.",
+        "ru": "Встретиться с ближайшими отрядами андроидов и удалить все воспоминания."
+    },
+    {
+        "id": "M3060_S7000_S0030_001_pod042",
+        "jp": "……了解。",
+        "en": "Acknowledged.",
+        "ru": "Подтверждаю."
+    }
+]

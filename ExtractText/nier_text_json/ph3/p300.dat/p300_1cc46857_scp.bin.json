@@ -1,0 +1,230 @@
+[
+    {
+        "id": "M3000_S0510_G0000_001_pod042",
+        "jp": "警告：ウィルス汚染を感知。",
+        "en": "Alert: Virus infection detected.",
+        "ru": "Внимание: обнаружено вирусное заражение."
+    },
+    {
+        "id": "M3000_S0510_G0010_001_pod042",
+        "jp": "推奨：早急なワクチン投与。",
+        "en": "Proposal: Administer vaccine immediately.",
+        "ru": "Предложение: немедленно введите вакцину."
+    },
+    {
+        "id": "M3000_S0510_G0020_001_a2b",
+        "jp": "うっ……",
+        "en": "Ungh...",
+        "ru": "Нгх..."
+    },
+    {
+        "id": "M3000_S0510_G0021_001_pod042",
+        "jp": "警告：ウィルス汚染度１６％に上昇。",
+        "en": "Alert: Virus contamination rate up to 16 percent.",
+        "ru": "Внимание: уровень заражения 16%."
+    },
+    {
+        "id": "M3000_S0510_G0033_001_pod042",
+        "jp": "ＮＦＣＳ回路に異常を検知。",
+        "en": "Malfunction detected in NFCS circuit.",
+        "ru": "В схеме МОББ обнаружена неисправность."
+    },
+    {
+        "id": "M3000_S0510_G0026_001_a2b",
+        "jp": "他の……アンドロイドに、汚染を広げないようにしないと……",
+        "en": "I have to keep it...from spreading to other androids...",
+        "ru": "Я должна сдержать вирус... от распространения среди андроидов..."
+    },
+    {
+        "id": "M3000_S0510_G0027_001_a2b",
+        "jp": "ポッド。アンドロイドの反応が少ない地点を。",
+        "en": "Pod, give me a location that's low on android signals.",
+        "ru": "Бот, укажи координаты с наименьшим количеством сигнатур андроидов."
+    },
+    {
+        "id": "M3000_S0510_G0028_001_pod042",
+        "jp": "検索……",
+        "en": "Searching...",
+        "ru": "Поиск..."
+    },
+    {
+        "id": "M3000_S0510_G0029_001_pod042",
+        "jp": "報告：商業施設の廃屋付近が該当。",
+        "en": "Analysis: The area near the abandoned commercial facility meets the desired parameters.",
+        "ru": "Анализ: площадь вблизи торгового центра соответствует желаемым параметрам."
+    },
+    {
+        "id": "M3000_S0510_G0030_001_pod042",
+        "jp": "警告：ウィルスを除去しなければヨルハ機体２Ｂに深刻なダメージ。",
+        "en": "Alert: YoRHa unit 2B will sustain serious damage unless the virus is eliminated.",
+        "ru": "Внимание: единица YoRHa 2B будет получать серьёзный урон, пока не ликвидирует вирус."
+    },
+    {
+        "id": "M3000_S0510_G0031_001_a2b",
+        "jp": "……わかって……る。",
+        "en": "You don't say...",
+        "ru": "Да неужели..."
+    },
+    {
+        "id": "M3000_S0510_G0023_001_pod042",
+        "jp": "警告：ウィルス汚染度２１％に上昇。",
+        "en": "Alert: Virus contamination rate up to 21 percent.",
+        "ru": "Внимание: уровень заражения 21%."
+    },
+    {
+        "id": "M3000_S0510_G0002_300_a2b",
+        "jp": "汚染の除去と……再起動……",
+        "en": "Remove the contamination...and reset...",
+        "ru": "Удалить заражение... и перезагрузить..."
+    },
+    {
+        "id": "M3000_S0510_G0003_300_pod042",
+        "jp": "報告：ウィルスは自己のアルゴリズムを高速で改変・進化しており\\n除去が困難。",
+        "en": "Analysis: Virus is transforming and progressing its own algorithm with abnormal speed. Removal will be difficult.",
+        "ru": "Анализ: вирус изменяет и развивает свой алгоритм с аномальной скоростью. Удаление будет затруднено."
+    },
+    {
+        "id": "M3000_S0510_G0032_001_pod042",
+        "jp": "警告：ウィルス汚染度３２％に上昇。",
+        "en": "Alert: Virus contamination rate up to 32 percent.",
+        "ru": "Внимание: уровень заражения 32%."
+    },
+    {
+        "id": "M3000_S0510_G0024_001_pod042",
+        "jp": "視覚処理システムに異常を検知。",
+        "en": "Malfunction detected in visual processing system.",
+        "ru": "В системе визуальной обработки обнаружена неисправность."
+    },
+    {
+        "id": "M5920_S0090_G0200_001_human",
+        "jp": "月面人類会議より地上で奮戦している……に告げる。",
+        "en": "The Council of Humanity has a message for all of our......fighting on the surface.",
+        "ru": "Совет Человечества обращается ко всем нашим... сражаются на поверхности."
+    },
+    {
+        "id": "M5920_S0090_G0210_001_human",
+        "jp": "今日は諸君らに吉報を……",
+        "en": "Today, I have wonderful......",
+        "ru": "Сегодня, у меня замечательная..."
+    },
+    {
+        "id": "M5920_S0090_G0220_001_human",
+        "jp": "この度、月面の人類会議は新兵器……を決定した。",
+        "en": "The Council of Humanity has decided to increase the production of new.......",
+        "ru": "Совет Человечества решил увеличить производство новых..."
+    },
+    {
+        "id": "M5920_S0090_G0230_001_human",
+        "jp": "これにより新たな打撃を……機械生命体に与える事が出来るだろう。",
+        "en": "This will enable us to deal a powerful blow to......enemies.",
+        "ru": "Это позволит нам нанести мощный удар... по врагу."
+    },
+    {
+        "id": "M5920_S0090_G0240_001_human",
+        "jp": "希望の光は、……",
+        "en": "The light of hope is near......closer than ever to it.",
+        "ru": "Свет надежды так близок... близок как никогда прежде."
+    },
+    {
+        "id": "M5920_S0090_G0250_001_human",
+        "jp": "諸君らの奮戦に、……",
+        "en": "We look forward to future......and know that you will be the ones to bring it to us.",
+        "ru": "Мы с нетерпением ждём этого... и знаем, что вы поможете нам."
+    },
+    {
+        "id": "M5920_S0090_G0260_001_human",
+        "jp": "人類に……",
+        "en": "Glory to......",
+        "ru": "Слава..."
+    },
+    {
+        "id": "M3000_S0510_G0034_001_pod042",
+        "jp": "警告：ウィルス汚染度５７％に上昇。",
+        "en": "Alert: Virus contamination rate up to 57 percent.",
+        "ru": "Внимание: уровень заражения 57%."
+    },
+    {
+        "id": "M3000_S0510_G0022_001_pod042",
+        "jp": "ＦＦＣＳ回路に異常を検知。",
+        "en": "Malfunction detected in FFCS circuit.",
+        "ru": "В схеме МОДБ обнаружена неисправность."
+    },
+    {
+        "id": "M3000_S0510_G0005_300_pod042",
+        "jp": "警告：ウィルス汚染７０％",
+        "en": "Alert: Virus contamination rate 70 percent.",
+        "ru": "Внимание: уровень заражения 70%."
+    },
+    {
+        "id": "M3000_S0510_G0006_300_pod042",
+        "jp": "システム保護領域に侵入。",
+        "en": "Infiltrating system-protected region.",
+        "ru": "Проникновение в область системы защиты."
+    },
+    {
+        "id": "M3000_S0510_G0007_300_pod042",
+        "jp": "警告：ウィルス汚染９０％",
+        "en": "Alert: Virus contamination rate 90 percent.",
+        "ru": "Внимание: уровень заражения 90%."
+    },
+    {
+        "id": "M3000_S0510_G0008_300_pod042",
+        "jp": "警告：中枢神経系に異常な発熱を検知、内部爆発の危険性あり。",
+        "en": "Alert: Unusual heat generation in central nervous system. Internal combustion imminent.",
+        "ru": "Внимание: наблюдается аномальный нагрев центральной нервной системы. Воспламенение неизбежно."
+    },
+    {
+        "id": "M3000_S0510_G0015_300_pod042",
+        "jp": "報告：視覚センサーに異常を検知。",
+        "en": "Analysis: Abnormality detected in visual sensors.",
+        "ru": "Анализ: аномалия обнаружена в зрительных сенсорах."
+    },
+    {
+        "id": "M3000_S0510_G0016_300_pod042",
+        "jp": "警告：ブラックボックス変質。",
+        "en": "Alert: Deterioration found in black box.",
+        "ru": "Внимание: обнаружено повреждение чёрного ящика."
+    },
+    {
+        "id": "M3000_S0510_G0017_300_pod042",
+        "jp": "警告：データバックアップシステム破損。",
+        "en": "Alert: Damage to data backup system.",
+        "ru": "Внимание: повреждение системы резервного копирования"
+    },
+    {
+        "id": "M3000_S0510_G0018_300_pod042",
+        "jp": "当該システム破壊により義体バックアップ時の自我維持は困難。",
+        "en": "Said damage will make it difficult to retain self-consciousness upon backup.",
+        "ru": "Заявленное повреждение затруднит сохранение самосознания при резервном копировании."
+    },
+    {
+        "id": "M3000_S0510_G0019_300_a2b",
+        "jp": "……もう、バンカーはない。バックアップの意味も……ない。",
+        "en": "Bunker's gone... There's...no point in backing up anyway.",
+        "ru": "Бункер потерян... В любом случае... нет смысла в резервном копировании."
+    },
+    {
+        "id": "M3000_S0510_G0020_300_a2b",
+        "jp": "９……Ｓ……",
+        "en": "9...S...",
+        "ru": "9...S..."
+    },
+    {
+        "id": "M3000_S0510_G0021_300_a2b",
+        "jp": "義体が……",
+        "en": "My body is...",
+        "ru": "Моё тело..."
+    },
+    {
+        "id": "M5920_S0010_G0310_001_pod042",
+        "jp": "警告：予定されていた作戦区域から離脱中。",
+        "en": "Alert: Exiting the planned operational area.",
+        "ru": "Внимание: вы покидаете зону операции."
+    },
+    {
+        "id": "M3000_S0510_G0026_001_a2b",
+        "jp": "他の……アンドロイドに、汚染を広げないようにしないと……",
+        "en": "I have to keep it...from spreading to other androids...",
+        "ru": "Я должна сдержать вирус... от распространения среди андроидов..."
+    }
+]

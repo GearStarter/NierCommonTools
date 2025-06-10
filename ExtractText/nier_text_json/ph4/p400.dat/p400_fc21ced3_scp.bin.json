@@ -1,0 +1,56 @@
+[
+    {
+        "id": "M5095_S0080_G0000_001_announce",
+        "jp": "プラトンモデル１７２８号機。",
+        "en": "Plato Model No. 1728.",
+        "ru": "Модель Платон, номер 1728."
+    },
+    {
+        "id": "M5095_S0080_G0010_001_announce",
+        "jp": "起動を許可シマス。",
+        "en": "Activation approved.",
+        "ru": "Активация разрешена."
+    },
+    {
+        "id": "M5095_S0080_G0020_001_announce",
+        "jp": "3……2……1……",
+        "en": "3... 2... 1...",
+        "ru": "3... 2... 1..."
+    },
+    {
+        "id": "M5095_S0080_G0030_001_announce",
+        "jp": "プラトン起動。",
+        "en": "Activating Plato.",
+        "ru": "Активация Платона."
+    },
+    {
+        "id": "M5095_S0080_G0040_001_announce",
+        "jp": "プラトン起動を確認シマシた。",
+        "en": "Activation of Plato confirmed.",
+        "ru": "Активация Платона завершена."
+    },
+    {
+        "id": "M5095_S0080_G0050_001_announce",
+        "jp": "運動機能試験の為、速やかにルーム18に向カッテ下サイ。",
+        "en": "Head to Room 18 immediately for your motor functions examination.",
+        "ru": "Немедленно отправляйтесь в 18-ю комнату для проверки ваших моторных функций."
+    },
+    {
+        "id": "M5095_S0080_G0060_001_announce",
+        "jp": "以上。",
+        "en": "That is all.",
+        "ru": "На этом всё."
+    },
+    {
+        "id": "M6150_S0140_G0000_001_badR",
+        "jp": "ナンダ誰カト思ったらプラトン１７２８か、今日ハ運動機能試験ダロ。",
+        "en": "Hey, Plato 1728. Shouldn't you be taking your motor function examination right now?",
+        "ru": "Эй, Платон 1728. Разве ты сейчас не должен проверять свои моторные функции?"
+    },
+    {
+        "id": "M6150_S0140_G0010_001_badR",
+        "jp": "試験場ならこの先ヲ行った所ダロ、遂ニ記憶領域マデも壊レタノカ？",
+        "en": "The test site is up ahead, you know that, right? Are your memories corrupted or something?",
+        "ru": "Испытательный участок впереди, ты же знаешь это, верно? Или у тебя память повреждена?"
+    }
+]

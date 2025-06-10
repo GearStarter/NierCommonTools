@@ -1,0 +1,218 @@
+[
+    {
+        "id": "HUD_CORP_DIALOG_00",
+        "jp": "<NAME>は仲間になりました。",
+        "en": "<NAME> has become your ally.",
+        "ru": "<NAME> стал вашим союзником."
+    },
+    {
+        "id": "HUD_CORP_DIALOG_01",
+        "jp": "<NAME>の義体は汚染が激しく、敵になりました。",
+        "en": "<NAME>'s infection worsens,\\nturning them against you.",
+        "ru": "Инфекция у <NAME> усиливается,\\nобращая их против вас."
+    },
+    {
+        "id": "HUD_CORP_DIALOG_02",
+        "jp": "経験値：<EXP>",
+        "en": "Experience: <EXP>",
+        "ru": "Опыт: <EXP>"
+    },
+    {
+        "id": "HUD_CORP_DIALOG_03",
+        "jp": "お金：<MONEY>G",
+        "en": "Money: <MONEY> G",
+        "ru": "Деньги: <MONEY> G"
+    },
+    {
+        "id": "HUD_CORP_DIALOG_04",
+        "jp": "<NAME>に黙祷を捧げました。",
+        "en": "You prayed for <NAME>.",
+        "ru": "Вы молитесь за <NAME>."
+    },
+    {
+        "id": "HUD_CORP_DIALOG_05",
+        "jp": "プラグイン・チップを回収しました。\\n装備状態を復元しますか？",
+        "en": "You recovered your plug-in chips.\\nDo you wish to restore your previous equipment?",
+        "ru": "Вы вернули чипы.\\nЖелаете восстановить вашу предыдущую экипировку?"
+    },
+    {
+        "id": "HUD_CORP_DIALOG_06",
+        "jp": "プラグイン・チップ",
+        "en": "Plug-in Chips",
+        "ru": "Установка чипов"
+    },
+    {
+        "id": "HUD_CORP_DIALOG_07",
+        "jp": "効果：<CHIP>",
+        "en": "Effect: <CHIP>",
+        "ru": "Эффект: <CHIP>"
+    },
+    {
+        "id": "HUD_CORP_NAME_00",
+        "jp": "以前の義体",
+        "en": "Previous Body",
+        "ru": "Предыдущее тело"
+    },
+    {
+        "id": "HUD_CR_COMMENT_00",
+        "jp": "<COMMENT>",
+        "en": "<COMMENT>",
+        "ru": "<COMMENT>"
+    },
+    {
+        "id": "HUD_CR_COMMENT_01",
+        "jp": "NO DATA",
+        "en": "NO DATA",
+        "ru": "НЕТ ДАННЫХ"
+    },
+    {
+        "id": "HUD_CR_COMMENT_02",
+        "jp": "義体遺棄後<DAY><HOUR><MIN><SEC>経過している",
+        "en": "Time since abandoning of body: <HOUR>:<MIN>:<SEC>",
+        "ru": "Время после оставления тела: <HOUR>:<MIN>:<SEC>"
+    },
+    {
+        "id": "HUD_CR_COMMENT_NAME_00",
+        "jp": "<NAME>(<ID>)",
+        "en": "<NAME> (<ID>)",
+        "ru": "<NAME> (<ID>)"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_00",
+        "jp": "<DAY>日",
+        "en": "<DAY> day",
+        "ru": "<DAY> день"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_01",
+        "jp": "<DAY>日",
+        "en": "<DAY> days",
+        "ru": "<DAY> дней"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_02",
+        "jp": "<HOUR>時間",
+        "en": "<HOUR> hour",
+        "ru": "<HOUR> час"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_03",
+        "jp": "<HOUR>時間",
+        "en": "<HOUR> hours",
+        "ru": "<HOUR> часов"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_04",
+        "jp": "<MIN>分",
+        "en": "<MIN> minute",
+        "ru": "<MIN> минута"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_05",
+        "jp": "<MIN>分",
+        "en": "<MIN> minutes",
+        "ru": "<MIN> минут"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_06",
+        "jp": "<SEC>秒",
+        "en": "<SEC> second",
+        "ru": "<SEC> секунда"
+    },
+    {
+        "id": "HUD_CR_COMMENT_TIME_07",
+        "jp": "<SEC>秒",
+        "en": "<SEC> seconds",
+        "ru": "<SEC> секунд"
+    },
+    {
+        "id": "HUD_DIALOG_00",
+        "jp": "メッセージ　ヲ　受信",
+        "en": "MESSAGE RECEIVED",
+        "ru": "ПОЛУЧЕНО СООБЩЕНИЕ"
+    },
+    {
+        "id": "HUD_DIALOG_01",
+        "jp": "スタッフロールローディング中にエラーを検知した為、\\nタイトル画面に戻ります。",
+        "en": "Error detected while loading credits. Returning to title screen.",
+        "ru": "Во время загрузки титров обнаружена ошибка. Возврат в главное меню."
+    },
+    {
+        "id": "HUD_LOG_REP_TXT_11",
+        "jp": "誰かのデータが失われました",
+        "en": "Someone's data has been lost.",
+        "ru": "Чьи-то данные были потеряны."
+    },
+    {
+        "id": "HUD_LOG_TXT_05",
+        "jp": "ハッキングした敵を乗っ取りました",
+        "en": "Hacked enemy hijacked",
+        "ru": "Угнано взломанных врагов"
+    },
+    {
+        "id": "HUD_LOG_TXT_06",
+        "jp": "ハッキングした敵を従属化しました",
+        "en": "Hacked enemy subjugated.",
+        "ru": "Подчинено взломанных врагов."
+    },
+    {
+        "id": "HUD_LOG_TXT_07",
+        "jp": "ハッキングした敵を爆破しました",
+        "en": "Hacked enemy detonated.",
+        "ru": "Подорвано взломанных врагов."
+    },
+    {
+        "id": "HUD_LOG_TXT_08",
+        "jp": "ハッキングした敵をスタンさせました",
+        "en": "Hacked enemy stunned.",
+        "ru": "Оглушено взломанных врагов."
+    },
+    {
+        "id": "HUD_LOG_TXT_09",
+        "jp": "ハッキングした敵を炎上させました",
+        "en": "Hacked enemy ignited.",
+        "ru": "Подожжено взломанных врагов."
+    },
+    {
+        "id": "HUD_LOG_TXT_10",
+        "jp": "効果：<EFFECT>を付与しました",
+        "en": "Effect: <EFFECT>.",
+        "ru": "Эффект: <EFFECT>."
+    },
+    {
+        "id": "HUD_LOG_TXT_11",
+        "jp": "<NAME>のデータが失われました",
+        "en": "<NAME>'s data has been lost.",
+        "ru": "Данные <NAME> будут потеряны."
+    },
+    {
+        "id": "HUD_LOG_TXT_13",
+        "jp": "魚図鑑が更新されました",
+        "en": "Fish Encyclopedia updated",
+        "ru": "Энциклопедия о рыбах обновлена"
+    },
+    {
+        "id": "HUD_LOG_TXT_15",
+        "jp": "<QUEST_NAME>　<NUM1>/<NUM2>",
+        "en": "<QUEST_NAME>: <NUM1>/<NUM2>",
+        "ru": "<QUEST_NAME>: <NUM1>/<NUM2>"
+    },
+    {
+        "id": "HUD_LOG_TXT_16",
+        "jp": "「<QUEST_NAME>」が更新されました",
+        "en": "\"<QUEST_NAME>\" updated!",
+        "ru": "\"<QUEST_NAME>\" обновлено!"
+    },
+    {
+        "id": "HUD_LOG_TXT_17",
+        "jp": "メールを受信しました",
+        "en": "You've got mail!",
+        "ru": "Вы получили письмо!"
+    },
+    {
+        "id": "HUD_LOG_TXT_50",
+        "jp": "2Bが死亡しました",
+        "en": "2B has perished.",
+        "ru": "2B погибла."
+    }
+]

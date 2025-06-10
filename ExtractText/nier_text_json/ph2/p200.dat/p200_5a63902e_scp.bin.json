@@ -1,0 +1,38 @@
+[
+    {
+        "id": "M1090_S0300_G0000_011_a2b",
+        "jp": "",
+        "en": "",
+        "ru": ""
+    },
+    {
+        "id": "M1090_S0300_G0010_011_pod042",
+        "jp": "警告：ＮＦＣＳ破損。近接戦闘が不可能。",
+        "en": "Alert: NFCS destroyed. Close-range combat no longer operable.",
+        "ru": "Внимание: МОББ уничтожен. Ближний бой более недоступен."
+    },
+    {
+        "id": "M1090_S0300_G0020_021_a9s",
+        "jp": "",
+        "en": "",
+        "ru": ""
+    },
+    {
+        "id": "M1090_S0300_G0030_021_pod153",
+        "jp": "警告：ＮＦＣＳ破損。近接戦闘が不可能。",
+        "en": "Alert: NFCS destroyed. Close-range combat no longer operable.",
+        "ru": "Внимание: МОББ уничтожен. Ближний бой более недоступен."
+    },
+    {
+        "id": "M1090_S0300_G0031_021_pod042",
+        "jp": "警告：ＦＦＣＳ破損。遠距離攻撃が不可能。",
+        "en": "Alert: FFCS destroyed. Ranged combat no longer operable.",
+        "ru": "Внимание: МОДБ уничтожен. Дальний бой более недоступен."
+    },
+    {
+        "id": "M1090_S0300_G0032_021_pod153",
+        "jp": "警告：ＦＦＣＳ破損。遠距離攻撃が不可能。",
+        "en": "Alert: FFCS destroyed. Ranged combat no longer operable.",
+        "ru": "Внимание: МОДБ уничтожен. Дальний бой более недоступен."
+    }
+]

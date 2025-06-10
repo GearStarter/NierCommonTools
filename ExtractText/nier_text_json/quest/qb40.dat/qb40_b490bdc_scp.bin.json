@@ -1,0 +1,548 @@
+[
+    {
+        "id": "M6010_S0080_G0000_300_op",
+        "jp": "地上部隊、こちらバンカー。\\n報告書は受け取った。",
+        "en": "\"This is the Bunker. We've received your report.\"",
+        "ru": "\"На связи Бункер. Мы получили ваш доклад\"."
+    },
+    {
+        "id": "M6010_S0080_G0010_300_op",
+        "jp": "引き続き、しっかり働けよ。",
+        "en": "\"Please continue your hard work.\"",
+        "ru": "\"Пожалуйста, продолжайте и дальше усердно трудиться\"."
+    },
+    {
+        "id": "M6010_S0080_G0020_300_op",
+        "jp": "なんだ？何か用か？",
+        "en": "Yes? Do you need something?",
+        "ru": "Да? Вам что-то нужно?"
+    },
+    {
+        "id": "M6010_S0020_G0090_300_op",
+        "jp": "人間がいたころの地球ってのはどんな感じだったんだろうな。",
+        "en": "I wonder what Earth was like when the humans lived there.",
+        "ru": "Интересно, как выглядела Земля, когда на ней жили люди?"
+    },
+    {
+        "id": "M6010_S0020_G0100_300_op",
+        "jp": "まぁ、今の地球にも行ったことはないんだが。",
+        "en": "Well, not that I know what it's like on Earth now. But you get what I mean.",
+        "ru": "Ну, не то чтобы я знаю, каково сейчас на Земле. Но вы поняли, что я имею в виду."
+    },
+    {
+        "id": "M6010_S0020_G0110_300_op",
+        "jp": "格納庫は横のエレベーターから行けるぞ。",
+        "en": "You can get to the hangar from that elevator.",
+        "ru": "Вы можете попасть в ангар на лифте."
+    },
+    {
+        "id": "M6010_S0020_G0120_300_op",
+        "jp": "いい加減覚えたって？そりゃ悪かったな。",
+        "en": "Oh, you already knew that? Well, excuuuuuse me!",
+        "ru": "О, вы уже знали это? Ну, прости-и-ите!"
+    },
+    {
+        "id": "M6010_S0010_G0090_300_op",
+        "jp": "地球はどれだけ見てても飽きないな……",
+        "en": "I never get tired of looking at Earth...",
+        "ru": "Я никогда не устаю от созерцания Земли..."
+    },
+    {
+        "id": "M6010_S0010_G0100_300_op",
+        "jp": "格納庫なら横のエレベーターから行けるぞ？",
+        "en": "The hangar? You can get to it from the elevator to my left.",
+        "ru": "Ангар? Ты можешь попасть в него на лифте слева от меня."
+    },
+    {
+        "id": "M6010_S0010_G0110_300_op",
+        "jp": "早く地球に戻れる日が来るといいな……人類と一緒に。",
+        "en": "I hope we can return to Earth soon, together with mankind...",
+        "ru": "Я надеюсь, уже скоро мы сможем вернуть Землю для человечества..."
+    },
+    {
+        "id": "M6010_S0080_G0030_300_op",
+        "jp": "お疲れ様、調子はどうだ？",
+        "en": "How's it going?",
+        "ru": "Как дела?"
+    },
+    {
+        "id": "M6010_S0080_G0040_300_op",
+        "jp": "少しくらい休むのも構わないが、そろそろ任務に戻った方がいいんじゃないか？",
+        "en": "Soooo, I know that rest is important and all, but don't you have an important mission to finish?",
+        "ru": "Ита-а-ак, я знаю, что отдых важен и всё такое, но разве у вас нет важного задания, которое нужно завершить?"
+    },
+    {
+        "id": "M6010_S0080_G0050_300_op",
+        "jp": "おつかれさまです～\\n休憩ですか～？",
+        "en": "Hey there. Taking a break?",
+        "ru": "Привет. Взяли перерыв?"
+    },
+    {
+        "id": "M6010_S0080_G0060_300_op",
+        "jp": "休憩しすぎて、司令官に怒られても知りませんよ～",
+        "en": "Well, not my business—but make sure the Commander doesn't catch you! I hear she likes to fire slackers out the airlock.",
+        "ru": "Ну, это, конечно, не моё дело, но ни в коем случае не попадайтесь на глаза Командору! Я слышала, она любит выбрасывать бездельников из шлюза."
+    },
+    {
+        "id": "M6010_S0020_G0130_300_opb",
+        "jp": "う～ん……困りましたね～",
+        "en": "Hmmm... What are we going to do?",
+        "ru": "Хм... Что вы собираетесь делать?"
+    },
+    {
+        "id": "M6010_S0020_G0140_300_opa",
+        "jp": "中々見つからないな……",
+        "en": "It still hasn't turned up...",
+        "ru": "Всё ещё не объявили..."
+    },
+    {
+        "id": "M6010_S0020_G0150_300_opa",
+        "jp": "……ん？何か問題かって？",
+        "en": "...What's that? You want to know what's happening?",
+        "ru": "...Что? Ты хочешь узнать, что происходит?"
+    },
+    {
+        "id": "M6010_S0020_G0160_300_opa",
+        "jp": "実は地上部隊の１人が、水没都市でポッドを失くしたみたいでな。",
+        "en": "Apparently, one of the units on Earth LOST a Pod in the flooded city.",
+        "ru": "Видимо, одна из единиц на Земле ПОТЕРЯЛА бота в затопленном городе."
+    },
+    {
+        "id": "M6010_S0020_G0170_300_opb",
+        "jp": "救援音をたどろうとしたんですけど、見つからないんです～",
+        "en": "They tried to follow the distress signal, but they still can't find the thing.",
+        "ru": "Отследить его сигнал бедствия так и не получилось."
+    },
+    {
+        "id": "M6010_S0020_G0180_300_opa",
+        "jp": "あの辺りの地上は大体捜索したみたいなんだが……",
+        "en": "How do you LOSE a Pod? It staggers the imagination!",
+        "ru": "Как можно ПОТЕРЯТЬ бота? Это невообразимо!"
+    },
+    {
+        "id": "M6010_S0020_G0190_300_opb",
+        "jp": "もし見つけたら、保護してあげてくれませんか？\\n一人ぼっちはかわいそうなので。",
+        "en": "Anyway, if you happen to find it, will you take care of it? The poor thing is all alone down there.",
+        "ru": "В любом случае, если ты случайно найдёшь его, позаботься о нём, хорошо? Бедняга там совсем один."
+    },
+    {
+        "id": "M6010_S0020_G0200_300_opa",
+        "jp": "よろしくな。",
+        "en": "And make sure not to lose it!",
+        "ru": "И убедись, что не потеряешь его!"
+    },
+    {
+        "id": "M6010_S0010_G0120_300_opa",
+        "jp": "おや、こんにちは。",
+        "en": "Hello there.",
+        "ru": "Привет."
+    },
+    {
+        "id": "M6010_S0010_G0130_300_opa",
+        "jp": "お前達かなり噂になってるぞ。",
+        "en": "You're starting to get quite the reputation.\\n...Oh, but don't worry! It's all good!",
+        "ru": "Вы становитесь всё известнее. ...О, но не волнуйтесь! Всё это к лучшему!"
+    },
+    {
+        "id": "M6010_S0010_G0140_300_opb",
+        "jp": "デカ物をブラックボックスでばーんなんて、すごいですね～",
+        "en": "The way you used your black boxes to blow up those Goliaths was so awesome!",
+        "ru": "Ваш способ применения своих чёрных ящиков для уничтожения этих Голиафов был таким классным!"
+    },
+    {
+        "id": "M6010_S0010_G0150_300_opa",
+        "jp": "無茶が過ぎて、本当に死んだりするなよ？",
+        "en": "Er, but try not to ACTUALLY die, okay?",
+        "ru": "Эм, но постарайтесь не погибнуть ОКОНЧАТЕЛЬНО, ладно?"
+    },
+    {
+        "id": "M6010_S0010_G0160_300_opb",
+        "jp": "データは大事に預かりますから、こまめにアップロードしてくださいね～",
+        "en": "We'll take good care of your data, so make sure to upload it frequently.",
+        "ru": "Мы хорошо позаботимся о ваших данных, поэтому обязательно загружайте их."
+    },
+    {
+        "id": "M6010_S0010_G0170_300_opa",
+        "jp": "司令室に行きたいなら左に進むといい。",
+        "en": "Looking for Command? Just head down the hall to the left.",
+        "ru": "Ищете Штаб? Просто пройдите вниз по коридору и налево."
+    },
+    {
+        "id": "M6010_S0010_G0180_300_opb",
+        "jp": "サーバー管理室は右ですよ～",
+        "en": "The server administration room is on the right.",
+        "ru": "Серверная находится справа."
+    },
+    {
+        "id": "M6010_S0010_G0190_300_opa",
+        "jp": "気をつけてな。",
+        "en": "Take care.",
+        "ru": "Берегите себя."
+    },
+    {
+        "id": "M6010_S0010_G0200_300_opb",
+        "jp": "いってらっしゃい～",
+        "en": "See you around!",
+        "ru": "Ещё увидимся!"
+    },
+    {
+        "id": "M6010_S0080_G0450_300_op",
+        "jp": "＜＜もしもし、お怪我はありませんか？＞＞",
+        "en": "\"This is the Bunker. Please confirm your current status.\"",
+        "ru": "\"На связи Бункер. Пожалуйста, подтвердите ваше текущее состояние\"."
+    },
+    {
+        "id": "M6010_S0080_G0460_300_op",
+        "jp": "＜＜先ほどの報告を司令部に転送しました。次の任務を連絡します＞＞",
+        "en": "\"...Understood. I've sent your most recent report to Command and have intel regarding your next mission.\"",
+        "ru": "\"...Принято. Я отправила ваш последний отчёт в Штаб, и у меня есть для вас информация о вашем следующем задании\"."
+    },
+    {
+        "id": "M6010_S0080_G0470_300_op",
+        "jp": "どうしました？どこか怪我でも？",
+        "en": "What happened to you? Were you hurt?",
+        "ru": "Что с вами случилось? Вас ранили?"
+    },
+    {
+        "id": "M6010_S0080_G0480_300_op",
+        "jp": "怪我したなら、ちゃんと治療しないとだめですよ？\\n無理しないでくださいね。",
+        "en": "If so, make sure to take the time to heal up. And be careful out there!",
+        "ru": "Если так, обязательно как следует восстановитесь. И будьте осторожны!"
+    },
+    {
+        "id": "M6010_S0020_G0850_300_ys",
+        "jp": "……お前達だろ？機械生命体から和睦の申し入れを受けたのは。\\nどうだ？信用できそうか？",
+        "en": "Wait, I know you. You're the ones who received a peace offer from the machines! So what do you think? Can we trust 'em?",
+        "ru": "Подождите-ка, я вас знаю. Это ведь вы получили предложение о мире от машин! Так что вы думаете? Можем ли мы им доверять?"
+    },
+    {
+        "id": "M6010_S0020_G0860_300_ys",
+        "jp": "悪いな、戦争が長く続いたせいか……どうも信用出来なくて。",
+        "en": "We've been fighting those metalheads for so long, it doesn't feel right to suddenly take their word on anything.",
+        "ru": "Мы так долго сражаемся с жестянками, что не можем так внезапно довериться их словам."
+    },
+    {
+        "id": "M6010_S0020_G0870_300_ys",
+        "jp": "確かに、和睦が結ばれれば地上も平和になるんだろうが……",
+        "en": "On the other hand, if this works, Earth would finally be at peace...",
+        "ru": "С другой стороны, если это сработает, на Земле, наконец, воцарится мир..."
+    },
+    {
+        "id": "M6010_S0020_G0880_300_op",
+        "jp": "和睦が結ばれれば、地上は一応平和になるでしょう。",
+        "en": "If we reconciled with the machines, then Earth would finally be at peace.",
+        "ru": "Если мы примиримся с машинами, тогда на Земле наступит мир."
+    },
+    {
+        "id": "M6010_S0020_G0890_300_op",
+        "jp": "でもその平和は、ちょっとした衝突が起きればすぐに争いに発展してしまう……そんな危険をはらんでいます。",
+        "en": "But it would be a fragile peace at best, so I don't think we'd ever be completely safe.",
+        "ru": "Но, в любом случае, это был бы хрупкий мир, поэтому я не думаю, что мы когда-нибудь смогли бы действительно чувствовать себя в безопасности."
+    },
+    {
+        "id": "M6010_S0020_G0900_300_op",
+        "jp": "それでも、今みたいに戦闘部隊が真正面から敵と戦うこともなくなる。\\nそれだけでも和睦協定は十分に価値があると思います。",
+        "en": "Still, if it means our troops can finally lay down their weapons, perhaps it's something we should consider.",
+        "ru": "Тем не менее, это значит, что наши войска, наконец, сложат оружие. Возможно, это и правда стоит обдумать."
+    },
+    {
+        "id": "M6010_S0010_G0840_300_op",
+        "jp": "こんにちは。",
+        "en": "Hello!",
+        "ru": "Привет!"
+    },
+    {
+        "id": "M6010_S0010_G0850_300_ys",
+        "jp": "今地上で見た動植物について話してたんだ。\\nオペレーターはデータ収集が好きみたいでな。",
+        "en": "I was just talking about all the plants and animals I saw on Earth. Operators are kind of nuts for data collection, you know!",
+        "ru": "Я просто говорила обо всех растениях и животных, которые повидала на Земле. Операторы ужасно помешаны на сборе данных!"
+    },
+    {
+        "id": "M6010_S0010_G0860_300_op",
+        "jp": "戦闘部隊がうらやましいです。許されるなら、直接行ってデータを\\n集めたいのに……",
+        "en": "It makes me jealous of the combat troops. I'd love to go down there and collect the data myself, but they don't allow it.",
+        "ru": "Я так завидую боевым отрядам. Я бы с удовольствием сама отправилась туда и собрала данные, но командование этого не позволяет."
+    },
+    {
+        "id": "M6010_S0010_G0870_300_ys",
+        "jp": "許可が取れれば連れてってやれるんだがなぁ。やっぱり難しいかな。",
+        "en": "Hey, I'd take you if I could, but...you know. I don't make the rules.",
+        "ru": "Эй, я бы взяла тебя, если бы могла, но... знаешь. Не я устанавливаю правила."
+    },
+    {
+        "id": "M6010_S0010_G0880_300_op",
+        "jp": "地球の色んなことを聞けるのは楽しいですが、やっぱり皆が無事に\\n帰ってくることが一番嬉しいです。",
+        "en": "I love hearing about Earth, but the most important thing is seeing everyone come back safely.",
+        "ru": "Я люблю слушать рассказы о Земле, но больше этого я люблю видеть, как все благополучно возвращаются назад."
+    },
+    {
+        "id": "M6010_S0010_G0890_300_op",
+        "jp": "だからあなた達も、心配かけちゃだめですよ？",
+        "en": "And that includes you guys, okay? So be careful!",
+        "ru": "Это касается и вас, ребята, ладно? Поэтому будьте осторожны!"
+    },
+    {
+        "id": "M6010_S0080_G0540_300_op",
+        "jp": "＜＜地上部隊！飛行ユニットは高価なんですから、\\n丁寧に扱ってください！！＞＞",
+        "en": "\"This is a message from the Bunker to all Earth-based troops. Flight units are not toys! Please take care of them!\"",
+        "ru": "\"Это сообщение из Бункера всем подразделениям, базирующимся на Земле. Полётные модули — не игрушки! Пожалуйста, заботьтесь о них!\""
+    },
+    {
+        "id": "M6010_S0080_G0550_300_op",
+        "jp": "今忙しいんです！後にして！",
+        "en": "Why in the world are you bothering me!? Can't you see how busy I am!?",
+        "ru": "Зачем ты мне мешаешь?! Не видишь, как я занята?!"
+    },
+    {
+        "id": "M6010_S0020_G1150_300_ysB",
+        "jp": "あなたたちか、機械生命体と話したっていうのは。",
+        "en": "Say, you're the ones who talked to the machines, right?",
+        "ru": "Скажите, это вы общались с машинами, верно?"
+    },
+    {
+        "id": "M6010_S0020_G1160_300_op",
+        "jp": "……まさか、あんな金属剥き出しの野蛮な連中の事を信じたりしてませんよね？",
+        "en": "I've always said the only good machine is a dead machine, and I stand by it. I won't ever trust a machine! Ever!",
+        "ru": "Я всегда говорю, хорошая машина — мертвая машина, и я останусь при своём мнении. Я никогда не поверю машине! Никогда!"
+    },
+    {
+        "id": "M6010_S0020_G1170_300_op",
+        "jp": "奴らは人類の敵であり、私達の同胞を殺した憎むべき敵です。\\n今も地上に我が物顔でのさぼっているなんて耐えがたい。",
+        "en": "They're the enemies of humanity! They killed our comrades! And now they're strutting around Earth like they own the joint!",
+        "ru": "Они — враги человечества! Они убивали наших товарищей! И сейчас они с важным видом разгуливают по Земле, как будто они там хозяева!"
+    },
+    {
+        "id": "M6010_S0020_G1180_300_ysA",
+        "jp": "しばらく膠着状態が続いていたから、こっちが条件を飲むと思ってるんだろう。",
+        "en": "I bet they think we'll accept their terms just to put a stop to this never-ending war.",
+        "ru": "Уверена, они думают, что мы примем их договор, лишь бы остановить эту бесконечную войну."
+    },
+    {
+        "id": "M6010_S0020_G1190_300_ysB",
+        "jp": "結局、奴らの親玉はどこに隠れてるんだろうな。",
+        "en": "I wonder where their boss is hiding...",
+        "ru": "Интересно, где прячется их босс..."
+    },
+    {
+        "id": "M6010_S0020_G1200_300_ysB",
+        "jp": "エイリアンを倒したら全ておしまいなんだから、さっさと出てくれば良いのに。",
+        "en": "This will all be over once we defeat the aliens. I wish they'd hurry up and show their slimy faces!",
+        "ru": "Всё это закончится, как только мы победим пришельцев. Хотела бы я, чтобы они поторопились и показали свои заплаканные лица!"
+    },
+    {
+        "id": "M6010_S0020_G1210_300_ysA",
+        "jp": "今は我々が優勢だ。",
+        "en": "We have the upper hand at the moment.",
+        "ru": "В данный момент мы контролируем ситуацию."
+    },
+    {
+        "id": "M6010_S0020_G1220_300_ysA",
+        "jp": "このまま奴らを滅ぼし、人類に勝利をささげよう。",
+        "en": "We should just destroy them and bring victory to mankind once and for all!",
+        "ru": "Мы просто должны уничтожить их и принести победу человечеству раз и навсегда!"
+    },
+    {
+        "id": "M6010_S0010_G1130_300_ysA",
+        "jp": "お疲れ、今から出撃か？",
+        "en": "Hey there! Are you going down to Earth again?",
+        "ru": "Привет! Вы снова отправляетесь на Землю?"
+    },
+    {
+        "id": "M6010_S0010_G1140_300_ysB",
+        "jp": "いいなぁ、私もまだ飛んでたい。",
+        "en": "I'd give almost anything to spend more time in a flight unit...",
+        "ru": "Я бы отдала всё, чтобы провести побольше времени в полётном модуле..."
+    },
+    {
+        "id": "M6010_S0010_G1150_300_op",
+        "jp": "飛行ユニットは高価なんですから、無駄使いは許しませんよ？",
+        "en": "We'd all like that! But they're expensive, delicate pieces of equipment, so they don't just hand 'em out willy-nilly.",
+        "ru": "Мы все бы этого хотели! Но они дорогие и довольно хрупкие, поэтому их не выдают без необходимости."
+    },
+    {
+        "id": "M6010_S0010_G1160_300_op",
+        "jp": "そうでなくても戦闘部隊は扱いが雑なんだから。\\n貴方こないだも機体に傷をつけてましたよね？",
+        "en": "And you combat types are the worst! Last time you used a flight unit, it came back with huge scratches on the side!",
+        "ru": "И вы, боевые модели, хуже всех! В последний раз, когда вы использовали полётный модуль, он вернулся с огромной царапиной на борту!"
+    },
+    {
+        "id": "M6010_S0010_G1170_300_op",
+        "jp": "貴方達が剥がした塗装、誰が綺麗にしてると思ってるんですか？\\nせっかくの美しい機体を台無しにして、そんなだから……",
+        "en": "Who do you think fixes that, huh? We do! We work our fingers to the bone to get you a beautiful ride, and you go and crap all over it!",
+        "ru": "Как думаете, кто будет это чинить, а? Мы! Мы усердно работаем, чтобы вам было удобно их использовать, а вы плохо с ними обращаетесь!"
+    },
+    {
+        "id": "M6010_S0010_G1180_300_ysA",
+        "jp": "ストップ！私達が悪かったから、もうその辺でいいだろ？",
+        "en": "All right, all right! I get it! Sheesh...",
+        "ru": "Хорошо, хорошо! Я поняла! Боже..."
+    },
+    {
+        "id": "M6010_S0010_G1190_300_ysB",
+        "jp": "いっそボディに羽とジェットつけられたらなぁ。\\n開発部に頼んでみるかな？",
+        "en": "Flight units are great and all, but why doesn't R&D just install wings and jets right on our bodies?",
+        "ru": "Полётные модули великолепны, но почему бы НИОКР не установить крылья и реактивные двигатели прямо на наши тела?"
+    },
+    {
+        "id": "M6010_S0010_G1200_300_op",
+        "jp": "それはいいですね、飛行ユニットも傷つきませんし。",
+        "en": "That's a GREAT idea! Then you could stop damaging my precious flight units!",
+        "ru": "Это ОТЛИЧНАЯ идея! Тогда, может, вы перестанете ломать мои драгоценные полётные модули!"
+    },
+    {
+        "id": "M6010_S0010_G1210_300_ysA",
+        "jp": "前に頼んでみたんだが、ボディが耐えられないとかコストが高いとかで\\n却下された。",
+        "en": "Yeah, I asked about that once. They said it would put too much strain on our bodies. Also something about it not being \"financially feasible.\"",
+        "ru": "Да, я как-то спрашивала об этом. Они сказали, что это очень большая нагрузка для наших тел. А также, что у нас нет \"финансовых возможностей\"."
+    },
+    {
+        "id": "M6010_S0010_G1220_300_ysB",
+        "jp": "え～……残念……",
+        "en": "Ha! They would say that.",
+        "ru": "Ха! Они так и сказали?"
+    },
+    {
+        "id": "M6010_S0080_G0490_300_op",
+        "jp": "お疲れ様。\\nどうした、サボりか？",
+        "en": "Taking a break, eh?",
+        "ru": "Взяли перерыв, да?"
+    },
+    {
+        "id": "M6010_S0080_G0500_300_op",
+        "jp": "あんまりサボりすぎるなよ。\\n怒られても知らないぞ。",
+        "en": "I love slacking off too, but try not to do it too much, okay? ...And if the Commander catches you, we never had this chat!",
+        "ru": "Я тоже люблю расслабляться, но постарайтесь не делать это слишком часто, хорошо? ...И если Командор увидит вас и сцапает, я с вами не знакома!"
+    },
+    {
+        "id": "M6010_S0020_G0910_300_op",
+        "jp": "おお、お前か。\\n新商品は試してくれたか？",
+        "en": "Oh, hello! Have you tried out any of the new products yet?",
+        "ru": "О, привет! Вы уже пробовали какие-нибудь новые товары?"
+    },
+    {
+        "id": "M6010_S0020_G0920_300_op",
+        "jp": "まだならぜひ試してくれ！",
+        "en": "They're pretty great, if I do say so myself. \\n...And I do!",
+        "ru": "Могу сказать, что они довольно хороши.\\n...Я ручаюсь!"
+    },
+    {
+        "id": "M6010_S0020_G0930_300_op",
+        "jp": "我々の発明で少しでも被害が抑えられるなら、これほどうれしいことはない。",
+        "en": "If our inventions help prevent even the smallest bit of damage, I'll be happy.",
+        "ru": "Если наши изобретения помогут предотвратить даже самый маленький урон, я буду счастлива."
+    },
+    {
+        "id": "M6010_S0020_G0940_300_op",
+        "jp": "義体の製造はコストがかかるからな！",
+        "en": "Creating a new body costs a small fortune, you know?",
+        "ru": "Вы знали, что создание нового тела стоит кругленькую сумму?"
+    },
+    {
+        "id": "M6010_S0010_G0900_300_op",
+        "jp": "やあ、こんにちは。\\n回復薬は使ってくれてるか？",
+        "en": "Heya! Have you been using your recovery items?",
+        "ru": "Привет! Вы использовали восстанавливающие предметы?"
+    },
+    {
+        "id": "M6010_S0010_G0910_300_op",
+        "jp": "我が技術開発部自慢の一品だ。\\n個室にあるこのモニターから買えるから、是非使ってくれ。",
+        "en": "Everyone on the R&D Team is really proud of them—you can even buy them from the terminals in your quarters. Give 'em a try!",
+        "ru": "Все в группе НИОКР действительно гордятся ими, их можно купить даже с терминала в жилой комнате. Попробуйте!"
+    },
+    {
+        "id": "M6010_S0010_G0920_300_op",
+        "jp": "ん？何か用か？\\n……商品のラインナップが少ないだと？",
+        "en": "Hmm? What's that? You'd like to see a greater variety of items for purchase?",
+        "ru": "Хм? Что такое? Хотите более широкий ассортимент предметов для покупки?"
+    },
+    {
+        "id": "M6010_S0010_G0930_300_op",
+        "jp": "仕方ないだろ、バンカーは物資が限られてるんだ。\\n今鋭意開発中だから、ちょっとまっててくれ。",
+        "en": "Hey, I get you, but that's just how it is. We're trying to develop more, but for now, what you see is what you get.",
+        "ru": "Да, я понимаю, но ничем не могу помочь. Мы пытаемся разработать больше, но на данный момент это всё, что есть."
+    },
+    {
+        "id": "M6010_S0020_G1080_300_ysA",
+        "jp": "うう……気持ち悪い……",
+        "en": "Uuurgh... I don't feel so good...",
+        "ru": "Угх... Я нехорошо себя чувствую..."
+    },
+    {
+        "id": "M6010_S0020_G1090_300_ysB",
+        "jp": "お前達、機械生命体から和睦の申し入れを受けたんだってな。",
+        "en": "Say, you're the one who got the peace offer from the machines, right?",
+        "ru": "Скажите, это ведь вы получили предложение мира от машин, верно?"
+    },
+    {
+        "id": "M6010_S0020_G1100_300_ysB",
+        "jp": "奴らの考えてることはさっぱり解らんな……なんで今更……",
+        "en": "I don't get it. I mean, why now?",
+        "ru": "Я не понимаю. В смысле, почему сейчас?"
+    },
+    {
+        "id": "M6010_S0020_G1110_300_ysA",
+        "jp": "和睦、結ばれれば……空、飛ばなくても……良い……？",
+        "en": "If we...make peace...does that mean...I won't have to fly anymore?",
+        "ru": "Если мы... заключим мир... это значит... мне не придётся больше летать?"
+    },
+    {
+        "id": "M6010_S0020_G1120_300_ysB",
+        "jp": "……まぁ今より回数は減るだろうな。",
+        "en": "Well, not as much as you do now, at least!",
+        "ru": "Ну, не так много, как сейчас, как минимум!"
+    },
+    {
+        "id": "M6010_S0020_G1130_300_ysB",
+        "jp": "もっと早く奴らと話せていたら、犠牲は減らせたんだろうか？",
+        "en": "How many deaths could have been prevented if we'd just talked to the machines sooner?",
+        "ru": "Как много смертей могло быть предотвращено, если бы мы поговорили с машинами раньше?"
+    },
+    {
+        "id": "M6010_S0020_G1140_300_ysB",
+        "jp": "仮定の話なんて無意味だとは解ってるんだが、そう思わずにいられないよ。",
+        "en": "I know it's pointless to think about that now, but I just can't shake it.",
+        "ru": "Я знаю, что бессмысленно думать об этом сейчас, но я просто не могу перестать."
+    },
+    {
+        "id": "M6010_S0010_G1060_300_ysA",
+        "jp": "……うう……気持ち悪い……",
+        "en": "Uuurgh... I don't feel so good...",
+        "ru": "Угх... Я нехорошо себя чувствую..."
+    },
+    {
+        "id": "M6010_S0010_G1070_300_ysB",
+        "jp": "こいつ、平衡器官がやられちまってて、\\nアンドロイドの癖に乗り物酔いするんだ。",
+        "en": "Her balance sensors got damaged, so she gets motion sickness.",
+        "ru": "Её вестибулярные датчики были повреждены, поэтому её постоянно тошнит."
+    },
+    {
+        "id": "M6010_S0010_G1080_300_ysB",
+        "jp": "何度も修理してるんだけど、直らないみたいでさ。\\n癖になっちまってんのかな？",
+        "en": "No matter how many times I repair the sensors, the problem comes back. It's almost like it's in her head or something...",
+        "ru": "Не важно, как часто я ремонтирую их, проблема не исчезает. Как будто проблема в её голове или что-то в этом роде..."
+    },
+    {
+        "id": "M6010_S0010_G1090_300_ysB",
+        "jp": "お前達も気をつけろよ。",
+        "en": "You guys take care of yourselves so you don't end up like her, all right?",
+        "ru": "Постарайтесь не подставляться, чтобы не закончить, как она, хорошо?"
+    },
+    {
+        "id": "M6010_S0010_G1100_300_ysB",
+        "jp": "大丈夫か？戻れそうか？",
+        "en": "How are you feeling? Ready to get back out there?",
+        "ru": "Как ты себя чувствуешь? Готова вернуться?"
+    },
+    {
+        "id": "M6010_S0010_G1110_300_ysA",
+        "jp": "…………無理です……",
+        "en": "N-no... Whole world...still spinny... *urp*",
+        "ru": "Н-нет... Весь мир... всё ещё кружится... *тошнит*"
+    },
+    {
+        "id": "M6010_S0010_G1120_300_ysB",
+        "jp": "……飛行ユニットで移動しなくて済むように、私からも頼んでやるか。",
+        "en": "Right-o. I'll make sure to tell Command that you're not fit to use flight units for a while.",
+        "ru": "П-поняла. Я обязательно доложу командованию, что временно ты не сможешь использовать полётные модули."
+    }
+]

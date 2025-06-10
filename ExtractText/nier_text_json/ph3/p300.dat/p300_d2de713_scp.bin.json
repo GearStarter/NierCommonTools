@@ -1,0 +1,176 @@
+[
+    {
+        "id": "M6010_S0090_G0060_300_op",
+        "jp": "ついに、イヴを倒したんだな。",
+        "en": "We finally defeated Eve.",
+        "ru": "Мы наконец одолели Еву."
+    },
+    {
+        "id": "M6010_S0090_G0070_300_op",
+        "jp": "ありがとう、２Ｂ。",
+        "en": "Thank you, 2B.",
+        "ru": "Спасибо, 2B."
+    },
+    {
+        "id": "M6010_S0100_G0060_300_op",
+        "jp": "全力でサポートさせてもらうよ。\\n健闘を祈る。",
+        "en": "I'll do whatever I can to help you from here. Good luck.",
+        "ru": "Я сделаю здесь всё, что в моих силах. Удачи."
+    },
+    {
+        "id": "M6010_S0100_G0070_300_op",
+        "jp": "我々ならやれるよ。",
+        "en": "We can do this!",
+        "ru": "Мы справимся!"
+    },
+    {
+        "id": "M6010_S0090_G0080_300_op",
+        "jp": "よくやってくれたな、２Ｂ。",
+        "en": "You did great, 2B.",
+        "ru": "Хорошо поработала, 2B."
+    },
+    {
+        "id": "M6010_S0090_G0090_300_op",
+        "jp": "いや～本当にありがとうございました～",
+        "en": "Thank you so much for all you've done!",
+        "ru": "Большое спасибо за всё, что ты сделала для нас!"
+    },
+    {
+        "id": "M6010_S0100_G0080_300_op",
+        "jp": "終わらせよう、我々の戦いを。",
+        "en": "Let's put an end to all this fighting once and for all.",
+        "ru": "Давайте покончим с этой войной раз и навсегда."
+    },
+    {
+        "id": "M6010_S0100_G0090_300_op",
+        "jp": "情報処理系フルチューンしたからサポートは任せて～！",
+        "en": "My data-processing functions just underwent a full tune-up, so you can count on me to support you!",
+        "ru": "Мои функции обработки прошли полную диагностику, так что можете рассчитывать на мою поддержку!"
+    },
+    {
+        "id": "M6010_S0090_G0480_300_op",
+        "jp": "あ！２Ｂさん！イヴのデータは取れましたか！？\\n早く共有して下さい！",
+        "en": "2B! Did you get Eve's data? Give it to me! Gimmegimmegimme!",
+        "ru": "2B! Ты принесла данные Евы? Дай их мне! Дай-дай-дай!"
+    },
+    {
+        "id": "M6010_S0090_G0490_300_ys",
+        "jp": "おいおい、後にしてやれよ。",
+        "en": "Calm down already! There's plenty of time for that later. Sheesh...",
+        "ru": "Успокойся уже! У нас будет предостаточно времени на это позже. Цыц..."
+    },
+    {
+        "id": "M6010_S0100_G0440_300_op",
+        "jp": "健闘を祈ります。",
+        "en": "Good luck.",
+        "ru": "Удачи."
+    },
+    {
+        "id": "M6010_S0100_G0450_300_ys",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M6010_S0090_G0670_300_ysA",
+        "jp": "いいことを思いついた。\\n飛行ユニットにイヴの自己再生機能を移植してみてはどうだ？",
+        "en": "Say, I have an idea! Why don't we port Eve's self-regenerative function into our flight units?",
+        "ru": "Слушай, у меня есть идея! А почему бы нам не поместить функцию самовосстановления Евы в наши полётные модули?"
+    },
+    {
+        "id": "M6010_S0090_G0680_300_ysB",
+        "jp": "わお！それいいかも！\\n修理コストゼロですね！",
+        "en": "Hey, that's a great idea! Think how much we'd save in repair costs!",
+        "ru": "Эй, это же отличная идея! Мы столько сэкономим на ремонте!"
+    },
+    {
+        "id": "M6010_S0090_G0690_300_op",
+        "jp": "ダメに決まってるじゃないですか！\\nみんなウィルス汚染されて義体ごとおしゃかですよ！",
+        "en": "Are you people INSANE!? We'd all get infected by a virus and DIE!",
+        "ru": "Вы С УМА посходили?! Мы все заразимся вирусом и ПОГИБНЕМ!"
+    },
+    {
+        "id": "M6010_S0090_G0700_300_ysA",
+        "jp": "あはは、冗談だよ、冗談。",
+        "en": "Ha ha! Kidding! We were just...kidding. Yeah, that's it...",
+        "ru": "Ха-ха! Шучу! Мы просто... пошутили. Ага, именно так..."
+    },
+    {
+        "id": "M6010_S0090_G0710_300_ysA",
+        "jp": "……いい案だったと思うんだけどな。",
+        "en": "Still a good idea... *grumble grumble*",
+        "ru": "Но ведь это хорошая идея... *ворчит что-то под нос*"
+    },
+    {
+        "id": "M6010_S0100_G0590_300_ysA",
+        "jp": "我々も行くか。",
+        "en": "You ready?",
+        "ru": "Ты готова?"
+    },
+    {
+        "id": "M6010_S0100_G0600_300_ysB",
+        "jp": "そうですね。",
+        "en": "Yep. Let's do it.",
+        "ru": "Ага. За дело."
+    },
+    {
+        "id": "M6010_S0100_G0610_300_op",
+        "jp": "ご武運を。",
+        "en": "Good luck.",
+        "ru": "Удачи."
+    },
+    {
+        "id": "M6010_S0090_G0500_300_op",
+        "jp": "お疲れ。\\n疲れてないか？回復薬を持って行ったらどうだ？",
+        "en": "You must be tired after all that machine killing, right? You should buy some recovery items.",
+        "ru": "Должно быть, вы очень устали от этой мясорубки, так ведь? Вам следует приобрести восстанавливающих предметов."
+    },
+    {
+        "id": "M6010_S0090_G0510_300_op",
+        "jp": "お前ぐらい活躍していたら、全部タダでもいいと思うけどな。",
+        "en": "Personally, I think you should get everything for free since you were so amazing! But I don't make the rules, so whatcha gonna do?",
+        "ru": "Лично я думаю, тебе должны теперь всё давать бесплатно за твои заслуги!\\nЖаль, что не я устанавливаю правила; что собираешься делать дальше?"
+    },
+    {
+        "id": "M6010_S0100_G0460_300_op",
+        "jp": "出撃前に装備を整えていったらどうだ？",
+        "en": "Why don't you equip yourself before you go?",
+        "ru": "Почему бы тебе не экипироваться перед уходом?"
+    },
+    {
+        "id": "M6010_S0090_G0630_300_ysA",
+        "jp": "うぅ、おぇぇぇ……",
+        "en": "*urp* Oh man, I think I'm gonna... BLAAAAAARGH!",
+        "ru": "*тошнит* Ох, блин, мне кажется, я... Буэ-э-э!"
+    },
+    {
+        "id": "M6010_S0090_G0640_300_ysB",
+        "jp": "安心しろ、２Ｂ達のおかげで多少出撃回数は減るだろう。",
+        "en": "Relax! Thanks to 2B, you won't have to ride a flight unit nearly as much as before!",
+        "ru": "Расслабься! Благодаря 2B, тебе больше не придётся использовать полётный модуль!"
+    },
+    {
+        "id": "M6010_S0090_G0650_300_ysA",
+        "jp": "ほ、ほんとうですかぁぁ！ありがとうございまうおぇぇぇ！",
+        "en": "R-Really!? Oh my gosh, thank youuuu!",
+        "ru": "П-правда?! Ох, хвала богам, спасибки-и-и!"
+    },
+    {
+        "id": "M6010_S0090_G0660_300_ysA",
+        "jp": "ありがとうございまうおぇぇぇ！",
+        "en": "Thank you so muc—BLUUUUUURGH!",
+        "ru": "Большое тебе спаси... Буэ-э-э!"
+    },
+    {
+        "id": "M6010_S0100_G0570_300_ysA",
+        "jp": "うぅ、おぇぇぇ……行かねばうおぇぇ……",
+        "en": "All right... Let's get down there and kick some machi—BLUUUURGH!",
+        "ru": "Отлично... Давайте спустимся и наваляем этим маш... Буэ-э-э!"
+    },
+    {
+        "id": "M6010_S0100_G0580_300_ysB",
+        "jp": "ああ、行くぞ。宇宙で吐くなよ。",
+        "en": "Um, can you please try not to puke while we're in the deep vacuum of space? It's super gross.",
+        "ru": "Эм, не могла бы ты, пожалуйста, не блевать, пока мы находимся в вакууме? Это крайне не вежливо."
+    }
+]

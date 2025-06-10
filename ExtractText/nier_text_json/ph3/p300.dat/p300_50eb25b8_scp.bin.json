@@ -1,0 +1,38 @@
+[
+    {
+        "id": "M3060_S0255_G0000_001_a9s",
+        "jp": "クッ……",
+        "en": "Ungh...",
+        "ru": "Нгх..."
+    },
+    {
+        "id": "M3060_S0255_G0010_001_pod153",
+        "jp": "警告：汚染機体からの部品移植により運動領域内にウィルスを確認。",
+        "en": "Alert: Virus detected in locomotion region. High probability that infection source is transplanted parts from corrupted units.",
+        "ru": "Внимание: в узле присоединения обнаружен вирус. Высока вероятность заражения ввиду использования частей заражённых единиц."
+    },
+    {
+        "id": "M3060_S0255_G0020_001_pod153",
+        "jp": "推奨：自己ハッキング及びウィルスの除去。",
+        "en": "Proposal: Hack into self and eliminate virus.",
+        "ru": "Предложение: взломайте себя и устраните вирус."
+    },
+    {
+        "id": "M3060_S0255_G0030_001_a9s",
+        "jp": "分かった……",
+        "en": "On it...",
+        "ru": "Понял..."
+    },
+    {
+        "id": "M3060_S0255_G0040_001_pod153",
+        "jp": "ウィルスの除去を確認。",
+        "en": "Virus eliminated.",
+        "ru": "Вирус устранён."
+    },
+    {
+        "id": "M3060_S0255_G0050_001_pod153",
+        "jp": "運動機能が９５％まで回復。",
+        "en": "Ninety-five percent of functionality restored.",
+        "ru": "95% функционала восстановлено."
+    }
+]

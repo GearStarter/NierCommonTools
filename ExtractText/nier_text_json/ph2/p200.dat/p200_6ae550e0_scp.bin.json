@@ -1,0 +1,74 @@
+[
+    {
+        "id": "M1060_S0005_G0000_001_pascal",
+        "jp": "９Ｓさん。どうしたんですか？直接話したいって。",
+        "en": "I was surprised you wished to speak with me personally. Whatever is the matter?",
+        "ru": "Удивлён, что вы захотели поговорить со мной лично. Что стряслось?"
+    },
+    {
+        "id": "M1060_S0005_G0010_001_a9s",
+        "jp": "話すよりも実際の記録を見てもらった方が話が早いな……",
+        "en": "It'll be faster if you just take a look at this recording.",
+        "ru": "Будет быстрее, если ты посмотришь эту запись."
+    },
+    {
+        "id": "M1060_S0005_G0020_001_sele",
+        "jp": "データ転送開始。",
+        "en": "Transfer data.",
+        "ru": "Передать данные."
+    },
+    {
+        "id": "M1060_S0005_G0030_001_sele",
+        "jp": "データ転送しない。",
+        "en": "Don't transfer.",
+        "ru": "Не передавать."
+    },
+    {
+        "id": "M1060_S0005_G0040_001_pascal",
+        "jp": "……なるほど。",
+        "en": "...I see.",
+        "ru": "Ясно..."
+    },
+    {
+        "id": "M1060_S0005_G0050_001_pascal",
+        "jp": "この『Ａ２』というアンドロイドですが、私達の過去記録にもあります。",
+        "en": "Information about this A2 android is indeed contained within our archives.",
+        "ru": "Информация про андроида A2 есть в наших архивах."
+    },
+    {
+        "id": "M1060_S0005_G0060_001_pascal",
+        "jp": "危険なアンドロイドとして認識していますが……",
+        "en": "We all understand her to be rather dangerous.",
+        "ru": "Мы все понимаем, что она очень опасна."
+    },
+    {
+        "id": "M1060_S0005_G0070_001_pascal",
+        "jp": "この村に直接来る事はありませんね。",
+        "en": "However, she's never visited our village in person.",
+        "ru": "Однако она не посещала нашу деревню."
+    },
+    {
+        "id": "M1060_S0005_G0080_001_pascal",
+        "jp": "すみません。私の知っている情報はこのくらいです。",
+        "en": "My apologies. That's all the information I have.",
+        "ru": "Извиняюсь, но это вся информация, которая у меня есть."
+    },
+    {
+        "id": "M1060_S0005_G0090_001_a9s",
+        "jp": "そう……ありがとう。",
+        "en": "I see... All right, thanks.",
+        "ru": "Понял... Ладно, спасибо."
+    },
+    {
+        "id": "M1060_S0005_G0170_001_a2b",
+        "jp": "各地を警戒しつつ、一度レジスタンスキャンプに戻ろう。",
+        "en": "Let's stay sharp and head back to the Resistance camp.",
+        "ru": "Не ослабляй бдительность, давай вернёмся в лагерь Сопротивления."
+    },
+    {
+        "id": "M1060_S0005_G0180_001_a2b",
+        "jp": "自我データのチェックと、補給が必要だから。",
+        "en": "We should run a check on our consciousness data and resupply.",
+        "ru": "Нам нужно проверить данные нашего сознания и пополнить запасы."
+    }
+]

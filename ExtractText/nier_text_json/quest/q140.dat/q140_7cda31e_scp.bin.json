@@ -1,0 +1,566 @@
+[
+    {
+        "id": "M5140_S0030_G0010_300_resiwoman",
+        "jp": "せっかく協力してもらってるのにごめんなさい\\nまたあとで来てください",
+        "en": "I'm sorry, I know you're helping me out, but would you mind coming back later?",
+        "ru": "Простите, я знаю, что вы помогаете мне, но не могли бы вы прийти попозже?"
+    },
+    {
+        "id": "M5140_S0030_G0020_300_resiwoman",
+        "jp": "今は任務に集中しないと……",
+        "en": "I need to focus on my job right now.",
+        "ru": "Сейчас мне нужно сосредоточиться на моей работе."
+    },
+    {
+        "id": "M5140_S0010_G0000_001_resiwoman",
+        "jp": "あ！あなた達はヨルハ最新型……！",
+        "en": "Say, you're the new YoRHa models, aren't you?",
+        "ru": "Эй, вы ведь новые модели YoRHa, не так ли?"
+    },
+    {
+        "id": "M5140_S0010_G0010_001_a9s",
+        "jp": "さ……最新型といえば、そうですが……どうかしたんですか？",
+        "en": "I guess we are the newest, now that you mention it. Did you need something?",
+        "ru": "Полагаю, мы самые новейшие, раз уж вы упомянули это. Вам что-нибудь нужно?"
+    },
+    {
+        "id": "M5140_S0010_G0020_001_resiwoman",
+        "jp": "最新型って事は、強いんですよね……",
+        "en": "I bet new models like you can handle pretty much anything, huh?",
+        "ru": "Я уверена, новые модели, такие как вы, способны на многое, да?"
+    },
+    {
+        "id": "M5140_S0010_G0030_001_resiwoman",
+        "jp": "だったら……ううん、でも……",
+        "en": "You might even be able to... No, no. I shouldn't ask. That would be rude. But yet... *siiigh*",
+        "ru": "Возможно, вы можете даже... Нет-нет. Я не должна спрашивать. Это будет невежливо, но всё же... *вздыхает*"
+    },
+    {
+        "id": "M5140_S0010_G0040_001_sele",
+        "jp": "悩みを聞いてみる。",
+        "en": "Listen to her problem.",
+        "ru": "Выслушать её."
+    },
+    {
+        "id": "M5140_S0010_G0050_001_sele",
+        "jp": "放っておく。",
+        "en": "Ignore the hint.",
+        "ru": "Игнорировать намёк."
+    },
+    {
+        "id": "M5140_S0010_G0060_001_a9s",
+        "jp": "何かあれば言ってもらえれば、相談には乗りますよ？",
+        "en": "Why don't you tell us what's wrong? Maybe we can help out.",
+        "ru": "Почему бы вам не рассказать нам, в чём проблема? Возможно, мы сможем помочь."
+    },
+    {
+        "id": "M5140_S0010_G0070_001_resiwoman",
+        "jp": "は、はい！実は最近、仲間の１人が行方不明なんです。",
+        "en": "Oh! Well, if you insist... It turns out one of my friends has gone missing.",
+        "ru": "О! Ну, если вы настаиваете... Так вышло, что один из моих друзей недавно пропал."
+    },
+    {
+        "id": "M5140_S0010_G0071_001_a9s",
+        "jp": "行方不明とは穏やかじゃないですね。",
+        "en": "Missing? That doesn't sound good.",
+        "ru": "Пропал? Довольно скверно."
+    },
+    {
+        "id": "M5140_S0010_G0072_001_a2b",
+        "jp": "最後に姿が確認できた場所は？",
+        "en": "Where was this friend last seen?",
+        "ru": "Где вы в последний раз видели своего друга?"
+    },
+    {
+        "id": "M5140_S0010_G0073_001_resiwoman",
+        "jp": "資材置き場です。彼はそこで働いていたので……",
+        "en": "At the material storage site where he works.",
+        "ru": "На складе материалов, где он и работает."
+    },
+    {
+        "id": "M5140_S0010_G0074_001_a9s",
+        "jp": "資材置き場か……ちょっと行ってみましょうか。",
+        "en": "The storage site, eh? Maybe we should check it out.",
+        "ru": "Складские площади, да? Возможно, нам стоит проверить их."
+    },
+    {
+        "id": "M5140_S0010_G0075_001_resiwoman",
+        "jp": "お願いします！あの人がいないと、私……お願いします！",
+        "en": "Oh, please, would you? Without him, I... I... Please!",
+        "ru": "Ох, прошу, вы ведь возьмётесь? Без него я... я... Пожалуйста!"
+    },
+    {
+        "id": "M5140_S0010_G0000_300_resiwoman",
+        "jp": "お忙しいとは思うんですが、時間ができたら相談に乗ってください。\\nお願いします。",
+        "en": "I know you're busy, but if you find the time later, I hope you'll reconsider.",
+        "ru": "Знаю, вы заняты, но если у вас найдётся время, надеюсь, вы передумаете."
+    },
+    {
+        "id": "M5140_S0010_G0010_300_resiwoman",
+        "jp": "相談に乗っていただけるんですか？",
+        "en": "Are you willing to hear my story?",
+        "ru": "Не выслушаете ли мою историю?"
+    },
+    {
+        "id": "M5140_S0010_G0020_300_sele",
+        "jp": "相談に乗る",
+        "en": "Listen to her problem.",
+        "ru": "Выслушать её."
+    },
+    {
+        "id": "M5140_S0010_G0030_300_sele",
+        "jp": "放っておく",
+        "en": "Ignore the request.",
+        "ru": "Игнорировать просьбу."
+    },
+    {
+        "id": "M5140_S0020_G0000_300_resiwoman",
+        "jp": "キャンプ奥の資材置き場に、何か手掛かりがあればいいんですが……\\nあの人……どこにいったんだろう……",
+        "en": "I hope you'll find something at the material storage site in the camp. Where could he have gone...?",
+        "ru": "Надеюсь, вы найдёте что-нибудь на складе материалов в лагере. И куда же он мог пойти?.."
+    },
+    {
+        "id": "M5140_S0030_G0000_300_resiwoman",
+        "jp": "これは……座標ですか？\\n砂漠の方みたいですが……一体何の用があってそんなところに？",
+        "en": "Are these...coordinates? It looks like they lead to the desert, but why would he possibly go there?",
+        "ru": "Эти... координаты? Похоже, что они ведут в пустыню, но зачем он мог отправиться туда?"
+    },
+    {
+        "id": "M5140_S0050_G0050_001_resiwoman",
+        "jp": "あ！あの、どうでしたか？あの人は……",
+        "en": "Hey, you're back! So how did it go? Did you find him, or...",
+        "ru": "Эй, с возвращением! Ну и как всё прошло? Вы нашли его, или..."
+    },
+    {
+        "id": "M5140_S0050_G0060_001_sele",
+        "jp": "死亡したと伝える。",
+        "en": "Tell her the truth.",
+        "ru": "Сказать правду."
+    },
+    {
+        "id": "M5140_S0050_G0070_001_sele",
+        "jp": "見つからなかったと伝える。",
+        "en": "Lie and say you couldn't find him.",
+        "ru": "Соврать и сказать, что не смогли найти его."
+    },
+    {
+        "id": "M5140_S0050_G0080_001_a9s",
+        "jp": "僕らが行った時には、もう……死んでいました。",
+        "en": "I'm very sorry, but...your friend is dead.",
+        "ru": "Я очень сожалею, но... Ваш друг мёртв."
+    },
+    {
+        "id": "M5140_S0050_G0090_001_resiwoman",
+        "jp": "え……",
+        "en": "Oh...",
+        "ru": "Ох..."
+    },
+    {
+        "id": "M5140_S0050_G0100_001_a9s",
+        "jp": "機械生命体に仲間を倒されたことを恨んで、復讐に行ったみたいです。",
+        "en": "He was trying to get revenge against the machine that killed his comrades.",
+        "ru": "Он пытался отомстить машине, которая убила его товарищей."
+    },
+    {
+        "id": "M5140_S0050_G0110_001_resiwoman",
+        "jp": "そんな……そんな……！",
+        "en": "No... Oh no...",
+        "ru": "Нет... О, нет..."
+    },
+    {
+        "id": "M5140_S0050_G0120_001_a9s",
+        "jp": "でも、そのまま返り討ちに遭って……",
+        "en": "But he wasn't strong enough, and the machine ended up killing him instead.",
+        "ru": "Но он был недостаточно силён и машина убила его."
+    },
+    {
+        "id": "M5140_S0050_G0130_001_resiwoman",
+        "jp": "……機械生命体ッ……殺す……殺してやる！",
+        "en": "Damn the machines... I'll murder them all!",
+        "ru": "Проклятые машины... Я всех их уничтожу!"
+    },
+    {
+        "id": "M5140_S0050_G0140_001_a9s",
+        "jp": "落ち着いて！その機械生命体は僕達が破壊しました。",
+        "en": "Whoa, easy! It's okay! We took out the one that killed your friend.",
+        "ru": "Воу, полегче! Всё в порядке! Мы позаботились об убийце вашего друга."
+    },
+    {
+        "id": "M5140_S0050_G0150_001_resiwoman",
+        "jp": "……え？",
+        "en": "You did?",
+        "ru": "Вы уничтожили её?"
+    },
+    {
+        "id": "M5140_S0050_G0160_001_a9s",
+        "jp": "だからもう、復讐なんかしなくても大丈夫です。",
+        "en": "Yes, we did. Which means there's no need for anyone else to go seeking revenge.",
+        "ru": "Да, уничтожили. А значит, больше не осталось причин для мести."
+    },
+    {
+        "id": "M5140_S0050_G0170_001_resiwoman",
+        "jp": "じゃあ……じゃあ、私はどうすればいいの？",
+        "en": "But...what do I do now?",
+        "ru": "Но... что же мне теперь делать?"
+    },
+    {
+        "id": "M5140_S0050_G0180_001_resiwoman",
+        "jp": "好きな相手も……殺したい相手もいないなんて……",
+        "en": "I have no one to love... And no one to kill...",
+        "ru": "Мне некого любить... И некого убить..."
+    },
+    {
+        "id": "M5140_S0050_G0190_001_resiwoman",
+        "jp": "私……どうしたら……",
+        "en": "I have nothing.",
+        "ru": "У меня ничего не осталось..."
+    },
+    {
+        "id": "M5140_S0050_G0200_001_a9s",
+        "jp": "そんな……",
+        "en": "That's not...",
+        "ru": "Это не..."
+    },
+    {
+        "id": "M5140_S0050_G0210_001_a2b",
+        "jp": "……行こう、９Ｓ。",
+        "en": "Come on, 9S.",
+        "ru": "Идём, 9S."
+    },
+    {
+        "id": "M5140_S0050_G0220_001_a9s",
+        "jp": "また……来ますね。",
+        "en": "L-Look, we'll come back, okay? We'll come back and check on you.",
+        "ru": "П-послушайте, мы ещё навестим вас, хорошо? Мы вернёмся и навестим вас."
+    },
+    {
+        "id": "M5140_S0050_G0230_001_resiwoman",
+        "jp": "そうですか……",
+        "en": "You didn't? Oh.",
+        "ru": "Не нашли? Ох."
+    },
+    {
+        "id": "M5140_S0050_G0240_001_resiwoman",
+        "jp": "お手数をおかけしました。",
+        "en": "Well, thank you for trying, at least.",
+        "ru": "Ну, спасибо, что хоть попытались."
+    },
+    {
+        "id": "M5140_S0050_G0250_001_resiwoman",
+        "jp": "でも……",
+        "en": "But...",
+        "ru": "Но..."
+    },
+    {
+        "id": "M5140_S0050_G0260_001_resiwoman",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5140_S0050_G0270_001_resiwoman",
+        "jp": "嘘なんでしょう？",
+        "en": "...You're lying, aren't you?",
+        "ru": "...Вы ведь лжёте, не так ли?"
+    },
+    {
+        "id": "M5140_S0050_G0280_001_a9s",
+        "jp": "え！？",
+        "en": "What!?",
+        "ru": "Что?!"
+    },
+    {
+        "id": "M5140_S0050_G0290_001_resiwoman",
+        "jp": "彼は、機械生命体に復讐するって言ってました。",
+        "en": "My friend said he was going to seek revenge against the machines.",
+        "ru": "Мой друг сказал, что собирается отомстить машинам."
+    },
+    {
+        "id": "M5140_S0050_G0300_001_resiwoman",
+        "jp": "だから、きっと……",
+        "en": "So I know that he's...",
+        "ru": "Поэтому я знала, что он..."
+    },
+    {
+        "id": "M5140_S0050_G0310_001_a9s",
+        "jp": "そ、そんな事わからないですよ！",
+        "en": "N-now, hold on! You don't know for sure!",
+        "ru": "Н-ну-ка подождите! Вы ведь не знаете наверняка!"
+    },
+    {
+        "id": "M5140_S0050_G0320_001_resiwoman",
+        "jp": "ふふっ……優しいね。",
+        "en": "That's...nice of you.",
+        "ru": "Как мило... с вашей стороны."
+    },
+    {
+        "id": "M5140_S0050_G0330_001_resiwoman",
+        "jp": "ありがとう。",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M5140_S0050_G0260_001_resiwoman",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5140_S0050_G0340_001_a9s",
+        "jp": "あれ？あの人がいない……",
+        "en": "Huh? She's gone.",
+        "ru": "А? Она ушла."
+    },
+    {
+        "id": "M5140_S0050_G0350_001_resiman",
+        "jp": "ああ、そこにいた子か。しばらく前に出てったよ。",
+        "en": "You looking for the lady who was here? Yeah, she left a while ago.",
+        "ru": "Ищете девушку, которая была здесь? Точно, она уже давненько ушла."
+    },
+    {
+        "id": "M5140_S0050_G0360_001_resiman",
+        "jp": "武器を持って、何か深刻そうな顔をしていたな。",
+        "en": "Seemed pretty upset about something, too. And she was armed to the teeth!",
+        "ru": "Выглядело так, будто она была чем-то очень расстроена. И к тому же она была вооружена до зубов!"
+    },
+    {
+        "id": "M5140_S0050_G0370_001_a9s",
+        "jp": "それって……",
+        "en": "Oh no...",
+        "ru": "О, нет..."
+    },
+    {
+        "id": "M5140_S0050_G0380_001_resiman",
+        "jp": "そういえば、あんたたちに渡しといてくれっていわれてたモノがある。",
+        "en": "Hey, I just remembered she wanted me to give you something. Here...",
+        "ru": "Эй, я как раз вспомнил, она просила меня передать вам кое-что. Вот..."
+    },
+    {
+        "id": "M5140_S0050_G0390_001_a2b",
+        "jp": "こんなに……",
+        "en": "Whoa, all this?",
+        "ru": "Столько всего?"
+    },
+    {
+        "id": "M5140_S0050_G0400_001_resiman",
+        "jp": "もう、要らないんだとさ。",
+        "en": "Yeah, she said she didn't need it anymore.",
+        "ru": "Ага, она сказала, что ей это больше ни к чему."
+    },
+    {
+        "id": "M5140_S0050_G0410_001_resiman",
+        "jp": "女の考える事はよくわからないよ……",
+        "en": "Hey, don't ask me. I don't understand women at all...",
+        "ru": "Эй, не спрашивай меня. Я совсем не понимаю эту девушку..."
+    },
+    {
+        "id": "M5140_S0020_G0000_001_a2b",
+        "jp": "柱に……何か刻まれている。",
+        "en": "Look here. There's something carved in this column.",
+        "ru": "Гляди-ка. На этой колонне что-то вырезано."
+    },
+    {
+        "id": "M5140_S0020_G0010_001_a9s",
+        "jp": "これは、数列ですね。",
+        "en": "Three numbers...",
+        "ru": "Три цифры..."
+    },
+    {
+        "id": "M5140_S0020_G0020_001_a9s",
+        "jp": "３つの数列があるので、何かの座標かもしれません。",
+        "en": "I wonder if it's a set of coordinates?",
+        "ru": "Интересно, уж не координаты ли это?"
+    },
+    {
+        "id": "M5140_S0020_G0030_001_a2b",
+        "jp": "目的地？それとも、何かの隠し場所……？",
+        "en": "Target point, maybe? Or a hidden location?",
+        "ru": "Быть может, некая точка? Или же тайное место?"
+    },
+    {
+        "id": "M5140_S0020_G0040_001_a9s",
+        "jp": "マップにポイントしておきます。",
+        "en": "No way to tell. I'll add 'em to the map regardless.",
+        "ru": "Не могу ничего сказать. Я просто добавлю их на карту."
+    },
+    {
+        "id": "M5140_S0030_G0000_001_a9s",
+        "jp": "レジスタンスキャンプに書かれていた数列を座標に変換すると……",
+        "en": "So if we use those numbers from the Resistance camp as coordinates...",
+        "ru": "Если мы используем те цифры из лагеря Сопротивления в качестве координат..."
+    },
+    {
+        "id": "M5140_S0030_G0010_001_a9s",
+        "jp": "この辺りになるはずなんですが……",
+        "en": "Yeah. We're pretty much standing right on top of whatever they're pointing to.",
+        "ru": "Ага. Мы стоим ровно на том месте, куда они указывают."
+    },
+    {
+        "id": "M5140_S0030_G0020_001_a2b",
+        "jp": "９Ｓ！",
+        "en": "9S!",
+        "ru": "9S!"
+    },
+    {
+        "id": "M5140_S0030_G0030_001_n02",
+        "jp": "……コロス！コロス！コロス！",
+        "en": "KILL! KILL! KILL!",
+        "ru": "УБИТЬ! УБИТЬ! УБИТЬ!"
+    },
+    {
+        "id": "M5140_S0030_G0040_001_n02",
+        "jp": "カタキ……コロス……",
+        "en": "AVENGE... KILL...",
+        "ru": "ОТОМСТИТЬ... УБИТЬ..."
+    },
+    {
+        "id": "M5140_S0030_G0050_001_n02",
+        "jp": "ジャマ……スル、ヤツ……ミンナ……",
+        "en": "KILL ALL...WHO STAND IN...OUR WAY...",
+        "ru": "УБИТЬ ВСЕХ... КТО ВСТАНЕТ... У НАС НА ПУТИ..."
+    },
+    {
+        "id": "M5140_S0030_G0060_001_n02",
+        "jp": "アンドロイド……ユルサナイ……",
+        "en": "ANDROIDS...WILL PAY...",
+        "ru": "АНДРОИДЫ... ЗАПЛАТЯТ..."
+    },
+    {
+        "id": "M5140_S0030_G0070_001_n02",
+        "jp": "ミンナ、ミンナ、ミンナミンナミンナ",
+        "en": "ALL OF YOU YOU YOU YOU YOU...",
+        "ru": "ВСЕХ ВАС, ВАС, ВАС, ВАС, ВАС..."
+    },
+    {
+        "id": "M5140_S0030_G0080_001_n02",
+        "jp": "ミンミンミンコロコロコロコロコロコロ、",
+        "en": "KILL. ALL KILL. ALL OF YOU KILL KILL KILL KILL KILL...",
+        "ru": "УБИТЬ. ВСЕХ УБИТЬ. ВСЕХ ВАС УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ..."
+    },
+    {
+        "id": "M5140_S0030_G0090_001_n02",
+        "jp": "コ　ロ　ス！！！",
+        "en": "KIIIIIIIIIIIIIIIL!",
+        "ru": "УБИ-И-И-ИТЬ!"
+    },
+    {
+        "id": "M5140_S0040_G0000_001_a2b",
+        "jp": "ポッド、この機械生命体の解析を。",
+        "en": "Pod, analyze this machine.",
+        "ru": "Бот, проанализируй эту машину."
+    },
+    {
+        "id": "M5140_S0040_G0010_001_a9s",
+        "jp": "え？どうしてですか？",
+        "en": "Huh? What for?",
+        "ru": "А? Но зачем?"
+    },
+    {
+        "id": "M5140_S0040_G0020_001_a2b",
+        "jp": "ちょっと気になる事を言ってたから……",
+        "en": "Call it professional curiosity.",
+        "ru": "Назовём это профессиональным любопытством."
+    },
+    {
+        "id": "M5140_S0040_G0030_001_pod042",
+        "jp": "解析完了：当該機械生命体は仲間を破壊されている。",
+        "en": "Analysis: This machine lifeform's comrades were destroyed.",
+        "ru": "Анализ: товарищи этой машины были уничтожены."
+    },
+    {
+        "id": "M5140_S0040_G0040_001_pod042",
+        "jp": "その怨恨を理由に、レジスタンスの男性をここに呼び出し",
+        "en": "Driven by that grudge, it lured a Resistance member to this location.",
+        "ru": "Движимая злобой, она заманила члена Сопротивления в это место."
+    },
+    {
+        "id": "M5140_S0040_G0050_001_pod042",
+        "jp": "最終的に、破壊した模様。",
+        "en": "It then proceeded to destroy him.",
+        "ru": "А затем уничтожила его."
+    },
+    {
+        "id": "M5140_S0040_G0060_001_a2b",
+        "jp": "機械生命体が……復讐した？",
+        "en": "Are you saying this thing wanted revenge?",
+        "ru": "Хочешь сказать, эта штуковина хочет мести?"
+    },
+    {
+        "id": "M5140_S0040_G0070_001_a9s",
+        "jp": "そんな複雑な概念を持っているなんて、ちょっと考えづらいですが……",
+        "en": "Aw, come on, now. That concept is far too complex for a machine!",
+        "ru": "О, да ну брось. Это понятие слишком сложное для машины!"
+    },
+    {
+        "id": "M5140_S0040_G0080_001_a9s",
+        "jp": "この遺体は……レジスタンスキャンプで依頼された探し人でしょうか？",
+        "en": "This corpse... I wonder if it's the Resistance member we're looking for.",
+        "ru": "Этот труп... Уж не тот ли это член Сопротивления, которого мы ищем."
+    },
+    {
+        "id": "M5140_S0040_G0090_001_a9s",
+        "jp": "メモリを調べてみましょう。",
+        "en": "Let's check his memory.",
+        "ru": "Давай проверим его память."
+    },
+    {
+        "id": "M5140_S0040_G0100_001_a9s",
+        "jp": "この人も、復讐の為にここに来たんですね。",
+        "en": "Seems this one came here looking for revenge as well.",
+        "ru": "По-видимому, он тоже пришёл сюда с целью отомстить."
+    },
+    {
+        "id": "M5140_S0040_G0110_001_a2b",
+        "jp": "……そして、弱い方が殺された。",
+        "en": "I guess the weaker one lost.",
+        "ru": "И, полагаю, слабейший из них потерпел неудачу."
+    },
+    {
+        "id": "M5140_S0040_G0120_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5140_S0050_G0000_001_a9s",
+        "jp": "今回の件……",
+        "en": "I really hate this.",
+        "ru": "Я действительно ненавижу это."
+    },
+    {
+        "id": "M5140_S0050_G0010_001_a9s",
+        "jp": "依頼人の女性に報告するの、気が重いですね。",
+        "en": "I'm going to feel terrible telling that woman what happened to her friend.",
+        "ru": "Я буду чувствовать себя ужасно, рассказывая той женщине о том, что случилось с её другом."
+    },
+    {
+        "id": "M5140_S0050_G0020_001_a2b",
+        "jp": "真実を知ったからには、言わないと。",
+        "en": "It's the truth. She has to know.",
+        "ru": "Такова правда. Она должна узнать."
+    },
+    {
+        "id": "M5140_S0050_G0030_001_a9s",
+        "jp": "それが、どんな真実でも？",
+        "en": "No matter what that truth actually is?",
+        "ru": "Не взирая на то, какова эта правда?"
+    },
+    {
+        "id": "M5140_S0050_G0040_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5140_S0020_G0050_300_a2b",
+        "jp": "開かないな……",
+        "en": "It won't open...",
+        "ru": "Не открывается..."
+    },
+    {
+        "id": "M5140_S0020_G0060_300_a9s",
+        "jp": "開かないな……",
+        "en": "It won't open...",
+        "ru": "Не открывается..."
+    }
+]

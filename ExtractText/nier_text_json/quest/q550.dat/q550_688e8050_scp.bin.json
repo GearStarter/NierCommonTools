@@ -1,0 +1,524 @@
+[
+    {
+        "id": "M5550_S0010_G0020_001_ys",
+        "jp": "君は……ヨルハ機！？生き残ってたのか。",
+        "en": "You... You're a YoRHa unit! Then some of you survived?",
+        "ru": "Ты... Ты из YoRHa! Значит, кто-то из вас выжил?"
+    },
+    {
+        "id": "M5550_S0010_G0030_001_a9s",
+        "jp": "……ええ。僕は９Ｓ。",
+        "en": "Yeah. I'm 9S, by the way.",
+        "ru": "Да. Кстати, я 9S."
+    },
+    {
+        "id": "M5550_S0010_G0031_001_ys",
+        "jp": "聞いた事がある……たしかナインズって呼ばれてるモデルだよね？",
+        "en": "Oh yeah, I've heard of you... You're the model people used to call \"Nines\", right?",
+        "ru": "О да, я слышал о тебе... Это ведь тебя обычно называют Девятым, верно?"
+    },
+    {
+        "id": "M5550_S0010_G0032_001_a9s",
+        "jp": "はい。",
+        "en": "Yeah.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5550_S0010_G0040_001_ys",
+        "jp": "よく生き延びたな……僕は４Ｓ。",
+        "en": "I'm 4S. It's impressive that you're still alive, 9S.",
+        "ru": "Я 4S. Удивительно, что ты ещё жив, 9S."
+    },
+    {
+        "id": "M5550_S0010_G0050_001_a9s",
+        "jp": "……４号型は初期投入されたモデルですね。",
+        "en": "You're a Type-4 model, eh? You guys were deployed pretty early on if I remember correctly.",
+        "ru": "Так значит ты 4-й? Ты высадился сюда уже довольно давно, если я правильно помню."
+    },
+    {
+        "id": "M5550_S0010_G0060_001_4s",
+        "jp": "スキャナーモデルに会えるとは思わなかったな……",
+        "en": "I sure wasn't expecting to run into another Scanner model.",
+        "ru": "Я был уверен, что не встречу других моделей типа Сканер."
+    },
+    {
+        "id": "M5550_S0010_G0070_001_4s",
+        "jp": "バンカーがあんな事になっちゃったから。",
+        "en": "Not after what happened to the Bunker...",
+        "ru": "После того, что случилось с Бункером..."
+    },
+    {
+        "id": "M5550_S0010_G0080_001_a9s",
+        "jp": "……ここで、何をしてるんですか？",
+        "en": "So what are you doing here?",
+        "ru": "Так что ты здесь делаешь?"
+    },
+    {
+        "id": "M5550_S0010_G0090_001_4s",
+        "jp": "敵についての情報収集をしているんだよ。",
+        "en": "Gathering intel on the enemy.",
+        "ru": "Собираю данные о противнике."
+    },
+    {
+        "id": "M5550_S0010_G0100_001_4s",
+        "jp": "ヨルハ部隊は壊滅しちゃったけど、まだレジスタンスは\\n生き残っているからね。",
+        "en": "YoRHa might be a thing of the past, but the Resistance is still around.",
+        "ru": "Может YoRHa уже в прошлом, но Сопротивление ещё действует."
+    },
+    {
+        "id": "M5550_S0010_G0110_001_4s",
+        "jp": "このボディが動くうちは、誰かの役に立ちたくてね……",
+        "en": "So as long as my body works, I figure I should make myself useful.",
+        "ru": "Пока моё тело работает, я полагаю, что должен приносить пользу."
+    },
+    {
+        "id": "M5550_S0010_G0120_001_4s",
+        "jp": "もし、敵の個体情報を持っていたら教えてくれないか？\\n一人じゃ情報収集にも限界があるから。",
+        "en": "If you have any information about local enemies, can you share it with me? There's only so much I can do on my own.",
+        "ru": "Если у тебя есть информация о местных врагах, можешь поделиться ей со мной? Это единственное, на что я способен."
+    },
+    {
+        "id": "M5550_S0010_G0130_001_a9s",
+        "jp": "……いいですよ。いま手持ちのデータを渡します。",
+        "en": "Sure. I'll give you everything I have at the moment.",
+        "ru": "Конечно. Я передам тебе всё, что у меня есть на данный момент."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0010_G0140_001_4s",
+        "jp": "ありがとう。",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M5550_S0010_G0150_001_4s",
+        "jp": "もし、新しいエネミーデータを入手したら言ってくれ。\\nお互い情報共有しよう。",
+        "en": "If you obtain further enemy data, please let me know. It's important for us to share what we have.",
+        "ru": "Если ты в дальнейшем получишь информацию о врагах, прошу, сообщи её мне. Обмен информацией будет полезен нам обоим."
+    },
+    {
+        "id": "M5550_S0010_G0160_001_4s",
+        "jp": "新しい敵と遭遇したら、情報を教えて欲しい。",
+        "en": "If you run into any new enemies, I'd very much like to look over your data.",
+        "ru": "Если ты столкнёшься с новыми врагами, то я буду очень рад взглянуть на их данные."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0010_G0170_001_4s",
+        "jp": "お、新しい敵データか。ありがとう。",
+        "en": "New enemy data, is it? Thank you.",
+        "ru": "Новые данные о врагах? Спасибо."
+    },
+    {
+        "id": "M5550_S0010_G0180_001_4s",
+        "jp": "何度も来るのは面倒だろうから、一定数記録が溜まってからで\\n構わないよ。",
+        "en": "Oh, and there's no need to come all the way here every time you find a new enemy. Just swing by when you've collected a decent amount of data.",
+        "ru": "О, и не обязательно приходить сюда каждый раз, когда найдёшь нового врага. Возвращайся, когда соберёшь приличное количество данных."
+    },
+    {
+        "id": "M5550_S0020_G0030_001_4s",
+        "jp": "エネミーデータを集めてきてくれたんだね。ありがとう。",
+        "en": "More enemy data, eh? I appreciate it.",
+        "ru": "Ещё данные о врагах? Я признателен за это."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0020_G0040_001_4s",
+        "jp": "うん……そうか……うん……",
+        "en": "Hmm... Interesting...",
+        "ru": "Хм... Интересно..."
+    },
+    {
+        "id": "M5550_S0020_G0050_001_4s",
+        "jp": "ボクの収集したデータと照らし合わせてみたんだけど、やっぱり最近になってロボット達に個体差が出始めているね。",
+        "en": "Comparing your data with mine reveals a number of individual differences between machines of late.",
+        "ru": "Сравнение наших данных показывает большое количество индивидуальных отличий между машинами."
+    },
+    {
+        "id": "M5550_S0020_G0060_001_4s",
+        "jp": "個体差は地域ごとに違うようだ。その環境に左右されるというか……\\n不思議だな。ロボットなのに。",
+        "en": "It looks like different regions have their own specialized machines. Almost like the environment is affecting them somehow. But of course that's absurd...",
+        "ru": "Похоже, в машины имеют подходящую для их регионов специализацию. Будто бы они приспосабливаются к окружению. Но, конечно, это абсурд..."
+    },
+    {
+        "id": "M5550_S0020_G0070_001_4s",
+        "jp": "あ、お礼をしなくちゃだね。これ、もらってくれよ。",
+        "en": "Oh, right. I should pay you for your trouble. Please take this.",
+        "ru": "О, точно. Я должен отплатить тебе за твои старания. Пожалуйста, возьми это."
+    },
+    {
+        "id": "M5550_S0020_G0080_001_4s",
+        "jp": "そういえば……僕も、ナインズって呼んでもいいかな？他の人と同じように。",
+        "en": "Hey, by the way, would you mind if I called you \"Nines\" too, just like everyone else?",
+        "ru": "Эй, кстати, что думаешь, если я тоже буду называть тебя Девятым, как и все остальные?"
+    },
+    {
+        "id": "M5550_S0020_G0090_001_a9s",
+        "jp": "いいですよ。そう呼ぶ人は、もう他にはいませんが……",
+        "en": "Go ahead. Nobody calls me that anymore though.",
+        "ru": "Давай. Хотя, никто меня так больше не называет."
+    },
+    {
+        "id": "M5550_S0020_G0100_001_4s",
+        "jp": "そっか……悪いことを聞いたな。",
+        "en": "Sore subject, is it? Sorry.",
+        "ru": "Это больная тема? Прости."
+    },
+    {
+        "id": "M5550_S0030_G0020_001_4s",
+        "jp": "エネミーデータを集めてきてくれたんだね。ありがとう。",
+        "en": "More enemy data, eh? I appreciate it.",
+        "ru": "Ещё данные о врагах? Я признателен за это."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0030_G0030_001_4s",
+        "jp": "一人での情報収集には限界があるからね。",
+        "en": "I try my best, but I just can't cover all this ground on my own.",
+        "ru": "Я стараюсь, но я не могу охватить всю местность в одиночку."
+    },
+    {
+        "id": "M5550_S0030_G0040_001_4s",
+        "jp": "だから、ナインズの協力は本当に助かるんだ。ありがとう。",
+        "en": "Thanks again, Nines. You're really helping out here.",
+        "ru": "Ещё раз спасибо, Девятый. Ты действительно очень меня выручаешь."
+    },
+    {
+        "id": "M5550_S0030_G0045_001_4s",
+        "jp": "じゃあ、これがお礼だから。",
+        "en": "Here's something for your trouble.",
+        "ru": "Вот, кое-что за твои старания."
+    },
+    {
+        "id": "M5550_S0030_G0050_001_4s",
+        "jp": "またエネミーデータが蓄積されたら報告を頼むよ。",
+        "en": "Let me know if you find any more data, all right?",
+        "ru": "Дай мне знать, если найдёшь ещё какие-то данные, хорошо?"
+    },
+    {
+        "id": "M5550_S0040_G0020_001_4s",
+        "jp": "エネミーデータを集めてきてくれたんだね。ありがとう。",
+        "en": "More enemy data, eh? I appreciate it.",
+        "ru": "Ещё данные о врагах? Я признателен за это."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0040_G0030_001_4s",
+        "jp": "ああ、この敵……前に仲間と一緒に戦ったヤツのデータも入ってる。",
+        "en": "Hmm... I recognize a few of the enemies in this data. My team fought some of them a while back.",
+        "ru": "Хмм... Я узнаю нескольких врагов из этих данных. Недавно моя группа сражалась с такими."
+    },
+    {
+        "id": "M5550_S0040_G0040_001_4s",
+        "jp": "昔はさ、ボクにも大勢の仲間がいたんだ。\\nでもあのウィルス汚染でやられた。",
+        "en": "I used to have a big team...until the virus corrupted them all.",
+        "ru": "У меня был большой отряд... пока их всех не поразил вирус."
+    },
+    {
+        "id": "M5550_S0040_G0050_001_4s",
+        "jp": "直前の戦闘で負傷し、休眠状態だったボクは無事だったけど……",
+        "en": "I was wounded in the battle before the virus attack, so I was in dormant mode when it was unleashed. That's how I survived.",
+        "ru": "Я был ранен в бою и поэтому находился в спящем режиме, когда произошла вирусная атака. Таким образом, я выжил."
+    },
+    {
+        "id": "M5550_S0040_G0060_001_4s",
+        "jp": "もう、仲間は誰もいないな。",
+        "en": "But now I'm all alone...",
+        "ru": "Но теперь я совсем один..."
+    },
+    {
+        "id": "M5550_S0040_G0070_001_4s",
+        "jp": "……ごめん。変な話をしちゃったね。データありがとう、ナインズ。",
+        "en": "Er, sorry. I'm rambling. Thanks again for the data, Nines.",
+        "ru": "Эм, прости. Я отвлёкся. Спасибо ещё раз, Девятый."
+    },
+    {
+        "id": "M5550_S0030_G0045_001_4s",
+        "jp": "じゃあ、これがお礼だから。",
+        "en": "Here's something for your trouble.",
+        "ru": "Вот, кое-что за твои старания."
+    },
+    {
+        "id": "M5550_S0040_G0080_001_4s",
+        "jp": "またエネミーデータが蓄積されたら報告を頼むよ。",
+        "en": "Let me know if you find anything else.",
+        "ru": "Дай мне знать, если ты найдёшь что-нибудь ещё."
+    },
+    {
+        "id": "M5550_S0050_G0020_001_4s",
+        "jp": "エネミーデータを集めてきてくれたんだね。",
+        "en": "More enemy data, eh? I appreciate it.",
+        "ru": "Ещё данные о врагах? Я признателен за это."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0050_G0030_001_4s",
+        "jp": "キミのお陰で、予定よりも６０％も早く収集できたよ。\\nやっぱり同型は頼りになるな。",
+        "en": "It's great having another Scanner helping me out. Thanks to you, I've gathered the data 60 percent faster than I'd planned.",
+        "ru": "Я рад, что другая модель типа S помогает мне. Благодаря тебе, я собрал данные на 60% быстрее, чем планировал."
+    },
+    {
+        "id": "M5550_S0050_G0040_001_4s",
+        "jp": "……いつまでこんな事続けるんだろうね。",
+        "en": "...I wonder how long we'll be doing this.",
+        "ru": "Интересно, как долго мы будем это делать."
+    },
+    {
+        "id": "M5550_S0050_G0050_001_4s",
+        "jp": "ボク達ヨルハ部隊に帰る場所は、もう無いのに……",
+        "en": "It's not like we YoRHa androids have a home to return to.",
+        "ru": "Зачем это нам, андроидам YoRHa, у которых нет дома, куда можно было бы вернуться."
+    },
+    {
+        "id": "M5550_S0050_G0060_001_a9s",
+        "jp": "……僕達だって、やれることはまだある筈です。情報収集は立派な\\n戦闘支援ですから。",
+        "en": "Yeah, but gathering intelligence is still important. It's a huge support for the war effort.",
+        "ru": "Да, но сбор разведданных всё ещё важен. Это огромная поддержка для военных сил."
+    },
+    {
+        "id": "M5550_S0050_G0070_001_4s",
+        "jp": "わかってる。そんな事、わかってるよ！！",
+        "en": "I KNOW THAT!",
+        "ru": "Я ЗНАЮ ЭТО!"
+    },
+    {
+        "id": "M5550_S0050_G0080_001_4s",
+        "jp": "……ごめん。ナインズに言っても仕方のない事だったね。",
+        "en": "...Sorry, Nines. I didn't mean to yell at you.",
+        "ru": "...Прости, Девятый. Я не хотел кричать на тебя."
+    },
+    {
+        "id": "M5550_S0050_G0090_001_4s",
+        "jp": "これでエネミーデータ収集の目標はクリアした。\\n協力してくれて本当にありがとう。",
+        "en": "Anyway, this chunk of data you brought means I've finally hit my goal.",
+        "ru": "В любом случае, эта часть данных, которые ты принёс, означает, что я, наконец, достиг своей цели."
+    },
+    {
+        "id": "M5550_S0050_G0100_001_4s",
+        "jp": "これ、仲間のものなんだけど、もらってくれるかな？\\nキミに使ってもらえるなら、みんなも嬉しいと思うんだ。",
+        "en": "I'd like you to have this. It belonged to an old friend, but I think he'd be happy to know that you're using it.",
+        "ru": "Я хочу, чтобы ты взял это. Оно принадлежало моему старому другу, но я думаю, он был бы рад, зная, что ты это используешь."
+    },
+    {
+        "id": "M5550_S0050_G0110_001_4s",
+        "jp": "じゃあね、キミは……ナインズは、決して後悔しないでくれ。",
+        "en": "See you around, Nines. And remember: No regrets, okay?",
+        "ru": "Увидимся, Девятый. И помни: без сожалений, хорошо?"
+    },
+    {
+        "id": "M5550_S0050_G0120_001_4s",
+        "jp": "これからどうするか考えないとね。",
+        "en": "We need to think about what we're going to do from this point forward.",
+        "ru": "Нам нужно подумать о том, что мы будем делать после всего этого."
+    },
+    {
+        "id": "M5550_S0050_G0130_001_4s",
+        "jp": "……これまで、ありがとう。",
+        "en": "Thanks for everything.",
+        "ru": "Спасибо за всё."
+    },
+    {
+        "id": "M5550_S0050_G0130_001_4s",
+        "jp": "……これまで、ありがとう。",
+        "en": "Thanks for everything.",
+        "ru": "Спасибо за всё."
+    },
+    {
+        "id": "M5550_S0010_G0000_001_ys",
+        "jp": "君は……旧型のヨルハ機体……",
+        "en": "You... You're an older YoRHa model.",
+        "ru": "Ты... Ты старая модель YoRHa."
+    },
+    {
+        "id": "M5550_S0010_G0010_001_ys",
+        "jp": "まあ、どうでもいいか……",
+        "en": "Not that it matters.",
+        "ru": "Не имеет значения."
+    },
+    {
+        "id": "M5550_S0010_G0020_001_ys",
+        "jp": "君は……ヨルハ機！？生き残ってたのか。",
+        "en": "You... You're a YoRHa unit! Then some of you survived?",
+        "ru": "Ты... Ты из YoRHa! Значит, кто-то из вас выжил?"
+    },
+    {
+        "id": "M5550_S0010_G0030_001_a9s",
+        "jp": "……ええ。僕は９Ｓ。",
+        "en": "Yeah. I'm 9S, by the way.",
+        "ru": "Да. Кстати, я 9S."
+    },
+    {
+        "id": "M5550_S0010_G0031_001_ys",
+        "jp": "聞いた事がある……たしかナインズって呼ばれてるモデルだよね？",
+        "en": "Oh yeah, I've heard of you... You're the model people used to call \"Nines\", right?",
+        "ru": "О да, я слышал о тебе... Это ведь тебя обычно называют Девятым, верно?"
+    },
+    {
+        "id": "M5550_S0010_G0032_001_a9s",
+        "jp": "はい。",
+        "en": "Yeah.",
+        "ru": "Да."
+    },
+    {
+        "id": "M5550_S0010_G0040_001_ys",
+        "jp": "よく生き延びたな……僕は４Ｓ。",
+        "en": "I'm 4S. It's impressive that you're still alive, 9S.",
+        "ru": "Я 4S. Удивительно, что ты ещё жив, 9S."
+    },
+    {
+        "id": "M5550_S0010_G0050_001_a9s",
+        "jp": "……４号型は初期投入されたモデルですね。",
+        "en": "You're a Type-4 model, eh? You guys were deployed pretty early on if I remember correctly.",
+        "ru": "Так значит ты 4-й? Ты высадился сюда уже довольно давно, если я правильно помню."
+    },
+    {
+        "id": "M5550_S0010_G0060_001_4s",
+        "jp": "スキャナーモデルに会えるとは思わなかったな……",
+        "en": "I sure wasn't expecting to run into another Scanner model.",
+        "ru": "Я был уверен, что не встречу других моделей типа Сканер."
+    },
+    {
+        "id": "M5550_S0010_G0070_001_4s",
+        "jp": "バンカーがあんな事になっちゃったから。",
+        "en": "Not after what happened to the Bunker...",
+        "ru": "После того, что случилось с Бункером..."
+    },
+    {
+        "id": "M5550_S0010_G0080_001_a9s",
+        "jp": "……ここで、何をしてるんですか？",
+        "en": "So what are you doing here?",
+        "ru": "Так что ты здесь делаешь?"
+    },
+    {
+        "id": "M5550_S0010_G0090_001_4s",
+        "jp": "敵についての情報収集をしているんだよ。",
+        "en": "Gathering intel on the enemy.",
+        "ru": "Собираю данные о противнике."
+    },
+    {
+        "id": "M5550_S0010_G0100_001_4s",
+        "jp": "ヨルハ部隊は壊滅しちゃったけど、まだレジスタンスは\\n生き残っているからね。",
+        "en": "YoRHa might be a thing of the past, but the Resistance is still around.",
+        "ru": "Может YoRHa уже в прошлом, но Сопротивление ещё действует."
+    },
+    {
+        "id": "M5550_S0010_G0110_001_4s",
+        "jp": "このボディが動くうちは、誰かの役に立ちたくてね……",
+        "en": "So as long as my body works, I figure I should make myself useful.",
+        "ru": "Пока моё тело работает, я полагаю, что должен приносить пользу."
+    },
+    {
+        "id": "M5550_S0010_G0120_001_4s",
+        "jp": "もし、敵の個体情報を持っていたら教えてくれないか？\\n一人じゃ情報収集にも限界があるから。",
+        "en": "If you have any information about local enemies, can you share it with me? There's only so much I can do on my own.",
+        "ru": "Если у тебя есть информация о местных врагах, можешь поделиться ей со мной? Это единственное, на что я способен."
+    },
+    {
+        "id": "M5550_S0010_G0130_001_a9s",
+        "jp": "……いいですよ。いま手持ちのデータを渡します。",
+        "en": "Sure. I'll give you everything I have at the moment.",
+        "ru": "Конечно. Я передам тебе всё, что у меня есть на данный момент."
+    },
+    {
+        "id": "M5550_S0010_G0135_001_telo",
+        "jp": "エネミーデータを渡した。",
+        "en": "You handed over the enemy data.",
+        "ru": "Вы передали информацию о врагах."
+    },
+    {
+        "id": "M5550_S0010_G0140_001_4s",
+        "jp": "ありがとう。",
+        "en": "Thank you.",
+        "ru": "Спасибо."
+    },
+    {
+        "id": "M5550_S0050_G0040_001_4s",
+        "jp": "……いつまでこんな事続けるんだろうね。",
+        "en": "...I wonder how long we'll be doing this.",
+        "ru": "Интересно, как долго мы будем это делать."
+    },
+    {
+        "id": "M5550_S0050_G0050_001_4s",
+        "jp": "ボク達ヨルハ部隊に帰る場所は、もう無いのに……",
+        "en": "It's not like we YoRHa androids have a home to return to.",
+        "ru": "Зачем это нам, андроидам YoRHa, у которых нет дома, куда можно было бы вернуться."
+    },
+    {
+        "id": "M5550_S0050_G0060_001_a9s",
+        "jp": "……僕達だって、やれることはまだある筈です。情報収集は立派な\\n戦闘支援ですから。",
+        "en": "Yeah, but gathering intelligence is still important. It's a huge support for the war effort.",
+        "ru": "Да, но сбор разведданных всё ещё важен. Это огромная поддержка для военных сил."
+    },
+    {
+        "id": "M5550_S0050_G0070_001_4s",
+        "jp": "わかってる。そんな事、わかってるよ！！",
+        "en": "I KNOW THAT!",
+        "ru": "Я ЗНАЮ ЭТО!"
+    },
+    {
+        "id": "M5550_S0050_G0080_001_4s",
+        "jp": "……ごめん。ナインズに言っても仕方のない事だったね。",
+        "en": "...Sorry, Nines. I didn't mean to yell at you.",
+        "ru": "...Прости, Девятый. Я не хотел кричать на тебя."
+    },
+    {
+        "id": "M5550_S0050_G0090_001_4s",
+        "jp": "これでエネミーデータ収集の目標はクリアした。\\n協力してくれて本当にありがとう。",
+        "en": "Anyway, this chunk of data you brought means I've finally hit my goal.",
+        "ru": "В любом случае, эта часть данных, которые ты принёс, означает, что я, наконец, достиг своей цели."
+    },
+    {
+        "id": "M5550_S0050_G0100_001_4s",
+        "jp": "これ、仲間のものなんだけど、もらってくれるかな？\\nキミに使ってもらえるなら、みんなも嬉しいと思うんだ。",
+        "en": "I'd like you to have this. It belonged to an old friend, but I think he'd be happy to know that you're using it.",
+        "ru": "Я хочу, чтобы ты взял это. Оно принадлежало моему старому другу, но я думаю, он был бы рад, зная, что ты это используешь."
+    },
+    {
+        "id": "M5550_S0050_G0110_001_4s",
+        "jp": "じゃあね、キミは……ナインズは、決して後悔しないでくれ。",
+        "en": "See you around, Nines. And remember: No regrets, okay?",
+        "ru": "Увидимся, Девятый. И помни: без сожалений, хорошо?"
+    },
+    {
+        "id": "M5550_S0050_G0120_001_4s",
+        "jp": "これからどうするか考えないとね。",
+        "en": "We need to think about what we're going to do from this point forward.",
+        "ru": "Нам нужно подумать о том, что мы будем делать после всего этого."
+    },
+    {
+        "id": "M5550_S0050_G0130_001_4s",
+        "jp": "……これまで、ありがとう。",
+        "en": "Thanks for everything.",
+        "ru": "Спасибо за всё."
+    }
+]

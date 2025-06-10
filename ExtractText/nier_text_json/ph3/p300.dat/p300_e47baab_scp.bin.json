@@ -1,0 +1,98 @@
+[
+    {
+        "id": "M3005_S1010_S0000_001_telo",
+        "jp": "２週間後……",
+        "en": "Two Weeks Later...",
+        "ru": "Две недели спустя..."
+    },
+    {
+        "id": "M3005_S1010_S0010_001_pod042",
+        "jp": "状況を共有する。",
+        "en": "Data exchange engaged.",
+        "ru": "Задействован обмен данными."
+    },
+    {
+        "id": "M3005_S1010_S0020_001_pod042",
+        "jp": "ヨルハ機体、２Ｂのブラックボックス信号は途絶。",
+        "en": "Black-box signal for YoRHa unit 2B offline.",
+        "ru": "Чёрный ящик единицы YoRHa 2B не активен."
+    },
+    {
+        "id": "M3005_S1010_S0030_001_pod042",
+        "jp": "死亡を確認。",
+        "en": "Death confirmed.",
+        "ru": "Смерть подтверждена."
+    },
+    {
+        "id": "M3005_S1010_S0040_001_pod153",
+        "jp": "ヨルハ機体、９Ｓは本日、破損部分の復元修復が完了。",
+        "en": "YoRHa unit 9S has completed repair and reconstruction of all damaged areas.",
+        "ru": "Единица YoRHa 9S прошёл ремонт и восстановление повреждённых секторов."
+    },
+    {
+        "id": "M3005_S1010_S0050_001_pod153",
+        "jp": "再起動可能状態にある。",
+        "en": "Unit is ready for reactivation.",
+        "ru": "Единица готова к перезапуску."
+    },
+    {
+        "id": "M3005_S1010_S0060_001_pod042",
+        "jp": "ヨルハ機体、Ａ２も再起動予定。",
+        "en": "YoRHa unit A2 also ready for reactivation.",
+        "ru": "Единица YoRHa A2 тоже готова к перезапуску."
+    },
+    {
+        "id": "M3005_S1010_S0070_001_pod153",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M3005_S1010_S0080_001_pod153",
+        "jp": "提案：ライトの点灯。",
+        "en": "Proposal: Illuminate surrounding area.",
+        "ru": "Предложение: включите освещение."
+    },
+    {
+        "id": "M3005_S1010_S0090_001_pod042",
+        "jp": "確認：Ａ２及び９Ｓ機体の安全の確保。",
+        "en": "Analysis: Units 9S and A2 are safe.",
+        "ru": "Анализ: единицы 9S и A2 в безопасности."
+    },
+    {
+        "id": "M3005_S1010_S0100_001_pod153",
+        "jp": "問題ない。",
+        "en": "No problems detected.",
+        "ru": "Проблем не выявлено."
+    },
+    {
+        "id": "M3005_S1010_S0110_001_pod042",
+        "jp": "ならば、残りの課題は一つ。",
+        "en": "Only one issue remains.",
+        "ru": "Остался последний вопрос."
+    },
+    {
+        "id": "M3005_S1010_S0120_001_pod042",
+        "jp": "我々はヨルハ支援システム。",
+        "en": "We comprise the YoRHa support system.",
+        "ru": "Мы относимся к системе поддержки YoRHa."
+    },
+    {
+        "id": "M3005_S1010_S0130_001_pod042",
+        "jp": "Ａ２及び、９Ｓの機体が稼働するなら随行支援する義務が存在する。",
+        "en": "If the A2 and 9S units are operational, we are required to attend and support.",
+        "ru": "Если единицы A2 и 9S функционируют, мы обязаны присутствовать и оказывать поддержку."
+    },
+    {
+        "id": "M3005_S1010_S0140_001_pod153",
+        "jp": "同意。",
+        "en": "Agreed.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M3005_S1010_S0150_001_pod042",
+        "jp": "Ａ２及び、９Ｓの位置を表示。",
+        "en": "Displaying positions of units A2 and 9S.",
+        "ru": "Вывожу отображение позиций единиц A2 и 9S."
+    }
+]

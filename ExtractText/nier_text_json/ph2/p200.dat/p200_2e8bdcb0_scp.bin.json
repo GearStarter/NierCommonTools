@@ -1,0 +1,122 @@
+[
+    {
+        "id": "M1040_S0545_S0000_001_cmd",
+        "jp": "司令部より全ヨルハ部隊へ。",
+        "en": "YoRHa, this is your Commander.",
+        "ru": "YoRHa, на связи Командор."
+    },
+    {
+        "id": "M1040_S0545_S0010_001_cmd",
+        "jp": "数百年もの間発見されなかったエイリアン達の反応を確認した。",
+        "en": "For the first time in centuries, we've intercepted a signal belonging to the aliens.",
+        "ru": "Впервые за столетия мы перехватили сигнал, который принадлежит пришельцам."
+    },
+    {
+        "id": "M1040_S0545_S0020_001_cmd",
+        "jp": "知っていると思うが、エイリアンは機械生命体達の司令塔だ。",
+        "en": "These are the creatures that are in direct command of the machine lifeforms on this planet.",
+        "ru": "Это существа, которые управляют машинами на этой планете."
+    },
+    {
+        "id": "M1040_S0545_S0030_001_cmd",
+        "jp": "エイリアンを殲滅すれば、長きに亘るこの戦争も終結する。",
+        "en": "If we can destroy them, we can end this long and arduous war once and for all!",
+        "ru": "Если мы сможем их уничтожить, то завершим эту долгую и напряжённую войну раз и навсегда!"
+    },
+    {
+        "id": "M1040_S0545_S0040_001_cmd",
+        "jp": "現在、技術部の方で電波発信源の解析を進めているが、",
+        "en": "Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.",
+        "ru": "Наша команда разведки пытается определить источник сигнала, но пока что безуспешно."
+    },
+    {
+        "id": "M1040_S0545_S0050_001_cmd",
+        "jp": "情報が不足している。",
+        "en": "We need more data.",
+        "ru": "Нам нужно больше данных."
+    },
+    {
+        "id": "M1040_S0545_S0060_001_cmd",
+        "jp": "地上にいるヨルハ部隊は、本案件に対する情報収集を最優先しろ。",
+        "en": "All YoRHa units are hereby ordered to prioritize data collection above all else.",
+        "ru": "Приказ всем подразделениям YoRHa: приоритет на сбор данных."
+    },
+    {
+        "id": "M1040_S0545_S0070_001_cmd",
+        "jp": "この好機を逃してはならない。",
+        "en": "We can't let this chance slip through our fingers!",
+        "ru": "Мы не можем позволить этой возможности ускользнуть!"
+    },
+    {
+        "id": "M1040_S0545_S0080_001_cmd",
+        "jp": "……人類に栄光あれ。",
+        "en": "...Glory to mankind.",
+        "ru": "Слава человечеству."
+    },
+    {
+        "id": "M1040_S0550_G0001_001_a9s",
+        "jp": "司令部の情報を元に、信号発信源を予測。マップにマークしました。",
+        "en": "I used Command's data to determine the signal's source and marked it on the map.",
+        "ru": "Я использовал данные Штаба, чтобы определить источник сигнала и отметил его на карте."
+    },
+    {
+        "id": "M1040_S0550_G0010_001_a9s",
+        "jp": "でもこれ、地下の深めの場所みたいですけど……",
+        "en": "But it seems to be underground. Like, way underground.",
+        "ru": "Но, видимо, он под землёй. Глубоко под землёй."
+    },
+    {
+        "id": "M1040_S0550_G0020_001_a2b",
+        "jp": "行ってみれば判るよ……",
+        "en": "Guess we'll see once we get there.",
+        "ru": "Увидим, как доберёмся до места."
+    },
+    {
+        "id": "M1040_S0550_G0021_001_a2b",
+        "jp": "多分。",
+        "en": "...If we're lucky.",
+        "ru": "Если нам повезёт..."
+    },
+    {
+        "id": "M1040_S0550_G0030_001_a9s",
+        "jp": "２Ｂって……大雑把なところがあるんですね。",
+        "en": "You're not much for plans, are you, 2B?",
+        "ru": "Ты не особо любишь строить планы, да, 2B?"
+    },
+    {
+        "id": "M1040_S0545_S0001_001_a2b",
+        "jp": "これは……",
+        "en": "What is this?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M1040_S0545_S0002_001_pod042",
+        "jp": "地下にある空間の崩落による陥没。",
+        "en": "Analysis: It is a cave-in caused by the collapse of an open space underground.",
+        "ru": "Анализ: это пещера, образовавшаяся из-за обвала открытого пространства под землёй."
+    },
+    {
+        "id": "M1040_S0545_S0003_001_a9s",
+        "jp": "こんな巨大な空洞が、どうして……",
+        "en": "Why is there such a huge cavern beneath the city?",
+        "ru": "Откуда под городом такая огромная пещера?"
+    },
+    {
+        "id": "M1040_S0545_S0090_300_a9s",
+        "jp": "何だ……あの変な敵は。",
+        "en": "That's a weird-looking enemy.",
+        "ru": "Какой-то странноватый враг."
+    },
+    {
+        "id": "M1040_S0550_G0120_300_a9s",
+        "jp": "２Ｂ。反応があった陥没地帯の地下に行ってみましょう。",
+        "en": "2B, we picked up the signal under the caved-in area.\\nLet's go check it out.",
+        "ru": "2B, сигнал исходит из-под обвалившегося участка. Давай проверим его источник."
+    },
+    {
+        "id": "M1040_S0550_G0130_300_pod042",
+        "jp": "報告：強固なプロテクト。アクセス不可能。",
+        "en": "Analysis: Strong software locks detected. Access impossible.",
+        "ru": "Анализ: обнаружены сильные блокировки ПО. Доступ невозможен."
+    }
+]

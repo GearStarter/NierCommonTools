@@ -1,0 +1,320 @@
+[
+    {
+        "id": "M5520_S0010_G0000_001_pascal",
+        "jp": "ああ……そうだ。出来れば少し手を貸していただきたい案件が\\nあるのですが。",
+        "en": "Hello there! Er, so I was wondering if you might help me with a small project.",
+        "ru": "Привет! Эм, итак, я хочу знать, не мог бы ты помочь мне с маленьким проектом."
+    },
+    {
+        "id": "M5520_S0010_G0010_001_pascal",
+        "jp": "各地に散らばる、旧世界の情報を集めてきてほしいのです。",
+        "en": "I'd like you to collect and bring back any information you find regarding the old world during your travels.",
+        "ru": "Я хочу, чтобы ты собирал любые сведения о старом мира, какие сможешь найти."
+    },
+    {
+        "id": "M5520_S0010_G0020_001_a9s",
+        "jp": "旧世界の？どうして？",
+        "en": "Really? Why?",
+        "ru": "Серьёзно? Зачем?"
+    },
+    {
+        "id": "M5520_S0010_G0030_001_pascal",
+        "jp": "この村をもっと暮らしやすくする為に、旧世界の遺産を有効活用したいと\\n思いまして。",
+        "en": "I'm hoping to use whatever knowledge remains of the old world to make life better for those here in the village.",
+        "ru": "Я хочу использовать все знания, оставшиеся от старого мира, чтобы улучшить жизнь всем жителям в деревне."
+    },
+    {
+        "id": "M5520_S0010_G0040_001_pascal",
+        "jp": "もちろん、有益な情報があれば、あなた方にもお渡しします。\\nどうか力を貸していただけませんか？",
+        "en": "I'll be glad to share anything we find with you as well, of course. So would you be willing to assist us?",
+        "ru": "Конечно, я буду рад поделиться всем тем, что мы с тобой найдём. Поэтому, не желаешь ли ты нам помочь?"
+    },
+    {
+        "id": "M5520_S0010_G0050_001_sele",
+        "jp": "力を貸す。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5520_S0010_G0060_001_sele",
+        "jp": "貸さない。",
+        "en": "Don't bother.",
+        "ru": "Не беспокоиться."
+    },
+    {
+        "id": "M5520_S0010_G0070_001_pascal",
+        "jp": "ありがとうございます。情報を見つけたら、私に見せてください。",
+        "en": "Thank you. Please show me anything of interest you find.",
+        "ru": "Спасибо. Пожалуйста, если найдёшь что-нибудь интересное, покажи мне."
+    },
+    {
+        "id": "M5520_S0010_G0080_001_pascal",
+        "jp": "なんと！旧世界の知識はあなた方にとっても重要な知識のはず……\\n力を貸していただけませんか？",
+        "en": "Oh? But surely knowledge of the old world would benefit you as well. Is there any chance you might reconsider?",
+        "ru": "О? Но ведь знания из старого мира принесут пользу и тебе. Есть ли шанс, что ты передумаешь?"
+    },
+    {
+        "id": "M5520_S0010_G0050_001_sele",
+        "jp": "力を貸す。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5520_S0010_G0060_001_sele",
+        "jp": "貸さない。",
+        "en": "Don't bother.",
+        "ru": "Не беспокоиться."
+    },
+    {
+        "id": "M5520_S0010_G0090_001_pascal",
+        "jp": "この年老いた機械生命体を哀れと思って……力を貸していただけませんか？",
+        "en": "Take pity on this poor old machine lifeform before you and lend us your aid!",
+        "ru": "Прояви жалость к бедной машине и протяни нам руку помощи!"
+    },
+    {
+        "id": "M5520_S0010_G0050_001_sele",
+        "jp": "力を貸す。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5520_S0010_G0060_001_sele",
+        "jp": "貸さない。",
+        "en": "Don't bother.",
+        "ru": "Не беспокоиться."
+    },
+    {
+        "id": "M5520_S0010_G0100_001_pascal",
+        "jp": "そこをなんとか……",
+        "en": "Please, my friend. Look inside yourself...",
+        "ru": "Пожалуйста, друг мой. Подумай, как следует..."
+    },
+    {
+        "id": "M5520_S0010_G0050_001_sele",
+        "jp": "力を貸す。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5520_S0010_G0060_001_sele",
+        "jp": "貸さない。",
+        "en": "Don't bother.",
+        "ru": "Не беспокоиться."
+    },
+    {
+        "id": "M5520_S0010_G0110_001_pascal",
+        "jp": "旧世界の情報があれば、この村の子どもたちの暮らしも\\nきっと楽になるでしょう……ご再考ください。",
+        "en": "Relics of the old world are certain to make life easier for our children. I do hope you will reconsider.",
+        "ru": "Реликвии старого мира определённо облегчат жизнь наших детей. Я надеюсь, ты передумаешь."
+    },
+    {
+        "id": "M5520_S0010_G0050_001_sele",
+        "jp": "力を貸す。",
+        "en": "Help him out.",
+        "ru": "Помочь ему."
+    },
+    {
+        "id": "M5520_S0020_G0000_001_a9s",
+        "jp": "パスカルが欲しがってる旧世界の情報って……これ？",
+        "en": "Hey, Pascal? Is this the kind of old-world information you were looking for?",
+        "ru": "Эй, Паскаль? Это та информация о старом мире, которую ты искал?"
+    },
+    {
+        "id": "M5520_S0020_G0010_001_pascal",
+        "jp": "おお！ありがとうございます……人類の情報は興味深いものばかりです。",
+        "en": "Ah! Thank you so much. I find this data from mankind to be ever so fascinating...",
+        "ru": "Ах! Большое спасибо. Я нахожу эти данные о человечестве очень увлекательными..."
+    },
+    {
+        "id": "M5520_S0020_G0020_001_pascal",
+        "jp": "これ、つまらないものですがお礼として……",
+        "en": "I know it's not much, but please take this as thanks.",
+        "ru": "Я знаю, что это немного, но, пожалуйста, прими это в благодарность."
+    },
+    {
+        "id": "M5520_S0020_G0030_001_pascal",
+        "jp": "素晴らしい！こんな貴重な情報、ありがとうございます……",
+        "en": "Superb! Thank you for this valuable information.",
+        "ru": "Великолепно! Спасибо за эту ценную информацию."
+    },
+    {
+        "id": "M5520_S0020_G0040_001_pascal",
+        "jp": "こちらお礼となります。どうか受け取ってください。",
+        "en": "Please take this as a reward.",
+        "ru": "Прошу, прими эту награду."
+    },
+    {
+        "id": "M5520_S0010_G0075_300_pascal",
+        "jp": "旧世界の情報を見つけたら教えてください。",
+        "en": "Let me know if you find any data on the old world.",
+        "ru": "Дай мне знать, если найдёшь любые данные из старого мира."
+    },
+    {
+        "id": "M5520_S0020_G0050_001_a9s",
+        "jp": "旧世界の情報だ……けど、これ、内容が……",
+        "en": "It's data from the old world, but it's...",
+        "ru": "Это данные из старого мира, но..."
+    },
+    {
+        "id": "M5520_S0020_G0060_001_pod153",
+        "jp": "核分裂を用いた兵器の生成に関する情報。",
+        "en": "This data is related to the creation of nuclear fission weapons.",
+        "ru": "Эти данные описывают создание оружия на основе ядерного распада."
+    },
+    {
+        "id": "M5520_S0020_G0070_001_a9s",
+        "jp": "……これ、パスカルに渡してもいいんだろうか。",
+        "en": "Oh, geez. I wonder if we should really hand this over to Pascal...",
+        "ru": "Ох, блин. Интересно, стоит ли нам передавать такие данные Паскалю..."
+    },
+    {
+        "id": "M5520_S0020_G0080_001_a9s",
+        "jp": "それとも司令官に……",
+        "en": "I mean, the Commander might want it, right?",
+        "ru": "В смысле, Командору могут быть полезны эти данные, верно?"
+    },
+    {
+        "id": "M5520_S0020_G0090_001_pod153",
+        "jp": "判断をするのは９Ｓ。",
+        "en": "Only unit 9S is qualified to make that decision.",
+        "ru": "Только единица 9S ответственна за принятие этого решения."
+    },
+    {
+        "id": "M5520_S0020_G0100_001_pascal",
+        "jp": "これは……",
+        "en": "Ah. Let me see...",
+        "ru": "Ах. Дай мне взглянуть..."
+    },
+    {
+        "id": "M5520_S0020_G0110_001_pascal",
+        "jp": "ありがとうございます。貴重な情報ですね。",
+        "en": "Oh my. This is valuable information indeed.",
+        "ru": "Ну и ну. Это воистину ценная информация."
+    },
+    {
+        "id": "M5520_S0020_G0120_001_a9s",
+        "jp": "うん……",
+        "en": "Yeah...",
+        "ru": "Ага..."
+    },
+    {
+        "id": "M5520_S0020_G0130_001_pascal",
+        "jp": "核分裂のような技術は、私達にとっては失われた技術です。",
+        "en": "Nuclear fission technology is something that was lost to us long ago.",
+        "ru": "Технология ядерного распада — это то, что было утеряно много лет назад."
+    },
+    {
+        "id": "M5520_S0020_G0140_001_pascal",
+        "jp": "制御が難しい上に、環境に対する影響が大きい事から、私達を生み出した\\n創造主が情報封印してしまったのです。",
+        "en": "It presents many technical challenges, not to mention the devastating effects it has on the environment. This is why our creators had the data sealed away.",
+        "ru": "Она создаёт множество проблем, не говоря уже о разрушительном воздействии на окружающую среду. Вот почему эти данные были запечатаны и спрятаны."
+    },
+    {
+        "id": "M5520_S0020_G0150_001_pascal",
+        "jp": "こんな危険な情報……受け取る訳にはいきません……",
+        "en": "...I'm sorry 9S, but I cannot accept this information. It is simply too dangerous.",
+        "ru": "Прости 9S, но я не могу принять эту информацию. Она попросту очень опасна."
+    },
+    {
+        "id": "M5520_S0020_G0160_001_a9s",
+        "jp": "……そう。",
+        "en": "Oh?",
+        "ru": "А?"
+    },
+    {
+        "id": "M5520_S0020_G0170_001_pascal",
+        "jp": "でも、わざわざ持ってきていただき、ありがとうございます。",
+        "en": "However, I thank you for bringing it to my attention.",
+        "ru": "Однако я благодарен за то, что ты сообщил мне об этом."
+    },
+    {
+        "id": "M5520_S0020_G0180_001_pascal",
+        "jp": "こちらお礼の品です。",
+        "en": "Allow me to repay you with this.",
+        "ru": "Позволь мне отблагодарить тебя."
+    },
+    {
+        "id": "M5520_S0020_G0190_001_pascal",
+        "jp": "９Ｓさん……",
+        "en": "9S...",
+        "ru": "9S..."
+    },
+    {
+        "id": "M5520_S0020_G0200_001_pascal",
+        "jp": "核兵器を作らず、この村が滅んでしまったら、\\n村の皆は私を恨むでしょうか……",
+        "en": "If I reject the knowledge of nuclear weapons and our village is destroyed at some point in the future, do you think my people would resent me for it?",
+        "ru": "Если я откажусь от знаний о ядерном оружии, и наша деревня будет уничтожена в некий момент в будущем, думаешь, жители деревни обиделись бы на меня за это?"
+    },
+    {
+        "id": "M5520_S0020_G0210_001_a9s",
+        "jp": "……それを決めるのは、僕じゃない。",
+        "en": "I don't know, Pascal. That's not for me to decide.",
+        "ru": "Я не знаю, Паскаль. Это не мне решать."
+    },
+    {
+        "id": "M5520_S0020_G0220_001_pascal",
+        "jp": "はい……",
+        "en": "I see.",
+        "ru": "Понимаю."
+    },
+    {
+        "id": "M5520_S0020_G0230_001_cmd",
+        "jp": "どうしたんだ？９Ｓ。",
+        "en": "Yes, 9S? What is it?",
+        "ru": "Да, 9S? Что такое?"
+    },
+    {
+        "id": "M5520_S0020_G0240_001_a9s",
+        "jp": "実は……旧世界の情報で核分裂に関する物を発見しました。",
+        "en": "Commander, I've discovered data from the old world that includes information on nuclear fission.",
+        "ru": "Командор, я обнаружил данные из старого мира, которые содержат информацию о ядерном распаде."
+    },
+    {
+        "id": "M5520_S0020_G0250_001_a9s",
+        "jp": "この情報をどうしたらいいかと思って……",
+        "en": "I wasn't sure what to do with it, so...",
+        "ru": "Я не уверен, что делать с данными, поэтому..."
+    },
+    {
+        "id": "M5520_S0020_G0260_001_cmd",
+        "jp": "核兵器か……",
+        "en": "Nuclear armaments, is it?",
+        "ru": "Ядерное вооружение, верно?"
+    },
+    {
+        "id": "M5520_S0020_G0270_001_cmd",
+        "jp": "知ってると思うが、我々は人類会議からの指令によって核兵器の使用は\\n制限されている。",
+        "en": "As you're likely aware, by order of the Council of Humanity, our use of nuclear weapons is restricted.",
+        "ru": "Как вам известно, использование ядерного оружия ограничено по приказу Совета Человечества."
+    },
+    {
+        "id": "M5520_S0020_G0280_001_cmd",
+        "jp": "しかし、敵である機械生命体も、どういう理由があるか分からないが\\n核兵器を使用してこない。",
+        "en": "However, I've always been curious as to why the machines also seem to abide by the same restrictions.",
+        "ru": "Однако мне всегда было любопытно, почему машины тоже, как мне кажется, придерживаются таких ограничений."
+    },
+    {
+        "id": "M5520_S0020_G0290_001_cmd",
+        "jp": "どういう理由があるか分からないが……いずれにせよ、この情報は\\n保全しておいた方がいいな。",
+        "en": "That's a riddle I may never solve, but at any rate, it's probably prudent for us to preserve the data.",
+        "ru": "Это загадка, которую я, возможно, никогда не смогу решить, но, в любом случае, для нас будет благоразумнее сохранить эти данные."
+    },
+    {
+        "id": "M5520_S0020_G0300_001_a9s",
+        "jp": "了解しました。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5520_S0020_G0310_001_cmd",
+        "jp": "ご苦労だった。情報提供の見返りと言う訳ではないが、\\n自室にメンテナンス用の資材を配備しておくから使ってくれ。",
+        "en": "Good work, 9S. And while I shouldn't reward you for doing your duty, I'll at least send some maintenance resources to your room. Feel free to make use of them.",
+        "ru": "Хорошая работа, 9S. И хотя я не должна награждать тебя за исполнение твоего долга, я, по крайней мере, отправлю кое-какие ресурсы для ремонта в твою комнату. Не стесняйся использовать их."
+    },
+    {
+        "id": "M5520_S0020_G0320_001_a9s",
+        "jp": "ありがとうございます。",
+        "en": "Thank you, Commander.",
+        "ru": "Спасибо, Командор."
+    }
+]

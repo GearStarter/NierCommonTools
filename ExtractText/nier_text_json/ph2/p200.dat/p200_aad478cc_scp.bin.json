@@ -1,0 +1,104 @@
+[
+    {
+        "id": "M1080_S0050_G0110_101_prst",
+        "jp": "あちらの扉を開くと教祖様のいらっしゃるお部屋です。",
+        "en": "That door leads to the sanctum of His Grace.",
+        "ru": "Эта дверь ведёт к святилищу Его Светлости."
+    },
+    {
+        "id": "M1080_S0050_G0120_101_prst",
+        "jp": "神を信じるようになって心に安らぎが訪れました……",
+        "en": "Once I accepted God into my heart, I was filled with serenity....",
+        "ru": "Как только я принял Бога в своё сердце, я почувствовал спокойствие..."
+    },
+    {
+        "id": "M1080_S0050_G0130_101_prst",
+        "jp": "教祖様に私達はお導きいただいたのです……",
+        "en": "How I yearn for His Grace to light the path forward for all...",
+        "ru": "Как же я жду момента, когда Его Светлость укажет путь всем нам..."
+    },
+    {
+        "id": "M1080_S0050_G0140_101_prst",
+        "jp": "この地上から苦痛と戦争がなくなりますように……",
+        "en": "May hardship and conflict be forever banished from this world...",
+        "ru": "Пусть тягости и невзгоды навсегда исчезнут из этого мира..."
+    },
+    {
+        "id": "M1080_S0050_G0120_101_prst",
+        "jp": "神を信じるようになって心に安らぎが訪れました……",
+        "en": "Once I accepted God into my heart, I was filled with serenity....",
+        "ru": "Как только я принял Бога в своё сердце, я почувствовал спокойствие..."
+    },
+    {
+        "id": "M1080_S0050_G0150_101_pascal",
+        "jp": "あの……私、パスカルと申します。",
+        "en": "Um, hello. My name is Pascal.",
+        "ru": "Эм, здравствуйте. Меня зовут Паскаль."
+    },
+    {
+        "id": "M1080_S0050_G0160_101_pascal",
+        "jp": "和平交渉についてお話をさせていただく為に……",
+        "en": "I'm here to discuss the...peace treaty?",
+        "ru": "Я здесь, чтобы обсудить... мирный договор?"
+    },
+    {
+        "id": "M1080_S0050_G0100_300_pascal",
+        "jp": "まずは彼らの話だけでも聞いてみましょう。",
+        "en": "We should at least hear them out.",
+        "ru": "По крайней мере, давайте хотя бы выслушаем их."
+    },
+    {
+        "id": "M1080_S0050_G0110_101_prst",
+        "jp": "あちらの扉を開くと教祖様のいらっしゃるお部屋です。",
+        "en": "That door leads to the sanctum of His Grace.",
+        "ru": "Эта дверь ведёт к святилищу Его Светлости."
+    },
+    {
+        "id": "M1080_S0050_G0120_101_prst",
+        "jp": "神を信じるようになって心に安らぎが訪れました……",
+        "en": "Once I accepted God into my heart, I was filled with serenity....",
+        "ru": "Как только я принял Бога в своё сердце, я почувствовал спокойствие..."
+    },
+    {
+        "id": "M1080_S0050_G0130_101_prst",
+        "jp": "教祖様に私達はお導きいただいたのです……",
+        "en": "How I yearn for His Grace to light the path forward for all...",
+        "ru": "Как же я жду момента, когда Его Светлость укажет путь всем нам..."
+    },
+    {
+        "id": "M1080_S0050_G0140_101_prst",
+        "jp": "この地上から苦痛と戦争がなくなりますように……",
+        "en": "May hardship and conflict be forever banished from this world...",
+        "ru": "Пусть тягости и невзгоды навсегда исчезнут из этого мира..."
+    },
+    {
+        "id": "M1080_S0050_G0120_101_prst",
+        "jp": "神を信じるようになって心に安らぎが訪れました……",
+        "en": "Once I accepted God into my heart, I was filled with serenity....",
+        "ru": "Как только я принял Бога в своё сердце, я почувствовал спокойствие..."
+    },
+    {
+        "id": "M1080_S0050_G0000_101_n02",
+        "jp": "私達は、神の存在に気付きました。",
+        "en": "We have come to know the existence of God.",
+        "ru": "Мы познали существование Бога."
+    },
+    {
+        "id": "M1080_S0050_G0010_101_n02",
+        "jp": "神の名の下に、全ての存在は平等であらねばなりません。",
+        "en": "And by His word, all living things are to be considered equal.",
+        "ru": "И по Его слову, все живые существа считаются равными."
+    },
+    {
+        "id": "M1080_S0050_G0050_300_n02",
+        "jp": "おやめ下さい！！\\n我々に戦闘の意思はありません！！",
+        "en": "Stop! We have no desire to fight you!",
+        "ru": "Стой! Мы не желаем с тобой сражаться!"
+    },
+    {
+        "id": "M1080_S0050_G0060_300_pascal",
+        "jp": "落ち着いて下さい！\\n我々は和平交渉の為にここに来たのですから……",
+        "en": "Please, you must be calm! We have come to negotiate peace with you!",
+        "ru": "Пожалуйста, успокойтесь! Мы пришли поговорить о перемирии!"
+    }
+]

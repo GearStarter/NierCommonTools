@@ -1,0 +1,284 @@
+[
+    {
+        "id": "M5102_S0010_G0000_001_robomaster",
+        "jp": "ヤヤッ、お前サン達、まタまタ来なすったノカ。",
+        "en": "How good of you to grace Father Servo with your presence once again.",
+        "ru": "Как мило с вашей стороны вновь почтить отца Серво своим присутствием."
+    },
+    {
+        "id": "M5102_S0010_G0010_001_robomaster",
+        "jp": "殊勝な心ガケ……カンシン感心じゃ。",
+        "en": "Such drive is admirable.",
+        "ru": "Ваше рвение достойно восхищения."
+    },
+    {
+        "id": "M5102_S0010_G0020_001_robomaster",
+        "jp": "ドウじゃ？我が改造の成果を味わってイクか？",
+        "en": "Well then! Do you care to witness the glories of this latest modification?",
+        "ru": "Что ж, тогда! Хотите ли вы узреть великолепие последней модификации?"
+    },
+    {
+        "id": "M5102_S0010_G0030_001_sele",
+        "jp": "改造ノ成果ヲ味わってイク。",
+        "en": "Witness the glories.",
+        "ru": "Взглянуть на великолепие."
+    },
+    {
+        "id": "M5102_S0010_G0040_001_sele",
+        "jp": "改造ノ成果ヲ味わってイカナイ。",
+        "en": "Pass on witnessing the glories.",
+        "ru": "Отказаться узреть великолепие."
+    },
+    {
+        "id": "M5102_S0010_G0050_001_robomaster",
+        "jp": "こノ間のワシとは一味も二味も違うゾイ！",
+        "en": "The Father Servo you knew has passed from this life, my child. Behold his latest incarnation!",
+        "ru": "Отец Серво, которого вы знали прежде, исчез из этого мира. Перед вами его новое воплощение!"
+    },
+    {
+        "id": "M5102_S0010_G0060_001_robomaster",
+        "jp": "残念じゃ……",
+        "en": "A pity.",
+        "ru": "Какая жалость."
+    },
+    {
+        "id": "M5102_S0010_G0070_001_robomaster",
+        "jp": "気が変わったラまた来てオクレ。",
+        "en": "Come find Father Servo if you change your mind.",
+        "ru": "Приходите к отцу Серво, если передумаете."
+    },
+    {
+        "id": "M5102_S0010_G0000_300_robomaster",
+        "jp": "ドウじゃ？我が改造の成果を味わってイクか？",
+        "en": "Care ye to taste the results of Father Servo's latest modification?",
+        "ru": "Не желаете ли опробовать результаты последней модификации отца Серво?"
+    },
+    {
+        "id": "M5102_S0010_G0030_001_sele",
+        "jp": "改造ノ成果ヲ味わってイク。",
+        "en": "Witness the glories.",
+        "ru": "Взглянуть на великолепие."
+    },
+    {
+        "id": "M5102_S0010_G0040_001_sele",
+        "jp": "改造ノ成果ヲ味わってイカナイ。",
+        "en": "Pass on witnessing the glories.",
+        "ru": "Отказаться узреть великолепие."
+    },
+    {
+        "id": "M5102_S0010_G0080_001_robomaster",
+        "jp": "オオ……ワシの強さガ怖イ……！",
+        "en": "Such strength can only be achieved by becoming one with the universe!",
+        "ru": "Такая сила поможет достигнуть единства со вселенной!"
+    },
+    {
+        "id": "M5102_S0010_G0090_001_robomaster",
+        "jp": "ホッホッホ。お前サン達、良けレバまた修行に付き合うゾイ？",
+        "en": "If you desire to test yourself anew, Father Servo is happy to oblige.",
+        "ru": "Если пожелаете вновь испытать свои силы, отец Серво с радостью поможет вам."
+    },
+    {
+        "id": "M5102_S0010_G0030_300_robomaster",
+        "jp": "お前サン達、修行に付き合ってほしいのか？",
+        "en": "Would you like to help Father Servo with his training?",
+        "ru": "Желаете ли вы помочь отцу Серво с тренировкой?"
+    },
+    {
+        "id": "M5102_S0010_G0040_300_sele",
+        "jp": "修行を再開スル。",
+        "en": "Begin anew.",
+        "ru": "Начать сначала."
+    },
+    {
+        "id": "M5102_S0010_G0050_300_sele",
+        "jp": "修行を再開シナイ。",
+        "en": "Begin nothing.",
+        "ru": "Не повторять."
+    },
+    {
+        "id": "M5102_S0010_G0050_001_robomaster",
+        "jp": "こノ間のワシとは一味も二味も違うゾイ！",
+        "en": "The Father Servo you knew has passed from this life, my child. Behold his latest incarnation!",
+        "ru": "Отец Серво, которого вы знали прежде, исчез из этого мира. Перед вами его новое воплощение!"
+    },
+    {
+        "id": "M5102_S0010_G0060_001_robomaster",
+        "jp": "残念じゃ……",
+        "en": "A pity.",
+        "ru": "Какая жалость."
+    },
+    {
+        "id": "M5102_S0010_G0070_001_robomaster",
+        "jp": "気が変わったラまた来てオクレ。",
+        "en": "Come find Father Servo if you change your mind.",
+        "ru": "Приходите к отцу Серво, если передумаете."
+    },
+    {
+        "id": "M5102_S0010_G0060_300_robomaster",
+        "jp": "弱った状態では相手にならぬ。出直してくるのじゃ。",
+        "en": "Father Servo will not waste his talents on a weakened foe! Begone!",
+        "ru": "Отец Серво не будет растрачивать свой талант на слабого противника! Уходите!"
+    },
+    {
+        "id": "M5102_S0010_G0100_001_robomaster",
+        "jp": "マイッタ！ヤラレタ！ココマデジャッ！",
+        "en": "No more! Father Servo yields!",
+        "ru": "Достаточно! Отец Серво уступает!"
+    },
+    {
+        "id": "M5102_S0010_G0110_001_a9s",
+        "jp": "……で、次は何が欲しいの？",
+        "en": "So what do you want this time? More weird junk?",
+        "ru": "Итак, что на этот раз? Ещё больше всякого хлама?"
+    },
+    {
+        "id": "M5102_S0010_G0120_001_robomaster",
+        "jp": "オオ、話ガ早くテ助カルのう！",
+        "en": "To business already? My my!",
+        "ru": "Сразу к делу? Ого!"
+    },
+    {
+        "id": "M5102_S0010_G0130_001_a9s",
+        "jp": "難癖付けられる前に要望を聞いた方が、少しはマシだからね。",
+        "en": "Figured I should get it over with and save us both some time.",
+        "ru": "Я решил, что так сэкономлю время нам обоим."
+    },
+    {
+        "id": "M5102_S0010_G0140_001_robomaster",
+        "jp": "ホッホッホ、良く出来たアンドロイドじゃ",
+        "en": "You're a clever one, aren't you?",
+        "ru": "А ты довольно смышлёный, не так ли?"
+    },
+    {
+        "id": "M5102_S0010_G0150_001_robomaster",
+        "jp": "では、今度は『銀鉱』に『新品のネジ』、『壊れたバッテリー』を\\nお願い出来ルカのう？",
+        "en": "Well, when the heavens offer succor, it is poor form to refuse. Father Servo requires a silver ore, a pristine screw, and a broken battery.",
+        "ru": "Небеса готовы помочь, но эта форма бесполезна. Отец Серво нуждается в серебряной руде, новеньком винте и сломанной батарее."
+    },
+    {
+        "id": "M5102_S0010_G0160_001_a9s",
+        "jp": "ちょっと待て。前回より増えてない？",
+        "en": "Hold on. That's more stuff than last time!",
+        "ru": "Погодите-ка. В этот раз гораздо больше предметов, чем обычно!"
+    },
+    {
+        "id": "M5102_S0010_G0170_001_robomaster",
+        "jp": "ガー……ピピッ……",
+        "en": "ERROR. ERROR. BAD FILE OR PATHWAY. BZZZZZT.",
+        "ru": "ОШИБКА. ОШИБКА. ФАЙЛ ПОВРЕЖДЁН ИЛИ ПУТЬ НЕ ВЕРЕН. БЗ-З-З-З."
+    },
+    {
+        "id": "M5102_S0010_G0180_001_a9s",
+        "jp": "壊れたフリ……",
+        "en": "Stop it! I know you're not broken!",
+        "ru": "Да ладно! Я знаю, что он не сломался!"
+    },
+    {
+        "id": "M5102_S0010_G0190_001_a2b",
+        "jp": "……９Ｓ、探しに行こう。",
+        "en": "Let's go already.",
+        "ru": "Идём уже."
+    },
+    {
+        "id": "M5920_S0010_G0280_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0020_G0280_001_pod153",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0010_G0240_001_pod042",
+        "jp": "依頼されていた資材を入手。",
+        "en": "Requested material obtained.",
+        "ru": "Получен требуемый материал."
+    },
+    {
+        "id": "M5920_S0020_G0240_001_pod153",
+        "jp": "依頼されていた資材を入手。",
+        "en": "Requested material obtained.",
+        "ru": "Получен требуемый материал."
+    },
+    {
+        "id": "M5102_S0010_G0090_300_robomaster",
+        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
+        "en": "Have you brought the required items?",
+        "ru": "Вы принесли необходимые предметы?"
+    },
+    {
+        "id": "M5102_S0010_G0100_300_sele",
+        "jp": "アイテムを渡す",
+        "en": "Surrender the items.",
+        "ru": "Передать предметы."
+    },
+    {
+        "id": "M5102_S0010_G0110_300_sele",
+        "jp": "アイテムを渡さない",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5102_S0010_G0090_300_robomaster",
+        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
+        "en": "Have you brought the required items?",
+        "ru": "Вы принесли необходимые предметы?"
+    },
+    {
+        "id": "M5102_S0010_G0100_300_sele",
+        "jp": "アイテムを渡す",
+        "en": "Surrender the items.",
+        "ru": "Передать предметы."
+    },
+    {
+        "id": "M5102_S0010_G0110_300_sele",
+        "jp": "アイテムを渡さない",
+        "en": "Turn him down.",
+        "ru": "Отказать ему."
+    },
+    {
+        "id": "M5102_S0010_G0200_001_robomaster",
+        "jp": "お礼ハ『銀鉱』に『新品のネジ』、『壊れたバッテリー』で良いゾ？",
+        "en": "Father Servo needs a silver ore, a pristine screw, and a broken battery.",
+        "ru": "Отец Серво нуждается в серебряной руде, новеньком винте и сломанной батарее."
+    },
+    {
+        "id": "M5102_S0020_G0000_001_a9s",
+        "jp": "ご所望のものを持って来たよ。",
+        "en": "We've got what you wanted. Pretty much needed a wheelbarrow to carry it all... *grumble*",
+        "ru": "Мы принесли всё, что было необходимо."
+    },
+    {
+        "id": "M5102_S0020_G0010_001_robomaster",
+        "jp": "スマンのう。恩に着るゾイ！",
+        "en": "Thank you, my child.",
+        "ru": "Спасибо, дитя моё."
+    },
+    {
+        "id": "M5102_S0020_G0020_001_robomaster",
+        "jp": "これで我ガ肉体モ、もっトもットモーット強くなルゾイ！",
+        "en": "With these items, the flesh of Father Servo will be so, so, so, so, SO powerful!",
+        "ru": "С этими предметами тело отца Серво будет таким, таким, таким, ТАКИМ сильным!"
+    },
+    {
+        "id": "M5102_S0020_G0030_001_a9s",
+        "jp": "今度は、こっちも手加減しないからね。",
+        "en": "Good. Because I'm going to beat you silly next time to make up for all your stupid errands.",
+        "ru": "Хорошо. Потому что в следующий раз я точно побью тебя за твои бестолковые поручения."
+    },
+    {
+        "id": "M5102_S0020_G0040_001_robomaster",
+        "jp": "我が肉体改造には時間がカカル……",
+        "en": "Er, yes. Regardless, modifying one's body is not a process accomplished quickly or without effort.",
+        "ru": "Да, конечно. Но, несмотря на это, модификация тела — процесс непростой, да и долгий."
+    },
+    {
+        "id": "M5102_S0020_G0050_001_robomaster",
+        "jp": "次回会う時を楽しみにしてオクが良い！",
+        "en": "So until your next visit, farewell!",
+        "ru": "Так что до скорых встреч, дети мои!"
+    }
+]

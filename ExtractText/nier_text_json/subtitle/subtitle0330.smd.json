@@ -1,0 +1,50 @@
+[
+    {
+        "id": "M1040_S0500_H0000_001_a2b",
+        "jp": "敵大型兵器、全機機能停止を確認。",
+        "en": "Target enemies offline. That should do it for the Goliaths.",
+        "ru": "Противники выведены из строя. То же относится и к Голиафам."
+    },
+    {
+        "id": "M1040_S0500_H0010_001_a9s",
+        "jp": "敵兵器が再充電してます！！",
+        "en": "Look out! It's recharging!",
+        "ru": "Берегись! Он перезаряжается!"
+    },
+    {
+        "id": "M1040_S0500_H0020_001_a2b",
+        "jp": "くっ……",
+        "en": "",
+        "ru": ""
+    },
+    {
+        "id": "M1040_S0500_H0030_001_op60",
+        "jp": "敵兵器の振動、さらに増加中。",
+        "en": "Enemy vibrations are growing in intensity.",
+        "ru": "Вражеская вибрация интенсивно растёт."
+    },
+    {
+        "id": "M1040_S0500_H0040_001_op60",
+        "jp": "戦闘地域の地下空間が共鳴しています。",
+        "en": "It's resonating in tandem with the area beneath the combat zone!",
+        "ru": "Он резонирует вместе с боевой зоной!"
+    },
+    {
+        "id": "M1040_S0500_H0050_001_a9s",
+        "jp": "これは……",
+        "en": "What the...?",
+        "ru": "Что за?.."
+    },
+    {
+        "id": "M1040_S0500_H0060_001_cmd",
+        "jp": "まさか……数百年も姿を現さなかったエイリアンが……",
+        "en": "Unbelievable... The aliens who haven't revealed themselves in hundreds of years...",
+        "ru": "Невероятно... Инопланетяне, которые не проявляли себя в течение сотен лет..."
+    },
+    {
+        "id": "M1040_S0500_H0070_001_cmd",
+        "jp": "地下にいるだと……！？",
+        "en": "were hiding underground!?",
+        "ru": "скрывались под землей?!"
+    }
+]

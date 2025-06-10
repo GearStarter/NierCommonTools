@@ -1,0 +1,266 @@
+[
+    {
+        "id": "M6010_S0090_G0100_300_op",
+        "jp": "見なおしたよ。流石だな。\\n次も、死ぬなよ。",
+        "en": "Looks like I was wrong about you. Make sure you come back alive next time, too!",
+        "ru": "Похоже, что я ошибалась насчёт вас. В следующий раз обязательно возвращайтесь живыми!"
+    },
+    {
+        "id": "M6010_S0090_G0110_300_op",
+        "jp": "ここからが正念場だ。\\nじゃあ、頑張れよ。",
+        "en": "It's do or die from now on. Good luck.",
+        "ru": "В этот раз победа или смерть. Удачи."
+    },
+    {
+        "id": "M6010_S0100_G0100_300_op",
+        "jp": "……作戦中だ。話しかけるな。",
+        "en": "Please don't talk to me when we're in the middle of a mission.",
+        "ru": "Попрошу вас не отвлекать меня в разгар выполнения задания."
+    },
+    {
+        "id": "M6010_S0100_G0110_300_op",
+        "jp": "……頼んだぞ。",
+        "en": "Oh, and good luck. We're all counting on you.",
+        "ru": "О, и удачи вам. Мы все рассчитываем на вас."
+    },
+    {
+        "id": "M6010_S0090_G0120_300_op",
+        "jp": "とってもかっこ良かったよ～！\\n今度、時間のある時お話きかせてねぇ～",
+        "en": "You were so cool! Tell me about everything that happened, okay? Leave no detail unspoken!",
+        "ru": "Вы такие крутые! Расскажете мне обо всём, что было, хорошо? Во всех подробностях!"
+    },
+    {
+        "id": "M6010_S0090_G0130_300_op",
+        "jp": "ファンになっちゃう～",
+        "en": "I'm gonna start a 2B fan club!",
+        "ru": "Пожалуй, открою фан-клуб 2B!"
+    },
+    {
+        "id": "M6010_S0100_G0120_300_op",
+        "jp": "もう作業中なんだから話しかけたらダメぇ～！",
+        "en": "Please don't bug me when I'm working!",
+        "ru": "Попрошу вас не отвлекать меня во время работы!"
+    },
+    {
+        "id": "M6010_S0100_G0130_300_op",
+        "jp": "無事に帰ってきてよ～！",
+        "en": "Just get out there, kick some machine ass, and come back safe!",
+        "ru": "Идите уже, наваляйте этим машинам и возвращайтесь в целости и сохранности!"
+    },
+    {
+        "id": "M6010_S0090_G0140_300_op",
+        "jp": "……ちょっと、いいか。今まで、冷たくして悪かったな。\\nお前を見損なっていたようだ。イヴの件、感謝する。",
+        "en": "I'm sorry I was so cold earlier—I clearly misjudged you. Thank you for taking care of Eve.",
+        "ru": "Простите, что была так груба ранее, я точно вас недооценила. Спасибо вам, что разобрались с Евой."
+    },
+    {
+        "id": "M6010_S0090_G0150_300_op",
+        "jp": "久しぶりにリラックスできたよ。\\nこれはお前と９Ｓのおかげだ。",
+        "en": "I can finally relax again. And it's all thanks to you and 9S!",
+        "ru": "Я наконец-то могу расслабиться. И всё благодаря вам и 9S!"
+    },
+    {
+        "id": "M6010_S0100_G0140_300_op",
+        "jp": "……早く出撃しろ。",
+        "en": "Hurry and move out.",
+        "ru": "Поторопитесь и выдвигайтесь."
+    },
+    {
+        "id": "M6010_S0100_G0150_300_op",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M6010_S0090_G0160_300_op",
+        "jp": "あなたのおかげで戦況はかなり好転してるわ。\\nありがとう。",
+        "en": "We're doing much better thanks to you. Great job!",
+        "ru": "Мы должны как следует вас поблагодарить. Хорошо поработали!"
+    },
+    {
+        "id": "M6010_S0090_G0170_300_op",
+        "jp": "次も、頑張れる気がする。",
+        "en": "I know you'll keep doing great things.",
+        "ru": "Надеюсь, вы и дальше продолжите свои подвиги."
+    },
+    {
+        "id": "M6010_S0100_G0160_300_op",
+        "jp": "頑張ってね……",
+        "en": "Good luck.",
+        "ru": "Удачи."
+    },
+    {
+        "id": "M6010_S0100_G0170_300_op",
+        "jp": "さぁ、もう時間じゃない？",
+        "en": "...Er, don't you think it's time to go?",
+        "ru": "...Эм, а разве вам уже не пора?"
+    },
+    {
+        "id": "M6010_S0090_G0180_300_op",
+        "jp": "イヴとの戦闘、見てたぞ。\\n義体の使い方本当にうまいんだな。",
+        "en": "I saw your battle with Eve. You have such amazing control over your body! ...I'm kinda jealous.",
+        "ru": "Я видела вашу с Евой битву. У вас удивительный контроль над телом! ...Я даже завидую."
+    },
+    {
+        "id": "M6010_S0090_G0190_300_op",
+        "jp": "今度、稽古つけてくれよ。",
+        "en": "Do you think you might give me some tips sometime?",
+        "ru": "Может, как-нибудь и мне пару уроков дадите?"
+    },
+    {
+        "id": "M6010_S0100_G0180_300_op",
+        "jp": "今回も、すごい戦闘データ期待してるからな。\\n死んだらデータもロストするから気をつけろよ。",
+        "en": "Remember that any amazing combat data you collect dies with you, so be careful.",
+        "ru": "Запомните, что все собранные вами боевые данные погибнут вместе с вами, берегите себя."
+    },
+    {
+        "id": "M6010_S0100_G0190_300_op",
+        "jp": "……死ぬなよ。",
+        "en": "Try not to die out there.",
+        "ru": "Постарайтесь там не погибнуть."
+    },
+    {
+        "id": "M6010_S0090_G0200_300_op",
+        "jp": "バンカー中、お前と９Ｓの話題で持ちきりだぞ。\\nよくやってくれたな。",
+        "en": "You and 9S are the talk of the Bunker. You were incredible!",
+        "ru": "Вы и 9S — сейчас основная тема для разговоров в Бункере. Вы просто невероятны!"
+    },
+    {
+        "id": "M6010_S0090_G0210_300_op",
+        "jp": "これからもよろしく頼むよ。",
+        "en": "We'll all be counting on you the next time some terrible machine thing tries to kill us all!",
+        "ru": "Мы будем рассчитывать на вас и в следующий раз, когда мерзкие машины заявятся убить нас!"
+    },
+    {
+        "id": "M6010_S0100_G0200_300_op",
+        "jp": "大丈夫、皆うまくやってるさ。",
+        "en": "Everyone's doing a great job!",
+        "ru": "Все очень стараются!"
+    },
+    {
+        "id": "M6010_S0100_G0210_300_op",
+        "jp": "早く行ってやってくれ。",
+        "en": "Now please hurry up and get going.",
+        "ru": "А теперь поспешите и выдвигайтесь."
+    },
+    {
+        "id": "M6010_S0090_G0220_300_op",
+        "jp": "最後の戦い、けっこう大変でしたね。\\nよく勝てましたね！惚れ惚れしました。",
+        "en": "That last battle looked really tough, but you pulled through. It was mesmerizing!",
+        "ru": "Последняя битва была непростой, но у вас получилось. Это было так завораживающе!"
+    },
+    {
+        "id": "M6010_S0090_G0230_300_op",
+        "jp": "ここだけの話、２Ｂさんってオペレーター仲間ではかなり人気が高いんですよ！\\nナイショですよ！",
+        "en": "Just so you know, you're quite popular with the operators! ...Er, but you didn't hear that from me.",
+        "ru": "Просто, чтобы вы знали — вы очень популярны среди операторов! Только тссс, я этого не говорил."
+    },
+    {
+        "id": "M6010_S0100_G0220_300_op",
+        "jp": "もう作業に入ってますよ。静かにして下さい。",
+        "en": "I've already started working. Please let me concentrate.",
+        "ru": "Я уже приступила к работе. Так что позвольте мне сконцентрироваться."
+    },
+    {
+        "id": "M6010_S0100_G0230_300_op",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M6010_S0090_G0240_300_op",
+        "jp": "よく勝ってくれたな。ひやひやしたよ。\\nイヴの残バイタルの表示アシストしてたのは私だったんだが、役に立ったか？",
+        "en": "Man, I was sweating in my seat during that whole fight! ...I was the one displaying Eve's remaining vitals, by the way. Hope it helped!",
+        "ru": "Эх, я весь бой так волновалась, что вся пропотела!\\n...Я следила за показателями Евы. Надеюсь, это вам помогло."
+    },
+    {
+        "id": "M6010_S0090_G0250_300_op",
+        "jp": "ま、死なねーように頑張りな。",
+        "en": "Now get back out there and keep not dying!",
+        "ru": "Теперь ступайте и постарайтесь не погибнуть!"
+    },
+    {
+        "id": "M6010_S0100_G0240_300_op",
+        "jp": "めんどくせーなー、また始まったよ。",
+        "en": "Ugh, you're such a pain! Here we go again...",
+        "ru": "Угх, вы такие надоедливые! Сколько можно..."
+    },
+    {
+        "id": "M6010_S0100_G0250_300_op",
+        "jp": "完璧にサポートしてやるから安心しな。",
+        "en": "Don't worry, I'll give you perfect support.",
+        "ru": "Не переживайте, я обеспечу идеальную поддержку."
+    },
+    {
+        "id": "M6010_S0090_G0260_300_op",
+        "jp": "大金星でしたね。",
+        "en": "That was a spectacular victory!",
+        "ru": "Это была выдающаяся победа!"
+    },
+    {
+        "id": "M6010_S0090_G0270_300_op",
+        "jp": "引き続き、宜しくお願いします。",
+        "en": "Here's to your next victory!",
+        "ru": "А вот и очередная победа!"
+    },
+    {
+        "id": "M6010_S0100_G0260_300_op",
+        "jp": "そろそろ、出撃時間です。\\n格納庫へ向かって下さい。",
+        "en": "It's almost time to head out.",
+        "ru": "Самое время выдвигаться."
+    },
+    {
+        "id": "M6010_S0100_G0270_300_op",
+        "jp": "格納庫から発進して下さい。",
+        "en": "You should probably get to the hangar.",
+        "ru": "Вам следует идти в ангар."
+    },
+    {
+        "id": "M6010_S0090_G0280_300_op",
+        "jp": "なんと！２Ｂさん！この度はご苦労様でした！",
+        "en": "Wow, 2B... That must have been tough.",
+        "ru": "Вау, 2B... Должно быть, это было непросто."
+    },
+    {
+        "id": "M6010_S0090_G0290_300_op",
+        "jp": "ご武運をお祈りしておりますー！",
+        "en": "Let's keep the winning streak going! Woooo!",
+        "ru": "Продолжим и дальше наш победный марш! Йеху!"
+    },
+    {
+        "id": "M6010_S0100_G0280_300_op",
+        "jp": "ちょっと、今はもうダメですって！\\n話しかけないで！",
+        "en": "This is a REALLY bad time for a chat!",
+        "ru": "Сейчас ДЕЙСТВИТЕЛЬНО не лучшее время для болтовни!"
+    },
+    {
+        "id": "M6010_S0100_G0290_300_op",
+        "jp": "頑張ってくださいね！",
+        "en": "Oh, but good luck!",
+        "ru": "Ох, но удачи вам!"
+    },
+    {
+        "id": "M6010_S0090_G0300_300_op",
+        "jp": "作戦成功おめでとうございます。\\n階級上がるんじゃないでしょうか？とにかく、感謝しています。",
+        "en": "I bet you'll get a sweet promotion after this. And even if you don't, please know that all of us are forever in your debt.",
+        "ru": "Бьюсь об заклад, вы получите хорошее продвижение после этого.\\nА если и нет, знайте, мы у вас в неоплатном долгу."
+    },
+    {
+        "id": "M6010_S0090_G0310_300_op",
+        "jp": "感謝しています。ありがとう。",
+        "en": "Thank you for everything.",
+        "ru": "Спасибо вам за всё."
+    },
+    {
+        "id": "M6010_S0100_G0300_300_op",
+        "jp": "こんな大規模な作戦は初めてです。\\nあ、心配しないで下さい。メモリは増設しておいたので。",
+        "en": "This is my first large-scale mission. But don't worry—I increased my memory just in case.",
+        "ru": "Это моя первая полномасштабная операция. Но не волнуйтесь, я как раз проапгрейдила свою память."
+    },
+    {
+        "id": "M6010_S0100_G0310_300_op",
+        "jp": "こちらは任せて下さい。",
+        "en": "You can count on me to make things work from this end!",
+        "ru": "Вы можете рассчитывать на меня вплоть до самого конца!"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "id": "M5121_S0010_G0010_300_manager",
+        "jp": "ごめんなさい、また後で来てくれる？",
+        "en": "Sorry, but can you come back later?",
+        "ru": "Простите, но не могли бы зайти чуть попозже?"
+    },
+    {
+        "id": "M5121_S0010_G0020_300_manager",
+        "jp": "皆が必死に戦ってるのに、うだうだ言っていられないわよね……\\nがんばらなくちゃ……",
+        "en": "I can't just sit here while everyone's fighting so hard around me. I need to shape up...",
+        "ru": "Я не могу сидеть, сложа руки, пока все вокруг меня стараются изо всех сил. Мне нужно взяться за работу..."
+    },
+    {
+        "id": "M5121_S0010_G0000_001_ane",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5121_S0010_G0010_001_a9s",
+        "jp": "なんだか、難しい顔してますね。アネモネさん。",
+        "en": "What's wrong, Anemone?",
+        "ru": "Что-то не так, Анемона?"
+    },
+    {
+        "id": "M5121_S0010_G0020_001_ane",
+        "jp": "ああ、最近、資材置き場の仕事が滞っててな。",
+        "en": "We've been falling behind on our material-storage work as of late.",
+        "ru": "Мы сильно отстаём от графика с работами на складе материалов."
+    },
+    {
+        "id": "M5121_S0010_G0030_001_ane",
+        "jp": "管理担当者は普段は有能な奴なんだが……",
+        "en": "The person in charge is usually quite reliable, but lately...",
+        "ru": "Ответственная за это дело обычно довольно надежна, но в последнее время..."
+    },
+    {
+        "id": "M5121_S0010_G0040_001_ane",
+        "jp": "どうやら悩みがあるみたいで、仕事に身が入らないらしい。",
+        "en": "Well, to be blunt, she's been slacking. I think there's some kind of personal issue distracting her.",
+        "ru": "Честно говоря, она стала отлынивать. Полагаю, есть некая личная проблема, которая отвлекает её."
+    },
+    {
+        "id": "M5121_S0010_G0050_001_ane",
+        "jp": "何の悩みだかは知らんが、全体に影響を及ぼす前に何とかしなくてはな……",
+        "en": "I don't know the whole story, but I'm going to have to find out so this doesn't disrupt our operation any more than it already has.",
+        "ru": "Я не знаю, какая именно, но, видимо, придётся всё разузнать, чтобы это более не мешало нашей работе."
+    },
+    {
+        "id": "M5121_S0010_G0051_001_ane",
+        "jp": "管理担当者はキャンプの奥に組んである足場を上がったところに\\nいるはずだ。",
+        "en": "You can find the person in charge on top of the scaffolding at the back of the camp.",
+        "ru": "Ответственную вы сможете найти на подмостях, на задворках лагеря."
+    },
+    {
+        "id": "M5121_S0010_G0052_001_ane",
+        "jp": "良ければ、話をきいてやってくれ。",
+        "en": "Would you mind talking to him?",
+        "ru": "Не могли бы вы с ней поговорить?"
+    },
+    {
+        "id": "M5121_S0010_G0060_001_manager",
+        "jp": "はあ……気になる……気になり過ぎる……",
+        "en": "*sigh* Why can't I stop thinking about it...?",
+        "ru": "*вздох* И почему я никак не могу перестать думать об этом?.."
+    },
+    {
+        "id": "M5121_S0010_G0070_001_a9s",
+        "jp": "あのー、何が気になるんでしょうか？",
+        "en": "Stop thinking about what?",
+        "ru": "Перестать думать о чём?"
+    },
+    {
+        "id": "M5121_S0010_G0080_001_manager",
+        "jp": "ん……貴方は？",
+        "en": "Gya! What!? Who are you!?",
+        "ru": "Уа-а! Чего?! Вы кто?!"
+    },
+    {
+        "id": "M5121_S0010_G0090_001_a9s",
+        "jp": "僕達はヨルハ部隊の人間です。",
+        "en": "We're with YoRHa.",
+        "ru": "Мы из YoRHa."
+    },
+    {
+        "id": "M5121_S0010_G0100_001_a9s",
+        "jp": "アネモネさんに、このキャンプの様子を見るように言われてて。",
+        "en": "Anemone told us to make ourselves at home.",
+        "ru": "Анемона велела нам осваиваться здесь потихоньку."
+    },
+    {
+        "id": "M5121_S0010_G0110_001_manager",
+        "jp": "なるほど……",
+        "en": "Oh...r-right.",
+        "ru": "О... в-вот как."
+    },
+    {
+        "id": "M5121_S0010_G0120_001_a9s",
+        "jp": "で、一体何が気になるんですか？",
+        "en": "So. What can't you stop thinking about?",
+        "ru": "Итак. О чём же вы никак не можете перестать думать?"
+    },
+    {
+        "id": "M5121_S0010_G0130_001_manager",
+        "jp": "ああ、実は同僚が持っていた『開くと音の鳴る箱』の事が\\n気になって気になって。",
+        "en": "Oh, it's just... One of my friends has a box that makes music when you open it, and I can't get the damn song out of my head.",
+        "ru": "Ну это, просто... У моей подруги была такая коробочка — открываешь ее, и начинает играть музыка, и я никак не могу выкинуть её из головы."
+    },
+    {
+        "id": "M5121_S0010_G0140_001_manager",
+        "jp": "箱を開けると、とても綺麗な音色が流れてくるの。",
+        "en": "It's just so beautiful! I've never heard anything like it!",
+        "ru": "Она такая красивая! Прежде мне не доводилось слышать подобного!"
+    },
+    {
+        "id": "M5121_S0010_G0150_001_manager",
+        "jp": "けれど、そのメロディーが途中からどうしても曖昧になってしまって……",
+        "en": "And to make it worse, I can only remember the first part of the song...",
+        "ru": "Но вот что плохо — я могу вспомнить только первую часть мелодии..."
+    },
+    {
+        "id": "M5121_S0010_G0160_001_manager",
+        "jp": "ああ、気になる！",
+        "en": "Daaah, it's driving me nuts!",
+        "ru": "А-а-а, и это сводит меня с ума!"
+    },
+    {
+        "id": "M5121_S0010_G0170_001_manager",
+        "jp": "そもそも、あいつが早く帰ってくればいい話なのよね！ああもう！",
+        "en": "I wish she'd just come back to camp so I could hear the damn thing again!",
+        "ru": "Я бы очень хотела, чтобы она вернулась в лагерь, тогда я бы смогла послушать эту чёртову мелодию снова!"
+    },
+    {
+        "id": "M5121_S0010_G0180_001_sele",
+        "jp": "『開くと音の鳴る箱』を探す。",
+        "en": "Go look for the missing item.",
+        "ru": "Отправиться на поиски."
+    },
+    {
+        "id": "M5121_S0010_G0190_001_sele",
+        "jp": "神経質な相手なので放置する。",
+        "en": "Let the weirdo work it out herself.",
+        "ru": "Пусть чудачка сама разбирается."
+    },
+    {
+        "id": "M5121_S0010_G0200_001_a9s",
+        "jp": "この様子じゃ、仕事なんて手につかなそうですね……",
+        "en": "Yeah, if we don't help her, she'll never get any work done.",
+        "ru": "Ага, если мы ей не поможем, она никогда не завершит свою работу."
+    },
+    {
+        "id": "M5121_S0010_G0210_001_a2b",
+        "jp": "『開くと音の鳴る箱』か……",
+        "en": "A box that plays sound? Odd.",
+        "ru": "Коробочка, издающая звуки? Как странно."
+    },
+    {
+        "id": "M5121_S0010_G0220_001_pod042",
+        "jp": "推測：名称はオルゴール。音楽が鳴る場所にある可能性。",
+        "en": "Analysis: The item in question is likely a \"music box.\" It should be located in an area where music is playing.",
+        "ru": "Анализ: запрашиваемый предмет, вероятнее всего — \"музыкальная шкатулка\". Она должна находиться в месте, где играет музыка."
+    },
+    {
+        "id": "M5121_S0010_G0230_001_pod042",
+        "jp": "近場では遊園地が候補として挙げられる。",
+        "en": "Proposal: The local amusement park would be a logical area for reconnaissance.",
+        "ru": "Предложение: местный парк развлечений будет логичным местом для поиска."
+    },
+    {
+        "id": "M5121_S0010_G0240_001_a9s",
+        "jp": "すごく短絡的な発想だけど……",
+        "en": "That's some fuzzy logic there, Pod...",
+        "ru": "Бот, это не очень-то логично..."
+    },
+    {
+        "id": "M5121_S0010_G0250_001_a9s",
+        "jp": "他にアテもないですし、行ってみましょうか。",
+        "en": "But hey, might as well try it. Not like we have any other leads to go on.",
+        "ru": "Но эй, попытка не пытка. Не похоже, что у нас есть какие-то другие варианты."
+    },
+    {
+        "id": "M5121_S0010_G0060_001_manager",
+        "jp": "はあ……気になる……気になり過ぎる……",
+        "en": "*sigh* Why can't I stop thinking about it...?",
+        "ru": "*вздох* И почему я никак не могу перестать думать об этом?.."
+    },
+    {
+        "id": "M5121_S0010_G0180_001_sele",
+        "jp": "『開くと音の鳴る箱』を探す。",
+        "en": "Go look for the missing item.",
+        "ru": "Отправиться на поиски."
+    },
+    {
+        "id": "M5121_S0010_G0190_001_sele",
+        "jp": "神経質な相手なので放置する。",
+        "en": "Let the weirdo work it out herself.",
+        "ru": "Пусть чудачка сама разбирается."
+    },
+    {
+        "id": "M5121_S0010_G0000_300_manager",
+        "jp": "『開くと音の鳴る箱』は見つかった？",
+        "en": "Did you find the music box I asked you about?",
+        "ru": "Вы нашли музыкальную шкатулку, о которой я говорила?"
+    },
+    {
+        "id": "M5121_S0010_G0260_001_a9s",
+        "jp": "あの資材置き場の担当者が言ってたオルゴールってこれかな？",
+        "en": "Is this the \"music box\" she was looking for?",
+        "ru": "Это и есть \"музыкальная шкатулка\", которую мы ищем?"
+    },
+    {
+        "id": "M5121_S0010_G0270_001_a9s",
+        "jp": "かなり錆びてるけど。",
+        "en": "Man, this thing is all rusted over...",
+        "ru": "Ну и ну, эта штука такая ржавая..."
+    },
+    {
+        "id": "M5121_S0010_G0280_001_a2b",
+        "jp": "死体……",
+        "en": "Look. A corpse.",
+        "ru": "Труп..."
+    },
+    {
+        "id": "M5121_S0010_G0290_001_a9s",
+        "jp": "持ち主は……このアンドロイドでしょうか？",
+        "en": "You think the box belonged to her?",
+        "ru": "Ты думаешь, шкатулка принадлежала ей?"
+    },
+    {
+        "id": "M5121_S0010_G0300_001_a9s",
+        "jp": "様子からして、大分前に亡くなったみたいですけど。",
+        "en": "Poor girl died a long time ago, by the looks of it.",
+        "ru": "Бедняжка, похоже, она умерла уже очень давно."
+    },
+    {
+        "id": "M5121_S0010_G0310_001_a2b",
+        "jp": "……とにかく、この箱を担当者に届けよう。",
+        "en": "Let's bring this back to her friend.",
+        "ru": "Давай вернём это её подруге."
+    },
+    {
+        "id": "M5121_S0030_G0000_001_a9s",
+        "jp": "すみません、探していた『開くと音の鳴る箱』ってこれの事でしょうか？",
+        "en": "Excuse me. Is this the \"music box\" you were looking for?",
+        "ru": "Извините. Вы, случаем, не эту \"музыкальную шкатулку\" ищете?"
+    },
+    {
+        "id": "M5121_S0030_G0010_001_manager",
+        "jp": "そう！これよこれ！どこにあったの？",
+        "en": "THAT'S IT! Where did you find it?",
+        "ru": "ЭТО ОНА! Где вы её нашли?"
+    },
+    {
+        "id": "M5121_S0030_G0020_001_a2b",
+        "jp": "遊園地の……持ち主と思われるアンドロイドの遺体の近くに。",
+        "en": "In the amusement park, next to the corpse of an android. Maybe that was its owner?",
+        "ru": "В парке развлечений, неподалёку от трупа андроида. Возможно ли, что это был её владелец?"
+    },
+    {
+        "id": "M5121_S0030_G0030_001_manager",
+        "jp": "あ……",
+        "en": "...Oh.",
+        "ru": "...Ох."
+    },
+    {
+        "id": "M5121_S0030_G0040_001_a9s",
+        "jp": "その人って……",
+        "en": "Was she...",
+        "ru": "Неужели она..."
+    },
+    {
+        "id": "M5121_S0030_G0050_001_manager",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5121_S0030_G0060_001_manager",
+        "jp": "……大分錆びちゃってるけど、修理すればきっとまた鳴るよね。",
+        "en": "Well, it's awfully rusty, but with a little work I should be able to get it playing again.",
+        "ru": "В любом случае, она ужасно ржавая, но, немного поработав, я смогу заставить её играть вновь."
+    },
+    {
+        "id": "M5121_S0030_G0070_001_a9s",
+        "jp": "ええ、もちろんです。",
+        "en": "Of course.",
+        "ru": "Конечно."
+    },
+    {
+        "id": "M5121_S0030_G0080_001_manager",
+        "jp": "……箱を持ってきてくれて、ありがとう。",
+        "en": "Thank you for bringing the box to me.",
+        "ru": "Спасибо, что принесли мне шкатулку."
+    },
+    {
+        "id": "M5121_S0030_G0090_001_manager",
+        "jp": "これで仕事にも身が入るってもの！",
+        "en": "Now I can finally concentrate on my work again!",
+        "ru": "Теперь я наконец-то смогу сосредоточиться на работе!"
+    },
+    {
+        "id": "M5121_S0030_G0100_001_manager",
+        "jp": "あなた達も、奥に自由に出入りしていいからね。",
+        "en": "Oh, and you two are welcome to enter the back anytime you like from now on.",
+        "ru": "О, кстати, теперь вы можете пройти внутрь, приходите в любое время."
+    },
+    {
+        "id": "M5121_S0010_G0000_300_manager",
+        "jp": "『開くと音の鳴る箱』は見つかった？",
+        "en": "Did you find the music box I asked you about?",
+        "ru": "Вы нашли музыкальную шкатулку, о которой я говорила?"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "id": "M6020_S0010_G0000_300_a9s",
+        "jp": "どうかしましたか？",
+        "en": "Yeah? What's up?",
+        "ru": "Да? Что случилось?"
+    },
+    {
+        "id": "M6020_S0010_G0010_300_a9s",
+        "jp": "はい、なんでしょう？",
+        "en": "What is it?",
+        "ru": "В чём дело?"
+    },
+    {
+        "id": "M6020_S0010_G0020_300_a9s",
+        "jp": "作戦を変えますか？",
+        "en": "You want to adjust my combat style?",
+        "ru": "Хочешь изменить мой стиль боя?"
+    },
+    {
+        "id": "M6020_S0010_G0030_300_a2b",
+        "jp": "なに？",
+        "en": "What?",
+        "ru": "Чего?"
+    },
+    {
+        "id": "M6020_S0010_G0040_300_a2b",
+        "jp": "どうしたの？",
+        "en": "Something up?",
+        "ru": "Что-то случилось?"
+    },
+    {
+        "id": "M6020_S0010_G0050_300_a2b",
+        "jp": "作戦変更？",
+        "en": "Change of plans?",
+        "ru": "Меняем планы?"
+    },
+    {
+        "id": "M6020_S0010_G0090_300_unknown",
+        "jp": "戦闘タイプを選択して下さい。",
+        "en": "Choose a combat style.",
+        "ru": "Выберите стиль боя"
+    },
+    {
+        "id": "M6020_S0010_G0100_300_sele",
+        "jp": "バランス",
+        "en": "Balanced",
+        "ru": "Сбалансированный"
+    },
+    {
+        "id": "M6020_S0010_G0110_300_sele",
+        "jp": "近距離",
+        "en": "Close-range",
+        "ru": "Ближний бой"
+    },
+    {
+        "id": "M6020_S0010_G0120_300_sele",
+        "jp": "遠距離",
+        "en": "Long-range",
+        "ru": "Дальний бой"
+    },
+    {
+        "id": "M6020_S0010_G0130_300_sele",
+        "jp": "積極",
+        "en": "Aggressive",
+        "ru": "Агрессивный"
+    },
+    {
+        "id": "M6020_S0010_G0140_300_sele",
+        "jp": "慎重",
+        "en": "Cautious",
+        "ru": "Осторожный"
+    },
+    {
+        "id": "M6020_S0010_G0150_300_sele",
+        "jp": "非戦闘",
+        "en": "Passive",
+        "ru": "Пассивный"
+    },
+    {
+        "id": "M6020_S0010_G0160_300_sele",
+        "jp": "変更しない",
+        "en": "Don't change",
+        "ru": "Не менять"
+    },
+    {
+        "id": "M3030_S0110_G0121_001_pascal",
+        "jp": "あいつらを叩き潰して、ぶっ殺します！",
+        "en": "I will smash them up and kill them!",
+        "ru": "Я их всех уничтожу!"
+    },
+    {
+        "id": "M6020_S0010_G0060_300_pascal",
+        "jp": "先を急ぎましょう！",
+        "en": "Let's get going!",
+        "ru": "Продолжим наш путь!"
+    },
+    {
+        "id": "M6020_S0010_G0070_300_pascal",
+        "jp": "頼りにしています。",
+        "en": "I'm counting on you.",
+        "ru": "Я рассчитываю на тебя."
+    },
+    {
+        "id": "M6020_S0010_G0080_300_pascal",
+        "jp": "早く目的地に向かいましょう！",
+        "en": "We should hurry to our destination!",
+        "ru": "Нужно поспешить к месту назначения!"
+    },
+    {
+        "id": "M5920_S0010_G0610_001_pod042",
+        "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
+        "en": "Report: Your affinity with this pod has reached its maximum level.",
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+    },
+    {
+        "id": "M5920_S0010_G0620_001_pod042",
+        "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
+        "en": "Please note that excessive care is not necessary for combat-based activity.",
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+    },
+    {
+        "id": "M5920_S0010_G0630_001_pod042",
+        "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
+        "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+    },
+    {
+        "id": "M5920_S0010_G0640_001_pod042",
+        "jp": "今後、いかなる時もポッド０４２はヨルハ機体２Ｂを守ると誓おう。",
+        "en": "Pod 042 promises to protect YoRHa unit 2B in any situation.",
+        "ru": "Бот 042 обещает защищать единицу YoRHa 2B при любых обстоятельствах."
+    },
+    {
+        "id": "M5920_S0010_G0660_001_pod042",
+        "jp": "以上。",
+        "en": "End report.",
+        "ru": "Конец отчёта."
+    },
+    {
+        "id": "M5920_S0010_G0610_001_pod042",
+        "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
+        "en": "Report: Your affinity with this pod has reached its maximum level.",
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+    },
+    {
+        "id": "M5920_S0010_G0620_001_pod042",
+        "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
+        "en": "Please note that excessive care is not necessary for combat-based activity.",
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+    },
+    {
+        "id": "M5920_S0010_G0630_001_pod042",
+        "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
+        "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+    },
+    {
+        "id": "M5920_S0010_G0650_001_pod042",
+        "jp": "今後、いかなる時もポッド０４２はヨルハ機体Ａ２を守ると誓おう。",
+        "en": "Pod 042 promises to protect YoRHa unit A2 in any situation.",
+        "ru": "Бот 042 обещает защищать единицу YoRHa A2 при любых обстоятельствах."
+    },
+    {
+        "id": "M5920_S0010_G0660_001_pod042",
+        "jp": "以上。",
+        "en": "End report.",
+        "ru": "Конец отчёта."
+    },
+    {
+        "id": "M5920_S0020_G0610_001_pod153",
+        "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
+        "en": "Report: Your affinity with this pod has reached its maximum level.",
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+    },
+    {
+        "id": "M5920_S0020_G0620_001_pod153",
+        "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
+        "en": "Please note that excessive care is not necessary for combat-based activity.",
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+    },
+    {
+        "id": "M5920_S0020_G0630_001_pod153",
+        "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
+        "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+    },
+    {
+        "id": "M5920_S0020_G0640_001_pod153",
+        "jp": "今後、いかなる時もポッド１５３はヨルハ機体９Ｓを守ると誓おう。",
+        "en": "Pod 153 promises to protect YoRHa unit 9S in any situation.",
+        "ru": "Бот 153 обещает защищать единицу YoRHa 9S в любой ситуации."
+    },
+    {
+        "id": "M5920_S0020_G0650_001_pod153",
+        "jp": "以上。",
+        "en": "End report.",
+        "ru": "Конец отчёта."
+    },
+    {
+        "id": "M5920_S0150_G0000_001_a9s",
+        "jp": "でも、大きな商業施設を作るなんて、\\n旧世界の人類は余裕があったんですね〜",
+        "en": "I can't believe the size of the commercial facility. The people of the old world must have led pretty good lives.",
+        "ru": "До чего же большое торговое здание. Люди старого мира, должно быть, недурственно поживали."
+    },
+    {
+        "id": "M5920_S0150_G0010_001_a9s",
+        "jp": "沢山の商品を前に買い物できたら、楽しいでしょうね〜",
+        "en": "I bet it was fun to shop back when you had so many choices.",
+        "ru": "Я уверен, было весело ходить за покупками при такой большой свободе выбора."
+    },
+    {
+        "id": "M5920_S0150_G0020_001_a2b",
+        "jp": "私達には必要ない。",
+        "en": "We don't need such things.",
+        "ru": "Мы не нуждаемся в подобном."
+    },
+    {
+        "id": "M5920_S0150_G0030_001_a9s",
+        "jp": "いや、そんな事もないですよ？",
+        "en": "Don't be so sure about that!",
+        "ru": "Не будь так в этом уверена!"
+    },
+    {
+        "id": "M5920_S0150_G0040_001_a9s",
+        "jp": "機械生命体を殲滅させたら、僕達兵士はやることがなくなります。",
+        "en": "Once we eradicate the machine lifeforms, us soldiers won't have anything left to do.",
+        "ru": "Как только мы одолеем машины, нам, солдатам, будет совсем нечем заняться."
+    },
+    {
+        "id": "M5920_S0150_G0050_001_a9s",
+        "jp": "そうしたら、平和に暮らす日がきっと来るはずです。",
+        "en": "We'll enter a new age of peace.",
+        "ru": "Мы вступаем в новую эпоху мироздания."
+    },
+    {
+        "id": "M5920_S0150_G0060_001_a9s",
+        "jp": "そうだ。平和になったら、一緒に買い物に行きましょうよ。",
+        "en": "And when that happens, we should go shopping together!",
+        "ru": "И когда это случится, нам обязательно надо будет сходить за покупками вместе!"
+    },
+    {
+        "id": "M5920_S0150_G0070_001_a9s",
+        "jp": "２Ｂにお似合いのＴシャツとか買ってあげます。",
+        "en": "I could buy you...I dunno. A T-shirt, maybe? Something that looks good on you.",
+        "ru": "Я мог бы купить тебе... ну не знаю. Быть может, футболку? На тебе бы она неплохо смотрелась."
+    },
+    {
+        "id": "M5920_S0150_G0080_001_a2b",
+        "jp": "Ｔシャツ……",
+        "en": "A T-shirt?",
+        "ru": "Футболка?"
+    },
+    {
+        "id": "M5920_S0150_G0090_001_a9s",
+        "jp": "あれ？要らないですか？",
+        "en": "What? Not interested?",
+        "ru": "Чего? Совсем такое не интересует?"
+    },
+    {
+        "id": "M5920_S0150_G0100_001_a2b",
+        "jp": "いや……",
+        "en": "Hmm...",
+        "ru": "Хм..."
+    },
+    {
+        "id": "M5920_S0150_G0110_001_a2b",
+        "jp": "その日が来たら、いつか行こう。",
+        "en": "When that day comes...I'm all for it.",
+        "ru": "Если этот день наступит... то я только за."
+    },
+    {
+        "id": "M5920_S0150_G0120_001_a9s",
+        "jp": "本当ですか？約束ですからね？",
+        "en": "That's a promise, right?",
+        "ru": "Обещаешь?"
+    },
+    {
+        "id": "M5920_S0150_G0130_001_a2b",
+        "jp": "ああ。",
+        "en": "Yep.",
+        "ru": "Ага."
+    },
+    {
+        "id": "M5920_S0030_G0000_001_a2b",
+        "jp": "これは……ポッド？",
+        "en": "Is this...a pod?",
+        "ru": "Это же... бот?"
+    },
+    {
+        "id": "M5920_S0030_G0040_001_pod042",
+        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0060_001_a2b",
+        "jp": "どんな事情で捨てたんだろう……",
+        "en": "Why was it abandoned...?",
+        "ru": "Почему его здесь бросили?.."
+    },
+    {
+        "id": "M5920_S0030_G0070_001_a2b",
+        "jp": "再起動して、使えるようだったら私を管理者に上書きできるか試してみて。",
+        "en": "Pod, reactivate it for me. If it's usable, try to overwrite the original owner with my ID.",
+        "ru": "Бот, запусти его. Если он работает, перепиши ID предыдущего владельца на мой."
+    },
+    {
+        "id": "M5920_S0030_G0140_001_pod042",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0150_001_pod042",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0010_001_a2",
+        "jp": "これは……ポッド？",
+        "en": "Is this...a pod?",
+        "ru": "Это же... бот?"
+    },
+    {
+        "id": "M5920_S0030_G0040_001_pod042",
+        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0080_001_a2",
+        "jp": "どんな事情で捨てたんだか……",
+        "en": "Wonder why it was abandoned...",
+        "ru": "Интересно, почему его здесь бросили..."
+    },
+    {
+        "id": "M5920_S0030_G0090_001_a2",
+        "jp": "そいつ、まだ生きてる？",
+        "en": "Is that thing still functioning?",
+        "ru": "Эта штуковина ещё работает?"
+    },
+    {
+        "id": "M5920_S0030_G0140_001_pod042",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0150_001_pod042",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0020_001_a9s",
+        "jp": "これは……ポッド？",
+        "en": "Is this...a pod?",
+        "ru": "Это же... бот?"
+    },
+    {
+        "id": "M5920_S0030_G0050_001_pod153",
+        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0100_001_a9s",
+        "jp": "これを持っていたヨルハはどこに……",
+        "en": "What happened to the YoRHa unit this belonged to?",
+        "ru": "Что случилось с бойцом YoRHa, которому он принадлежал?"
+    },
+    {
+        "id": "M5920_S0030_G0110_001_a9s",
+        "jp": "そのポッド、まだ生きてる？生きてたら僕を管理者に上書きできるか\\n試してみて。",
+        "en": "Is this pod still online? If it is, see if you can overwrite the original owner with my ID.",
+        "ru": "Этот бот ещё функционирует? Если да, проверь, можно ли переписать ID предыдущего владельца на мой."
+    },
+    {
+        "id": "M5920_S0030_G0160_001_pod153",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0170_001_pod153",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0030_001_a9s",
+        "jp": "これは……ポッド？",
+        "en": "Seriously? A pod?",
+        "ru": "Серьёзно? Бот?"
+    },
+    {
+        "id": "M5920_S0030_G0050_001_pod153",
+        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0120_001_a9s",
+        "jp": "棄てられたポッドか……",
+        "en": "Abandoned pod, huh?",
+        "ru": "Бесхозный бот, да?"
+    },
+    {
+        "id": "M5920_S0030_G0130_001_a9s",
+        "jp": "再起動と所有権の上書き確認。",
+        "en": "Pod, reactivate this and try to overwrite the original owner ID.",
+        "ru": "Бот, перезапусти его и перепиши ID предыдущего хозяина."
+    },
+    {
+        "id": "M5920_S0030_G0160_001_pod153",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0170_001_pod153",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0180_001_a2b",
+        "jp": "ポッドが釣れた……",
+        "en": "I caught a pod?",
+        "ru": "Я поймала бота?"
+    },
+    {
+        "id": "M5920_S0030_G0220_001_pod042",
+        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0240_001_a2b",
+        "jp": "再起動と所有権の上書き確認を。",
+        "en": "Pod, reset it and try to overwrite the original owner ID.",
+        "ru": "Бот, перезагрузи его и перепиши ID предыдущего владельца."
+    },
+    {
+        "id": "M5920_S0030_G0280_001_pod042",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0290_001_pod042",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0190_001_a2",
+        "jp": "何でポッドが釣れるんだ……",
+        "en": "Um, did I really just catch a pod?",
+        "ru": "Эм, я что, серьёзно поймала бота?"
+    },
+    {
+        "id": "M5920_S0030_G0220_001_pod042",
+        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0250_001_a2",
+        "jp": "それ、使えないかチェックしてみて。",
+        "en": "Check and see if I can use it.",
+        "ru": "Проверь, смогу ли я его использовать."
+    },
+    {
+        "id": "M5920_S0030_G0280_001_pod042",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0290_001_pod042",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0200_001_a9s",
+        "jp": "わ。これって、もしかしてポッド？",
+        "en": "Whoa, is this a pod?",
+        "ru": "Ого, это ведь бот?"
+    },
+    {
+        "id": "M5920_S0030_G0230_001_pod153",
+        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0260_001_a9s",
+        "jp": "使えるのかな……再起動と所有権の確認をしてみて。",
+        "en": "I wonder if we can use it? Pod, reset this and check the original owner ID.",
+        "ru": "Интересно, смогу ли я его использовать? Бот, перезагрузи его и перепиши ID предыдущего владельца."
+    },
+    {
+        "id": "M5920_S0030_G0300_001_pod153",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0310_001_pod153",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0030_G0210_001_a9s",
+        "jp": "ポッドが釣れた？",
+        "en": "A pod?",
+        "ru": "Бот?"
+    },
+    {
+        "id": "M5920_S0030_G0230_001_pod153",
+        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
+        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
+        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
+    },
+    {
+        "id": "M5920_S0030_G0270_001_a9s",
+        "jp": "再起動と所有権の上書き確認。",
+        "en": "Pod, reset this thing and try to overwrite the original owner ID.",
+        "ru": "Бот, перезагрузи эту штуковину и перезапиши ID предыдущего владельца."
+    },
+    {
+        "id": "M5920_S0030_G0300_001_pod153",
+        "jp": "起動確認。アクセス成功。",
+        "en": "Activation complete. Access granted.",
+        "ru": "Активация выполнена. Доступ разрешён."
+    },
+    {
+        "id": "M5920_S0030_G0310_001_pod153",
+        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
+        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
+        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован."
+    },
+    {
+        "id": "M5920_S0010_G0180_001_pod042",
+        "jp": "報告：アクセスポイントからメール受信の連絡。",
+        "en": "Report: Mail notification received from access point.",
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+    },
+    {
+        "id": "M5920_S0020_G0180_001_pod153",
+        "jp": "報告：アクセスポイントからメール受信の連絡。",
+        "en": "Report: Mail notification received from access point.",
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+    }
+]

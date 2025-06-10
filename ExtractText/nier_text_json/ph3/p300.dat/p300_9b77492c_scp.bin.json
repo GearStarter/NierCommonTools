@@ -1,0 +1,314 @@
+[
+    {
+        "id": "M3060_S0600_G0000_001_a2",
+        "jp": "クソッ……",
+        "en": "Damn it...",
+        "ru": "Проклятие..."
+    },
+    {
+        "id": "M3060_S0600_G0010_001_pod042",
+        "jp": "敵の強制ハッキング攻撃。",
+        "en": "Alert: Enemy hacking detected.",
+        "ru": "Внимание: обнаружен взлом со стороны врага."
+    },
+    {
+        "id": "M3060_S0600_G0020_001_pod042",
+        "jp": "推奨：早急な離脱。",
+        "en": "Proposal: Retreat immediately.",
+        "ru": "Предложение: немедленно отступите."
+    },
+    {
+        "id": "M3060_S0600_G0030_001_a2",
+        "jp": "貴様は……ッ！！",
+        "en": "Who ARE you!?",
+        "ru": "Вы ещё КТО такие?!"
+    },
+    {
+        "id": "M3060_S0600_G0040_001_girls",
+        "jp": "久しぶりだな……二号。",
+        "en": "Good to see you again...Number Two.",
+        "ru": "Рады вновь тебя видеть... Номер 2."
+    },
+    {
+        "id": "M3060_S0600_G0050_001_girls",
+        "jp": "いや、今はＡ２と呼ぶべきか？",
+        "en": "Or should we call you A2 now?",
+        "ru": "Или же, теперь нам следует звать тебя A2?"
+    },
+    {
+        "id": "M3060_S0600_G0060_001_girls",
+        "jp": "懐かしいよ。",
+        "en": "This does bring back memories.",
+        "ru": "Навевает воспоминания."
+    },
+    {
+        "id": "M3060_S0600_G0070_001_girls",
+        "jp": "私達のような概念情報にとって時間は意味が無いが……",
+        "en": "Though to concepts like us, time has little meaning.",
+        "ru": "Хотя, для таких концепций, как мы, время не имеет значения."
+    },
+    {
+        "id": "M3060_S0600_G0080_001_girls",
+        "jp": "それでも君達の部隊を全滅させた事は印象に残っている。",
+        "en": "Still, when we wiped out your forces, it made quite the impression on us.",
+        "ru": "Тем не менее, когда мы уничтожили ваши силы, это произвело сильное впечатление на нас."
+    },
+    {
+        "id": "M3060_S0600_G0090_001_girls",
+        "jp": "ヨルハ部隊アタッカー二号機……",
+        "en": "YoRHa attacker model Number Two...",
+        "ru": "Атакующая модель YoRHa номер 2..."
+    },
+    {
+        "id": "M3060_S0600_G0100_001_girls",
+        "jp": "正式採用されるヨルハの為に生み出された、捨て石の実験部隊。",
+        "en": "An experimental, disposable group created as a test run for Project YoRHa.",
+        "ru": "Экспериментальная разовая группа, созданная в качестве теста для проекта YoRHa."
+    },
+    {
+        "id": "M3060_S0600_G0110_001_a2",
+        "jp": "うるさいッ！！",
+        "en": "Shut up!",
+        "ru": "Заткнись!"
+    },
+    {
+        "id": "M3060_S0600_G0120_001_girls",
+        "jp": "懲りないアンドロイドだな、君は。",
+        "en": "You're an obstinate little android, aren't you?",
+        "ru": "А ты упрямый андроид, не так ли?"
+    },
+    {
+        "id": "M3060_S0600_G0130_001_girls",
+        "jp": "私達は殺せないと言っただろう？",
+        "en": "Didn't we say that you can't kill us?",
+        "ru": "Разве мы не сказали, что тебе нас не убить?"
+    },
+    {
+        "id": "M3060_S0600_G0140_001_a2",
+        "jp": "クソッ！！",
+        "en": "God damn it!",
+        "ru": "Чёрт вас побери!"
+    },
+    {
+        "id": "M3060_S0600_G0150_001_pod042",
+        "jp": "提案。",
+        "en": "Proposal:",
+        "ru": "Предложение:"
+    },
+    {
+        "id": "M3060_S0600_G0160_001_a2",
+        "jp": "何だ！？",
+        "en": "What now!?",
+        "ru": "Теперь-то что?!"
+    },
+    {
+        "id": "M3060_S0600_G0170_001_pod042",
+        "jp": "敵の論理学習機能を利用して弱点を形成する。",
+        "en": "Utilize the enemy's logical learning function to formulate a weakness.",
+        "ru": "Используйте логическую функцию обучения врага для создания уязвимости."
+    },
+    {
+        "id": "M3060_S0600_G0180_001_a2",
+        "jp": "全然わからないッ！",
+        "en": "I don't know what that means!",
+        "ru": "Я не понимаю, что это значит!"
+    },
+    {
+        "id": "M3060_S0600_G0190_001_pod042",
+        "jp": "疑問：ヨルハ機体Ａ２の学習機能。",
+        "en": "This Pod has serious concerns about unit A2's cognitive abilities.",
+        "ru": "Данный бот имеет сильные сомнения в познавательных способностях единицы A2."
+    },
+    {
+        "id": "M3060_S0600_G0200_001_a2",
+        "jp": "うるさいッ！",
+        "en": "SHUT UP AND EXPLAIN IT ALREADY!",
+        "ru": "ЗАТКНИСЬ И ОБЪЯСНИ УЖЕ!"
+    },
+    {
+        "id": "M3060_S0600_G0210_001_pod042",
+        "jp": "敵の論理思考回路をインタラプトして演算遅延を発生させる作戦。",
+        "en": "Said strategy would interrupt the enemy's logic circuits, causing a computational delay.",
+        "ru": "Предложенная стратегия нарушает логические схемы противника, вызывая вычислительную задержку."
+    },
+    {
+        "id": "M3060_S0600_G0220_001_a2",
+        "jp": "つまり、どうするんだ！",
+        "en": "Meaning what!?",
+        "ru": "И что это значит?!"
+    },
+    {
+        "id": "M3060_S0600_G0230_001_pod042",
+        "jp": "敵を破壊してはいけない。",
+        "en": "Do not destroy the enemy.",
+        "ru": "Не уничтожайте противника."
+    },
+    {
+        "id": "M3060_S0600_G0240_001_a2",
+        "jp": "は！？",
+        "en": "Huh!?",
+        "ru": "Чего?!"
+    },
+    {
+        "id": "M3060_S0600_G0250_001_pod042",
+        "jp": "敵が一定数・一定時間存在する事がこの作戦の必要条件。",
+        "en": "Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time.",
+        "ru": "Атака по логической схеме требует наличия нескольких противников в течение некоторого времени."
+    },
+    {
+        "id": "M3060_S0600_G0260_001_a2",
+        "jp": "何だそれッ！？",
+        "en": "Oh, what the hell...",
+        "ru": "Что за чёрт..."
+    },
+    {
+        "id": "M3060_S0600_G0270_001_pod042",
+        "jp": "敵の演算速度が回復。",
+        "en": "The enemy's processing speed has returned to normal.",
+        "ru": "Скорость обработки данных врагом вернулась к норме."
+    },
+    {
+        "id": "M3060_S0600_G0280_001_pod042",
+        "jp": "推奨：敵を破壊しない事。",
+        "en": "Proposal: Do not destroy enemies.",
+        "ru": "Предложение: не уничтожайте врагов."
+    },
+    {
+        "id": "M3060_S0600_G0290_001_a2",
+        "jp": "わかってるッ！",
+        "en": "I know, all right!?",
+        "ru": "Да поняла я, поняла!"
+    },
+    {
+        "id": "M3060_S0600_G0300_001_pod042",
+        "jp": "敵自我データ飽和率３０％",
+        "en": "Consciousness data saturation rate 30 percent.",
+        "ru": "Насыщение сознания противника данными: 30%."
+    },
+    {
+        "id": "M3060_S0600_G0301_001_girls",
+        "jp": "面白い……面白い……",
+        "en": "It's all so very amusing...",
+        "ru": "Всё это так забавляет..."
+    },
+    {
+        "id": "M3060_S0600_G0310_001_pod042",
+        "jp": "敵自我データ飽和率６０％",
+        "en": "Consciousness data saturation rate 60 percent.",
+        "ru": "Насыщение сознания противника данными: 60%."
+    },
+    {
+        "id": "M3060_S0600_G0311_001_girls",
+        "jp": "人類が遺したアンドロイドがまるで人類になりたいかのように振る舞う。",
+        "en": "The androids the human race left behind acted as if they wanted to be human.",
+        "ru": "Андроиды, оставленные человечеством, действовали так, будто хотели быть людьми."
+    },
+    {
+        "id": "M3060_S0600_G0312_001_girls",
+        "jp": "エイリアンが遺した機械生命体がまるで人類になりたいかのように\\n振る舞う。",
+        "en": "The machine lifeforms the aliens left behind acted as if they wanted to be human.",
+        "ru": "Машины, оставшиеся после пришельцев, действовали так, будто хотели быть людьми."
+    },
+    {
+        "id": "M3060_S0600_G0313_001_girls",
+        "jp": "私達は似ている……\\nだが、ネットワーク化された私達の方が圧倒的に優れている。",
+        "en": "We resemble each other so, but we are networked, and thus we are superior to you.",
+        "ru": "Мы похожи на вас, но связаны сетью, и поэтому мы превосходим вас."
+    },
+    {
+        "id": "M3060_S0600_G0320_001_pod042",
+        "jp": "予測：防衛機構による敵の論理進化。",
+        "en": "Hypothesis: The enemy's defensive system is prompting an evolution of its logic.",
+        "ru": "Предположение: защитная система противника проводит вынужденное развитие логики."
+    },
+    {
+        "id": "M3060_S0600_G0321_001_girls",
+        "jp": "愚かなアンドロイドよ……なぜ抗うのか？",
+        "en": "Foolish androids... Why do you resist?",
+        "ru": "Глупые андроиды... Почему вы сопротивляетесь?"
+    },
+    {
+        "id": "M3060_S0600_G0322_001_girls",
+        "jp": "死を受け入れる事こそが、全ての終末ではないのか？",
+        "en": "All things end with accepting death, do they not?",
+        "ru": "Всё заканчивается принятием смерти, не так ли?"
+    },
+    {
+        "id": "M3060_S0600_G0330_001_pod042",
+        "jp": "敵自我データ飽和率９０％",
+        "en": "Consciousness data saturation rate 90 percent.",
+        "ru": "Насыщение сознания противника данными: 90%."
+    },
+    {
+        "id": "M3060_S0600_G0331_001_girls",
+        "jp": "私達は一つであり、複数でもある。",
+        "en": "We are one, and yet we are many.",
+        "ru": "Мы одно, и в то же время нас много."
+    },
+    {
+        "id": "M3060_S0600_G0332_001_girls",
+        "jp": "私達は有限であると同時に無限だ。",
+        "en": "We are finite, and yet we are infinite.",
+        "ru": "Мы конечны, и в то же время бесконечны."
+    },
+    {
+        "id": "M3060_S0600_G0333_001_girls",
+        "jp": "私達こそが完成された精神の在りようなのだ。",
+        "en": "We are the embodiment of the perfect being.",
+        "ru": "Мы — воплощение совершенного бытия."
+    },
+    {
+        "id": "M3060_S0600_G0340_001_pod042",
+        "jp": "予測：生命の多様性を学習。",
+        "en": "Hypothesis: The enemy has become aware of the diversity of life.",
+        "ru": "Предположение: противник осознал многообразие жизни."
+    },
+    {
+        "id": "M3060_S0600_G0341_001_girls",
+        "jp": "ああっ……見える……光が……",
+        "en": "Ahh... I see it... The light...",
+        "ru": "Ах... Я вижу его... Свет..."
+    },
+    {
+        "id": "M3060_S0600_G0342_001_girls",
+        "jp": "私達は進む……この先に……未来に！",
+        "en": "We move on... Forward... To the future!",
+        "ru": "Мы движемся... Вперёд... В будущее!"
+    },
+    {
+        "id": "M3060_S0600_G0350_001_pod042",
+        "jp": "敵自我データ飽和率１００％",
+        "en": "Consciousness data saturation rate 100 percent.",
+        "ru": "Насыщение сознания противника данными: 100%."
+    },
+    {
+        "id": "M3060_S0600_G0360_001_pod042",
+        "jp": "予測：敵自我が分裂を開始。",
+        "en": "Hypothesis: The enemy's consciousness has begun to fracture.",
+        "ru": "Предположение: сознание врага начало разрушаться."
+    },
+    {
+        "id": "M3060_S0620_G0000_001_a2",
+        "jp": "何だッ！？",
+        "en": "What the—!?",
+        "ru": "Что за?!"
+    },
+    {
+        "id": "M3060_S0620_G0010_001_pod042",
+        "jp": "報告：飽和した自我が相互に闘争を開始。",
+        "en": "Analysis: The saturated consciousnesses are now in conflict with each other.",
+        "ru": "Анализ: перенасыщенное сознание вступило в конфликт само с собой."
+    },
+    {
+        "id": "M3060_S0620_G0020_001_a2",
+        "jp": "ハッ！まるで……",
+        "en": "Huh...",
+        "ru": "Что..."
+    },
+    {
+        "id": "M3060_S0620_G0030_001_a2",
+        "jp": "まるで、人類みたいだな……",
+        "en": "They're acting like humans...",
+        "ru": "Они ведут себя как люди..."
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "id": "M1040_S0030_G0000_001_a2b",
+        "jp": "全員が……白旗？",
+        "en": "They all have white flags...",
+        "ru": "У всех белые флаги..."
+    },
+    {
+        "id": "M1040_S0030_G0010_001_a9s",
+        "jp": "戦う意思がない、って事でしょうか？",
+        "en": "Looks like they really don't want to fight.",
+        "ru": "Похоже, они действительно не намерены сражаться."
+    },
+    {
+        "id": "M1040_S0030_G0070_001_a9s",
+        "jp": "やっぱりこの村……何か変ですよ。",
+        "en": "There's something weird about this village...",
+        "ru": "Эта деревня довольно странная..."
+    },
+    {
+        "id": "M1040_S0030_G0080_001_a9s",
+        "jp": "戻って調べましょう。",
+        "en": "We should go back and look around some more.",
+        "ru": "Нужно будет ещё как-нибудь вернуться и осмотреть здесь всё."
+    },
+    {
+        "id": "M1040_S0030_G0005_300_a9s",
+        "jp": "推奨：機械生命体の集落の調査。\\n現段階の情報では、司令部への報告は困難。",
+        "en": "Alert: Current intel insufficient for Command. Suggest investigating machine lifeform settlement.",
+        "ru": "Внимание: текущей информации недостаточно для Штаба. Предлагаю исследовать колонию машин."
+    },
+    {
+        "id": "M1040_S0030_G0090_001_pascal",
+        "jp": "……まず、最初に",
+        "en": "Hello.",
+        "ru": "Привет."
+    },
+    {
+        "id": "M1040_S0030_G0100_001_pascal",
+        "jp": "聞いていただきたい事があります。",
+        "en": "Before we begin, there's something you must understand...",
+        "ru": "Прежде чем мы начнём, вам стоит кое-что понять..."
+    },
+    {
+        "id": "M1040_S0030_G0110_001_pascal",
+        "jp": "私達は貴方の敵ではありません。",
+        "en": "We are not your enemies.",
+        "ru": "Мы вам не враги."
+    },
+    {
+        "id": "M1040_S0030_G0120_001_a9s",
+        "jp": "２Ｂ！機械生命体の言う事なんて信じちゃダメです！",
+        "en": "2B, we can't trust anything the machines say!",
+        "ru": "2B, мы не можем доверять словам машин!"
+    },
+    {
+        "id": "M1040_S0030_G0130_001_pascal",
+        "jp": "……確かに、貴方達にとって私達、機械生命体は敵です。",
+        "en": "I understand that you see us as the enemy, but...",
+        "ru": "Я понимаю, что вы видите в нас врагов, но..."
+    },
+    {
+        "id": "M1040_S0030_G0140_001_pascal",
+        "jp": "私の名前はパスカル。この村の長をしています。",
+        "en": "Well, anyway. My name is Pascal. I'm the leader of this village.",
+        "ru": "Ну, как бы то ни было. Меня зовут Паскаль. Я — староста этой деревни."
+    },
+    {
+        "id": "M1040_S0030_G0150_001_pascal",
+        "jp": "この村に住む者達は……戦いから逃げてきた平和主義者しかいません。",
+        "en": "Those who reside here desire nothing more than to live a peaceful existence.",
+        "ru": "Жители этой деревни желают лишь одного — мирной жизни."
+    },
+    {
+        "id": "M1040_S0030_G0160_001_pascal",
+        "jp": "良ければ、皆さん自身の目で確認してみてください……",
+        "en": "Look around for yourself. You'll see that it's true.",
+        "ru": "Взгляните вокруг. И вы сами в этом убедитесь."
+    },
+    {
+        "id": "M1040_S0031_G0000_001_pascal",
+        "jp": "そうだ。私達は、貴方達アンドロイドとの交流もあるのです。",
+        "en": "You know, we already have something of a relationship with you androids.",
+        "ru": "Видите ли, у нас с вами, андроидами, уже есть кое-какие взаимоотношения."
+    },
+    {
+        "id": "M1040_S0031_G0010_001_pascal",
+        "jp": "レジスタンスキャンプのアネモネさんにこれを持って行ってください。",
+        "en": "In fact, I'm hoping you can take this to Anemone in the Resistance camp.",
+        "ru": "Кстати, я надеюсь, вы сможете отнести это Анемоне в лагерь Сопротивления."
+    },
+    {
+        "id": "M1040_S0031_G0020_001_a9s",
+        "jp": "これは……？",
+        "en": "What is it?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M1040_S0031_G0030_001_pascal",
+        "jp": "アネモネさんに頼まれていた、燃料用の濾過フィルターです。",
+        "en": "It's a fuel filter that she requested.",
+        "ru": "Это топливный фильтр, который она просила."
+    },
+    {
+        "id": "M1040_S0031_G0040_001_pascal",
+        "jp": "渡していただければ、私達が平和的な種族である事を理解していただけると思います。",
+        "en": "If you take it to her, it should make it clear that we're a peaceful group.",
+        "ru": "Если доставите это ей, она наверняка подтвердит, что мы — мирное поселение."
+    },
+    {
+        "id": "M1040_S0031_G0050_001_a2b",
+        "jp": "……判った。",
+        "en": "All right.",
+        "ru": "Хорошо."
+    },
+    {
+        "id": "M1040_S0031_G0040_001_pascal",
+        "jp": "渡していただければ、私達が平和的な種族である事を理解していただけると思います。",
+        "en": "If you take it to her, it should make it clear that we're a peaceful group.",
+        "ru": "Если доставите это ей, она наверняка подтвердит, что мы — мирное поселение."
+    },
+    {
+        "id": "M1040_S0031_G0180_001_pascal",
+        "jp": "ああ！高粘度オイルを持ってきてくださったんですね。",
+        "en": "Oh, you brought me some high-viscosity oil!",
+        "ru": "О, вы принесли мне вязкого масла!"
+    },
+    {
+        "id": "M1040_S0031_G0190_001_pascal",
+        "jp": "アネモネさんは優しくて理解のある方で助かります。",
+        "en": "Anemone is just so kind and understanding.",
+        "ru": "Анемона такая добрая и понимающая."
+    },
+    {
+        "id": "M1040_S0031_G0200_001_pascal",
+        "jp": "全てのアンドロイドと機械生命体が、\\nこうやって平和に暮らせたらいいんですけど……",
+        "en": "If only all androids and machines could live together in peace like this...",
+        "ru": "Если бы только все андроиды и машины могли так мирно сосуществовать..."
+    },
+    {
+        "id": "M1040_S0031_G0210_001_a9s",
+        "jp": "……そんなの、夢物語だ。",
+        "en": "Never gonna happen.",
+        "ru": "Этому не бывать."
+    },
+    {
+        "id": "M1040_S0031_G0220_001_pascal",
+        "jp": "そうですね……良ければ、他のロボット達とも交流してみてください。",
+        "en": "I guess not... I'd appreciate it if you could help out some of the other machines as well, though.",
+        "ru": "Думаю, что да... Я был бы признателен, если бы вы смогли помочь и другим машинам деревни."
+    },
+    {
+        "id": "M1040_S0030_G0240_001_pascal",
+        "jp": "対話する事でしか、相互理解は得られない……私はそう思っています。",
+        "en": "After all, the only way to understand someone is to get to know them. Isn't that right?",
+        "ru": "В конце концов, единственный способ понять кого-либо — получше узнать его. Разве я не прав?"
+    },
+    {
+        "id": "M1040_S0030_G0250_001_a2b",
+        "jp": "そう……",
+        "en": "Fair enough.",
+        "ru": "Согласна."
+    },
+    {
+        "id": "M1040_S0030_G0170_001_pascal",
+        "jp": "いかがでしょうか？",
+        "en": "Well? What do you think?",
+        "ru": "Ну? Что думаете?"
+    },
+    {
+        "id": "M1040_S0030_G0180_001_a9s",
+        "jp": "うわっ……勝手に通信してきた……",
+        "en": "Gah! He just started transmitting to us directly...",
+        "ru": "Гха! Он просто взял и связался с нами напрямую..."
+    },
+    {
+        "id": "M1040_S0030_G0190_001_pascal",
+        "jp": "私達が平和を愛している事をご理解いただけましたか？",
+        "en": "Now do you believe we're not a threat?",
+        "ru": "Теперь вы верите, что мы вам ничем не угрожаем?"
+    },
+    {
+        "id": "M1040_S0030_G0200_001_a9s",
+        "jp": "口だけならいくらでも言える……",
+        "en": "Your mouth can say anything it wants...",
+        "ru": "Сказать-то ты можешь всё, что угодно..."
+    },
+    {
+        "id": "M1040_S0030_G0210_001_a9s",
+        "jp": "機械には心が無いんだから。",
+        "en": "But you still don't have a heart.",
+        "ru": "Но у тебя всё равно нет сердца."
+    },
+    {
+        "id": "M1040_S0030_G0220_001_pascal",
+        "jp": "……そうかもしれません。",
+        "en": "I suppose that's...technically accurate.",
+        "ru": "Полагаю, технически... это верное замечание."
+    },
+    {
+        "id": "M1040_S0030_G0230_001_pascal",
+        "jp": "でも、これからも良ければこの村に来てください。",
+        "en": "Yes, well, you're free to visit our village whenever you like.",
+        "ru": "Да, и ещё кое-что: вы можете приходить в деревню, когда пожелаете."
+    },
+    {
+        "id": "M1040_S0031_G0060_001_a9s",
+        "jp": "アネモネさん、パスカルという名前の機械生命体から\\n預かってる物があるんですが……",
+        "en": "Say, Anemone? I've got a package for you from a machine called Pascal.",
+        "ru": "Послушайте, Анемона. У меня есть для вас посылка от машины, зовущей себя Паскалем."
+    },
+    {
+        "id": "M1040_S0031_G0070_001_ane",
+        "jp": "ああ、燃料フィルターか。今丁度不足してたんだ。",
+        "en": "...A fuel filter? Ah, perfect timing—we were running low.",
+        "ru": "...Топливный фильтр? О, как раз вовремя... у нас они почти на исходе."
+    },
+    {
+        "id": "M1040_S0031_G0080_001_ane",
+        "jp": "……っていうか、パスカルに会ったのか？",
+        "en": "Wait, you met Pascal?",
+        "ru": "Погодите-ка, вы встретились с Паскалем?"
+    },
+    {
+        "id": "M1040_S0031_G0090_001_a9s",
+        "jp": "ええ……アネモネさん、機械生命体と接触してるんですか？",
+        "en": "Sure did. So you've been consorting with machines, huh?",
+        "ru": "Именно. Так значит, вы ведёте дела с машинами, да?"
+    },
+    {
+        "id": "M1040_S0031_G0100_001_ane",
+        "jp": "……そうだ。あの村の連中は無害だし、私達が作れないような細かい作業も得意だからな。",
+        "en": "Just the ones in the village. They're totally harmless, and they also have the means to construct intricate devices that we can't.",
+        "ru": "Только с одной деревней. Они абсолютно безобидные, да и, к тому же, они способны создавать устройства, которые нам не под силу."
+    },
+    {
+        "id": "M1040_S0031_G0110_001_ane",
+        "jp": "その代わり、私達はオイルや素材なんかを渡して交換してる。\\n一種の交易ってやつだ。",
+        "en": "In exchange, we provide them with oil and other materials. I guess you'd call it a form of commerce.",
+        "ru": "Взамен мы предоставляем нефть и прочие ресурсы. Полагаю, это можно назвать неким видом торговли."
+    },
+    {
+        "id": "M1040_S0031_G0120_001_a9s",
+        "jp": "そう……なんですね。",
+        "en": "I see...",
+        "ru": "Ясно..."
+    },
+    {
+        "id": "M1040_S0031_G0130_001_ane",
+        "jp": "戻るなら、この高粘度オイルをパスカルに持って行ってやってくれ。",
+        "en": "Anyway, if you're headed back there, please take this high-viscosity oil to Pascal.",
+        "ru": "Как бы то ни было, если пойдёте в деревню, отнесите это вязкое масло Паскалю."
+    },
+    {
+        "id": "M1040_S0031_G0140_001_ane",
+        "jp": "パスカルに会ったら高粘度オイルを渡しておいてくれ。",
+        "en": "If you see Pascal, please give him that high-viscosity oil.",
+        "ru": "Если увидитесь с Паскалем, передайте ему это вязкое масло."
+    },
+    {
+        "id": "M1040_S0031_G0150_001_ane",
+        "jp": "いつも世話になってすまないな……あっ、そうだ。",
+        "en": "Thanks for all you've been doing for us late—oh!\\nI nearly forgot.",
+        "ru": "Спасибо за всё, что вы для нас сделали... ох!\\nСовсем забыла."
+    },
+    {
+        "id": "M1040_S0031_G0160_001_ane",
+        "jp": "君達ヨルハ部隊の為の専用の部屋を用意しておいたんだ。",
+        "en": "I readied a room here for YoRHa androids.",
+        "ru": "Я тут подготовила комнату для андроидов YoRHa."
+    },
+    {
+        "id": "M1040_S0031_G0170_001_ane",
+        "jp": "いつでも好きに使ってくれ。",
+        "en": "Feel free to make use of it whenever you like.",
+        "ru": "Не стесняйтесь и пользуйтесь ею, когда пожелаете."
+    },
+    {
+        "id": "M1040_S0030_G0000_300_a9s",
+        "jp": "２Ｂ、気乗りしないのはわかりますが、機械生命体の話を聞いてみませんか？彼らの意図が気になります。",
+        "en": "I know you're not thrilled about this, 2B, but why don't we hear what these machines have to say? I'm curious what their intentions are.",
+        "ru": "Знаю, ты будешь не в восторге, 2B, но, может, послушаем, о чём говорят машины? Мне любопытно, какие у них намерения."
+    },
+    {
+        "id": "M1040_S0030_G0010_300_a2b",
+        "jp": "９Ｓ、戻って機械生命体から情報を聞こう。",
+        "en": "9S, let's go back and get some data from the machines.",
+        "ru": "9S, нужно ещё раз наведаться к машинам и расспросить их как следует."
+    },
+    {
+        "id": "M5920_S0100_G0080_001_op60",
+        "jp": "オペレーター６Ｏより、２Ｂさんへ。定期連絡の時間……うわーん。",
+        "en": "Operator 6O to 2B...\\nTime for your regularly-scheduled contact...",
+        "ru": "Оператор 6O вызывает 2B...\\nЗапрашиваю регулярный сеанс связи..."
+    },
+    {
+        "id": "M5920_S0100_G0090_001_a2b",
+        "jp": "こちら２Ｂ。どうした？",
+        "en": "2B here. What's wrong?",
+        "ru": "2B на связи. В чём дело?"
+    },
+    {
+        "id": "M5920_S0100_G0100_001_op60",
+        "jp": "実は、ちょっと好きだった先輩を食事に誘ったら断られちゃって……",
+        "en": "Oh, there's this operator I kind of liked, but when I asked her out, she turned me down.",
+        "ru": "Ну, есть один оператор, которая мне нравится, но когда я пригласила её на свидание, она отказала."
+    },
+    {
+        "id": "M5920_S0100_G0110_001_op60",
+        "jp": "私、これからどうやって生きていけばいいんですか……２Ｂさん……",
+        "en": "Honestly, 2B? I don't know how I'm supposed to go on living.",
+        "ru": "Честно говоря, 2B, я совсем не знаю, как мне теперь жить дальше."
+    },
+    {
+        "id": "M5920_S0100_G0120_001_a2b",
+        "jp": "そ、そんな事……聞かれても。",
+        "en": "I am definitely not the person to discuss this with.",
+        "ru": "Я определённо не лучший собеседник на подобные темы."
+    },
+    {
+        "id": "M5920_S0100_G0130_001_op60",
+        "jp": "もう、バンカーにいられないです……",
+        "en": "I don't think I can stand spending one more day in this Bunker...",
+        "ru": "Не думаю, что смогу вынести в Бункере ещё хоть один день..."
+    },
+    {
+        "id": "M5920_S0100_G0140_001_a2b",
+        "jp": "……それは困る。作戦に支障があるから。",
+        "en": "You leaving would be bad for me. It would affect mission efficiency.",
+        "ru": "Твой уход плохо отразится на мне. Это снизит эффективность выполнения задачи."
+    },
+    {
+        "id": "M5920_S0100_G0150_001_op60",
+        "jp": "……２Ｂさんは、私を必要としてくれるんですか？",
+        "en": "A-Are you saying you need me, 2B?",
+        "ru": "Х-хочешь сказать, я важна для тебя, 2B?"
+    },
+    {
+        "id": "M5920_S0100_G0160_001_a2b",
+        "jp": "Ｂ型戦闘モデルにはオペレーターのサポートが必要不可欠。",
+        "en": "All model-B combat units require the assistance of an operator.",
+        "ru": "Всем боевым единицам типа B необходима помощь их оператора."
+    },
+    {
+        "id": "M5920_S0100_G0170_001_a2b",
+        "jp": "だから……",
+        "en": "So...",
+        "ru": "Так что..."
+    },
+    {
+        "id": "M5920_S0100_G0180_001_op60",
+        "jp": "２Ｂさん……",
+        "en": "2B...",
+        "ru": "2B..."
+    },
+    {
+        "id": "M5920_S0100_G0190_001_a2b",
+        "jp": "……以上。通信終了。",
+        "en": "That's all. Closing this channel.",
+        "ru": "На этом всё. Конец связи."
+    },
+    {
+        "id": "M5920_S0100_G0380_001_op210",
+        "jp": "オペレーター２１Ｏより、９Ｓ。定期連絡を行います。",
+        "en": "Operator 21O to 9S. This is your regularly-scheduled contact.",
+        "ru": "Оператор 21O вызывает 9S. Запрашиваю регулярный сеанс связи."
+    },
+    {
+        "id": "M5920_S0100_G0390_001_op210",
+        "jp": "本日は９Ｓに重要事項の連絡があります。",
+        "en": "I have something important to discuss with you today.",
+        "ru": "Сегодня я хочу обсудить с вами нечто важное."
+    },
+    {
+        "id": "M5920_S0100_G0400_001_a9s",
+        "jp": "なんでしょう？",
+        "en": "What is it?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M5920_S0100_G0410_001_op210",
+        "jp": "整備部から９Ｓの飛行ユニットの扱いについて苦情が入りました。",
+        "en": "Our maintenance team filed a complaint about how you treat your flight unit.",
+        "ru": "Наша ремонтная команда подала жалобу на то, как вы относитесь к своему полётному модулю."
+    },
+    {
+        "id": "M5920_S0100_G0420_001_op210",
+        "jp": "勝手に改造するのは止めて欲しい、との事です。",
+        "en": "They requested that you cease making unauthorized modifications.",
+        "ru": "Они просили, чтобы вы прекратили проводить несанкционированные модификации."
+    },
+    {
+        "id": "M5920_S0100_G0430_001_a9s",
+        "jp": "いや、だって衛星からの情報に余計なデータがあって、\\n射撃補正が遅れるから仕方なく……",
+        "en": "Well, I kind of had to. There's so much excess data sent to me from the satellite, it's delaying aim correction.",
+        "ru": "Ну, я был вынужден. Мне поступает так много данных со спутника,\\nэто задерживает корректировку прицеливания."
+    },
+    {
+        "id": "M5920_S0100_G0440_001_op210",
+        "jp": "反論があるなら自分で整備部に行って話すなり殴るなりして\\n解決してください。",
+        "en": "If you have a rebuttal, you need to discuss it with maintenance. Fight it out if you must.",
+        "ru": "Если у вас есть встречные доводы, обсудите их с ремонтной группой. Вам следует довести спор до конца."
+    },
+    {
+        "id": "M5920_S0100_G0450_001_op210",
+        "jp": "以上。",
+        "en": "Operator 21O out.",
+        "ru": "Оператор 21O — конец связи."
+    },
+    {
+        "id": "M5920_S0100_G0460_001_a9s",
+        "jp": "……オペレーターさんって意外と乱暴なのかな。",
+        "en": "Geez. My operator's more prone to violence than I thought.",
+        "ru": "Блин. Мой оператор куда жёстче, чем я думал."
+    },
+    {
+        "id": "M5920_S0090_G0130_001_human",
+        "jp": "月面人類会議より地上で奮戦しているアンドロイド諸君に告げる。",
+        "en": "The Council of Humanity has a message for all of our brave androids fighting on the surface.",
+        "ru": "Совет человечества обращается ко всем храбрым андроидам, которые сражаются на поверхности."
+    },
+    {
+        "id": "M5920_S0090_G0140_001_human",
+        "jp": "宇宙人とその尖兵たる機械生命体によって攻撃されてから数千年が経つ。",
+        "en": "It has been several millennia since the aliens—and their advance force, the machine lifeforms—attacked us.",
+        "ru": "Вот уже несколько тысячелетий прошло с нападения пришельцев и их наступательных войск — машин."
+    },
+    {
+        "id": "M5920_S0090_G0150_001_human",
+        "jp": "そして、我々人類は月に逃げ延びる事になった。",
+        "en": "Millennia since mankind was forced to evacuate to the surface of the moon.",
+        "ru": "Тысячелетий с тех пор, как человечество было вынуждено эвакуироваться на поверхность Луны."
+    },
+    {
+        "id": "M5920_S0090_G0160_001_human",
+        "jp": "しかし、今もなお諸君らの戦いによって、我々は存続する事が出来ている。",
+        "en": "But thanks to your continued struggle, we have been able to survive.",
+        "ru": "Но, благодаря вашей неустанной борьбе, мы смогли выжить."
+    },
+    {
+        "id": "M5920_S0090_G0170_001_human",
+        "jp": "諸君らアンドロイド兵こそが、我々人類の最後の希望なのだ。",
+        "en": "You, our android soldiers, are the last hope of humanity.",
+        "ru": "Вы, наши солдаты андроиды — последняя надежда человечества."
+    },
+    {
+        "id": "M5920_S0090_G0180_001_human",
+        "jp": "健闘を期待する。",
+        "en": "We look forward to your continued success in combat.",
+        "ru": "Мы с нетерпением ждём ваших дальнейших успехов в бою."
+    },
+    {
+        "id": "M5920_S0090_G0190_001_human",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    }
+]

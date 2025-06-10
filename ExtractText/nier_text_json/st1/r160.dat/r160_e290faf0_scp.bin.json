@@ -1,0 +1,62 @@
+[
+    {
+        "id": "M5090_S0050_G0000_001_apolorobo",
+        "jp": "モウシワケナイ！スマナイガ、ココハ通スコトハデキナイ！",
+        "en": "Sorry! My apologies, but I cannot let you pass.",
+        "ru": "Простите! Приношу свои извинения, но я не могу вас пропустить."
+    },
+    {
+        "id": "M5090_S0050_G0010_001_apolorobo",
+        "jp": "理由ハドウカ聞カナイデ！本当ハコンナツモリジャナカッタンダ！",
+        "en": "Please do not ask why! I really wish I could have avoided this situation altogether.",
+        "ru": "Прошу, не спрашивайте почему! Я действительно желаю избежать всей этой ситуации."
+    },
+    {
+        "id": "M5090_S0050_G0020_001_apolorobo",
+        "jp": "トニカク！今ハ、今ハ無理ダ！",
+        "en": "It's just that...I, I cannot let you through!",
+        "ru": "Это просто... Я... Я не могу пропустить вас!"
+    },
+    {
+        "id": "M5090_S0050_G0030_001_apolorobo",
+        "jp": "ソノウチ……イツカ……キット……通スコトガデキル……カモシレナイ！",
+        "en": "I'm sure that...some day...DON'T ASK WHEN...I will be able to let you pass...maybe.",
+        "ru": "Я уверен... однажды... НЕ СПРАШИВАЙТЕ КОГДА... я позволю вам пройти... может быть."
+    },
+    {
+        "id": "M5090_S0050_G0040_001_apolorobo",
+        "jp": "……イヤ！今ノハ嘘ダ！通レルカドウカハ君次第ナンダ！",
+        "en": "No wait! Scratch all that! Actually, it's all up to you!",
+        "ru": "Нет, подождите! Забудьте всё это! На самом деле всё зависит от вас!"
+    },
+    {
+        "id": "M5090_S0050_G0050_001_apolorobo",
+        "jp": "スマン、申シ訳ナイガ、私ガイエルノハココマデダ……。",
+        "en": "Sorry, and I truly, truly am sorry, but that's all I can say for now.",
+        "ru": "Простите, я правда, правда извиняюсь, но это всё, что я сейчас могу сказать."
+    },
+    {
+        "id": "M5090_S0050_G0060_001_apolorobo",
+        "jp": "オ詫ビニハナラナイカモシレナイガ、私ハ、今カラ、爆死スル！",
+        "en": "I know it's not much of an apology, but to make up for my insolence, please allow me to self-destruct!",
+        "ru": "Я знаю, что этого недостаточно в качестве извинения, но чтобы искупить мою дерзость, прошу, позвольте мне самоуничтожиться!"
+    },
+    {
+        "id": "M5090_S0050_G0070_001_apolorobo",
+        "jp": "ソウスレバ幾バクカノ素材ガ飛ビ散ルダロウ。ソレヲ君ニヤル。",
+        "en": "This will result in a rain of useful materials. They are yours to keep!",
+        "ru": "И в результате появится куча полезных материалов. Они ваши, забирайте!"
+    },
+    {
+        "id": "M5090_S0050_G0080_001_apolorobo",
+        "jp": "ダカラ、オ願イダカラ、気ヲ悪クシナイデクレ……",
+        "en": "So please, I beg of you, do not let my words ruin your day.",
+        "ru": "Поэтому, пожалуйста, я умоляю вас, не дайте моим словам испортить вам день."
+    },
+    {
+        "id": "M5090_S0050_G0090_001_apolorobo",
+        "jp": "……サラバダ！！",
+        "en": "And now... I die!",
+        "ru": "А теперь... я умру!"
+    }
+]

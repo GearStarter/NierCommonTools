@@ -1,0 +1,266 @@
+[
+    {
+        "id": "PAUSE_CHIP_01",
+        "jp": "チップの配置を変更します。\\nよろしいですか？",
+        "en": "Change chip layout?",
+        "ru": "Изменить раскладку чипов?"
+    },
+    {
+        "id": "PAUSE_CHIP_02",
+        "jp": "このチップを破棄します。\\nよろしいですか？",
+        "en": "Destroy this chip?",
+        "ru": "Уничтожить этот чип?"
+    },
+    {
+        "id": "PAUSE_CHIP_03",
+        "jp": "このチップは装備セットタイプに使用されています。\\n破棄してもよろしいですか？",
+        "en": "This chip is currently in use in a weapon set. Are you sure you want to destroy it?",
+        "ru": "Этот чип сейчас экипирован. Вы уверены, что хотите уничтожить его?"
+    },
+    {
+        "id": "PAUSE_CHIP_04",
+        "jp": "この場所には装備できません。",
+        "en": "This cannot be equipped to this spot.",
+        "ru": "Не может быть экипировано в этот слот."
+    },
+    {
+        "id": "PAUSE_CHIP_05",
+        "jp": "チップの並び替えを行います。\\nよろしいですか？",
+        "en": "Change chip arrangement?",
+        "ru": "Изменить расположение чипов?"
+    },
+    {
+        "id": "PAUSE_CHIP_06",
+        "jp": "OSチップを外します。\\nよろしいですか？",
+        "en": "Remove OS chip?",
+        "ru": "Извлечь чип с ОС?"
+    },
+    {
+        "id": "PAUSE_ENEMY_0000",
+        "jp": "最も多く量産されている小型の機械生命体。\\n過去、人類が作っていたゼンマイ仕掛けの玩具に似た見た目をしている。おそらく生産性を重視した結果このような構造になったのであろう。\\n機械生命体はユニット構造になっており、多様なバリエーションが存在する。",
+        "en": "The most common of the small machine lifeforms, these units bear a similarity to spring-powered toys created by humans in the past. This was likely done for the sake of increased productivity, though machine lifeforms are built from modular parts and have many variations.",
+        "ru": "Наиболее распространённые маленькие машины, они имеют сходство с заводными игрушками, создававшимися людьми в прошлом. Это, вероятно, сделано для увеличения производства, однако, машины построены из модульных частей и имеют много вариаций."
+    },
+    {
+        "id": "PAUSE_ENEMY_000b",
+        "jp": "銃撃ユニットを装備したタイプは、エネルギー弾を発射して攻撃する。弾速は遅いが強力なエネルギーの塊であり、アンドロイドの装甲に確実なダメージを与える。",
+        "en": "Equipped with projectile weapons, these units attack by firing energy rounds. While the masses of energy travel slowly, they have enough firepower to easily damage an android's armor.",
+        "ru": "Снаряжённые дальнобойным оружием, эти машины атакуют энергетическими снарядами. Хоть сгустки энергии передвигаются медленно, они достаточно мощные, чтобы легко повредить броню андроидов."
+    },
+    {
+        "id": "PAUSE_ENEMY_000c",
+        "jp": "盾を装備したタイプにはポッドによる射撃が効かないため、近距離攻撃での対処が有効である。",
+        "en": "A Pod's projectile attacks have no effect on shielded units, making close combat the most effective method of disposal.",
+        "ru": "Дальнобойные атаки Бота не эффективны против машин с щитом, использование ближнего боя — наиболее эффективный метод уничтожения."
+    },
+    {
+        "id": "PAUSE_ENEMY_0010",
+        "jp": "人のような四肢を持った中型の機械生命体。大きめの腕は汎用性に優れており、多くの装備を持つことができる。",
+        "en": "This medium-sized machine lifeform possesses large, human-like limbs. These arms give it tremendous versatility in battle, as it can equip a great many weapons.",
+        "ru": "Эта машина среднего размера имеет большие конечности, похожие на человеческие. Эти руки дают ей огромную гибкость в битве, так как она может быть оснащена различным оружием."
+    },
+    {
+        "id": "PAUSE_ENEMY_001f",
+        "jp": "大型の盾を持ったタイプにはポッドによる銃撃が効かないため、近距離攻撃での対処が有効である。",
+        "en": "A Pod's projectile attacks have no effect on shielded units, making close combat the most effective method of disposal.",
+        "ru": "Дальнобойные атаки Бота неэффективны против машин с щитом, использование ближнего боя — наиболее эффективный метод уничтожения."
+    },
+    {
+        "id": "PAUSE_ENEMY_0040",
+        "jp": "飛行装置を取り付けた小型の機械生命体。\\n銃撃ユニットを装備しており、エネルギー弾を発射して攻撃する。弾速は遅いが強力なエネルギーの塊であり、アンドロイドの装甲に確実なダメージを与える。\\n\\n飛行装置下部にはワイヤーが備えられており、他の機械生命体を運搬することができる。",
+        "en": "A small machine lifeform outfitted with a flight device. Its firearm launches slow-moving energy pulses that can damage even the armor of an android, while the wire on the bottom of the flight device allows it to transport other machine lifeforms when necessary.",
+        "ru": "Маленькая машина, оборудованная летательными аппаратами. Её огнестрельное оружие запускает медленно движущиеся энергетические импульсы, которые могут повредить даже броню андроида, в то время как тросы на дне летательных аппаратов позволяют транспортировать другие машины."
+    },
+    {
+        "id": "PAUSE_ENEMY_0300",
+        "jp": "重機のような見た目をした大型の機械生命体。\\n破壊目標の超大型兵器と思われたが、機体の特徴から判別するに、この機体はそれでは無かった。\\n掘削用のバケットホイールを回転させ攻撃を行う。",
+        "en": "A massive Goliath-class machine lifeform that resembles heavy machinery of old. While it appears to have been constructed solely for its destructive abilities, a closer look at its features tells a different story. While in combat, it comes after foes with a repurposed bucket-wheel excavator.",
+        "ru": "Огромная машина класса Голиаф, которая похожа на тяжёлую технику из старого мира. Хотя она, кажется, была построена исключительно для разрушения, при близком рассмотрении её особенностей можно судить о другом происхождении. В бой она вступает в виде переделанного роторного экскаватора."
+    },
+    {
+        "id": "PAUSE_ENEMY_0310",
+        "jp": "建造物に偽装されていた超大型の機械生命体。重機型の機械生命体と合体することで真の姿を現した。\\n大量のエネルギーを全身に這わせてあり、冷却のために各所から常に蒸気を立ち昇らせている。\\n攻撃で腕を振り上げる際には、通過するエネルギーによるあまりの熱量のため炎が噴き上がる。\\n\\n一定数量産されているようであり、工場廃墟では複数の存在が確認されるも、２Ｂと９Ｓのブラックボックス反応によって殲滅させられた。",
+        "en": "A massive Goliath-class machine lifeform disguised as a building. The tremendous amounts of energy running through its body forces the unit to emit steam in order to stay cool. When attacking, the heat generated from its arms often causes them to become engulfed in flames. Thought to have been produced in limited numbers, multiple units were recently discovered at the abandoned factory—though they were eventually destroyed by black-box reactions from 2B and 9S.",
+        "ru": "Огромная машина класса Голиаф, замаскированная под здание. Гигантское количество энергии, проходящей через её тело, вынуждает машину выбрасывать пар, чтобы не перегреваться. Во время атаки жар, выделяемый из её рук, становится частой причиной самовозгорания. Считается, что они произведены в ограниченном количестве, но недавно множество единиц было обнаружено на заброшенной фабрике, которые в итоге были уничтожены реакцией чёрных ящиков 2B и 9S."
+    },
+    {
+        "id": "PAUSE_ITEM_TXT_01",
+        "jp": "「<ITEM_NAME>」を<ITEM_NUM>個捨てます。\\nよろしいですか？",
+        "en": "Discard \"<ITEM_NAME>\" x <ITEM_NUM>?",
+        "ru": "Выбросить \"<ITEM_NAME>\" x <ITEM_NUM>?"
+    },
+    {
+        "id": "PAUSE_SYSTEM_TXT_01",
+        "jp": "セーブされていないゲームデータは失われます。\\nよろしいですか？",
+        "en": "Unsaved game data will be lost. Proceed?",
+        "ru": "Несохранённые данные будут потеряны. Продолжить?"
+    },
+    {
+        "id": "PAUSE_SYSTEM_TXT_02",
+        "jp": "進行状況を破棄してタイトルに戻りますがよろしいですか？",
+        "en": "Discard your current progress and return to the title screen?",
+        "ru": "Сбросить ваш текущий прогресс и вернуться в главное меню?"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_001",
+        "jp": "<KC_MOVE_2>：移動",
+        "en": "<KC_MOVE_2>: Move",
+        "ru": "<KC_MOVE_2>: Движение"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_002",
+        "jp": "<KC_CAMERA_2>：カメラ操作",
+        "en": "<KC_CAMERA_2>: Move camera",
+        "ru": "<KC_CAMERA_2>: Движение камеры"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_003",
+        "jp": "<KC_EVADE_2>：回避",
+        "en": "<KC_EVADE_2>: Evade",
+        "ru": "<KC_EVADE_2>: Уклонение"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_003_PC",
+        "jp": "<KC_EVADE_2>：(×2) 回避",
+        "en": "<KC_EVADE_2>: (×2) Evade",
+        "ru": "<KC_EVADE_2>: (×2) Уклонение"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_004",
+        "jp": "<KC_JUMP_2>：ジャンプ",
+        "en": "<KC_JUMP_2>: Jump",
+        "ru": "<KC_JUMP_2>: Прыжок"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_005",
+        "jp": "<KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>：ダッシュ",
+        "en": "<KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>: Dash",
+        "ru": "<KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>: Рывок"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_005_PC",
+        "jp": "<KC_EVADE_2>：(×2) ダッシュ",
+        "en": "<KC_EVADE_2>: (×2) Dash",
+        "ru": "<KC_EVADE_2>: (×2) Рывок"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_006",
+        "jp": "<KC_LOCKON_2>：ロックオン (ON/OFF)",
+        "en": "<KC_LOCKON_2>: Lock-on (On/Off)",
+        "ru": "<KC_LOCKON_2>: Захват цели (Вкл/Выкл)"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_007",
+        "jp": "<KC_WEP_CHANGE_2>：装備セット切替",
+        "en": "<KC_WEP_CHANGE_2>: Switch Weapons",
+        "ru": "<KC_WEP_CHANGE_2>: Сменить оружие"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_009",
+        "jp": "<KC_USE_ITEM_2>：アイテム使用",
+        "en": "<KC_USE_ITEM_2>: Use Items",
+        "ru": "<KC_USE_ITEM_2>: Использовать предмет"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_010",
+        "jp": "<KC_SHORTCUT_2>：ショートカットメニュー",
+        "en": "<KC_SHORTCUT_2>: Shortcut Menu",
+        "ru": "<KC_SHORTCUT_2>: Меню быстрого доступа"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_011",
+        "jp": "<KC_LIGHT_2>：ライト (ON/OFF)",
+        "en": "<KC_LIGHT_2>: Pod Light (On/Off)",
+        "ru": "<KC_LIGHT_2>: Фонарь Бота (Вкл/Выкл)"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_012",
+        "jp": "<KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>：ロックオン切替",
+        "en": "<KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>: Switch target",
+        "ru": "<KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>: Смена цели"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_014",
+        "jp": "<KC_MENU_2>：システムメニュー",
+        "en": "<KC_MENU_2>: System Menu",
+        "ru": "<KC_MENU_2>: Системное меню"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_101",
+        "jp": "<KC_SHOT_2>：射撃",
+        "en": "<KC_SHOT_2>: Fire",
+        "ru": "<KC_SHOT_2>: Стрельба"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_102",
+        "jp": "<KC_SPEED_ATK_2>：スピードアタック",
+        "en": "<KC_SPEED_ATK_2>: Light Attack",
+        "ru": "<KC_SPEED_ATK_2>: Легкая атака"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_103",
+        "jp": "<KC_HEAVY_ATK_2>：ヘビーアタック",
+        "en": "<KC_HEAVY_ATK_2>: Heavy Attack",
+        "ru": "<KC_HEAVY_ATK_2>: Тяжёлая атака"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_104",
+        "jp": "<KC_SKILL_2>：ポッド・プログラム",
+        "en": "<KC_SKILL_2>: Pod program",
+        "ru": "<KC_SKILL_2>:  Программа Бота"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_105",
+        "jp": "<KC_EVADE_2>：(タイミングよく) ジャスト回避",
+        "en": "<KC_EVADE_2>: Perfect Evade (with precise timing)",
+        "ru": "<KC_EVADE_2>: Идеальное уклонение (в определённый момент)"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_106",
+        "jp": "<KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>：(ジャスト回避中) 回避攻撃",
+        "en": "<KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>: Counter (with Perfect Evade)",
+        "ru": "<KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>: Контратака (с идеальным уклонением)"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_301",
+        "jp": "<KC_MOVE_2>：移動",
+        "en": "<KC_MOVE_2>: Move",
+        "ru": "<KC_MOVE_2>: Движение"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_302",
+        "jp": "<KC_SHOT_2>：射撃",
+        "en": "<KC_SHOT_2>: Fire",
+        "ru": "<KC_SHOT_2>: Стрельба"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_303",
+        "jp": "<KC_CAMERA_2>：射撃方向",
+        "en": "<KC_CAMERA_2>: Aim",
+        "ru": "<KC_CAMERA_2>: Прицеливание"
+    },
+    {
+        "id": "PAUSE_TUTORIAL_304",
+        "jp": "<KC_EVADE_2>：回避",
+        "en": "<KC_EVADE_2>: Evade",
+        "ru": "<KC_EVADE_2>: Уклонение"
+    },
+    {
+        "id": "PAUSE_WEAPONSTORY_1070_01",
+        "jp": "私はいつまで戦い続けるのだろう。\\nこの血塗られた、戦場の渦の中。",
+        "en": "How long can I fight amidst this bloody vortex of a battlefield? How long, I wonder?",
+        "ru": "Как долго я смогу держаться посреди этого кровавого вихря сражений? Интересно, как долго?"
+    },
+    {
+        "id": "PAUSE_WEAPONSTORY_1260_01",
+        "jp": "アガ　オモイビト　ハジメテ　フレアウ",
+        "en": "FIRST ENCOUNTER\\nWITH\\nMY LOVER",
+        "ru": "ПЕРВАЯ ВСТРЕЧА\\nС\\nМОЕЙ ЛЮБОВЬЮ"
+    },
+    {
+        "id": "PAUSE_WP_TXT_01",
+        "jp": "強セットと弱セットの装備を入れ替えます。\\nよろしいですか？",
+        "en": "Switch the equipped weapons for light and heavy attacks?",
+        "ru": "Сменить экипированное оружие для легкой и тяжёлой атаки?"
+    }
+]

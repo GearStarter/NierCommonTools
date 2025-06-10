@@ -1,0 +1,32 @@
+[
+    {
+        "id": "M1090_S0130_G0000_101_a2b",
+        "jp": "またコイツか……",
+        "en": "You again?",
+        "ru": "Снова ты?"
+    },
+    {
+        "id": "M1090_S0130_G0002_101_pod042",
+        "jp": "警告：周辺の機械生命体が当地域に集結中。",
+        "en": "Alert: Local machine lifeforms are converging on the area.",
+        "ru": "Внимание: в этой области обнаружено скопление машин."
+    },
+    {
+        "id": "M1090_S0130_G0003_101_a2b",
+        "jp": "これじゃあ、キリが無い……",
+        "en": "This is never going to end...",
+        "ru": "Это никогда не закончится..."
+    },
+    {
+        "id": "M1090_S0130_G0004_101_pod042",
+        "jp": "予測：敵大型兵器が叫ぶ事により、周囲の機械生命体を呼び寄せている。",
+        "en": "Hypothesis: The Goliath-class enemy's scream has summoned the local machine lifeforms.",
+        "ru": "Предположение: рёв врага класса Голиаф призывает другие машины."
+    },
+    {
+        "id": "M1090_S0130_G0005_101_pod042",
+        "jp": "推奨：敵大型兵器の破壊。",
+        "en": "Proposal: Destroy the Goliath.",
+        "ru": "Предложение: уничтожьте Голиафа."
+    }
+]

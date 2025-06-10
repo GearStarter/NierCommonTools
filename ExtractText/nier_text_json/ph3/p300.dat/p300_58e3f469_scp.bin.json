@@ -1,0 +1,164 @@
+[
+    {
+        "id": "M3020_S0020_G0000_001_a9s",
+        "jp": "レジスタンス……キャンプ……",
+        "en": "I'm in...the Resistance camp?",
+        "ru": "Я в... лагере Сопротивления?"
+    },
+    {
+        "id": "M3020_S0020_G0010_001_ppl",
+        "jp": "貴方、二週間も眠りっぱなしだったのよ？",
+        "en": "That's right. You've been unconscious for nearly two weeks.",
+        "ru": "Всё верно. Ты пробыл без сознания две недели."
+    },
+    {
+        "id": "M3020_S0020_G0020_001_dbl",
+        "jp": "見つけてきた私に感謝しろよ？",
+        "en": "A little thank-you for saving your butt would be nice!",
+        "ru": "Было бы приятно услышать хоть немного благодарностей за то, что твою задницу спасли!"
+    },
+    {
+        "id": "M3020_S0020_G0030_001_a9s",
+        "jp": "２Ｂは……？",
+        "en": "Where's 2B?",
+        "ru": "Где 2B?"
+    },
+    {
+        "id": "M3020_S0020_G0040_001_ppl",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M3020_S0020_G0050_001_dbl",
+        "jp": "お前の方が……良く知ってるだろ？",
+        "en": "You know that better than anyone, no?",
+        "ru": "Ты должен знать об этом лучше, чем кто-либо, разве нет?"
+    },
+    {
+        "id": "M3020_S0020_G0060_001_dbl",
+        "jp": "ブラックボックス信号も……切れている。",
+        "en": "Her black box signal...disappeared.",
+        "ru": "Сигнал её чёрного ящика... исчез."
+    },
+    {
+        "id": "M3020_S0020_G0070_001_a9s",
+        "jp": "……そう。",
+        "en": "...Oh.",
+        "ru": "...Ох."
+    },
+    {
+        "id": "M3020_S0020_G0080_001_pod153",
+        "jp": "デボル・ポポルタイプのアンドロイドは治療・メンテナンスに特化した\\n希少なモデル。",
+        "en": "Devola and Popola are rare android models designed for medical treatment and maintenance.",
+        "ru": "Девола и Попола — редкие модели андроидов, созданные специально для ремонта и техобслуживания."
+    },
+    {
+        "id": "M3020_S0020_G0090_001_pod153",
+        "jp": "バンカーなき今、彼女達が居なければ９Ｓの修理・補修は厳しいと予測。",
+        "en": "Without the Bunker, they are the only remaining way for unit 9S to initiate repairs.",
+        "ru": "Без Бункера они — единственный вариант для ремонта единицы 9S."
+    },
+    {
+        "id": "M3020_S0020_G0100_001_pod153",
+        "jp": "推奨：感謝の言葉。",
+        "en": "Proposal: A word of appreciation is appropriate.",
+        "ru": "Предложение: стоит проявить благодарность."
+    },
+    {
+        "id": "M3020_S0020_G0101_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M3020_S0020_G0110_001_a9s",
+        "jp": "……ありがとう。",
+        "en": "...Thanks.",
+        "ru": "...Спасибо."
+    },
+    {
+        "id": "M3020_S0020_G0120_001_dbl",
+        "jp": "私達のタイプは、昔は大勢いたんだ。",
+        "en": "Yeah, there used to be lots of our models around.",
+        "ru": "Ага, раньше было много моделей нашего типа."
+    },
+    {
+        "id": "M3020_S0020_G0130_001_dbl",
+        "jp": "何でも大規模システムの管理を任されていたらしい。",
+        "en": "Apparently, we were put here to oversee some kind of large-scale system that was in place.",
+        "ru": "Судя по всему, нас оставили здесь для наблюдения за какой-то огромной системой."
+    },
+    {
+        "id": "M3020_S0020_G0140_001_a9s",
+        "jp": "『らしい』って……どういう事？",
+        "en": "Apparently? What does that mean?",
+        "ru": "Судя по всему? Что ты имеешь в виду?"
+    },
+    {
+        "id": "M3020_S0020_G0150_001_dbl",
+        "jp": "当時の記録は消去されてるから、何があったか判らない。",
+        "en": "It means we don't know. All the records from that era have been deleted.",
+        "ru": "Это означает, что мы не знаем. Все записи той эпохи были удалены."
+    },
+    {
+        "id": "M3020_S0020_G0160_001_dbl",
+        "jp": "私達のモデルは……過去に暴走し、事故を起こしてる。",
+        "en": "Our model kinda went nutso at some point in the past. It ended badly.",
+        "ru": "Похожие на нас модели натворили дел в прошлом. И это плохо кончилось."
+    },
+    {
+        "id": "M3020_S0020_G0170_001_ppl",
+        "jp": "同形機は事故後にほとんど処理された。",
+        "en": "Most of our kind were disposed of after that.",
+        "ru": "И от большинства пришлось избавиться."
+    },
+    {
+        "id": "M3020_S0020_G0180_001_ppl",
+        "jp": "私達が処分されていないのは……",
+        "en": "But we were spared.",
+        "ru": "Но нас пощадили."
+    },
+    {
+        "id": "M3020_S0020_G0190_001_ppl",
+        "jp": "再び暴走しないようにサンプルとして監視される為なの。",
+        "en": "They used us as a sort of control group in order to ensure such a thing couldn't happen again.",
+        "ru": "Они использовали нас как группу контроля, в целях предотвратить повторение чего-то подобного."
+    },
+    {
+        "id": "M3020_S0020_G0200_001_dbl",
+        "jp": "でも、おかげでこうやって仲間を助ける事が出来る。",
+        "en": "So yeah, we're lab rats. But at least we get to be here helping out friends.",
+        "ru": "Так что, да, мы — лабораторные крысы. Поэтому меньшее, что мы можем сделать, это помогать нашим друзьям."
+    },
+    {
+        "id": "M3020_S0020_G0210_001_dbl",
+        "jp": "それが……私達が犯した罪への償いだと思ってる。",
+        "en": "I'd like to think that we're atoning in some way for our past sins.",
+        "ru": "Хотелось бы думать, что этим мы искупаем грехи нашего прошлого."
+    },
+    {
+        "id": "M3020_S0020_G0220_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M3020_S0020_G0230_001_ppl",
+        "jp": "あまり無理しないでね……９Ｓ。",
+        "en": "Try not to overdo it, 9S.",
+        "ru": "Не перегружай себя, 9S."
+    },
+    {
+        "id": "M3020_S0020_G0020_001_dbl",
+        "jp": "見つけてきた私に感謝しろよ？",
+        "en": "A little thank-you for saving your butt would be nice!",
+        "ru": "Было бы приятно услышать хоть немного благодарностей за то, что твою задницу спасли!"
+    },
+    {
+        "id": "M3020_S0020_G0230_001_ppl",
+        "jp": "あまり無理しないでね……９Ｓ。",
+        "en": "Try not to overdo it, 9S.",
+        "ru": "Не перегружай себя, 9S."
+    }
+]

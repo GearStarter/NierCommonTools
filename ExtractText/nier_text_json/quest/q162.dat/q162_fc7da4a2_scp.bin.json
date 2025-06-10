@@ -1,0 +1,134 @@
+[
+    {
+        "id": "M5162_S0010_G0000_001_op60",
+        "jp": "こちらオペレーター６Ｏ。２Ｂさん聞こえますか？",
+        "en": "Operator 6O to 2B. Come in, 2B.",
+        "ru": "Оператор 6О вызывает 2B. Приём, 2B."
+    },
+    {
+        "id": "M5162_S0010_G0010_001_a2b",
+        "jp": "こちら２Ｂ。受信している。",
+        "en": "2B here.",
+        "ru": "Это 2B."
+    },
+    {
+        "id": "M5162_S0010_G0020_001_op60",
+        "jp": "起動したアクセスポイントからのモニタリング信号が途絶しました。",
+        "en": "The monitoring signal from the new access point has gone silent.",
+        "ru": "Сигнал управления новым терминалом пропал."
+    },
+    {
+        "id": "M5162_S0010_G0030_001_op60",
+        "jp": "位置情報を転送しますので、原因を調査してください。",
+        "en": "I'm sending you the positional data. Please investigate the site as soon as possible.",
+        "ru": "Я высылаю тебе его местоположение. Пожалуйста, осмотри место как можно скорее."
+    },
+    {
+        "id": "M5162_S0010_G0040_001_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5162_S0010_G0050_001_a9s",
+        "jp": "機械生命体がいるな……",
+        "en": "We've got company. Looks like machines.",
+        "ru": "Здесь кто-то есть. Похоже, что это машины."
+    },
+    {
+        "id": "M5162_S0010_G0060_001_pod042",
+        "jp": "敵個体の一部からジャミング電波を確認。",
+        "en": "Alert: Jamming signals detected from enemy units.",
+        "ru": "Внимание: от вражеских единиц исходят активные радиопомехи."
+    },
+    {
+        "id": "M5162_S0010_G0070_001_a2b",
+        "jp": "ジャミング？",
+        "en": "Yeah?",
+        "ru": "Да ладно?"
+    },
+    {
+        "id": "M5162_S0010_G0080_001_a9s",
+        "jp": "……厄介ですね。",
+        "en": "That's not good.",
+        "ru": "Это нехорошо."
+    },
+    {
+        "id": "M5162_S0010_G0090_001_pod042",
+        "jp": "敵性機械生命体の排除及びアクセスポイントの復旧を確認。",
+        "en": "Enemy machine lifeforms eliminated. Access point returned to functioning status.",
+        "ru": "Противники уничтожены. Терминал возвращён в рабочее состояние."
+    },
+    {
+        "id": "M5162_S0010_G0100_001_cmd",
+        "jp": "バンカーより２Ｂへ。",
+        "en": "Bunker to 2B.",
+        "ru": "Бункер вызывает 2B."
+    },
+    {
+        "id": "M5162_S0010_G0110_001_cmd",
+        "jp": "たった今、アクセスポイントの回復を確認した。ご苦労。",
+        "en": "The signal from the access point just came back online. Good job.",
+        "ru": "Сигнал терминала вновь появился в сети. Хорошая работа."
+    },
+    {
+        "id": "M5162_S0010_G0120_001_a2b",
+        "jp": "司令官、その件で報告があります。",
+        "en": "I have some information about that, Commander.",
+        "ru": "У меня есть информация касательно этого, Командор."
+    },
+    {
+        "id": "M5162_S0010_G0130_001_cmd",
+        "jp": "何だ？",
+        "en": "Go on.",
+        "ru": "Докладывай."
+    },
+    {
+        "id": "M5162_S0010_G0140_001_a2b",
+        "jp": "アクセスポイント不調の原因は、ジャミング電波を出していた\\n機械生命体が原因でした。",
+        "en": "The access point went offline because machine lifeforms were jamming it.",
+        "ru": "Терминал отключился по причине того, что машины глушили его сигнал."
+    },
+    {
+        "id": "M5162_S0010_G0150_001_cmd",
+        "jp": "……その設備が我々の通信端末である事を理解してるって事か。",
+        "en": "Which means they know that facility is one of our network terminals...",
+        "ru": "Это значит, они знают, что эти устройства подключены к нашей сети терминалов..."
+    },
+    {
+        "id": "M5162_S0010_G0160_001_a9s",
+        "jp": "それだけじゃありません。奴らは通信端末である事を理解しているのに、\\nアクセスポイントを破壊していませんでした。",
+        "en": "Yeah, but that's not all. While they knew it was connected to our network, they didn't try to destroy it.",
+        "ru": "Да, но это ещё не всё. Они, похоже, также понимали, что такое терминал,\\nно не уничтожили саму точку доступа."
+    },
+    {
+        "id": "M5162_S0010_G0170_001_a9s",
+        "jp": "多分……罠を張ってたんだと思います。",
+        "en": "It's almost like they were trying to lay a trap.",
+        "ru": "Выглядело так, будто бы они готовили нам ловушку."
+    },
+    {
+        "id": "M5162_S0010_G0180_001_cmd",
+        "jp": "そこまで知性が発達してるのか……機械共め。",
+        "en": "Damn... They're getting smarter by the day.",
+        "ru": "Проклятие... Они становятся всё умнее с каждым днём."
+    },
+    {
+        "id": "M5162_S0010_G0190_001_cmd",
+        "jp": "この件は月面の人類会議にも共有しておく。",
+        "en": "Thank you. I'll be sure to share this with the Council of Humanity on the moon.",
+        "ru": "Спасибо. Я обязательно доложу эту информацию на Луну Совету Человечества."
+    },
+    {
+        "id": "M5162_S0010_G0200_001_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5162_S0000_G0000_300_op60",
+        "jp": "アクセスポイントの信号途絶の件、よろしくお願いします。",
+        "en": "Thanks in advance for investigating that access point that went dark.",
+        "ru": "Заранее спасибо за расследование этого случая."
+    }
+]

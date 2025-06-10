@@ -1,0 +1,542 @@
+[
+    {
+        "id": "M6050_S0010_G0100_300_villager",
+        "jp": "ここはボクたちの村。\\nボクは村の安全を守ってル。",
+        "en": "This is our village. I keep it safe.",
+        "ru": "Это наша деревня. Я сохраню её в безопасности."
+    },
+    {
+        "id": "M6050_S0010_G0110_300_villager",
+        "jp": "見張り交代の時間まだカナ……",
+        "en": "I'm ready to change shifts.",
+        "ru": "Я готов сдать смену."
+    },
+    {
+        "id": "M6050_S0010_G0120_300_villager",
+        "jp": "ワタシ達の村へヨウコソ……",
+        "en": "Welcome to our village...",
+        "ru": "Добро пожаловать в нашу деревню."
+    },
+    {
+        "id": "M6050_S0010_G0130_300_villager",
+        "jp": "ゴユックリ……",
+        "en": "Er, make yourself at home...",
+        "ru": "Эм, чувствуйте себя как дома!"
+    },
+    {
+        "id": "M6050_S0010_G0240_300_villager",
+        "jp": "<SARU_JAN>のどこがイイのだろう……\\nアナタは分かりますカ？",
+        "en": "What's so amazing about this <SARU_JAN> guy?",
+        "ru": "Чем этот <SARU_JAN> так удивителен?"
+    },
+    {
+        "id": "M6050_S0010_G0250_300_villager",
+        "jp": "<SARU_JAN>の魅力……ワタシには分かりません。",
+        "en": "I don't get what's so special about this <SARU_JAN> fellow at all.",
+        "ru": "Я вообще не понимаю, в каком месте этот <SARU_JAN> такой уж особенный."
+    },
+    {
+        "id": "M6050_S0010_G0260_300_villager",
+        "jp": "……三段バラ、カッコいいな。",
+        "en": "Look at him and his three-tier belly! That's so cool!",
+        "ru": "Посмотрите на него и его трёхуровневый живот! Так здорово!"
+    },
+    {
+        "id": "M6050_S0010_G0270_300_villager",
+        "jp": "僕もいつか、お腹の段をフヤスンダ。",
+        "en": "I want to add more tiers to my belly...",
+        "ru": "Я хочу добавить больше уровней моему животу..."
+    },
+    {
+        "id": "M6050_S0010_G0280_300_villager",
+        "jp": "ワタシはヘンなやつが村に来ないか見張ってル。",
+        "en": "I'm standing watch to prevent miscreants from entering the village!",
+        "ru": "Я стою на страже, чтобы не позволить злоумышленникам проникнуть в деревню!"
+    },
+    {
+        "id": "M6050_S0010_G0290_300_villager",
+        "jp": "コノ先は森のお城につながっているンダ。",
+        "en": "This path leads to the Forest Castle.",
+        "ru": "Этот путь ведёт к лесному замку."
+    },
+    {
+        "id": "M6050_S0010_G0310_300_villager",
+        "jp": "ここは静かでいい場所ダ……",
+        "en": "I love this place. It's so quiet.",
+        "ru": "Я люблю это место. Оно тихое."
+    },
+    {
+        "id": "M6050_S0010_G0320_300_villager",
+        "jp": "孤独こそが、人を強くスル。",
+        "en": "Solitude makes you stronger.",
+        "ru": "Одиночество делает сильнее."
+    },
+    {
+        "id": "M6050_S0010_G0330_300_villager",
+        "jp": "一人でいる時間を作ルのは大切なことだと、君モ思わないか？",
+        "en": "It's important for people to have time to themselves, don't you think?",
+        "ru": "Людям важно уделять время для самих себя, вы так не думаете?"
+    },
+    {
+        "id": "M6050_S0010_G0340_300_villager",
+        "jp": "まあ、ワタシは人じゃないけどナ。",
+        "en": "I'm not sure if machines count as \"people,\" however.",
+        "ru": "Однако я не уверен, что машины считаются \"людьми\"."
+    },
+    {
+        "id": "M6050_S0010_G0350_300_villager",
+        "jp": "……友達がいないワケではないゾ。",
+        "en": "Just to be clear, I'm not standing here by myself because I don't have any friends.",
+        "ru": "Если честно, я стою здесь один, потому что у меня нет друзей."
+    },
+    {
+        "id": "M6050_S0010_G0570_300_villager",
+        "jp": "ボクはインドア派っていうヤツさ。",
+        "en": "I like staying inside.",
+        "ru": "Мне нравится находиться в деревне."
+    },
+    {
+        "id": "M6050_S0010_G0580_300_villager",
+        "jp": "家でゴロゴロしながら眺める景色が好きナンダ。",
+        "en": "I love lazing about the house and enjoying the view.",
+        "ru": "Я люблю бездельничать дома и наслаждаться видом."
+    },
+    {
+        "id": "M6050_S0010_G0590_300_villager",
+        "jp": "ボクはアウトドアが死ヌホド好きナンダ。",
+        "en": "I love being outside so much!",
+        "ru": "Я очень люблю находиться за пределами деревни!"
+    },
+    {
+        "id": "M6050_S0010_G0600_300_villager",
+        "jp": "木々のザワメキを聞きながら森の中を飛ぶと、とても気持ちいいヨネ。",
+        "en": "Flying through the forest... Listening to the leaves rustle...",
+        "ru": "Летать по лесу... Слушать шелест листьев..."
+    },
+    {
+        "id": "M6050_S0010_G0610_300_villager",
+        "jp": "まあ、飛べないヤツには分からないダロウケドネ。",
+        "en": "I guess you'd only really understand if you could fly.",
+        "ru": "Думаю, если бы вы могли летать, то поняли бы меня."
+    },
+    {
+        "id": "M6050_S0010_G0620_300_villager",
+        "jp": "空から眺める景色は最高ダヨ。",
+        "en": "The view from the sky is awesome!",
+        "ru": "С неба открывается потрясающий вид!"
+    },
+    {
+        "id": "M6050_S0010_G0380_300_villager",
+        "jp": "パスカルおじちゃん！アソボ！",
+        "en": "Uncle Pascal! Let's play!",
+        "ru": "Дядя Паскаль! Давай поиграем!"
+    },
+    {
+        "id": "M6050_S0010_G0390_300_villager",
+        "jp": "アソンデ！……アソベ！",
+        "en": "Come play with us!",
+        "ru": "Пошли играть с нами!"
+    },
+    {
+        "id": "M6050_S0010_G0400_300_villager",
+        "jp": "分かりました、その代わり勉強もきちんとやるんですよ。",
+        "en": "Okay, but after we're done, you have to study.",
+        "ru": "Хорошо, но когда мы закончим, вы пойдёте учиться."
+    },
+    {
+        "id": "M6050_S0010_G0410_300_villager",
+        "jp": "約束できますか？",
+        "en": "Do you promise?",
+        "ru": "Ты обещаешь?"
+    },
+    {
+        "id": "M6050_S0010_G0420_300_villager",
+        "jp": "ウン、勉強する！アトデ！",
+        "en": "Okay! I'll study later!",
+        "ru": "Хорошо! Потом я пойду учиться!"
+    },
+    {
+        "id": "M6050_S0010_G0430_300_villager",
+        "jp": "アトデ、アトデするヨ！",
+        "en": "Yeah! We'll study later!",
+        "ru": "Да! Потом мы пойдём учиться!"
+    },
+    {
+        "id": "M6050_S0010_G0440_300_villager",
+        "jp": "ナニしてアソボウかな……",
+        "en": "So what do you wanna do?",
+        "ru": "Так что вы хотите делать?"
+    },
+    {
+        "id": "M6050_S0010_G0450_300_villager",
+        "jp": "考えてナカッタ。",
+        "en": "Ummm...I dunno. I didn't think that far ahead.",
+        "ru": "Эм... Я не знаю. Я об этом не задумывался."
+    },
+    {
+        "id": "M6050_S0010_G0460_300_villager",
+        "jp": "アソブノもベンキョウのウチ。",
+        "en": "Playing is kind of like studying in a way.",
+        "ru": "Игра — это ведь тоже некий способ обучения."
+    },
+    {
+        "id": "M6050_S0010_G0470_300_villager",
+        "jp": "オマエもそう思うダロ。",
+        "en": "Don't you think?",
+        "ru": "Вы так не думаете?"
+    },
+    {
+        "id": "M6050_S0010_G0480_300_villager",
+        "jp": "ボクはもう一人で遊べるんダ。",
+        "en": "I can play on my own. I'm all grown up!",
+        "ru": "Я могу играть самостоятельно. Я уже взрослый!"
+    },
+    {
+        "id": "M6050_S0010_G0490_300_villager",
+        "jp": "いつまでもパスカルおじちゃんって、アイツらは子供ダナ。",
+        "en": "Listen to them. It's all \"Uncle Pascal this\" and \"Uncle Pascal that.\" What a bunch of babies!",
+        "ru": "Только послушайте их. \"Дядя Паскаль это\" и \"дядя Паскаль то\". Малышня!"
+    },
+    {
+        "id": "M6050_S0010_G0500_300_villager",
+        "jp": "……ナンダヨ……僕と遊びたいノカ？",
+        "en": "What? Do you...want to play with me?",
+        "ru": "Что? Вы... хотите поиграть со мной?"
+    },
+    {
+        "id": "M6050_S0010_G0510_300_villager",
+        "jp": "ドウシテモというなら……イイゾ？",
+        "en": "Well, if you reeeeeally want to, I guess I'll do you a favor. But just this once!",
+        "ru": "Ну, если вы и впра-а-а-авду хотите, думаю, я сделаю вам одолжение. Но только в этот раз!"
+    },
+    {
+        "id": "M6050_S0010_G0630_300_villager",
+        "jp": "ヤア、ボクは高い所がスキなんダ！",
+        "en": "Ahhhhh... I love hanging out in high places!",
+        "ru": "Ах... Я люблю зависать в высоких местах!"
+    },
+    {
+        "id": "M6050_S0010_G0640_300_villager",
+        "jp": "君も高い所がスキなのカイ？\\nここからの眺めはスバラシイヨ！",
+        "en": "Do you like heights too? The view from here is incredible!",
+        "ru": "Вы тоже любите высоту? Оттуда открывается потрясающий вид!"
+    },
+    {
+        "id": "M6050_S0010_G0650_300_villager",
+        "jp": "パスカルおじちゃんは危ないからダメって言ってたけど、\\n向こうに見える森のお城にも行ってみたいナ。",
+        "en": "I'd love to go to that castle in the forest, but Pascal said it's too dangerous.",
+        "ru": "Я хотел бы пойти в замок в лесу, но Паскаль говорит, что это очень опасно."
+    },
+    {
+        "id": "M6050_S0010_G0660_300_villager",
+        "jp": "パスカルおじちゃんが滑り台を作ってくれたンダ！",
+        "en": "Pascal made this slide just for us!",
+        "ru": "Паскаль сделал эту горку для нас!"
+    },
+    {
+        "id": "M6050_S0010_G0670_300_villager",
+        "jp": "これはヤミツキだ！ヤミツキになるヨ！",
+        "en": "I love it so much! It's an addiction!",
+        "ru": "Я очень её люблю! Не могу перестать кататься!"
+    },
+    {
+        "id": "M6050_S0010_G0680_300_villager",
+        "jp": "コレが噂に聞くスベリダイなのですネ。",
+        "en": "So this is that \"slide\" I keep hearing so much about, eh?",
+        "ru": "Так это и есть та \"горка\", о которой я так много слышал, да?"
+    },
+    {
+        "id": "M6050_S0010_G0690_300_villager",
+        "jp": "ヒジョウに、興味ブカイです……",
+        "en": "It's quite...fascinating.",
+        "ru": "Это довольно... увлекательно."
+    },
+    {
+        "id": "M6050_S0010_G0700_300_villager",
+        "jp": "もう少しヨウスを見てから滑りマス。",
+        "en": "I'll just look at it a bit more...from a safe distance.",
+        "ru": "Я посмотрю ещё немного... с безопасного расстояния."
+    },
+    {
+        "id": "M6050_S0010_G0710_300_villager",
+        "jp": "コ、コワイわけじゃないですよ！",
+        "en": "N-not that I'm scared or anything!",
+        "ru": "Н-не то чтобы я напуган или что-то подобное!"
+    },
+    {
+        "id": "M5221_S0000_G0020_300_robochild",
+        "jp": "オモチャタノシー！",
+        "en": "This is sooo fuuuun!",
+        "ru": "Это та-а-ак ве-е-есело!"
+    },
+    {
+        "id": "M6050_S0010_G0230_300_villager",
+        "jp": "ああ、<SARU_JAN>さん……",
+        "en": "Ah, <SARU_JAN>...",
+        "ru": "Ах, <SARU_JAN>..."
+    },
+    {
+        "id": "M6050_S0010_G0550_300_villager",
+        "jp": "我々が争うことに意味はありません。",
+        "en": "There is no meaning in war.",
+        "ru": "В войне нет смысла."
+    },
+    {
+        "id": "M6050_S0010_G0560_300_villager",
+        "jp": "<SARU_JAN>の言う通りです。",
+        "en": "<SARU_JAN>'s right.",
+        "ru": "<SARU_JAN> прав."
+    },
+    {
+        "id": "M6050_S0010_G2600_300_papa",
+        "jp": "大変ダ、タイヘンダ。",
+        "en": "This is bad. This is really bad...",
+        "ru": "Это плохо. Это действительно плохо..."
+    },
+    {
+        "id": "M5803_S0010_G0010_001_robomother",
+        "jp": "ウウ……私はどうしタラよいのでショウカ……",
+        "en": "Rrrrgh! What am I supposed to DO!?",
+        "ru": "Р-р-р-р-р! И что же мне ДЕЛАТЬ?!"
+    },
+    {
+        "id": "M6050_S0010_G2930_300_villager",
+        "jp": "私たちの村へヨウコソ。",
+        "en": "Welcome to our village!",
+        "ru": "Добро пожаловать в нашу деревню."
+    },
+    {
+        "id": "M6050_S0010_G2970_300_villager",
+        "jp": "何かゴヨウがあれば言ってくださいネ。",
+        "en": "Let me know if I can help you with anything.",
+        "ru": "Дайте мне знать, если я могу чем-то помочь."
+    },
+    {
+        "id": "M6050_S0010_G2960_300_villager",
+        "jp": "コンニチワ。\\n今日もイイ天気デスネ。",
+        "en": "Hello. Nice day we're having!",
+        "ru": "Привет. Хорошего дня!"
+    },
+    {
+        "id": "M5250_S0010_G0360_001_robostrange",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6050_S0010_G3050_300_villager",
+        "jp": "コイツ、高い所に登れないカラ運んであげるんだケド。\\n毎日運んで遊ぶせいで腕がツカレル。",
+        "en": "This guy can't climb very well, so I have to carry him to high places. I also have to carry him while playing, so my arms are getting pretty tired.",
+        "ru": "Этот парень не может нормально двигаться, поэтому я ношу его в разные места. Также я ношу его во время игр, поэтому мои руки очень устают."
+    },
+    {
+        "id": "M6050_S0010_G3060_300_villager",
+        "jp": "今度パスカルおじちゃんからエンリョという言葉を習ってモラオウ。",
+        "en": "I'm going to get Pascal to teach him the word \"restraint\" next time.",
+        "ru": "В следующий раз я попрошу Паскаля научить его слову \"сдержанность\"."
+    },
+    {
+        "id": "M6050_S0010_G3030_300_villager",
+        "jp": "今日は村のテッペンと、森の城前と、パスカルおじちゃんの所に連れテケ！",
+        "en": "Today, I want you to take me to the top of the village, the Forest Castle, and Pascal's place!",
+        "ru": "Сегодня я хочу, чтобы ты отнес меня на вершину деревни, в лесной замок, и место Паскаля!"
+    },
+    {
+        "id": "M6050_S0010_G3040_300_villager",
+        "jp": "ソノ後は村の入口の所と、遊園地に向かう橋の所ナ！",
+        "en": "After that, we can go to the village entrance and the bridge to the amusement park!",
+        "ru": "После этого, мы можем сходить к входу в деревню и мосту в парке развлечений!"
+    },
+    {
+        "id": "M6050_S0010_G0780_300_villager",
+        "jp": "今日はナニする？",
+        "en": "What should we do today?",
+        "ru": "Что мы будем делать сегодня?"
+    },
+    {
+        "id": "M6050_S0010_G0790_300_villager",
+        "jp": "オニごっこ！",
+        "en": "Play tag!",
+        "ru": "Играть в салочки!"
+    },
+    {
+        "id": "M6050_S0010_G0800_300_villager",
+        "jp": "エット……エット、ナワトビ！",
+        "en": "Um...um...jump rope!",
+        "ru": "Эм... Эм... Прыгать через скакалку!"
+    },
+    {
+        "id": "M6050_S0010_G0810_300_villager",
+        "jp": "ナワトビ？ソレヤル！",
+        "en": "Jump rope? I wanna jump rope!",
+        "ru": "Прыгать через скакалку? Я хочу прыгать через скакалку!"
+    },
+    {
+        "id": "M6050_S0010_G0820_300_villager",
+        "jp": "デモ、アシの長さ……足りる？",
+        "en": "I hope my legs are long enough...",
+        "ru": "Надеюсь, мои ноги достаточно длинные..."
+    },
+    {
+        "id": "M6050_S0010_G0830_300_villager",
+        "jp": "…………",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M6050_S0010_G0840_300_villager",
+        "jp": "……セチガライネ。",
+        "en": "Life is hard.",
+        "ru": "Жизнь трудна."
+    },
+    {
+        "id": "M6050_S0010_G0850_300_villager",
+        "jp": "やっぱり、オニごっこカナ……",
+        "en": "Soooo...tag then?",
+        "ru": "Та-а-ак... тогда салочки?"
+    },
+    {
+        "id": "M6050_S0010_G0860_300_villager",
+        "jp": "ナワトビ……したいナ。",
+        "en": "I wanna jump rope...",
+        "ru": "Я хочу прыгать через скакалку..."
+    },
+    {
+        "id": "M6050_S0010_G0881_300_villager",
+        "jp": "僕モあいつミタイニ大きくなりたいんだよなあ。",
+        "en": "I want to be as big as this guy.",
+        "ru": "Я хочу быть таким же большим, как тот парень."
+    },
+    {
+        "id": "M6050_S0010_G0882_300_villager",
+        "jp": "もっとオオキナ身体がアレバなあ……そう思わない？",
+        "en": "I wish I was bigger. Don't you?",
+        "ru": "Это было бы круто, как думаете?"
+    },
+    {
+        "id": "M6050_S0010_G0883_300_villager",
+        "jp": "もっと……もっと強大ナルちからを我ニ……",
+        "en": "Strength... I need more strength!",
+        "ru": "Сила... Мне нужно больше силы!"
+    },
+    {
+        "id": "M6050_S0010_G0884_300_villager",
+        "jp": "巨大なカラダさえアレバ、全てを破壊出来るとイウノニ……",
+        "en": "If I was huge, I could destroy everything!",
+        "ru": "Если бы я был огромным, то мог бы уничтожить все что угодно!"
+    },
+    {
+        "id": "M6050_S0010_G0870_300_villager",
+        "jp": "ボクの身体は大キイケレド、キモチはとても小サイんだヨ……",
+        "en": "My body is big, but I feel tiny on the inside.",
+        "ru": "Моё тело большое, но я чувствую себя маленьким."
+    },
+    {
+        "id": "M6050_S0010_G0880_300_villager",
+        "jp": "イジメないデネ？",
+        "en": "Please don't make fun of me.",
+        "ru": "Прошу, не смейтесь надо мной."
+    },
+    {
+        "id": "M6050_S0010_G0360_300_pascal",
+        "jp": "ここにいる者たちに敵意はありません。\\nみんな温厚な村人たちですよ。",
+        "en": "The villagers here are all gentle and peace-loving.",
+        "ru": "Все жители вежливые и миролюбивые."
+    },
+    {
+        "id": "M6050_S0010_G0370_300_pascal",
+        "jp": "元気に遊ぶ子供たちを眺めるのが私の日課です。",
+        "en": "I love watching the children play. They're so full of energy!",
+        "ru": "Я люблю наблюдать за играми детей. Они полны энергии!"
+    },
+    {
+        "id": "M6050_S0010_G0210_300_sp",
+        "jp": "ようコソ。\\n何かほしいものがあるのカイ？",
+        "en": "Welcome. Are you looking for anything?",
+        "ru": "Добро пожаловать. Вы что-то ищете?"
+    },
+    {
+        "id": "M6050_S0010_G0220_300_sp",
+        "jp": "またいつでも来てクレ。\\n遠慮はいらなイヨ。",
+        "en": "Come back whenever you like. No need to be shy.",
+        "ru": "Возвращайтесь, когда захотите. Не нужно стесняться."
+    },
+    {
+        "id": "M6050_S0010_G0140_300_kj",
+        "jp": "ヨク来たな。\\nコノ村に争いを好む者はいないが、一応武器を備えてる。",
+        "en": "Welcome! Even though none of the villagers want to fight, I have weapons here just in case.",
+        "ru": "Добро пожаловать! Хотя никто из жителей не хочет сражаться, у меня есть оружие, на всякий случай."
+    },
+    {
+        "id": "M6050_S0010_G0150_300_kj",
+        "jp": "キニなるなら、少し見ていくか？",
+        "en": "Care to take a look?",
+        "ru": "Хотите посмотреть?"
+    },
+    {
+        "id": "M6050_S0010_G0170_300_kj",
+        "jp": "ツクり方は森に住んでる伝説の刀鍛冶から教えてモラッタ。",
+        "en": "I learned how to make weapons from a legendary swordsmith in the forest.",
+        "ru": "Я узнал, как сделать оружие у легендарного кузнеца мечей в лесу."
+    },
+    {
+        "id": "M6050_S0010_G0180_300_kj",
+        "jp": "アイつも村にくればいいノニナ。",
+        "en": "I wish he'd come to the village...",
+        "ru": "Я хочу, чтобы он пришёл в деревню..."
+    },
+    {
+        "id": "M6050_S0010_G0160_300_kj",
+        "jp": "マタきたのか、ゆっくりしてけ。",
+        "en": "Back again? Feel free to look around.",
+        "ru": "Снова вернулись? Не стесняйтесь, осматривайтесь."
+    },
+    {
+        "id": "M6050_S0010_G0190_300_kj",
+        "jp": "平和が好キナノニ、武器も好きダ……矛盾シテルな。",
+        "en": "I love peace, but I also love weapons. ...I guess that doesn't make a whole lot of sense.",
+        "ru": "Я люблю мир, но также люблю оружие. Думаю, что в этом нет большого смысла."
+    },
+    {
+        "id": "M6050_S0010_G0160_300_kj",
+        "jp": "マタきたのか、ゆっくりしてけ。",
+        "en": "Back again? Feel free to look around.",
+        "ru": "Снова вернулись? Не стесняйтесь, осматривайтесь."
+    },
+    {
+        "id": "M6050_S0010_G0200_300_kj",
+        "jp": "マタいつでも訪ねてくれよ。",
+        "en": "Come back any time you like.",
+        "ru": "Возвращайтесь, когда пожелаете."
+    },
+    {
+        "id": "M1040_S0030_G0020_001_n02",
+        "jp": "ヤメテ！殺さなイデ！",
+        "en": "Stop! Do not kill!",
+        "ru": "Стой! Не убивай!"
+    },
+    {
+        "id": "M1040_S0030_G0030_001_n02",
+        "jp": "戦わない！戦ワナい！",
+        "en": "No fighting! No fighting!",
+        "ru": "Не дерись! Не дерись!"
+    },
+    {
+        "id": "M1040_S0030_G0040_001_n02",
+        "jp": "殺さナイデ！殺さナイで！",
+        "en": "Don't kill! Don't kill!",
+        "ru": "Не убивай! Не убивай!"
+    },
+    {
+        "id": "M1040_S0030_G0050_001_n02",
+        "jp": "悪イコトしてない……！",
+        "en": "We have done nothing bad!",
+        "ru": "Мы не делали ничего плохого!"
+    },
+    {
+        "id": "M1040_S0030_G0060_001_n02",
+        "jp": "ごメンナさい！ゴメンなさい！",
+        "en": "I'm sorry! I'm sorry!",
+        "ru": "Прости! Прости!"
+    }
+]

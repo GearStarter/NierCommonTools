@@ -1,0 +1,62 @@
+[
+    {
+        "id": "M3040_S0010_S0000_001_pod153",
+        "jp": "警告：９Ｓのバイタルに異変を感知。",
+        "en": "Alert: Abnormality detected in vitals of unit 9S.",
+        "ru": "Внимание: обнаружена аномалия в показателях единицы 9S."
+    },
+    {
+        "id": "M3040_S0010_S0010_001_pod153",
+        "jp": "推奨：早急なデータオーバーホール。",
+        "en": "Proposal: Commence data overhaul immediately.",
+        "ru": "Предложение: немедленно приступите к техобслуживанию."
+    },
+    {
+        "id": "M3040_S0010_S0020_001_a9s",
+        "jp": "……他の大型ユニットの位置を検索。",
+        "en": "Pod, search for the other structural units.",
+        "ru": "Бот, отыщи другие модули."
+    },
+    {
+        "id": "M3040_S0010_S0030_001_a9s",
+        "jp": "さっさと『認証キー』を集めて塔を破壊しないと……",
+        "en": "I need to find those authorization keys and destroy the Tower.",
+        "ru": "Я должен найти ключи авторизации и уничтожить Башню."
+    },
+    {
+        "id": "M3040_S0010_S0040_001_pod153",
+        "jp": "警告：バイタルに異変を抱えたままの戦闘継続は危険。",
+        "en": "Alert: Combat inadvisable during abnormal vital conditions.",
+        "ru": "Внимание: не рекомендуется вступать в бой при аномалии в показателях."
+    },
+    {
+        "id": "M3040_S0010_S0050_001_a9s",
+        "jp": "いいから、検索しろ。",
+        "en": "It's fine. Run the search.",
+        "ru": "Всё в порядке. Запускай поиск."
+    },
+    {
+        "id": "M3040_S0010_S0060_001_pod153",
+        "jp": "……アクセス可能な位置に稼働中の敵大型ユニットを確認。",
+        "en": "Scanning. Actively operating enemy large structural unit detected in accessible location.",
+        "ru": "Сканирую. Обнаружено местоположение крупного действующего вражеского модуля."
+    },
+    {
+        "id": "M3040_S0010_S0070_001_pod153",
+        "jp": "マップにユニットの場所をマーク。",
+        "en": "Marking location on map.",
+        "ru": "Отмечаю местоположение на карте."
+    },
+    {
+        "id": "M5640_S0050_G0430_001_pod042",
+        "jp": "司令部からのメールを確認。",
+        "en": "Alert: Mail received from Command.",
+        "ru": "Внимание: получено сообщение от командования."
+    },
+    {
+        "id": "M5640_S0050_G0440_001_pod153",
+        "jp": "司令部からのメールを確認。",
+        "en": "Alert: Mail received from Command.",
+        "ru": "Внимание: получено сообщение от командования."
+    }
+]

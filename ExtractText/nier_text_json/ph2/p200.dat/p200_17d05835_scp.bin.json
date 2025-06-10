@@ -1,0 +1,44 @@
+[
+    {
+        "id": "M1080_S0080_G0010_201_op210",
+        "jp": "あっ、９Ｓ。",
+        "en": "Ah. 9S.",
+        "ru": "Ой. 9S."
+    },
+    {
+        "id": "M1080_S0080_G0000_201_a9s",
+        "jp": "オペレーターさん！？何があったの？",
+        "en": "Operator? What happened?",
+        "ru": "Оператор? Что случилось?"
+    },
+    {
+        "id": "M1080_S0080_G0020_201_op210",
+        "jp": "実は、廃工場エリア全域に機械生命体の反応多数確認。",
+        "en": "We recently detected large numbers of machine lifeforms throughout the factory area.",
+        "ru": "Недавно в районе завода мы обнаружили множество машин."
+    },
+    {
+        "id": "M1080_S0080_G0030_201_op210",
+        "jp": "その後２Ｂから支援要請があったけれど、電波状況が悪く……",
+        "en": "We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.",
+        "ru": "Вскоре после этого мы получили запрос о поддержке от 2B, но не смогли ответить из-за плохого сигнала."
+    },
+    {
+        "id": "M1080_S0080_G0040_201_a9s",
+        "jp": "わかった！こっちも大型ターミナルからアクセスしてみる。",
+        "en": "All right. I'll try to gain access from the main terminal.",
+        "ru": "Хорошо. Я попробую получить доступ через главный терминал."
+    },
+    {
+        "id": "M1080_S0080_G0000_300_pod153",
+        "jp": "申請：サーバー管理室の利用。",
+        "en": "Use of server administration room requested.",
+        "ru": "Запрошено разрешение на использование серверной."
+    },
+    {
+        "id": "M1080_S0080_G0010_300_pod153",
+        "jp": "申請の許可を確認。\\nこの部屋の装置を使用することが可能。",
+        "en": "Request granted. You may now use the device in this room.",
+        "ru": "Запрос одобрен. Теперь вы можете использовать устройство в этой комнате."
+    }
+]

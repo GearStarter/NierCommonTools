@@ -1,0 +1,224 @@
+[
+    {
+        "id": "M5220_S0010_G0000_001_pascal",
+        "jp": "ああ、Ａ２さん。何か御用でしょうか？",
+        "en": "Ah, A2. Can I help you with something?",
+        "ru": "О, A2. Могу ли я чем-нибудь тебе помочь?"
+    },
+    {
+        "id": "M5220_S0010_G0010_001_a2",
+        "jp": "……フィルターをタダでもらったからな。",
+        "en": "You gave me that filter for free earlier.",
+        "ru": "Ранее ты уже дал мне бесплатно тот фильтр."
+    },
+    {
+        "id": "M5220_S0010_G0020_001_a2",
+        "jp": "借りを返さないと気が済まない。",
+        "en": "I need to pay you back. It would bother me otherwise.",
+        "ru": "Я должна вернуть долг. Иначе это не будет давать мне покоя."
+    },
+    {
+        "id": "M5220_S0010_G0030_001_pascal",
+        "jp": "なんと、それは律儀な……",
+        "en": "How conscientious of you!",
+        "ru": "Как добросовестно с твоей стороны!"
+    },
+    {
+        "id": "M5220_S0010_G0040_001_a2",
+        "jp": "何か手伝える事があれば手伝おう。",
+        "en": "Yeah. So if you think of something, let me know.",
+        "ru": "Ага. Если что-нибудь придумаешь, дай мне знать."
+    },
+    {
+        "id": "M5220_S0010_G0050_001_pascal",
+        "jp": "……実は、困っている事がありまして。",
+        "en": "I do have a bit of a problem, now that you mention it.",
+        "ru": "Раз уж ты напомнила, у меня как раз есть небольшая проблема."
+    },
+    {
+        "id": "M5220_S0010_G0060_001_pascal",
+        "jp": "凶暴なロボットが遊び場に現れては、子供達を襲うようになったんです。",
+        "en": "A ferocious machine has been attacking our children in the area where they play.",
+        "ru": "Ужасная машина нападает на наших детишек в месте, где они собираются играть."
+    },
+    {
+        "id": "M5220_S0010_G0070_001_pascal",
+        "jp": "不躾ですが、そのロボットを退治してはいただけないでしょうか？",
+        "en": "Could I possibly trouble you to slay it for us?",
+        "ru": "Могу ли я попросить тебя уничтожить её?"
+    },
+    {
+        "id": "M5220_S0010_G0080_001_pascal",
+        "jp": "こんな事、他の人には頼めません。どうかお願いします。",
+        "en": "I do hope you'll agree. We don't really have anyone else to ask.",
+        "ru": "Надеюсь, ты согласишься. Мне действительно больше не к кому обратиться."
+    },
+    {
+        "id": "M5220_S0010_G0090_001_sele",
+        "jp": "引き受ける。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5220_S0010_G0100_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5220_S0010_G0140_001_pascal",
+        "jp": "ありがとうございます！",
+        "en": "Thank you so much!",
+        "ru": "Большое спасибо!"
+    },
+    {
+        "id": "M5220_S0010_G0150_001_pascal",
+        "jp": "きちんとお礼もいたしますので、何卒よろしくお願いします。",
+        "en": "I promise to repay you for the trouble.",
+        "ru": "Я обещаю отплатить за то, что отвлекаю тебя."
+    },
+    {
+        "id": "M5220_S0010_G0110_001_pascal",
+        "jp": "……そうですよね。ご都合もあるでしょうし。",
+        "en": "O-Of course. I know you have your own priorities.",
+        "ru": "П-понятно. Я знаю, у тебя есть и свои первоочередные цели."
+    },
+    {
+        "id": "M5220_S0010_G0120_001_pascal",
+        "jp": "失礼しました。",
+        "en": "It was rude to even ask. Please forgive me.",
+        "ru": "С моей стороны было грубо просить тебя. Прошу меня извинить."
+    },
+    {
+        "id": "M5220_S0010_G0130_001_pascal",
+        "jp": "子供たちの遊び場に現れる凶暴なロボットを、どうか退治しては\\nいただけないでしょうか？",
+        "en": "Will you slay the terrible machine that attacks our children while they play?",
+        "ru": "Ты убьёшь машину, которая нападает на детишек, когда они играют?"
+    },
+    {
+        "id": "M5220_S0010_G0090_001_sele",
+        "jp": "引き受ける。",
+        "en": "Agree to help.",
+        "ru": "Согласиться помочь."
+    },
+    {
+        "id": "M5220_S0010_G0100_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5220_S0010_G0160_001_pascal",
+        "jp": "子供たちの遊び場で暴れるロボットを退治してください。",
+        "en": "Please slay the terrible machine that attacks our children while they play.",
+        "ru": "Прошу, убей машину, которая нападает на детишек, когда они играют."
+    },
+    {
+        "id": "M5220_S0010_G0170_001_pascal",
+        "jp": "どうかよろしくお願いします。",
+        "en": "You have my thanks.",
+        "ru": "Благодарю."
+    },
+    {
+        "id": "M5220_S0030_G0000_001_pascal",
+        "jp": "ああ、ありがとうございます！",
+        "en": "We heard you defeated that nasty creature!",
+        "ru": "Я уже в курсе, что ты одолела это мерзкое создание!"
+    },
+    {
+        "id": "M5220_S0030_G0010_001_pascal",
+        "jp": "あのロボットを退治してくださったんですね。",
+        "en": "Thank you so much.",
+        "ru": "Большое тебе спасибо."
+    },
+    {
+        "id": "M5220_S0030_G0020_001_pascal",
+        "jp": "どうか謝礼をお受け取りください。さあ、遠慮なさらず。",
+        "en": "Here is your reward. Please take it.",
+        "ru": "Вот твоя награда. Прошу, прими её."
+    },
+    {
+        "id": "M5220_S0030_G0030_001_pascal",
+        "jp": "……私達は平和主義者です。戦う事が嫌でこの村を作りました。",
+        "en": "I built this village because I detest fighting. I wanted it to stand as a monument to the power of peace.",
+        "ru": "Я построил эту деревню потому, что мне претят сражения. Мне хотелось,\\nчтобы она стала монументом силы мира и покоя."
+    },
+    {
+        "id": "M5220_S0030_G0040_001_pascal",
+        "jp": "でも、武器を捨てた結果、チカラのある者に抗う術を失いました。",
+        "en": "But when we surrendered our weapons, we lost the ability to defend ourselves.",
+        "ru": "Но когда мы отреклись от оружия, мы стали неспособны защитить самих себя."
+    },
+    {
+        "id": "M5220_S0030_G0050_001_pascal",
+        "jp": "村の中には、平和を守る為に周囲の敵を滅ぼすべき、と主張する者も\\nいます。",
+        "en": "Now many within the village want us to re-arm and vanquish nearby enemies in order to preserve our peace.",
+        "ru": "Теперь многие хотят вновь вооружиться, чтобы уничтожить всех врагов\\nпоблизости, дабы защитить наш мир и спокойствие."
+    },
+    {
+        "id": "M5220_S0030_G0060_001_pascal",
+        "jp": "Ａ２さん……私達はどうするべきでしょうか？",
+        "en": "What do you think we should do, A2?",
+        "ru": "Как думаешь A2, что мне делать?"
+    },
+    {
+        "id": "M5220_S0030_G0070_001_a2",
+        "jp": "さあね。",
+        "en": "Dunno.",
+        "ru": "Не знаю."
+    },
+    {
+        "id": "M5220_S0030_G0080_001_a2",
+        "jp": "それを決めるのは、パスカル。お前だろ？",
+        "en": "That's for you to decide.",
+        "ru": "Тебе решать."
+    },
+    {
+        "id": "M5220_S0030_G0090_001_pascal",
+        "jp": "そう……ですね……",
+        "en": "Yes, I suppose so.",
+        "ru": "Да, полагаю, что так."
+    },
+    {
+        "id": "M5220_S0030_G0100_001_a2",
+        "jp": "あと、私を襲うようなことがあったら遠慮なくこの村を滅ぼすからな。",
+        "en": "But let your villager friends know—if anyone tries to attack me, I'll wipe this place clean off the map.",
+        "ru": "Но скажи своим жителям, что если кто-нибудь нападёт на меня, я сотру это место с лица Земли."
+    },
+    {
+        "id": "M5220_S0030_G0110_001_pascal",
+        "jp": "……はは。心得ました。",
+        "en": "I will make a firm note of it.",
+        "ru": "Я обязательно уведомлю их."
+    },
+    {
+        "id": "M5220_S0030_G0120_001_pascal",
+        "jp": "Ａ２さん。",
+        "en": "Er, A2?",
+        "ru": "Э-э, A2?"
+    },
+    {
+        "id": "M5220_S0030_G0130_001_pascal",
+        "jp": "良ければ、この村を見ていってください。",
+        "en": "If you like, you're welcome to take a look around our village.",
+        "ru": "Если хочешь, можешь осмотреться в деревне."
+    },
+    {
+        "id": "M5220_S0030_G0140_001_pascal",
+        "jp": "貴方には、私達のことをもっと知ってもらいたいのです。",
+        "en": "It would be nice for you to know more about us.",
+        "ru": "Будет неплохо, если ты узнаешь нас получше."
+    },
+    {
+        "id": "M5220_S0030_G0150_001_a2",
+        "jp": "……気が向いたらな。",
+        "en": "Sure. If I feel like it.",
+        "ru": "Конечно. Если будет желание."
+    },
+    {
+        "id": "M5220_S0020_G0005_001_pod042",
+        "jp": "敵性機械生命体を感知。",
+        "en": "Hostile machine lifeformｓ detected.",
+        "ru": "Обнаружены враждебные машины."
+    }
+]

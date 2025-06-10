@@ -1,5 +1,0 @@
-ID: M1020_S0015_S0000_101_telo
-JP: 砂漠地帯
-EN: Desert Region
-RU: 
-

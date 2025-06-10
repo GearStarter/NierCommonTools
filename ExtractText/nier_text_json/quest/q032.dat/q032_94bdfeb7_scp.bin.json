@@ -1,0 +1,302 @@
+[
+    {
+        "id": "M5031_S0030_G0201_001_a2b",
+        "jp": "このロボット……",
+        "en": "This machine...",
+        "ru": "Эта машина..."
+    },
+    {
+        "id": "M5031_S0030_G0202_001_a9s",
+        "jp": "ああ、壊れたロボットですね。ちょっと手を入れれば修復できそうです。",
+        "en": "You mean this broken hunk of junk? It looks like we can probably get it running again with a little bit of repair work.",
+        "ru": "Ты имеешь в виду эту груду железа? Похоже, мы сможем запустить её снова, но потребуется небольшой ремонт."
+    },
+    {
+        "id": "M5031_S0030_G0195_001_a9s",
+        "jp": "記憶領域同士をつなぐ為に、『新品のネジ』４本と、『大きな歯車』を\\n入手したいですね。",
+        "en": "Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.",
+        "ru": "Так, посмотрим... Четырёх новеньких винтов и одной большой шестерни будет достаточно для ремонта."
+    },
+    {
+        "id": "M5031_S0030_G0205_001_a2b",
+        "jp": "わかった。",
+        "en": "Fair enough.",
+        "ru": "Ясно."
+    },
+    {
+        "id": "M5920_S0010_G0280_001_pod042",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5920_S0020_G0280_001_pod153",
+        "jp": "目標地点の情報を入手。マップにマーク。",
+        "en": "Target location data obtained. Marking on map.",
+        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
+    },
+    {
+        "id": "M5032_S0010_G0000_001_a2b",
+        "jp": "工場の情報から何かわかった事はある？",
+        "en": "Did you learn anything from the factory data?",
+        "ru": "Узнал что-нибудь из информации с завода?"
+    },
+    {
+        "id": "M5032_S0010_G0010_001_a9s",
+        "jp": "いえ、奴らの製造過程が分かっただけで……",
+        "en": "Just how it was manufactured. Pretty boring, actually.",
+        "ru": "Только о том, как её произвели. Довольно скучно, на самом-то деле."
+    },
+    {
+        "id": "M5032_S0010_G0020_001_a2b",
+        "jp": "機械生命体についてはまだ判ってない事が多い。",
+        "en": "There's still a lot about machines that we don't understand.",
+        "ru": "Мы ещё столько не знаем о машинах."
+    },
+    {
+        "id": "M5032_S0010_G0030_001_a2b",
+        "jp": "どんな情報でもいいから、集めておかないと。",
+        "en": "Gather as much data as you can, no matter how irrelevant it may seem.",
+        "ru": "Собери столько данных, сколько сможешь, невзирая на степень их важности."
+    },
+    {
+        "id": "M5032_S0010_G0050_001_a9s",
+        "jp": "これで、あの大型兵器を修理する為の部品が全部揃いましたね。",
+        "en": "Okay. That should be everything we need to repair the machine.",
+        "ru": "Хорошо. Этого должно хватить для починки машины."
+    },
+    {
+        "id": "M5032_S0010_G0055_001_telo",
+        "jp": "53分後……",
+        "en": "53 minutes later...",
+        "ru": "53 минуты спустя..."
+    },
+    {
+        "id": "M5032_S0010_G0080_300_a2b",
+        "jp": "……中々素材が集まらない。",
+        "en": "We still don't have what we need.",
+        "ru": "У нас всё ещё нет того, что нужно."
+    },
+    {
+        "id": "M5032_S0020_G0000_001_a9s",
+        "jp": "これで……良し……",
+        "en": "Let's see what we've got.",
+        "ru": "Так, посмотрим, что мы имеем."
+    },
+    {
+        "id": "M5032_S0020_G0010_001_eng",
+        "jp": "私ノ名前ハ『エンゲルス』。製造番号ハ１１０−B。",
+        "en": "My name is Engels, serial number 110-B.",
+        "ru": "Меня зовут Энгельс, серийный номер 110-B."
+    },
+    {
+        "id": "M5032_S0020_G0020_001_a9s",
+        "jp": "わっ！",
+        "en": "Whoa!",
+        "ru": "Воу!"
+    },
+    {
+        "id": "M5032_S0020_G0030_001_eng",
+        "jp": "人類西暦１１９３４年２月ニ製造。",
+        "en": "I was manufactured in February of the human calendar year 11,934 A.D.",
+        "ru": "Я был произведён в феврале 11934 г. н.э. по человеческому календарю."
+    },
+    {
+        "id": "M5032_S0020_G0040_001_eng",
+        "jp": "同年８月ニ初出撃。",
+        "en": "My first deployment was in August of that same year.",
+        "ru": "Впервые был запущен в августе того же года."
+    },
+    {
+        "id": "M5032_S0020_G0050_001_eng",
+        "jp": "現在ノ状況確認ガ必要。",
+        "en": "Requesting confirmation of current status.",
+        "ru": "Запрашиваю подтверждение текущего статуса."
+    },
+    {
+        "id": "M5032_S0020_G0060_001_a9s",
+        "jp": "急にしゃべるからビックリした……",
+        "en": "This thing's getting chattier.",
+        "ru": "Эта штуковина становится всё болтливее."
+    },
+    {
+        "id": "M5032_S0020_G0070_001_eng",
+        "jp": "現在ノ状況確認ガ必要。",
+        "en": "Requesting confirmation of current status.",
+        "ru": "Запрашиваю подтверждение текущего статуса."
+    },
+    {
+        "id": "M5032_S0020_G0080_001_a9s",
+        "jp": "……お前は、僕達アンドロイドに倒され、現在動く事が出来ない。",
+        "en": "Um...well, you were defeated by us androids. That's why you can't move.",
+        "ru": "Эм... ну, ты был побеждён нами, андроидами. Поэтому ты не можешь двигаться."
+    },
+    {
+        "id": "M5032_S0020_G0090_001_a9s",
+        "jp": "おとなしく持ってる機密情報を渡せ。",
+        "en": "At this point, you should probably just hand over any classified information in your possession.",
+        "ru": "При таком раскладе, ты обязан передать всю имеющуюся секретную информацию."
+    },
+    {
+        "id": "M5032_S0020_G0100_001_eng",
+        "jp": "了解シタ。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5032_S0020_G0110_001_a9s",
+        "jp": "やけに、あっさりと渡すんだな……",
+        "en": "That was surprisingly easy.",
+        "ru": "Это было на удивление просто."
+    },
+    {
+        "id": "M5032_S0020_G0120_001_eng",
+        "jp": "当機ノ任務ハ既ニ達成サレテオリ、現在ハ命令者不在。",
+        "en": "My mission has already been accomplished. My commander is absent.",
+        "ru": "Моя задача уже выполнена. Мой командор отсутствует."
+    },
+    {
+        "id": "M5032_S0020_G0130_001_eng",
+        "jp": "機密ヲ保護スル指令モ受ケテイナイ。",
+        "en": "I have no orders to withhold classified information.",
+        "ru": "Приказа скрывать секретную информацию мне не поступало."
+    },
+    {
+        "id": "M5032_S0020_G0140_001_eng",
+        "jp": "タダシ、戦闘兵器デアル当機ノ情報ハソレホド多クナイ。",
+        "en": "But as a combat weapon, I do not possess a great deal of data.",
+        "ru": "Но, будучи обычным оружием, я не обладаю большим запасом информации."
+    },
+    {
+        "id": "M5032_S0020_G0150_001_eng",
+        "jp": "期待スルナ。",
+        "en": "You should not expect much.",
+        "ru": "Вам не следует многого ожидать."
+    },
+    {
+        "id": "M5032_S0020_G0160_001_a9s",
+        "jp": "なるほどね……",
+        "en": "We'll keep that in mind.",
+        "ru": "Мы будем иметь это в виду."
+    },
+    {
+        "id": "M5032_S0020_G0170_001_eng",
+        "jp": "助ケテクレタ事ヲ感謝スル。",
+        "en": "Thank you for saving me.",
+        "ru": "Спасибо вам за то, что спасли меня."
+    },
+    {
+        "id": "M5032_S0020_G0180_001_a2b",
+        "jp": "別に、助けた訳じゃない……",
+        "en": "That's not quite what's happening here.",
+        "ru": "Вообще-то, это не совсем то, что здесь происходит."
+    },
+    {
+        "id": "M5032_S0020_G0190_001_eng",
+        "jp": "良ケレバ、マタ立チ寄ッテクレ。",
+        "en": "Please visit me again.",
+        "ru": "Прошу, приходите ещё."
+    },
+    {
+        "id": "M5032_S0020_G0200_001_a2b",
+        "jp": "どうして？",
+        "en": "Why?",
+        "ru": "Зачем?"
+    },
+    {
+        "id": "M5032_S0020_G0210_001_eng",
+        "jp": "暇ダカラ。",
+        "en": "Because I have nothing to do.",
+        "ru": "Потому что мне нечем заняться."
+    },
+    {
+        "id": "M5032_S0020_G0220_001_a9s",
+        "jp": "暇……",
+        "en": "Are you trying to say you're bored?",
+        "ru": "Хочешь сказать, тебе скучно?"
+    },
+    {
+        "id": "M5032_S0020_G0230_001_a9s",
+        "jp": "変わったロボットでしたね……",
+        "en": "What a strange machine...",
+        "ru": "Какая странная машина..."
+    },
+    {
+        "id": "M5032_S0010_G0000_300_a2b",
+        "jp": "『新品のネジ』は大型２足から手に入れるとして、”大きな歯車”は？",
+        "en": "We know we can find pristine screws on big bipedal machines, but what about large gears?",
+        "ru": "Мы знаем, что новенькие винты можно добыть из больших двуногих машин, но что насчёт больших шестерней?"
+    },
+    {
+        "id": "M5032_S0010_G0010_300_a9s",
+        "jp": "困った時のオペレーターさん、ですよ。",
+        "en": "Let's try the Operator again.",
+        "ru": "Давай попробуем опять спросить у оператора."
+    },
+    {
+        "id": "M5032_S0010_G0080_300_a2b",
+        "jp": "……中々素材が集まらない。",
+        "en": "We still don't have what we need.",
+        "ru": "У нас всё ещё нет того, что нужно."
+    },
+    {
+        "id": "M5032_S0010_G0090_300_a9s",
+        "jp": "破損がひどくて使えないものばかりでしたね。",
+        "en": "Yeah. Most of the gears were too damaged to use.",
+        "ru": "Ага. Большинство приводов сильно повреждены."
+    },
+    {
+        "id": "M5032_S0010_G0100_300_a2b",
+        "jp": "少しくらい壊れてても使えるんじゃ……",
+        "en": "Surely just a LITTLE damage won't hurt?",
+        "ru": "И это ты называешь МАЛЕНЬКИМ ремонтом?"
+    },
+    {
+        "id": "M5032_S0010_G0110_300_a9s",
+        "jp": "無茶言わないでください",
+        "en": "Come on now, 2B.",
+        "ru": "Да ладно тебе, 2B."
+    },
+    {
+        "id": "M5032_S0010_G0020_300_a9s",
+        "jp": "オペレーターさん、僕達『大きな歯車』を探してるんですけど、\\nどこで入手できるか教えてください。",
+        "en": "9S to Operator! We're trying to track down a large gear. Any idea where to start the search?",
+        "ru": "9S вызывает оператора! Нам необходима большая шестерня. Есть идеи, где мы можем её отыскать?"
+    },
+    {
+        "id": "M5032_S0010_G0030_300_op210",
+        "jp": "今度は何をしているんですか？……まぁいいですけど\\n『大きな歯車』は小型の機械生命体から入手した記録が残っています。",
+        "en": "Why are you looking for—? Well, anyway, you can salvage the requested material from smaller machine lifeforms.",
+        "ru": "А зачем вы ищете?.. Ладно, вы можете добыть этот материал из мелких машин."
+    },
+    {
+        "id": "M5032_S0010_G0040_300_op210",
+        "jp": "破壊時の破損が大きくて、めったに使えるものは手に入らないようですが。",
+        "en": "Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.",
+        "ru": "Однако найти неповреждённую будет сложно. Эту деталь легко повредить при уничтожении корпуса машины."
+    },
+    {
+        "id": "M5032_S0010_G0050_300_a9s",
+        "jp": "なるほど……情報提供感謝します。",
+        "en": "Thanks, Operator. That's good to know.",
+        "ru": "Спасибо, оператор. Приму это к сведению."
+    },
+    {
+        "id": "M5032_S0010_G0060_300_a2b",
+        "jp": "とりあえず、小型の機械生命体を倒しまくればいいのか。",
+        "en": "Right. Let's go take out some small fry.",
+        "ru": "Ладно. Пора бы выудить из неё информацию."
+    },
+    {
+        "id": "M5032_S0010_G0070_300_a9s",
+        "jp": "……２Ｂってホント大雑把ですよね。",
+        "en": "Heh. Straight to the point as always, 2B!",
+        "ru": "Хех. Прямо к делу, как и всегда, 2B!"
+    },
+    {
+        "id": "M5031_S0020_G0100_300_a2b",
+        "jp": "今はこいつを修理している場合じゃない",
+        "en": "Now's not the time to be fixing this thing.",
+        "ru": "Сейчас не время чинить эту штуковину."
+    }
+]

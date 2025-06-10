@@ -1,0 +1,428 @@
+[
+    {
+        "id": "M5561_S0010_G0000_001_ppl",
+        "jp": "あら、いらっしゃい。",
+        "en": "Hello again.",
+        "ru": "Ещё раз привет."
+    },
+    {
+        "id": "M5561_S0010_G0010_001_ppl",
+        "jp": "ゆっくりお話したいところだけど、私はちょっと出かける用事があるの。",
+        "en": "I'd love to sit here and chat, but we need to head out and take care of a job.",
+        "ru": "Мне хотелось бы посидеть здесь и поболтать, но нам нужно заняться делом."
+    },
+    {
+        "id": "M5561_S0010_G0020_001_ppl",
+        "jp": "慌ただしくてごめんなさいね。急に必要な素材が出来ちゃって。",
+        "en": "Things are a little crazy around here at the moment. I need to get these materials post-haste and...",
+        "ru": "Сейчас здесь творится полнейший аврал. Поэтому нам очень срочно понадобились кое-какие материалы и..."
+    },
+    {
+        "id": "M5561_S0010_G0030_001_dbl",
+        "jp": "あっ、そうだ！こいつに頼めばいいじゃないか。なあ？",
+        "en": "Hey, Sis? Just ask already.",
+        "ru": "Эй, сестра? Просто попроси уже."
+    },
+    {
+        "id": "M5561_S0010_G0040_001_a9s",
+        "jp": "頼むって、資材集めを？",
+        "en": "You want me to get the materials for you?",
+        "ru": "Вы хотите, чтобы я собрал для вас материалы?"
+    },
+    {
+        "id": "M5561_S0010_G0060_001_ppl",
+        "jp": "そんな、悪いわよ……",
+        "en": "Oh, we couldn't possibly ask!",
+        "ru": "Ох, это было бы очень кстати!"
+    },
+    {
+        "id": "M5561_S0010_G0070_001_sele",
+        "jp": "素材を採りに行く。",
+        "en": "Agree to secure the materials.",
+        "ru": "Согласиться добыть материалы."
+    },
+    {
+        "id": "M5561_S0010_G0080_001_sele",
+        "jp": "行かない。",
+        "en": "Ignore the hint.",
+        "ru": "Игнорировать намёк."
+    },
+    {
+        "id": "M5561_S0010_G0000_001_ppl",
+        "jp": "あら、いらっしゃい。",
+        "en": "Hello again.",
+        "ru": "Ещё раз привет."
+    },
+    {
+        "id": "M5561_S0010_G0010_001_ppl",
+        "jp": "ゆっくりお話したいところだけど、私はちょっと出かける用事があるの。",
+        "en": "I'd love to sit here and chat, but we need to head out and take care of a job.",
+        "ru": "Мне хотелось бы посидеть здесь и поболтать, но нам нужно заняться делом."
+    },
+    {
+        "id": "M5561_S0010_G0020_001_ppl",
+        "jp": "慌ただしくてごめんなさいね。急に必要な素材が出来ちゃって。",
+        "en": "Things are a little crazy around here at the moment. I need to get these materials post-haste and...",
+        "ru": "Сейчас здесь творится полнейший аврал. Поэтому нам очень срочно понадобились кое-какие материалы и..."
+    },
+    {
+        "id": "M5561_S0010_G0030_001_dbl",
+        "jp": "あっ、そうだ！こいつに頼めばいいじゃないか。なあ？",
+        "en": "Hey, Sis? Just ask already.",
+        "ru": "Эй, сестра? Просто попроси уже."
+    },
+    {
+        "id": "M5561_S0010_G0050_001_a2",
+        "jp": "また資材集めの仕事か？",
+        "en": "Let me guess: You need a scrap collector.",
+        "ru": "Дайте-ка угадаю: вам нужен сборщик металлолома."
+    },
+    {
+        "id": "M5561_S0010_G0060_001_ppl",
+        "jp": "そんな、悪いわよ……",
+        "en": "Oh, we couldn't possibly ask!",
+        "ru": "Ох, это было бы очень кстати!"
+    },
+    {
+        "id": "M5561_S0010_G0070_001_sele",
+        "jp": "素材を採りに行く。",
+        "en": "Agree to secure the materials.",
+        "ru": "Согласиться добыть материалы."
+    },
+    {
+        "id": "M5561_S0010_G0080_001_sele",
+        "jp": "行かない。",
+        "en": "Ignore the hint.",
+        "ru": "Игнорировать намёк."
+    },
+    {
+        "id": "M5561_S0010_G0120_001_dbl",
+        "jp": "いやあ、本当に助かるよ！",
+        "en": "Thanks. This is a HUGE help.",
+        "ru": "Спасибо. Это ОГРОМНАЯ помощь."
+    },
+    {
+        "id": "M5561_S0010_G0130_001_ppl",
+        "jp": "デボル、また無理ばっかり言って……",
+        "en": "Devola, we can't keep asking people to—",
+        "ru": "Девола, и все-таки, мы не можем продолжать просить других, чтобы..."
+    },
+    {
+        "id": "M5561_S0010_G0140_001_dbl",
+        "jp": "まあいいじゃねぇか。ここは素直に甘えよう。",
+        "en": "Yes we CAN, Sis! Let's just be grateful for the help.",
+        "ru": "Нет, мы МОЖЕМ, сестра! Давай просто будем благодарны за помощь."
+    },
+    {
+        "id": "M5561_S0010_G0150_001_dbl",
+        "jp": "悪いけど『砂漠のバラ』を採ってきてくれないかな？",
+        "en": "Anyway, I just need you to track down some desert roses.",
+        "ru": "В любом случае, нам нужно несколько пустынных роз."
+    },
+    {
+        "id": "M5561_S0010_G0160_001_dbl",
+        "jp": "『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\\n希少な素材なんだ。",
+        "en": "It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.",
+        "ru": "Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне."
+    },
+    {
+        "id": "M5561_S0010_G0170_001_ppl",
+        "jp": "……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。",
+        "en": "Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.",
+        "ru": "Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные."
+    },
+    {
+        "id": "M5561_S0010_G0090_001_dbl",
+        "jp": "いやぁ……危険な素材集めにポポルを行かせるのは辛いなぁ……",
+        "en": "Look, I'll be honest—I'm worried about sending Popola out to find this stuff.",
+        "ru": "Послушай, буду честна — я беспокоюсь отправлять Пополу на поиски этих материалов."
+    },
+    {
+        "id": "M5561_S0010_G0100_001_dbl",
+        "jp": "ここは一つ、お願いしたいなぁ……",
+        "en": "I was really hoping you might pitch in.",
+        "ru": "Я очень надеюсь, что ты сможешь помочь."
+    },
+    {
+        "id": "M5561_S0010_G0070_001_sele",
+        "jp": "素材を採りに行く。",
+        "en": "Agree to secure the materials.",
+        "ru": "Согласиться добыть материалы."
+    },
+    {
+        "id": "M5561_S0010_G0080_001_sele",
+        "jp": "行かない。",
+        "en": "Ignore the hint.",
+        "ru": "Игнорировать намёк."
+    },
+    {
+        "id": "M5561_S0010_G0110_001_dbl",
+        "jp": "そこをなんとか、この私の顔に免じて、頼む！",
+        "en": "Please? Pretty please? With cream on top?",
+        "ru": "Пожалуйста? Ну пожалуйста? За вознаграждение?"
+    },
+    {
+        "id": "M5561_S0010_G0070_001_sele",
+        "jp": "素材を採りに行く。",
+        "en": "Agree to secure the materials.",
+        "ru": "Согласиться добыть материалы."
+    },
+    {
+        "id": "M5561_S0010_G0080_001_sele",
+        "jp": "行かない。",
+        "en": "Ignore the hint.",
+        "ru": "Игнорировать намёк."
+    },
+    {
+        "id": "M6090_S0020_G0780_300_dbl",
+        "jp": "やあ、何か見ていくか？",
+        "en": "Are you looking for something?",
+        "ru": "Ищешь что-то?"
+    },
+    {
+        "id": "M5561_S0010_G0150_001_dbl",
+        "jp": "悪いけど『砂漠のバラ』を採ってきてくれないかな？",
+        "en": "Anyway, I just need you to track down some desert roses.",
+        "ru": "В любом случае, нам нужно несколько пустынных роз."
+    },
+    {
+        "id": "M5561_S0010_G0160_001_dbl",
+        "jp": "『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\\n希少な素材なんだ。",
+        "en": "It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.",
+        "ru": "Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне."
+    },
+    {
+        "id": "M5561_S0010_G0170_001_ppl",
+        "jp": "……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。",
+        "en": "Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.",
+        "ru": "Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные."
+    },
+    {
+        "id": "M5561_S0020_G0000_001_a9s",
+        "jp": "デボル達が言ってた『砂漠のバラ』があるのはこの辺りか。",
+        "en": "Those desert roses the twins wanted should be around here somewhere.",
+        "ru": "Пустынные розы, которые нужны близняшкам, должны быть где-то здесь."
+    },
+    {
+        "id": "M5561_S0020_G0010_001_a9s",
+        "jp": "こんな場所、採りに来るのも一苦労だな。",
+        "en": "Finding one in a place like this won't be easy.",
+        "ru": "Найти даже одну в таком месте будет непросто."
+    },
+    {
+        "id": "M5561_S0020_G0020_001_a9s",
+        "jp": "あの２人は、どうしてこんな大変な仕事をしてるんだ……",
+        "en": "Why are those two engaged in such dangerous work anyway?",
+        "ru": "Зачем же эта парочка подписывается на такую опасную работу?"
+    },
+    {
+        "id": "M5561_S0020_G0030_001_a2",
+        "jp": "双子が言ってた『砂漠のバラ』があるのはこの辺りか。\\nこれじゃ採りに来るのも一苦労だな。",
+        "en": "Those desert roses the twins wanted should be around here somewhere, but finding them is gonna be a serious pain.",
+        "ru": "Эти пустынные розы, которые нужны близняшкам, должны быть где-то здесь, но их поиск наверняка будет той ещё проблемой."
+    },
+    {
+        "id": "M5561_S0020_G0040_001_a2",
+        "jp": "……あの２人、どうしてこんな大変な仕事をしているんだ？",
+        "en": "Why are they running such dangerous missions in the first place?",
+        "ru": "И почему они берутся такие опасные задания?"
+    },
+    {
+        "id": "M5561_S0020_G0050_001_a9s",
+        "jp": "『砂漠のバラ』集めはこれでいいかな。デボル達のところへ戻ろう。",
+        "en": "That's the last desert rose. Better get these back to Devola and Popola.",
+        "ru": "Это последняя пустынная роза. Самое время отнести их Деволе и Пополе."
+    },
+    {
+        "id": "M5561_S0020_G0060_001_a2",
+        "jp": "『砂漠のバラ』集めはこの辺でいいか。２人のところへ戻ろう。",
+        "en": "That's it for the desert roses. Time to head back.",
+        "ru": "Этих пустынных роз достаточно. Пора возвращаться."
+    },
+    {
+        "id": "M5561_S0010_G0160_001_dbl",
+        "jp": "『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\\n希少な素材なんだ。",
+        "en": "It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.",
+        "ru": "Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне."
+    },
+    {
+        "id": "M5561_S0010_G0170_001_ppl",
+        "jp": "……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。",
+        "en": "Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.",
+        "ru": "Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные."
+    },
+    {
+        "id": "M5561_S0010_G0160_001_dbl",
+        "jp": "『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\\n希少な素材なんだ。",
+        "en": "It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.",
+        "ru": "Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне."
+    },
+    {
+        "id": "M5561_S0010_G0170_001_ppl",
+        "jp": "……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。",
+        "en": "Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.",
+        "ru": "Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные."
+    },
+    {
+        "id": "M5561_S0030_G0000_001_dbl",
+        "jp": "ありがとう！これだけ『砂漠のバラ』があれば十分だよ。",
+        "en": "Hey, thanks! This'll be more than enough desert roses.",
+        "ru": "Эй, спасибо! Пустынных роз более чем достаточно."
+    },
+    {
+        "id": "M5561_S0030_G0010_001_ppl",
+        "jp": "無理を言ってごめんなさい。でも、本当に助かったわ。",
+        "en": "I know this wasn't easy. Thank you.",
+        "ru": "Я знаю, это было непросто. Спасибо."
+    },
+    {
+        "id": "M5561_S0030_G0020_001_a9s",
+        "jp": "あの２人、過酷な労働ばかりさせられてるな……",
+        "en": "Those two sure draw some difficult assignments, huh?",
+        "ru": "Эта парочка наверняка уже не раз получала такие опасные задания, да?"
+    },
+    {
+        "id": "M5561_S0030_G0030_001_pod153",
+        "jp": "推測：過酷な作業はいずれ組織に悪影響を及ぼす。",
+        "en": "Hypothesis: Continued difficult assignments will eventually have a deleterious effect on the entire organization.",
+        "ru": "Предположение: продолжение выполнения ими сложных заданий в итоге окажет негативный эффект на всю организацию."
+    },
+    {
+        "id": "M5561_S0030_G0040_001_a9s",
+        "jp": "ちょっとアネモネさんに話をしに行こう。",
+        "en": "Hmm. Maybe I should talk this over with Anemone.",
+        "ru": "Хм. Может, я должен поговорить об этом с Анемоной."
+    },
+    {
+        "id": "M5561_S0030_G0050_001_a2",
+        "jp": "気に入らないな。なぜあの双子だけ過酷な労働をさせられるんだ？",
+        "en": "I don't get it. Why are the twins being stuck with all these crap jobs?",
+        "ru": "Я не понимаю. Почему близняшки занимаются такими бестолковыми заданиями?"
+    },
+    {
+        "id": "M5561_S0030_G0060_001_pod042",
+        "jp": "推測：過酷な作業はいずれ組織に悪影響を及ぼす。",
+        "en": "Hypothesis: Continued \"crap jobs\" will eventually have a deleterious effect on the entire organization.",
+        "ru": "Предположение: продолжение выполнения ими \"бестолковых заданий\" в итоге окажет негативный эффект на всю организацию."
+    },
+    {
+        "id": "M5561_S0030_G0070_001_a2",
+        "jp": "ここのリーダーに、一度話をしておくか……",
+        "en": "I'd better talk to the lady in charge about this.",
+        "ru": "Я лучше поговорю с дамочкой, ответственной за это."
+    },
+    {
+        "id": "M5561_S0030_G0080_001_ane",
+        "jp": "どうした？怖い顔して。",
+        "en": "Yes? What is it? ...And why are you scowling at me like that?",
+        "ru": "Да? Что такое?.. И с чего это у тебя такой сердитый взгляд?"
+    },
+    {
+        "id": "M5561_S0030_G0090_001_ane",
+        "jp": "……ああ、デボルとポポルの件か。",
+        "en": "Ah. I see. This is about Devola and Popola.",
+        "ru": "А. Понятно. Это насчёт Деволы и Пополы."
+    },
+    {
+        "id": "M5561_S0030_G0100_001_ane",
+        "jp": "確かに、あの２人にはつらい仕事ばかり回している。\\nそれを不合理だと言うのは当たり前だ。",
+        "en": "I understand how unfair it must seem for them to keep getting our most difficult and dangerous assignments.",
+        "ru": "Понимаю, выглядит несправедливо, что только они получают самые трудные и опасные задания."
+    },
+    {
+        "id": "M5561_S0030_G0110_001_ane",
+        "jp": "だが、私の一存ではどうにもならないんだ。",
+        "en": "But I'm afraid that's going to continue for a while.",
+        "ru": "Но, я боюсь, это единственный возможный вариант."
+    },
+    {
+        "id": "M5561_S0030_G0120_001_ane",
+        "jp": "……周囲が、まだ彼女達を許していなくてね。",
+        "en": "The others here... Well, they still haven't forgiven them.",
+        "ru": "Другие... Они ещё не простили их."
+    },
+    {
+        "id": "M5561_S0030_G0130_001_a9s",
+        "jp": "許すって、何を？",
+        "en": "I don't understand. Forgiven them for what?",
+        "ru": "Я не понимаю. Не простили их за что?"
+    },
+    {
+        "id": "M5561_S0030_G0150_001_ane",
+        "jp": "それは……",
+        "en": "That...",
+        "ru": "Это..."
+    },
+    {
+        "id": "M5561_S0030_G0160_001_ane",
+        "jp": "いつか、本人達から聞いてくれ。",
+        "en": "That's something you should ask them directly.",
+        "ru": "Тебе лучше спросить об этом их самих."
+    },
+    {
+        "id": "M5561_S0030_G0080_001_ane",
+        "jp": "どうした？怖い顔して。",
+        "en": "Yes? What is it? ...And why are you scowling at me like that?",
+        "ru": "Да? Что такое?.. И с чего это у тебя такой сердитый взгляд?"
+    },
+    {
+        "id": "M5561_S0030_G0090_001_ane",
+        "jp": "……ああ、デボルとポポルの件か。",
+        "en": "Ah. I see. This is about Devola and Popola.",
+        "ru": "А. Понятно. Это насчёт Деволы и Пополы."
+    },
+    {
+        "id": "M5561_S0030_G0100_001_ane",
+        "jp": "確かに、あの２人にはつらい仕事ばかり回している。\\nそれを不合理だと言うのは当たり前だ。",
+        "en": "I understand how unfair it must seem for them to keep getting our most difficult and dangerous assignments.",
+        "ru": "Понимаю, выглядит несправедливо, что только они получают самые трудные и опасные задания."
+    },
+    {
+        "id": "M5561_S0030_G0110_001_ane",
+        "jp": "だが、私の一存ではどうにもならないんだ。",
+        "en": "But I'm afraid that's going to continue for a while.",
+        "ru": "Но, я боюсь, это единственный возможный вариант."
+    },
+    {
+        "id": "M5561_S0030_G0120_001_ane",
+        "jp": "……周囲が、まだ彼女達を許していなくてね。",
+        "en": "The others here... Well, they still haven't forgiven them.",
+        "ru": "Другие... Они ещё не простили их."
+    },
+    {
+        "id": "M5561_S0030_G0140_001_a2",
+        "jp": "許す？どういう意味だ。あの２人は一体……",
+        "en": "Forgiven them for what? And just who the hell are they, anyway?",
+        "ru": "За что их не простили? И кто они, чёрт возьми?"
+    },
+    {
+        "id": "M5561_S0030_G0150_001_ane",
+        "jp": "それは……",
+        "en": "That...",
+        "ru": "Это..."
+    },
+    {
+        "id": "M5561_S0030_G0160_001_ane",
+        "jp": "いつか、本人達から聞いてくれ。",
+        "en": "That's something you should ask them directly.",
+        "ru": "Тебе лучше спросить об этом их самих."
+    },
+    {
+        "id": "M5561_S0030_G0050_001_a2",
+        "jp": "気に入らないな。なぜあの双子だけ過酷な労働をさせられるんだ？",
+        "en": "I don't get it. Why are the twins being stuck with all these crap jobs?",
+        "ru": "Я не понимаю. Почему близняшки занимаются такими бестолковыми заданиями?"
+    },
+    {
+        "id": "M5561_S0030_G0060_001_pod042",
+        "jp": "推測：過酷な作業はいずれ組織に悪影響を及ぼす。",
+        "en": "Hypothesis: Continued \"crap jobs\" will eventually have a deleterious effect on the entire organization.",
+        "ru": "Предположение: продолжение выполнения ими \"бестолковых заданий\" в итоге окажет негативный эффект на всю организацию."
+    },
+    {
+        "id": "M5561_S0030_G0070_001_a2",
+        "jp": "ここのリーダーに、一度話をしておくか……",
+        "en": "I'd better talk to the lady in charge about this.",
+        "ru": "Я лучше поговорю с дамочкой, ответственной за это."
+    }
+]

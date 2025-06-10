@@ -1,0 +1,86 @@
+[
+    {
+        "id": "M5095_S0300_G0000_001_n02",
+        "jp": "ヤレヤレ。過去の記録整理も楽じゃないナ。",
+        "en": "Phew. Organizing all these records sure isn't easy.",
+        "ru": "Фуф. Организовать все эти записи не так уж и просто."
+    },
+    {
+        "id": "M5095_S0300_G0010_001_n02",
+        "jp": "毎日残業、残業、残業、残業、残業デ死にソウだよ。",
+        "en": "I'm busting my can doing overtime every single day.",
+        "ru": "Я каждый день старался, работал сверхурочно."
+    },
+    {
+        "id": "M5095_S0300_G0100_001_n02",
+        "jp": "フウ、コレデここの記録整理は完了ット。",
+        "en": "Well, that wraps up all of the record keeping for this place.",
+        "ru": "Что ж, все тайны будут записываться именно сюда."
+    },
+    {
+        "id": "M5095_S0300_G0110_001_n02",
+        "jp": "エート、次の現場はドコダッタカナ……",
+        "en": "Ummm... Where was I supposed to go next again?",
+        "ru": "Эммм... куда ещё мне надо было зайди?"
+    },
+    {
+        "id": "M5095_S0300_G0120_001_n02",
+        "jp": "サーバールームで記録整理カ。",
+        "en": "Oh yeah, the server room.",
+        "ru": "Ах да, в серверную."
+    },
+    {
+        "id": "M5095_S0300_G0130_001_n02",
+        "jp": "ハァ、アソコノ部屋は空気が淀んデて嫌いナンダヨナ。",
+        "en": "That place is so stuffy. I hate it there.",
+        "ru": "Там так душно. Ненавижу её."
+    },
+    {
+        "id": "M5095_S0300_G0140_001_n02",
+        "jp": "エエト、ワタシの端末はドコだったカナ？",
+        "en": "Hmmm, where was my terminal again?",
+        "ru": "Хмммм, и где мой терминал?"
+    },
+    {
+        "id": "M5095_S0300_G0150_001_n02",
+        "jp": "アア、コレだったね。",
+        "en": "Oh, here it is.",
+        "ru": "А, вот и он."
+    },
+    {
+        "id": "M5095_S0300_G0020_001_n02",
+        "jp": "今日の資料ハ……プラトン１７２８か。",
+        "en": "Lessee, what do we have today? Hmm... Plato 1728, eh?",
+        "ru": "Посмотрим-ка, что у нас сегодня? Хмм... Платон 1728, да?"
+    },
+    {
+        "id": "M5095_S0300_G0030_001_n02",
+        "jp": "アア、暴走した、あの個体ね……",
+        "en": "Oh yeah, I remember. That's the guy who went haywire.",
+        "ru": "О да, помню. Паренёк, который в итоге сошёл с ума."
+    },
+    {
+        "id": "M6150_S0145_G0000_001_juniorR",
+        "jp": "あ、お疲れ様デス！！\\n先輩はこの後、サーバールームで記録整理でしたヨネ！！",
+        "en": "Oh hello, Senpai!! Wait, don't tell me... \\nYou're on your way to the server room, right?",
+        "ru": "О, здравствуйте! Погодите, неужели...\\nВы тоже направляетесь в серверную?"
+    },
+    {
+        "id": "M6150_S0145_G0010_001_juniorR",
+        "jp": "サーバールームはコノ先を行った所ッスヨ！！",
+        "en": "See! I knew it!\\nThe server room is right up ahead, you can't miss it!",
+        "ru": "Видите! Я знал! Серверная чуть дальше по правой стороне, смотрите не пропустите!"
+    },
+    {
+        "id": "M6150_S0145_G0020_001_juniorR",
+        "jp": "ジブン、本日ヨリ案内係兼交通整備を任されたッス！\\nヨロシクッス！！",
+        "en": "I just started working here today, and they put me in charge of guidance and traffic regulation! Lookin' forward to workin' with ya, Senpai!",
+        "ru": "Я только сегодня приступил к работе и мне доверили регулирование движения! Так что будем работать вместе!"
+    },
+    {
+        "id": "M6150_S0145_G0030_001_juniorR",
+        "jp": "この辺はドコモ迷いヤスイらしく、管理部に苦情が来たそうッス！\\nデモ、自分が配属されたカラにはもう安心ッス！！",
+        "en": "This place is like a maze, so the management department is being flooded with complaints! Now that I'm here though, you'll have nothing to worry about!",
+        "ru": "Это место запутано, будто лабиринт, и отдел управления просто завален жалобами! Но теперь здесь я, вам не стоит беспокоиться!"
+    }
+]

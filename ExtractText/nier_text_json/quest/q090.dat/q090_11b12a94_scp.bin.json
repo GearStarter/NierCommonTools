@@ -1,0 +1,56 @@
+[
+    {
+        "id": "M5090_S0010_G0020_001_roboGK",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M5090_S0010_G0030_001_roboGK",
+        "jp": "オマエ、ロボの気持チ、わかラナイ……",
+        "en": "You cannot understand the feelings of a machine.",
+        "ru": "Вы не можете понять чувства машины."
+    },
+    {
+        "id": "M5090_S0010_G0030_001_roboGK",
+        "jp": "オマエ、ロボの気持チ、わかラナイ……",
+        "en": "You cannot understand the feelings of a machine.",
+        "ru": "Вы не можете понять чувства машины."
+    },
+    {
+        "id": "M5090_S0010_G0035_001_roboGK",
+        "jp": "ハッキング出来る者ダケが、ロボのキモチ判る。",
+        "en": "Only someone with hacking skills would be able to comprehend us.",
+        "ru": "Только тот, кто владеет навыками взлома, сможет понять нас."
+    },
+    {
+        "id": "M5090_S0010_G0036_001_roboGK",
+        "jp": "ハッキング出来る者ダケが……",
+        "en": "Only someone...with hacking skills...",
+        "ru": "Только тот... с навыками взлома."
+    },
+    {
+        "id": "M5090_S0010_G0040_001_roboGK",
+        "jp": "……オマエ、機械ノ心、理解スル、者。",
+        "en": "I turn no one away.",
+        "ru": "Нет другого выхода."
+    },
+    {
+        "id": "M5090_S0010_G0050_001_roboGK",
+        "jp": "……ナカマ、認定。入場ヲ、許可シマス。",
+        "en": "...You are recognized as a friend. Permission to enter granted.",
+        "ru": "Вы идентифицированы как друг... Доступ разрешён."
+    },
+    {
+        "id": "M5090_S0010_G0000_001_roboGK",
+        "jp": "イイ加減ニ、シロ！",
+        "en": "Stop this foolishness!",
+        "ru": "Прекратите эту глупость!"
+    },
+    {
+        "id": "M5090_S0010_G0010_001_roboGK",
+        "jp": "モノゴトニハ、限度ガ、アル！",
+        "en": "Even I have my limits!",
+        "ru": "Даже у меня есть предел!"
+    }
+]

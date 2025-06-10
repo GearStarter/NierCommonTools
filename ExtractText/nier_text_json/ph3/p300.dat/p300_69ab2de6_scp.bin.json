@@ -1,0 +1,74 @@
+[
+    {
+        "id": "M3000_S0060_G0000_001_op60",
+        "jp": "２Ｂさんの作戦開始地点は廃墟都市の南西にあります。",
+        "en": "2B, the operation will begin at a point southwest of the city ruins.",
+        "ru": "2B, операция началась в юго-западной точке руин города."
+    },
+    {
+        "id": "M3000_S0060_G0010_001_op60",
+        "jp": "飛行ユニットで向かい、現地で９Ｓさんと合流してください。",
+        "en": "Use your flight unit to travel there and meet up with 9S.",
+        "ru": "Используй свой полётный модуль, чтобы отправиться туда и встретиться с 9S."
+    },
+    {
+        "id": "M3000_S0060_G0020_001_a2b",
+        "jp": "了解。",
+        "en": "Will do.",
+        "ru": "Сделаю."
+    },
+    {
+        "id": "M3000_S0060_G0021_001_op60",
+        "jp": "先日のイヴ戦で破損した武器も修復して搭載しておきました。",
+        "en": "We've repaired and reinstalled the weapons damaged in the fight against Eve.",
+        "ru": "Мы отремонтировали и переустановили оружие, повреждённое в бою с Евой."
+    },
+    {
+        "id": "M3000_S0060_G0030_001_op60",
+        "jp": "到着時には既に全体の作戦が始まっていますので、気をつけてくださいね。",
+        "en": "Be careful, okay? The mission will be in full swing by the time you get there.",
+        "ru": "Будь осторожна, хорошо? Ты прибудешь в самый разгар задания."
+    },
+    {
+        "id": "M3000_S0060_G0040_001_a2b",
+        "jp": "……ありがとう。",
+        "en": "I will... And thanks.",
+        "ru": "Хорошо... и спасибо."
+    },
+    {
+        "id": "M5920_S0090_G0070_001_human",
+        "jp": "月面人類会議より地上で奮戦しているアンドロイド諸君に告げる。",
+        "en": "The Council of Humanity has a message for all of our brave androids fighting on the surface.",
+        "ru": "Совет Человечества обращается ко всем нашим андроидам, что отважно сражаются на поверхности."
+    },
+    {
+        "id": "M5920_S0090_G0080_001_human",
+        "jp": "我らが誇る精鋭ヨルハ部隊が、敵ネットワークユニット、\\nアダム及びイヴを撃破した。",
+        "en": "Our elite YoRHa forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve.",
+        "ru": "Наши элитные единицы YoRHa, гордость человечества, уничтожили две единицы вражеской сети, именуемых как Адам и Ева."
+    },
+    {
+        "id": "M5920_S0090_G0090_001_human",
+        "jp": "この勝利は地球奪還に向けての大きな一歩となろう。",
+        "en": "This victory is a giant leap forward in our quest to reclaim Earth.",
+        "ru": "Эта победа — огромный шаг к нашему возвращению на Землю."
+    },
+    {
+        "id": "M5920_S0090_G0100_001_human",
+        "jp": "我々月面の人類も喜びの声に満ちている。",
+        "en": "The moon rings out with the cheers of the entire human race!",
+        "ru": "На Луне раздались крики \"ура\" всего человечества!"
+    },
+    {
+        "id": "M5920_S0090_G0110_001_human",
+        "jp": "今後のさらなる諸君らの健闘に期待する。",
+        "en": "We look forward to your continued combat exploits.",
+        "ru": "Мы будем с нетерпением ждать ваших новых боевых подвигов."
+    },
+    {
+        "id": "M5920_S0090_G0120_001_human",
+        "jp": "人類に栄光あれ。",
+        "en": "Glory to mankind.",
+        "ru": "Слава человечеству."
+    }
+]

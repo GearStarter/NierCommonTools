@@ -1,0 +1,374 @@
+[
+    {
+        "id": "M5071_S0010_G0000_001_n02",
+        "jp": "コマッタ……コマッタ……",
+        "en": "OH NO... OH NO...",
+        "ru": "О НЕТ... О НЕТ..."
+    },
+    {
+        "id": "M5071_S0010_G0010_001_a2b",
+        "jp": "どうした？",
+        "en": "What is it?",
+        "ru": "Что случилось?"
+    },
+    {
+        "id": "M5071_S0010_G0020_001_n02",
+        "jp": "ホゴシテイタ、シカガ、ビョウキニナッチャッテ……",
+        "en": "A MOOSE I HAVE BEEN CARING FOR HAS FALLEN ILL.",
+        "ru": "ЛОСЬ, ЗА КОТОРЫМ Я УХАЖИВАЛ, ВДРУГ ЗАБОЛЕЛ."
+    },
+    {
+        "id": "M5071_S0010_G0030_001_n02",
+        "jp": "デモ、ドウヤッテ修理シタライイノカ、ワカラナインダ",
+        "en": "I DO NOT KNOW HOW TO REPAIR IT.",
+        "ru": "Я НЕ ЗНАЮ, КАК МНЕ ПОЧИНИТЬ ЕГО."
+    },
+    {
+        "id": "M5071_S0010_G0040_001_a9s",
+        "jp": "動物は機械みたいに修理したりはしないよ。",
+        "en": "You don't \"repair\" animals like you do a machine.",
+        "ru": "Животных нельзя \"починить\" как машины."
+    },
+    {
+        "id": "M5071_S0010_G0050_001_a9s",
+        "jp": "病気を治すには薬を投与するのが一般的だね。",
+        "en": "But if it's sick, you should try giving it some medicine.",
+        "ru": "Но если он приболел, тебе следует дать ему какое-нибудь лекарство."
+    },
+    {
+        "id": "M5071_S0010_G0060_001_n02",
+        "jp": "クスリ……ヨクワカラナイ……",
+        "en": "MEDI...CINE? I AM NOT FAMILIAR WITH THIS CONCEPT.",
+        "ru": "ЛЕКАР... СТВО? МНЕ НЕЗНАКОМО ТАКОЕ ПОНЯТИЕ."
+    },
+    {
+        "id": "M5071_S0010_G0070_001_a9s",
+        "jp": "ああ、見たこと無いんだ。",
+        "en": "Yeah, I suppose you wouldn't be.",
+        "ru": "Ага, я полагаю, так и должно быть."
+    },
+    {
+        "id": "M5071_S0010_G0080_001_a9s",
+        "jp": "実物を見せるのが早いな。ちょっと待ってて。持ってくるよ。",
+        "en": "It'll probably be easiest to just bring you some. Try to hang on until then, all right?",
+        "ru": "Возможно, будет проще, если я принесу его тебе. А до тех пор постарайтесь продержаться, ладно?"
+    },
+    {
+        "id": "M5071_S0010_G0000_001_n02",
+        "jp": "コマッタ……コマッタ……",
+        "en": "OH NO... OH NO...",
+        "ru": "О НЕТ... О НЕТ..."
+    },
+    {
+        "id": "M5071_S0010_G0060_001_n02",
+        "jp": "クスリ……ヨクワカラナイ……",
+        "en": "MEDI...CINE? I AM NOT FAMILIAR WITH THIS CONCEPT.",
+        "ru": "ЛЕКАР... СТВО? МНЕ НЕЗНАКОМО ТАКОЕ ПОНЯТИЕ."
+    },
+    {
+        "id": "M5071_S0010_G0090_001_a2b",
+        "jp": "動物用の薬……ってどこで手に入れるの？",
+        "en": "So we're vets now? That's new.",
+        "ru": "Значит, мы теперь ветеринары? Это уже что-то новенькое."
+    },
+    {
+        "id": "M5071_S0010_G0100_001_a2b",
+        "jp": "私達アンドロイドは薬なんか使わない。",
+        "en": "I assume you have at least some idea where to start looking for animal medication?",
+        "ru": "У тебя есть хоть какие-нибудь идеи с чего нам начать поиск лекарства для животных?"
+    },
+    {
+        "id": "M5071_S0010_G0110_001_a9s",
+        "jp": "人間が使用していたレシピを集めて再現すれば……",
+        "en": "We'll probably need to recreate old human recipes.",
+        "ru": "Возможно, нам стоит воссоздать его по рецепту людей старого мира."
+    },
+    {
+        "id": "M5071_S0010_G0120_001_a9s",
+        "jp": "……商業施設の廃墟に、その情報が\\n残っているかもしれません。",
+        "en": "We should be able to find something in the commercial facility ruins.",
+        "ru": "Мы можем найти что-нибудь подходящее в руинах торгового центра."
+    },
+    {
+        "id": "M5071_S0020_G0000_001_a2b",
+        "jp": "これは……",
+        "en": "What's this?",
+        "ru": "А это что такое?"
+    },
+    {
+        "id": "M5071_S0020_G0010_001_pod042",
+        "jp": "一般的名称は歯ブラシ。人間が歯を磨く時に使う。",
+        "en": "Analysis: That is a hygienic tool known as a \"toothbrush.\"",
+        "ru": "Анализ: это предмет гигиены, который назывался \"зубной щёткой\"."
+    },
+    {
+        "id": "M5071_S0020_G0020_001_pod042",
+        "jp": "効果は虫歯の予防。",
+        "en": "Humans moved it back and forth across the teeth at a rapid rate to reduce the probability of cavities.",
+        "ru": "Люди двигали им назад и вперёд по зубам с высокой скоростью с целью снизить вероятность возникновения полостей в зубах."
+    },
+    {
+        "id": "M5071_S0020_G0030_001_a2b",
+        "jp": "虫歯？歯の中に虫がいるの？",
+        "en": "Cavities? As in caves?",
+        "ru": "Полостей? Как пещеры?"
+    },
+    {
+        "id": "M5071_S0020_G0040_001_pod042",
+        "jp": "虫歯とは酸によって歯のエナメル質が溶かされる事によって発生し……",
+        "en": "Cavities are bits of decayed enamel caused by acids in the mouth. The cave analogy is not altogether inaccurate.",
+        "ru": "Полости — результат разрушения зубной эмали под действием кислот во рту. Аналогия с пещерами здесь неуместна."
+    },
+    {
+        "id": "M5071_S0020_G0050_001_a9s",
+        "jp": "どちらにせよ、僕達には関係なさそうですね。",
+        "en": "Hmm. Well, it's got nothing to do with us.",
+        "ru": "Хм. Так, это нашему делу явно не поможет."
+    },
+    {
+        "id": "M5071_S0020_G0060_001_a2b",
+        "jp": "これは……？",
+        "en": "Never seen this before.",
+        "ru": "Никогда не видела такого прежде."
+    },
+    {
+        "id": "M5071_S0020_G0070_001_pod042",
+        "jp": "一般名称は口紅。人間は自分を美しく装う為に唇に紅を塗った。",
+        "en": "Analysis: That is a waxy solid known as \"lipstick.\" Humans applied it to their lips in order to appear more attractive.",
+        "ru": "Анализ: этот твёрдый восковой предмет назывался \"помадой\". Люди наносили её на губы, чтобы казаться более привлекательными."
+    },
+    {
+        "id": "M5071_S0020_G0080_001_a2b",
+        "jp": "こんなものを塗る？口に？",
+        "en": "How odd.",
+        "ru": "Как странно."
+    },
+    {
+        "id": "M5071_S0020_G0090_001_pod042",
+        "jp": "提案：試験的に使用する事による経験値の向上。",
+        "en": "Proposal: Applying it to your own lips might lead to a further understanding of human customs.",
+        "ru": "Предложение: нанесите её на свои губы, чтобы лучше понимать обычаи людей."
+    },
+    {
+        "id": "M5071_S0020_G0100_001_a2b",
+        "jp": "却下。",
+        "en": "No thanks.",
+        "ru": "Нет уж, спасибо."
+    },
+    {
+        "id": "M5071_S0020_G0110_001_a2b",
+        "jp": "これはまた……奇妙だな。",
+        "en": "Here's something else.",
+        "ru": "Здесь есть ещё что-то."
+    },
+    {
+        "id": "M5071_S0020_G0120_001_pod042",
+        "jp": "一般名称はダイエットグッズ。",
+        "en": "Analysis: That is a form of sustenance known as \"extreme weight-loss superfood.\"",
+        "ru": "Анализ: эта запакованная пища называлась \"супердиетической пищей\"."
+    },
+    {
+        "id": "M5071_S0020_G0130_001_pod042",
+        "jp": "人間が己の脂肪を減らす為に使用した。",
+        "en": "Humans consumed it in place of more traditional edibles in order to reduce body mass.",
+        "ru": "Люди потребляли её вместо обычной пищи, чтобы снизить свою массу."
+    },
+    {
+        "id": "M5071_S0020_G0140_001_a2b",
+        "jp": "脂肪……は勝手に増えるの？",
+        "en": "Why would they want to do that?",
+        "ru": "И зачем им это было нужно?"
+    },
+    {
+        "id": "M5071_S0020_G0150_001_pod042",
+        "jp": "必要以上のエネルギーを長期に渡って摂取すると、",
+        "en": "Humans often took in more energy than they expended.",
+        "ru": "Люди зачастую потребляли больше энергии, чем расходовали."
+    },
+    {
+        "id": "M5071_S0020_G0160_001_pod042",
+        "jp": "脂肪が蓄積され体重が増加し、行動に影響を及ぼす。",
+        "en": "Accumulated calories were converted to fat and stored, decreasing physical capabilities.",
+        "ru": "Набранные калории превращались в жир и откладывались, снижая физические возможности."
+    },
+    {
+        "id": "M5071_S0020_G0170_001_a9s",
+        "jp": "人間って不便だったんだね……",
+        "en": "Man, humans had it rough...",
+        "ru": "Да, нелегко жилось людям..."
+    },
+    {
+        "id": "M5071_S0020_G0180_001_a2b",
+        "jp": "これは何？",
+        "en": "Pod, what's this?",
+        "ru": "Бот, а это что такое?"
+    },
+    {
+        "id": "M5071_S0020_G0190_001_pod042",
+        "jp": "一般名称は筆記用具。物事を記録する為の道具。",
+        "en": "Analysis: It is a writing implement. Humans used it to record information.",
+        "ru": "Анализ: это пишущий предмет. Люди использовали его для записи информации."
+    },
+    {
+        "id": "M5071_S0020_G0200_001_pod042",
+        "jp": "新人はメモ必須。",
+        "en": "Many humans also believed pens were mightier than swords.",
+        "ru": "Многие люди верили в то, что ручки были сильнее мечей."
+    },
+    {
+        "id": "M5071_S0020_G0210_001_a2b",
+        "jp": "新人？メモ？",
+        "en": "That's insane.",
+        "ru": "Это же безумие."
+    },
+    {
+        "id": "M5071_S0020_G0220_001_pod042",
+        "jp": "文献にあった言葉。意味は不明。",
+        "en": "It was a common human idiom. Meaning unclear.",
+        "ru": "Это была обычная человеческая идиома. Смысл неясен."
+    },
+    {
+        "id": "M5071_S0020_G0230_001_pod042",
+        "jp": "生物用の薬学書を発見。",
+        "en": "Alert: Organic pharmacology textbook discovered.",
+        "ru": "Внимание: обнаружена книга по органической фармакологии."
+    },
+    {
+        "id": "M5071_S0020_G0240_001_pod042",
+        "jp": "同じ哺乳類のシカ科にも有効。",
+        "en": "The data contained within should prove effective for ungulates such as moose.",
+        "ru": "Информация, содержащаяся в книге, должна подойти и для таких копытных, как лоси."
+    },
+    {
+        "id": "M5071_S0020_G0250_001_pod042",
+        "jp": "本書籍に記載されている消炎鎮痛剤が該当のシカの病気に……",
+        "en": "Page 278 contains a recipe for an anti-inflammation analgesic which has a high probability of—",
+        "ru": "На странице 278 находится рецепт противовоспалительного анальгетика, который с высокой вероятностью..."
+    },
+    {
+        "id": "M5071_S0020_G0260_001_a9s",
+        "jp": "ちょちょちょ、ちょっと待って。",
+        "en": "Whoa whoa whoa! Hold on.",
+        "ru": "Воу-воу! Подожди-ка."
+    },
+    {
+        "id": "M5071_S0020_G0270_001_a9s",
+        "jp": "……なんでそれ、読んでもないのに知ってるの？",
+        "en": "We haven't even cracked this thing open yet! How do you know what's in it?",
+        "ru": "Мы её ещё даже не открывали! Как ты узнал, что находится внутри?"
+    },
+    {
+        "id": "M5071_S0020_G0280_001_pod042",
+        "jp": "データベースにアクセスし、当該書籍の内容を確認。",
+        "en": "The contents of this book are contained in my internal database.",
+        "ru": "Содержимое этой книги уже находится в моей базе данных."
+    },
+    {
+        "id": "M5071_S0020_G0290_001_a9s",
+        "jp": "先に言ってよ！",
+        "en": "WHAT!? Why didn't you tell us that when we first started looking for it!?",
+        "ru": "ЧЕГО?! Почему ты не сказал нам об этом, когда мы начали её поиски?!"
+    },
+    {
+        "id": "M5071_S0020_G0300_001_pod042",
+        "jp": "否定：本案件に対する質問はなされていない。",
+        "en": "A request for information was not submitted.",
+        "ru": "Запроса по этой информации не поступало."
+    },
+    {
+        "id": "M5071_S0020_G0310_001_a9s",
+        "jp": "……なんていう、無駄足。",
+        "en": "Well, this has been a glorious waste of time.",
+        "ru": "Что ж, мы довольно весело потратили время."
+    },
+    {
+        "id": "M5071_S0020_G0320_001_a2b",
+        "jp": "とりあえず、戻ってあの機械生命体に渡そう。",
+        "en": "Let's just make the medicine and get it back to that machine.",
+        "ru": "Давай сделаем лекарство и вернёмся к той машине."
+    },
+    {
+        "id": "M5071_S0030_G0000_001_n02",
+        "jp": "クスリ！",
+        "en": "MEDICINE!",
+        "ru": "ЛЕКАРСТВО!"
+    },
+    {
+        "id": "M5071_S0030_G0010_001_n02",
+        "jp": "アリガトウ！サッソクツカッテミルヨ！",
+        "en": "THANK YOU. I WILL ADMINISTER IT IMMEDIATELY.",
+        "ru": "СПАСИБО. Я НЕМЕДЛЕННО ПРИСТУПЛЮ К ЛЕЧЕНИЮ."
+    },
+    {
+        "id": "M5071_S0030_G0020_001_n02",
+        "jp": "……クスリガキイタミタイダ。イマハネムッテイル。",
+        "en": "...THE MEDICINE SEEMS TO HAVE WORKED. SHE IS SLEEPING SOUNDLY.",
+        "ru": "...ПОХОЖЕ, ЧТО ЛЕКАРСТВО ПОДЕЙСТВОВАЛО. ОН ЗАСНУЛ И ХРАПИТ."
+    },
+    {
+        "id": "M5071_S0030_G0030_001_a2b",
+        "jp": "そう、良かった。",
+        "en": "Good to hear.",
+        "ru": "Рада слышать это."
+    },
+    {
+        "id": "M5071_S0030_G0040_001_n02",
+        "jp": "ドウブツハ、フシギダヨネ。",
+        "en": "ANIMALS ARE STRANGE CREATURES.",
+        "ru": "ЖИВОТНЫЕ — СТРАННЫЕ СОЗДАНИЯ."
+    },
+    {
+        "id": "M5071_S0030_G0050_001_n02",
+        "jp": "ボクタチトハチガッテ、カンタンニシュウリデキナイ。",
+        "en": "UNLIKE US, THEY CANNOT BE EASILY REPAIRED.",
+        "ru": "В ОТЛИЧИЕ ОТ НАС, ИХ НЕЛЬЗЯ ТАК ПРОСТО ПОЧИНИТЬ."
+    },
+    {
+        "id": "M5071_S0030_G0060_001_n02",
+        "jp": "コンナフベンナカラダジャ、カワイソウダ。",
+        "en": "IT MUST BE DIFFICULT TO POSSESS SUCH INCONVENIENT BODIES.",
+        "ru": "ДОЛЖНО БЫТЬ, ТРУДНО ЖИТЬ С ТАКИМИ НЕУДОБНЫМИ ТЕЛАМИ."
+    },
+    {
+        "id": "M5071_S0030_G0070_001_n02",
+        "jp": "デモ……",
+        "en": "HOWEVER...",
+        "ru": "ОДНАКО..."
+    },
+    {
+        "id": "M5071_S0030_G0080_001_n02",
+        "jp": "ソノカワリ、ボクタチトチガッテアタタカイ。",
+        "en": "UNLIKE US, THEY ARE ALSO WARM.",
+        "ru": "В ОТЛИЧИЕ ОТ НАС, ОНИ ОЧЕНЬ ТЁПЛЫЕ."
+    },
+    {
+        "id": "M5071_S0030_G0090_001_a2b",
+        "jp": "……そうだな。",
+        "en": "So I've heard.",
+        "ru": "Я уже слышала это."
+    },
+    {
+        "id": "M5071_S0030_G0100_001_n02",
+        "jp": "ソウダ！",
+        "en": "BEFORE I FORGET.",
+        "ru": "ПОКА Я НЕ ЗАБЫЛ."
+    },
+    {
+        "id": "M5071_S0030_G0110_001_n02",
+        "jp": "クスリノオレイヲシナキャ！コレモッテイッテ。",
+        "en": "PLEASE TAKE THIS AS PAYMENT FOR THE MEDICINE.",
+        "ru": "ПРОШУ, ПРИМИТЕ ЭТО В КАЧЕСТВЕ ОПЛАТЫ ЗА ЛЕКАРСТВО."
+    },
+    {
+        "id": "M5071_S0030_G0120_001_n02",
+        "jp": "マタキテネ！ミンナマッテルヨ。",
+        "en": "COME AGAIN. WE WILL BE WAITING.",
+        "ru": "ПРИХОДИТЕ ЕЩЁ. МЫ БУДЕМ ЖДАТЬ ВАС."
+    },
+    {
+        "id": "M5071_S0030_G0120_001_n02",
+        "jp": "マタキテネ！ミンナマッテルヨ。",
+        "en": "COME AGAIN. WE WILL BE WAITING.",
+        "ru": "ПРИХОДИТЕ ЕЩЁ. МЫ БУДЕМ ЖДАТЬ ВАС."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": "SHOP_DIALOG_01",
+        "jp": "<TOTAL_PRICE>Gで購入します。\\nよろしいですか？",
+        "en": "Purchase for <TOTAL_PRICE> G?",
+        "ru": "Приобрести за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_02",
+        "jp": "<TOTAL_PRICE>Gで売却します。\\nよろしいですか？",
+        "en": "Sell for <TOTAL_PRICE> G?",
+        "ru": "Продать за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_03",
+        "jp": "<TOTAL_PRICE>Gで合成します。\\nよろしいですか？",
+        "en": "Create chip for <TOTAL_PRICE> G?",
+        "ru": "Создать чип за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_04",
+        "jp": "<TOTAL_PRICE>Gで強化します。\\nよろしいですか？",
+        "en": "Upgrade for <TOTAL_PRICE> G?",
+        "ru": "Улучшить за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_05",
+        "jp": "購入した武器を装備しますか？",
+        "en": "Equip purchased weapons?",
+        "ru": "Экипировать купленное оружие?"
+    },
+    {
+        "id": "SHOP_DIALOG_06",
+        "jp": "このショップではこれ以上鍛えられません。",
+        "en": "This can't be enhanced further at this shop.",
+        "ru": "Этот предмет нельзя еще более усилить в этом магазине."
+    },
+    {
+        "id": "SHOP_DIALOG_07",
+        "jp": "この武器はこれ以上鍛えられません。",
+        "en": "This weapon can't be upgraded further.",
+        "ru": "Это оружие не может быть улучшено."
+    },
+    {
+        "id": "SHOP_DIALOG_08",
+        "jp": "選択中のチップは装備セットタイプに使用されています。\\n合成するとセットタイプから外されますがよろしいですか？",
+        "en": "The selected chip is currently equipped to a chip set. If you fuse it, it will be removed from its chip set. \\nDo you wish to fuse this chip?",
+        "ru": "Выбранный чип экипирован в комплект чипов. Если вы объедините его, он будет извлечён из комплекта чипов.\\nЖелаете объединить этот чип?"
+    },
+    {
+        "id": "SHOP_DIALOG_09",
+        "jp": "このチップは装備セットタイプに使用されています。\\n<TOTAL_PRICE>Gで売却しますか？",
+        "en": "This chip is currently equipped to a chip set. Sell for <TOTAL_PRICE> G?",
+        "ru": "Этот чип сейчас экипирован. Продать за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_10",
+        "jp": "同じ能力・ランクのチップがないため合成できません。",
+        "en": "You cannot fuse this chip, because you have no chips of the same ability and rank.",
+        "ru": "Вы не можете объединять чипы, если у вас нет чипов с одинаковыми бонусами и уровнем."
+    },
+    {
+        "id": "SHOP_DIALOG_11",
+        "jp": "このポッドはこれ以上強化できません。",
+        "en": "This Pod can't be upgraded further.",
+        "ru": "Этот бот не может быть улучшен."
+    },
+    {
+        "id": "SHOP_DIALOG_12",
+        "jp": "OSチップを<TOTAL_PRICE>Gで売却します。\\nよろしいですか？",
+        "en": "Sell for <TOTAL_PRICE> G?",
+        "ru": "Продать за <TOTAL_PRICE> G?"
+    },
+    {
+        "id": "SHOP_DIALOG_13",
+        "jp": "所持金が不足しています。",
+        "en": "You do not have enough money.",
+        "ru": "У вас недостаточно денег."
+    },
+    {
+        "id": "SHOP_DIALOG_14",
+        "jp": "強化に必要な素材が不足しています。",
+        "en": "You do not have the required materials.",
+        "ru": "У вас недостаточно материалов."
+    }
+]

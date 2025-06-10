@@ -1,0 +1,200 @@
+[
+    {
+        "id": "M5170_S0010_G0000_001_op60",
+        "jp": "オペレーター６Ｏより２Ｂさんへ。聞こえますか？",
+        "en": "Operator 6O to 2B. Come in, 2B.",
+        "ru": "Оператор 6О вызывает 2B. Приём, 2B."
+    },
+    {
+        "id": "M5170_S0010_G0010_001_a2b",
+        "jp": "聞こえてる。",
+        "en": "I read you, Operator. Go ahead.",
+        "ru": "Приём, оператор. Продолжайте."
+    },
+    {
+        "id": "M5170_S0010_G0020_001_op60",
+        "jp": "廃墟都市に設置してある転送装置が故障したみたいです。",
+        "en": "It looks like the transporter we installed in the city ruins has gone offline.",
+        "ru": "Похоже, что транспортёр, который мы установили в руинах города, отключился."
+    },
+    {
+        "id": "M5170_S0010_G0030_001_op60",
+        "jp": "このままだと地上活動に不具合があるので、",
+        "en": "Our surface activity is going to be severely limited until we get it fixed.",
+        "ru": "Наша зона покрытия будет ограничена до тех пор, пока мы не починим его."
+    },
+    {
+        "id": "M5170_S0010_G0040_001_op60",
+        "jp": "時間がある時にでも、修復をお願いします。",
+        "en": "Can you head over there and get it working again when you have a sec?",
+        "ru": "Не могла бы ты отправиться туда и починить его, когда выдастся свободная минутка?"
+    },
+    {
+        "id": "M5170_S0010_G0050_001_a2b",
+        "jp": "了解。",
+        "en": "Will do.",
+        "ru": "Сделаю."
+    },
+    {
+        "id": "M5170_S0010_G0060_001_op60",
+        "jp": "詳細はメールさせていただきました。よろしくお願いします。",
+        "en": "Thanks, 2B! Sending the details now.",
+        "ru": "Спасибо, 2B! Сейчас же высылаю подробности."
+    },
+    {
+        "id": "M5920_S0010_G0180_001_pod042",
+        "jp": "報告：アクセスポイントからメール受信の連絡。",
+        "en": "Report: Mail notification received from access point.",
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+    },
+    {
+        "id": "M5170_S0000_G0000_300_op60",
+        "jp": "転送装置の修復の件、よろしくお願いします。",
+        "en": "Thanks in advance for handling that transporter repair.",
+        "ru": "Заранее спасибо за починку этого транспортёра."
+    },
+    {
+        "id": "M5170_S0020_G0000_001_pod042",
+        "jp": "転送装置が使用不可能な場合、データのアップロードなどに\\n著しい不具合が生ずる。",
+        "en": "Analysis: Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities.",
+        "ru": "Анализ: отключённый транспортёр может привести к серьёзным ограничениям\\nпри передаче данных и других важных действиях на задании."
+    },
+    {
+        "id": "M5170_S0020_G0010_001_pod042",
+        "jp": "推奨：転送装置の早急な復旧。",
+        "en": "Recommend repairing transporter as quickly as possible.",
+        "ru": "Рекомендуется как можно скорее произвести ремонт транспортёра."
+    },
+    {
+        "id": "M5170_S0020_G0020_001_a2b",
+        "jp": "了解。",
+        "en": "Understood.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5170_S0020_G0030_001_pod042",
+        "jp": "報告：転送装置周辺に敵性機械生命体。妨害電波を確認。",
+        "en": "Alert: Hostile machine lifeforms detected in the vicinity of the non-functioning transporter. Jamming signals detected.",
+        "ru": "Внимание: вблизи отключённого транспортёра обнаружены враждебные машины. Обнаружены преднамеренные радиопомехи."
+    },
+    {
+        "id": "M5170_S0020_G0040_001_pod042",
+        "jp": "推測：転送装置の不具合は、敵の妨害電波に起因。",
+        "en": "Hypothesis: Transporter malfunction is due to enemy jamming signals.",
+        "ru": "Предположение: отключение транспортёра вызвано преднамеренными радиопомехами."
+    },
+    {
+        "id": "M5170_S0020_G0050_001_pod042",
+        "jp": "推奨：当該機械生命体の速やかな破壊。",
+        "en": "Proposal: Unit 2B should destroy the enemy machines.",
+        "ru": "Предложение: единице 2B следует уничтожить машины."
+    },
+    {
+        "id": "M5170_S0030_G0000_001_a2b",
+        "jp": "これで、全部か。",
+        "en": "Is that all of them?",
+        "ru": "С ними покончено?"
+    },
+    {
+        "id": "M5170_S0030_G0010_001_a2b",
+        "jp": "一応、転送装置本体も調べてみよう。",
+        "en": "Let's check this thing out.",
+        "ru": "Давай проверим эту штуковину."
+    },
+    {
+        "id": "M5170_S0030_G0020_001_a2b",
+        "jp": "機能に問題ないみたい。",
+        "en": "I don't see any damage.",
+        "ru": "Я не вижу никаких повреждений."
+    },
+    {
+        "id": "M5170_S0030_G0021_001_pod042",
+        "jp": "報告：転送装置の正常動作を確認。",
+        "en": "Analysis: Transporter is now operational.",
+        "ru": "Анализ: теперь транспортёр функционирует."
+    },
+    {
+        "id": "M5170_S0030_G0030_001_a2b",
+        "jp": "こちらヨルハ部隊２Ｂ。バンカー・オペレーター６Ｏに通信。",
+        "en": "This is YoRHa unit 2B. Connect me to Bunker Operator 6O.",
+        "ru": "На связи единица YoRHa 2B. Соедините меня с Бункером, оператор 6O."
+    },
+    {
+        "id": "M5170_S0030_G0040_001_op60",
+        "jp": "あっ！２Ｂさん。おつかれ様です。",
+        "en": "Oh, hello, 2B! Operator 6O here.",
+        "ru": "Оу, привет, 2B! Оператор 6O на связи."
+    },
+    {
+        "id": "M5170_S0030_G0050_001_a2b",
+        "jp": "指定された転送装置を復旧した。原因は敵機械生命体の妨害電波。",
+        "en": "The transporter was being jammed by machine lifeforms. It should be working now.",
+        "ru": "Транспортёр глушили машины. Сейчас он должен функционировать."
+    },
+    {
+        "id": "M5170_S0030_G0060_001_op60",
+        "jp": "了解しました！ありがとうございます。",
+        "en": "Looks green on my end, 2B. Nice work!",
+        "ru": "С моей стороны тоже всё заработало, 2B. Отличная работа!"
+    },
+    {
+        "id": "M5170_S0030_G0070_001_op60",
+        "jp": "司令部内で情報共有しておきますね！",
+        "en": "I'll let Command know right away.",
+        "ru": "Я сейчас же доложу в Штаб."
+    },
+    {
+        "id": "M5170_S0030_G0080_001_op60",
+        "jp": "あと、特別報酬のデータをメールします。",
+        "en": "I'll also be sending over a little reward for all your hard work.",
+        "ru": "И ещё, я вышлю тебе небольшую награду за усердный труд."
+    },
+    {
+        "id": "M5170_S0030_G0090_001_a2b",
+        "jp": "了解。",
+        "en": "Roger.",
+        "ru": "Принято."
+    },
+    {
+        "id": "M5170_S0030_G0100_001_op60",
+        "jp": "……でも、いいですね～。２Ｂさん。",
+        "en": "You know, 2B? I'm a little jealous.",
+        "ru": "Знаешь, 2B? Я немного завидую."
+    },
+    {
+        "id": "M5170_S0030_G0110_001_op60",
+        "jp": "い、いや戦闘任務は大変だと思います！",
+        "en": "Don't get me wrong—I know all this fighting isn't easy for you.",
+        "ru": "Не пойми меня неправильно, я знаю, твои сражения — дело непростое."
+    },
+    {
+        "id": "M5170_S0030_G0120_001_op60",
+        "jp": "ただ、地上の綺麗な風景を見られていいなーって。",
+        "en": "But you get to see all these new and amazing things out there...",
+        "ru": "У тебя есть возможность увидеть там столько удивительных вещей..."
+    },
+    {
+        "id": "M5170_S0030_G0130_001_op60",
+        "jp": "私も、いつか降りられたらいいなー、って思うんです。",
+        "en": "It just...it might be nice to visit the surface sometime, you know? That's all.",
+        "ru": "Просто... было бы здорово когда-нибудь побывать на поверхности, понимаешь? Только и всего."
+    },
+    {
+        "id": "M5170_S0030_G0140_001_a2b",
+        "jp": "……そう。",
+        "en": "I see.",
+        "ru": "Понимаю."
+    },
+    {
+        "id": "M5170_S0030_G0150_001_op60",
+        "jp": "無駄話しちゃいましたね。ごめんなさい！",
+        "en": "Er, right. Apologies for the unnecessary chatter.",
+        "ru": "Эм, так. Извиняюсь за излишнюю болтовню."
+    },
+    {
+        "id": "M5170_S0030_G0160_001_op60",
+        "jp": "それじゃ失礼します！",
+        "en": "Anyway. Operator 6O out!",
+        "ru": "Как бы то ни было. Оператор 6O — конец связи."
+    }
+]

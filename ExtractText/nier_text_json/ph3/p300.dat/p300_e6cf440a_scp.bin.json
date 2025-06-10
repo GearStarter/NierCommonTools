@@ -1,0 +1,224 @@
+[
+    {
+        "id": "M5910_S0300_G0000_001_a2",
+        "jp": "機械生命体だらけ……",
+        "en": "There's machines everywhere...",
+        "ru": "Здесь кругом машины..."
+    },
+    {
+        "id": "M5910_S0300_G0010_001_pod042",
+        "jp": "ここはパスカルの管理する平和的な機械生命体のコロニー。",
+        "en": "Analysis: This is a colony of pacifistic machine lifeforms led by the unit known as Pascal.",
+        "ru": "Анализ: Это колония миролюбивых машин под предводительством единицы по имени Паскаль."
+    },
+    {
+        "id": "M5910_S0300_G0020_001_pod042",
+        "jp": "機械生命体が多数存在するのは予測の範囲内。",
+        "en": "It is logical for a large number of machine lifeforms to be present.",
+        "ru": "Это логично в условиях проживания здесь большого количества машин."
+    },
+    {
+        "id": "M5910_S0300_G0030_001_pod042",
+        "jp": "疑問：ヨルハ機体Ａ２の予測能力。",
+        "en": "This Pod has concerns regarding YoRHa unit A2's predictive skills.",
+        "ru": "У данного Бота есть опасения, касательно предсказуемости единицы YoRHa A2."
+    },
+    {
+        "id": "M5910_S0300_G0040_001_a2",
+        "jp": "そのうち、ブッ壊す……",
+        "en": "I'd be more concerned about me smashing your face if I were you.",
+        "ru": "Будь я тобой, больше бы переживала о возможности того, что я тебе вмажу."
+    },
+    {
+        "id": "M5910_S0300_G0050_001_pascal",
+        "jp": "ああ、あの時の！",
+        "en": "Ah! It's the woman from before!",
+        "ru": "О! Мы с вами уже встречались!"
+    },
+    {
+        "id": "M5910_S0300_G0060_001_pascal",
+        "jp": "助けていただき、本当にありがとうございました。",
+        "en": "Thank you again for rescuing me.",
+        "ru": "Ещё раз спасибо за то, что спасли меня."
+    },
+    {
+        "id": "M5910_S0300_G0070_001_a2",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5910_S0300_G0080_001_pascal",
+        "jp": "それで……何の御用でしょうか？",
+        "en": "Now then! How can I help you?",
+        "ru": "Послушайте! А чем я могу вам помочь?"
+    },
+    {
+        "id": "M5910_S0300_G0090_001_a2",
+        "jp": "…………",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5910_S0300_G0100_001_pascal",
+        "jp": "あの……",
+        "en": "Um...",
+        "ru": "Эм..."
+    },
+    {
+        "id": "M5910_S0300_G0110_001_pod042",
+        "jp": "説明：ヨルハ機体Ａ２の燃料用濾過フィルターに不具合。",
+        "en": "Summary: YoRHa unit A2 possesses a faulty fuel filter.",
+        "ru": "Отчёт: у единицы YoRHa A2 неисправен топливный фильтр."
+    },
+    {
+        "id": "M5910_S0300_G0120_001_pod042",
+        "jp": "経過：レジスタンスキャンプのリーダーアネモネより情報を入手。",
+        "en": "She has obtained information from Anemone, leader of the Resistance camp.",
+        "ru": "Она получила информацию от Анемоны, лидера лагеря Сопротивления."
+    },
+    {
+        "id": "M5910_S0300_G0130_001_pod042",
+        "jp": "目的：当地区のフィルターを入手する為に来訪。",
+        "en": "She has traveled to this village in order to obtain a new filter. End summary.",
+        "ru": "И пришла сюда, в целях получить новый фильтр. Конец отчёта."
+    },
+    {
+        "id": "M5910_S0300_G0140_001_pod042",
+        "jp": "要求：燃料用濾過フィルター。",
+        "en": "Request: One functional fuel filter.",
+        "ru": "Запрос: один новый топливный фильтр."
+    },
+    {
+        "id": "M5910_S0300_G0150_001_a2",
+        "jp": "全部説明するな。",
+        "en": "Do you really need to spell it all out like that?",
+        "ru": "Тебе действительно нужно было всё вот так выставить?"
+    },
+    {
+        "id": "M5910_S0300_G0160_001_pod042",
+        "jp": "報告：Ａ２の発言不足によるコミュニケーション不足。",
+        "en": "Analysis: A2's lack of verbal communication made this Pod's assistance necessary.",
+        "ru": "Анализ: помощь Бота была необходима ввиду слабости вербальной коммуникации A2."
+    },
+    {
+        "id": "M5910_S0300_G0170_001_a2",
+        "jp": "うるさい。",
+        "en": "Shut. Up.",
+        "ru": "Затк-нись."
+    },
+    {
+        "id": "M5910_S0300_G0180_001_pascal",
+        "jp": "ああ、なるほど。そういう事ですか。",
+        "en": "Ah, I see, I see.",
+        "ru": "О, ясно, понятно."
+    },
+    {
+        "id": "M5910_S0300_G0190_001_pascal",
+        "jp": "ただ、今は材料が無くて……",
+        "en": "Sadly, I'm a bit short on materials right now.",
+        "ru": "К сожалению, в настоящий момент у меня недостаточно материалов."
+    },
+    {
+        "id": "M5910_S0300_G0200_001_pascal",
+        "jp": "フィルターを作るには『剛性植物の樹皮』が必要なんですが、\\n採取エリア近くに凶暴な機械生命体がいるんです。",
+        "en": "I need rigid tree bark to create a filter, but the only location I know of is guarded by ferocious machine lifeforms.",
+        "ru": "Для создания фильтра мне необходима твёрдая древесная кора, но единственное известное мне место охраняется жуткими машинами."
+    },
+    {
+        "id": "M5910_S0300_G0210_001_pascal",
+        "jp": "申し訳ありませんが、今は作る事が出来ません。",
+        "en": "I apologize, but I'm afraid I can't make a filter at the moment.",
+        "ru": "Простите меня, но боюсь, что сейчас я не смогу сделать фильтр."
+    },
+    {
+        "id": "M5910_S0300_G0220_001_pod042",
+        "jp": "了解：『剛性植物の樹皮』の確保と輸送。",
+        "en": "Confirmation: Unit A2 will secure and deliver rigid tree bark.",
+        "ru": "Подтверждение: единица A2 добудет и принесёт древесную кору."
+    },
+    {
+        "id": "M5910_S0300_G0230_001_a2",
+        "jp": "何勝手に了解してるんだ……",
+        "en": "Don't confirm that by yourself!",
+        "ru": "Не решай тут за меня!"
+    },
+    {
+        "id": "M5910_S0300_G0240_001_pascal",
+        "jp": "フィルターを作るには『剛性植物の樹皮』が必要なんですが、\\n今は採りに行けなくて……",
+        "en": "I need some rigid tree bark to create a filter, but I can't fetch any at the moment.",
+        "ru": "Для создания фильтра мне нужно немного твёрдой древесной коры, но сейчас я не смогу её собрать."
+    },
+    {
+        "id": "M5910_S0310_G0060_001_a2",
+        "jp": "持ってきたぞ。",
+        "en": "Here's your stuff.",
+        "ru": "Вот необходимый материал."
+    },
+    {
+        "id": "M5910_S0310_G0070_001_pascal",
+        "jp": "ああ、Ａ２さん。ありがとうございます。",
+        "en": "Ah! Thank you so much.",
+        "ru": "Ах! Большое спасибо."
+    },
+    {
+        "id": "M5910_S0310_G0080_001_pascal",
+        "jp": "今からフィルターを作って来ますので、待っててください！",
+        "en": "I'll make a filter right away. Please just give me one moment.",
+        "ru": "Я сейчас же соберу фильтр. Дайте мне немного времени."
+    },
+    {
+        "id": "M5910_S0310_G0090_001_a2",
+        "jp": "飛んだ……",
+        "en": "He can fly?",
+        "ru": "Он может летать?"
+    },
+    {
+        "id": "M5910_S0310_G0100_001_pod042",
+        "jp": "パスカルの帰還を確認。",
+        "en": "Alert: The machine lifeform Pascal has returned.",
+        "ru": "Внимание: машина Паскаль вернулась."
+    },
+    {
+        "id": "M5910_S0310_G0110_001_a2",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5910_S0310_G0000_001_pod042",
+        "jp": "『剛性植物の樹皮』の採取可能な場所をマーク。",
+        "en": "Areas where rigid tree bark is available marked on map.",
+        "ru": "Места с твёрдой древесной корой отмечены на карте."
+    },
+    {
+        "id": "M5910_S0310_G0010_001_a2",
+        "jp": "……クソッ。",
+        "en": "Goddammit...",
+        "ru": "Проклятие..."
+    },
+    {
+        "id": "M5910_S0310_G0020_001_pod042",
+        "jp": "報告：平和的機械生命体であるパスカルへの敵意は\\nコスト的に無意味と判断。",
+        "en": "Analysis: Hostility toward the peaceful machine lifeform Pascal is pointless from an energy-usage standpoint.",
+        "ru": "Анализ: враждебность к мирной машине Паскалю бессмысленна с точки зрения энергопотребления."
+    },
+    {
+        "id": "M5910_S0310_G0030_001_pod042",
+        "jp": "推奨：早急な友好関係の締結。",
+        "en": "Proposal: Form a friendly relationship immediately.",
+        "ru": "Предложение: немедленно выстройте дружеские отношения."
+    },
+    {
+        "id": "M5910_S0310_G0040_001_a2",
+        "jp": "友好？……冗談じゃない。",
+        "en": "You have GOT to be kidding me.",
+        "ru": "Да ты, верно, ШУТИШЬ."
+    },
+    {
+        "id": "M5910_S0310_G0050_001_a2",
+        "jp": "あの機械生命体の所に行くか……",
+        "en": "Guess I'll go back to that machine...",
+        "ru": "Полагаю, мне стоит вернуться к той машине..."
+    }
+]

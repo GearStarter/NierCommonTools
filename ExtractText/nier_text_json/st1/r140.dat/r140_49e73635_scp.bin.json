@@ -1,0 +1,206 @@
+[
+    {
+        "id": "M5802_S0010_G0030_001_robomother",
+        "jp": "お願いシマス！何度もスミマセンガ、どうか助けてくれマセンカ？",
+        "en": "I'm so ashamed to be in this position, but would you mind helping me one more time?",
+        "ru": "Мне стыдно снова оказываться в таком положении, но не возражаете помочь мне ещё раз?"
+    },
+    {
+        "id": "M5802_S0010_G0040_001_sele",
+        "jp": "助ける。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5802_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5802_S0010_G0070_001_robomother",
+        "jp": "引きこもってシマッタ息子を、助けてくれるんですか？",
+        "en": "Will you please help my son? He's locked himself inside yet again.",
+        "ru": "Пожалуйста, помогите моему сыну? Он снова заперся внутри."
+    },
+    {
+        "id": "M5802_S0010_G0040_001_sele",
+        "jp": "助ける。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5802_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5802_S0010_G0000_001_robomother",
+        "jp": "アア、優しいアンドロイドさん！実はその……\\nマタ息子が引きこもりになってシマッテ。",
+        "en": "Hello, my android friend. I can't believe I have to say this, but it seems my son has locked hims—",
+        "ru": "Приветствую вас, друзья мои, андроиды. Мне не верится, что я говорю это, но, кажется, мой сын закрылся..."
+    },
+    {
+        "id": "M5802_S0010_G0010_001_a9s",
+        "jp": "ええっ……また？",
+        "en": "AGAIN!?",
+        "ru": "ОПЯТЬ?!"
+    },
+    {
+        "id": "M5802_S0010_G0020_001_robomother",
+        "jp": "気になるコに会ってしばらくは元気だったのですが、昨日から突然……",
+        "en": "He was doing so well! He even talked to that girl he liked! But yesterday, he had some sort of relapse.",
+        "ru": "У него всё было хорошо! Он даже разговаривал с девочкой, которая ему понравилась! Но вчера у него произошло какое-то обострение!"
+    },
+    {
+        "id": "M5802_S0010_G0080_001_a9s",
+        "jp": "仕方ないな。",
+        "en": "Fine, whatever.",
+        "ru": "Ладно, как скажете."
+    },
+    {
+        "id": "M5802_S0010_G0100_001_robochild",
+        "jp": "フフ、今回のはかなりの自信作ダカラネ。",
+        "en": "Hee hee! You're going to love this one!",
+        "ru": "Хе-хе! Вам это понравится!"
+    },
+    {
+        "id": "M5802_S0010_G0110_001_a9s",
+        "jp": "引きこもる術を誇ってどうするんだよ。それより、気になる子と\\n仲良くなるんじゃなかったのか？",
+        "en": "You shouldn't be proud of hiding from the world! Besides, I thought you had a girlfriend.",
+        "ru": "Ты не должен гордиться тем, что прячешься от мира! Кроме того, я думал, у тебя есть девушка."
+    },
+    {
+        "id": "M5802_S0010_G0120_001_robochild",
+        "jp": "……クリアしたら教えてヤルヨ。",
+        "en": "Maaaaaybe. But I'll tell you if you get my lock open!",
+        "ru": "Може-е-е-ет быть. Но я скажу тебе, если сможешь открыть мой замок!"
+    },
+    {
+        "id": "M5802_S0010_G0130_001_a9s",
+        "jp": "わかったわかった……",
+        "en": "This is so stupid...",
+        "ru": "Ну что за глупости..."
+    },
+    {
+        "id": "M5802_S0010_G0060_001_robomother",
+        "jp": "そうデスヨネ。いい加減、もう見切りもつけたくナリマスヨネ……",
+        "en": "I understand. You must be so tired of coming to my rescue like this.",
+        "ru": "Я поняла. Скорее всего, вы уже так устали выручать меня раз за разом."
+    },
+    {
+        "id": "M5800_S0010_G0100_001_robomother",
+        "jp": "どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！",
+        "en": "Get this door open and drag my good-for-nothing son out here this instant!",
+        "ru": "Откройте эту дверь и немедленно вытащите моего никчёмного сына!"
+    },
+    {
+        "id": "M5800_S0010_G0190_001_a9s",
+        "jp": "クソッ……意外と手強いな。",
+        "en": "...Damn. That lock's stronger than I thought.",
+        "ru": "...Чёрт. Этот замок сложнее, чем я думал."
+    },
+    {
+        "id": "M5802_S0010_G0140_001_robochild",
+        "jp": "……負ケタ。",
+        "en": "You win!",
+        "ru": "Ты победил!"
+    },
+    {
+        "id": "M5802_S0010_G0150_001_robomother",
+        "jp": "モウ、あんたって子は！マタ迷惑をかけて。何で引きこもっタノ！？",
+        "en": "Do you even know how much trouble you've caused for everyone, young man? ...Well!? Do you!?",
+        "ru": "Вы даже не представляете, как много проблем всем доставили, молодой человек! ...Ну?!"
+    },
+    {
+        "id": "M5802_S0010_G0160_001_a9s",
+        "jp": "僕も理由を知りたいな。クリアしたら教えるって言ったよね？",
+        "en": "Okay kid, spill it. What's your deal?",
+        "ru": "Хорошо малыш, выкладывай. Что у тебя случилось?"
+    },
+    {
+        "id": "M5802_S0010_G0170_001_robochild",
+        "jp": "……これでも、頑張ったンダ。",
+        "en": "I've been trying, okay?",
+        "ru": "Хорошо, я попытаюсь."
+    },
+    {
+        "id": "M5802_S0010_G0180_001_robochild",
+        "jp": "外に出テみんなと話をシテ……あのコとも頑張って話シタ。楽しカッタヨ。",
+        "en": "I went out and talked to everyone I saw. I even talked to the girl I liked! It was...fun.",
+        "ru": "Я вышел и поговорил со всеми, кого видел. Я даже поговорил с девочкой, которая мне понравилась! Это было... весело."
+    },
+    {
+        "id": "M5802_S0010_G0190_001_robochild",
+        "jp": "デモ、それは最初ダケダ。次第に、空気を読みナガラ会話する事に\\n疲れてシマッテ……",
+        "en": "But then it got hard, 'cause you can't just talk to people, you know? You have to read between the lines and stuff.",
+        "ru": "Но затем стало тяжело, потому что, знаете ли, непросто с кем-то разговаривать. Вам нужно пытаться понять их чувства и намерения."
+    },
+    {
+        "id": "M5802_S0010_G0200_001_robochild",
+        "jp": "そうして悟ったンダ。引きこもって他人と接触しナイ事が、\\n一番楽だという事ニネ！",
+        "en": "So I kinda decided that staying inside was way easier.",
+        "ru": "Поэтому я пришёл к выводу, что намного проще оставаться внутри."
+    },
+    {
+        "id": "M5802_S0010_G0210_001_robochild",
+        "jp": "ボクはコレから最強の引きこもりを目指ス。ソレが今の僕の夢ダ！",
+        "en": "But I have a dream now—I'm gonna be the best shut-in I can possibly be!",
+        "ru": "Но теперь у меня есть мечта: я стану лучшим затворником, каким только смогу стать!"
+    },
+    {
+        "id": "M5802_S0010_G0220_001_robochild",
+        "jp": "今回は破られたケド、今度ハ絶対に破られナイ電子ロックを開発して\\nミセルカラネッ",
+        "en": "Next time, I'm gonna make a lock you won't be able to break in a bajillion quintillion years!",
+        "ru": "В следующий раз я сделаю замок, который вы не сможете взломать за квадриллион квинтиллионов лет!"
+    },
+    {
+        "id": "M5802_S0010_G0230_001_robomother",
+        "jp": "ああっ……なんて立派なコトを言うヨウニなったのカシラ……",
+        "en": "Will you listen to my darling boy? He has a goal now! How wonderful!",
+        "ru": "Вы слышали моего дорогого мальчика? Теперь у него есть цель! Как чудесно!"
+    },
+    {
+        "id": "M5802_S0010_G0240_001_robomother",
+        "jp": "これも貴方のおかげです。ありがとうございました！",
+        "en": "And it's all thanks to you!",
+        "ru": "И это всё благодаря вам!"
+    },
+    {
+        "id": "M5802_S0010_G0250_001_a9s",
+        "jp": "う……うん。良かったね。",
+        "en": "D-don't mention it...",
+        "ru": "Н-не упоминайте это..."
+    },
+    {
+        "id": "M5802_S0010_G0260_001_a9s",
+        "jp": "……全然解決してない気がするけど。",
+        "en": "Why do I have the feeling we're back to square one?",
+        "ru": "Почему у меня такое ощущение, что мы вернулись к началу?"
+    },
+    {
+        "id": "M5802_S0010_G0230_001_robomother",
+        "jp": "ああっ……なんて立派なコトを言うヨウニなったのカシラ……",
+        "en": "Will you listen to my darling boy? He has a goal now! How wonderful!",
+        "ru": "Вы слышали моего дорогого мальчика? Теперь у него есть цель! Как чудесно!"
+    },
+    {
+        "id": "M5802_S0010_G0240_001_robomother",
+        "jp": "これも貴方のおかげです。ありがとうございました！",
+        "en": "And it's all thanks to you!",
+        "ru": "И это всё благодаря вам!"
+    },
+    {
+        "id": "M5802_S0010_G0210_001_robochild",
+        "jp": "ボクはコレから最強の引きこもりを目指ス。ソレが今の僕の夢ダ！",
+        "en": "But I have a dream now—I'm gonna be the best shut-in I can possibly be!",
+        "ru": "Но теперь у меня есть мечта: я стану лучшим затворником, каким только смогу стать!"
+    },
+    {
+        "id": "M5802_S0010_G0220_001_robochild",
+        "jp": "今回は破られたケド、今度ハ絶対に破られナイ電子ロックを開発して\\nミセルカラネッ",
+        "en": "Next time, I'm gonna make a lock you won't be able to break in a bajillion quintillion years!",
+        "ru": "В следующий раз я сделаю замок, который вы не сможете взломать за квадриллион квинтиллионов лет!"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "M3040_S0022_S0000_001_a9s",
+        "jp": "何だ……これは？",
+        "en": "What is...that?",
+        "ru": "Что... это?"
+    },
+    {
+        "id": "M3040_S0022_S0010_001_pod153",
+        "jp": "地下空間より出現した巨大構造物。",
+        "en": "An enormous facility that appeared from an area beneath the ground.",
+        "ru": "Гигантская постройка появилась из-под земли."
+    },
+    {
+        "id": "M3040_S0022_S0020_001_pod153",
+        "jp": "機械生命体の手によるものと考えられるが、詳細は不明。",
+        "en": "It would appear to be machine-related in origin. Further details unknown.",
+        "ru": "По-видимому, к этому причастны машины. Дальнейшие подробности неизвестны."
+    },
+    {
+        "id": "M3040_S0022_S0030_001_pod153",
+        "jp": "巨大構造物中央部から地上へ伸びている部分に移動構造物を確認。",
+        "en": "Mobile transport platform detected in the section emerging from the facility's center.",
+        "ru": "В центре постройки обнаружена мобильная транспортная платформа."
+    },
+    {
+        "id": "M3040_S0022_S0040_001_a9s",
+        "jp": "エレベーターか……",
+        "en": "So...an elevator?",
+        "ru": "То есть... лифт?.."
+    },
+    {
+        "id": "M3020_S0020_G0240_300_pod153",
+        "jp": "推奨：陥没地帯に出現した塔の調査。",
+        "en": "Proposal: Investigate tower that appeared from the caved-in region.",
+        "ru": "Предложение: исследуйте башню, появившуюся в области котлована."
+    },
+    {
+        "id": "M3020_S0020_G0250_300_a9s",
+        "jp": "…行ってみるか。",
+        "en": "Let's check it out.",
+        "ru": "Давай-ка обследуем её."
+    }
+]

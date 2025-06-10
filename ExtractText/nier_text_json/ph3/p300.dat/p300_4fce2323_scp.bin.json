@@ -1,0 +1,74 @@
+[
+    {
+        "id": "M3030_S0025_G0000_001_a2",
+        "jp": "よし……あとはこれをパスカルの所に持っていけばいいんだな。",
+        "en": "Right. Now I just have to bring this to Pascal...",
+        "ru": "Верно. Теперь мне нужно отдать это Паскалю..."
+    },
+    {
+        "id": "M3030_S0025_G0010_001_pascal",
+        "jp": "……聞こえますか！？Ａ２さん！",
+        "en": "A2, can you hear me!?",
+        "ru": "A2, приём?!"
+    },
+    {
+        "id": "M3030_S0025_G0020_001_a2",
+        "jp": "ああ、丁度良かった。頼まれていた素材は今……",
+        "en": "Oh, perfect. I have the materials you asked me to—",
+        "ru": "О, отлично. У меня есть материал, который ты просил для..."
+    },
+    {
+        "id": "M3030_S0025_G0030_001_pascal",
+        "jp": "Ａ２さんッ！村が‥…大変なんです！",
+        "en": "Help, A2! The village is in great trouble!",
+        "ru": "A2, помоги! Деревня в опасности!"
+    },
+    {
+        "id": "M3030_S0025_G0040_001_pascal",
+        "jp": "村人達が……ああっ！！",
+        "en": "The villagers are— Oh, no...!",
+        "ru": "Жители... О, нет!.."
+    },
+    {
+        "id": "M3030_S0025_G0050_001_a2",
+        "jp": "おいっ！パスカル！？どうした？",
+        "en": "Pascal? Pascal, are you there!?",
+        "ru": "Паскаль? Паскаль, приём?!"
+    },
+    {
+        "id": "M3030_S0025_G0060_001_a2",
+        "jp": "一体……何が……！？",
+        "en": "What the hell is going on!?",
+        "ru": "Что за хрень там творится?!"
+    },
+    {
+        "id": "M3030_S0025_G0070_001_pod042",
+        "jp": "推測：貴重な情報源であるパスカルに問題が発生。",
+        "en": "Hypothesis: The valuable source of information known as Pascal has encountered difficulty.",
+        "ru": "Предположение: у ценного источника информации, известного как Паскаль, возникли трудности."
+    },
+    {
+        "id": "M3030_S0025_G0080_001_pod042",
+        "jp": "推奨：パスカルの村の状態調査。",
+        "en": "Proposal: Unit A2 should investigate Pascal's village immediately.",
+        "ru": "Предложение: единица A2 должна немедленно исследовать деревню Паскаля."
+    },
+    {
+        "id": "M3030_S0025_G0090_001_a2",
+        "jp": "言われなくても……！",
+        "en": "I'm on my way!",
+        "ru": "Я уже в пути!"
+    },
+    {
+        "id": "M3030_S0025_G0100_300_pod042",
+        "jp": "推奨：速やかなパスカル村の状態調査。",
+        "en": "Proposal: Unit A2 should investigate the status of Pascal's village immediately.",
+        "ru": "Предложение: единице A2 следует немедленно узнать судьбу деревни Паскаля."
+    },
+    {
+        "id": "M3030_S0025_G0110_300_a2",
+        "jp": "分かってる。",
+        "en": "I know.",
+        "ru": "Знаю."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "M3060_S0050_G0000_001_a9s",
+        "jp": "汚染された……ヨルハ機体！",
+        "en": "Corrupted YoRHa units!",
+        "ru": "Заражённые единицы YoRHa!"
+    },
+    {
+        "id": "M3060_S0050_G0010_001_announce",
+        "jp": "こんにちは！『塔』システムサービスです。",
+        "en": "Hello, and thank you for choosing Tower System Services!",
+        "ru": "Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!"
+    },
+    {
+        "id": "M3060_S0050_G0020_001_announce",
+        "jp": "この度は『塔』へのご来場、まことにありがとうございます。",
+        "en": "We're so pleased you've chosen to visit the Tower today!",
+        "ru": "Мы очень рады, что вы решили посетить Башню именно сегодня!"
+    },
+    {
+        "id": "M3060_S0050_G0030_001_announce",
+        "jp": "最後のサブユニットを解除したご来場者様への『ファイナルワン賞』は\\nこの先のお部屋にご用意しております。",
+        "en": "Don't forget about the special prize for the guest who unlocks the last sub-unit in the room just ahead.",
+        "ru": "Не забывайте о вознаграждении, которое можно получить в комнате перед вами."
+    },
+    {
+        "id": "M3060_S0050_G0040_001_announce",
+        "jp": "ごゆっくりとお楽しみください！",
+        "en": "You're going to LOVE IT!",
+        "ru": "Вам оно обязательно ПОНРАВИТСЯ!"
+    },
+    {
+        "id": "M3060_S0050_G0041_001_a9s",
+        "jp": "皆殺しにしてやる……",
+        "en": "I'm gonna kill you...",
+        "ru": "Я убью тебя..."
+    }
+]

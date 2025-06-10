@@ -1,0 +1,1394 @@
+[
+    {
+        "id": "M5091_S0010_G0250_001_a2b",
+        "jp": "これは……",
+        "en": "Huh. This is unexpected.",
+        "ru": "А? Это неожиданно."
+    },
+    {
+        "id": "M5091_S0010_G0260_001_a9s",
+        "jp": "なんだ、これ……",
+        "en": "Oh my gosh...",
+        "ru": "Эм..."
+    },
+    {
+        "id": "M5091_S0010_G0270_001_a2",
+        "jp": "これは……",
+        "en": "...Really?",
+        "ru": "Серьезно?.."
+    },
+    {
+        "id": "M5091_S0020_G0000_001_reception",
+        "jp": "おや、ここに来るのは初めて？",
+        "en": "This must be your first time with us.",
+        "ru": "Должно быть, вы впервые у нас."
+    },
+    {
+        "id": "M5091_S0020_G0010_001_reception",
+        "jp": "ここは、アンドロイドとロボットが命を賭けて戦う最高の娯楽施設だよ。",
+        "en": "In that case, welcome to the ultimate in entertainment! A place where androids and machines risk their lives in combat!",
+        "ru": "В таком случае, добро пожаловать в восхитительное место! Место, где андроиды и машины рискуют расстаться со своими жизнями!"
+    },
+    {
+        "id": "M5091_S0020_G0020_001_reception",
+        "jp": "レジスタンスの規則には違反してるけど……まあ息抜きは必要だよね。",
+        "en": "And yes, it's technically against Resistance regulations, but everyone needs a way to blow off some steam, am I right?",
+        "ru": "И да, технически это противоречит правилам Сопротивления, но ведь каждому нужно выпускать пар, я права?"
+    },
+    {
+        "id": "M5091_S0020_G0030_001_reception",
+        "jp": "バトルに参加したくなったら、声かけてくれ。",
+        "en": "Please let me know if you'd like to participate.",
+        "ru": "Пожалуйста, дайте знать, если захотите принять участие."
+    },
+    {
+        "id": "M5091_S0020_G0040_001_reception",
+        "jp": "バトルに参加するかい？",
+        "en": "Care to join the fray?",
+        "ru": "Хотите поучаствовать в сражении?"
+    },
+    {
+        "id": "M5091_S0020_G0050_001_sele",
+        "jp": "バトルに参加する。",
+        "en": "Sign up to fight.",
+        "ru": "Записаться на участие."
+    },
+    {
+        "id": "M5091_S0020_G0060_001_sele",
+        "jp": "バトルに参加しない。",
+        "en": "Walk away.",
+        "ru": "Уйти."
+    },
+    {
+        "id": "M5091_S0020_G0080_001_reception",
+        "jp": "気が向いたらいつでも言ってくれ。",
+        "en": "All right. Please let me know if you change your mind.",
+        "ru": "Хорошо. Пожалуйста, сообщите, если передумаете."
+    },
+    {
+        "id": "M5091_S0020_G0070_001_reception",
+        "jp": "わかった。じゃあ、参加手続きをする。",
+        "en": "Very good. Let me get you signed up...",
+        "ru": "Отлично. Тогда я запишу вас..."
+    },
+    {
+        "id": "M5091_S0020_G0155_001_reception",
+        "jp": "ああ、この闘技場ではアイテム使用は禁止されてる。",
+        "en": "Oh by the way, you are not allowed to use items in the arena!",
+        "ru": "Ах да, на арене нельзя будет использовать предметы!"
+    },
+    {
+        "id": "M5091_S0020_G0157_001_reception",
+        "jp": "弱いのにゴリ押しする奴らが多くてね……",
+        "en": "Can't have a bunch of weaklings try to bulldoze their way through without any strategy, can we?",
+        "ru": "Нам не нужны слабаки, которые просто пытаются пробиться и действуют без какой-либо стратегии, верно?"
+    },
+    {
+        "id": "M5091_S0065_G0000_001_reception",
+        "jp": "お、来たね。君は難易度<difficulty>で、EXランクを最速<m_time>でクリアしている。",
+        "en": "Your fastest completion time of the Special Rank on <difficulty> difficulty is: <m_time>.",
+        "ru": "Лучшее время завершения испытания особого ранга на сложности <difficulty>  составляет <m_time>."
+    },
+    {
+        "id": "M5091_S0065_G0010_001_reception",
+        "jp": "是非、記録の更新にチャレンジしてくれ。",
+        "en": "Keep working hard to obtain better results!",
+        "ru": "Продолжайте усердно работать, чтобы получить лучший результат!"
+    },
+    {
+        "id": "M5091_S0020_G0040_001_reception",
+        "jp": "バトルに参加するかい？",
+        "en": "Care to join the fray?",
+        "ru": "Хотите поучаствовать в сражении?"
+    },
+    {
+        "id": "M5091_S0020_G0050_001_sele",
+        "jp": "バトルに参加する。",
+        "en": "Sign up to fight.",
+        "ru": "Записаться на участие."
+    },
+    {
+        "id": "M5091_S0020_G0060_001_sele",
+        "jp": "バトルに参加しない。",
+        "en": "Walk away.",
+        "ru": "Уйти."
+    },
+    {
+        "id": "M5091_S0055_G0000_001_reception",
+        "jp": "待ってたよ！君のために特別なランクを用意したんだ！",
+        "en": "We prepared a special new rank for you! Hope you like lots of pain!",
+        "ru": "Мы подготовили для вас новый ранг! Наслаждайтесь!"
+    },
+    {
+        "id": "M5091_S0055_G0010_001_reception",
+        "jp": "今回は、純粋な君の力が見たいから悪いけどオートチップ類は無効化させて貰う。",
+        "en": "This is meant to test your actual skills, so your auto-chips will be disabled.",
+        "ru": "Это будет проверка твоих навыков, так что все авто-чипы будут деактивированы."
+    },
+    {
+        "id": "M5091_S0055_G0020_001_reception",
+        "jp": "是非その腕を存分に奮ってくれ！",
+        "en": "This is your chance to show the world what you're truly made of!",
+        "ru": "Это ваш шанс показать миру, на что вы способны!"
+    },
+    {
+        "id": "M5091_S0020_G0110_001_reception",
+        "jp": "この闘技場の大会には、E、D、C、B、A、Sの６段階のランクがある。",
+        "en": "Battles here are separated into six distinct ranks. They start at E, then move up through D, C, B, A, and finally S.",
+        "ru": "Битвы подразделяются на шесть различных рангов. Начиная с E, вы продвинетесь выше до D, C, B, A и, наконец, S-ранга."
+    },
+    {
+        "id": "M5091_S0020_G0120_001_reception",
+        "jp": "初心者が参加できるのは、Ｅランクからのみだ。",
+        "en": "As a beginner, you can participate only in E-level matches.",
+        "ru": "Как начинающий, вы можете попрактиковаться на E-ранге."
+    },
+    {
+        "id": "M5091_S0020_G0130_001_reception",
+        "jp": "勝利すると、次のランクの大会に参加する資格が得られるぞ。",
+        "en": "Once you win, you'll earn the right to join the next tier.",
+        "ru": "В случае победы, вы будете подниматься дальше по рангам."
+    },
+    {
+        "id": "M5091_S0020_G0140_001_reception",
+        "jp": "ランクが上がれば景品も豪華になるからな。",
+        "en": "The higher you advance, the greater the prizes you can win.",
+        "ru": "Чем сложнее ранг, тем богаче награда."
+    },
+    {
+        "id": "M5091_S0020_G0145_001_reception",
+        "jp": "説明はそんなところだ。",
+        "en": "And that's about all there's to it!",
+        "ru": "Это всё, что нужно знать!"
+    },
+    {
+        "id": "M5091_S0040_G0012_001_reception",
+        "jp": "アソコの奥に行ってみな？面白いモノがあるぜ。",
+        "en": "Have a look back there. You'll love it!",
+        "ru": "Обернись. Тебе понравится!"
+    },
+    {
+        "id": "M5091_S0030_G0000_001_moderator",
+        "jp": "それでは、今からＥランクの戦いを始めます！",
+        "en": "We're ready to kick off a new E-rank battle!",
+        "ru": "Мы готовы начать новый бой E-ранга!"
+    },
+    {
+        "id": "M5091_S0030_G0010_001_moderator",
+        "jp": "最低ランクですが、決して気を抜かないように。",
+        "en": "Don't let the low rank fool you—if you lower your guard, you'll be scrap.",
+        "ru": "Не позвольте низкому рангу одурачить вас. Зазеваешься, и ты — груда металлолома."
+    },
+    {
+        "id": "M5091_S0030_G0020_001_moderator",
+        "jp": "では、戦闘を開始してください！",
+        "en": "Now...let the battle begin!",
+        "ru": "А сейчас... Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0040_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's all she wrote, folks!",
+        "ru": "На этом всё, ребятки!"
+    },
+    {
+        "id": "M5091_S0030_G0050_001_reception",
+        "jp": "おめでとう！Ｅランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the E-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с Е-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0052_001_reception",
+        "jp": "たまには髪色を変えてオシャレをするのもいいぞ？",
+        "en": "It's nice to change your hair color every once in a while, you know?",
+        "ru": "Довольно приятно иметь возможность время от времени сменить цвет волос."
+    },
+    {
+        "id": "M5091_S0030_G0054_001_reception",
+        "jp": "そうでもしないと、息が詰まるからな。",
+        "en": "We have to look for little things like that to distract us from our everyday lives.",
+        "ru": "Ведь такие маленькие детали позволяют разнообразить нашу повседневную жизнь."
+    },
+    {
+        "id": "M5091_S0030_G0056_001_reception",
+        "jp": "戦争が続いてるとみんなオカシクなるんだよ……",
+        "en": "Otherwise we'll all go insane, what with the constant fighting going on.",
+        "ru": "В противном случае мы бы все сошли с ума из-за этих бесконечных сражений."
+    },
+    {
+        "id": "M5091_S0030_G0058_001_reception",
+        "jp": "……すまない。愚痴だ。また挑戦してくれよな？",
+        "en": "...I'm sorry, I was just rambling a bit. Come visit again, okay?",
+        "ru": "Извините... Я заболталась. Заходите ещё, хорошо?"
+    },
+    {
+        "id": "M5091_S0030_G0060_001_andman",
+        "jp": "オラ、きりきり歩け！ゼンマイ錆びてんのか、ああ？",
+        "en": "Hey, your gears rusted or something? Hurry up already!",
+        "ru": "Эй, ты совсем проржавел или что? Пошевеливайся!"
+    },
+    {
+        "id": "M5091_S0030_G0070_001_roboman",
+        "jp": "スミマセン、スミマセン。",
+        "en": "I AM SORRY. I AM SORRY.",
+        "ru": "Я ИЗВИНЯЮСЬ. Я ИЗВИНЯЮСЬ."
+    },
+    {
+        "id": "M5091_S0030_G0080_001_andman",
+        "jp": "チッ、使えねえ奴。そろそろ替え時かねぇ。",
+        "en": "Bah! You're useless. I oughta trade you in and be done with it...",
+        "ru": "Тю! Ты бесполезен. Сбагрю тебя и дело с концом..."
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0040_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's all she wrote, folks!",
+        "ru": "На этом всё, ребятки!"
+    },
+    {
+        "id": "M5091_S0030_G0090_001_moderator",
+        "jp": "ではこれより、Ｄランクの戦闘を～開始！",
+        "en": "It's time to kick off this D-rank match, folks!",
+        "ru": "Пора бы и закончить матч с D-рангом, ребятки!"
+    },
+    {
+        "id": "M5091_S0030_G0100_001_moderator",
+        "jp": "……と言ったら開始してくださいね～？",
+        "en": "Er, I mean, once I say to begin, we'll kick it off. We won't start during the explanation of how to start... I'm making this very confusing.",
+        "ru": "Э, в общем, смотри: когда я скажу \"начали\" — мы начинаем. Мы не начинаем, пока не начинаем... Что-то я заболталась."
+    },
+    {
+        "id": "M5091_S0030_G0110_001_moderator",
+        "jp": "……ええと、それじゃ、か、開始っ！",
+        "en": "Uh, yeah. Anyway. This is for real. Now fight!",
+        "ru": "Ах да. В общем, хватит болтать. Битва начинается!"
+    },
+    {
+        "id": "M5091_S0030_G0120_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's it! We're finished!",
+        "ru": "Вот и всё! Мы закончили!"
+    },
+    {
+        "id": "M5091_S0030_G0130_001_reception",
+        "jp": "おめでとう！Ｄランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the D-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с D-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0140_001_andmanA",
+        "jp": "なあ、さっきのロボット見た？",
+        "en": "Did you see that machine just now?",
+        "ru": "Кто-нибудь видел эту машину?"
+    },
+    {
+        "id": "M5091_S0030_G0150_001_andwomanA",
+        "jp": "見た見た！命乞いとかしてんの。",
+        "en": "Sure did! Stupid contraption was begging for its life...",
+        "ru": "Само собой! Эта тупая железка просила о пощаде..."
+    },
+    {
+        "id": "M5091_S0030_G0160_001_andwomanA",
+        "jp": "ロボットの癖に何様って感じだよね？アハハッ！",
+        "en": "Not that a hunk of junk like that even has a life worth begging for! Ha ha!",
+        "ru": "Этот кусок металлического хлама не заслужил пощады! Ха-ха!"
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0120_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's it! We're finished!",
+        "ru": "Вот и всё! Мы закончили!"
+    },
+    {
+        "id": "M5091_S0030_G0170_001_moderator",
+        "jp": "はーい、じゃあＣランクの戦闘をさりげなく始めますね～",
+        "en": "Now then! Let's get this C-rank battle rolling!",
+        "ru": "Ну-ка! Время для битвы с С-рангом!"
+    },
+    {
+        "id": "M5091_S0030_G0180_001_moderator",
+        "jp": "では、開始！",
+        "en": "Now...fight!",
+        "ru": "А теперь... в бой!"
+    },
+    {
+        "id": "M5091_S0030_G0190_001_moderator",
+        "jp": "はーい。そこまでとしま～す。",
+        "en": "This one's all over!",
+        "ru": "На этом всё!"
+    },
+    {
+        "id": "M5091_S0030_G0200_001_reception",
+        "jp": "おめでとう！Ｃランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the C-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с С-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0210_001_robowoman",
+        "jp": "ドウカ、お母さんヲタスケテください！タスケテ！",
+        "en": "PLEASE. MY MOTHER! YOU HAVE TO RESCUE HER!",
+        "ru": "ПОЖАЛУЙСТА. МОЯ МАТЬ! СПАСИТЕ ЕЁ!"
+    },
+    {
+        "id": "M5091_S0030_G0220_001_andmanC",
+        "jp": "ハハハッ。機械生命体が「お母さん」だってさ。",
+        "en": "Machines don't have mothers!",
+        "ru": "У машин нет матерей!"
+    },
+    {
+        "id": "M5091_S0030_G0230_001_andmanC",
+        "jp": "思考回路が壊れてるんじゃね？",
+        "en": "I think someone crossed your circuits.",
+        "ru": "Думаю, кто-то ковырялся в твоих микросхемах."
+    },
+    {
+        "id": "M5091_S0030_G0250_001_andmanC",
+        "jp": "よし、テメェも修理してやるよ……！",
+        "en": "Better tear you apart and see what's wrong.",
+        "ru": "Легче разобрать тебя на части и понять, что же не так."
+    },
+    {
+        "id": "M5091_S0030_G0260_001_robowoman",
+        "jp": "ヤ、ヤメ……ヤメテェエッ！！",
+        "en": "NO. NO! NOOOOOO!",
+        "ru": "НЕТ. НЕТ! НЕЕЕЕЕЕЕЕЕТ!"
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0190_001_moderator",
+        "jp": "はーい。そこまでとしま～す。",
+        "en": "This one's all over!",
+        "ru": "На этом всё!"
+    },
+    {
+        "id": "M5091_S0030_G0270_001_moderator",
+        "jp": "血と油と歯車に魅せられし者達よ……",
+        "en": "Are you ready for another feast of oil, gears, and blood?",
+        "ru": "Готовы ли вы к празднику с маслом, грудой шестеренок и кровью?"
+    },
+    {
+        "id": "M5091_S0030_G0280_001_moderator",
+        "jp": "Ｂランクのステージにようこそ！",
+        "en": "Then welcome...to the B-rank stage!",
+        "ru": "Добро пожаловать... на уровень B-ранга!"
+    },
+    {
+        "id": "M5091_S0030_G0290_001_moderator",
+        "jp": "今こそ理性を解放し本能のままに美しき闘争心を……あ、長いですか？",
+        "en": "Let the fists fly! Let the feet kick! Let the pure passion of combat come forth in glorious... Er, sorry. I'm rambling again, aren't I?",
+        "ru": "Бей ногой! А теперь с ноги ударь! Выбей всю дурь в этой славной битве... Оу, извиняюсь. Я снова брежу, да?"
+    },
+    {
+        "id": "M5091_S0030_G0300_001_moderator",
+        "jp": "じゃあ開始！",
+        "en": "Fine then. Fiiight!",
+        "ru": "Ну ладно. Боооооой!"
+    },
+    {
+        "id": "M5091_S0030_G0310_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's it! We're done! It's over!",
+        "ru": "Вот оно! Отличное исполнение! Бой окончен!"
+    },
+    {
+        "id": "M5091_S0030_G0320_001_reception",
+        "jp": "おめでとう！Ｂランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the B-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с В-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0330_001_n02",
+        "jp": "コノ戦イニ勝テバ……解放サレル……勝タナキャ……",
+        "en": "IF I WIN...I AM FREE. I MUST WIN. I MUST...",
+        "ru": "ЕСЛИ Я ВЫИГРАЮ... Я ОСВОБОЖУСЬ. Я ДОЛЖЕН ВЫИГРАТЬ. ДОЛЖЕН..."
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0310_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's it! We're done! It's over!",
+        "ru": "Вот оно! Отличное исполнение! Бой окончен!"
+    },
+    {
+        "id": "M5091_S0030_G0340_001_moderator",
+        "jp": "ここに立つ方々にはＡランクに相応しい戦いを期待します。",
+        "en": "We're looking forward to a true A-rank contest from each and every one of you...",
+        "ru": "Мы жаждем увидеть настоящего веселья от каждого из А-ранга..."
+    },
+    {
+        "id": "M5091_S0030_G0350_001_moderator",
+        "jp": "どうか、ぐっちゃぐっちゃのぎっとぎとになるまで殺し合ってくださいね！",
+        "en": "I want you to kill, kill, KILL! Kill until you're soaked in blood! Kill until your feet slip in pools of your own lubricants!",
+        "ru": "Я хочу, чтобы вы убивали, убивали, УБИВАЛИ! Убивайте, пока полностью не пропитаетесь кровью, пока ваши ноги не будут скользить по маслу поверженных врагов!"
+    },
+    {
+        "id": "M5091_S0030_G0360_001_moderator",
+        "jp": "それでは、開始ッ！",
+        "en": "And now...FIIIGHT!",
+        "ru": "А сейчас... В БООООЙ!"
+    },
+    {
+        "id": "M5091_S0030_G0370_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "The battle is over!",
+        "ru": "Бой окончен!"
+    },
+    {
+        "id": "M5091_S0030_G0380_001_reception",
+        "jp": "おめでとう！Ａランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the A-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с А-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0390_001_andmanC",
+        "jp": "あれ？新しいロボットにしたのか？",
+        "en": "Huh? Did you go with a new model out there?",
+        "ru": "А? Хотите попробовать в деле новую модель?"
+    },
+    {
+        "id": "M5091_S0030_G0400_001_andmanD",
+        "jp": "ああ、前のは蹴ったら壊れちまったからな。",
+        "en": "Yeah, I kicked my old one a few too many times and it finally fell apart.",
+        "ru": "Ага, после нескольких пинков моя старушка развалилась на части."
+    },
+    {
+        "id": "M5091_S0030_G0410_001_andmanC",
+        "jp": "どうせお前の事だから、フルパワーで蹴ったんだろ？",
+        "en": "Probably not gentle kicks either, knowing you.",
+        "ru": "Может, из-за слишком нежных ударов, знаю я тебя."
+    },
+    {
+        "id": "M5091_S0030_G0420_001_andmanD",
+        "jp": "それで壊れるこいつらが悪いんだよ。",
+        "en": "Who gives a rip? It's that dumb machine's fault for being such a piece of crap.",
+        "ru": "Кого это волнует? Всё вина тупой машины, немощного металлолома."
+    },
+    {
+        "id": "M5091_S0030_G0430_001_andmanD",
+        "jp": "まあ、壊れたら取りかえればいいんだしな。",
+        "en": "Not like I can't just get another one.",
+        "ru": "Не похоже, чтоб я не мог найти себе другую."
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0370_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "The battle is over!",
+        "ru": "Бой окончен!"
+    },
+    {
+        "id": "M5091_S0030_G0440_001_moderator",
+        "jp": "Ｓランクの勇士達よ……",
+        "en": "Warriors of the S-rank...",
+        "ru": "Воины S-ранга..."
+    },
+    {
+        "id": "M5091_S0030_G0450_001_moderator",
+        "jp": "どうか最高に美しい、至高の戦いを見せてくれたまえ……",
+        "en": "Today, I want to see you revel in the glorious and refined combat arts...",
+        "ru": "Сегодня я хочу увидеть, как вы наслаждаетесь великолепием и утончённостью боевых искусств..."
+    },
+    {
+        "id": "M5091_S0030_G0460_001_moderator",
+        "jp": "互いに情け容赦は無用。歯車の一片をも壊しつくすがいい！",
+        "en": "Show no mercy! Grant no quarter! Rip and tear and gouge and poke and slice and crush and maim and destroy!",
+        "ru": "Покажите свою беспощадность! Своё величие! Крушите и ломайте, давите и кромсайте, убивайте их и уничтожайте!"
+    },
+    {
+        "id": "M5091_S0030_G0470_001_moderator",
+        "jp": "開始！",
+        "en": "Now FIIIGHT!",
+        "ru": "А теперь — в БОООЙ!"
+    },
+    {
+        "id": "M5091_S0030_G0480_001_moderator",
+        "jp": "そこまでとします！",
+        "en": "Finished! We're done!",
+        "ru": "Закончили! На этом всё!"
+    },
+    {
+        "id": "M5091_S0030_G0490_001_reception",
+        "jp": "おめでとう！Ｓランクの景品はこれだ。受け取ってくれ。",
+        "en": "Congratulations. Here's your reward for clearing the S-rank battle.",
+        "ru": "Поздравляю! Вот ваша награда за победу в битве с S-рангом."
+    },
+    {
+        "id": "M5091_S0030_G0500_001_a2b",
+        "jp": "これは……？",
+        "en": "What's this?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M5091_S0030_G0510_001_a9s",
+        "jp": "これは……？",
+        "en": "What's this?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M5091_S0030_G0520_001_a2",
+        "jp": "何だ？",
+        "en": "What the!?",
+        "ru": "Какого...?"
+    },
+    {
+        "id": "M5091_S0030_G0530_001_reception",
+        "jp": "大昔の人類が着用していた「露出の多い女性の服」だ。",
+        "en": "This is a piece of \"revealing women's clothing\" that humans used to wear.",
+        "ru": "Это часть \"откровенного женского наряда\", какие носили люди."
+    },
+    {
+        "id": "M5091_S0030_G0540_001_reception",
+        "jp": "どういう理由でこんな服を作ったのかさっぱり知らないんだが……",
+        "en": "With clothing like this, you have to wonder why they even bothered wearing anything in the first place, eh?",
+        "ru": "Глядя на это вы, наверное, подумали, зачем они вообще что-то носили, да?"
+    },
+    {
+        "id": "M5091_S0030_G0550_001_reception",
+        "jp": "ま、受け取ってくれ。",
+        "en": "That's humans for ya. Anyway, take it. It's yours.",
+        "ru": "Вот такими были люди. В любом случае, возьмите его. Оно ваше."
+    },
+    {
+        "id": "M5091_S0040_G0000_001_reception",
+        "jp": "それにしても、素晴らしい戦いだったよ！久々に興奮したなぁ。",
+        "en": "Talk about exciting, by the way! I haven't seen a battle like that in forever.",
+        "ru": "Кстати да, это было невероятно! Я никогда не видела таких сражений!"
+    },
+    {
+        "id": "M5091_S0040_G0010_001_reception",
+        "jp": "そうだ。お礼に、君にいいものを見せてやるよ。",
+        "en": "Hey, you want to see something interesting?",
+        "ru": "Эй, хочешь чего-нибудь интересненького?"
+    },
+    {
+        "id": "M5091_S0040_G0012_001_reception",
+        "jp": "アソコの奥に行ってみな？面白いモノがあるぜ。",
+        "en": "Have a look back there. You'll love it!",
+        "ru": "Обернись. Тебе понравится!"
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0030_G0010_300_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's all she wrote, folks!",
+        "ru": "На этом всё, ребятки!"
+    },
+    {
+        "id": "M5091_S0060_G0000_001_moderator",
+        "jp": "ついにここまで来てしまったようですね……",
+        "en": "Hmmm. So you made it this far, huh?",
+        "ru": "Хм-м-м-м. И всё-таки вы смогли так далеко зайти, да?"
+    },
+    {
+        "id": "M5091_S0060_G0010_001_moderator",
+        "jp": "戦いを極めた貴方のために、特別なランクを用意しました！",
+        "en": "Alright, then I think you're ready to face the next challenge!",
+        "ru": "Хорошо, тогда я думаю, вы готовы к следующему испытанию!"
+    },
+    {
+        "id": "M5091_S0060_G0025_001_moderator",
+        "jp": "常識外れの極限バトル……君は超えられるか！？",
+        "en": "This is the ultimate, completely insane battle! Can you overcome the odds!?",
+        "ru": "Это последняя, совершенно безумная битва! Сможете ли вы справиться?!"
+    },
+    {
+        "id": "M5091_S0060_G0030_001_moderator",
+        "jp": "それでは、開始！",
+        "en": "Ready? Fight!",
+        "ru": "Готовы? НАЧАЛИ!"
+    },
+    {
+        "id": "M5091_S0060_G0040_001_moderator",
+        "jp": "そこまで！",
+        "en": "That's enough!",
+        "ru": "Достаточно!"
+    },
+    {
+        "id": "M5091_S0065_G0020_001_reception",
+        "jp": "お疲れさま。今回の戦いで掛かった時間は<time>だ。",
+        "en": "The time you took to complete this battle is: <time>.",
+        "ru": "Время, затраченное на битву: <time>."
+    },
+    {
+        "id": "M5091_S0065_G0030_001_reception",
+        "jp": "次の君の熱い挑戦を待っているよ。",
+        "en": "I'm sure you can do better!",
+        "ru": "Я уверен, ты сможешь лучше!"
+    },
+    {
+        "id": "M5091_S0030_G0030_001_moderator",
+        "jp": "では、開始します！",
+        "en": "Let the battle begin!",
+        "ru": "Да начнется бой!"
+    },
+    {
+        "id": "M5091_S0060_G0040_001_moderator",
+        "jp": "そこまで！",
+        "en": "That's enough!",
+        "ru": "Достаточно!"
+    },
+    {
+        "id": "M5091_S0065_G0020_001_reception",
+        "jp": "お疲れさま。今回の戦いで掛かった時間は<time>だ。",
+        "en": "The time you took to complete this battle is: <time>.",
+        "ru": "Время, затраченное на битву: <time>."
+    },
+    {
+        "id": "M5091_S0065_G0030_001_reception",
+        "jp": "次の君の熱い挑戦を待っているよ。",
+        "en": "I'm sure you can do better!",
+        "ru": "Я уверен, ты сможешь лучше!"
+    },
+    {
+        "id": "M5091_S0030_G0100_300_reception",
+        "jp": "どのランクに挑戦するんだ？",
+        "en": "Which rank do you want to attempt?",
+        "ru": "Против какого ранга желаешь потягаться?"
+    },
+    {
+        "id": "M5091_S0030_G0170_300_sele",
+        "jp": "EXランク　（推奨Lv：99）",
+        "en": "Special Rank (Rec. Lv: 99)",
+        "ru": "Особый ранг (Ур: 99)"
+    },
+    {
+        "id": "M5091_S0030_G0160_300_sele",
+        "jp": "Sランク　（推奨Lv：80）",
+        "en": "Rank S (Rec. Lv: 80)",
+        "ru": "Ранг S (Ур: 80)"
+    },
+    {
+        "id": "M5091_S0030_G0150_300_sele",
+        "jp": "Aランク　（推奨Lv：70）",
+        "en": "Rank A (Rec. Lv: 70)",
+        "ru": "Ранг А (Ур: 70)"
+    },
+    {
+        "id": "M5091_S0030_G0140_300_sele",
+        "jp": "Bランク　（推奨Lv：60）",
+        "en": "Rank B (Rec. Lv: 60)",
+        "ru": "Ранг В (Ур: 60)"
+    },
+    {
+        "id": "M5091_S0030_G0130_300_sele",
+        "jp": "Cランク　（推奨Lv：50）",
+        "en": "Rank C (Rec. Lv: 50)",
+        "ru": "Ранг С (Ур: 50)"
+    },
+    {
+        "id": "M5091_S0030_G0120_300_sele",
+        "jp": "Dランク　（推奨Lv：35）",
+        "en": "Rank D (Rec. Lv: 35)",
+        "ru": "Ранг D (Ур: 35)"
+    },
+    {
+        "id": "M5091_S0030_G0110_300_sele",
+        "jp": "Eランク　（推奨Lv：25）",
+        "en": "Rank E (Rec. Lv: 25)",
+        "ru": "Ранг E (Ур: 25)"
+    },
+    {
+        "id": "M5091_S0030_G0175_300_sele",
+        "jp": "バトルの説明を聞く",
+        "en": "Ask for an explanation",
+        "ru": "Попросить разъяснений."
+    },
+    {
+        "id": "M5091_S0030_G0180_300_sele",
+        "jp": "やめる",
+        "en": "Quit",
+        "ru": "Выйти"
+    },
+    {
+        "id": "M5091_S0030_G0010_300_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's all she wrote, folks!",
+        "ru": "На этом всё, ребятки!"
+    },
+    {
+        "id": "M5091_S0030_G0020_300_reception",
+        "jp": "残念だったな！これに懲りずにまた挑戦してくれよ！",
+        "en": "Tough luck. But don't let it stop you—just try, try again!",
+        "ru": "Везёт, как утопленнику. Не расстраивайся, попробуй ещё раз!"
+    },
+    {
+        "id": "M5091_S0030_G0010_300_moderator",
+        "jp": "そこまでとします！",
+        "en": "That's all she wrote, folks!",
+        "ru": "На этом всё, ребятки!"
+    },
+    {
+        "id": "M5091_S0060_G0052_001_reception",
+        "jp": "この果物にはアンドロイドの体に特殊な効果をもたらす毒が入っている。",
+        "en": "This fruit contains a poison that has a special effect on android bodies.",
+        "ru": "Этот плод содержит яд, который оказывает особый эффект на тела андроидов."
+    },
+    {
+        "id": "M5091_S0060_G0054_001_reception",
+        "jp": "使用前には『必ず』説明を読むんだぞ……？",
+        "en": "Make ABSOLUTELY sure you read the instructions before using it, okay?",
+        "ru": "Обязательно УДОСТОВЕРЬТЕСЬ, что прочитали инструкцию, прежде чем использовать его, хорошо?"
+    },
+    {
+        "id": "M5091_S0060_G0050_001_reception",
+        "jp": "今回の景品はこれだ。受け取ってくれ。",
+        "en": "Here's your reward.",
+        "ru": "Вот ваша награда!"
+    },
+    {
+        "id": "M5091_S0060_G0050_001_reception",
+        "jp": "今回の景品はこれだ。受け取ってくれ。",
+        "en": "Here's your reward.",
+        "ru": "Вот ваша награда!"
+    },
+    {
+        "id": "M5091_S0060_G0060_001_reception",
+        "jp": "お疲れさま！また参加してくれよ。",
+        "en": "Great job! Drop by again any time!",
+        "ru": "Отличная работа! Возвращайтесь в любое время!"
+    },
+    {
+        "id": "M5091_S0070_G0000_001_secretary",
+        "jp": "はい、何か御用でしょうか？",
+        "en": "Hello, can I help you?",
+        "ru": "Привет, можешь помочь?"
+    },
+    {
+        "id": "M5091_S0070_G0010_300_sele",
+        "jp": "アレと戦わせて欲しい。",
+        "en": "I wanna fight you-know-who.",
+        "ru": "Я хочу сразиться с сам-знаешь-кем."
+    },
+    {
+        "id": "M5091_S0070_G0020_300_sele",
+        "jp": "特に用はない。",
+        "en": "Nope.",
+        "ru": "Не-а."
+    },
+    {
+        "id": "M5091_S0070_G0030_001_secretary",
+        "jp": "そうですか、では失礼致します。",
+        "en": "Very well. Good day then.",
+        "ru": "Очень хорошо. Доброго дня."
+    },
+    {
+        "id": "M5091_S0070_G0040_001_secretary",
+        "jp": "申し上げにくいのですが、アポイントのないお客様をお通しする事は出来ません。",
+        "en": "I'm sorry, but I cannot let anyone pass without an appointment.",
+        "ru": "Простите, но я не могу позволить кому-либо пройти, если ему не назначено."
+    },
+    {
+        "id": "M5091_S0070_G0050_001_secretary",
+        "jp": "まだ、何か御用がおありでしょうか？",
+        "en": "Yes? Is there anything else you require?",
+        "ru": "Да? Вам ещё что-то нужно?"
+    },
+    {
+        "id": "M5091_S0070_G0010_300_sele",
+        "jp": "アレと戦わせて欲しい。",
+        "en": "I wanna fight you-know-who.",
+        "ru": "Я хочу сразиться с сам-знаешь-кем."
+    },
+    {
+        "id": "M5091_S0070_G0020_300_sele",
+        "jp": "特に用はない。",
+        "en": "Nope.",
+        "ru": "Не-а."
+    },
+    {
+        "id": "M5091_S0070_G0060_001_secretary",
+        "jp": "あいにくですが、私の一存では決めかねますので。",
+        "en": "I'm sorry, I'm not authorized to make that decision.",
+        "ru": "Простите, но я не уполномочен принимать такие решения."
+    },
+    {
+        "id": "M5091_S0070_G0070_001_secretary",
+        "jp": "お客様……一応お伺いしますが、どのようなご用件でしょうか？",
+        "en": "Okay, I'm going to ask again, because I'm nice: IS there something I can help you with?",
+        "ru": "Хорошо, спрошу снова, только потому, что я милашка: могу ли я вам чем-то помочь?"
+    },
+    {
+        "id": "M5091_S0070_G0010_300_sele",
+        "jp": "アレと戦わせて欲しい。",
+        "en": "I wanna fight you-know-who.",
+        "ru": "Я хочу сразиться с сам-знаешь-кем."
+    },
+    {
+        "id": "M5091_S0070_G0020_300_sele",
+        "jp": "特に用はない。",
+        "en": "Nope.",
+        "ru": "Не-а."
+    },
+    {
+        "id": "M5091_S0070_G0080_001_secretary",
+        "jp": "そこまで仰るのであればお通ししますが、この先は世界観や雰囲気が大幅に壊れてしまう恐れがありますが、本当に宜しいでしょうか？",
+        "en": "Alright, if you insist. But I have to warn you: what you're about to see may end up destroying your sense of immersion. Are you okay with that?",
+        "ru": "Хорошо, если вы настаиваете. Но я хочу предупредить вас: будьте готовы, что увиденное может уничтожить ваше чувство погружения. Вы согласны с этим?"
+    },
+    {
+        "id": "M5091_S0070_G0170_300_sele",
+        "jp": "はい",
+        "en": "Immersion schmimmersion!",
+        "ru": "Погружение-попогружение!"
+    },
+    {
+        "id": "M5091_S0070_G0180_300_sele",
+        "jp": "やめる",
+        "en": "I most certainly am not.",
+        "ru": "Точно не я."
+    },
+    {
+        "id": "M5091_S0070_G0090_001_secretary",
+        "jp": "私もその方が良いかと思います。",
+        "en": "I think that's a wise decision.",
+        "ru": "Думаю, это мудрое решение."
+    },
+    {
+        "id": "M5091_S0070_G0100_001_secretary",
+        "jp": "恐れ入りますが、本当に、本当に戦って問題ないでしょうか？\\nコレが最後の確認になります。",
+        "en": "Are you REALLY super duper sure you want to do this? This is your last chance to back out!",
+        "ru": "Вы ДЕЙСТВИТЕЛЬНО уверены, что хотите это сделать? Это ваш последний шанс отказаться!"
+    },
+    {
+        "id": "M5091_S0070_G0170_300_sele",
+        "jp": "はい",
+        "en": "Immersion schmimmersion!",
+        "ru": "Погружение-попогружение!"
+    },
+    {
+        "id": "M5091_S0070_G0180_300_sele",
+        "jp": "やめる",
+        "en": "I most certainly am not.",
+        "ru": "Точно не я."
+    },
+    {
+        "id": "M5091_S0070_G0110_001_secretary",
+        "jp": "かしこまりました。では、ご案内致します。",
+        "en": "Very well then. Follow me.",
+        "ru": "Что ж, очень хорошо. Следуйте за мной."
+    },
+    {
+        "id": "M5091_S0070_G0170_001_secretary",
+        "jp": "はい、何か御用でしょうか？",
+        "en": "Hello, can I help you?",
+        "ru": "Привет, можешь помочь?"
+    },
+    {
+        "id": "M5091_S0070_G0220_300_sele",
+        "jp": "アレと戦わせて欲しい。",
+        "en": "I wanna fight you-know-who.",
+        "ru": "Я хочу сразиться с сам-знаешь-кем."
+    },
+    {
+        "id": "M5091_S0070_G0230_300_sele",
+        "jp": "特に用はない。",
+        "en": "Nope.",
+        "ru": "Не-а."
+    },
+    {
+        "id": "M5091_S0070_G0200_001_secretary",
+        "jp": "そうですか、では失礼致します。",
+        "en": "Very well. Good day then.",
+        "ru": "Очень хорошо. Доброго дня."
+    },
+    {
+        "id": "M5091_S0070_G0210_001_secretary",
+        "jp": "分かりました、準備致します。",
+        "en": "Understood. I'll get things ready.",
+        "ru": "Поняла. Я всё подготовлю."
+    },
+    {
+        "id": "M6110_S0500_G0000_001_noname",
+        "jp": "流石です。よくここまでたどり着きました。",
+        "en": "Well done. I'm impressed you made it this far.",
+        "ru": "Молодец! Я впечатлён, что вы смогли зайти так далеко."
+    },
+    {
+        "id": "M6110_S0500_G0010_001_unknown",
+        "jp": "スクウェア・エニックス代表取締役社長",
+        "en": "I am the President and CEO of Square Enix.",
+        "ru": "Я президент и директор (ГИД, главный исполнительный директор) Square Enix."
+    },
+    {
+        "id": "M6110_S0500_G0020_001_unknown",
+        "jp": "松田洋祐です。",
+        "en": "The name is Yosuke Matsuda.",
+        "ru": "Меня зовут Йосуке Мацуда."
+    },
+    {
+        "id": "M5091_S0070_G0130_001_secretary",
+        "jp": "本日はお忙しいところ有難うございました。",
+        "en": "Thank you very much for dropping by today.",
+        "ru": "Большое спасибо за то, что заскочили к нам сегодня."
+    },
+    {
+        "id": "M5091_S0070_G0140_001_secretary",
+        "jp": "私共々大変楽しい時間を過ごさせて頂きました。",
+        "en": "It has been greatly entertaining to watch you fight at peak performance.",
+        "ru": "Было занимательно наблюдать за вашим сражением, вы выложились по полной."
+    },
+    {
+        "id": "M5091_S0070_G0150_001_secretary",
+        "jp": "こちらは、ほんの心ばかりの品ですがお納めください。",
+        "en": "Here's a little gift for you as a token of our appreciation.",
+        "ru": "Вот, небольшой подарок в знак нашей признательности."
+    },
+    {
+        "id": "M5091_S0070_G0160_001_secretary",
+        "jp": "では、失礼させて頂きます。",
+        "en": "See you later!",
+        "ru": "Увидимся позже!"
+    },
+    {
+        "id": "M6110_S0500_G0030_001_unknown",
+        "jp": "私とお手合わせ願いましょう。",
+        "en": "Let's see what you're made of, shall we?",
+        "ru": "Давайте посмотрим, на что вы способны, хорошо?"
+    },
+    {
+        "id": "M5091_S0070_G0120_001_secretary",
+        "jp": "奴らは社長……最強の存在。",
+        "en": "They are CEOs... The strongest beings on the planet.",
+        "ru": "Это директора... Сильнейшие существа на планете."
+    },
+    {
+        "id": "M5091_S0070_G0180_001_secretary",
+        "jp": "敗北は恥ではありません。",
+        "en": "It is only natural that you lost in an incredibly humiliating way. Try not to let it get to you.",
+        "ru": "В поражении нет ничего зазорного."
+    },
+    {
+        "id": "M5091_S0070_G0190_001_secretary",
+        "jp": "また、気が向いたらお声掛け下さい。",
+        "en": "I will be here if you need me again.",
+        "ru": "Если понадоблюсь вам снова, то я буду здесь."
+    },
+    {
+        "id": "M6110_S0500_G0040_001_unknown",
+        "jp": "やりますねぇ。",
+        "en": "Not bad, kid!",
+        "ru": "Неплохо, деточка!"
+    },
+    {
+        "id": "M6110_S0500_G0050_001_unknown",
+        "jp": "僕も混ぜてもらっていいですか？",
+        "en": "Mind if I join in?",
+        "ru": "Не возражаете, если я присоединюсь?"
+    },
+    {
+        "id": "M6110_S0500_G0060_001_unknown",
+        "jp": "プラチナゲームズ代表取締役社長、",
+        "en": "I am the President and CEO of PlatinumGames...",
+        "ru": "Я президент и генеральный директор PlatinumGames..."
+    },
+    {
+        "id": "M6110_S0500_G0070_001_unknown",
+        "jp": "佐藤賢一です。",
+        "en": "Kenichi Sato!",
+        "ru": "Кеничи Сато!"
+    },
+    {
+        "id": "M6110_S0500_G0080_001_unknown",
+        "jp": "いくぜぇ！",
+        "en": "Let's get it on!",
+        "ru": "Сделаем это!"
+    },
+    {
+        "id": "M6110_S0500_G0090_001_unknown",
+        "jp": "ふむ、そろそろ時間ですね。",
+        "en": "Hm. I think that's about enough for today.",
+        "ru": "Хм. Я думаю, что на сегодня хватит."
+    },
+    {
+        "id": "M6110_S0500_G0100_001_unknown",
+        "jp": "私達、代表取締役から最後のプレゼントです。",
+        "en": "Allow us to give you a parting gift before we leave though.",
+        "ru": "Прежде чем мы уйдём, позвольте вручить вам подарок."
+    },
+    {
+        "id": "M6110_S0500_G0110_001_unknown",
+        "jp": "受け取って下さい！",
+        "en": "Hope you like it!",
+        "ru": "Надеюсь, вам понравится!"
+    },
+    {
+        "id": "M5091_S0040_G0016_001_a2b",
+        "jp": "これは……",
+        "en": "Huh. This is unexpected.",
+        "ru": "А? Это неожиданно."
+    },
+    {
+        "id": "M5091_S0040_G0017_001_a9s",
+        "jp": "なんだ、これ……",
+        "en": "Oh my gosh...",
+        "ru": "Эм..."
+    },
+    {
+        "id": "M5091_S0040_G0018_001_a2",
+        "jp": "これは……",
+        "en": "...Really?",
+        "ru": "Серьезно?.."
+    },
+    {
+        "id": "M5091_S0040_G0019_001_n02",
+        "jp": "助ケテ……助ケテ……",
+        "en": "Help me... Help me...",
+        "ru": "Помоги мне... Помоги мне..."
+    },
+    {
+        "id": "M5091_S0040_G0020_001_resi",
+        "jp": "さ～て、次はどれにしようかな～？",
+        "en": "Now then... Which one should I choose next?",
+        "ru": "Итак... что же мне выбрать?"
+    },
+    {
+        "id": "M5091_S0040_G0030_001_n02",
+        "jp": "ヒッ……！",
+        "en": "EEP...!",
+        "ru": "Иип!.."
+    },
+    {
+        "id": "M5091_S0040_G0040_001_resi",
+        "jp": "あははっ、見て！怯えてるよ。機械生命体の癖に！最高にウケる！",
+        "en": "Ha ha! Stupid machines. Look at 'em quaking in their boots or...whatever they have. I love it!",
+        "ru": "Ха-ха! Тупые машины! Вы только гляньте, как они трясутся в своих сапожках... или что там у них. Обожаю!"
+    },
+    {
+        "id": "M5091_S0040_G0050_001_a2b",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M5091_S0040_G0060_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M5091_S0040_G0070_001_a2",
+        "jp": "……",
+        "en": "......",
+        "ru": "..."
+    },
+    {
+        "id": "M5091_S0040_G0080_001_resi",
+        "jp": "……オレは、部下を８人も機械生命体に殺された。",
+        "en": "These little bastards killed 8 of my subordinates!",
+        "ru": "Эти маленькие ублюдки убили 8 моих подчиненных!"
+    },
+    {
+        "id": "M5091_S0040_G0085_001_resi",
+        "jp": "他の奴らも、機械生命体に大切な仲間を殺されたレジスタンスばかりだ。",
+        "en": "Every Resistance member here lost someone important because of the machines.",
+        "ru": "Каждый из Сопротивления терял того, кто ему важен."
+    },
+    {
+        "id": "M5091_S0040_G0087_001_resi",
+        "jp": "愛する者を切り刻まれ、大切な仲間を喰われてしまった者達……",
+        "en": "Some saw their loved ones cut to pieces, others had their friends eaten right in front of their eyes.",
+        "ru": "Некоторые даже видели, как их близких разрывало на куски, а другие — как обгладывали трупы их товарищей."
+    },
+    {
+        "id": "M5091_S0040_G0088_001_resi",
+        "jp": "ここは、そういう連中の溜り場なんだよ。",
+        "en": "Do you blame us for getting together in a place like this?",
+        "ru": "Вы вините нас в том, что мы собираемся в подобном месте?"
+    },
+    {
+        "id": "M5091_S0040_G0090_001_resi",
+        "jp": "そうだ……こいつらを、水に沈めて壊れていくのを見ようと思ってるんだ。",
+        "en": "I'm thinking of taking a few of these guys and dunking 'em in water. Might be fun to watch the sparks fly.",
+        "ru": "Я думаю поймать несколько этих парней и окунуть их в воду. Наверное, будет весело наблюдать, как они искрят."
+    },
+    {
+        "id": "M5091_S0040_G0100_001_resi",
+        "jp": "どう？ストレス解消になると思わないか？",
+        "en": "A little light-show might be just what the mechanic ordered...",
+        "ru": "Ну как? Расслабляет, не правда ли?"
+    },
+    {
+        "id": "M5091_S0040_G0110_001_resi",
+        "jp": "ね？一緒にやろうよ？",
+        "en": "Well? You up for it?",
+        "ru": "Ну что ж? Готовы?"
+    },
+    {
+        "id": "M5091_S0040_G0120_001_a2b",
+        "jp": "……いや、いい。",
+        "en": "Pass.",
+        "ru": "Пас."
+    },
+    {
+        "id": "M5091_S0040_G0130_001_a9s",
+        "jp": "……いや、遠慮します。",
+        "en": "N-no, I'm good, thanks.",
+        "ru": "Н-нет, всё в порядке, спасибо."
+    },
+    {
+        "id": "M5091_S0040_G0140_001_a2",
+        "jp": "……いや、いい。",
+        "en": "No. Hell no.",
+        "ru": "Нет. Чёрт, нет."
+    },
+    {
+        "id": "M5091_S0040_G0150_001_resi",
+        "jp": "そっかぁ。残念だ。",
+        "en": "Aw, come on! Don't be such an old lump of iron!",
+        "ru": "Ой, да брось! Не будь такой рухлядью!"
+    },
+    {
+        "id": "M5091_S0040_G0160_001_resi",
+        "jp": "でも、君らだって、コイツらを倒した時には『ヨシ、やった！』って思っただろ？",
+        "en": "You didn't forget your bloodlust when you were trashing these guys earlier, right?",
+        "ru": "Вы не забыли, как жестоко раньше громили этих ребят, верно?"
+    },
+    {
+        "id": "M5091_S0040_G0170_001_resi",
+        "jp": "それと同じだよ。",
+        "en": "Well, this is the same deal.",
+        "ru": "Так это одно и то же."
+    },
+    {
+        "id": "M5091_S0040_G0180_001_resi",
+        "jp": "ここで殺すか、任務で殺すかの違いなんだけどねぇ……",
+        "en": "Only difference is whether you kill 'em here or kill 'em on your missions, you know?",
+        "ru": "Единственная разница в том, что вы убьёте их здесь, а не на своём задании, верно?"
+    },
+    {
+        "id": "M5091_S0040_G0190_001_resi",
+        "jp": "まあいいか……どうでも……",
+        "en": "Eh, whatever. This is wasted on you.",
+        "ru": "Эх, ну и ладно. Только зря время потратил."
+    },
+    {
+        "id": "M5091_S0040_G0200_001_pod042",
+        "jp": "記録：ここにいるアンドロイド達の感情の多様性。",
+        "en": "Analysis: The androids in this arena are exhibiting unusual emotional depth.",
+        "ru": "Анализ: андроиды на этой арене имеют необычную эмоциональную составляющую."
+    },
+    {
+        "id": "M5091_S0040_G0210_001_pod042",
+        "jp": "推測：人間が持つ残虐性を持ち始めている。",
+        "en": "Hypothesis: They have begun to inherit the cruelty inherent in humanity.",
+        "ru": "Предположение: они начали наследовать жестокость, свойственную человечеству."
+    },
+    {
+        "id": "M5091_S0040_G0220_001_a2b",
+        "jp": "……そう。",
+        "en": "...Huh.",
+        "ru": "Эх..."
+    },
+    {
+        "id": "M5091_S0040_G0230_001_pod153",
+        "jp": "記録：ここにいるアンドロイド達の感情の多様性。",
+        "en": "Analysis: The androids in this arena are exhibiting unusual emotional depth.",
+        "ru": "Анализ: андроиды на этой арене имеют необычную эмоциональную составляющую."
+    },
+    {
+        "id": "M5091_S0040_G0240_001_pod153",
+        "jp": "推測：人間が持つ残虐性を持ち始めている。",
+        "en": "Hypothesis: They have begun to inherit the cruelty inherent in humanity.",
+        "ru": "Предположение: они начали наследовать жестокость, свойственную человечеству."
+    },
+    {
+        "id": "M5091_S0040_G0250_001_a9s",
+        "jp": "……僕にも、そういう面があるんだろうか。",
+        "en": "I wonder if there's a side of me like that...",
+        "ru": "Интересно, есть ли в моём характере такая же черта..."
+    },
+    {
+        "id": "M5091_S0040_G0260_001_pod042",
+        "jp": "記録：ここにいるアンドロイド達の感情の多様性。",
+        "en": "Analysis: The androids in this arena are exhibiting unusual emotional depth.",
+        "ru": "Анализ: андроиды на этой арене имеют необычную эмоциональную составляющую."
+    },
+    {
+        "id": "M5091_S0040_G0270_001_pod042",
+        "jp": "推測：人間が持つ残虐性を持ち始めている。",
+        "en": "Hypothesis: They have begun to inherit the cruelty inherent in humanity.",
+        "ru": "Предположение: они начали наследовать жестокость, свойственную человечеству."
+    },
+    {
+        "id": "M5091_S0040_G0280_001_a2",
+        "jp": "……そうか。",
+        "en": "...I see.",
+        "ru": "Понятно..."
+    },
+    {
+        "id": "M5091_S0040_G0014_001_reception",
+        "jp": "おいおい。せっかく許可出してやってるんだから見ていけよ。",
+        "en": "Hey, come on now! I'm letting you have a look! Don't be rude!",
+        "ru": "Эй, ну ты чего! Взгляни! Не будь такой грубой!"
+    },
+    {
+        "id": "M5091_S0030_G0070_001_roboman",
+        "jp": "スミマセン、スミマセン。",
+        "en": "I AM SORRY. I AM SORRY.",
+        "ru": "Я ИЗВИНЯЮСЬ. Я ИЗВИНЯЮСЬ."
+    },
+    {
+        "id": "M5091_S0030_G0085_001_andman",
+        "jp": "この機械生命体、最近バトルに出るのを嫌がるようになったんだよな……",
+        "en": "This hunk of junk REALLY doesn't want to fight anymore for some reason...",
+        "ru": "Эта консервная банка НЕ ХОЧЕТ больше участвовать в боях..."
+    },
+    {
+        "id": "M5091_S0030_G0600_001_andmanA",
+        "jp": "あーこんなに笑ったのは久し振りだぜ。",
+        "en": "Har har! I haven't laughed this hard in ages!",
+        "ru": "Ха-ха! Давненько я так не смеялся!"
+    },
+    {
+        "id": "M5091_S0030_G0610_001_andwomanA",
+        "jp": "機械生命体に命なんてないのにバカなやつらだよ。",
+        "en": "Can you believe these things are so dumb they think they're actually alive!?",
+        "ru": "Можете поверить в то, что эти штуки так тупы, что считают себя живыми?!"
+    },
+    {
+        "id": "M5091_S0030_G0620_001_robowoman",
+        "jp": "ウウ……オカアサン……",
+        "en": "*sniff* MOTHER...",
+        "ru": "*шмыгает* МАМА..."
+    },
+    {
+        "id": "M5091_S0030_G0630_001_robowoman",
+        "jp": "何で、何でコンナヒドイ事が出来ルノ？",
+        "en": "HOW COULD ANYONE DO SUCH A THING?",
+        "ru": "ЧТО ВЫ С НЕЙ СДЕЛАЛИ?"
+    },
+    {
+        "id": "M5091_S0030_G0640_001_andmanC",
+        "jp": "ごめんごめん、オマエの『お母さん』を修理しようとしたら壊れちゃったよ！",
+        "en": "I took your mother apart because she needed fixin'!",
+        "ru": "Я забрал твою мать потому, что ей нужен ремонт!"
+    },
+    {
+        "id": "M5091_S0030_G0650_001_andmanC",
+        "jp": "ま、機械生命体に母親なんていないから気にするな！",
+        "en": "It doesn't look like I'll be able to put her back together again, though.",
+        "ru": "Не похоже, что я смогу снова собрать её."
+    },
+    {
+        "id": "M5091_S0030_G0660_001_andmanC",
+        "jp": "何だよ、その不満げな顔は？",
+        "en": "What? What are you looking at me like that for?",
+        "ru": "Что? Чего ты так на меня смотришь?"
+    },
+    {
+        "id": "M5091_S0030_G0670_001_andmanC",
+        "jp": "用がないなら話し掛けるんじゃねーよ。",
+        "en": "If you got nothing to say, get the hell outta my face.",
+        "ru": "Если тебе нечего сказать — катись к чёрту с глаз моих."
+    },
+    {
+        "id": "M5091_S0030_G0680_001_resi",
+        "jp": "機械生命体がお母さんとか言ってるんじゃねぇよ。",
+        "en": "Machines crying over their \"mothers\"...",
+        "ru": "Машины плачут по своим \"матерям\"..."
+    },
+    {
+        "id": "M5091_S0030_G0690_001_resi",
+        "jp": "気持ち悪い。",
+        "en": "It's bloody disgusting, is what it is.",
+        "ru": "Это чертовски отвратительно, вот что."
+    },
+    {
+        "id": "M5091_S0030_G0700_001_resi",
+        "jp": "アンタも混ざりたいのか？",
+        "en": "Hey, you wanna join in on the fun?",
+        "ru": "Эй, хочешь вместе повеселиться?"
+    },
+    {
+        "id": "M5091_S0030_G0710_001_resi",
+        "jp": "何だよ、違うならアッチ行きな、シッシ。",
+        "en": "Whatever, we don't need your holier-than-thou attitude. Get outta here.",
+        "ru": "В любом случае, нам не нужен такой святоша-ангелочек, как ты. Убирайся."
+    },
+    {
+        "id": "M5091_S0030_G0725_001_resi",
+        "jp": "この地獄カラ、逃げ出スンダ……",
+        "en": "I MUST ESCAPE THIS HELL...",
+        "ru": "Я ДОЛЖЕН ВЫБРАТЬСЯ ИЗ ЭТОГО АДА..."
+    },
+    {
+        "id": "M5091_S0030_G0720_001_resi",
+        "jp": "いいからさっさと闘技場に出ろ。マヌケ。",
+        "en": "Quit yer yappin' and get fightin' already, you stupid piece of junk.",
+        "ru": "Хватит тявкать и иди дерись, тупой кусок хлама."
+    },
+    {
+        "id": "M5091_S0030_G0730_001_resi",
+        "jp": "こいつらには無限の地獄を味わってもらうからな……",
+        "en": "I want to see these bastards suffer over and over!",
+        "ru": "Я хочу, чтобы эти ублюдки страдали, снова и снова!"
+    },
+    {
+        "id": "M5091_S0030_G0738_001_n02",
+        "jp": "ウウ……カアチャン、タスケテ……",
+        "en": "*sniff* MOMMY... HELP ME... PLEASE...",
+        "ru": "*шмыгает* МАМОЧКА... ПОМОГИ МНЕ... ПОЖАЛУЙСТА..."
+    },
+    {
+        "id": "M5091_S0030_G0740_001_n02",
+        "jp": "カアチャン……カアチャン……",
+        "en": "MOMMY... MOMMY...",
+        "ru": "МАМОЧКА... МАМОЧКА..."
+    },
+    {
+        "id": "M5091_S0030_G0750_001_andmanC",
+        "jp": "俺も新しい奴隷を探さなきゃな……",
+        "en": "I should probably get a new machine one of these days.",
+        "ru": "Кажется, на днях мне стоит взять новую машину."
+    },
+    {
+        "id": "M5091_S0030_G0760_001_andmanC",
+        "jp": "次はなるべく泣き虫なヤツがいいかな。",
+        "en": "One that cries even more, preferably.",
+        "ru": "Скорее всего ту, которая будет рыдать еще больше."
+    },
+    {
+        "id": "M5091_S0030_G0770_001_andmanD",
+        "jp": "さて、次はどんな風に遊んでやるかな。",
+        "en": "Lessee, what ordeals shall I put my little robot through next?",
+        "ru": "Посмотрим-с, каким испытаниям я подвергну мою новую маленькую машину."
+    },
+    {
+        "id": "M5091_S0030_G0780_001_andmanD",
+        "jp": "こいつらには人様の星で暴れてくれた罪をしっかり償わせなきゃな。",
+        "en": "It's gotta make up for screwing up the planet like this, am I right?",
+        "ru": "Это должно помочь наверстать то, что давно упущено, верно?"
+    }
+]

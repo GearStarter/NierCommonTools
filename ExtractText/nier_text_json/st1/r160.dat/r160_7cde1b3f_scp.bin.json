@@ -1,0 +1,80 @@
+[
+    {
+        "id": "M6080_S0100_G0010_300_kj",
+        "jp": "ソレガシは正宗……鍛冶屋を営んでオル……",
+        "en": "I am the blacksmith Masamune.",
+        "ru": "Я кузнец Масамунэ."
+    },
+    {
+        "id": "M6080_S0100_G0020_300_kj",
+        "jp": "ウム、貴殿ハ武具を大事に扱ってイルナ。",
+        "en": "I see you're taking good care of your weapons.",
+        "ru": "Вижу, вы хорошо заботитесь о своём оружии."
+    },
+    {
+        "id": "M6080_S0100_G0030_300_kj",
+        "jp": "ドレ、ソレガシで良けレバ貴殿の武具を研いデシンゼヨウ。",
+        "en": "However, I'd be happy to sharpen them for you if you wish.",
+        "ru": "Однако я был бы счастлив заточить его для вас, если пожелаете."
+    },
+    {
+        "id": "M6080_S0100_G0040_300_kj",
+        "jp": "それにシテモ懐かシイナ……",
+        "en": "Ah! Your white sword!",
+        "ru": "Ах! Ваш белый клинок!"
+    },
+    {
+        "id": "M6080_S0100_G0050_300_kj",
+        "jp": "貴殿ガ持ってイル、ソノ白き刀はかつて我が師匠も研いだ刀デナ……",
+        "en": "My master honed that very blade long ago.",
+        "ru": "Давным-давно мой учитель заточил эти клинки."
+    },
+    {
+        "id": "M6080_S0100_G0060_300_kj",
+        "jp": "師匠は生涯をカケテ白と黒の8つの武具を集め改良した名工だ。",
+        "en": "He was a master craftsman who gathered four black and four white weapons and improved on them.",
+        "ru": "Он был мастером-кузнецом, который собрал четыре чёрных и четыре белых оружия, и улучшил их."
+    },
+    {
+        "id": "M6080_S0100_G0070_300_kj",
+        "jp": "シカシ、その武具を巡り数々の血がナガレ、\\n師匠はソノ武具を各地に封印したノダ……",
+        "en": "But they spilled so much blood that my master sealed them away in various locations across the world.",
+        "ru": "Но они пролили так много крови, что мой учитель запечатал их в разных уголках по всему миру."
+    },
+    {
+        "id": "M6080_S0100_G0080_300_kj",
+        "jp": "……貴殿なら正しく扱えるデアロウ、封印の祠は各地に設置されテイル。\\n必要ナラバ探してミルとヨイ。",
+        "en": "However, I wager you would wield them in the service of good. If that is true, you can search for them in sealed shrines throughout the world.",
+        "ru": "Однако я уверен, вы бы использовали их с благими намерениями. И если это так, вы сможете отыскать эти скрытые сокровища по всему миру."
+    },
+    {
+        "id": "M6080_S0110_G0010_300_kj",
+        "jp": "ナニカ研いで欲シイ武具はオアリカ？",
+        "en": "Have you any weapons you wish for me to sharpen?",
+        "ru": "У вас есть оружие, которое вы бы хотели заточить?"
+    },
+    {
+        "id": "M6080_S0110_G0020_300_kj",
+        "jp": "武具は己ノ心を映す鏡ダ、大切にスルガヨイ……",
+        "en": "Weapons are mirrors that reflect what is in your heart. Treat them with the care they deserve.",
+        "ru": "Оружие — зеркало вашего сердца. Относитесь к нему с заботой, которую оно заслуживает."
+    },
+    {
+        "id": "M6080_S0120_G0010_300_kj",
+        "jp": "フム、ココマデ武具を大事に扱うモノハ久し振りダ。\\nこれを貴殿に授けヨウ。",
+        "en": "Hmm... It has been long and long since I've seen someone take such good care of a weapon. Please take this as a token of my appreciation.",
+        "ru": "Хм... Прошло уже много времени с тех пор, как я видел кого-то, кто так хорошо заботится об оружии. Прошу, примите это в знак моей признательности."
+    },
+    {
+        "id": "M6080_S0120_G0020_300_kj",
+        "jp": "以前に話した師が研いダ武具の一つダ。巡りに巡ってソレガシの元に\\n来たのダガ、今一度封印スルノモ忍びなくてナ……",
+        "en": "This is one of the weapons I was telling you about. It was passed down through the generations until it came to me, and I can't bring myself to seal it away.",
+        "ru": "Это один из клинков, о которых я вам рассказывал. Он передавался из поколения в поколение, пока не дошёл до меня, но я не могу заставить себя запечатать его."
+    },
+    {
+        "id": "M6080_S0120_G0030_300_kj",
+        "jp": "貴殿ナラ信じられル。大切に扱ってやってクレ。",
+        "en": "But I know you will give it the respect it craves.",
+        "ru": "Я знаю, вы проявите к нему уважение."
+    }
+]

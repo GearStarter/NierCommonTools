@@ -1,0 +1,122 @@
+[
+    {
+        "id": "M3030_S0020_G0000_001_pascal",
+        "jp": "ふむ……",
+        "en": "Hmm...",
+        "ru": "Хмм..."
+    },
+    {
+        "id": "M3030_S0020_G0010_001_pascal",
+        "jp": "『国家が終わるところではじめて、余計者ではない人間が始まる』か……",
+        "en": "\"Where the state ceaseth, there only commenceth the man who is not superfluous.\"",
+        "ru": "\"Только там, где кончается государство, начинается человек — не лишний, но необходимый\"."
+    },
+    {
+        "id": "M3030_S0020_G0020_001_pascal",
+        "jp": "うーむ。",
+        "en": "Mmmm. I see.",
+        "ru": "Мммм. Понятно."
+    },
+    {
+        "id": "M3030_S0020_G0030_001_pascal",
+        "jp": "どうもこのニーチェという人間の考えは深いですね。",
+        "en": "It seems this Nietzsche was quite the profound thinker.",
+        "ru": "Кажется, этот Ницше был довольно глубоким мыслителем."
+    },
+    {
+        "id": "M3030_S0020_G0040_001_pascal",
+        "jp": "深すぎて、私にはまだ変人にしか見えませんが……",
+        "en": "Or perhaps he skipped right past profound and went straight to crazy instead.",
+        "ru": "Или, возможно, он пропустил всю глубину сей мысли и просто обезумел."
+    },
+    {
+        "id": "M3030_S0020_G0050_001_pascal",
+        "jp": "さて……",
+        "en": "Ah, well. Enough of that.",
+        "ru": "Ой, ладно. Закончим на этом."
+    },
+    {
+        "id": "M3030_S0020_G0060_001_pascal",
+        "jp": "本だけではなく、私もこの世界を見て回らないといけませんね……",
+        "en": "I'd best go see the world for myself instead of burying my head in books.",
+        "ru": "Пожалуй, лучше выйти в свет, чем сидеть с головой в книгах."
+    },
+    {
+        "id": "M3030_S0020_G0070_001_child",
+        "jp": "ねぇねぇ！パスカルーおジチゃん。あそンデー！",
+        "en": "Uncle Pascal, Uncle Pascal! Play with us!",
+        "ru": "Дядя Паскаль, дядя Паскаль! Поиграй с нами!"
+    },
+    {
+        "id": "M3030_S0020_G0080_001_children",
+        "jp": "あそンデー！",
+        "en": "Yeah! Come on and play!",
+        "ru": "Да! Давай поиграем!"
+    },
+    {
+        "id": "M3030_S0020_G0090_001_pascal",
+        "jp": "おやおや。ずいぶん言葉が上手になりましたね。",
+        "en": "Well, look at you! Your speaking has improved so much.",
+        "ru": "Только взгляните на себя! Ваша речь стала на порядок лучше!"
+    },
+    {
+        "id": "M3030_S0020_G0100_001_pascal",
+        "jp": "でも、まだ勉強が終わっていないじゃないですか。",
+        "en": "But I fear you still haven't finished your studies, have you?",
+        "ru": "Но я боюсь, что вы ещё не закончили со своей учёбой, не так ли?"
+    },
+    {
+        "id": "M3030_S0020_G0110_001_pascal",
+        "jp": "今日は植物の図鑑を読んで覚える、って約束でしたよね？",
+        "en": "You promised to read and memorize that botanical field guide, remember?",
+        "ru": "Вы обещали прочитать и запомнить это руководство по ботанике, помните?"
+    },
+    {
+        "id": "M3030_S0020_G0120_001_child",
+        "jp": "ジャあ、勉強が終ワッタら、アソんでクレルー？",
+        "en": "But you'll play with us when we're done, right?",
+        "ru": "Но ты поиграешь с нами, когда мы закончим, да?"
+    },
+    {
+        "id": "M3030_S0020_G0130_001_children",
+        "jp": "アソんでクレルー？",
+        "en": "Yeah, promise us!",
+        "ru": "Да, пообещай нам!"
+    },
+    {
+        "id": "M3030_S0020_G0140_001_pascal",
+        "jp": "もちろん遊びますよ。",
+        "en": "Of course I will! You have my word.",
+        "ru": "Конечно же! Даю слово."
+    },
+    {
+        "id": "M3030_S0020_G0150_001_pascal",
+        "jp": "パスカルおじちゃんは、ウソをつきませんからね。",
+        "en": "And Uncle Pascal would never lie and break his word.",
+        "ru": "И дядя Паскаль никогда не соврёт и не нарушит своё обещание."
+    },
+    {
+        "id": "M3030_S0020_G0160_001_pascal",
+        "jp": "ウソをつく子は、悪い機械生命体になっちゃいますよ？",
+        "en": "Because children who lie grow up to be mean, evil machines!",
+        "ru": "Потому что дети, которые лгут, становятся очень-очень злыми машинами!"
+    },
+    {
+        "id": "M3030_S0020_G0170_001_child",
+        "jp": "きャー！",
+        "en": "Aaaaah!",
+        "ru": "А-а-а-а-а-а!"
+    },
+    {
+        "id": "M3030_S0020_G0180_001_children",
+        "jp": "きャー！",
+        "en": "Aaaaah!",
+        "ru": "А-а-а-а-а-а!"
+    },
+    {
+        "id": "M3030_S0020_G0190_001_pascal",
+        "jp": "……ん？何でしょうか？",
+        "en": "Hmmm? What's that?",
+        "ru": "Хм? Что это?"
+    }
+]

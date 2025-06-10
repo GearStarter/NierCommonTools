@@ -1,0 +1,380 @@
+[
+    {
+        "id": "M6010_S0030_G0000_300_cmd",
+        "jp": "地上からの連絡はどんな些細なことでも構わん、すぐに報告しろ！",
+        "en": "No matter how trivial it seems, report back any information from Earth at once!",
+        "ru": "Не важно, насколько это будет незначительно, сразу же докладывайте о любых происшествиях на Земле!"
+    },
+    {
+        "id": "M6010_S0030_G0010_300_cmd",
+        "jp": "……お前達、こんなところで何をしている？",
+        "en": "What are you doing here?",
+        "ru": "Что вы здесь делаете?"
+    },
+    {
+        "id": "M6010_S0030_G0020_300_cmd",
+        "jp": "緊急事態だ。\\nすぐに現地に向かえ。",
+        "en": "We're in emergency protocol! Get yourself to the field immediately!",
+        "ru": "У нас экстренная ситуация! Немедленно отправляйтесь на поле боя!"
+    },
+    {
+        "id": "M6010_S0040_G0000_300_cmd",
+        "jp": "2B……無事でよかった。",
+        "en": "I'm glad you're safe, 2B.",
+        "ru": "Я рада, что ты цела, 2B."
+    },
+    {
+        "id": "M6010_S0040_G0010_300_cmd",
+        "jp": "作戦にあたっていた仲間の内、数人とまだ連絡がとれない。\\n……悪いが急いで捜索に当たってくれ。",
+        "en": "However, we lost contact with some of our units while out on a mission. Do you think you could go look for them?",
+        "ru": "Однако мы потеряли контакт с некоторыми нашими подразделениями во время задания. Как думаешь, сможешь найти их?"
+    },
+    {
+        "id": "M6010_S0040_G0020_300_cmd",
+        "jp": "今回の被害は甚大だ。\\nまたあんな奴がきたら……厄介だな……",
+        "en": "We've taken serious casualties; we can't withstand another attack of the same scale.",
+        "ru": "Мы понесли серьёзные потери; мы не выдержим новых атак подобного масштаба."
+    },
+    {
+        "id": "M6010_S0050_G0000_300_cmd",
+        "jp": "９Ｓ！２Ｂが敵の罠に嵌められた！\\n至急支援にあたってくれ！",
+        "en": "9S! 2B's been trapped by the enemy! Go help her right away!",
+        "ru": "9S! 2B попала в ловушку врага! Немедленно отправляйся ей на помощь!"
+    },
+    {
+        "id": "M6010_S0050_G0010_300_cmd",
+        "jp": "２Ｂを頼んだぞ……",
+        "en": "Her life is in your hands...",
+        "ru": "Её жизнь в твоих руках..."
+    },
+    {
+        "id": "M6010_S0060_G0000_300_cmd",
+        "jp": "ヨルハ部隊は全員戦闘配置につけ！\\n地上の様子はなんでもいい、すぐに報告せよ！！",
+        "en": "All YoRHa to battle stations! Stay alert and report any unusual Earth-based activity at once!",
+        "ru": "Всем YoRHa на боевых постах! Оставайтесь начеку и немедленно докладывайте о любой необычной активности на Земле!"
+    },
+    {
+        "id": "M6010_S0060_G0010_300_cmd",
+        "jp": "くそっ……どうなってるんだ……？",
+        "en": "Dammit! What's going on?",
+        "ru": "Чёрт! Что происходит?"
+    },
+    {
+        "id": "M6010_S0070_G0070_300_cmd",
+        "jp": "作戦は順調だが、油断するなよ。",
+        "en": "The mission is going well, but stay vigilant.",
+        "ru": "Задание успешно продвигается, но ослабляйте бдительность."
+    },
+    {
+        "id": "M6010_S0070_G0080_300_cmd",
+        "jp": "今日のために我々は存在してきた。\\n貴様の価値を示してみろ。",
+        "en": "All of our existence has been leading up to this day. Show them what you're capable of!",
+        "ru": "Мы жили лишь ради этого дня. Покажите им, на что вы способны!"
+    },
+    {
+        "id": "M6010_S0070_G0090_300_cmd",
+        "jp": "この作戦、必ず成功させるぞ。",
+        "en": "Do not let this mission fail.",
+        "ru": "Не допустите провала операции."
+    },
+    {
+        "id": "M6010_S0020_G0000_300_cmd",
+        "jp": "どうした、問題発生か？",
+        "en": "Is something wrong?",
+        "ru": "Что-то не так?"
+    },
+    {
+        "id": "M6010_S0020_G0010_300_cmd",
+        "jp": "何もないなら、いい。\\n引き続き任務にあたってくれ。",
+        "en": "...No? Good. Then carry on with your mission.",
+        "ru": "...Нет? Хорошо. Тогда продолжай своё задание."
+    },
+    {
+        "id": "M6010_S0020_G0020_300_cmd",
+        "jp": "任務は順調か？",
+        "en": "How is your mission progressing?",
+        "ru": "Как продвигается задание?"
+    },
+    {
+        "id": "M6010_S0010_G0000_300_cmd",
+        "jp": "お前達、任務はどうした？\\n目的地のデータは送ってあるだろう。",
+        "en": "Why are you still here? You should have the destination data for your next mission.",
+        "ru": "Почему ты ещё здесь? У тебя уже должны быть данные о месте назначения твоего следующего задания."
+    },
+    {
+        "id": "M6010_S0010_G0010_300_cmd",
+        "jp": "いつまでそこに立っているつもりだ。\\n我々の存在意義を忘れるな。",
+        "en": "Have you forgotten your purpose? How long are you planning to stand there?",
+        "ru": "Вы забыли, что нужно делать? Как долго вы собираетесь оставаться здесь?"
+    },
+    {
+        "id": "M6010_S0030_G0030_300_op60",
+        "jp": "え、お二人は今地上のはずじゃ……\\n困ります！命令違反で報告なんて嫌ですからね！",
+        "en": "What are you guys still doing here? You should have made planetfall already! Come on, don't make me report you!",
+        "ru": "Что вы здесь делаете? Вы должны уже были высадиться на планету! Бросьте, не заставляйте меня на Вас жаловаться!"
+    },
+    {
+        "id": "M6010_S0030_G0040_300_op60",
+        "jp": "何してるんですか！\\n至急作戦行動に戻ってください！",
+        "en": "What are you doing? Get back to the mission immediately!",
+        "ru": "Что вы делаете? Немедленно возвращайтесь к заданию!"
+    },
+    {
+        "id": "M6010_S0040_G0030_300_op60",
+        "jp": "すみません……9Sの情報はまだ入手できてないんです……",
+        "en": "I'm sorry, but we don't have any new intel on 9S.",
+        "ru": "Прости, но у нас нет какой-либо новой информации о 9S."
+    },
+    {
+        "id": "M6010_S0040_G0040_300_op60",
+        "jp": "2B、無茶はしないでくださいね。",
+        "en": "Don't do anything rash, okay, 2B?",
+        "ru": "Не поступай необдуманно, хорошо, 2B?"
+    },
+    {
+        "id": "M6010_S0050_G0020_300_op60",
+        "jp": "９Ｓ、どうか、２Ｂを……",
+        "en": "9S, please take care of 2B...",
+        "ru": "9S, прошу, позаботься о 2B..."
+    },
+    {
+        "id": "M6010_S0050_G0030_300_op60",
+        "jp": "２Ｂ……無事でいてください……",
+        "en": "Please be safe, 2B...",
+        "ru": "Пожалуйста, спаси 2B..."
+    },
+    {
+        "id": "M6010_S0060_G0020_300_op60",
+        "jp": "無事でよかった……",
+        "en": "I'm glad you're safe.",
+        "ru": "Я рада, что ты цела."
+    },
+    {
+        "id": "M6010_S0060_G0030_300_op60",
+        "jp": "今地上との通信がすごく不安定になってます。\\nあまり無茶はしないでくださいね。",
+        "en": "Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?",
+        "ru": "Связь с Землёй крайне нестабильна. Пожалуйста, не действуйте опрометчиво, хорошо?"
+    },
+    {
+        "id": "M6010_S0060_G0040_300_op60",
+        "jp": "お気をつけて……！",
+        "en": "Be careful!",
+        "ru": "Будьте осторожны!"
+    },
+    {
+        "id": "M6010_S0070_G0100_300_op60",
+        "jp": "ちょっと！任務はどうしたんですか！？\\n命令違反で怒られますよ！",
+        "en": "Hey, why are you still here? Do you want to get caught for violating orders!?",
+        "ru": "Эй, почему вы ещё здесь? Хотите, чтобы вас арестовали за невыполнение приказов?!"
+    },
+    {
+        "id": "M6010_S0070_G0110_300_op60",
+        "jp": "もう！まだこんなところにいるんですか！\\n早く地上に向かってください！",
+        "en": "Are you still here? Hurry up and get to Earth!",
+        "ru": "Вы всё ещё здесь? Поторопитесь и отправляйтесь на Землю!"
+    },
+    {
+        "id": "M6010_S0070_G0120_300_op60",
+        "jp": "司令官に誤魔化しておかなきゃ……",
+        "en": "I'll make up some sort of excuse for the Commander.",
+        "ru": "Я придумаю какое-нибудь оправдание для Командора."
+    },
+    {
+        "id": "M6010_S0020_G0030_300_op60",
+        "jp": "おかえりなさい！\\nねぇねぇ、新しい地上のデータ、見せてください！",
+        "en": "Hey, welcome back! ...So, um, can you show me the new data you brought?",
+        "ru": "Эй, с возвращением! ...Так, эм, можете показать мне новые данные, которые вы добыли?"
+    },
+    {
+        "id": "M6010_S0020_G0040_300_op60",
+        "jp": "ふむふむ…………\\n…………",
+        "en": "Hmmm...",
+        "ru": "Хммм..."
+    },
+    {
+        "id": "M6010_S0010_G0020_300_op60",
+        "jp": "お疲れ様です！\\n調子はどうですか？",
+        "en": "Hey there! How's it going?",
+        "ru": "Привет! Как дела?"
+    },
+    {
+        "id": "M6010_S0010_G0030_300_op60",
+        "jp": "綺麗な花とか、大きな木とか、可愛い動物とか……いいですよね……",
+        "en": "Majestic trees... Pretty flowers... Cute little animals... I love it all!",
+        "ru": "Величественные деревья... Красивые цветы... Милые животные... Я люблю их всех!"
+    },
+    {
+        "id": "M6010_S0010_G0040_300_op60",
+        "jp": "えっと、何か困ったことでもありました？\\nもしかして、情報送り忘れちゃったとか……",
+        "en": "Um, is there a problem? Did I forget to upload intel or something?",
+        "ru": "Эм, есть проблемы? Я забыла загрузить информацию или что-то ещё?"
+    },
+    {
+        "id": "M6010_S0010_G0050_300_op60",
+        "jp": "どうしよう……また怒られる……",
+        "en": "Uh oh. I'm gonna get yelled at again, huh?",
+        "ru": "Э, ох. На меня снова будут кричать, да?"
+    },
+    {
+        "id": "M6010_S0030_G0050_300_op210",
+        "jp": "……何故ここに？\\nあなた達には地上での任務が言い渡されているはず。",
+        "en": "Your mission is on Earth. Not here.",
+        "ru": "Ваше задание проходит на Земле. Не здесь."
+    },
+    {
+        "id": "M6010_S0030_G0060_300_op210",
+        "jp": "ここにいるのは命令違反です。",
+        "en": "Your continued presence here is a gross violation of orders.",
+        "ru": "Ваше присутствие здесь является грубым нарушением приказов."
+    },
+    {
+        "id": "M6010_S0030_G0070_300_op210",
+        "jp": "あなた達は今ここにいるべきではないはずです。\\nただちに任務に戻ってください。",
+        "en": "Get back to your mission at once!",
+        "ru": "Сейчас же возвращайтесь к своему заданию!"
+    },
+    {
+        "id": "M6010_S0040_G0050_300_op210",
+        "jp": "オペレーター２１Ｏから９Ｓ。\\n……９Ｓ、応答を。",
+        "en": "Operator 21O to 9S. Do you read me?",
+        "ru": "Оператор 21O вызывает 9S. Приём?"
+    },
+    {
+        "id": "M6010_S0040_G0060_300_op210",
+        "jp": "……繰り返す。\\nオペレーター２１Ｏから９Ｓ……応答せよ……",
+        "en": "Repeat, this is Operator 21O to 9S. Do you read, 9S?",
+        "ru": "Повторяю, оператор 21O вызывает 9S. Приём, 9S?"
+    },
+    {
+        "id": "M6010_S0050_G0040_300_op210",
+        "jp": "……廊下に出て、司令室の反対にサーバー管理室があります。",
+        "en": "If you head down the corridor, you'll find the server administration room opposite the command room.",
+        "ru": "Если вы пройдёте вниз по коридору, то найдёте серверную, напротив командного зала."
+    },
+    {
+        "id": "M6010_S0050_G0050_300_op210",
+        "jp": "そこなら、ここからでも地上へ干渉することができるでしょう。",
+        "en": "In that room, you can interact with systems on Earth even from up here in the Bunker.",
+        "ru": "Серверная позволяет взаимодействовать с системами на Земле, даже отсюда, из Бункера."
+    },
+    {
+        "id": "M6010_S0050_G0060_300_op210",
+        "jp": "修復直後の過度な活動は推奨されません。\\n無茶な行動は慎んでください。",
+        "en": "Excessive activity after repairs isn't recommended. Please refrain from overexerting yourself.",
+        "ru": "Чрезмерная активность сразу после ремонта не рекомендуется. Пожалуйста, воздержись от перегрузок."
+    },
+    {
+        "id": "M6010_S0060_G0050_300_op210",
+        "jp": "……あなたは無謀な行動をとりやすい傾向があります。\\nくれぐれも気をつけてください。",
+        "en": "You tend to act recklessly. Please be cautious going forward.",
+        "ru": "Вы склонны действовать безрассудно. Прошу, будьте осторожны."
+    },
+    {
+        "id": "M6010_S0060_G0060_300_op210",
+        "jp": "……気をつけて。",
+        "en": "Be careful.",
+        "ru": "Будьте осторожны!"
+    },
+    {
+        "id": "M6010_S0070_G0130_300_op210",
+        "jp": "どうしてここへ？何か問題でも？",
+        "en": "Why are you here? Is there a problem?",
+        "ru": "Почему вы ещё здесь? Какие-то проблемы?"
+    },
+    {
+        "id": "M6010_S0070_G0140_300_op210",
+        "jp": "準備ができたら、任務に戻ってください。",
+        "en": "Return to your mission once you're ready.",
+        "ru": "Возвращайтесь к своему заданию, как только будете готовы."
+    },
+    {
+        "id": "M6010_S0020_G0050_300_op210",
+        "jp": "今日はどういった要件で？",
+        "en": "Yes? What do you need?",
+        "ru": "Да? Вам что-то нужно?"
+    },
+    {
+        "id": "M6010_S0020_G0060_300_op210",
+        "jp": "エイリアンアラートの解析……なかなか進みません。",
+        "en": "I'm busy trying to analyze the alien signal—but I'm not really getting anywhere.",
+        "ru": "Я занята, пытаюсь проанализировать сигнал инопланетян, но у меня ничего не получается."
+    },
+    {
+        "id": "M6010_S0020_G0070_300_op210",
+        "jp": "地上への興味は尽きませんね。\\n直接出向きたいとは思いませんが……",
+        "en": "I have an almost...insatiable interest in Earth, even though I'd never go there myself.",
+        "ru": "У меня... неутолимый интерес к Земле, хоть я никогда там лично не бывала."
+    },
+    {
+        "id": "M6010_S0020_G0080_300_op210",
+        "jp": "私はオペレーターモデルですから、こうやってデータを眺めている時が\\n一番落ち着きます。",
+        "en": "I'm an operator, you see. I'm more comfortable examining data in a setting such as this.",
+        "ru": "Я оператор, как видишь. Обработка данных помогает мне успокоиться."
+    },
+    {
+        "id": "M6010_S0010_G0060_300_op210",
+        "jp": "何か用ですか？\\n要件は手短にお願いします。",
+        "en": "How may I assist you?\\n...Please keep it brief.",
+        "ru": "Чем могу вам помочь? ...Прошу, только побыстрее."
+    },
+    {
+        "id": "M6010_S0010_G0070_300_op210",
+        "jp": "まだこんなところにいるんですか？\\n早く任務に戻ってください。",
+        "en": "Are you still here? You should return to your duties.",
+        "ru": "Вы ещё здесь? Вам следует вернуться к своим обязанностям."
+    },
+    {
+        "id": "M6010_S0010_G0080_300_op210",
+        "jp": "命令違反で通報しますよ。",
+        "en": "Now get going before I report you for disobeying orders.",
+        "ru": "Теперь идите, пока я не доложила о вас начальству."
+    },
+    {
+        "id": "M6010_S0020_G1230_300_bs",
+        "jp": "メンテナンスなら任せてください。\\n今日はどこを強化しますか？",
+        "en": "Need some maintenance? Maybe an enhancement or two? Lemme know!",
+        "ru": "Требуется техобслуживание? Может улучшение или два? Если что, сообщите!"
+    },
+    {
+        "id": "M6012_S0022_G1250_300_bs",
+        "jp": "機体の性能に物足りなさを感じたら、いつでも来てください。",
+        "en": "If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.",
+        "ru": "Если вы чувствуете неудовлетворённость эффективностью своего тела, просто приходите! Мы вмиг всё поправим."
+    },
+    {
+        "id": "M6011_S0021_G1240_300_bs",
+        "jp": "メンテナンスをお望みですね？",
+        "en": "Do you need some maintenance?",
+        "ru": "Вам требуется какое-то техобслуживание?"
+    },
+    {
+        "id": "M6012_S0022_G1250_300_bs",
+        "jp": "機体の性能に物足りなさを感じたら、いつでも来てください。",
+        "en": "If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.",
+        "ru": "Если вы чувствуете неудовлетворённость эффективностью своего тела, просто приходите! Мы вмиг всё поправим."
+    },
+    {
+        "id": "M6010_S0010_G1230_300_bs",
+        "jp": "機体のメンテナンスなら任せてください。",
+        "en": "Need any maintenance done? You've come to the right person!",
+        "ru": "Требуется техобслуживание? Это ко мне!"
+    },
+    {
+        "id": "M6010_S0010_G1250_300_bs",
+        "jp": "スキャナーモデルの中でも、僕の腕は一級品ですからね。\\n頼りにしてくれて構いませんよ。",
+        "en": "My skills are first-class, even for a scanner model. You can count on me!",
+        "ru": "Я обладаю выдающимися навыками, даже среди других моделей типа S. Можешь рассчитывать на меня!"
+    },
+    {
+        "id": "M6010_S0010_G1240_300_bs",
+        "jp": "メンテナンスをお望みですね？",
+        "en": "Need any maintenance done?",
+        "ru": "Требуется провести какое-то техобслуживание?"
+    },
+    {
+        "id": "M6010_S0010_G1250_300_bs",
+        "jp": "スキャナーモデルの中でも、僕の腕は一級品ですからね。\\n頼りにしてくれて構いませんよ。",
+        "en": "My skills are first-class, even for a scanner model. You can count on me!",
+        "ru": "Я обладаю выдающимися навыками, даже среди других моделей типа S. Можешь рассчитывать на меня!"
+    }
+]

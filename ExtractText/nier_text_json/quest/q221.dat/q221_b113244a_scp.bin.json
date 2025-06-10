@@ -1,0 +1,476 @@
+[
+    {
+        "id": "M5221_S0010_G0000_001_robochild",
+        "jp": "ネーネー！お姉チャーン！",
+        "en": "Sis! Hey, Big Sis!",
+        "ru": "Сестрёнка! Эй, сестрица!"
+    },
+    {
+        "id": "M5221_S0010_G0010_001_a2",
+        "jp": "お、おねぇちゃん！？",
+        "en": "Huh?",
+        "ru": "А?"
+    },
+    {
+        "id": "M5221_S0010_G0020_001_robochildren",
+        "jp": "アソンデー！遊んデー！",
+        "en": "C'mon, Big Sis! Play with us!",
+        "ru": "Ну же, сестрица! Поиграй с нами!"
+    },
+    {
+        "id": "M5221_S0010_G0030_001_a2",
+        "jp": "機械生命体と遊ぶ趣味なんかない。",
+        "en": "I don't play with machines. Now get lost.",
+        "ru": "Я не играю с машинами. А теперь проваливайте."
+    },
+    {
+        "id": "M5221_S0010_G0040_001_robochildren",
+        "jp": "ヤーダー！アソンデー！アソンデー！",
+        "en": "C'moooooon! I wanna plaaaaay with you!",
+        "ru": "Ну же-е-е! Я хочу поигра-а-ать с тобой!"
+    },
+    {
+        "id": "M5221_S0010_G0050_001_a2",
+        "jp": "私はお前たちの敵のアンドロイドだ。",
+        "en": "I'm an android, weirdo. I'm your enemy.",
+        "ru": "Я андроид, балбес. Я твой враг."
+    },
+    {
+        "id": "M5221_S0010_G0060_001_a2",
+        "jp": "言う事きかないとぶっ壊すぞ！",
+        "en": "So do what I say before I kick your sorry ass!",
+        "ru": "Поэтому делай что велено или я надеру твой зад!"
+    },
+    {
+        "id": "M5221_S0010_G0070_001_robochildren",
+        "jp": "キャー！タノシー！",
+        "en": "Tee hee hee! You're funny.",
+        "ru": "Хи-хи-хи! А ты смешная."
+    },
+    {
+        "id": "M5221_S0010_G0080_001_a2",
+        "jp": "何で喜ぶんだ……",
+        "en": "That's not supposed to make you happy!",
+        "ru": "Это не должно было тебя развеселить!"
+    },
+    {
+        "id": "M5221_S0010_G0090_001_robochild",
+        "jp": "ねえネェ、おねえチャン。オモチャ作ってー！",
+        "en": "Big Sis! Make us something to play on, Big Sis!",
+        "ru": "Сестрица! Принеси что-нибудь для игр, сестрица!"
+    },
+    {
+        "id": "M5221_S0010_G0100_001_a2",
+        "jp": "オモチャ！？",
+        "en": "What? No.",
+        "ru": "Чего? Ну уж нет."
+    },
+    {
+        "id": "M5221_S0010_G0110_001_robochild",
+        "jp": "遊ぶのには遊具が必要デショー！",
+        "en": "But we need something to play on!",
+        "ru": "Но нам нужно что-нибудь для игры!"
+    },
+    {
+        "id": "M5221_S0010_G0120_001_robochildren",
+        "jp": "必要デショー！",
+        "en": "Yeah! It's boooooring right now!",
+        "ru": "Ага! Сейчас так ску-у-учно!"
+    },
+    {
+        "id": "M5221_S0010_G0130_001_a2",
+        "jp": "何で私が……",
+        "en": "Seriously...?",
+        "ru": "Серьёзно?.."
+    },
+    {
+        "id": "M5221_S0010_G0140_001_robochild",
+        "jp": "コノ村のドウグ屋さんで売ってるから買ッテキテー！",
+        "en": "They sell stuff in the tool shop, so go buy us something!",
+        "ru": "В магазине инструментов продаётся куча всяких штук, сходи и купи нам что-нибудь!"
+    },
+    {
+        "id": "M5221_S0010_G0150_001_robochildren",
+        "jp": "買ッテキテー！",
+        "en": "Yeah! Buy something for us!",
+        "ru": "Ага! Купи нам что-нибудь!"
+    },
+    {
+        "id": "M5221_S0010_G0160_001_sele",
+        "jp": "買ってきてやる。",
+        "en": "Purchase something for the children.",
+        "ru": "Купить что-нибудь детишкам."
+    },
+    {
+        "id": "M5221_S0010_G0170_001_sele",
+        "jp": "買わない。",
+        "en": "Keep your money.",
+        "ru": "Не тратить деньги."
+    },
+    {
+        "id": "M5221_S0010_G0180_001_a2",
+        "jp": "わかった……わかったから……",
+        "en": "All right, all right! Just quit bugging me already.",
+        "ru": "Ладно-ладно! Хватит уже шуметь."
+    },
+    {
+        "id": "M5221_S0010_G0190_001_robochildren",
+        "jp": "キャー！ヤッター！",
+        "en": "Yaaaaaay! We did it!",
+        "ru": "Йе-е-е! Получилось!"
+    },
+    {
+        "id": "M5221_S0010_G0200_001_a2",
+        "jp": "……そんな事を手伝う義理はない。",
+        "en": "I'm not buying you squat.",
+        "ru": "Я не собираюсь вам ничего покупать."
+    },
+    {
+        "id": "M5221_S0010_G0210_001_robochildren",
+        "jp": "ヤダー！買ってきてー！",
+        "en": "Nooooo! You have tooooo!",
+        "ru": "Не-е-ет! Ты обязана!"
+    },
+    {
+        "id": "M5221_S0010_G0220_001_a2",
+        "jp": "クソッ……",
+        "en": "Dammit...",
+        "ru": "Проклятие..."
+    },
+    {
+        "id": "M5221_S0000_G0000_300_robochild",
+        "jp": "オモチャマダー？",
+        "en": "Did you get us anything yet?",
+        "ru": "Ты что-то нам принесла?"
+    },
+    {
+        "id": "M5221_S0000_G0010_300_robochildren",
+        "jp": "マダー？",
+        "en": "Still nothing!?",
+        "ru": "Совсем ничего?!"
+    },
+    {
+        "id": "M5221_S0000_G0000_300_robochild",
+        "jp": "オモチャマダー？",
+        "en": "Did you get us anything yet?",
+        "ru": "Ты что-то нам принесла?"
+    },
+    {
+        "id": "M5221_S0000_G0010_300_robochildren",
+        "jp": "マダー？",
+        "en": "Still nothing!?",
+        "ru": "Совсем ничего?!"
+    },
+    {
+        "id": "M5221_S0010_G0230_001_robotoolshop",
+        "jp": "イラッシャイ。",
+        "en": "Welcome!",
+        "ru": "Добро пожаловать!"
+    },
+    {
+        "id": "M5221_S0010_G0240_001_robotoolshop",
+        "jp": "……え？コドモの遊具？",
+        "en": "...You're looking for play equipment for the children?",
+        "ru": "...Ищете что-нибудь для детской площадки?"
+    },
+    {
+        "id": "M5221_S0010_G0250_001_robotoolshop",
+        "jp": "ああ、今、品切れしてイルンですよ。",
+        "en": "I'm afraid we don't have anything like that in stock at the moment.",
+        "ru": "К сожалению, в настоящее время у меня нет ничего подобного в ассортименте."
+    },
+    {
+        "id": "M5221_S0010_G0260_001_robotoolshop",
+        "jp": "材料さえアレバ作れるんですけどね……",
+        "en": "However, I'm sure I could build something with the proper materials.",
+        "ru": "Однако я могу сделать кое-что, если у меня будут необходимые материалы."
+    },
+    {
+        "id": "M5221_S0010_G0270_001_robotoolshop",
+        "jp": "材料はココに書いてるんですけどね……",
+        "en": "Tell you what—here's a list of what I'll need.",
+        "ru": "В общем, вот... здесь список того, что мне необходимо."
+    },
+    {
+        "id": "M5221_S0010_G0280_001_robotoolshop",
+        "jp": "この材料を持ってきてイタダケタラ、子供たちを幸せに\\n出来るんですけどね……",
+        "en": "Bring me those materials and I can get to work.",
+        "ru": "Принесите мне эти материалы и я смогу взяться за работу."
+    },
+    {
+        "id": "M5221_S0010_G0290_001_a2",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5221_S0010_G0300_001_a2",
+        "jp": "この村の住人はみんな押し付けがましいのか？",
+        "en": "Everyone around here is weirdly pushy.",
+        "ru": "Все здесь необычайно назойливы."
+    },
+    {
+        "id": "M5221_S0010_G0310_001_robotoolshop",
+        "jp": "いえいえそんな。滅相もナイ……",
+        "en": "Don't be absurd! We are not.",
+        "ru": "Что за вздор! Мы не такие."
+    },
+    {
+        "id": "M5221_S0010_G0320_001_a2",
+        "jp": "どうせ断ってもしつこく言ってくるんだろう……集めてくるよ。",
+        "en": "Fine, I'll do it. You'll just bug me about it every waking minute of my life otherwise.",
+        "ru": "Ладно, я сделаю это. Иначе ты наверняка будешь приставать ко мне каждую минуту."
+    },
+    {
+        "id": "M5221_S0010_G0330_001_robotoolshop",
+        "jp": "ありがトウゴザいます！",
+        "en": "An excellent choice!",
+        "ru": "Прекрасный выбор!"
+    },
+    {
+        "id": "M5221_S0010_G0340_001_robotoolshop",
+        "jp": "遊具に必要なザイリョウは、遊園地で集められるはずです。",
+        "en": "You should be able to find what you need at the amusement park.",
+        "ru": "Всё, что необходимо, вы сможете найти в парке развлечений."
+    },
+    {
+        "id": "M5221_S0010_G0350_001_a2",
+        "jp": "は！？クソ遠いな……",
+        "en": "Oh, hell. That's forever from here!",
+        "ru": "Вот чёрт. Это ж так далеко отсюда!"
+    },
+    {
+        "id": "M5221_S0010_G0360_001_robotoolshop",
+        "jp": "よろしくお願いします。",
+        "en": "Safe travels!",
+        "ru": "Счастливого пути!"
+    },
+    {
+        "id": "M6050_S0010_G1920_300_ps",
+        "jp": "好きなダケ見ていってクレ。",
+        "en": "Look around as much as you like.",
+        "ru": "Можешь осматриваться, сколько пожелаешь."
+    },
+    {
+        "id": "M5221_S0010_G0380_001_robotoolshop",
+        "jp": "遊具に必要なザイリョウは、遊園地で集められるはずです。",
+        "en": "You should be able to find what you need at the amusement park.",
+        "ru": "Всё, что необходимо, вы сможете найти в парке развлечений."
+    },
+    {
+        "id": "M5221_S0010_G0390_001_robotoolshop",
+        "jp": "ヨロシクお願いします。",
+        "en": "Safe travels!",
+        "ru": "Счастливого пути!"
+    },
+    {
+        "id": "M5221_S0010_G0370_001_a2",
+        "jp": "全く……先が思いやられる。",
+        "en": "This is going to suck...",
+        "ru": "Вот отстой..."
+    },
+    {
+        "id": "M5221_S0020_G0000_001_a2",
+        "jp": "よし……",
+        "en": "Finally...",
+        "ru": "Наконец-то..."
+    },
+    {
+        "id": "M5221_S0020_G0010_001_a2",
+        "jp": "これで、パスカルの村の遊具に必要な材料は揃ったな。",
+        "en": "This should be everything I need to make those bratty kids happy.",
+        "ru": "Пожалуй, этого должно хватить, чтобы развеселить тех проказников."
+    },
+    {
+        "id": "M5221_S0020_G0020_001_a2",
+        "jp": "道具屋の所に行くか。",
+        "en": "Better take it to that creep in the tool shop...",
+        "ru": "Надо бы всё забрать и отправиться в магазин инструментов..."
+    },
+    {
+        "id": "M5221_S0030_G0000_001_robotoolshop",
+        "jp": "ああ、オモチャのザイリョウを集めてきて下さったんですね？",
+        "en": "Did you find the materials? Excellent!",
+        "ru": "Вы нашли материалы? Отлично!"
+    },
+    {
+        "id": "M5221_S0030_G0010_001_robotoolshop",
+        "jp": "さっそく",
+        "en": "Just give me a moment...",
+        "ru": "Подождите немного..."
+    },
+    {
+        "id": "M5221_S0030_G0011_001_robotoolshop",
+        "jp": "５分後……",
+        "en": "5 minutes later...",
+        "ru": "5 минут спустя..."
+    },
+    {
+        "id": "M5221_S0030_G0020_001_robotoolshop",
+        "jp": "作って、設置してきました。",
+        "en": "Done! I've built what you requested and installed it where the children like to play.",
+        "ru": "Готово! Я построил то, что вы просили, и установил это на детской площадке."
+    },
+    {
+        "id": "M5221_S0030_G0030_001_a2",
+        "jp": "早いな。",
+        "en": "That was fast.",
+        "ru": "Это было быстро."
+    },
+    {
+        "id": "M5221_S0010_G0141_001_robochild",
+        "jp": "そういえば子供達がオレイを言いたいそうです。",
+        "en": "By the way, the children said they wanted to thank you personally.",
+        "ru": "Кроме того, дети сказали, что хотят лично тебя поблагодарить."
+    },
+    {
+        "id": "M5221_S0030_G0040_001_robotoolshop",
+        "jp": "子供達は村の最上部、スベリ台の一番上にいるので、\\n良ければ遊んでやってください。",
+        "en": "They're at the top of the village playing near the slide. They'll be happy to see you, I'm sure.",
+        "ru": "Они в верхней части деревни, играют около горки. Уверен, они будут рады тебя видеть."
+    },
+    {
+        "id": "M5221_S0030_G0050_001_robochild",
+        "jp": "あ、オネエチャンだ！",
+        "en": "Hey, it's Big Sis!",
+        "ru": "Эй, это же сестрица!"
+    },
+    {
+        "id": "M5221_S0030_G0060_001_robochildren",
+        "jp": "オネエチャンダ！",
+        "en": "Big Sis!",
+        "ru": "Сестрица!"
+    },
+    {
+        "id": "M5221_S0030_G0070_001_robochild",
+        "jp": "オユウグを作ってくれてアリガトー！",
+        "en": "Thanks for building this, Big Sis!",
+        "ru": "Спасибо, что построила это для нас, сестрица!"
+    },
+    {
+        "id": "M5221_S0030_G0080_001_robochildren",
+        "jp": "アリガトー！！",
+        "en": "Yeah, thanks!",
+        "ru": "Ага, спасибо!"
+    },
+    {
+        "id": "M5221_S0030_G0090_001_a2",
+        "jp": "ああ。",
+        "en": "Uh, sure.",
+        "ru": "Эм, ага."
+    },
+    {
+        "id": "M5221_S0030_G0100_001_robochild",
+        "jp": "ネェネェ、オネエチャン。",
+        "en": "Hey, Big Sis?",
+        "ru": "Эй, сестрица?"
+    },
+    {
+        "id": "M5221_S0030_G0110_001_a2",
+        "jp": "な、何だ？もうお願いは叶えてやっただろう？",
+        "en": "Huh? What now!?",
+        "ru": "Хм? Что теперь?!"
+    },
+    {
+        "id": "M5221_S0030_G0120_001_robochild",
+        "jp": "ううん。コレ、ボクタチからのお礼。",
+        "en": "Um...we just wanna...give you something? 'Cause you helped us?",
+        "ru": "Эм... мы просто хотели... дать тебе кое-что. Ведь ты помогла нам?"
+    },
+    {
+        "id": "M5221_S0030_G0130_001_robochild",
+        "jp": "アリガトウネ！",
+        "en": "It's a thank-you present!",
+        "ru": "Это подарок в благодарность!"
+    },
+    {
+        "id": "M5221_S0030_G0140_001_robochildren",
+        "jp": "アリガトウネ！",
+        "en": "Yeah! Thank you!",
+        "ru": "Ага! Спасибо!"
+    },
+    {
+        "id": "M5221_S0000_G0020_300_robochild",
+        "jp": "オモチャタノシー！",
+        "en": "This is sooo fuuuun!",
+        "ru": "Это та-а-ак ве-е-есело!"
+    },
+    {
+        "id": "M5221_S0000_G0030_300_robochildren",
+        "jp": "タノシー！",
+        "en": "Yaaaaay! Fuuuuuun!",
+        "ru": "Йе-е-е-е! Ве-е-есело!"
+    },
+    {
+        "id": "M5221_S0030_G0150_001_a2",
+        "jp": "……ああ。",
+        "en": "Yep. It's a thrill a minute.",
+        "ru": "Угу. Такой волнующий момент."
+    },
+    {
+        "id": "M5221_S0030_G0170_001_a2",
+        "jp": "わっ……パスカル。",
+        "en": "Argh! Don't do that, Pascal.",
+        "ru": "Аргх! Не делай так, Паскаль!"
+    },
+    {
+        "id": "M5221_S0030_G0180_001_pascal",
+        "jp": "ああ、驚かせてしまってすみません。",
+        "en": "I apologize if I scared you.",
+        "ru": "Прости, если я напугал тебя."
+    },
+    {
+        "id": "M5221_S0030_G0190_001_pascal",
+        "jp": "子供達の為に遊具を作ってくれたそうで、ありがとうございます！",
+        "en": "I heard you built some play equipment for our children and wanted to thank you in person.",
+        "ru": "Я слышал, что ты построила кое-что для детей, и хотел лично тебя отблагодарить."
+    },
+    {
+        "id": "M5221_S0030_G0200_001_a2",
+        "jp": "ああ。",
+        "en": "Don't worry about it.",
+        "ru": "Не стоит себя утруждать."
+    },
+    {
+        "id": "M5221_S0030_G0215_001_pascal",
+        "jp": "あまり……無理しないでくださいね。",
+        "en": "Try not to overwork yourself, all right?",
+        "ru": "Постарайся не перенапрягаться, хорошо?"
+    },
+    {
+        "id": "M5221_S0030_G0220_001_pascal",
+        "jp": "またいつでも、遊びに来てください。",
+        "en": "Feel free to pay us another visit whenever you like.",
+        "ru": "Не стесняйся заглядывать к нам, когда пожелаешь."
+    },
+    {
+        "id": "M5221_S0030_G0160_001_pascal",
+        "jp": "Ａ２さん！",
+        "en": "Ah! A2!",
+        "ru": "О! A2!"
+    },
+    {
+        "id": "M5221_S0030_G0221_001_pascal",
+        "jp": "平和的な機械生命体……か。",
+        "en": "A group of pacifist machines, huh?",
+        "ru": "Группа машин-пацифистов, да?"
+    },
+    {
+        "id": "M5221_S0030_G0222_001_pascal",
+        "jp": "推測：パスカル達と友好関係を結ぶ事でさらなる資材入手が可能。",
+        "en": "Hypothesis: Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials.",
+        "ru": "Предположение: формирование дружеских отношений с Паскалем и поселенцами может помочь единице A2 добыть больше материалов."
+    },
+    {
+        "id": "M5221_S0030_G0223_001_pascal",
+        "jp": "推奨：パスカル村の調査。",
+        "en": "Proposal: Investigate the village.",
+        "ru": "Предложение: исследовать деревню."
+    },
+    {
+        "id": "M5221_S0030_G0224_001_pascal",
+        "jp": "ふん……",
+        "en": "Hmph.",
+        "ru": "Хмпф."
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": "M5801_S0010_G0030_001_robomother",
+        "jp": "しかも、この間よりも強固な電子プロテクトにしたようなんデス。\\nどうか助けてくれマセンカ？",
+        "en": "The lock is even stronger this time—without your aid, I'll probably be standing here forever!",
+        "ru": "В этот раз замок очень сложный, без вашей помощи, я, вероятно, останусь здесь навсегда!"
+    },
+    {
+        "id": "M5801_S0010_G0040_001_sele",
+        "jp": "助ける。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5801_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5801_S0010_G0070_001_robomother",
+        "jp": "どうか鍵を開けて、息子を中から引きずり出してはくれマセンカ？",
+        "en": "Open this lock and get my son out here for me. Please!",
+        "ru": "Откройте этот замок и достаньте моего сына оттуда. Пожалуйста!"
+    },
+    {
+        "id": "M5801_S0010_G0040_001_sele",
+        "jp": "助ける。",
+        "en": "Help the mother.",
+        "ru": "Помочь матери."
+    },
+    {
+        "id": "M5801_S0010_G0050_001_sele",
+        "jp": "断る。",
+        "en": "Refuse.",
+        "ru": "Отказаться."
+    },
+    {
+        "id": "M5801_S0010_G0000_001_robomother",
+        "jp": "ああ！アナタは優しいアンドロイドの方！\\n実はマタ息子が引きこもってしまったんデス。",
+        "en": "Wait! You're that kind android from before! I hate to admit this, but my son has locked himself inside again.",
+        "ru": "Подождите! Вы тот добрый андроид! Не хотелось бы приставать, но мой сын снова закрыл себя внутри."
+    },
+    {
+        "id": "M5801_S0010_G0010_001_a9s",
+        "jp": "あれ？外に出てみるって言ってたよね……",
+        "en": "I figured he'd be over that by now.",
+        "ru": "Я думал, он уже перестал такое вытворять."
+    },
+    {
+        "id": "M5801_S0010_G0020_001_robomother",
+        "jp": "ハイ。あれカラしばらくは頑張っていたんデスガ、気付けばまた鍵をかけて\\nシマッテ。",
+        "en": "He tried so hard. I know he did! But fear has gotten the better of him and... Well, here we are.",
+        "ru": "Он так упорно старался. Я знаю это! Но страх овладел им и... Ну, и вот к чему мы пришли."
+    },
+    {
+        "id": "M5801_S0010_G0080_001_a9s",
+        "jp": "しょうがないな……ハッキングで開けてみるよ。",
+        "en": "Let me try hacking it open.",
+        "ru": "Давайте-ка я попытаюсь взломать дверь."
+    },
+    {
+        "id": "M5801_S0010_G0060_001_robomother",
+        "jp": "……わかりマシタ。私一人で頑張ってミマス……ウウウウウッ",
+        "en": "Fine then. I guess I'll just have to do it myself! ...Rrrrgh! Stupid lock!",
+        "ru": "Отлично. В таком случае, я думаю, что должна сделать это сама!.. Р-р-р! Дурацкий замок!"
+    },
+    {
+        "id": "M5800_S0010_G0100_001_robomother",
+        "jp": "どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！",
+        "en": "Get this door open and drag my good-for-nothing son out here this instant!",
+        "ru": "Откройте эту дверь и немедленно вытащите моего никчёмного сына!"
+    },
+    {
+        "id": "M5800_S0010_G0190_001_a9s",
+        "jp": "クソッ……意外と手強いな。",
+        "en": "...Damn. That lock's stronger than I thought.",
+        "ru": "... Чёрт. Этот замок сложнее, чем я думал."
+    },
+    {
+        "id": "M5801_S0010_G0120_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M5801_S0010_G0130_001_robomother",
+        "jp": "モウ、心配かけて！どうしてまた引きこもってシマッタノ？",
+        "en": "You had me worried sick, young man! I can't believe you did this AGAIN!",
+        "ru": "Ох и заставил ты меня поволноваться, юноша! Я не могу поверить, что ты сделал это СНОВА!"
+    },
+    {
+        "id": "M5801_S0010_G0140_001_robochild",
+        "jp": "……怖かったンダ。",
+        "en": "I was scared.",
+        "ru": "Я был напуган."
+    },
+    {
+        "id": "M5801_S0010_G0150_001_robochild",
+        "jp": "外に出るようにナッタラ、気になるロボットが出来たんだ。そのコを見ると、\\n思考回路がショート寸前デ……",
+        "en": "See, after I left the house, I...started to like this one girl. I thought I was gonna short-circuit whenever I looked at her!",
+        "ru": "Когда я вышел из дома, меня... очень заинтересовал кое-кто. У меня чуть все схемы не перемкнуло..."
+    },
+    {
+        "id": "M5801_S0010_G0160_001_robochild",
+        "jp": "こんなの初めテデ……怖かったンダ。",
+        "en": "I never felt that before and it was... It was... It was SCARY!",
+        "ru": "У меня такого никогда раньше не было... Поэтому я очень испугался."
+    },
+    {
+        "id": "M5801_S0010_G0170_001_robomother",
+        "jp": "大丈夫。大丈夫。そのコにはママが一緒に会ってあげるから。",
+        "en": "There there. It's all right. Next time, we'll go see her together. All right?",
+        "ru": "Ну-ну. Всё хорошо. В следующий раз мы пойдём и посмотрим на неё вместе. Хорошо?"
+    },
+    {
+        "id": "M5801_S0010_G0180_001_robochild",
+        "jp": "……ジャア、頑張ってミル。",
+        "en": "'Kay.",
+        "ru": "Хорошо."
+    },
+    {
+        "id": "M5801_S0010_G0190_001_robomother",
+        "jp": "ありがとうゴザイマス。いつも助けてもらって、本当に何と言えばイイノカ。",
+        "en": "Thank you again. Truly.",
+        "ru": "Ещё раз спасибо."
+    },
+    {
+        "id": "M5801_S0010_G0200_001_robomother",
+        "jp": "コンナお礼しか出来ませんガ、どうかもらってクダサイ。",
+        "en": "I don't have much to give you, but I hope this makes up for some of your troubles.",
+        "ru": "Я не могу дать вам большего, но надеюсь, это компенсирует предоставленные неудобства."
+    },
+    {
+        "id": "M5801_S0010_G0210_001_robomother",
+        "jp": "良ければ、またこの子に会いに来てやってクダサイネ。",
+        "en": "Oh, and feel free to come visit my child anytime you like. He seems...fond of you.",
+        "ru": "О, и не стесняйтесь навещать моего сына в любое время. Вы, кажется... понравились ему."
+    },
+    {
+        "id": "M5801_S0010_G0220_001_a9s",
+        "jp": "気になる子ねぇ……",
+        "en": "That kid's got issues...",
+        "ru": "Этот ребёнок создаёт столько проблем..."
+    },
+    {
+        "id": "M5801_S0010_G0210_001_robomother",
+        "jp": "良ければ、またこの子に会いに来てやってクダサイネ。",
+        "en": "Oh, and feel free to come visit my child anytime you like. He seems...fond of you.",
+        "ru": "О, и не стесняйтесь навещать моего сына в любое время. Вы, кажется... понравились ему."
+    },
+    {
+        "id": "M5801_S0010_G0120_001_robochild",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    }
+]

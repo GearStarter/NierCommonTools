@@ -1,0 +1,212 @@
+[
+    {
+        "id": "M3040_S0090_S0000_001_a9s",
+        "jp": "また、何か書いてあるな……",
+        "en": "There's something written here, too...",
+        "ru": "Здесь тоже что-то написано..."
+    },
+    {
+        "id": "M3040_S0100_G0010_001_pod153",
+        "jp": "『魂の箱』と記載。",
+        "en": "It reads \"soul box.\"",
+        "ru": "Тут написано: \"ящик души\"."
+    },
+    {
+        "id": "M3040_S0100_G0020_001_a9s",
+        "jp": "敵が……いない？",
+        "en": "...No enemies?",
+        "ru": "...Врагов нет?"
+    },
+    {
+        "id": "M3040_S0100_G0030_001_a9s",
+        "jp": "そういう事か……",
+        "en": "Oh, I get it.",
+        "ru": "А, я понял."
+    },
+    {
+        "id": "M3040_S0100_G0040_001_a9s",
+        "jp": "システムプロテクトを解除しないとコアまで辿りつけない……",
+        "en": "I have to break the system protection before I can reach the core.",
+        "ru": "Я должен взломать систему защиты, если хочу достигнуть ядра."
+    },
+    {
+        "id": "M3040_S0100_G0050_001_a9s",
+        "jp": "そういう仕組みか。",
+        "en": "Huh. So that's how it works.",
+        "ru": "Ага. Так вот как это работает."
+    },
+    {
+        "id": "M3040_S0100_G0060_001_a9s",
+        "jp": "射出……あのデカイ構造物は何かの発射台なんだ……",
+        "en": "That huge structure is some kind of launch platform.",
+        "ru": "Это огромное сооружение похоже на пусковую площадку."
+    },
+    {
+        "id": "M3040_S0100_G0070_001_a9s",
+        "jp": "あれだけの施設……宇宙に向けて……",
+        "en": "A structure that size could probably shoot something into space pretty easily.",
+        "ru": "Такая махина могла бы с легкостью подорвать что-нибудь в космосе."
+    },
+    {
+        "id": "M3040_S0100_G0080_001_a9s",
+        "jp": "……",
+        "en": "......",
+        "ru": "......"
+    },
+    {
+        "id": "M3040_S0100_G0090_001_a9s",
+        "jp": "まさか、月面の人類サーバーを狙った……大砲？",
+        "en": "So this is some kind of cannon aimed at the human server on the moon?",
+        "ru": "Выходит, что это некое орудие, нацеленное на сервер людей на Луне?"
+    },
+    {
+        "id": "M3040_S0100_G0100_001_pod153",
+        "jp": "情報不足の為、否定も肯定も不可能。",
+        "en": "Insufficient data. Cannot confirm or deny.",
+        "ru": "Недостаточно данных. Невозможно подтвердить или опровергнуть."
+    },
+    {
+        "id": "M3040_S0100_G0110_001_a9s",
+        "jp": "……クソッ！",
+        "en": "Damn it!",
+        "ru": "Чёрт!"
+    },
+    {
+        "id": "M3040_S0100_G0120_001_a9s",
+        "jp": "ヨルハ部隊のブラックボックス回路が……",
+        "en": "The YoRHa black box circuitry...",
+        "ru": "Схема чёрного ящика YoRHa..."
+    },
+    {
+        "id": "M3040_S0100_G0130_001_a9s",
+        "jp": "機械生命体の、コアでできてる……！？",
+        "en": "It's made from cores from the machines?",
+        "ru": "Он создан из ядер машин?"
+    },
+    {
+        "id": "M3040_S0100_G0140_001_a9s",
+        "jp": "そんなバカな……",
+        "en": "That's... No.",
+        "ru": "Этого... Нет."
+    },
+    {
+        "id": "M3040_S0100_G0150_001_a9s",
+        "jp": "そんな事、あるはず無い……",
+        "en": "That can't be true.",
+        "ru": "Этого не может быть."
+    },
+    {
+        "id": "M3040_S0100_G0000_300_pod153",
+        "jp": "分析：このエレベーターは何らかの要因により制御が\\nブロックされている状態。",
+        "en": "Analysis: Access to elevator control system blocked by external factor.",
+        "ru": "Анализ: доступ к системе управления лифтом заблокирован внешним фактором."
+    },
+    {
+        "id": "M3040_S0100_G0010_300_pod153",
+        "jp": "提案：エレベーターの制御をブロックしている装置をハッキング",
+        "en": "Proposal: Hack into devices blocking elevator controls.",
+        "ru": "Предложение: взломайте устройства, блокирующие управление подъёмником."
+    },
+    {
+        "id": "M3040_S0100_G0020_300_a9s",
+        "jp": "コレは何だろう……",
+        "en": "What's this?",
+        "ru": "Что это?"
+    },
+    {
+        "id": "M3040_S0100_G0030_300_pod153",
+        "jp": "分析：この階のブロック装置は２か所",
+        "en": "Analysis: There are two blocking devices on this floor.",
+        "ru": "Анализ: на этом этаже находятся два блокирующих устройства."
+    },
+    {
+        "id": "M3040_S0100_G0040_300_pod153",
+        "jp": "提案：全てのブロック装置をハッキング",
+        "en": "Proposal: Hack into all blocking devices.",
+        "ru": "Предложение: произведите взлом всех блокирующих устройств."
+    },
+    {
+        "id": "M3040_S0100_G0050_300_pod153",
+        "jp": "分析：この階のブロック装置は３か所",
+        "en": "Analysis: There are three blocking devices on this floor.",
+        "ru": "Анализ: на этом этаже находятся три блокирующих устройства."
+    },
+    {
+        "id": "M3040_S0100_G0060_300_a9s",
+        "jp": "わかってる、全部ハッキングすればいいんだろ",
+        "en": "Yeah, and I hack into all of 'em, right?",
+        "ru": "Да, и я их все взломаю, верно?"
+    },
+    {
+        "id": "M3040_S0100_G0090_300_pod153",
+        "jp": "推測：目標達成には本エリアの調査が必要。",
+        "en": "Hypothesis: This area should be investigated in order to meet the mission objective.",
+        "ru": "Предположение: для выполнения цели задания требуется обследовать данную область."
+    },
+    {
+        "id": "M3040_S0100_G0070_300_pod153",
+        "jp": "確認：エレベーターの制御が全てアンロック。",
+        "en": "All elevator controls unlocked.",
+        "ru": "Управление лифтом разблокировано."
+    },
+    {
+        "id": "M3040_S0100_G0080_300_pod153",
+        "jp": "提案：次のエリアの調査。",
+        "en": "Proposal: Investigate the next area.",
+        "ru": "Предложение: исследуйте следующую область."
+    },
+    {
+        "id": "M3040_S0100_G0100_300_announce",
+        "jp": "機械生命体からの依頼を沢山消化した貴方に、プレゼントを進呈します！\\nありがとうございました！",
+        "en": "We have a special present for you—a token of appreciation for all the machine lifeform requests you completed!",
+        "ru": "У нас есть подарок специально для вас в знак признательности от всех машин, которым вы помогли!"
+    },
+    {
+        "id": "M3040_S0100_G0110_300_announce",
+        "jp": "おめでとうございます！アンドロイドからの依頼を沢山消化した貴方に、\\nプレゼントを進呈します！",
+        "en": "Congratulations! As thanks for all the android requests you completed, we have a special present for you!",
+        "ru": "Поздравляю! В качестве благодарности за оказание помощи андроидам у нас есть для вас подарок!"
+    },
+    {
+        "id": "M3040_S0100_G0120_300_announce",
+        "jp": "多数のハッキングによって、機械生命体の事を理解しようと努めた貴方に、プレゼントを進呈します！",
+        "en": "As a reward for trying to understand machine lifeforms via frequent hacking sessions, we have a special present for you!",
+        "ru": "В качестве благодарности за попытки понять машины путём взлома у нас есть для вас подарок!"
+    },
+    {
+        "id": "M3040_S0100_G0130_300_announce",
+        "jp": "素晴らしいです！地上のあらゆるものに興味を持って採取を続けた\\n貴方に、プレゼントを進呈します！",
+        "en": "It's wonderful to see your interest in the things of this world.\\nThe collection you've amassed has earned you a special present!",
+        "ru": "Восхитительно, что вещи этого мира привлекают ваше внимание. Собранная коллекция заслуживает особого вознаграждения!"
+    },
+    {
+        "id": "M3040_S0100_G0140_300_announce",
+        "jp": "おめでとうございます！何度も死んだ貴方に、プレゼントを進呈します！",
+        "en": "Goodness! You've died an astonishing number of times.\\nYou deserve a special present!",
+        "ru": "Боже правый! Сколько же вы раз уже умирали. Вы заслужили особое вознаграждение!"
+    },
+    {
+        "id": "M3040_S0100_G0150_300_announce",
+        "jp": "なんという事でしょう！貴方は大変沢山の機械生命体を殺害しました！\\nその努力を褒め称えます！",
+        "en": "Oh my! Look at all the machine lifeforms you've murdered!\\nSuch dogged persistence is worthy of a special present!",
+        "ru": "О, боже! Вы только гляньте на эти машины, которые вы убили! За такие старания полагается особое вознаграждение!"
+    },
+    {
+        "id": "M3040_S0100_G0160_300_announce",
+        "jp": "なんと！アイテムの使用回数が多かった貴方に、\\nプレゼントを進呈します！",
+        "en": "Heavens, you've used a veritable mountain of items, haven't you?\\nPlease have this special present as a reward!",
+        "ru": "Ого, вы использовали целую кучу предметов, не так ли? Пожалуйста, примите это в качестве награды!"
+    },
+    {
+        "id": "M3040_S0100_G0170_300_announce",
+        "jp": "死体を沢山回収したそこの貴方！とっておきのプレゼントを進呈します！",
+        "en": "You've recovered an army's worth of corpses!\\nWe have just the thing for someone like you!",
+        "ru": "Вы сумели одолеть наши лучшие войска!\\nИ у нас есть нечто, что вам понравится!"
+    },
+    {
+        "id": "M3020_S0024_G0180_001_a9s",
+        "jp": "ふざけやがって……",
+        "en": "Now they're just messing with us...",
+        "ru": "Теперь они попросту издеваются над нами..."
+    }
+]

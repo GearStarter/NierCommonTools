@@ -1,0 +1,116 @@
+[
+    {
+        "id": "M1060_S0010_G0091_001_a9s",
+        "jp": "ここは好戦的な敵が多いですね。",
+        "en": "There sure are a lot of hostile enemies here.",
+        "ru": "Здесь множество противников."
+    },
+    {
+        "id": "M1060_S0010_G0092_001_a9s",
+        "jp": "どうして機械生命体は襲ってくるタイプとそうでないタイプがいるんだろう……",
+        "en": "Why are some machines so aggressive, while others couldn't care less about us?",
+        "ru": "Почему некоторые машины крайне агрессивны, в то время как другие попросту не обращают на нас внимания?"
+    },
+    {
+        "id": "M1060_S0040_G0000_001_a9s",
+        "jp": "このあたりは前回の大戦争の時に地盤が破壊されてしまって……",
+        "en": "The bedrock here was bombed out in the last war.",
+        "ru": "Коренные породы материка были разрушены бомбардировками в ходе последней войны."
+    },
+    {
+        "id": "M1060_S0040_G0010_001_a9s",
+        "jp": "街全体が沈下しつつあるんですよね。",
+        "en": "Looks like the whole city is starting to sink as a result.",
+        "ru": "И с тех пор город начал уходить под воду."
+    },
+    {
+        "id": "M1060_S0040_G0011_001_pod042",
+        "jp": "防衛対象のミサイルを発見。",
+        "en": "Target missiles sighted.",
+        "ru": "Цель для ракетного залпа захвачена."
+    },
+    {
+        "id": "M1060_S0040_G0012_001_a2b",
+        "jp": "あれを守ればいいのか……",
+        "en": "Is that what we need to protect?",
+        "ru": "Это то, что нам нужно защитить?"
+    },
+    {
+        "id": "M1060_S0040_G0020_001_a9s",
+        "jp": "さっさと倒してお風呂に入りましょう、２B！",
+        "en": "Let's take 'em out already so I can be home in time for dinner and a bath!",
+        "ru": "Давай разберёмся с ним побыстрее, я бы хотел успеть принять душ до ужина!"
+    },
+    {
+        "id": "M1060_S0040_G0030_001_a2b",
+        "jp": "アンドロイドは風呂に入る必要はない。",
+        "en": "Androids don't need to bathe.",
+        "ru": "У андроидов нет необходимости принимать душ."
+    },
+    {
+        "id": "M1060_S0040_G0040_001_a2b",
+        "jp": "定期的な部品洗浄メンテナンスさえあれば問題ない筈。",
+        "en": "As long as you perform regular cleaning and maintenance, bathing is unnecessary.",
+        "ru": "До тех пор, пока ты регулярно проводишь чистку и техобслуживание, купание тебе не потребуется."
+    },
+    {
+        "id": "M1060_S0040_G0050_001_a9s",
+        "jp": "もー。２Ｂは……気分ですよ！気分。",
+        "en": "Yeah, but come on, 2B, it still FEELS good!",
+        "ru": "Да ладно тебе, 2B, это же ТАК круто!"
+    },
+    {
+        "id": "M1060_S0040_G0060_001_a9s",
+        "jp": "これで、このあたりの機械生命体は概ね排除できましたね……",
+        "en": "I think that's the last of the machines.",
+        "ru": "Я думаю, это была последняя машина."
+    },
+    {
+        "id": "M1060_S0040_G0070_001_cmd",
+        "jp": "２B、９S。",
+        "en": "2B? 9S? Come in.",
+        "ru": "2B? 9S? Приём."
+    },
+    {
+        "id": "M1060_S0040_G0080_001_a9s",
+        "jp": "司令官？",
+        "en": "Commander?",
+        "ru": "Командор?"
+    },
+    {
+        "id": "M1060_S0040_G0090_001_cmd",
+        "jp": "緊急司令だ。",
+        "en": "Emergency orders incoming.",
+        "ru": "Ожидайте поступления срочных указаний."
+    },
+    {
+        "id": "M1060_S0040_G0100_001_cmd",
+        "jp": "君達も知っての通り、我々が保有する空母が補給の為に寄港予定だ。",
+        "en": "The carrier ship that was sent to resupply has come under attack.",
+        "ru": "Судно, отправленное для пополнения запасов, было атаковано."
+    },
+    {
+        "id": "M1060_S0040_G0110_001_cmd",
+        "jp": "しかし、その空母が機械生命体達の攻撃を受け、交戦状態に入っている。",
+        "en": "It's currently being engaged by a swarm of machines.",
+        "ru": "В настоящее время его осаждает множество машин."
+    },
+    {
+        "id": "M1060_S0040_G0120_001_cmd",
+        "jp": "既に廃墟都市方面に駐留中の全ヨルハ部隊に連絡をしているが、\\n君達にも援護に参加して欲しい。",
+        "en": "I've asked all YoRHa troops in the city ruins for assistance, and I'll need you to provide backup as well.",
+        "ru": "Я запросила поддержки у всех солдат YoRHa с городских руин, и мне нужно, чтобы вы также оказали помощь."
+    },
+    {
+        "id": "M1060_S0040_G0130_001_cmd",
+        "jp": "マップデータ及び飛行ユニットを転送する。",
+        "en": "I'm sending flight units and coordinates now.",
+        "ru": "Я высылаю полётные модули и координаты задания."
+    },
+    {
+        "id": "M1060_S0040_G0140_001_cmd",
+        "jp": "以上。",
+        "en": "Good luck. Out.",
+        "ru": "Удачи. Конец связи."
+    }
+]
