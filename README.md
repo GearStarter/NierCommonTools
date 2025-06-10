@@ -1,2 +1,2 @@
 # NierCommonTools
-Common Nier Automata Modding Tools
+Common NieR: Automata Modding Tools
