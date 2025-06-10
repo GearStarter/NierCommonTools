@@ -1,0 +1,28 @@
+-- Section 1
+
+ID: M3050_S0050_G0000_001_pod153
+JP: 警告：過度の戦闘行為は機体への負荷が大きい。
+EN: Alert: Excessive combat activity will put unacceptable strain on your body.
+RU: Внимание: чрезмерная боевая нагрузка может негативно сказаться на вашем теле.
+
+ID: M3050_S0050_G0010_001_a9s
+JP: 黙ってろッ！
+EN: Shut up!
+RU: Заткнись!
+
+ID: M3050_S0050_G0020_001_pod153
+JP: ……拒否：本支援ユニットはヨルハ機体９Ｓ随行機体。
+EN: Negative. This support unit is assigned to YoRHa unit 9S.
+RU: Отрицательно. Эта единица поддержки, закреплена за единицей YoRHa 9S.
+
+ID: M3050_S0050_G0030_001_pod153
+JP: 対象ヨルハ機体の状態を危惧する権利を有する。
+EN: As such, being concerned for said unit's well-being is a requirement.
+RU: Исходя из сказанного, основной задачей была поставлена забота о благосостоянии.
+
+ID: M3050_S0050_G0040_001_a9s
+JP: ……勝手にしろッ！
+EN: Ugh! Whatever.
+RU: Аргх! Ну и ладно.
+
+

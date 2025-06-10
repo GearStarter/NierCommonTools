@@ -1,0 +1,125 @@
+-- Section 1
+
+ID: M3010_S0080_G0000_001_a2
+JP: ここは……
+EN: Where am I...?
+RU: Где я?..
+
+ID: M3010_S0080_G0010_001_pod042
+JP: EMP攻撃の衝撃によってＡ２のメモリ空間にハッキング被害が生じた模様。
+EN: The EMP attack appears to have caused hacking damage to unit A2's memory modules.
+RU: ЭМИ атака при взломе вызвала повреждения модуля памяти единицы A2.
+
+ID: M3010_S0080_G0020_001_a2
+JP: じゃあ、これは私の記憶領域か……
+EN: Oh, so this is my memory area.
+RU: О, так это зона моей памяти.
+
+ID: M3010_S0080_G0030_001_a2
+JP: てか、何でお前がここにいるんだ？
+EN: But why are YOU here?
+RU: Но почему ТЫ здесь?
+
+ID: M3010_S0080_G0040_001_pod042
+JP: 随行支援ユニットは支援対象機に不具合があった場合、\n内部モニタリングの義務がある為。
+EN: Support units are required to monitor our targets' internal systems in case of breakdown.
+RU: Единицам поддержки необходимо следить за внутренними системами сопровождаемых единиц в случае поломки.
+
+ID: M3010_S0080_G0050_001_a2
+JP: 勝手に人の頭に入ってくるな……
+EN: Next time ask me before you go poking around in my head.
+RU: В следующий раз предупреди меня, прежде чем сунешься в мою голову.
+
+
+-- Section 2
+
+ID: M3010_S0080_G0060_001_a2
+JP: クッ……
+EN: Nnngh...
+RU: Нгх...
+
+ID: M3010_S0080_G0070_001_n02
+JP: ワタ……シは……砂漠……試作機……
+EN: I...am a...desert test unit...
+RU: Я... экспериментальная пустынная единица...
+
+ID: M3010_S0080_G0080_001_n02
+JP: 人類殲滅の……製作サレ……
+EN: Created...wipe out mankind...
+RU: Созданная... уничтожить человечество...
+
+ID: M3010_S0080_G0090_001_a2
+JP: 何だ？……これは。
+EN: What's all this about?
+RU: Что всё это значит?
+
+ID: M3010_S0080_G0100_001_pod042
+JP: 敵機体からのハッキングにより、\n敵のメモリ空間との強制融合が為されている。
+EN: The hacking has caused the enemy's memories to merge with your own.
+RU: Взлом вызвал слияние воспоминаний врага с вашими.
+
+
+-- Section 3
+
+ID: M3010_S0080_G0110_001_cmd
+JP: 本来は……と呼称すべきだが……２Ｂと……
+EN: Normally, you'd be called...but...calling you 2B for the time...
+RU: Обычно тебя зовут... но... звать тебя 2B на время...
+
+ID: M3010_S0080_G0120_001_cmd
+JP: 監視を継続し、状況によっては処分……
+EN: Continue to observe the situation, and dispatch...if necessary.
+RU: Продолжай наблюдать за ситуацией и убивай... если необходимо.
+
+ID: M3010_S0080_G0130_001_pod042
+JP: 本データは２Ｂの記憶データの断片。
+EN: This is a fragment of unit 2B's memory data.
+RU: Это фрагмент данных памяти 2B.
+
+ID: M3010_S0080_G0140_001_pod042
+JP: 生存時にヨルハ部隊司令官より受けていた命令。
+EN: It is an order she received from the YoRHa Commander when she was still alive.
+RU: Это приказ, полученный ею от Командора YoRHa, когда она была ещё жива.
+
+
+-- Section 4
+
+ID: M3010_S0080_G0150_001_n4
+JP: ……は違うよ、二号。私達はみんな、自分で選ん……来たんだ……
+EN: ... not right, Number Two. We're all here...... \nchose to be here...
+RU: ...не права, Номер 2. Все мы... выбрали быть здесь...
+
+ID: M3010_S0080_G0160_001_n4
+JP: 生きる意味を与えてくれ……ありが……
+EN: Thank... giving meaning to my life...
+RU: Спасибо... придаёшь смысл моей жизни...
+
+ID: M3010_S0080_G0170_001_a2
+JP: やめろっ！！！
+EN: Enough!
+RU: Хватит!
+
+ID: M3010_S0080_G0180_001_pod042
+JP: 当該データはヨルハ機体Ａ２自身の記憶と認定。
+EN: Memory data recognized as belonging to YoRHa unit A2 herself.
+RU: Данный блок памяти принадлежит самой единице YoRHa A2.
+
+ID: M3010_S0080_G0190_001_a2
+JP: うるさいっ！さっさと接続を切れッ！！
+EN: Shut up and get out of my head already!
+RU: Заткнись и убирайся уже из моей головы!
+
+
+-- Section 5
+
+ID: M3010_S0080_G0200_001_n02
+JP: ママ……ママ……
+EN: Mama... Mama...
+RU: Мама... мама...
+
+ID: M3010_S0080_G0210_001_n02
+JP: ママ……
+EN: Mama...
+RU: Мама...
+
+

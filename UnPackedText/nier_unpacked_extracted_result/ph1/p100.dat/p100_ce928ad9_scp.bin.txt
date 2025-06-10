@@ -1,0 +1,89 @@
+-- Section 1
+
+ID: M0010_S0792_G0040_101_eng
+JP: コロス、コロス、コロス、コロス
+EN: Kill... Kill... Kill... Kill...
+RU: Убить... Убить... Убить... Убить...
+
+ID: M0010_S0792_G0050_101_a2b
+JP: 言葉を喋ってる……機械生命体に、そんな知性が！？
+EN: It...talks? I didn't know the machines had that kind of intelligence.
+RU: Он... говорит? Не знала, что машины достаточно разумны для этого.
+
+ID: M0010_S0794_G1050_201_a9s
+JP: ２Ｂ……敵機体の脆弱性を発見しました……
+EN: 2B... I found a weakness in the target...
+RU: 2B... Я нашёл уязвимость цели...
+
+ID: M0010_S0794_G1060_201_a9s
+JP: 今から援護の為にハッキングします。
+EN: Hacking in...to provide support.
+RU: Инициирую взлом... чтобы оказать поддержку.
+
+ID: M0010_S0794_G1070_201_a9s
+JP: ２Ｂ……敵機体の上腕部の……コントロールを……
+EN: 2B... The control...on the enemy's upper arm...
+RU: 2B... Внедряюсь... в узел врага...
+
+ID: M0010_S0794_G1080_201_a9s
+JP: ポッドを使っ……制御を取れるはず……
+EN: Use your Pod... Sh-should be able to...take it over...
+RU: Используй Бота... Осуществи... перехват...
+
+ID: M0010_S0794_G1090_201_a2b
+JP: いいから黙って！
+EN: I told you to shut up!
+RU: Я же сказала заткнуться!
+
+
+-- Section 2
+
+ID: M0010_S0795_S0001_001_a9s
+JP: 敵機体の……上腕部のコントロール……奪取完了。
+EN: Control...of upper arm...seized from enemy unit.
+RU: Контроль... над узлом... что я взломал.
+
+ID: M0010_S0795_S0002_001_a9s
+JP: 弱点部分をマークしました……
+EN: Marking weak point...
+RU: Отмечаю уязвимость...
+
+ID: M0010_S0795_S0003_001_a2b
+JP: ……了解。
+EN: Got it.
+RU: Поняла.
+
+
+-- Section 3
+
+ID: M0010_S0795_S0000_001_a2b
+JP: 制御システムを奪う！
+EN: Seize its control system!
+RU: Осуществить захват контроля!
+
+ID: M0010_S0795_S0010_001_pod042
+JP: 了解。
+EN: Affirmative.
+RU: Подтверждаю.
+
+ID: M0010_S0795_S0020_001_pod042
+JP: 敵サブユニット侵入。
+EN: Infiltrating enemy sub-unit.
+RU: Внедряюсь в узел противника.
+
+ID: M0010_S0795_S0030_001_pod042
+JP: 挙動テーブル変更終了。
+EN: Behavior table adjusted.
+RU: Управление переписано.
+
+ID: M0010_S0795_S0040_001_pod042
+JP: 姿勢制御バーニアコントロール。
+EN: Balance controls overridden.
+RU: Баланс перераспределён.
+
+ID: M0010_S0795_S0050_001_pod042
+JP: 敵兵器の従属化を完了。
+EN: Enemy unit subjugation complete.
+RU: Захват вражеского узла завершён.
+
+

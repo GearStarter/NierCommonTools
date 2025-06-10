@@ -1,0 +1,225 @@
+-- Section 1
+
+ID: M1020_S0040_G0230_001_a9s
+JP: あそこに逃げ込んでます！
+EN: There it goes!
+RU: Смотри!
+
+
+-- Section 2
+
+ID: M1020_S0040_G0060_300_n02
+JP: シツコイ！ニゲル！ニゲルッ！！
+EN: They don't give up! Run! Run!
+RU: Они не сдаются! Бежать! Бежать!
+
+ID: M1020_S0040_G0214_001_n02
+JP: ニゲナキャー
+EN: Must! Run!
+RU: Должен! Бежать!
+
+
+-- Section 3
+
+ID: M1020_S0040_G0090_300_a9s
+JP: この先に多数の機械生命体反応を確認。
+EN: Multiple machines detected ahead.
+RU: Впереди обнаружено множество машин.
+
+ID: M1020_S0040_G0100_300_a9s
+JP: でも、このアンドロイドの死体は一体……
+EN: But what's with these android bodies...?
+RU: Но откуда здесь столько тел андроидов?..
+
+ID: M1020_S0040_G0110_300_a2b
+JP: 注意して進もう。
+EN: Stay focused.
+RU: Будь начеку.
+
+
+-- Section 4
+
+ID: M1020_S0040_G0250_001_n02
+JP: コドモ　コドモ　コドモ
+EN: Child. Child. Child.
+RU: Ребёнок. Ребёнок. Ребёнок.
+
+
+-- Section 5
+
+ID: M1020_S0040_G0260_001_a2b
+JP: 何だ……これは。
+EN: What IS this?
+RU: Это ЧТО ещё такое?
+
+ID: M1020_S0040_G0270_001_n02
+JP: ダイスキ　ダイスキ
+EN: My. Love. My. Love.
+RU: Моя. Любимая. Моя. Любимая.
+
+ID: M1020_S0040_G0280_001_a9s
+JP: ２Ｂ……耳を貸しちゃダメです。
+EN: Don't listen to them, 2B.
+RU: Не слушай их, 2B.
+
+
+-- Section 6
+
+ID: M1020_S0040_G0290_001_n02
+JP: イッショニイヨウ　イッショニイヨウ。
+EN: Together. Forever. Together. Forever.
+RU: Вместе. Навсегда. Вместе. Навсегда.
+
+ID: M1020_S0040_G0300_001_n02
+JP: ダッコ　ダッコ
+EN: Carry. Me. Carryyyy.
+RU: Возьми. Меня. Возьми-и-и.
+
+
+-- Section 7
+
+ID: M1020_S0040_G0310_001_a9s
+JP: こいつらに心なんか無い。
+EN: They don't have any feelings.
+RU: У них нет никаких чувств.
+
+ID: M1020_S0040_G0320_001_a9s
+JP: ただ、人間の言葉を真似してるだけだよ……
+EN: They're just imitating human speech.
+RU: Они попросту имитируют человеческую речь.
+
+ID: M1020_S0040_G0330_001_a9s
+JP: 破壊しましょう。
+EN: Let's take them out.
+RU: Разберёмся с ними.
+
+
+-- Section 8
+
+ID: M1020_S0040_G0340_001_n02
+JP: オッパイ
+EN: Feed. Me!
+RU: Накорми. Меня.
+
+ID: M1020_S0040_G0350_001_n02
+JP: スキ　スキ　スキ　スキ
+EN: Love. Love. Love. Love.
+RU: Любовь. Любовь. Любовь. Любовь.
+
+
+-- Section 9
+
+ID: M1020_S0040_G0070_300_n02
+JP: ヤッテヤルッ！！
+EN: I'll get you for this!
+RU: Вот вы и попались!
+
+
+-- Section 10
+
+ID: M1020_S0040_G0351_001_n02
+JP: アンドロイド　コロス！
+EN: Kill the androids!
+RU: Убить андроидов!
+
+ID: M1020_S0040_G0352_001_n02
+JP: コロス！　コワス！
+EN: Kill! Destroy!
+RU: Убить! Уничтожить!
+
+ID: M1020_S0040_G0353_001_n02
+JP: アイシテル！　コロス！
+EN: I love you! Kill!
+RU: Я люблю тебя! Убить!
+
+ID: M1020_S0040_G0354_001_n02
+JP: ウラミ！　ツラミ！
+EN: Hatred! Pain!
+RU: Ненависть! Боль!
+
+ID: M1020_S0040_G0355_001_n02
+JP: ブチコワス！
+EN: Slaughter!
+RU: Резня!
+
+
+-- Section 11
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 12
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 13
+
+ID: M1020_S0040_G0380_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 14
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 15
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 16
+
+ID: M1020_S0040_G0380_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 17
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 18
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 19
+
+ID: M1020_S0040_G0360_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+
+-- Section 20
+
+ID: M1020_S0040_G0370_001_n02
+JP: コノママジャ　ダメ
+EN: This. Cannot. Continue.
+RU: Так. Не может. Продолжаться.
+
+

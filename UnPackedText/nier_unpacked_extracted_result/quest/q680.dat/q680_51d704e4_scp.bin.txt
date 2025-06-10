@@ -1,0 +1,468 @@
+-- Section 1
+
+ID: M5680_S0010_G0000_001_n02
+JP: こんにちは！アンドロイドの方ですよね？
+EN: Hello! You're an android, are you not?
+RU: Привет! Вы андроиды, не так ли?
+
+ID: M5680_S0010_G0010_001_n02
+JP: 世界は愛に満ちあふれていますよね？
+EN: Let me ask you something: Do you think the world is full of love?
+RU: Позвольте спросить у вас кое-что: считаете ли вы, что мир полон любви?
+
+ID: M5680_S0010_G0020_001_sele
+JP: そうかもしれない……
+EN: Er, it might be?
+RU: Эм, может быть.
+
+ID: M5680_S0010_G0030_001_sele
+JP: いいえ。
+EN: No.
+RU: Нет.
+
+
+-- Section 2
+
+ID: M5680_S0010_G0040_001_n02
+JP: 私達はもっと自らの喜びを表現すべきだと思いませんか？
+EN: Don't you think we all need to express more happiness in our daily lives?
+RU: Не думаете, что нам нужно выражать больше счастья в повседневной жизни?
+
+ID: M5680_S0010_G0050_001_sele
+JP: 表現すべきかも……
+EN: I suppose?
+RU: Допустим?
+
+ID: M5680_S0010_G0060_001_sele
+JP: いいえ。
+EN: No.
+RU: Нет.
+
+
+-- Section 3
+
+ID: M5680_S0010_G0070_001_n02
+JP: そうですよね！それでは……
+EN: Exactly! In which case...
+RU: Точно! В этом случае...
+
+ID: M5680_S0010_G0080_001_n02
+JP: この世界をもっとより良くする為に、少し手伝っていただけませんか？
+EN: You seem like just the person to help me make this world a better place!
+RU: Вы выглядите как некто, кто поможет мне сделать это место лучше!
+
+ID: M5680_S0010_G0090_001_sele
+JP: 手伝う……
+EN: Sure, I guess.
+RU: Конечно, наверное.
+
+ID: M5680_S0010_G0100_001_sele
+JP: いいえ。
+EN: No.
+RU: Нет.
+
+
+-- Section 4
+
+ID: M5680_S0010_G0110_001_n02
+JP: ……本当に？
+EN: ...Really?
+RU: ...Правда?
+
+ID: M5680_S0010_G0120_001_n02
+JP: 本当に、世界が愛で繋がる……そんな夢見がちな事を信じているのですか？
+EN: Do you believe in the dream of connecting the entire world with love?
+RU: Вы верите в мечту, где во всём мире царит любовь?
+
+ID: M5680_S0010_G0130_001_sele
+JP: 信じる。
+EN: I do.
+RU: Так и есть.
+
+ID: M5680_S0010_G0140_001_sele
+JP: いいえ。
+EN: No.
+RU: Нет.
+
+
+-- Section 5
+
+ID: M5680_S0010_G0170_001_n02
+JP: そうですか……貴方なら信じる事が出来そうです。
+EN: I see, I see. Then perhaps I can believe in you.
+RU: Ясно, ясно. Тогда, возможно, я могу поверить в вас.
+
+ID: M5680_S0010_G0180_001_n02
+JP: 実は、私達機械生命体の中にも、戦いを嫌う者達が沢山います。
+EN: You see, there are many machines who detest fighting.
+RU: Видите ли, есть много машин, которые ненавидят сражаться.
+
+ID: M5680_S0010_G0190_001_n02
+JP: 私は、そんな仲間を集めてパレードをする事にしたのです。
+EN: As such, I have decided to gather them together in order to hold a parade.
+RU: Поэтому я решил собрать их вместе, чтобы провести парад.
+
+ID: M5680_S0010_G0200_001_n02
+JP: それは、友好を分かち合う、愛のパレード。
+EN: It will be a parade of love and friendship for all!
+RU: Это будет парад любви и дружбы для всех!
+
+ID: M5680_S0010_G0210_001_n02
+JP: しかし、私達のような平和活動を嫌う者達も沢山います。
+EN: However, as it turns out, there are many among us who frown upon such outspoken expressions of peace.
+RU: Однако как выяснилось, среди нас есть много таких, кто не одобряет такого искреннего выражения мира.
+
+ID: M5680_S0010_G0220_001_n02
+JP: どうか……私達のパレードが成功するよう、守ってくださいませんか？
+EN: Therefore, I'm hoping you will protect our parade in order to ensure the successful dispensation of its wonderful message.
+RU: Поэтому, надеюсь, что вы защитите наш парад, обеспечив успех распространения его замечательного посыла.
+
+ID: M5680_S0010_G0230_001_sele
+JP: 守る。
+EN: Agree to guard the parade.
+RU: Согласиться защитить парад.
+
+ID: M5680_S0010_G0240_001_sele
+JP: 守らない。
+EN: Turn down the request.
+RU: Отклонить просьбу.
+
+
+-- Section 6
+
+ID: M5680_S0010_G0260_001_n02
+JP: 友好の証として、レジスタンスキャンプまでパレードを行いたいんです。\n協力してくれませんか？
+EN: I wish to hold a parade to march to the Resistance camp as a symbol of our friendship. Would you be willing to help?
+RU: Я желаю провести парадный марш к лагерю Сопротивления, как символ нашей дружбы. Вы бы не хотели помочь?
+
+ID: M5680_S0010_G0230_001_sele
+JP: 守る。
+EN: Agree to guard the parade.
+RU: Согласиться защитить парад.
+
+ID: M5680_S0010_G0240_001_sele
+JP: 守らない。
+EN: Turn down the request.
+RU: Отклонить просьбу.
+
+
+-- Section 7
+
+ID: M5680_S0010_G0150_001_n02
+JP: そうですか……
+EN: Ah. I see.
+RU: Ах. Понятно.
+
+
+-- Section 8
+
+ID: M5680_S0010_G0250_001_n02
+JP: それは残念です。もし協力する気になったら、その時はお願いします。
+EN: A pity. Well, if you change your mind, do let me know.
+RU: Сожалею. Ну, если передумаете, дайте мне знать.
+
+
+-- Section 9
+
+ID: M5680_S0010_G0270_001_n02
+JP: ご協力感謝します！
+EN: Thank you for your support!
+RU: Спасибо вам за поддержку!
+
+ID: M5680_S0010_G0280_001_n02
+JP: それでは、私達の仲間がパレードを行っている間、護衛していただけると\n嬉しいです！
+EN: If you could keep my companions safe while we conduct the parade, I would be ever so happy!
+RU: Если вы сможете защитить моих товарищей во время проведения парада, я был бы очень счастлив!
+
+ID: M5680_S0010_G0290_001_n02
+JP: それでは……レッツ！友好！！
+EN: Now then... Let us show everyone the power of friendship!
+RU: Теперь... Позвольте нам показать всем силу дружбы!
+
+
+-- Section 10
+
+ID: M5680_S0020_G0000_001_robos
+JP: ヨロコビを分かちあおう！！
+EN: Share in the happiness!
+RU: Делитесь счастьем!
+
+
+-- Section 11
+
+ID: M5680_S0020_G0010_001_robos
+JP: タタカイをやめよう！！
+EN: No more fighting!
+RU: Больше не сражайтесь!
+
+
+-- Section 12
+
+ID: M5680_S0020_G0020_001_robos
+JP: アイをマキ散らそう！！
+EN: Spread love throughout the world!
+RU: Распространим любовь по всему миру!
+
+
+-- Section 13
+
+ID: M5680_S0020_G0030_001_robos
+JP: タノシク生きよう！！
+EN: Live to have fun!
+RU: Жизнь — это веселье!
+
+
+-- Section 14
+
+ID: M5680_S0020_G0040_001_robos
+JP: ニクシミを捨てよう！！
+EN: Abandon all hatred!
+RU: Отриньте всю ненависть!
+
+
+-- Section 15
+
+ID: M5680_S0020_G0050_001_n02
+JP: ヒイイッ！助けてください！助けてください！
+EN: Ahhh! Help me! Please help me!
+RU: А-а-а! Помогите! Пожалуйста, помогите!
+
+
+-- Section 16
+
+ID: M5680_S0020_G0060_001_n02
+JP: 私達は戦いに来たのではありません！
+EN: We did not come here to fight!
+RU: Мы пришли сюда не для сражения!
+
+
+-- Section 17
+
+ID: M5680_S0020_G0070_001_n02
+JP: 助けてください！！
+EN: Please help!
+RU: Помогите, пожалуйста!
+
+
+-- Section 18
+
+ID: M5680_S0020_G0080_001_n02
+JP: アイが必要です！！
+EN: All we need is love!
+RU: Нам всем нужна любовь!
+
+
+-- Section 19
+
+ID: M5680_S0020_G0090_001_n02
+JP: いやだああああっ！
+EN: Noooooo!
+RU: Не-е-ет!
+
+
+-- Section 20
+
+ID: M5680_S0020_G0100_001_n02
+JP: 助けてエエエエ！！
+EN: Haaaaaalp!
+RU: Па-амагите-е!
+
+
+-- Section 21
+
+ID: M5680_S0020_G0110_001_n02
+JP: 戦うのはイヤです！
+EN: I don't want to fight!
+RU: Я не желаю сражаться!
+
+
+-- Section 22
+
+ID: M5680_S0020_G0120_001_n02
+JP: ヨロコビを！
+EN: Happiness to all!
+RU: Всем счастья!
+
+
+-- Section 23
+
+ID: M5680_S0020_G0160_001_n02
+JP: うううっ……どうしてこんな暴力を……
+EN: Ooooh... Why did such violence have to occur?
+RU: Ох... Почему же свершилась такая жестокость?
+
+ID: M5680_S0020_G0170_001_n02
+JP: でも……わたしは諦めません。もう一度、やります……！
+EN: Still, I refuse to give up. I will try again!
+RU: Однако я отказываюсь сдаваться. Я попытаюсь снова.
+
+
+-- Section 24
+
+ID: M5680_S0020_G0180_001_n02
+JP: 今度こそ……世界を平和にするパレードを実現したいのです。
+EN: This time, I swear to hold a parade that brings peace to the world!
+RU: В этот раз, клянусь, я проведу парад, чтобы принести в мир спокойствие!
+
+ID: M5680_S0020_G0190_001_sele
+JP: 協力する。
+EN: Help the parade.
+RU: Помочь параду.
+
+ID: M5680_S0020_G0200_001_sele
+JP: 協力しない。
+EN: Refuse.
+RU: Отказаться.
+
+
+-- Section 25
+
+ID: M5680_S0010_G0290_001_n02
+JP: それでは……レッツ！友好！！
+EN: Now then... Let us show everyone the power of friendship!
+RU: Теперь... Позвольте нам показать всем силу дружбы!
+
+
+-- Section 26
+
+ID: M5680_S0040_G0030_001_n02
+JP: そんな事言わず、さあ、行きましょう！
+EN: Don't be that way. Come, let's get going!
+RU: Не будьте такими. Идёмте же, давайте начнём!
+
+
+-- Section 27
+
+ID: M5680_S0020_G0130_001_n02
+JP: ありがとうございました。
+EN: Thank you very much.
+RU: Огромное спасибо.
+
+ID: M5680_S0020_G0140_001_n02
+JP: お陰でパレードが全滅せずに済みました。
+EN: We managed to complete the parade without being annihilated.
+RU: Нам удалось завершить парад и не стать грудой обломков.
+
+ID: M5680_S0020_G0150_001_n02
+JP: これ……少ないですが、お礼です。取っておいてください。
+EN: I know this isn't much of a reward, but please accept it.
+RU: Я знаю, что награда небольшая, но прошу, примите её.
+
+ID: M5680_S0040_G0060_001_n02
+JP: 今回もヨロコビを伝える事に成功しましたね！
+EN: How wonderful! I think our joy really came across this time.
+RU: Как чудесно! Я думаю, наша радость действительно пройдет сквозь время.
+
+ID: M5680_S0040_G0070_001_n02
+JP: 今度、また別の場所でパレードを行う予定なんです。\nその時はまたよろしくお願いします！
+EN: We'll soon be holding another parade elsewhere. I hope we can count on your support for that as well.
+RU: Вскоре мы проведем другой парад, в другом месте. Я надеюсь, мы можем рассчитывать на вашу поддержку в этом деле.
+
+ID: M5680_S0040_G0080_001_n02
+JP: あの……
+EN: So do you...
+RU: Так вы...
+
+ID: M5680_S0040_G0090_001_n02
+JP: 私達の事を愚か者だと思いますか？
+EN: Do you think us fools?
+RU: Вы думаете, мы дураки?
+
+ID: M5680_S0040_G0100_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+ID: M5680_S0040_G0110_001_n02
+JP: ……すみません、また是非お願いいたします。
+EN: I'm sorry. I hope to see you again.
+RU: Простите. Надеюсь, увидимся снова.
+
+
+-- Section 28
+
+ID: M5680_S0040_G0070_001_n02
+JP: 今度、また別の場所でパレードを行う予定なんです。\nその時はまたよろしくお願いします！
+EN: We'll soon be holding another parade elsewhere. I hope we can count on your support for that as well.
+RU: Вскоре мы проведем другой парад, в другом месте. Я надеюсь, мы можем рассчитывать на вашу поддержку в этом деле.
+
+
+-- Section 29
+
+ID: M5680_S0050_G0000_001_n02
+JP: ……ああ、貴方ですか。
+EN: Ah. It's you.
+RU: А. Это вы.
+
+ID: M5680_S0050_G0010_001_n02
+JP: 私はもう、ついていけなくなりました。
+EN: I'm afraid I was simply no longer able to deal with it.
+RU: Я боюсь, что просто не смогу больше заниматься этим.
+
+ID: M5680_S0050_G0020_001_n02
+JP: 何がヨコロビだ……何がアイだ。\nあんなのいくら命があっても足りないですよ。
+EN: Joy? Love? What is the point? Happiness wasn't going to keep me from getting killed, now was it?
+RU: Радость? Любовь? Какой в этом смысл? Счастье не защитит меня от смерти, так ведь?
+
+ID: M5680_S0050_G0030_001_n02
+JP: え？パレードやってた連中がどこに行ったかですって？
+EN: ...Hmm? You wish to know where the rest of the paraders went?
+RU: ... Хм? Вы желаете знать, куда ушли остальные участники парада?
+
+ID: M5680_S0050_G0040_001_n02
+JP: 彼らなら、『世界の果てにもヨロコビを』と言いながら旅立ち……
+EN: They took off on some kind of journey. "To bring joy to the ends of the earth!" was their cry, if I remember correctly.
+RU: Они отправились в какое-то путешествие. "Радость до скончания времён!" — кричали все, если я правильно помню.
+
+ID: M5680_S0050_G0050_001_n02
+JP: 砂漠の果てで、消息を断ちました。
+EN: I lost contact with them once they reached the deep desert.
+RU: Я потерял связь с ними, когда они достигли глубин пустыни.
+
+ID: M5680_S0050_G0060_001_n02
+JP: バカな連中だ……きっと、野垂れ死んでいる事でしょう。
+EN: I imagine they're now dead by the side of some road.
+RU: Думаю, теперь их трупы лежат под каким-нибудь барханом.
+
+ID: M5680_S0050_G0070_001_n02
+JP: アイとか、ヨロコビとか……バカバカしい。
+EN: No doubt they were rambling on about love and happiness to the bitter end. What madness...
+RU: Не сомневаюсь, что они говорили о любви и счастье до самого конца. Что за безумие...
+
+
+-- Section 30
+
+ID: M5920_S0010_G0310_001_pod042
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: Внимание: вы покидаете зону операции.
+
+ID: M5920_S0010_G0320_001_pod042
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: Предложение: немедленно вернитесь в зону операции.
+
+ID: M5920_S0020_G0310_001_pod153
+JP: 警告：予定されていた作戦区域から離脱中。
+EN: Alert: Exiting the planned operational area.
+RU: Внимание: вы покидаете зону операции.
+
+ID: M5920_S0020_G0320_001_pod153
+JP: 推奨：作戦区域への早急な復帰。
+EN: Proposal: Return to the operational area immediately.
+RU: Предложение: немедленно вернитесь в зону операции.
+
+
+-- Section 31
+
+ID: M5920_S0010_G0260_001_pod042
+JP: 依頼されていた目的を失敗。
+EN: Requested mission failed.
+RU: Задание провалено.
+
+ID: M5920_S0020_G0260_001_pod153
+JP: 依頼されていた目的を失敗。
+EN: Requested mission failed.
+RU: Задание провалено.
+
+

@@ -1,0 +1,41 @@
+-- Section 1
+
+ID: M3060_S0130_G0031_001_a2
+JP: これは、ヨルハ部隊の死体……
+EN: This is a YoRHa corpse...
+RU: Это труп YoRHa...
+
+ID: M3060_S0130_G0032_001_pod042
+JP: 予測：先行して入ったヨルハ機体９Ｓによるもの。
+EN: Hypothesis: The corpse is likely a result of YoRHa unit 9S's advance through the area.
+RU: Предположение: труп является результатом продвижения через эту область единицы 9S.
+
+ID: M3060_S0130_G0033_001_a2
+JP: ……行くぞ。
+EN: ...Let's go.
+RU: ...Идём дальше.
+
+
+-- Section 2
+
+ID: M3060_S0130_G0000_001_a2
+JP: この構造物の目的は？
+EN: What's the purpose of this structure?
+RU: Каково предназначение этой постройки?
+
+ID: M3060_S0130_G0010_001_pod042
+JP: 不明。
+EN: Unknown.
+RU: Неизвестно.
+
+ID: M3060_S0130_G0020_001_pod042
+JP: 推奨：情報収集。
+EN: Proposal: Gather additional data.
+RU: Предложение: соберите больше данных.
+
+ID: M3060_S0130_G0030_001_a2
+JP: ……だろうな。
+EN: Someday I need to teach you how to be helpful.
+RU: Как-нибудь стоит преподать тебе урок о том, как быть полезным.
+
+

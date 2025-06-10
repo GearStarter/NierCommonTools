@@ -1,0 +1,409 @@
+-- Section 1
+
+ID: M5561_S0010_G0000_001_ppl
+JP: あら、いらっしゃい。
+EN: Hello again.
+RU: Ещё раз привет.
+
+ID: M5561_S0010_G0010_001_ppl
+JP: ゆっくりお話したいところだけど、私はちょっと出かける用事があるの。
+EN: I'd love to sit here and chat, but we need to head out and take care of a job.
+RU: Мне хотелось бы посидеть здесь и поболтать, но нам нужно заняться делом.
+
+ID: M5561_S0010_G0020_001_ppl
+JP: 慌ただしくてごめんなさいね。急に必要な素材が出来ちゃって。
+EN: Things are a little crazy around here at the moment. I need to get these materials post-haste and...
+RU: Сейчас здесь творится полнейший аврал. Поэтому нам очень срочно понадобились кое-какие материалы и...
+
+ID: M5561_S0010_G0030_001_dbl
+JP: あっ、そうだ！こいつに頼めばいいじゃないか。なあ？
+EN: Hey, Sis? Just ask already.
+RU: Эй, сестра? Просто попроси уже.
+
+ID: M5561_S0010_G0040_001_a9s
+JP: 頼むって、資材集めを？
+EN: You want me to get the materials for you?
+RU: Вы хотите, чтобы я собрал для вас материалы?
+
+ID: M5561_S0010_G0060_001_ppl
+JP: そんな、悪いわよ……
+EN: Oh, we couldn't possibly ask!
+RU: Ох, это было бы очень кстати!
+
+ID: M5561_S0010_G0070_001_sele
+JP: 素材を採りに行く。
+EN: Agree to secure the materials.
+RU: Согласиться добыть материалы.
+
+ID: M5561_S0010_G0080_001_sele
+JP: 行かない。
+EN: Ignore the hint.
+RU: Игнорировать намёк.
+
+
+-- Section 2
+
+ID: M5561_S0010_G0000_001_ppl
+JP: あら、いらっしゃい。
+EN: Hello again.
+RU: Ещё раз привет.
+
+ID: M5561_S0010_G0010_001_ppl
+JP: ゆっくりお話したいところだけど、私はちょっと出かける用事があるの。
+EN: I'd love to sit here and chat, but we need to head out and take care of a job.
+RU: Мне хотелось бы посидеть здесь и поболтать, но нам нужно заняться делом.
+
+ID: M5561_S0010_G0020_001_ppl
+JP: 慌ただしくてごめんなさいね。急に必要な素材が出来ちゃって。
+EN: Things are a little crazy around here at the moment. I need to get these materials post-haste and...
+RU: Сейчас здесь творится полнейший аврал. Поэтому нам очень срочно понадобились кое-какие материалы и...
+
+ID: M5561_S0010_G0030_001_dbl
+JP: あっ、そうだ！こいつに頼めばいいじゃないか。なあ？
+EN: Hey, Sis? Just ask already.
+RU: Эй, сестра? Просто попроси уже.
+
+ID: M5561_S0010_G0050_001_a2
+JP: また資材集めの仕事か？
+EN: Let me guess: You need a scrap collector.
+RU: Дайте-ка угадаю: вам нужен сборщик металлолома.
+
+ID: M5561_S0010_G0060_001_ppl
+JP: そんな、悪いわよ……
+EN: Oh, we couldn't possibly ask!
+RU: Ох, это было бы очень кстати!
+
+ID: M5561_S0010_G0070_001_sele
+JP: 素材を採りに行く。
+EN: Agree to secure the materials.
+RU: Согласиться добыть материалы.
+
+ID: M5561_S0010_G0080_001_sele
+JP: 行かない。
+EN: Ignore the hint.
+RU: Игнорировать намёк.
+
+
+-- Section 3
+
+ID: M5561_S0010_G0120_001_dbl
+JP: いやあ、本当に助かるよ！
+EN: Thanks. This is a HUGE help.
+RU: Спасибо. Это ОГРОМНАЯ помощь.
+
+ID: M5561_S0010_G0130_001_ppl
+JP: デボル、また無理ばっかり言って……
+EN: Devola, we can't keep asking people to—
+RU: Девола, и все-таки, мы не можем продолжать просить других, чтобы...
+
+ID: M5561_S0010_G0140_001_dbl
+JP: まあいいじゃねぇか。ここは素直に甘えよう。
+EN: Yes we CAN, Sis! Let's just be grateful for the help.
+RU: Нет, мы МОЖЕМ, сестра! Давай просто будем благодарны за помощь.
+
+ID: M5561_S0010_G0150_001_dbl
+JP: 悪いけど『砂漠のバラ』を採ってきてくれないかな？
+EN: Anyway, I just need you to track down some desert roses.
+RU: В любом случае, нам нужно несколько пустынных роз.
+
+ID: M5561_S0010_G0160_001_dbl
+JP: 『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\n希少な素材なんだ。
+EN: It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.
+RU: Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне.
+
+ID: M5561_S0010_G0170_001_ppl
+JP: ……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。
+EN: Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.
+RU: Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные.
+
+
+-- Section 4
+
+ID: M5561_S0010_G0090_001_dbl
+JP: いやぁ……危険な素材集めにポポルを行かせるのは辛いなぁ……
+EN: Look, I'll be honest—I'm worried about sending Popola out to find this stuff.
+RU: Послушай, буду честна — я беспокоюсь отправлять Пополу на поиски этих материалов.
+
+ID: M5561_S0010_G0100_001_dbl
+JP: ここは一つ、お願いしたいなぁ……
+EN: I was really hoping you might pitch in.
+RU: Я очень надеюсь, что ты сможешь помочь.
+
+ID: M5561_S0010_G0070_001_sele
+JP: 素材を採りに行く。
+EN: Agree to secure the materials.
+RU: Согласиться добыть материалы.
+
+ID: M5561_S0010_G0080_001_sele
+JP: 行かない。
+EN: Ignore the hint.
+RU: Игнорировать намёк.
+
+
+-- Section 5
+
+ID: M5561_S0010_G0110_001_dbl
+JP: そこをなんとか、この私の顔に免じて、頼む！
+EN: Please? Pretty please? With cream on top?
+RU: Пожалуйста? Ну пожалуйста? За вознаграждение?
+
+ID: M5561_S0010_G0070_001_sele
+JP: 素材を採りに行く。
+EN: Agree to secure the materials.
+RU: Согласиться добыть материалы.
+
+ID: M5561_S0010_G0080_001_sele
+JP: 行かない。
+EN: Ignore the hint.
+RU: Игнорировать намёк.
+
+
+-- Section 6
+
+ID: M6090_S0020_G0780_300_dbl
+JP: やあ、何か見ていくか？
+EN: Are you looking for something?
+RU: Ищешь что-то?
+
+ID: M5561_S0010_G0150_001_dbl
+JP: 悪いけど『砂漠のバラ』を採ってきてくれないかな？
+EN: Anyway, I just need you to track down some desert roses.
+RU: В любом случае, нам нужно несколько пустынных роз.
+
+ID: M5561_S0010_G0160_001_dbl
+JP: 『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\n希少な素材なんだ。
+EN: It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.
+RU: Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне.
+
+ID: M5561_S0010_G0170_001_ppl
+JP: ……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。
+EN: Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.
+RU: Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные.
+
+
+-- Section 7
+
+ID: M5561_S0020_G0000_001_a9s
+JP: デボル達が言ってた『砂漠のバラ』があるのはこの辺りか。
+EN: Those desert roses the twins wanted should be around here somewhere.
+RU: Пустынные розы, которые нужны близняшкам, должны быть где-то здесь.
+
+ID: M5561_S0020_G0010_001_a9s
+JP: こんな場所、採りに来るのも一苦労だな。
+EN: Finding one in a place like this won't be easy.
+RU: Найти даже одну в таком месте будет непросто.
+
+ID: M5561_S0020_G0020_001_a9s
+JP: あの２人は、どうしてこんな大変な仕事をしてるんだ……
+EN: Why are those two engaged in such dangerous work anyway?
+RU: Зачем же эта парочка подписывается на такую опасную работу?
+
+
+-- Section 8
+
+ID: M5561_S0020_G0030_001_a2
+JP: 双子が言ってた『砂漠のバラ』があるのはこの辺りか。\nこれじゃ採りに来るのも一苦労だな。
+EN: Those desert roses the twins wanted should be around here somewhere, but finding them is gonna be a serious pain.
+RU: Эти пустынные розы, которые нужны близняшкам, должны быть где-то здесь, но их поиск наверняка будет той ещё проблемой.
+
+ID: M5561_S0020_G0040_001_a2
+JP: ……あの２人、どうしてこんな大変な仕事をしているんだ？
+EN: Why are they running such dangerous missions in the first place?
+RU: И почему они берутся такие опасные задания?
+
+
+-- Section 9
+
+ID: M5561_S0020_G0050_001_a9s
+JP: 『砂漠のバラ』集めはこれでいいかな。デボル達のところへ戻ろう。
+EN: That's the last desert rose. Better get these back to Devola and Popola.
+RU: Это последняя пустынная роза. Самое время отнести их Деволе и Пополе.
+
+
+-- Section 10
+
+ID: M5561_S0020_G0060_001_a2
+JP: 『砂漠のバラ』集めはこの辺でいいか。２人のところへ戻ろう。
+EN: That's it for the desert roses. Time to head back.
+RU: Этих пустынных роз достаточно. Пора возвращаться.
+
+
+-- Section 11
+
+ID: M5561_S0010_G0160_001_dbl
+JP: 『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\n希少な素材なんだ。
+EN: It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.
+RU: Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне.
+
+ID: M5561_S0010_G0170_001_ppl
+JP: ……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。
+EN: Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.
+RU: Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные.
+
+
+-- Section 12
+
+ID: M5561_S0010_G0160_001_dbl
+JP: 『砂漠のバラ』は、砂漠に埋もれた古い遺跡からわずかに取れる、\n希少な素材なんだ。
+EN: It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.
+RU: Это довольно редкое растение, но я бы начала поиски со старых руин в пустыне.
+
+ID: M5561_S0010_G0170_001_ppl
+JP: ……無理言ってごめんなさいね。砂漠には敵も多いから、気をつけて。
+EN: Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.
+RU: Прости, что снова напрягаем тебя. И пожалуйста, будь осторожней! Некоторые враги в пустыне очень сильные.
+
+
+-- Section 13
+
+ID: M5561_S0030_G0000_001_dbl
+JP: ありがとう！これだけ『砂漠のバラ』があれば十分だよ。
+EN: Hey, thanks! This'll be more than enough desert roses.
+RU: Эй, спасибо! Пустынных роз более чем достаточно.
+
+ID: M5561_S0030_G0010_001_ppl
+JP: 無理を言ってごめんなさい。でも、本当に助かったわ。
+EN: I know this wasn't easy. Thank you.
+RU: Я знаю, это было непросто. Спасибо.
+
+
+-- Section 14
+
+ID: M5561_S0030_G0020_001_a9s
+JP: あの２人、過酷な労働ばかりさせられてるな……
+EN: Those two sure draw some difficult assignments, huh?
+RU: Эта парочка наверняка уже не раз получала такие опасные задания, да?
+
+ID: M5561_S0030_G0030_001_pod153
+JP: 推測：過酷な作業はいずれ組織に悪影響を及ぼす。
+EN: Hypothesis: Continued difficult assignments will eventually have a deleterious effect on the entire organization.
+RU: Предположение: продолжение выполнения ими сложных заданий в итоге окажет негативный эффект на всю организацию.
+
+ID: M5561_S0030_G0040_001_a9s
+JP: ちょっとアネモネさんに話をしに行こう。
+EN: Hmm. Maybe I should talk this over with Anemone.
+RU: Хм. Может, я должен поговорить об этом с Анемоной.
+
+
+-- Section 15
+
+ID: M5561_S0030_G0050_001_a2
+JP: 気に入らないな。なぜあの双子だけ過酷な労働をさせられるんだ？
+EN: I don't get it. Why are the twins being stuck with all these crap jobs?
+RU: Я не понимаю. Почему близняшки занимаются такими бестолковыми заданиями?
+
+ID: M5561_S0030_G0060_001_pod042
+JP: 推測：過酷な作業はいずれ組織に悪影響を及ぼす。
+EN: Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on the entire organization.
+RU: Предположение: продолжение выполнения ими "бестолковых заданий" в итоге окажет негативный эффект на всю организацию.
+
+ID: M5561_S0030_G0070_001_a2
+JP: ここのリーダーに、一度話をしておくか……
+EN: I'd better talk to the lady in charge about this.
+RU: Я лучше поговорю с дамочкой, ответственной за это.
+
+
+-- Section 16
+
+ID: M5561_S0030_G0080_001_ane
+JP: どうした？怖い顔して。
+EN: Yes? What is it? ...And why are you scowling at me like that?
+RU: Да? Что такое?.. И с чего это у тебя такой сердитый взгляд?
+
+ID: M5561_S0030_G0090_001_ane
+JP: ……ああ、デボルとポポルの件か。
+EN: Ah. I see. This is about Devola and Popola.
+RU: А. Понятно. Это насчёт Деволы и Пополы.
+
+ID: M5561_S0030_G0100_001_ane
+JP: 確かに、あの２人にはつらい仕事ばかり回している。\nそれを不合理だと言うのは当たり前だ。
+EN: I understand how unfair it must seem for them to keep getting our most difficult and dangerous assignments.
+RU: Понимаю, выглядит несправедливо, что только они получают самые трудные и опасные задания.
+
+ID: M5561_S0030_G0110_001_ane
+JP: だが、私の一存ではどうにもならないんだ。
+EN: But I'm afraid that's going to continue for a while.
+RU: Но, я боюсь, это единственный возможный вариант.
+
+ID: M5561_S0030_G0120_001_ane
+JP: ……周囲が、まだ彼女達を許していなくてね。
+EN: The others here... Well, they still haven't forgiven them.
+RU: Другие... Они ещё не простили их.
+
+ID: M5561_S0030_G0130_001_a9s
+JP: 許すって、何を？
+EN: I don't understand. Forgiven them for what?
+RU: Я не понимаю. Не простили их за что?
+
+ID: M5561_S0030_G0150_001_ane
+JP: それは……
+EN: That...
+RU: Это...
+
+ID: M5561_S0030_G0160_001_ane
+JP: いつか、本人達から聞いてくれ。
+EN: That's something you should ask them directly.
+RU: Тебе лучше спросить об этом их самих.
+
+
+-- Section 17
+
+ID: M5561_S0030_G0080_001_ane
+JP: どうした？怖い顔して。
+EN: Yes? What is it? ...And why are you scowling at me like that?
+RU: Да? Что такое?.. И с чего это у тебя такой сердитый взгляд?
+
+ID: M5561_S0030_G0090_001_ane
+JP: ……ああ、デボルとポポルの件か。
+EN: Ah. I see. This is about Devola and Popola.
+RU: А. Понятно. Это насчёт Деволы и Пополы.
+
+ID: M5561_S0030_G0100_001_ane
+JP: 確かに、あの２人にはつらい仕事ばかり回している。\nそれを不合理だと言うのは当たり前だ。
+EN: I understand how unfair it must seem for them to keep getting our most difficult and dangerous assignments.
+RU: Понимаю, выглядит несправедливо, что только они получают самые трудные и опасные задания.
+
+ID: M5561_S0030_G0110_001_ane
+JP: だが、私の一存ではどうにもならないんだ。
+EN: But I'm afraid that's going to continue for a while.
+RU: Но, я боюсь, это единственный возможный вариант.
+
+ID: M5561_S0030_G0120_001_ane
+JP: ……周囲が、まだ彼女達を許していなくてね。
+EN: The others here... Well, they still haven't forgiven them.
+RU: Другие... Они ещё не простили их.
+
+ID: M5561_S0030_G0140_001_a2
+JP: 許す？どういう意味だ。あの２人は一体……
+EN: Forgiven them for what? And just who the hell are they, anyway?
+RU: За что их не простили? И кто они, чёрт возьми?
+
+ID: M5561_S0030_G0150_001_ane
+JP: それは……
+EN: That...
+RU: Это...
+
+ID: M5561_S0030_G0160_001_ane
+JP: いつか、本人達から聞いてくれ。
+EN: That's something you should ask them directly.
+RU: Тебе лучше спросить об этом их самих.
+
+
+-- Section 18
+
+ID: M5561_S0030_G0050_001_a2
+JP: 気に入らないな。なぜあの双子だけ過酷な労働をさせられるんだ？
+EN: I don't get it. Why are the twins being stuck with all these crap jobs?
+RU: Я не понимаю. Почему близняшки занимаются такими бестолковыми заданиями?
+
+ID: M5561_S0030_G0060_001_pod042
+JP: 推測：過酷な作業はいずれ組織に悪影響を及ぼす。
+EN: Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on the entire organization.
+RU: Предположение: продолжение выполнения ими "бестолковых заданий" в итоге окажет негативный эффект на всю организацию.
+
+ID: M5561_S0030_G0070_001_a2
+JP: ここのリーダーに、一度話をしておくか……
+EN: I'd better talk to the lady in charge about this.
+RU: Я лучше поговорю с дамочкой, ответственной за это.
+
+

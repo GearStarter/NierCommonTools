@@ -1,0 +1,207 @@
+-- Section 1
+
+ID: M1060_S0005_G0100_001_a2b
+JP: ９Ｓ。何故、Ａ２の情報をパスカルに聞いたの？
+EN: 9S, why did you ask Pascal about A2?
+RU: 9S, зачем ты спросил Паскаля насчёт A2?
+
+ID: M1060_S0005_G0110_001_a9s
+JP: え……？
+EN: Huh?
+RU: А?
+
+ID: M1060_S0005_G0120_001_a2b
+JP: 司令部に許可無く機械生命体にアクセスするのは推奨されない……
+EN: It's not recommended to interface with machines without consulting Command.
+RU: Не рекомендуется общение с машинами без одобрения от Штаба.
+
+ID: M1060_S0005_G0130_001_a9s
+JP: ……うん……ごめんなさい。
+EN: Yeah, I know. I'm sorry.
+RU: Да, я в курсе. Извини.
+
+ID: M1060_S0005_G0140_001_a2b
+JP: ……でも、そういう好奇心旺盛なところは、嫌いじゃないよ。
+EN: Though I suppose such intense curiosity can be admirable... In its own way.
+RU: Но, с другой стороны, тяга познать неизвестное всегда прекрасна.
+
+ID: M1060_S0005_G0150_001_a9s
+JP: ……
+EN: Heh.
+RU: Эх...
+
+ID: M1060_S0005_G0160_001_a9s
+JP: ありがとう。２B。
+EN: Thanks, 2B.
+RU: Спасибо, 2B.
+
+ID: M1060_S0005_G0161_001_a2b
+JP: 私達の敵は機械生命体だから、それを忘れないで。
+EN: Still, machines are the enemy. Don't forget it.
+RU: Но не стоит забывать, что машины — наши враги.
+
+
+-- Section 2
+
+ID: M5920_S0100_G0200_001_op60
+JP: オペレーター６Ｏより、２Ｂさんへ。定期連絡の時間です。
+EN: Operator 6O to 2B. It is time for your regularly-scheduled contact.
+RU: Оператор 6O вызывает 2B. Пришло время для запланированного сеанса связи.
+
+ID: M5920_S0100_G0210_001_a2b
+JP: こちら２Ｂ。問題ない。
+EN: This is 2B. Nothing to report.
+RU: На связи 2B. Докладывать нечего.
+
+ID: M5920_S0100_G0220_001_op60
+JP: ２Ｂさん、聞いて下さい。今日、花の画像データを見てたんですけど……
+EN: Listen, 2B. I was looking at images of flowers today and—
+RU: Слушай, 2B. Я сегодня разглядывала изображения с цветами и...
+
+ID: M5920_S0100_G0230_001_a2b
+JP: 花？
+EN: Flowers?
+RU: Цветами?
+
+ID: M5920_S0100_G0240_001_op60
+JP: ええ。バンカーに記録されてる少ない資料の中に\n『月の涙』っていう花があって……
+EN: Yeah. There wasn't much left in the Bunker's records, but I found one called a lunar tear.
+RU: Верно. В Бункере осталось не так много изображений, но я нашла одно с названием "лунная слеза".
+
+ID: M5920_S0100_G0250_001_op60
+JP: これ、髪飾りとかにしたらクールな２Ｂさんに良く似合うと思うんですよね〜
+EN: I bet you'd look really nice if you put one of those in your hair, 2B. It'd suit your stylish looks!
+RU: Уверена, если ты приколешь себе на волосы такой цветочек, будешь выглядеть мило. Будет отличное дополнение к твоему стилю!
+
+ID: M5920_S0100_G0260_001_a2b
+JP: 必要ない。
+EN: Don't need it.
+RU: Обойдусь.
+
+ID: M5920_S0100_G0270_001_op60
+JP: まぁまぁ、そう言わずに。お洒落は女子のタシナミですから。
+EN: Aw, don't be a stick in the mud. What kind of girl doesn't want to look good sometimes?
+RU: Ну, не будь занудой. Любая девушка желает выглядеть красиво, хотя бы изредка!
+
+ID: M5920_S0100_G0280_001_op60
+JP: またカワイイ物を発見したら２Ｂさんに報告します。
+EN: I'll let you know if I find anything else cute, okay?
+RU: Я сообщу тебе, если найду что-нибудь миленькое, хорошо?
+
+ID: M5920_S0100_G0290_001_a2b
+JP: そんな情報必要な……
+EN: I don't need to hear about—
+RU: Мне это ни к чему...
+
+ID: M5920_S0100_G0300_001_op60
+JP: 以上、オペレーター６Ｏでした。それでは！
+EN: Operator 6O out.
+RU: Оператор 6O — конец связи.
+
+ID: M5920_S0100_G0310_001_a2b
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 3
+
+ID: M5920_S0100_G0470_001_op210
+JP: オペレーター２１Ｏより、９Ｓ。定期連絡を行います。
+EN: Operator 21O to 9S. This is your regularly-scheduled contact.
+RU: Оператор 21O вызывает 9S. Пришло время для запланированного сеанса связи.
+
+ID: M5920_S0100_G0480_001_a9s
+JP: はいはーい。こちら異常はないですよ〜
+EN: Yeah, yeah. No problems here.
+RU: Да-да, всё в порядке.
+
+ID: M5920_S0100_G0490_001_op210
+JP: 了解しました。それと、最近のヨルハ機体９Ｓの活躍に対し、\n司令官から直々の賞賛があった事を伝えます。
+EN: Copy that. I also need to inform you that the Commander offers her personal praise for your recent achievements.
+RU: Вас поняла. Также сообщаю, что Командор лично хвалит вас за недавние достижения.
+
+ID: M5920_S0100_G0500_001_op210
+JP: それに伴い、９号モデルの増産の検討をするとの事。
+EN: As a direct result, we are currently considering boosting production of your model.
+RU: В связи с этим, мы рассматриваем возможность увеличения выпуска моделей, подобных вашей.
+
+ID: M5920_S0100_G0510_001_a9s
+JP: へぇ……そうなんですね。嬉しいなあ。
+EN: Really? I'm happy to hear it.
+RU: Что, правда? Рад слышать.
+
+ID: M5920_S0100_G0520_001_a9s
+JP: この結果も、オペレーターさんのサポートがあればこそですね。\nオペレーターさんは冷静だし、美人だし……
+EN: I couldn't have done it without your support, Operator. You're always so cool under fire, not to mention beautiful and—
+RU: Я бы не смог сделать этого без вашей поддержи, оператор. Вы очень рассудительны, не говоря уж о вашей красоте и...
+
+ID: M5920_S0100_G0530_001_op210
+JP: お世辞は不要です。
+EN: Flattery is unnecessary.
+RU: Не стоит льстить.
+
+ID: M5920_S0100_G0540_001_op210
+JP: 以上。
+EN: Operator 21O out.
+RU: Оператор 21О — конец связи.
+
+ID: M5920_S0100_G0550_001_a9s
+JP: お世辞じゃないんだけどなあ……
+EN: I really meant it though...
+RU: Я ведь правду говорил...
+
+
+-- Section 4
+
+ID: M1060_S0010_G0000_001_ane
+JP: ああ、２Bか。丁度いいところに来た。
+EN: Oh, 2B! Your timing is impeccable.
+RU: О, 2B! Ты как нельзя кстати.
+
+ID: M1060_S0010_G0010_001_ane
+JP: 実は我々アンドロイド軍が太平洋に展開している空母があるんだが……
+EN: Our android forces currently have a carrier deployed in the Pacific Ocean.
+RU: В данный момент наша ударная группа находится на авианосце, расположенном в Тихом океане.
+
+ID: M1060_S0010_G0020_001_ane
+JP: 近々、補給に戻ってくる。
+EN: It should be back here to resupply before too long.
+RU: Он скоро прибудет сюда для пополнения запасов.
+
+ID: M1060_S0010_G0030_001_ane
+JP: 我々レジスタンスも補給作戦をアシストする。
+EN: The Resistance is assisting with the mission...
+RU: Сопротивление окажет поддержку в этой операции...
+
+ID: M1060_S0010_G0040_001_ane
+JP: 君達にもその護衛をお願いしたい。
+EN: So I'd like to ask you to run a little guard duty.
+RU: Поэтому я хотела, чтобы вы немного помогли, в качестве сопровождающих.
+
+ID: M1060_S0010_G0050_001_a2b
+JP: 護衛？
+EN: Seriously?
+RU: Серьёзно?
+
+ID: M1060_S0010_G0060_001_ane
+JP: ああ。海岸沿いにある補給用のミサイルが準備されているんだが、
+EN: Dead serious. There's a stockpile of missiles down at the shoreline that needs to be loaded on the carrier.
+RU: На полном серьёзе. На берегу есть запас ракет, которые необходимо погрузить на корабль.
+
+ID: M1060_S0010_G0070_001_ane
+JP: 機械生命体達も最近活動を活発化させているから、\n警戒はしておいた方が良いと思ってね。
+EN: And with all the machine activity lately, we need to stay on our toes.
+RU: И со всей этой непонятной активностью машин нам надо оставаться начеку.
+
+ID: M1060_S0010_G0080_001_ane
+JP: もちろん、ヨルハ部隊からの指令があれば\nそちらを優先してもらって構わない。
+EN: Of course, if you're already working on something for YoRHa, I don't mind if that takes priority.
+RU: Если вы работаете над другой миссией YoRHa, то я вполне пойму вашу расстановку в приоритетах.
+
+ID: M1060_S0010_G0090_001_ane
+JP: 頼んだぞ。
+EN: Anyway, thanks in advance.
+RU: В любом случае, заранее благодарю.
+
+

@@ -1,0 +1,58 @@
+-- Section 1
+
+ID: M3060_S0820_G0000_001_a9s
+JP: もう、どうでもいいんだよ！全部！
+EN: It doesn't matter. None of this matters!
+RU: Не важно. Это не имеет значения!
+
+ID: M3060_S0820_G0010_001_a2
+JP: ９Ｓ……ッ！
+EN: 9S...
+RU: 9S...
+
+ID: M3060_S0820_G0020_001_a9s
+JP: だけど……なんでこんなに人間が恋しいんだ！
+EN: But if it doesn't matter...why do I long for humans like this!?
+RU: Но если мне всё равно... то почему я так скучаю по людям?!
+
+ID: M3060_S0820_G0030_001_a9s
+JP: なんでもう居ないのに人間に触れたくなるんだ！
+EN: Why do I desire the touch of something that no longer exists!?
+RU: Почему я хочу прикоснуться к тому, чего уже больше нет?!
+
+ID: M3060_S0820_G0040_001_a2
+JP: ……そう、作られているからだ。
+EN: It's how we were made.
+RU: Такими нас создали.
+
+ID: M3060_S0820_G0050_001_a2
+JP: 私達アンドロイドは、主たる人類を守るように作られている。
+EN: Androids were designed to protect their human masters.
+RU: Андроиды были разработаны для защиты своих создателей — людей.
+
+ID: M3060_S0820_G0060_001_a2
+JP: その基礎プログラムが、私達の心を……
+EN: Our core programming demands that we—
+RU: Наше программное ядро требует, чтобы мы...
+
+ID: M3060_S0820_G0070_001_a9s
+JP: うるさいっ！うるさいウルサイッウるサイ！
+EN: Shut up, shut up, shut UP, SHUT UP!
+RU: Заткнись, заткнись, заткнись, ЗАТКНИСЬ!
+
+ID: M3060_S0820_G0080_001_a9s
+JP: じゃあ、コワすだけだよ……
+EN: Fine then... I'll just destroy it!
+RU: Прекрасно, тогда... я просто его уничтожу!
+
+ID: M3060_S0820_G0090_001_a9s
+JP: ヒヒッ……ぜんブ……無くなってしまえばいいんだッ！
+EN: Hee hee... If it all goes away, that'll solve everything!
+RU: Хи-хи... если всё пойдёт наперекосяк, то это многое объяснит!
+
+ID: M3060_S0820_G0100_001_a2
+JP: ……クソッ！
+EN: Damn it!
+RU: Чёрт!
+
+

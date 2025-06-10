@@ -1,0 +1,220 @@
+ID: PAUSE_CHIP_01
+JP: チップの配置を変更します。\nよろしいですか？
+EN: Change chip layout?
+RU: Изменить раскладку чипов?
+
+ID: PAUSE_CHIP_02
+JP: このチップを破棄します。\nよろしいですか？
+EN: Destroy this chip?
+RU: Уничтожить этот чип?
+
+ID: PAUSE_CHIP_03
+JP: このチップは装備セットタイプに使用されています。\n破棄してもよろしいですか？
+EN: This chip is currently in use in a weapon set. Are you sure you want to destroy it?
+RU: Этот чип сейчас экипирован. Вы уверены, что хотите уничтожить его?
+
+ID: PAUSE_CHIP_04
+JP: この場所には装備できません。
+EN: This cannot be equipped to this spot.
+RU: Не может быть экипировано в этот слот.
+
+ID: PAUSE_CHIP_05
+JP: チップの並び替えを行います。\nよろしいですか？
+EN: Change chip arrangement?
+RU: Изменить расположение чипов?
+
+ID: PAUSE_CHIP_06
+JP: OSチップを外します。\nよろしいですか？
+EN: Remove OS chip?
+RU: Извлечь чип с ОС?
+
+ID: PAUSE_ENEMY_0000
+JP: 最も多く量産されている小型の機械生命体。\n過去、人類が作っていたゼンマイ仕掛けの玩具に似た見た目をしている。おそらく生産性を重視した結果このような構造になったのであろう。\n機械生命体はユニット構造になっており、多様なバリエーションが存在する。
+EN: The most common of the small machine lifeforms, these units bear a similarity to spring-powered toys created by humans in the past. This was likely done for the sake of increased productivity, though machine lifeforms are built from modular parts and have many variations.
+RU: Наиболее распространённые маленькие машины, они имеют сходство с заводными игрушками, создававшимися людьми в прошлом. Это, вероятно, сделано для увеличения производства, однако, машины построены из модульных частей и имеют много вариаций.
+
+ID: PAUSE_ENEMY_000b
+JP: 銃撃ユニットを装備したタイプは、エネルギー弾を発射して攻撃する。弾速は遅いが強力なエネルギーの塊であり、アンドロイドの装甲に確実なダメージを与える。
+EN: Equipped with projectile weapons, these units attack by firing energy rounds. While the masses of energy travel slowly, they have enough firepower to easily damage an android's armor.
+RU: Снаряжённые дальнобойным оружием, эти машины атакуют энергетическими снарядами. Хоть сгустки энергии передвигаются медленно, они достаточно мощные, чтобы легко повредить броню андроидов.
+
+ID: PAUSE_ENEMY_000c
+JP: 盾を装備したタイプにはポッドによる射撃が効かないため、近距離攻撃での対処が有効である。
+EN: A Pod's projectile attacks have no effect on shielded units, making close combat the most effective method of disposal.
+RU: Дальнобойные атаки Бота не эффективны против машин с щитом, использование ближнего боя — наиболее эффективный метод уничтожения.
+
+ID: PAUSE_ENEMY_0010
+JP: 人のような四肢を持った中型の機械生命体。大きめの腕は汎用性に優れており、多くの装備を持つことができる。
+EN: This medium-sized machine lifeform possesses large, human-like limbs. These arms give it tremendous versatility in battle, as it can equip a great many weapons.
+RU: Эта машина среднего размера имеет большие конечности, похожие на человеческие. Эти руки дают ей огромную гибкость в битве, так как она может быть оснащена различным оружием.
+
+ID: PAUSE_ENEMY_001f
+JP: 大型の盾を持ったタイプにはポッドによる銃撃が効かないため、近距離攻撃での対処が有効である。
+EN: A Pod's projectile attacks have no effect on shielded units, making close combat the most effective method of disposal.
+RU: Дальнобойные атаки Бота неэффективны против машин с щитом, использование ближнего боя — наиболее эффективный метод уничтожения.
+
+ID: PAUSE_ENEMY_0040
+JP: 飛行装置を取り付けた小型の機械生命体。\n銃撃ユニットを装備しており、エネルギー弾を発射して攻撃する。弾速は遅いが強力なエネルギーの塊であり、アンドロイドの装甲に確実なダメージを与える。\n\n飛行装置下部にはワイヤーが備えられており、他の機械生命体を運搬することができる。
+EN: A small machine lifeform outfitted with a flight device. Its firearm launches slow-moving energy pulses that can damage even the armor of an android, while the wire on the bottom of the flight device allows it to transport other machine lifeforms when necessary.
+RU: Маленькая машина, оборудованная летательными аппаратами. Её огнестрельное оружие запускает медленно движущиеся энергетические импульсы, которые могут повредить даже броню андроида, в то время как тросы на дне летательных аппаратов позволяют транспортировать другие машины.
+
+ID: PAUSE_ENEMY_0300
+JP: 重機のような見た目をした大型の機械生命体。\n破壊目標の超大型兵器と思われたが、機体の特徴から判別するに、この機体はそれでは無かった。\n掘削用のバケットホイールを回転させ攻撃を行う。
+EN: A massive Goliath-class machine lifeform that resembles heavy machinery of old. While it appears to have been constructed solely for its destructive abilities, a closer look at its features tells a different story. While in combat, it comes after foes with a repurposed bucket-wheel excavator.
+RU: Огромная машина класса Голиаф, которая похожа на тяжёлую технику из старого мира. Хотя она, кажется, была построена исключительно для разрушения, при близком рассмотрении её особенностей можно судить о другом происхождении. В бой она вступает в виде переделанного роторного экскаватора.
+
+ID: PAUSE_ENEMY_0310
+JP: 建造物に偽装されていた超大型の機械生命体。重機型の機械生命体と合体することで真の姿を現した。\n大量のエネルギーを全身に這わせてあり、冷却のために各所から常に蒸気を立ち昇らせている。\n攻撃で腕を振り上げる際には、通過するエネルギーによるあまりの熱量のため炎が噴き上がる。\n\n一定数量産されているようであり、工場廃墟では複数の存在が確認されるも、２Ｂと９Ｓのブラックボックス反応によって殲滅させられた。
+EN: A massive Goliath-class machine lifeform disguised as a building. The tremendous amounts of energy running through its body forces the unit to emit steam in order to stay cool. When attacking, the heat generated from its arms often causes them to become engulfed in flames. Thought to have been produced in limited numbers, multiple units were recently discovered at the abandoned factory—though they were eventually destroyed by black-box reactions from 2B and 9S.
+RU: Огромная машина класса Голиаф, замаскированная под здание. Гигантское количество энергии, проходящей через её тело, вынуждает машину выбрасывать пар, чтобы не перегреваться. Во время атаки жар, выделяемый из её рук, становится частой причиной самовозгорания. Считается, что они произведены в ограниченном количестве, но недавно множество единиц было обнаружено на заброшенной фабрике, которые в итоге были уничтожены реакцией чёрных ящиков 2B и 9S.
+
+ID: PAUSE_ITEM_TXT_01
+JP: 「<ITEM_NAME>」を<ITEM_NUM>個捨てます。\nよろしいですか？
+EN: Discard "<ITEM_NAME>" x <ITEM_NUM>?
+RU: Выбросить "<ITEM_NAME>" x <ITEM_NUM>?
+
+ID: PAUSE_SYSTEM_TXT_01
+JP: セーブされていないゲームデータは失われます。\nよろしいですか？
+EN: Unsaved game data will be lost. Proceed?
+RU: Несохранённые данные будут потеряны. Продолжить?
+
+ID: PAUSE_SYSTEM_TXT_02
+JP: 進行状況を破棄してタイトルに戻りますがよろしいですか？
+EN: Discard your current progress and return to the title screen?
+RU: Сбросить ваш текущий прогресс и вернуться в главное меню?
+
+ID: PAUSE_TUTORIAL_001
+JP: <KC_MOVE_2>：移動
+EN: <KC_MOVE_2>: Move
+RU: <KC_MOVE_2>: Движение
+
+ID: PAUSE_TUTORIAL_002
+JP: <KC_CAMERA_2>：カメラ操作
+EN: <KC_CAMERA_2>: Move camera
+RU: <KC_CAMERA_2>: Движение камеры
+
+ID: PAUSE_TUTORIAL_003
+JP: <KC_EVADE_2>：回避
+EN: <KC_EVADE_2>: Evade
+RU: <KC_EVADE_2>: Уклонение
+
+ID: PAUSE_TUTORIAL_003_PC
+JP: <KC_EVADE_2>：(×2) 回避
+EN: <KC_EVADE_2>: (×2) Evade
+RU: <KC_EVADE_2>: (×2) Уклонение
+
+ID: PAUSE_TUTORIAL_004
+JP: <KC_JUMP_2>：ジャンプ
+EN: <KC_JUMP_2>: Jump
+RU: <KC_JUMP_2>: Прыжок
+
+ID: PAUSE_TUTORIAL_005
+JP: <KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>：ダッシュ
+EN: <KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>: Dash
+RU: <KC_MOVE_2><ICON_PLUS_2><KC_EVADE_2>: Рывок
+
+ID: PAUSE_TUTORIAL_005_PC
+JP: <KC_EVADE_2>：(×2) ダッシュ
+EN: <KC_EVADE_2>: (×2) Dash
+RU: <KC_EVADE_2>: (×2) Рывок
+
+ID: PAUSE_TUTORIAL_006
+JP: <KC_LOCKON_2>：ロックオン (ON/OFF)
+EN: <KC_LOCKON_2>: Lock-on (On/Off)
+RU: <KC_LOCKON_2>: Захват цели (Вкл/Выкл)
+
+ID: PAUSE_TUTORIAL_007
+JP: <KC_WEP_CHANGE_2>：装備セット切替
+EN: <KC_WEP_CHANGE_2>: Switch Weapons
+RU: <KC_WEP_CHANGE_2>: Сменить оружие
+
+ID: PAUSE_TUTORIAL_009
+JP: <KC_USE_ITEM_2>：アイテム使用
+EN: <KC_USE_ITEM_2>: Use Items
+RU: <KC_USE_ITEM_2>: Использовать предмет
+
+ID: PAUSE_TUTORIAL_010
+JP: <KC_SHORTCUT_2>：ショートカットメニュー
+EN: <KC_SHORTCUT_2>: Shortcut Menu
+RU: <KC_SHORTCUT_2>: Меню быстрого доступа
+
+ID: PAUSE_TUTORIAL_011
+JP: <KC_LIGHT_2>：ライト (ON/OFF)
+EN: <KC_LIGHT_2>: Pod Light (On/Off)
+RU: <KC_LIGHT_2>: Фонарь Бота (Вкл/Выкл)
+
+ID: PAUSE_TUTORIAL_012
+JP: <KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>：ロックオン切替
+EN: <KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>: Switch target
+RU: <KC_LOCKON_2><ICON_PLUS_2><KC_LOCK_CHANGE_2>: Смена цели
+
+ID: PAUSE_TUTORIAL_014
+JP: <KC_MENU_2>：システムメニュー
+EN: <KC_MENU_2>: System Menu
+RU: <KC_MENU_2>: Системное меню
+
+ID: PAUSE_TUTORIAL_101
+JP: <KC_SHOT_2>：射撃
+EN: <KC_SHOT_2>: Fire
+RU: <KC_SHOT_2>: Стрельба
+
+ID: PAUSE_TUTORIAL_102
+JP: <KC_SPEED_ATK_2>：スピードアタック
+EN: <KC_SPEED_ATK_2>: Light Attack
+RU: <KC_SPEED_ATK_2>: Легкая атака
+
+ID: PAUSE_TUTORIAL_103
+JP: <KC_HEAVY_ATK_2>：ヘビーアタック
+EN: <KC_HEAVY_ATK_2>: Heavy Attack
+RU: <KC_HEAVY_ATK_2>: Тяжёлая атака
+
+ID: PAUSE_TUTORIAL_104
+JP: <KC_SKILL_2>：ポッド・プログラム
+EN: <KC_SKILL_2>: Pod program
+RU: <KC_SKILL_2>:  Программа Бота
+
+ID: PAUSE_TUTORIAL_105
+JP: <KC_EVADE_2>：(タイミングよく) ジャスト回避
+EN: <KC_EVADE_2>: Perfect Evade (with precise timing)
+RU: <KC_EVADE_2>: Идеальное уклонение (в определённый момент)
+
+ID: PAUSE_TUTORIAL_106
+JP: <KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>：(ジャスト回避中) 回避攻撃
+EN: <KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>: Counter (with Perfect Evade)
+RU: <KC_SPEED_ATK_2><ICON_SLASH_2><KC_HEAVY_ATK_2><ICON_SLASH_2><KC_SHOT_2>: Контратака (с идеальным уклонением)
+
+ID: PAUSE_TUTORIAL_301
+JP: <KC_MOVE_2>：移動
+EN: <KC_MOVE_2>: Move
+RU: <KC_MOVE_2>: Движение
+
+ID: PAUSE_TUTORIAL_302
+JP: <KC_SHOT_2>：射撃
+EN: <KC_SHOT_2>: Fire
+RU: <KC_SHOT_2>: Стрельба
+
+ID: PAUSE_TUTORIAL_303
+JP: <KC_CAMERA_2>：射撃方向
+EN: <KC_CAMERA_2>: Aim
+RU: <KC_CAMERA_2>: Прицеливание
+
+ID: PAUSE_TUTORIAL_304
+JP: <KC_EVADE_2>：回避
+EN: <KC_EVADE_2>: Evade
+RU: <KC_EVADE_2>: Уклонение
+
+ID: PAUSE_WEAPONSTORY_1070_01
+JP: 私はいつまで戦い続けるのだろう。\nこの血塗られた、戦場の渦の中。
+EN: How long can I fight amidst this bloody vortex of a battlefield? How long, I wonder?
+RU: Как долго я смогу держаться посреди этого кровавого вихря сражений? Интересно, как долго?
+
+ID: PAUSE_WEAPONSTORY_1260_01
+JP: アガ　オモイビト　ハジメテ　フレアウ
+EN: FIRST ENCOUNTER\nWITH\nMY LOVER
+RU: ПЕРВАЯ ВСТРЕЧА\nС\nМОЕЙ ЛЮБОВЬЮ
+
+ID: PAUSE_WP_TXT_01
+JP: 強セットと弱セットの装備を入れ替えます。\nよろしいですか？
+EN: Switch the equipped weapons for light and heavy attacks?
+RU: Сменить экипированное оружие для легкой и тяжёлой атаки?
+

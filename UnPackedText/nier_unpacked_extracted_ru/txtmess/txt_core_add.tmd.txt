@@ -1,0 +1,8640 @@
+ID: CORE_ACT_SKILL_HELP_01
+JP: 
+EN: Выпускает мощный\nлазер в направлении\nвзгляда бота.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_02
+JP: 
+EN: Анализирует врагов в определённом\nрадиусе, позволяя провести\nсерию смертельных режущих\nударов в области поражения.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_03
+JP: 
+EN: Призывает гигантский энергомолот,\nкоторый наносит сокрушительный\nудар по цели.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_04
+JP: 
+EN: Раскручивает на большой\nскорости бота вокруг игрока.\nНаносит урон всем\nпротивникам, которых коснётся.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_05
+JP: 
+EN: Накапливает заряд и выпускает\nряд смертоносных копий\nв четыре стороны.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_06
+JP: 
+EN: Создаёт барьер, блокирующий\nатаки дальнего боя.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_07
+JP: 
+EN: Создаёт барьер, блокирующий\nатаки ближнего боя.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_08
+JP: 
+EN: Создаёт мощную ударную\nволну с помощью броска бота\nс высоты.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_09
+JP: 
+EN: Запускает цепь в направлении\nвзгляда бота. Если на пути\nокажется враг, вы притянетесь\nк нему для проведения атаки.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_10
+JP: 
+EN: Создаёт вашу голограмму,\nотвлекающую внимание\nврагов и стреляющую\nв них атаками бота.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_11
+JP: 
+EN: Создаёт область, искажающую\nвремя, замедляя врагов,\nпопадающих в неё.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_12
+JP: 
+EN: Временно создаёт луч,\nкоторый исцеляет союзников,\nпока они находятся\nв радиусе действия.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_15
+JP: 
+EN: Выпускает залпы малых\nвзрывных устройств\nв течение определённого\nпериода времени.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_19
+JP: 
+EN: Создаёт область, которая\nзатягивает врагов,\nпопавших в неё.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_21
+JP: 
+EN: Сковывает и бьёт током ближайшего\nпротивника, нанося непрерывный\nурон, в течение определённого\nпериода времени.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_22
+JP: 
+EN: Позволяет бойцу прокатиться\nверхом на боте, с ограниченными\nвозможностями управления,\nпрямиком в гущу боя.
+RU: 
+
+ID: CORE_ACT_SKILL_HELP_24
+JP: 
+EN: Испускает ультразвуковые\nволны для сканирования\nокружения, в целях поиска\nскрытых предметов.
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_01
+JP: 
+EN: R010: Лазер
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_02
+JP: 
+EN: R020: Мираж
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_03
+JP: 
+EN: R030: Молот
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_04
+JP: 
+EN: R040: Клинок
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_05
+JP: 
+EN: R050: Копьё
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_06
+JP: 
+EN: R070: Экран
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_07
+JP: 
+EN: A060: Щит
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_08
+JP: 
+EN: A080: Волна
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_09
+JP: 
+EN: A090: Цепь
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_10
+JP: 
+EN: A100: Приманка
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_11
+JP: 
+EN: A110: Замедление
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_12
+JP: 
+EN: A120: Починка
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_15
+JP: 
+EN: A130: Бомба
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_19
+JP: 
+EN: A140: Притяжение
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_21
+JP: 
+EN: A150: Вольт
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_22
+JP: 
+EN: A160: Ракета
+RU: 
+
+ID: CORE_ACT_SKILL_NAME_24
+JP: 
+EN: A170: Сканер
+RU: 
+
+ID: CORE_ARCHIVE_020_000
+JP: 
+EN: Записи о высадке в Пёрл-Харборе
+RU: 
+
+ID: CORE_ARCHIVE_020_010
+JP: 
+EN: YoRHa: Стрелок 16 (тип G)
+RU: 
+
+ID: CORE_ARCHIVE_020_020
+JP: 
+EN: YoRHa: Сканер 21 (тип S)
+RU: 
+
+ID: CORE_ARCHIVE_020_030
+JP: 
+EN: YoRHa: Атакующая 4 (тип А)
+RU: 
+
+ID: CORE_ARCHIVE_020_040
+JP: 
+EN: YoRHa: Атакующая 2 (тип А)
+RU: 
+
+ID: CORE_ARCHIVE_020_050
+JP: 
+EN: Сопротивление: Роза
+RU: 
+
+ID: CORE_ARCHIVE_020_060
+JP: 
+EN: Сопротивление: Анемона
+RU: 
+
+ID: CORE_ARCHIVE_020_070
+JP: 
+EN: Сводка высадки в Пёрл-Харборе
+RU: 
+
+ID: CORE_ARCHIVE_030_000
+JP: 
+EN: Воспоминания
+RU: 
+
+ID: CORE_ARCHIVE_030_010
+JP: 
+EN: Воспоминания певицы
+RU: 
+
+ID: CORE_ARCHIVE_030_020
+JP: 
+EN: Воспоминания Деволы и Пополы
+RU: 
+
+ID: CORE_ARCHIVE_030_030
+JP: 
+EN: Воспоминания 9S
+RU: 
+
+ID: CORE_ARCHIVE_030_040
+JP: 
+EN: Анемона: Столкновение
+RU: 
+
+ID: CORE_ARCHIVE_030_050
+JP: 
+EN: Анемона: Согласие
+RU: 
+
+ID: CORE_ARCHIVE_030_060
+JP: 
+EN: Анемона: Разделение
+RU: 
+
+ID: CORE_ARCHIVE_040_010
+JP: 
+EN: Письмо лесному королю
+RU: 
+
+ID: CORE_ARCHIVE_050_010
+JP: 
+EN: План побега 11B
+RU: 
+
+ID: CORE_ARCHIVE_080_010
+JP: 
+EN: Рецептура бомбы от Джекэсс
+RU: 
+
+ID: CORE_ARCHIVE_090_000
+JP: 
+EN: Записи спасённых машин
+RU: 
+
+ID: CORE_ARCHIVE_090_010
+JP: 
+EN: Библиотечный каталог
+RU: 
+
+ID: CORE_ARCHIVE_090_020
+JP: 
+EN: Сервер человечества
+RU: 
+
+ID: CORE_ARCHIVE_090_030
+JP: 
+EN: О системе Башни
+RU: 
+
+ID: CORE_ARCHIVE_090_040
+JP: 
+EN: Медкарта пациента 1-го класса
+RU: 
+
+ID: CORE_ARCHIVE_090_050
+JP: 
+EN: [Секретно] Проект YoRHa
+RU: 
+
+ID: CORE_ARCHIVE_090_060
+JP: 
+EN: [Секретно] Чёрный ящик
+RU: 
+
+ID: CORE_ARCHIVE_090_070
+JP: 
+EN: [Секретно] Модель номер 2
+RU: 
+
+ID: CORE_ARCHIVE_090_080
+JP: 
+EN: [Секретно] Ликвидация YoRHa
+RU: 
+
+ID: CORE_ARCHIVE_100_010
+JP: 
+EN: Летающий торговец оружием
+RU: 
+
+ID: CORE_ARCHIVE_120_000
+JP: 
+EN: Воспоминания Энгельса
+RU: 
+
+ID: CORE_ARCHIVE_120_010
+JP: 
+EN: Энгельс 110-B запись 0005
+RU: 
+
+ID: CORE_ARCHIVE_120_020
+JP: 
+EN: Энгельс 110-B запись 0010
+RU: 
+
+ID: CORE_ARCHIVE_120_030
+JP: 
+EN: Энгельс 110-B запись 0020
+RU: 
+
+ID: CORE_ARCHIVE_130_010
+JP: 
+EN: Воспоминания машины-малыша
+RU: 
+
+ID: CORE_ARCHIVE_140_000
+JP: 
+EN: Данные, сохранённые на сервере
+RU: 
+
+ID: CORE_ARCHIVE_140_010
+JP: 
+EN: Отчёты о доставке
+RU: 
+
+ID: CORE_ARCHIVE_140_020
+JP: 
+EN: Отчёты о хранении тел YoRHa
+RU: 
+
+ID: CORE_ARCHIVE_140_030
+JP: 
+EN: Записи Совета/YoRHa
+RU: 
+
+ID: CORE_ARCHIVE_150_010
+JP: 
+EN: Воля благочестивой машины
+RU: 
+
+ID: CORE_ARCHIVE_160_010
+JP: 
+EN: Записи зверомашины
+RU: 
+
+ID: CORE_ARCHIVE_170_000
+JP: 
+EN: Информация из старого мира
+RU: 
+
+ID: CORE_ARCHIVE_170_010
+JP: 
+EN: Записи с заброшенной фабрики
+RU: 
+
+ID: CORE_ARCHIVE_170_020
+JP: 
+EN: Вывеска заводского буфета
+RU: 
+
+ID: CORE_ARCHIVE_170_030
+JP: 
+EN: Обрывки газет
+RU: 
+
+ID: CORE_ARCHIVE_170_040
+JP: 
+EN: Грязный лотерейный билет
+RU: 
+
+ID: CORE_ARCHIVE_170_050
+JP: 
+EN: Потрёпанный буклет
+RU: 
+
+ID: CORE_ARCHIVE_170_060
+JP: 
+EN: Пожелтевший справочник
+RU: 
+
+ID: CORE_ARCHIVE_170_070
+JP: 
+EN: Странная кукла
+RU: 
+
+ID: CORE_ARCHIVE_170_080
+JP: 
+EN: Записи из ведомостей
+RU: 
+
+ID: CORE_ARCHIVE_170_090
+JP: 
+EN: Листок на автомобиле
+RU: 
+
+ID: CORE_ARCHIVE_170_100
+JP: 
+EN: Потрёпанный DVD
+RU: 
+
+ID: CORE_ARCHIVE_170_105
+JP: 
+EN: Листовка из универмага
+RU: 
+
+ID: CORE_ARCHIVE_170_110
+JP: 
+EN: Руководство по ядерному оружию
+RU: 
+
+ID: CORE_ARCHIVE_170_112
+JP: 
+EN: Таинственная литография 1
+RU: 
+
+ID: CORE_ARCHIVE_170_114
+JP: 
+EN: Таинственная литография 2
+RU: 
+
+ID: CORE_ARCHIVE_170_116
+JP: 
+EN: Таинственная литография 3
+RU: 
+
+ID: CORE_ARCHIVE_170_118
+JP: 
+EN: Таинственная литография 4
+RU: 
+
+ID: CORE_ARCHIVE_170_120
+JP: 
+EN: Проект Гештальт — отчёт 1
+RU: 
+
+ID: CORE_ARCHIVE_170_130
+JP: 
+EN: Проект Гештальт — отчёт 2
+RU: 
+
+ID: CORE_ARCHIVE_170_140
+JP: 
+EN: Проект Гештальт — отчёт 3
+RU: 
+
+ID: CORE_ARCHIVE_170_150
+JP: 
+EN: Проект Гештальт — отчёт 4
+RU: 
+
+ID: CORE_ARCHIVE_170_160
+JP: 
+EN: Проект Гештальт — отчёт 5
+RU: 
+
+ID: CORE_ARCHIVE_170_170
+JP: 
+EN: Проект Гештальт — отчёт 6
+RU: 
+
+ID: CORE_ARCHIVE_170_180
+JP: 
+EN: Проект Гештальт — отчёт 7
+RU: 
+
+ID: CORE_ARCHIVE_170_190
+JP: 
+EN: Проект Гештальт — отчёт 8
+RU: 
+
+ID: CORE_ARCHIVE_170_200
+JP: 
+EN: Проект Гештальт — отчёт 9
+RU: 
+
+ID: CORE_ARCHIVE_170_210
+JP: 
+EN: Проект Гештальт — отчёт 10
+RU: 
+
+ID: CORE_ARCHIVE_170_220
+JP: 
+EN: Проект Гештальт — отчёт 11
+RU: 
+
+ID: CORE_ARCHIVE_180_010
+JP: 
+EN: Отчёт по исследованию машин
+RU: 
+
+ID: CORE_ARCHIVE_GET_01
+JP: 
+EN: Архивов получено:
+RU: 
+
+ID: CORE_BOOK_01
+JP: 
+EN: Дух огня
+RU: 
+
+ID: CORE_BOOK_02
+JP: 
+EN: Дорогие предметы
+RU: 
+
+ID: CORE_BOOK_03
+JP: 
+EN: Парентецид
+RU: 
+
+ID: CORE_BOOK_04
+JP: 
+EN: Добрый король
+RU: 
+
+ID: CORE_BOOK_05
+JP: 
+EN: В глубине океана
+RU: 
+
+ID: CORE_BOOK_06
+JP: 
+EN: Причина для жизни
+RU: 
+
+ID: CORE_BOOK_07
+JP: 
+EN: Вместе и до конца
+RU: 
+
+ID: CORE_BOOK_08
+JP: 
+EN: Воспоминания о войне
+RU: 
+
+ID: CORE_DBG_DIALOG_01
+JP: 
+EN: Использование режима отладки отключает функцию сохранения до тех пор, пока вы не загрузите какое-нибудь сохранение.
+RU: 
+
+ID: CORE_DBG_DIALOG_02
+JP: 
+EN: Вы не можете сохраниться, потому что используете режим отладки.
+RU: 
+
+ID: CORE_DLC_LOST
+JP: 
+EN: Данные DLC не найдены:
+RU: 
+
+ID: CORE_DLC_LOST_2
+JP: 
+EN: Обнаружены данные DLC "3C3C1D119440927"
+RU: 
+
+ID: CORE_DYING_BASE_00
+JP: 
+EN: "[<SENTENCE_01>] [<SENTENCE_02>] [<CONJUNCTION>]".
+RU: 
+
+ID: CORE_DYING_BASE_01
+JP: 
+EN: <SENTENCE_01> <SENTENCE_02> <CONJUNCTION>.
+RU: 
+
+ID: CORE_DYING_FIRST_000
+JP: 
+EN: Кто-то где-то
+RU: 
+
+ID: CORE_DYING_FIRST_001
+JP: 
+EN: <NAME>
+RU: 
+
+ID: CORE_DYING_FIRST_002
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_003
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_004
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_005
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_006
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_007
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_008
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_009
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_010
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_011
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_012
+JP: 
+EN: Безымянный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_013
+JP: 
+EN: Цельный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_014
+JP: 
+EN: Раненый андроид
+RU: 
+
+ID: CORE_DYING_FIRST_015
+JP: 
+EN: Чёрный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_016
+JP: 
+EN: Гуманоидная машина
+RU: 
+
+ID: CORE_DYING_FIRST_017
+JP: 
+EN: Одинокий солдат
+RU: 
+
+ID: CORE_DYING_FIRST_018
+JP: 
+EN: Свирепый солдат
+RU: 
+
+ID: CORE_DYING_FIRST_019
+JP: 
+EN: Мужественный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_020
+JP: 
+EN: Немощный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_021
+JP: 
+EN: Жадный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_022
+JP: 
+EN: Жестокий солдат
+RU: 
+
+ID: CORE_DYING_FIRST_023
+JP: 
+EN: Верный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_024
+JP: 
+EN: Богемный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_025
+JP: 
+EN: Неопытный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_026
+JP: 
+EN: Наивный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_027
+JP: 
+EN: Коммуникабельный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_028
+JP: 
+EN: Безрассудный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_029
+JP: 
+EN: Неприметный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_030
+JP: 
+EN: Одинокий мечник
+RU: 
+
+ID: CORE_DYING_FIRST_031
+JP: 
+EN: Одинокий копейщик
+RU: 
+
+ID: CORE_DYING_FIRST_032
+JP: 
+EN: Одинокий боксёр
+RU: 
+
+ID: CORE_DYING_FIRST_033
+JP: 
+EN: Мастер парного оружия
+RU: 
+
+ID: CORE_DYING_FIRST_034
+JP: 
+EN: Безоружный солдат
+RU: 
+
+ID: CORE_DYING_FIRST_035
+JP: 
+EN: Красивый андроид
+RU: 
+
+ID: CORE_DYING_FIRST_036
+JP: 
+EN: Маленький андроид
+RU: 
+
+ID: CORE_DYING_FIRST_037
+JP: 
+EN: Двуличный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_038
+JP: 
+EN: Андроид-оруженосец
+RU: 
+
+ID: CORE_DYING_FIRST_039
+JP: 
+EN: Эмоциональный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_040
+JP: 
+EN: Безжалостный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_041
+JP: 
+EN: Одинокий андроид
+RU: 
+
+ID: CORE_DYING_FIRST_042
+JP: 
+EN: Беззаботный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_043
+JP: 
+EN: Серьёзный андроид
+RU: 
+
+ID: CORE_DYING_FIRST_044
+JP: 
+EN: Андроид с любовью к битвам
+RU: 
+
+ID: CORE_DYING_FIRST_045
+JP: 
+EN: Андроид с любовью к природе
+RU: 
+
+ID: CORE_DYING_FIRST_046
+JP: 
+EN: Андроид с любовью к животным
+RU: 
+
+ID: CORE_DYING_FIRST_047
+JP: 
+EN: Андроид с любовью к морю
+RU: 
+
+ID: CORE_DYING_FIRST_048
+JP: 
+EN: Андроид с любовью к небу
+RU: 
+
+ID: CORE_DYING_FIRST_049
+JP: 
+EN: Андроид с любовью к земле
+RU: 
+
+ID: CORE_DYING_FIRST_050
+JP: 
+EN: Глупая кукла
+RU: 
+
+ID: CORE_DYING_FIRST_051
+JP: 
+EN: Мечтательный ребёнок
+RU: 
+
+ID: CORE_DYING_FIRST_052
+JP: 
+EN: Гордый мужчина
+RU: 
+
+ID: CORE_DYING_FIRST_053
+JP: 
+EN: Справедливый юноша
+RU: 
+
+ID: CORE_DYING_FIRST_054
+JP: 
+EN: Проклятый ребёнок
+RU: 
+
+ID: CORE_DYING_FIRST_055
+JP: 
+EN: Скрытная девушка
+RU: 
+
+ID: CORE_DYING_FIRST_056
+JP: 
+EN: Одинокая женщина
+RU: 
+
+ID: CORE_DYING_FIRST_057
+JP: 
+EN: Страдающая девушка
+RU: 
+
+ID: CORE_DYING_FIRST_058
+JP: 
+EN: Напуганная девушка
+RU: 
+
+ID: CORE_DYING_FIRST_059
+JP: 
+EN: Сломленная женщина
+RU: 
+
+ID: CORE_DYING_FIRST_060
+JP: 
+EN: Мстительная девушка
+RU: 
+
+ID: CORE_DYING_FIRST_061
+JP: 
+EN: Женщина без убеждений
+RU: 
+
+ID: CORE_DYING_FIRST_062
+JP: 
+EN: Страстная амазонка
+RU: 
+
+ID: CORE_DYING_FIRST_063
+JP: 
+EN: Бедный ягнёнок
+RU: 
+
+ID: CORE_DYING_FIRST_064
+JP: 
+EN: Выдолбленная кукла
+RU: 
+
+ID: CORE_DYING_FIRST_065
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_066
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_FIRST_067
+JP: 
+EN: Я
+RU: 
+
+ID: CORE_DYING_JUNCTION_001
+JP: 
+EN: в небесной колыбели
+RU: 
+
+ID: CORE_DYING_JUNCTION_002
+JP: 
+EN: в Бункере, глядя на Землю
+RU: 
+
+ID: CORE_DYING_JUNCTION_003
+JP: 
+EN: в штабе YoRHa
+RU: 
+
+ID: CORE_DYING_JUNCTION_004
+JP: 
+EN: в городе, утонувшем в зелени
+RU: 
+
+ID: CORE_DYING_JUNCTION_005
+JP: 
+EN: на руинах цивилизации
+RU: 
+
+ID: CORE_DYING_JUNCTION_006
+JP: 
+EN: в городе, поглощённом природой
+RU: 
+
+ID: CORE_DYING_JUNCTION_007
+JP: 
+EN: в пустынных краях
+RU: 
+
+ID: CORE_DYING_JUNCTION_008
+JP: 
+EN: в городе с зияющей дырой
+RU: 
+
+ID: CORE_DYING_JUNCTION_009
+JP: 
+EN: в городе, отвоёванном природой
+RU: 
+
+ID: CORE_DYING_JUNCTION_010
+JP: 
+EN: на горе из металла
+RU: 
+
+ID: CORE_DYING_JUNCTION_011
+JP: 
+EN: в столице хлама
+RU: 
+
+ID: CORE_DYING_JUNCTION_012
+JP: 
+EN: на священной горе
+RU: 
+
+ID: CORE_DYING_JUNCTION_013
+JP: 
+EN: в доме из металлолома
+RU: 
+
+ID: CORE_DYING_JUNCTION_014
+JP: 
+EN: в бесплодном лесу
+RU: 
+
+ID: CORE_DYING_JUNCTION_015
+JP: 
+EN: в глубоком, тёмном лесу
+RU: 
+
+ID: CORE_DYING_JUNCTION_016
+JP: 
+EN: в раскидистом лесу
+RU: 
+
+ID: CORE_DYING_JUNCTION_017
+JP: 
+EN: в королевстве машин
+RU: 
+
+ID: CORE_DYING_JUNCTION_018
+JP: 
+EN: в мире завершённых снов
+RU: 
+
+ID: CORE_DYING_JUNCTION_019
+JP: 
+EN: в краях искажённых сказок
+RU: 
+
+ID: CORE_DYING_JUNCTION_020
+JP: 
+EN: в наполненном светом городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_021
+JP: 
+EN: в закрытом театре
+RU: 
+
+ID: CORE_DYING_JUNCTION_022
+JP: 
+EN: в пустом театре
+RU: 
+
+ID: CORE_DYING_JUNCTION_023
+JP: 
+EN: в затонувшем городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_024
+JP: 
+EN: в поглощённом водой городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_025
+JP: 
+EN: в погрязшем в синеве городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_026
+JP: 
+EN: в фальшивом городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_027
+JP: 
+EN: в воссозданном городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_028
+JP: 
+EN: в городе из коробок
+RU: 
+
+ID: CORE_DYING_JUNCTION_029
+JP: 
+EN: в городе из строительных блоков
+RU: 
+
+ID: CORE_DYING_JUNCTION_030
+JP: 
+EN: в неорганическом городе
+RU: 
+
+ID: CORE_DYING_JUNCTION_031
+JP: 
+EN: в реплике города
+RU: 
+
+ID: CORE_DYING_JUNCTION_032
+JP: 
+EN: в пустыне теней
+RU: 
+
+ID: CORE_DYING_JUNCTION_033
+JP: 
+EN: в мире песка
+RU: 
+
+ID: CORE_DYING_JUNCTION_034
+JP: 
+EN: в песчаные дни
+RU: 
+
+ID: CORE_DYING_JUNCTION_035
+JP: 
+EN: в окружении ветров смерти
+RU: 
+
+ID: CORE_DYING_JUNCTION_036
+JP: 
+EN: в тёмной яме под городом
+RU: 
+
+ID: CORE_DYING_JUNCTION_037
+JP: 
+EN: под землёй
+RU: 
+
+ID: CORE_DYING_JUNCTION_038
+JP: 
+EN: в логове врага
+RU: 
+
+ID: CORE_DYING_JUNCTION_039
+JP: 
+EN: внутри пустого корабля
+RU: 
+
+ID: CORE_DYING_JUNCTION_040
+JP: 
+EN: в башне, построенной богами
+RU: 
+
+ID: CORE_DYING_JUNCTION_041
+JP: 
+EN: на башне, под улыбками ангелов
+RU: 
+
+ID: CORE_DYING_JUNCTION_042
+JP: 
+EN: внутри высокой башни
+RU: 
+
+ID: CORE_DYING_JUNCTION_043
+JP: 
+EN: в миролюбивой деревне
+RU: 
+
+ID: CORE_DYING_JUNCTION_044
+JP: 
+EN: в деревне беженцев
+RU: 
+
+ID: CORE_DYING_JUNCTION_045
+JP: 
+EN: в открытом небе
+RU: 
+
+ID: CORE_DYING_JUNCTION_046
+JP: 
+EN: под сгустившимися тучами
+RU: 
+
+ID: CORE_DYING_JUNCTION_047
+JP: 
+EN: на морском поле боя
+RU: 
+
+ID: CORE_DYING_JUNCTION_048
+JP: 
+EN: в ходе решающей битвы
+RU: 
+
+ID: CORE_DYING_JUNCTION_049
+JP: 
+EN: в ходе бессмысленной битвы
+RU: 
+
+ID: CORE_DYING_JUNCTION_050
+JP: 
+EN: на зелёных пастбищах
+RU: 
+
+ID: CORE_DYING_JUNCTION_051
+JP: 
+EN: на ярко-синей поверхности
+RU: 
+
+ID: CORE_DYING_JUNCTION_052
+JP: 
+EN: на земле из металла
+RU: 
+
+ID: CORE_DYING_JUNCTION_053
+JP: 
+EN: в разрушающемся здании
+RU: 
+
+ID: CORE_DYING_JUNCTION_054
+JP: 
+EN: на сухом песке
+RU: 
+
+ID: CORE_DYING_JUNCTION_055
+JP: 
+EN: , глядя вниз, на Землю
+RU: 
+
+ID: CORE_DYING_JUNCTION_056
+JP: 
+EN: в глубинах ада
+RU: 
+
+ID: CORE_DYING_JUNCTION_057
+JP: 
+EN: в бездне
+RU: 
+
+ID: CORE_DYING_JUNCTION_058
+JP: 
+EN: в непроглядной темноте
+RU: 
+
+ID: CORE_DYING_JUNCTION_059
+JP: 
+EN: на поле боя, пропитанном кровью
+RU: 
+
+ID: CORE_DYING_JUNCTION_060
+JP: 
+EN: на земле, застрявшей в прошлом
+RU: 
+
+ID: CORE_DYING_JUNCTION_061
+JP: 
+EN: в памятном месте
+RU: 
+
+ID: CORE_DYING_JUNCTION_062
+JP: 
+EN: в родных краях
+RU: 
+
+ID: CORE_DYING_JUNCTION_063
+JP: 
+EN: вон там
+RU: 
+
+ID: CORE_DYING_JUNCTION_064
+JP: 
+EN: там
+RU: 
+
+ID: CORE_DYING_JUNCTION_065
+JP: 
+EN: на мусорной свалке
+RU: 
+
+ID: CORE_DYING_JUNCTION_066
+JP: 
+EN: в скучной деревне
+RU: 
+
+ID: CORE_DYING_JUNCTION_067
+JP: 
+EN: где-то, где очень скучно
+RU: 
+
+ID: CORE_DYING_JUNCTION_068
+JP: 
+EN: в месте, подходящем для смерти
+RU: 
+
+ID: CORE_DYING_JUNCTION_069
+JP: 
+EN: где-то, где очень темно
+RU: 
+
+ID: CORE_DYING_JUNCTION_070
+JP: 
+EN: в непонятном месте
+RU: 
+
+ID: CORE_DYING_LAST_001_01
+JP: 
+EN: увидел самого ненавистного врага
+RU: 
+
+ID: CORE_DYING_LAST_001_02
+JP: 
+EN: увидел самого ненавистного врага
+RU: 
+
+ID: CORE_DYING_LAST_002_01
+JP: 
+EN: увидел жалкий кусок металла
+RU: 
+
+ID: CORE_DYING_LAST_002_02
+JP: 
+EN: увидел жалкий кусок металла
+RU: 
+
+ID: CORE_DYING_LAST_003_01
+JP: 
+EN: увидел вторгающихся захватчиков
+RU: 
+
+ID: CORE_DYING_LAST_003_02
+JP: 
+EN: увидел вторгающихся захватчиков
+RU: 
+
+ID: CORE_DYING_LAST_004_01
+JP: 
+EN: увидел, как враг захватил Землю
+RU: 
+
+ID: CORE_DYING_LAST_004_02
+JP: 
+EN: увидел, как враг захватил Землю
+RU: 
+
+ID: CORE_DYING_LAST_005_01
+JP: 
+EN: увидел машины без эмоций
+RU: 
+
+ID: CORE_DYING_LAST_005_02
+JP: 
+EN: увидел машины без эмоций
+RU: 
+
+ID: CORE_DYING_LAST_006_01
+JP: 
+EN: подумал о своих друзьях
+RU: 
+
+ID: CORE_DYING_LAST_006_02
+JP: 
+EN: подумал о своих друзьях
+RU: 
+
+ID: CORE_DYING_LAST_007_01
+JP: 
+EN: увидел старых друзей
+RU: 
+
+ID: CORE_DYING_LAST_007_02
+JP: 
+EN: увидел старых друзей
+RU: 
+
+ID: CORE_DYING_LAST_008_01
+JP: 
+EN: увидел YoRHa, однажды считавшегося другом
+RU: 
+
+ID: CORE_DYING_LAST_008_02
+JP: 
+EN: увидел YoRHa, однажды считавшегося другом
+RU: 
+
+ID: CORE_DYING_LAST_009_01
+JP: 
+EN: увидел андроида с красными глазами
+RU: 
+
+ID: CORE_DYING_LAST_009_02
+JP: 
+EN: увидел андроида с красными глазами
+RU: 
+
+ID: CORE_DYING_LAST_010_01
+JP: 
+EN: увидел спятивших сослуживцев
+RU: 
+
+ID: CORE_DYING_LAST_010_02
+JP: 
+EN: увидел спятивших сослуживцев
+RU: 
+
+ID: CORE_DYING_LAST_011_01
+JP: 
+EN: пожелал победы друзьям
+RU: 
+
+ID: CORE_DYING_LAST_011_02
+JP: 
+EN: пожелал победы друзьям
+RU: 
+
+ID: CORE_DYING_LAST_012_01
+JP: 
+EN: увидел нечто странное, но знакомое
+RU: 
+
+ID: CORE_DYING_LAST_012_02
+JP: 
+EN: увидел нечто странное, но знакомое
+RU: 
+
+ID: CORE_DYING_LAST_013_01
+JP: 
+EN: увидел давно погибших
+RU: 
+
+ID: CORE_DYING_LAST_013_02
+JP: 
+EN: увидел давно погибших
+RU: 
+
+ID: CORE_DYING_LAST_014_01
+JP: 
+EN: подумал о возлюбленной
+RU: 
+
+ID: CORE_DYING_LAST_014_02
+JP: 
+EN: подумал о возлюбленном
+RU: 
+
+ID: CORE_DYING_LAST_015_01
+JP: 
+EN: увидел машину, имитирующую человека
+RU: 
+
+ID: CORE_DYING_LAST_015_02
+JP: 
+EN: увидел машину, имитирующую человека
+RU: 
+
+ID: CORE_DYING_LAST_016_01
+JP: 
+EN: увидел машину, размышляющую о жизни и смерти
+RU: 
+
+ID: CORE_DYING_LAST_016_02
+JP: 
+EN: увидел машину, размышляющую о жизни и смерти
+RU: 
+
+ID: CORE_DYING_LAST_017_01
+JP: 
+EN: увидел машину, бродящую по округе
+RU: 
+
+ID: CORE_DYING_LAST_017_02
+JP: 
+EN: увидел машину, бродящую по округе
+RU: 
+
+ID: CORE_DYING_LAST_018_01
+JP: 
+EN: увидел солдат, защищавших свою землю
+RU: 
+
+ID: CORE_DYING_LAST_018_02
+JP: 
+EN: увидел солдат, защищавших свою землю
+RU: 
+
+ID: CORE_DYING_LAST_019_01
+JP: 
+EN: увидел машины, веселящиеся на параде
+RU: 
+
+ID: CORE_DYING_LAST_019_02
+JP: 
+EN: увидел машины, веселящиеся на параде
+RU: 
+
+ID: CORE_DYING_LAST_020_01
+JP: 
+EN: увидел машины, которые верили в неопределенность
+RU: 
+
+ID: CORE_DYING_LAST_020_02
+JP: 
+EN: увидел машины, которые верили в неопределенность
+RU: 
+
+ID: CORE_DYING_LAST_021_01
+JP: 
+EN: увидел машину в глубоких раздумьях
+RU: 
+
+ID: CORE_DYING_LAST_021_02
+JP: 
+EN: увидел машину в глубоких раздумьях
+RU: 
+
+ID: CORE_DYING_LAST_022_01
+JP: 
+EN: увидел машину, танцевавшую как сумасшедшая
+RU: 
+
+ID: CORE_DYING_LAST_022_02
+JP: 
+EN: увидел машину, танцевавшую как сумасшедшая
+RU: 
+
+ID: CORE_DYING_LAST_023_01
+JP: 
+EN: увидел заботливую машину
+RU: 
+
+ID: CORE_DYING_LAST_023_02
+JP: 
+EN: увидел заботливую машину
+RU: 
+
+ID: CORE_DYING_LAST_024_01
+JP: 
+EN: увидел машину, полную любви
+RU: 
+
+ID: CORE_DYING_LAST_024_02
+JP: 
+EN: увидел машину, полную любви
+RU: 
+
+ID: CORE_DYING_LAST_025_01
+JP: 
+EN: увидел машину, летающую вокруг
+RU: 
+
+ID: CORE_DYING_LAST_025_02
+JP: 
+EN: увидел машину, летающую вокруг
+RU: 
+
+ID: CORE_DYING_LAST_026_01
+JP: 
+EN: увидел машину, кончающую со всем
+RU: 
+
+ID: CORE_DYING_LAST_026_02
+JP: 
+EN: увидел машину, решившую со всем покончить
+RU: 
+
+ID: CORE_DYING_LAST_027_01
+JP: 
+EN: увидел машину, живущую ради сражений
+RU: 
+
+ID: CORE_DYING_LAST_027_02
+JP: 
+EN: увидел машину, живущую ради сражений
+RU: 
+
+ID: CORE_DYING_LAST_028_01
+JP: 
+EN: увидел машину, поедающую себе подобных
+RU: 
+
+ID: CORE_DYING_LAST_028_02
+JP: 
+EN: увидел машину, поедающую себе подобных
+RU: 
+
+ID: CORE_DYING_LAST_029_01
+JP: 
+EN: увидел машину, любящую людей
+RU: 
+
+ID: CORE_DYING_LAST_029_02
+JP: 
+EN: увидел машину, любящую людей
+RU: 
+
+ID: CORE_DYING_LAST_030_01
+JP: 
+EN: увидел потерявшуюся машину
+RU: 
+
+ID: CORE_DYING_LAST_030_02
+JP: 
+EN: увидел потерявшуюся машину
+RU: 
+
+ID: CORE_DYING_LAST_031_01
+JP: 
+EN: увидел машину, погребённую в песке
+RU: 
+
+ID: CORE_DYING_LAST_031_02
+JP: 
+EN: увидел машину, погребённую в песке
+RU: 
+
+ID: CORE_DYING_LAST_032_01
+JP: 
+EN: увидел машину за деревом
+RU: 
+
+ID: CORE_DYING_LAST_032_02
+JP: 
+EN: увидел машину за деревом
+RU: 
+
+ID: CORE_DYING_LAST_033_01
+JP: 
+EN: увидел машину с мечтами
+RU: 
+
+ID: CORE_DYING_LAST_033_02
+JP: 
+EN: увидел машину с мечтами
+RU: 
+
+ID: CORE_DYING_LAST_034_01
+JP: 
+EN: увидел машину, живущую в хламе
+RU: 
+
+ID: CORE_DYING_LAST_034_02
+JP: 
+EN: увидел машину, живущую в хламе
+RU: 
+
+ID: CORE_DYING_LAST_035_01
+JP: 
+EN: увидел машину на прогулке
+RU: 
+
+ID: CORE_DYING_LAST_035_02
+JP: 
+EN: увидел машину на прогулке
+RU: 
+
+ID: CORE_DYING_LAST_036_01
+JP: 
+EN: увидел машину, закрывающую небо
+RU: 
+
+ID: CORE_DYING_LAST_036_02
+JP: 
+EN: увидел машину, закрывающую небо
+RU: 
+
+ID: CORE_DYING_LAST_037_01
+JP: 
+EN: увидел белый цветок
+RU: 
+
+ID: CORE_DYING_LAST_037_02
+JP: 
+EN: увидел белый цветок
+RU: 
+
+ID: CORE_DYING_LAST_038_01
+JP: 
+EN: увидел колышущуюся флору
+RU: 
+
+ID: CORE_DYING_LAST_038_02
+JP: 
+EN: увидел колышущуюся флору
+RU: 
+
+ID: CORE_DYING_LAST_039_01
+JP: 
+EN: услышал звук текущей воды
+RU: 
+
+ID: CORE_DYING_LAST_039_02
+JP: 
+EN: услышал звук текущей воды
+RU: 
+
+ID: CORE_DYING_LAST_040_01
+JP: 
+EN: услышал звук волн
+RU: 
+
+ID: CORE_DYING_LAST_040_02
+JP: 
+EN: услышал звук волн
+RU: 
+
+ID: CORE_DYING_LAST_041_01
+JP: 
+EN: услышал шаги машин
+RU: 
+
+ID: CORE_DYING_LAST_041_02
+JP: 
+EN: услышал шаги машин
+RU: 
+
+ID: CORE_DYING_LAST_042_01
+JP: 
+EN: услышал зов своих друзей
+RU: 
+
+ID: CORE_DYING_LAST_042_02
+JP: 
+EN: услышал зов своих друзей
+RU: 
+
+ID: CORE_DYING_LAST_043_01
+JP: 
+EN: увидел синюю птицу
+RU: 
+
+ID: CORE_DYING_LAST_043_02
+JP: 
+EN: увидел синюю птицу
+RU: 
+
+ID: CORE_DYING_LAST_044_01
+JP: 
+EN: увидел белую книгу
+RU: 
+
+ID: CORE_DYING_LAST_044_02
+JP: 
+EN: увидел белую книгу
+RU: 
+
+ID: CORE_DYING_LAST_045_01
+JP: 
+EN: увидел чёрную книгу
+RU: 
+
+ID: CORE_DYING_LAST_045_02
+JP: 
+EN: увидел чёрную книгу
+RU: 
+
+ID: CORE_DYING_LAST_046_01
+JP: 
+EN: ощутил холод воды
+RU: 
+
+ID: CORE_DYING_LAST_046_02
+JP: 
+EN: ощутил холод воды
+RU: 
+
+ID: CORE_DYING_LAST_047_01
+JP: 
+EN: ощутил жар песка
+RU: 
+
+ID: CORE_DYING_LAST_047_02
+JP: 
+EN: ощутил жар песка
+RU: 
+
+ID: CORE_DYING_LAST_048_01
+JP: 
+EN: услышал весело смеющуюся девушку
+RU: 
+
+ID: CORE_DYING_LAST_048_02
+JP: 
+EN: услышал весело смеющуюся девушку
+RU: 
+
+ID: CORE_DYING_LAST_049_01
+JP: 
+EN: увидел красные глаза, глядящие вниз
+RU: 
+
+ID: CORE_DYING_LAST_049_02
+JP: 
+EN: увидел красные глаза, глядящие вниз
+RU: 
+
+ID: CORE_DYING_LAST_050_01
+JP: 
+EN: услышал крики сумасшедших машин
+RU: 
+
+ID: CORE_DYING_LAST_050_02
+JP: 
+EN: услышал крики сумасшедших машин
+RU: 
+
+ID: CORE_DYING_LAST_051_01
+JP: 
+EN: услышал крики сумасшедших андроидов
+RU: 
+
+ID: CORE_DYING_LAST_051_02
+JP: 
+EN: услышал крики сумасшедших андроидов
+RU: 
+
+ID: CORE_DYING_LAST_052_01
+JP: 
+EN: ощутил собственное бессилие
+RU: 
+
+ID: CORE_DYING_LAST_052_02
+JP: 
+EN: ощутил собственное бессилие
+RU: 
+
+ID: CORE_DYING_LAST_053_01
+JP: 
+EN: смеялся над силой противника
+RU: 
+
+ID: CORE_DYING_LAST_053_02
+JP: 
+EN: смеялся над силой противника
+RU: 
+
+ID: CORE_DYING_LAST_054_01
+JP: 
+EN: был шокирован случившимся
+RU: 
+
+ID: CORE_DYING_LAST_054_02
+JP: 
+EN: был шокирована случившимся
+RU: 
+
+ID: CORE_DYING_LAST_055_01
+JP: 
+EN: искал большей силы
+RU: 
+
+ID: CORE_DYING_LAST_055_02
+JP: 
+EN: искал большей силы
+RU: 
+
+ID: CORE_DYING_LAST_056_01
+JP: 
+EN: пожалел о своих ошибках
+RU: 
+
+ID: CORE_DYING_LAST_056_02
+JP: 
+EN: пожалел о своих ошибках
+RU: 
+
+ID: CORE_DYING_LAST_057_01
+JP: 
+EN: попал во вражескую засаду
+RU: 
+
+ID: CORE_DYING_LAST_057_02
+JP: 
+EN: попал во вражескую засаду
+RU: 
+
+ID: CORE_DYING_LAST_058_01
+JP: 
+EN: был окружён врагами
+RU: 
+
+ID: CORE_DYING_LAST_058_02
+JP: 
+EN: был окружён врагами
+RU: 
+
+ID: CORE_DYING_LAST_059_01
+JP: 
+EN: смеялся над собственной кончиной
+RU: 
+
+ID: CORE_DYING_LAST_059_02
+JP: 
+EN: смеялся над собственной кончиной
+RU: 
+
+ID: CORE_DYING_LAST_060_01
+JP: 
+EN: поклялся отомстить
+RU: 
+
+ID: CORE_DYING_LAST_060_02
+JP: 
+EN: поклялся отомстить
+RU: 
+
+ID: CORE_DYING_LAST_061_01
+JP: 
+EN: упал с изяществом
+RU: 
+
+ID: CORE_DYING_LAST_061_02
+JP: 
+EN: упал с изяществом
+RU: 
+
+ID: CORE_DYING_LAST_062_01
+JP: 
+EN: сражался изо всех сил
+RU: 
+
+ID: CORE_DYING_LAST_062_02
+JP: 
+EN: сражался изо всех сил
+RU: 
+
+ID: CORE_DYING_LAST_063_01
+JP: 
+EN: пророчил возмездие
+RU: 
+
+ID: CORE_DYING_LAST_063_02
+JP: 
+EN: пророчил возмездие
+RU: 
+
+ID: CORE_DYING_LAST_064_01
+JP: 
+EN: ощутил отчаяние в этом холодном мире
+RU: 
+
+ID: CORE_DYING_LAST_064_02
+JP: 
+EN: ощутил отчаяние в этом холодном мире
+RU: 
+
+ID: CORE_DYING_LAST_065_01
+JP: 
+EN: сражался из последних сил
+RU: 
+
+ID: CORE_DYING_LAST_065_02
+JP: 
+EN: сражался из последних сил
+RU: 
+
+ID: CORE_DYING_LAST_066_01
+JP: 
+EN: истратил все силы
+RU: 
+
+ID: CORE_DYING_LAST_066_02
+JP: 
+EN: истратил все силы
+RU: 
+
+ID: CORE_DYING_LAST_067_01
+JP: 
+EN: был неосторожным
+RU: 
+
+ID: CORE_DYING_LAST_067_02
+JP: 
+EN: был неосторожным
+RU: 
+
+ID: CORE_DYING_LAST_068_01
+JP: 
+EN: рухнул
+RU: 
+
+ID: CORE_DYING_LAST_068_02
+JP: 
+EN: рухнул
+RU: 
+
+ID: CORE_DYING_LAST_069_01
+JP: 
+EN: упал
+RU: 
+
+ID: CORE_DYING_LAST_069_02
+JP: 
+EN: упал
+RU: 
+
+ID: CORE_DYING_LAST_070_01
+JP: 
+EN: не смог подняться снова
+RU: 
+
+ID: CORE_DYING_LAST_070_02
+JP: 
+EN: не смог подняться снова
+RU: 
+
+ID: CORE_DYING_LAST_071_01
+JP: 
+EN: поклялся расти как личность
+RU: 
+
+ID: CORE_DYING_LAST_071_02
+JP: 
+EN: поклялся расти как личность
+RU: 
+
+ID: CORE_DYING_LAST_072_01
+JP: 
+EN: сморщился от гнева
+RU: 
+
+ID: CORE_DYING_LAST_072_02
+JP: 
+EN: сморщился от гнева
+RU: 
+
+ID: CORE_DYING_LAST_073_01
+JP: 
+EN: упустил шанс всей жизни
+RU: 
+
+ID: CORE_DYING_LAST_073_02
+JP: 
+EN: упустил шанс всей жизни
+RU: 
+
+ID: CORE_DYING_LAST_074_01
+JP: 
+EN: не смог найти уязвимость
+RU: 
+
+ID: CORE_DYING_LAST_074_02
+JP: 
+EN: не смог найти уязвимость
+RU: 
+
+ID: CORE_DYING_LAST_075_01
+JP: 
+EN: не нашёл способа атаковать врага
+RU: 
+
+ID: CORE_DYING_LAST_075_02
+JP: 
+EN: не нашёл способа атаковать врага
+RU: 
+
+ID: CORE_DYING_LAST_076_01
+JP: 
+EN: не имел никаких шансов против врага
+RU: 
+
+ID: CORE_DYING_LAST_076_02
+JP: 
+EN: не имел никаких шансов против врага
+RU: 
+
+ID: CORE_DYING_LAST_077_01
+JP: 
+EN: отвлёкся на красивый цветочек
+RU: 
+
+ID: CORE_DYING_LAST_077_02
+JP: 
+EN: отвлёкся на красивый цветочек
+RU: 
+
+ID: CORE_DYING_LAST_078_01
+JP: 
+EN: не решился нанести последний удар
+RU: 
+
+ID: CORE_DYING_LAST_078_02
+JP: 
+EN: не решился нанести последний удар
+RU: 
+
+ID: CORE_DYING_LAST_079_01
+JP: 
+EN: был атакован со спины
+RU: 
+
+ID: CORE_DYING_LAST_079_02
+JP: 
+EN: была атакован со спины
+RU: 
+
+ID: CORE_DYING_LAST_080_01
+JP: 
+EN: вдруг обнаружил себя на земле
+RU: 
+
+ID: CORE_DYING_LAST_080_02
+JP: 
+EN: вдруг обнаружил себя на земле
+RU: 
+
+ID: CORE_DYING_LAST_081_01
+JP: 
+EN: ни разу не смог попасть
+RU: 
+
+ID: CORE_DYING_LAST_081_02
+JP: 
+EN: ни разу не смогл попасть
+RU: 
+
+ID: CORE_DYING_LAST_082_01
+JP: 
+EN: проклял собственное бездействие
+RU: 
+
+ID: CORE_DYING_LAST_082_02
+JP: 
+EN: проклял собственное бездействие
+RU: 
+
+ID: CORE_DYING_LAST_083_01
+JP: 
+EN: недооценил врага
+RU: 
+
+ID: CORE_DYING_LAST_083_02
+JP: 
+EN: недооценил врага
+RU: 
+
+ID: CORE_DYING_LAST_084_01
+JP: 
+EN: повернулся спиной к врагу
+RU: 
+
+ID: CORE_DYING_LAST_084_02
+JP: 
+EN: повернулся спиной к врагу
+RU: 
+
+ID: CORE_DYING_LAST_085_01
+JP: 
+EN: научился бояться врага
+RU: 
+
+ID: CORE_DYING_LAST_085_02
+JP: 
+EN: научился бояться врага
+RU: 
+
+ID: CORE_DYING_LAST_086_01
+JP: 
+EN: был поглощён страхом
+RU: 
+
+ID: CORE_DYING_LAST_086_02
+JP: 
+EN: был поглощён страхом
+RU: 
+
+ID: CORE_DYING_LAST_087_01
+JP: 
+EN: был сам на себя не похож
+RU: 
+
+ID: CORE_DYING_LAST_087_02
+JP: 
+EN: был сам на себя не похож
+RU: 
+
+ID: CORE_DYING_LAST_088_01
+JP: 
+EN: был не в лучшей форме
+RU: 
+
+ID: CORE_DYING_LAST_088_02
+JP: 
+EN: был не в лучшей форме
+RU: 
+
+ID: CORE_DYING_LAST_089_01
+JP: 
+EN: сражался не в полную силу
+RU: 
+
+ID: CORE_DYING_LAST_089_02
+JP: 
+EN: сражался не в полную силу
+RU: 
+
+ID: CORE_DYING_LAST_090_01
+JP: 
+EN: пытался одолеть могучего врага
+RU: 
+
+ID: CORE_DYING_LAST_090_02
+JP: 
+EN: пытался одолеть могучего врага
+RU: 
+
+ID: CORE_DYING_LAST_091_01
+JP: 
+EN: желал узнать свои пределы
+RU: 
+
+ID: CORE_DYING_LAST_091_02
+JP: 
+EN: желал узнать свои пределы
+RU: 
+
+ID: CORE_DYING_LAST_092_01
+JP: 
+EN: был зажат в угол
+RU: 
+
+ID: CORE_DYING_LAST_092_02
+JP: 
+EN: был зажат в угол
+RU: 
+
+ID: CORE_DYING_LAST_093_01
+JP: 
+EN: храбро сражался
+RU: 
+
+ID: CORE_DYING_LAST_093_02
+JP: 
+EN: храбро сражался
+RU: 
+
+ID: CORE_DYING_LAST_094_01
+JP: 
+EN: опрометчиво бросил вызов врагу
+RU: 
+
+ID: CORE_DYING_LAST_094_02
+JP: 
+EN: опрометчиво бросил вызов врагу
+RU: 
+
+ID: CORE_DYING_LAST_095_01
+JP: 
+EN: доблестно сражался
+RU: 
+
+ID: CORE_DYING_LAST_095_02
+JP: 
+EN: доблестно сражался
+RU: 
+
+ID: CORE_DYING_LAST_096_01
+JP: 
+EN: проиграл сражение
+RU: 
+
+ID: CORE_DYING_LAST_096_02
+JP: 
+EN: проиграл сражение
+RU: 
+
+ID: CORE_DYING_LAST_097_01
+JP: 
+EN: встретил почётную смертью
+RU: 
+
+ID: CORE_DYING_LAST_097_02
+JP: 
+EN: встретил почётную смертью
+RU: 
+
+ID: CORE_DYING_LAST_098_01
+JP: 
+EN: получил ценный урок
+RU: 
+
+ID: CORE_DYING_LAST_098_02
+JP: 
+EN: получил ценный урок
+RU: 
+
+ID: CORE_DYING_LAST_099_01
+JP: 
+EN: наслаждался тяжёлой битвой
+RU: 
+
+ID: CORE_DYING_LAST_099_02
+JP: 
+EN: наслаждался тяжёлой битвой
+RU: 
+
+ID: CORE_DYING_LAST_100_01
+JP: 
+EN: не переставал улыбаться
+RU: 
+
+ID: CORE_DYING_LAST_100_02
+JP: 
+EN: не переставал улыбаться
+RU: 
+
+ID: CORE_DYING_LAST_101_01
+JP: 
+EN: ощутил на себе причуды судьбы
+RU: 
+
+ID: CORE_DYING_LAST_101_02
+JP: 
+EN: ощутил на себе причуды судьбы
+RU: 
+
+ID: CORE_DYING_LAST_102_01
+JP: 
+EN: применил все боевые умения
+RU: 
+
+ID: CORE_DYING_LAST_102_02
+JP: 
+EN: применил все боевые умения
+RU: 
+
+ID: CORE_DYING_LAST_103_01
+JP: 
+EN: защищался
+RU: 
+
+ID: CORE_DYING_LAST_103_02
+JP: 
+EN: защищался
+RU: 
+
+ID: CORE_DYING_LAST_104_01
+JP: 
+EN: переломил ход боя
+RU: 
+
+ID: CORE_DYING_LAST_104_02
+JP: 
+EN: переломил ход боя
+RU: 
+
+ID: CORE_DYING_LAST_105_01
+JP: 
+EN: почти победил
+RU: 
+
+ID: CORE_DYING_LAST_105_02
+JP: 
+EN: почти победил
+RU: 
+
+ID: CORE_DYING_LAST_106_01
+JP: 
+EN: восхищался силой противника
+RU: 
+
+ID: CORE_DYING_LAST_106_02
+JP: 
+EN: восхищался силой противника
+RU: 
+
+ID: CORE_DYING_LAST_107_01
+JP: 
+EN: осознал собственную слабость
+RU: 
+
+ID: CORE_DYING_LAST_107_02
+JP: 
+EN: осознал собственную слабость
+RU: 
+
+ID: CORE_DYING_LAST_108_01
+JP: 
+EN: не мог сдержать улыбки
+RU: 
+
+ID: CORE_DYING_LAST_108_02
+JP: 
+EN: не мог сдержать улыбки
+RU: 
+
+ID: CORE_DYING_LAST_109_01
+JP: 
+EN: плакал навзрыд
+RU: 
+
+ID: CORE_DYING_LAST_109_02
+JP: 
+EN: плакал навзрыд
+RU: 
+
+ID: CORE_DYING_LAST_110_01
+JP: 
+EN: был переполнен эмоциями
+RU: 
+
+ID: CORE_DYING_LAST_110_02
+JP: 
+EN: был переполнен эмоциями
+RU: 
+
+ID: CORE_DYING_LAST_111_01
+JP: 
+EN: перестал пытаться думать
+RU: 
+
+ID: CORE_DYING_LAST_111_02
+JP: 
+EN: перестал пытаться думать
+RU: 
+
+ID: CORE_DYING_LAST_112_01
+JP: 
+EN: потерпел двойной нокаут
+RU: 
+
+ID: CORE_DYING_LAST_112_02
+JP: 
+EN: потерпел двойной нокаут
+RU: 
+
+ID: CORE_DYING_LAST_113_01
+JP: 
+EN: упал рядом с врагом
+RU: 
+
+ID: CORE_DYING_LAST_113_02
+JP: 
+EN: упал рядом с врагом
+RU: 
+
+ID: CORE_DYING_LAST_114_01
+JP: 
+EN: пал без сожалений
+RU: 
+
+ID: CORE_DYING_LAST_114_02
+JP: 
+EN: пал без сожалений
+RU: 
+
+ID: CORE_DYING_LAST_115_01
+JP: 
+EN: поддался сомнениям
+RU: 
+
+ID: CORE_DYING_LAST_115_02
+JP: 
+EN: поддался сомнениям
+RU: 
+
+ID: CORE_DYING_LAST_116_01
+JP: 
+EN: был недостаточно быстр
+RU: 
+
+ID: CORE_DYING_LAST_116_02
+JP: 
+EN: был недостаточно быстр
+RU: 
+
+ID: CORE_DYING_LAST_117_01
+JP: 
+EN: умер
+RU: 
+
+ID: CORE_DYING_LAST_117_02
+JP: 
+EN: умер
+RU: 
+
+ID: CORE_DYING_LAST_118_01
+JP: 
+EN: был убит
+RU: 
+
+ID: CORE_DYING_LAST_118_02
+JP: 
+EN: был убит
+RU: 
+
+ID: CORE_DYING_LAST_119_01
+JP: 
+EN: стал прекрасным воспоминанием
+RU: 
+
+ID: CORE_DYING_LAST_119_02
+JP: 
+EN: стал прекрасным воспоминанием
+RU: 
+
+ID: CORE_DYING_LAST_120_01
+JP: 
+EN: стал ветром
+RU: 
+
+ID: CORE_DYING_LAST_120_02
+JP: 
+EN: стал ветром
+RU: 
+
+ID: CORE_DYING_LAST_121_01
+JP: 
+EN: мирно скончался
+RU: 
+
+ID: CORE_DYING_LAST_121_02
+JP: 
+EN: мирно скончался
+RU: 
+
+ID: CORE_DYING_LAST_122_01
+JP: 
+EN: ощутил, как ускользает жизнь
+RU: 
+
+ID: CORE_DYING_LAST_122_02
+JP: 
+EN: ощутил, как ускользает жизнь
+RU: 
+
+ID: CORE_DYING_LAST_123_01
+JP: 
+EN: не сдавался до самого конца
+RU: 
+
+ID: CORE_DYING_LAST_123_02
+JP: 
+EN: не сдавался до самого конца
+RU: 
+
+ID: CORE_DYING_LAST_124_01
+JP: 
+EN: сражался в славной битве
+RU: 
+
+ID: CORE_DYING_LAST_124_02
+JP: 
+EN: сражался в славной битве
+RU: 
+
+ID: CORE_DYING_RANDOM_01
+JP: 
+EN: Случайно
+RU: 
+
+ID: CORE_END_01
+JP: 
+EN: A
+RU: 
+
+ID: CORE_END_02
+JP: 
+EN: B
+RU: 
+
+ID: CORE_END_03
+JP: 
+EN: C
+RU: 
+
+ID: CORE_END_04
+JP: 
+EN: D
+RU: 
+
+ID: CORE_END_05
+JP: 
+EN: E
+RU: 
+
+ID: CORE_END_06
+JP: 
+EN: F
+RU: 
+
+ID: CORE_END_07
+JP: 
+EN: G
+RU: 
+
+ID: CORE_END_08
+JP: 
+EN: H
+RU: 
+
+ID: CORE_END_09
+JP: 
+EN: I
+RU: 
+
+ID: CORE_END_10
+JP: 
+EN: J
+RU: 
+
+ID: CORE_END_11
+JP: 
+EN: K
+RU: 
+
+ID: CORE_END_12
+JP: 
+EN: L
+RU: 
+
+ID: CORE_END_13
+JP: 
+EN: M
+RU: 
+
+ID: CORE_END_14
+JP: 
+EN: N
+RU: 
+
+ID: CORE_END_15
+JP: 
+EN: O
+RU: 
+
+ID: CORE_END_16
+JP: 
+EN: P
+RU: 
+
+ID: CORE_END_17
+JP: 
+EN: Q
+RU: 
+
+ID: CORE_END_18
+JP: 
+EN: R
+RU: 
+
+ID: CORE_END_19
+JP: 
+EN: S
+RU: 
+
+ID: CORE_END_20
+JP: 
+EN: T
+RU: 
+
+ID: CORE_END_21
+JP: 
+EN: U
+RU: 
+
+ID: CORE_END_22
+JP: 
+EN: V
+RU: 
+
+ID: CORE_END_23
+JP: 
+EN: W
+RU: 
+
+ID: CORE_END_24
+JP: 
+EN: X
+RU: 
+
+ID: CORE_END_25
+JP: 
+EN: Y
+RU: 
+
+ID: CORE_END_26
+JP: 
+EN: Z
+RU: 
+
+ID: CORE_FISH_01
+JP: 
+EN: Аравана
+RU: 
+
+ID: CORE_FISH_02
+JP: 
+EN: Рыба-близнец
+RU: 
+
+ID: CORE_FISH_03
+JP: 
+EN: Японская медака
+RU: 
+
+ID: CORE_FISH_04
+JP: 
+EN: Карп
+RU: 
+
+ID: CORE_FISH_05
+JP: 
+EN: Рыба-шар
+RU: 
+
+ID: CORE_FISH_06
+JP: 
+EN: Карп кои
+RU: 
+
+ID: CORE_FISH_07
+JP: 
+EN: Мохнатый карп
+RU: 
+
+ID: CORE_FISH_08
+JP: 
+EN: Пресноводный скат
+RU: 
+
+ID: CORE_FISH_09
+JP: 
+EN: Арапайма
+RU: 
+
+ID: CORE_FISH_10
+JP: 
+EN: Нефтяная сардина
+RU: 
+
+ID: CORE_FISH_11
+JP: 
+EN: Водяная блоха
+RU: 
+
+ID: CORE_FISH_12
+JP: 
+EN: Двухголов
+RU: 
+
+ID: CORE_FISH_13
+JP: 
+EN: Латимерия
+RU: 
+
+ID: CORE_FISH_14
+JP: 
+EN: Рыба-собака
+RU: 
+
+ID: CORE_FISH_15
+JP: 
+EN: Рыба-меч
+RU: 
+
+ID: CORE_FISH_16
+JP: 
+EN: Макрель
+RU: 
+
+ID: CORE_FISH_17
+JP: 
+EN: Мечехвост
+RU: 
+
+ID: CORE_FISH_18
+JP: 
+EN: Жукорыба
+RU: 
+
+ID: CORE_FISH_19
+JP: 
+EN: Морская звезда
+RU: 
+
+ID: CORE_FISH_20
+JP: 
+EN: Лещ
+RU: 
+
+ID: CORE_FISH_21
+JP: 
+EN: Китовая акула
+RU: 
+
+ID: CORE_FISH_22
+JP: 
+EN: Японская медака (машина)
+RU: 
+
+ID: CORE_FISH_23
+JP: 
+EN: Карп кои (машина)
+RU: 
+
+ID: CORE_FISH_24
+JP: 
+EN: Арапайма (машина)
+RU: 
+
+ID: CORE_FISH_25
+JP: 
+EN: Карп (машина)
+RU: 
+
+ID: CORE_FISH_26
+JP: 
+EN: Рыба-шар (машина)
+RU: 
+
+ID: CORE_FISH_27
+JP: 
+EN: Рыба-собака (машина)
+RU: 
+
+ID: CORE_FISH_28
+JP: 
+EN: Рыба-меч (машина)
+RU: 
+
+ID: CORE_FISH_29
+JP: 
+EN: Морская звезда (машина)
+RU: 
+
+ID: CORE_FISH_30
+JP: 
+EN: Лещ (машина)
+RU: 
+
+ID: CORE_FISH_31
+JP: 
+EN: Латимерия (машина)
+RU: 
+
+ID: CORE_FISH_32
+JP: 
+EN: Макрель (машина)
+RU: 
+
+ID: CORE_FISH_33
+JP: 
+EN: Мечехвост (машина)
+RU: 
+
+ID: CORE_FISH_34
+JP: 
+EN: Аравана (машина)
+RU: 
+
+ID: CORE_FISH_35
+JP: 
+EN: Китовая акула (машина)
+RU: 
+
+ID: CORE_FISH_36
+JP: 
+EN: Пресноводный скат (машина)
+RU: 
+
+ID: CORE_FISH_37
+JP: 
+EN: Голова машины
+RU: 
+
+ID: CORE_FISH_38
+JP: 
+EN: Покрышка
+RU: 
+
+ID: CORE_FISH_39
+JP: 
+EN: Газовый баллон
+RU: 
+
+ID: CORE_FISH_40
+JP: 
+EN: Аккумулятор
+RU: 
+
+ID: CORE_FISH_41
+JP: 
+EN: Сломанное оружие
+RU: 
+
+ID: CORE_FISH_HELP_01
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_02
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_03
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_04
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_05
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_06
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_07
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_08
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_09
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_10
+JP: 
+EN: Поймана в реке.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_11
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_12
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_13
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_14
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_15
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_16
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_17
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_18
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_19
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_20
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_21
+JP: 
+EN: Поймана в море.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_22
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_23
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_24
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_25
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_26
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_27
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_28
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_29
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_30
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_31
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_32
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_33
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_34
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_35
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_36
+JP: 
+EN: Водоплавающая машина.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_37
+JP: 
+EN: Старый хлам.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_38
+JP: 
+EN: Старый хлам.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_39
+JP: 
+EN: Старый хлам.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_40
+JP: 
+EN: Старый хлам.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_FISH_HELP_41
+JP: 
+EN: Старый хлам.\nМожно продать торговцу.
+RU: 
+
+ID: CORE_GAMECENTER_01
+JP: 
+EN: Приступить к взлому?
+RU: 
+
+ID: CORE_GAMECENTER_02
+JP: 
+EN: Начать тренировку?
+RU: 
+
+ID: CORE_GAMECLEAR_TXT_01
+JP: 
+EN: Вернуться в главное меню без сохранения?
+RU: 
+
+ID: CORE_ITEM_NAME_000
+JP: 
+EN: Малое лечение
+RU: 
+
+ID: CORE_ITEM_NAME_001
+JP: 
+EN: Среднее лечение
+RU: 
+
+ID: CORE_ITEM_NAME_002
+JP: 
+EN: Большое лечение
+RU: 
+
+ID: CORE_ITEM_NAME_003
+JP: 
+EN: Полное лечение
+RU: 
+
+ID: CORE_ITEM_NAME_050
+JP: 
+EN: Крем-диэлектрик
+RU: 
+
+ID: CORE_ITEM_NAME_060
+JP: 
+EN: Лечение зрения
+RU: 
+
+ID: CORE_ITEM_NAME_070
+JP: 
+EN: Лечение слуха
+RU: 
+
+ID: CORE_ITEM_NAME_075
+JP: 
+EN: Снятие замедления
+RU: 
+
+ID: CORE_ITEM_NAME_080
+JP: 
+EN: Снятие эффектов
+RU: 
+
+ID: CORE_ITEM_NAME_090
+JP: 
+EN: Полный ремонт
+RU: 
+
+ID: CORE_ITEM_NAME_100
+JP: 
+EN: Урон (оружие) +
+RU: 
+
+ID: CORE_ITEM_NAME_102
+JP: 
+EN: Урон (оружие) ++
+RU: 
+
+ID: CORE_ITEM_NAME_110
+JP: 
+EN: Урон (Бот) +
+RU: 
+
+ID: CORE_ITEM_NAME_112
+JP: 
+EN: Урон (Бот) ++
+RU: 
+
+ID: CORE_ITEM_NAME_120
+JP: 
+EN: Защита (удар) +
+RU: 
+
+ID: CORE_ITEM_NAME_122
+JP: 
+EN: Защита (удар) ++
+RU: 
+
+ID: CORE_ITEM_NAME_130
+JP: 
+EN: Защита (снаряд) +
+RU: 
+
+ID: CORE_ITEM_NAME_132
+JP: 
+EN: Защита (снаряд) ++
+RU: 
+
+ID: CORE_ITEM_NAME_140
+JP: 
+EN: Перезарядка +
+RU: 
+
+ID: CORE_ITEM_NAME_142
+JP: 
+EN: Перезарядка ++
+RU: 
+
+ID: CORE_ITEM_NAME_150
+JP: 
+EN: Ударные наручи +
+RU: 
+
+ID: CORE_ITEM_NAME_152
+JP: 
+EN: Ударные наручи ++
+RU: 
+
+ID: CORE_ITEM_NAME_160
+JP: 
+EN: Скорость +
+RU: 
+
+ID: CORE_ITEM_NAME_162
+JP: 
+EN: Скорость ++
+RU: 
+
+ID: CORE_ITEM_NAME_170
+JP: 
+EN: Выпивка Пополы
+RU: 
+
+ID: CORE_ITEM_NAME_300
+JP: 
+EN: Приманка
+RU: 
+
+ID: CORE_ITEM_NAME_330
+JP: 
+EN: Денежная удача +
+RU: 
+
+ID: CORE_ITEM_NAME_332
+JP: 
+EN: Денежная удача ++
+RU: 
+
+ID: CORE_ITEM_NAME_400
+JP: 
+EN: E-наркотик
+RU: 
+
+ID: CORE_ITEM_NAME_510
+JP: 
+EN: Шкура животного
+RU: 
+
+ID: CORE_ITEM_NAME_515
+JP: 
+EN: Мясо кабана
+RU: 
+
+ID: CORE_ITEM_NAME_516
+JP: 
+EN: Мясо лося
+RU: 
+
+ID: CORE_ITEM_NAME_517
+JP: 
+EN: Мясо белого кабана
+RU: 
+
+ID: CORE_ITEM_NAME_518
+JP: 
+EN: Мясо белого лося
+RU: 
+
+ID: CORE_ITEM_NAME_520
+JP: 
+EN: Сорванный винт
+RU: 
+
+ID: CORE_ITEM_NAME_521
+JP: 
+EN: Новенький винт
+RU: 
+
+ID: CORE_ITEM_NAME_525
+JP: 
+EN: Маленькая шестерня
+RU: 
+
+ID: CORE_ITEM_NAME_526
+JP: 
+EN: Большая шестерня
+RU: 
+
+ID: CORE_ITEM_NAME_530
+JP: 
+EN: Ржавая глыба
+RU: 
+
+ID: CORE_ITEM_NAME_531
+JP: 
+EN: Осколок метеорита
+RU: 
+
+ID: CORE_ITEM_NAME_535
+JP: 
+EN: Титановый сплав
+RU: 
+
+ID: CORE_ITEM_NAME_536
+JP: 
+EN: Особый сплав
+RU: 
+
+ID: CORE_ITEM_NAME_540
+JP: 
+EN: Сломанный ключ
+RU: 
+
+ID: CORE_ITEM_NAME_545
+JP: 
+EN: Сломанная батарея
+RU: 
+
+ID: CORE_ITEM_NAME_546
+JP: 
+EN: Большая батарея
+RU: 
+
+ID: CORE_ITEM_NAME_550
+JP: 
+EN: Обрезок кабеля
+RU: 
+
+ID: CORE_ITEM_NAME_551
+JP: 
+EN: Новенький кабель
+RU: 
+
+ID: CORE_ITEM_NAME_555
+JP: 
+EN: Новенький болт
+RU: 
+
+ID: CORE_ITEM_NAME_560
+JP: 
+EN: Новенькая гайка
+RU: 
+
+ID: CORE_ITEM_NAME_570
+JP: 
+EN: Рука машины
+RU: 
+
+ID: CORE_ITEM_NAME_571
+JP: 
+EN: Нога машины
+RU: 
+
+ID: CORE_ITEM_NAME_572
+JP: 
+EN: Тело машины
+RU: 
+
+ID: CORE_ITEM_NAME_573
+JP: 
+EN: Голова машины
+RU: 
+
+ID: CORE_ITEM_NAME_580
+JP: 
+EN: Простой механизм
+RU: 
+
+ID: CORE_ITEM_NAME_581
+JP: 
+EN: Обычный механизм
+RU: 
+
+ID: CORE_ITEM_NAME_582
+JP: 
+EN: Сложный механизм
+RU: 
+
+ID: CORE_ITEM_NAME_583
+JP: 
+EN: Деталь усиления (М)
+RU: 
+
+ID: CORE_ITEM_NAME_584
+JP: 
+EN: Деталь усиления (С)
+RU: 
+
+ID: CORE_ITEM_NAME_585
+JP: 
+EN: Деталь усиления (Б)
+RU: 
+
+ID: CORE_ITEM_NAME_590
+JP: 
+EN: Пустой чип
+RU: 
+
+ID: CORE_ITEM_NAME_600
+JP: 
+EN: Медная руда
+RU: 
+
+ID: CORE_ITEM_NAME_601
+JP: 
+EN: Железная руда
+RU: 
+
+ID: CORE_ITEM_NAME_602
+JP: 
+EN: Серебряная руда
+RU: 
+
+ID: CORE_ITEM_NAME_603
+JP: 
+EN: Золотая руда
+RU: 
+
+ID: CORE_ITEM_NAME_610
+JP: 
+EN: Погнутая пластина
+RU: 
+
+ID: CORE_ITEM_NAME_621
+JP: 
+EN: Семечко растения
+RU: 
+
+ID: CORE_ITEM_NAME_622
+JP: 
+EN: Древесный сок
+RU: 
+
+ID: CORE_ITEM_NAME_623
+JP: 
+EN: Чистая вода
+RU: 
+
+ID: CORE_ITEM_NAME_624
+JP: 
+EN: Семечко дерева
+RU: 
+
+ID: CORE_ITEM_NAME_625
+JP: 
+EN: Пустынная роза
+RU: 
+
+ID: CORE_ITEM_NAME_626
+JP: 
+EN: Гриб
+RU: 
+
+ID: CORE_ITEM_NAME_627
+JP: 
+EN: Разорванная книга
+RU: 
+
+ID: CORE_ITEM_NAME_628
+JP: 
+EN: Машинное масло
+RU: 
+
+ID: CORE_ITEM_NAME_629
+JP: 
+EN: Дубильное вещество
+RU: 
+
+ID: CORE_ITEM_NAME_630
+JP: 
+EN: Присадочный металл
+RU: 
+
+ID: CORE_ITEM_NAME_631
+JP: 
+EN: Краситель
+RU: 
+
+ID: CORE_ITEM_NAME_632
+JP: 
+EN: Пирит
+RU: 
+
+ID: CORE_ITEM_NAME_633
+JP: 
+EN: Янтарь
+RU: 
+
+ID: CORE_ITEM_NAME_634
+JP: 
+EN: Натуральный каучук
+RU: 
+
+ID: CORE_ITEM_NAME_635
+JP: 
+EN: Ржавый болт
+RU: 
+
+ID: CORE_ITEM_NAME_636
+JP: 
+EN: Сломанная гайка
+RU: 
+
+ID: CORE_ITEM_NAME_637
+JP: 
+EN: Гигантское яйцо
+RU: 
+
+ID: CORE_ITEM_NAME_638
+JP: 
+EN: Яйца орла
+RU: 
+
+ID: CORE_ITEM_NAME_639
+JP: 
+EN: Чёрная жемчужина
+RU: 
+
+ID: CORE_ITEM_NAME_640
+JP: 
+EN: Сломанная серьга
+RU: 
+
+ID: CORE_ITEM_NAME_641
+JP: 
+EN: Тусклый браслет
+RU: 
+
+ID: CORE_ITEM_NAME_642
+JP: 
+EN: Прочное гнездо
+RU: 
+
+ID: CORE_ITEM_NAME_643
+JP: 
+EN: Кривой провод
+RU: 
+
+ID: CORE_ITEM_NAME_644
+JP: 
+EN: Вытянутая катушка
+RU: 
+
+ID: CORE_ITEM_NAME_645
+JP: 
+EN: Смятое гнездо
+RU: 
+
+ID: CORE_ITEM_NAME_646
+JP: 
+EN: Сломанная схема
+RU: 
+
+ID: CORE_ITEM_NAME_680
+JP: 
+EN: Кристалл
+RU: 
+
+ID: CORE_ITEM_NAME_681
+JP: 
+EN: Красивое колье
+RU: 
+
+ID: CORE_ITEM_NAME_682
+JP: 
+EN: Древняя маска
+RU: 
+
+ID: CORE_ITEM_NAME_683
+JP: 
+EN: Изысканные серьги
+RU: 
+
+ID: CORE_ITEM_NAME_684
+JP: 
+EN: Инструкция
+RU: 
+
+ID: CORE_ITEM_NAME_685
+JP: 
+EN: Толстый словарь
+RU: 
+
+ID: CORE_ITEM_NAME_686
+JP: 
+EN: Жемчуг
+RU: 
+
+ID: CORE_ITEM_NAME_687
+JP: 
+EN: Молдавит
+RU: 
+
+ID: CORE_ITEM_NAME_688
+JP: 
+EN: Метеорит
+RU: 
+
+ID: CORE_ITEM_NAME_690
+JP: 
+EN: Ядро машины
+RU: 
+
+ID: CORE_ITEM_NAME_691
+JP: 
+EN: Ядро Паскаля
+RU: 
+
+ID: CORE_ITEM_NAME_692
+JP: 
+EN: Ядра детей
+RU: 
+
+ID: CORE_ITEM_NAME_693
+JP: 
+EN: Книга Паскаля
+RU: 
+
+ID: CORE_ITEM_NAME_700
+JP: 
+EN: Письмо для Сартра
+RU: 
+
+ID: CORE_ITEM_NAME_700_US
+JP: 
+EN: Письмо для Жан-Поля
+RU: 
+
+ID: CORE_ITEM_NAME_701
+JP: 
+EN: Красивое зеркальце
+RU: 
+
+ID: CORE_ITEM_NAME_702
+JP: 
+EN: Древний механизм
+RU: 
+
+ID: CORE_ITEM_NAME_703
+JP: 
+EN: Письмо Сартра
+RU: 
+
+ID: CORE_ITEM_NAME_703_US
+JP: 
+EN: Письмо Жан-Поля
+RU: 
+
+ID: CORE_ITEM_NAME_715
+JP: 
+EN: Чип памяти
+RU: 
+
+ID: CORE_ITEM_NAME_716
+JP: 
+EN: Дневник мужчины
+RU: 
+
+ID: CORE_ITEM_NAME_720
+JP: 
+EN: Чип с данными A
+RU: 
+
+ID: CORE_ITEM_NAME_721
+JP: 
+EN: Чип с данными B
+RU: 
+
+ID: CORE_ITEM_NAME_722
+JP: 
+EN: Чип с данными C
+RU: 
+
+ID: CORE_ITEM_NAME_723
+JP: 
+EN: Чип с данными D
+RU: 
+
+ID: CORE_ITEM_NAME_724
+JP: 
+EN: Чип с данными E
+RU: 
+
+ID: CORE_ITEM_NAME_740
+JP: 
+EN: Ржавый жетон
+RU: 
+
+ID: CORE_ITEM_NAME_741
+JP: 
+EN: Грязный жетон
+RU: 
+
+ID: CORE_ITEM_NAME_742
+JP: 
+EN: Повреждённый жетон
+RU: 
+
+ID: CORE_ITEM_NAME_743
+JP: 
+EN: Окровавленный жетон
+RU: 
+
+ID: CORE_ITEM_NAME_750
+JP: 
+EN: Старая музыкальная шкатулка
+RU: 
+
+ID: CORE_ITEM_NAME_760
+JP: 
+EN: Фото пустыни
+RU: 
+
+ID: CORE_ITEM_NAME_761
+JP: 
+EN: Фото парка развлечений
+RU: 
+
+ID: CORE_ITEM_NAME_762
+JP: 
+EN: Фото леса
+RU: 
+
+ID: CORE_ITEM_NAME_775
+JP: 
+EN: Коробка
+RU: 
+
+ID: CORE_ITEM_NAME_780
+JP: 
+EN: Сломанная игрушка
+RU: 
+
+ID: CORE_ITEM_NAME_781
+JP: 
+EN: Гроссбух
+RU: 
+
+ID: CORE_ITEM_NAME_782
+JP: 
+EN: Маленький башмачок
+RU: 
+
+ID: CORE_ITEM_NAME_790
+JP: 
+EN: Трёхцветный кабель
+RU: 
+
+ID: CORE_ITEM_NAME_791
+JP: 
+EN: Четырёхцветный кабель
+RU: 
+
+ID: CORE_ITEM_NAME_792
+JP: 
+EN: Пятицветный кабель
+RU: 
+
+ID: CORE_ITEM_NAME_793
+JP: 
+EN: Зубная щетка
+RU: 
+
+ID: CORE_ITEM_NAME_794
+JP: 
+EN: Косметика
+RU: 
+
+ID: CORE_ITEM_NAME_795
+JP: 
+EN: Диетические товары
+RU: 
+
+ID: CORE_ITEM_NAME_796
+JP: 
+EN: Пишущие принадлежности
+RU: 
+
+ID: CORE_ITEM_NAME_797
+JP: 
+EN: Медицинский справочник
+RU: 
+
+ID: CORE_ITEM_NAME_820
+JP: 
+EN: Ключ леса
+RU: 
+
+ID: CORE_ITEM_NAME_821
+JP: 
+EN: Ключ океана
+RU: 
+
+ID: CORE_ITEM_NAME_822
+JP: 
+EN: Ключ парка развлечений
+RU: 
+
+ID: CORE_ITEM_NAME_832
+JP: 
+EN: Деталь машины
+RU: 
+
+ID: CORE_ITEM_NAME_833
+JP: 
+EN: Печать
+RU: 
+
+ID: CORE_ITEM_NAME_834
+JP: 
+EN: Карточка для печатей
+RU: 
+
+ID: CORE_ITEM_NAME_835
+JP: 
+EN: Старинная тросточка
+RU: 
+
+ID: CORE_ITEM_NAME_836
+JP: 
+EN: Пластина с законами
+RU: 
+
+ID: CORE_ITEM_NAME_837
+JP: 
+EN: Грязная маска
+RU: 
+
+ID: CORE_ITEM_NAME_838
+JP: 
+EN: Фигурка девочки
+RU: 
+
+ID: CORE_ITEM_NAME_839
+JP: 
+EN: Материал для игрушек
+RU: 
+
+ID: CORE_ITEM_NAME_840
+JP: 
+EN: Накопитель
+RU: 
+
+ID: CORE_ITEM_NAME_841
+JP: 
+EN: Установка чипов
+RU: 
+
+ID: CORE_ITEM_NAME_842
+JP: 
+EN: Жёсткая древесная кора
+RU: 
+
+ID: CORE_ITEM_NAME_843
+JP: 
+EN: Членский билет
+RU: 
+
+ID: CORE_ITEM_NAME_844
+JP: 
+EN: Грязная сумка
+RU: 
+
+ID: CORE_ITEM_NAME_845
+JP: 
+EN: Ключ от лифта
+RU: 
+
+ID: CORE_ITEM_NAME_850
+JP: 
+EN: Книга "Размышления"
+RU: 
+
+ID: CORE_ITEM_NAME_851
+JP: 
+EN: Топливный фильтр
+RU: 
+
+ID: CORE_ITEM_NAME_852
+JP: 
+EN: Вязкое масло
+RU: 
+
+ID: CORE_ITEM_NAME_870
+JP: 
+EN: Вентиль на голову
+RU: 
+
+ID: CORE_ITEM_NAME_871
+JP: 
+EN: Невидимая повязка
+RU: 
+
+ID: CORE_ITEM_NAME_872
+JP: 
+EN: Парик A2
+RU: 
+
+ID: CORE_ITEM_NAME_873
+JP: 
+EN: Розовый бант
+RU: 
+
+ID: CORE_ITEM_NAME_874
+JP: 
+EN: Голубой бант
+RU: 
+
+ID: CORE_ITEM_NAME_900
+JP: 
+EN: Подарочный купон
+RU: 
+
+ID: CORE_ITEM_NAME_920
+JP: 
+EN: Мешочек
+RU: 
+
+ID: CORE_ITEM_NAME_921
+JP: 
+EN: Качественный мешочек
+RU: 
+
+ID: CORE_ITEM_NAME_922
+JP: 
+EN: Мешочек избранника
+RU: 
+
+ID: CORE_ITEM_NAME_930
+JP: 
+EN: Аудиоданные 1
+RU: 
+
+ID: CORE_ITEM_NAME_931
+JP: 
+EN: Аудиоданные 2
+RU: 
+
+ID: CORE_ITEM_NAME_932
+JP: 
+EN: Аудиоданные 3
+RU: 
+
+ID: CORE_ITEM_NAME_933
+JP: 
+EN: Аудиоданные 4
+RU: 
+
+ID: CORE_ITEM_NAME_934
+JP: 
+EN: Аудиоданные 5
+RU: 
+
+ID: CORE_ITEM_NAME_950
+JP: 
+EN: Бот-проигрыватель
+RU: 
+
+ID: CORE_ITEM_NAME_951
+JP: 
+EN: Гримуар Вайсс
+RU: 
+
+ID: CORE_ITEM_NAME_952
+JP: 
+EN: Картонный бот
+RU: 
+
+ID: CORE_ITEM_NAME_953
+JP: 
+EN: Бот с синими полосами
+RU: 
+
+ID: CORE_ITEM_NAME_954
+JP: 
+EN: Красный ретробот
+RU: 
+
+ID: CORE_ITEM_NAME_955
+JP: 
+EN: Белый ретробот
+RU: 
+
+ID: CORE_ITEM_NAME_956
+JP: 
+EN: Черный ретробот
+RU: 
+
+ID: CORE_ITEM_NAME_957
+JP: 
+EN: Серый ретробот
+RU: 
+
+ID: CORE_ITEM_NAME_958
+JP: 
+EN: Фиолетовый ретробот
+RU: 
+
+ID: CORE_ITEM_NAME_959
+JP: 
+EN: Голова амадзараши
+RU: 
+
+ID: CORE_ITEM_NAME_980
+JP: 
+EN: Модуль переодевания
+RU: 
+
+ID: CORE_ITEM_NAME_981
+JP: 
+EN: Тяжёлая броня A
+RU: 
+
+ID: CORE_ITEM_NAME_982
+JP: 
+EN: Тяжёлая броня B
+RU: 
+
+ID: CORE_ITEM_NAME_990
+JP: 
+EN: Маска машины
+RU: 
+
+ID: CORE_ITEM_NAME_991
+JP: 
+EN: Голова Эмиля
+RU: 
+
+ID: CORE_ITEM_NAME_992
+JP: 
+EN: Лунная слеза
+RU: 
+
+ID: CORE_ITEM_NAME_993
+JP: 
+EN: Маска Эмиля
+RU: 
+
+ID: CORE_ITEM_NAME_995
+JP: 
+EN: Очки Адама
+RU: 
+
+ID: CORE_ITEM_NAME_996
+JP: 
+EN: Маска пришельца
+RU: 
+
+ID: CORE_ITEM_NAME_997
+JP: 
+EN: Вентиль на левый глаз
+RU: 
+
+ID: CORE_ITEM_NAME_998
+JP: 
+EN: Вентиль на правый глаз
+RU: 
+
+ID: CORE_ITEM_NAME_999
+JP: 
+EN: Вентиль на оба глаза
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0010
+JP: 
+EN: Сядьте в полётный модуль.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0020
+JP: 
+EN: Отключите систему защиты врага.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0030
+JP: 
+EN: Окажите поддержку ударному взводу.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0100
+JP: 
+EN: Взломайте уязвимую точку врага.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0110
+JP: 
+EN: Объединитесь с 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0120
+JP: 
+EN: Отправьтесь в комнату 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0130
+JP: 
+EN: Поговорите с Командором.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0140
+JP: 
+EN: Отправьтесь на поверхность из ангара.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0150
+JP: 
+EN: Поговорите с лидером Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0160
+JP: 
+EN: Получите разведданные от членов Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0170
+JP: 
+EN: Уничтожьте машины в пустыне.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0180
+JP: 
+EN: Исследуйте руины в пустыне.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0190
+JP: 
+EN: Уничтожьте машину новой модели.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0200
+JP: 
+EN: Доложите в Штаб.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0210
+JP: 
+EN: Найдите пропавшие единицы YoRHa.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0220
+JP: 
+EN: Уничтожьте новую машину класса Голиаф.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0230
+JP: 
+EN: Исследуйте деревню машин.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0240
+JP: 
+EN: Проверьте жителей.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0245
+JP: 
+EN: Доставьте топливный фильтр Анемоне.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0246
+JP: 
+EN: Доставьте вязкое масло Паскалю.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0250
+JP: 
+EN: Отправьтесь в руины города.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0260
+JP: 
+EN: Сядьте в полётные модули.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0270
+JP: 
+EN: Уничтожьте Голиафа.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0280
+JP: 
+EN: Исследуйте затопленную зону на наличие инопланетян.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0290
+JP: 
+EN: Исследуйте подземную пещеру.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0295
+JP: 
+EN: Исследуйте объект пришельцев.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0300
+JP: 
+EN: Уничтожьте Адама и Еву.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0310
+JP: 
+EN: Вернитесь в Бункер с помощью терминала.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0320
+JP: 
+EN: Доложите в Штаб.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0330
+JP: 
+EN: Отправьтесь в деревню Паскаля с помощью терминала.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0340
+JP: 
+EN: Спросите Паскаля о поведении машин.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0350
+JP: 
+EN: Выполните просьбы жителей.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0360
+JP: 
+EN: Отправьтесь в лес через торговый центр.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0370
+JP: 
+EN: Уничтожьте машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0380
+JP: 
+EN: Уничтожьте прототип YoRHa A2.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0390
+JP: 
+EN: Поговорите с Паскалем.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0400
+JP: 
+EN: Отправьтесь в лагерь Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0410
+JP: 
+EN: Поддержите миссию по снабжению ракетами.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0420
+JP: 
+EN: Отправьтесь в лагерь Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0430
+JP: 
+EN: Поговорите с красноволосым членом Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0440
+JP: 
+EN: Используйте сканер, чтобы найти выжившие единицы YoRHa.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0450
+JP: 
+EN: Найдите 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0460
+JP: 
+EN: Идите по следу 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0470
+JP: 
+EN: Уничтожьте Адама и спасите 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0480
+JP: 
+EN: Используйте этот гигантский терминал, чтобы поддержать 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0490
+JP: 
+EN: Управляйте машинами, чтобы найти 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0500
+JP: 
+EN: Взломайте лифт, чтобы открыть его.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0510
+JP: 
+EN: Взломайте систему фабрики, чтобы поддержать 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0520
+JP: 
+EN: Взломайте ядро фабрики, чтобы отключить питание.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0530
+JP: 
+EN: Поговорите с Командором.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0540
+JP: 
+EN: Проверьте сообщение от Штаба.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0550
+JP: 
+EN: Встретьтесь с Паскалем на заброшенной фабрике.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0560
+JP: 
+EN: Проведите мирные переговоры внутри фабрики.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0570
+JP: 
+EN: Следуйте указаниям их лидера.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0580
+JP: 
+EN: Уничтожьте ненормальные машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0590
+JP: 
+EN: Выберитесь, используя лифт.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0600
+JP: 
+EN: Выберитесь с заброшенной фабрики.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0610
+JP: 
+EN: Уничтожьте Голиафа-многоножку.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0620
+JP: 
+EN: Отправьтесь в лагерь Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0630
+JP: 
+EN: Уничтожьте всех врагов в лагере Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0640
+JP: 
+EN: Поговорите с лидером Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0650
+JP: 
+EN: Исследуйте зону вокруг лагеря.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0655
+JP: 
+EN: Защитите 2B в руинах города.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0660
+JP: 
+EN: Уничтожьте Голиафа-многоножку.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0670
+JP: 
+EN: Уничтожьте сферическую машину.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0680
+JP: 
+EN: Идите в деревню Паскаля.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0690
+JP: 
+EN: Устраните врагов возле баррикады.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0700
+JP: 
+EN: Идите в центр руин города.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0710
+JP: 
+EN: Уничтожьте Еву.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0720
+JP: 
+EN: Идите к 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0730
+JP: 
+EN: Прикончите 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0740
+JP: 
+EN: Идите в комнату 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0750
+JP: 
+EN: Идите в свою комнату.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0760
+JP: 
+EN: Идите в ангар.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0770
+JP: 
+EN: Саботируйте воздушную защиту врага.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0780
+JP: 
+EN: Идите в точку сбора и встретьтесь с 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0790
+JP: 
+EN: Уничтожьте всех врагов.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0800
+JP: 
+EN: Взломайте 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0810
+JP: 
+EN: Уничтожьте врагов, создающих помехи.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0820
+JP: 
+EN: Защитите 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0830
+JP: 
+EN: Идите в командный центр.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0840
+JP: 
+EN: Выберитесь из Бункера.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0850
+JP: 
+EN: Идите в торговый центр.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0860
+JP: 
+EN: Уничтожьте все зараженные единицы YoRHa.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0870
+JP: 
+EN: Встретьтесь с 2B.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0880
+JP: 
+EN: Уничтожьте Голиафа.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0885
+JP: 
+EN: Уничтожить машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0890
+JP: 
+EN: Уничтожьте новый тип Голиафа.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0900
+JP: 
+EN: Замените топливный фильтр.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0905
+JP: 
+EN: Исследуйте подозрительную машину.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0910
+JP: 
+EN: Отблагодарите Паскаля за фильтр.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0920
+JP: 
+EN: Выполните просьбы в деревне Паскаля.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0925
+JP: 
+EN: Получите книгу по философии от Анемоны.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0930
+JP: 
+EN: Узнайте, почему прервалась связь с Паскалем.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0940
+JP: 
+EN: Уничтожьте разъярённые машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0950
+JP: 
+EN: Встретьтесь с Паскалем.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0960
+JP: 
+EN: Встретьтесь с Паскалем на заброшенной фабрике.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0970
+JP: 
+EN: Получите доклад о ситуации от Паскаля.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0980
+JP: 
+EN: Уничтожьте все машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_0990
+JP: 
+EN: Разгромите вражеские резервы.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1000
+JP: 
+EN: Вернитесь к детям.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1010
+JP: 
+EN: Решите, что делать с Паскалем.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1020
+JP: 
+EN: Посмотрите, что происходит снаружи.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1030
+JP: 
+EN: Взломайте и проанализируйте гигантское строение.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1040
+JP: 
+EN: Взломайте и проанализируйте вспомогательный модуль.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1050
+JP: 
+EN: Отправьтесь к модулю добычи в лесу.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1060
+JP: 
+EN: Отключите модуль добычи в лесу.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1070
+JP: 
+EN: Отправьтесь к модулю добычи в затопленном городе.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1080
+JP: 
+EN: Зачистите все точки взлома и достигните ядра.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1090
+JP: 
+EN: Отключите модуль добычи в затопленном городе.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1100
+JP: 
+EN: Встретьтесь с Деволой в лагере Сопротивления.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1110
+JP: 
+EN: Отправьтесь к отмеченному модулю добычи.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1120
+JP: 
+EN: Отключите "ящик бога".
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1130
+JP: 
+EN: Уничтожьте 21О.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1140
+JP: 
+EN: Уничтожьте машины.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1150
+JP: 
+EN: Исследуйте Башню.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1160
+JP: 
+EN: Уничтожьте враждебных андроидов.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1170
+JP: 
+EN: Откройте Башню ключами.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1180
+JP: 
+EN: Осмотритесь внутри Башни.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1190
+JP: 
+EN: Исследуйте Башню.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1200
+JP: 
+EN: Взломайте себя, чтобы удалить вирус.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1210
+JP: 
+EN: Уничтожьте убийц, посланных девочками в красном.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1220
+JP: 
+EN: Уничтожьте зараженные единицы YoRHa.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1230
+JP: 
+EN: Уничтожьте Голиафа-многоножку.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1240
+JP: 
+EN: Исследуйте Башню.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1250
+JP: 
+EN: Выберитесь из киберпространства.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1260
+JP: 
+EN: Отправьтесь на верхний этаж Башни.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1270
+JP: 
+EN: Уничтожьте соединённых Голиафов.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1280
+JP: 
+EN: Победите A2.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1290
+JP: 
+EN: Победите 9S.
+RU: 
+
+ID: CORE_MAIN_SCENARIO_TEXT_1300
+JP: 
+EN: Удалите вирус 9S.
+RU: 
+
+ID: CORE_MAP_DIALOG_01
+JP: 
+EN: Открыта информация на карте.
+RU: 
+
+ID: CORE_MAP_TRANS_0001
+JP: 
+EN: Бункер
+RU: 
+
+ID: CORE_MAP_TRANS_0002
+JP: 
+EN: Лагерь Сопротивления
+RU: 
+
+ID: CORE_MAP_TRANS_0003
+JP: 
+EN: Руины города: центр
+RU: 
+
+ID: CORE_MAP_TRANS_0004
+JP: 
+EN: Руины города: вблизи фабрики
+RU: 
+
+ID: CORE_MAP_TRANS_0005
+JP: 
+EN: Руины города: вблизи Башни
+RU: 
+
+ID: CORE_MAP_TRANS_0006
+JP: 
+EN: Пустыня: лагерь
+RU: 
+
+ID: CORE_MAP_TRANS_0007
+JP: 
+EN: Пустыня: центр
+RU: 
+
+ID: CORE_MAP_TRANS_0008
+JP: 
+EN: Пустыня: нефтяное месторождение
+RU: 
+
+ID: CORE_MAP_TRANS_0009
+JP: 
+EN: Пустыня: жилой квартал
+RU: 
+
+ID: CORE_MAP_TRANS_0010
+JP: 
+EN: Руины парка: аттракционы
+RU: 
+
+ID: CORE_MAP_TRANS_0011
+JP: 
+EN: Руины парка: американские горки
+RU: 
+
+ID: CORE_MAP_TRANS_0012
+JP: 
+EN: Руины парка: над театром
+RU: 
+
+ID: CORE_MAP_TRANS_0013
+JP: 
+EN: Руины парка: театр
+RU: 
+
+ID: CORE_MAP_TRANS_0014
+JP: 
+EN: Деревня Паскаля
+RU: 
+
+ID: CORE_MAP_TRANS_0015
+JP: 
+EN: Лесная зона: центр
+RU: 
+
+ID: CORE_MAP_TRANS_0016
+JP: 
+EN: Лесной замок: фасад
+RU: 
+
+ID: CORE_MAP_TRANS_0017
+JP: 
+EN: Лесной замок: покои короля
+RU: 
+
+ID: CORE_MAP_TRANS_0018
+JP: 
+EN: Фабрика: вход
+RU: 
+
+ID: CORE_MAP_TRANS_0019
+JP: 
+EN: Фабрика: ангар
+RU: 
+
+ID: CORE_MAP_TRANS_0020
+JP: 
+EN: Фабрика: плавильня
+RU: 
+
+ID: CORE_MAP_TRANS_0021
+JP: 
+EN: Затопленный город: побережье
+RU: 
+
+ID: CORE_MAP_TRANS_0022
+JP: 
+EN: Руины города: пещера
+RU: 
+
+ID: CORE_MAP_VOICECNG_01
+JP: 
+EN: Опции изменения голоса добавлены в категорию "Прочее".
+RU: 
+
+ID: CORE_POD_GET
+JP: 
+EN: Вы получили бота.
+RU: 
+
+ID: CORE_POD_NAME_01
+JP: 
+EN: Бот A
+RU: 
+
+ID: CORE_POD_NAME_02
+JP: 
+EN: Бот B
+RU: 
+
+ID: CORE_POD_NAME_03
+JP: 
+EN: Бот C
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_01
+JP: 
+EN: Атака
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_02
+JP: 
+EN: Защита
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_03
+JP: 
+EN: Поддержка
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_04
+JP: 
+EN: Взлом
+RU: 
+
+ID: CORE_PSV_SKILL_CTG_05
+JP: 
+EN: Система
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_000
+JP: 
+EN: Превышен лимит эффекта от чипа "<CHIP_NAME>".\nЛимит эффекта: <CHIP_HELP>
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_001
+JP: 
+EN: Повышает базовую силу атаки оружия на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_002
+JP: 
+EN: Повышает базовую силу атаки оружия на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_003
+JP: 
+EN: Повышает базовую силу атаки оружия на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_004
+JP: 
+EN: Повышает базовую силу атаки оружия на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_005
+JP: 
+EN: Повышает базовую силу атаки оружия на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_006
+JP: 
+EN: Повышает базовую силу атаки оружия на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_007
+JP: 
+EN: Повышает базовую силу атаки оружия на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_008
+JP: 
+EN: Повышает базовую силу атаки оружия на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_009
+JP: 
+EN: Повышает базовую силу атаки оружия на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_010
+JP: 
+EN: Повышает силу атаки с воздуха на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_011
+JP: 
+EN: Повышает силу атаки с воздуха на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_012
+JP: 
+EN: Повышает силу атаки с воздуха на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_013
+JP: 
+EN: Повышает силу атаки с воздуха на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_014
+JP: 
+EN: Повышает силу атаки с воздуха на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_015
+JP: 
+EN: Повышает силу атаки с воздуха на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_016
+JP: 
+EN: Повышает силу атаки с воздуха на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_017
+JP: 
+EN: Повышает силу атаки с воздуха на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_018
+JP: 
+EN: Повышает силу атаки с воздуха на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_019
+JP: 
+EN: Повышает шанс критического удара на 1%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_020
+JP: 
+EN: Повышает шанс критического удара на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_021
+JP: 
+EN: Повышает шанс критического удара на 3%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_022
+JP: 
+EN: Повышает шанс критического удара на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_023
+JP: 
+EN: Повышает шанс критического удара на 6%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_024
+JP: 
+EN: Повышает шанс критического удара на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_025
+JP: 
+EN: Повышает шанс критического удара на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_026
+JP: 
+EN: Повышает шанс критического удара на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_027
+JP: 
+EN: Повышает шанс критического удара на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_028
+JP: 
+EN: Повышает урон в дальнем бою на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_029
+JP: 
+EN: Повышает урон в дальнем бою на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_030
+JP: 
+EN: Повышает урон в дальнем бою на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_031
+JP: 
+EN: Повышает урон в дальнем бою на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_032
+JP: 
+EN: Повышает урон в дальнем бою на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_033
+JP: 
+EN: Повышает урон в дальнем бою на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_034
+JP: 
+EN: Повышает урон в дальнем бою на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_035
+JP: 
+EN: Повышает урон в дальнем бою на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_036
+JP: 
+EN: Повышает урон в дальнем бою на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_037
+JP: 
+EN: Ускоряет перезарядку программы Бота на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_038
+JP: 
+EN: Ускоряет перезарядку программы Бота на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_039
+JP: 
+EN: Ускоряет перезарядку программы Бота на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_040
+JP: 
+EN: Ускоряет перезарядку программы Бота на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_041
+JP: 
+EN: Ускоряет перезарядку программы Бота на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_042
+JP: 
+EN: Ускоряет перезарядку программы Бота на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_043
+JP: 
+EN: Ускоряет перезарядку программы Бота на 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_044
+JP: 
+EN: Ускоряет перезарядку программы Бота на 35%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_045
+JP: 
+EN: Ускоряет перезарядку программы Бота на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_046
+JP: 
+EN: Снижает входящий урон ближнего боя на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_047
+JP: 
+EN: Снижает входящий урон ближнего боя на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_048
+JP: 
+EN: Снижает входящий урон ближнего боя на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_049
+JP: 
+EN: Снижает входящий урон ближнего боя на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_050
+JP: 
+EN: Снижает входящий урон ближнего боя на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_051
+JP: 
+EN: Снижает входящий урон ближнего боя на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_052
+JP: 
+EN: Снижает входящий урон ближнего боя на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_053
+JP: 
+EN: Снижает входящий урон ближнего боя на 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_054
+JP: 
+EN: Снижает входящий урон ближнего боя на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_055
+JP: 
+EN: Снижает входящий урон дальнего боя на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_056
+JP: 
+EN: Снижает входящий урон дальнего боя на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_057
+JP: 
+EN: Снижает входящий урон дальнего боя на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_058
+JP: 
+EN: Снижает входящий урон дальнего боя на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_059
+JP: 
+EN: Снижает входящий урон дальнего боя на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_060
+JP: 
+EN: Снижает входящий урон дальнего боя на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_061
+JP: 
+EN: Снижает входящий урон дальнего боя на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_062
+JP: 
+EN: Снижает входящий урон дальнего боя на 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_063
+JP: 
+EN: Снижает входящий урон дальнего боя на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_064
+JP: 
+EN: Неуязвимость на 0.5 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_065
+JP: 
+EN: Неуязвимость на 1 секунду после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_066
+JP: 
+EN: Неуязвимость на 1.5 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_067
+JP: 
+EN: Неуязвимость на 2 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_068
+JP: 
+EN: Неуязвимость на 2.5 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_069
+JP: 
+EN: Неуязвимость на 3 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_070
+JP: 
+EN: Неуязвимость на 4 секунды после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_071
+JP: 
+EN: Неуязвимость на 5 секунд после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_072
+JP: 
+EN: Неуязвимость на 6 секунд после получения урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_073
+JP: 
+EN: Повышает максимум ОЗ на 5%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_074
+JP: 
+EN: Повышает максимум ОЗ на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_075
+JP: 
+EN: Повышает максимум ОЗ на 15%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_076
+JP: 
+EN: Повышает максимум ОЗ на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_077
+JP: 
+EN: Повышает максимум ОЗ на 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_078
+JP: 
+EN: Повышает максимум ОЗ на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_079
+JP: 
+EN: Повышает максимум ОЗ на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_080
+JP: 
+EN: Повышает максимум ОЗ на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_081
+JP: 
+EN: Повышает максимум ОЗ на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_082
+JP: 
+EN: Восстанавливает 2% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_083
+JP: 
+EN: Восстанавливает 5% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_084
+JP: 
+EN: Восстанавливает 10% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_085
+JP: 
+EN: Восстанавливает 15% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_086
+JP: 
+EN: Восстанавливает 20% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_087
+JP: 
+EN: Восстанавливает 30% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_088
+JP: 
+EN: Восстанавливает 50% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_089
+JP: 
+EN: Восстанавливает 80% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_090
+JP: 
+EN: Восстанавливает 100% ОЗ от нанесенного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_091
+JP: 
+EN: Восстанавливает 5% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_092
+JP: 
+EN: Восстанавливает 10% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_093
+JP: 
+EN: Восстанавливает 20% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_094
+JP: 
+EN: Восстанавливает 30% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_095
+JP: 
+EN: Восстанавливает 40% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_096
+JP: 
+EN: Восстанавливает 50% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_097
+JP: 
+EN: Восстанавливает 60% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_098
+JP: 
+EN: Восстанавливает 80% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_099
+JP: 
+EN: Восстанавливает 100% ОЗ за уничтожение врага.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_100
+JP: 
+EN: После 6 секунд избегания урона восполняет 0.6 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_101
+JP: 
+EN: После 6 секунд избегания урона восполняет 1.2 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_102
+JP: 
+EN: После 6 секунд избегания урона восполняет 2.4 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_103
+JP: 
+EN: После 6 секунд избегания урона восполняет 3.6 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_104
+JP: 
+EN: После 6 секунд избегания урона восполняет 4.8 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_105
+JP: 
+EN: После 6 секунд избегания урона восполняет 7.2 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_106
+JP: 
+EN: После 5 секунд избегания урона восполняет 9.6 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_107
+JP: 
+EN: После 5 секунд избегания урона восполняет 12 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_108
+JP: 
+EN: После 4 секунд избегания урона восполняет 18 ОЗ/с.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_109
+JP: 
+EN: Увеличивает дистанцию уклонения на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_110
+JP: 
+EN: Увеличивает дистанцию уклонения на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_111
+JP: 
+EN: Увеличивает дистанцию уклонения на 40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_112
+JP: 
+EN: Увеличивает дистанцию уклонения на 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_113
+JP: 
+EN: Увеличивает дистанцию уклонения на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_114
+JP: 
+EN: Увеличивает дистанцию уклонения на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_115
+JP: 
+EN: Увеличивает дистанцию уклонения на 120%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_116
+JP: 
+EN: Увеличивает дистанцию уклонения на 160%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_117
+JP: 
+EN: Увеличивает дистанцию уклонения на 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_118
+JP: 
+EN: Увеличивает скорость передвижения на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_119
+JP: 
+EN: Увеличивает скорость передвижения на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_120
+JP: 
+EN: Увеличивает скорость передвижения на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_121
+JP: 
+EN: Увеличивает скорость передвижения на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_122
+JP: 
+EN: Увеличивает скорость передвижения на 12%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_123
+JP: 
+EN: Увеличивает скорость передвижения на 14%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_124
+JP: 
+EN: Увеличивает скорость передвижения на 16%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_125
+JP: 
+EN: Увеличивает скорость передвижения на 18%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_126
+JP: 
+EN: Увеличивает скорость передвижения на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_127
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_128
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_129
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_130
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_131
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_132
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_133
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 70%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_134
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_135
+JP: 
+EN: Повышает шанс выпадения предметов из врагов на 90%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_136
+JP: 
+EN: Повышает опыт за побеждённых врагов на 2%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_137
+JP: 
+EN: Повышает опыт за побеждённых врагов на 4%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_138
+JP: 
+EN: Повышает опыт за побеждённых врагов на 8%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_139
+JP: 
+EN: Повышает опыт за побеждённых врагов на 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_140
+JP: 
+EN: Повышает опыт за побеждённых врагов на 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_141
+JP: 
+EN: Повышает опыт за побеждённых врагов на 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_142
+JP: 
+EN: Повышает опыт за побеждённых врагов на 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_143
+JP: 
+EN: Повышает опыт за побеждённых врагов на 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_144
+JP: 
+EN: Повышает опыт за побеждённых врагов на 100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_145
+JP: 
+EN: Добавляет ударную волну к атакам.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_146
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_147
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_148
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_149
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_150
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_151
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_152
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_153
+JP: 
+EN: Добавляет ударную волну к атакам (эффект сильнее).
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_154
+JP: 
+EN: Повышает силу атаки на 5%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_155
+JP: 
+EN: Повышает силу атаки на 10%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_156
+JP: 
+EN: Повышает силу атаки на 15%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_157
+JP: 
+EN: Повышает силу атаки на 20%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_158
+JP: 
+EN: Повышает силу атаки на 30%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_159
+JP: 
+EN: Повышает силу атаки на 50%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_160
+JP: 
+EN: Повышает силу атаки на 60%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_161
+JP: 
+EN: Повышает силу атаки на 80%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_162
+JP: 
+EN: Повышает силу атаки на 100%, если ОЗ ниже 25%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_163
+JP: 
+EN: 5% шанс восстановить 10% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_164
+JP: 
+EN: 10% шанс восстановить 20% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_165
+JP: 
+EN: 15% шанс восстановить 30% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_166
+JP: 
+EN: 20% шанс восстановить 40% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_167
+JP: 
+EN: 25% шанс восстановить 50% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_168
+JP: 
+EN: 30% шанс восстановить 80% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_169
+JP: 
+EN: 35% шанс восстановить 100% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_170
+JP: 
+EN: 40% шанс восстановить 150% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_171
+JP: 
+EN: 50% шанс восстановить 200% полученного урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_172
+JP: 
+EN: 5% шанс, что 10% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_173
+JP: 
+EN: 10% шанс, что 20% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_174
+JP: 
+EN: 15% шанс, что 30% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_175
+JP: 
+EN: 20% шанс, что 40% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_176
+JP: 
+EN: 25% шанс, что 50% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_177
+JP: 
+EN: 30% шанс, что 80% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_178
+JP: 
+EN: 35% шанс, что 100% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_179
+JP: 
+EN: 40% шанс, что 150% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_180
+JP: 
+EN: 50% шанс, что 200% входящего урона вернётся врагу.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_181
+JP: 
+EN: 5% шанс возродиться с 10% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_182
+JP: 
+EN: 5% шанс возродиться с 20% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_183
+JP: 
+EN: 10% шанс возродиться с 20% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_184
+JP: 
+EN: 15% шанс возродиться с 30% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_185
+JP: 
+EN: 20% шанс возродиться с 40% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_186
+JP: 
+EN: 25% шанс возродиться с 50% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_187
+JP: 
+EN: 30% шанс возродиться с 60% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_188
+JP: 
+EN: 40% шанс возродиться с 70% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_189
+JP: 
+EN: 50% шанс возродиться с 80% ОЗ после смерти.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_190
+JP: 
+EN: Идеальное уклонение замедляет время на 0.8 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_191
+JP: 
+EN: Идеальное уклонение замедляет время на 1.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_192
+JP: 
+EN: Идеальное уклонение замедляет время на 2 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_193
+JP: 
+EN: Идеальное уклонение замедляет время на 2.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_194
+JP: 
+EN: Идеальное уклонение замедляет время на 3 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_195
+JP: 
+EN: Идеальное уклонение замедляет время на 3.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_196
+JP: 
+EN: Идеальное уклонение замедляет время на 4 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_197
+JP: 
+EN: Идеальное уклонение замедляет время на 4.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_198
+JP: 
+EN: Идеальное уклонение замедляет время на 5.5 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_199
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_200
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 70%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_201
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_202
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_203
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_204
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_205
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_206
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_207
+JP: 
+EN: Вас нельзя сбить с ног, если ОЗ больше 5%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_208
+JP: 
+EN: Отображает расположение предметов на мини-карте.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_217
+JP: 
+EN: Двигайтесь в сторону атаки врага для контратаки.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_218
+JP: 
+EN: Контратака возвращает 10% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_219
+JP: 
+EN: Контратака возвращает 30% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_220
+JP: 
+EN: Контратака возвращает 60% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_221
+JP: 
+EN: Контратака возвращает 80% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_222
+JP: 
+EN: Контратака возвращает 100% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_223
+JP: 
+EN: Контратака возвращает 150% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_224
+JP: 
+EN: Контратака возвращает 200% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_225
+JP: 
+EN: Контратака возвращает 250% от входящего урона.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_226
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 180%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_227
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_228
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 240%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_229
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 280%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_230
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 300%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_231
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 350%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_232
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 400%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_233
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 450%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_234
+JP: 
+EN: Провокация повышает атаку игрока и врагов на 500%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_235
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 120%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_236
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 140%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_237
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 160%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_238
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 180%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_239
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 200%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_240
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 250%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_241
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 300%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_242
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 350%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_243
+JP: 
+EN: Усиливает заряженную атаку (держите <KC_HEAVY_ATK_2>) на 400%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_244
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +10%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_246
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +20%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_247
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +30%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_248
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +40%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_249
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +50%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_250
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +60%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_251
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +80%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_252
+JP: 
+EN: Лечение предметами при ОЗ ниже 30%. Лечение +100%.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_262
+JP: 
+EN: Уровень удалённо контролируемого врага +1.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_263
+JP: 
+EN: Уровень удалённо контролируемого врага +2.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_264
+JP: 
+EN: Уровень удалённо контролируемого врага +3.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_265
+JP: 
+EN: Уровень удалённо контролируемого врага +4.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_266
+JP: 
+EN: Уровень удалённо контролируемого врага +5.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_267
+JP: 
+EN: Уровень удалённо контролируемого врага +6.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_268
+JP: 
+EN: Уровень удалённо контролируемого врага +7.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_269
+JP: 
+EN: Уровень удалённо контролируемого врага +8.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_270
+JP: 
+EN: Уровень удалённо контролируемого врага +9.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_289
+JP: 
+EN: Взрыв (5 м) и оглушение врага на 3 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_290
+JP: 
+EN: Взрыв (10 м) и оглушение врага на 3 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_291
+JP: 
+EN: Взрыв (10 м) и оглушение врага на 3.5 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_292
+JP: 
+EN: Взрыв (15 м) и оглушение врага на 3.5 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_293
+JP: 
+EN: Взрыв (15 м) и оглушение врага на 4 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_294
+JP: 
+EN: Взрыв (20 м) и оглушение врага на 4 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_295
+JP: 
+EN: Взрыв (20 м) и оглушение врага на 4.5 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_296
+JP: 
+EN: Взрыв (25 м) и оглушение врага на 4.5 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_297
+JP: 
+EN: Взрыв (25 м) и оглушение врага на 5 с. при взломе.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_298
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 3 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_299
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 3.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_300
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 4 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_301
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 4.5 секунды.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_302
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 5 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_303
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 5.5 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_304
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 6 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_305
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 6.5 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_306
+JP: 
+EN: Замыкает цепи врагов, поджигая их на 7 секунд.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_325
+JP: 
+EN: Убитые взломом с 10% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_326
+JP: 
+EN: Убитые взломом с 20% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_327
+JP: 
+EN: Убитые взломом с 30% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_328
+JP: 
+EN: Убитые взломом с 40% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_329
+JP: 
+EN: Убитые взломом с 50% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_330
+JP: 
+EN: Убитые взломом с 60% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_331
+JP: 
+EN: Убитые взломом с 70% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_332
+JP: 
+EN: Убитые взломом с 90% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_333
+JP: 
+EN: Убитые взломом с 100% шансом оставят лечащий предмет.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_334
+JP: 
+EN: Враги, убитые взломом, испускают предсмертный крик.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_336
+JP: 
+EN: Отображает график анализа звука.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_339
+JP: 
+EN: Время замедляется, когда снаряды врага близко.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_340
+JP: 
+EN: Комбо-атаки не прерываются уклонением.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_341
+JP: 
+EN: При получении урона от снарядов происходит взрыв.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_342
+JP: 
+EN: Предметы автоматически притягиваются и собираются.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_346
+JP: 
+EN: Отображает шкалу опыта и получаемый опыт.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_353
+JP: 
+EN: Отображает значок в зонах, где вы можете рыбачить.
+RU: 
+
+ID: CORE_PSV_SKILL_HELP_999
+JP: 
+EN: Экипировка большего количества чипов <CHIP_NAME> не повысит их эффект.
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_001
+JP: 
+EN: Урон оружия
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_002
+JP: 
+EN: Урон оружия +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_003
+JP: 
+EN: Урон оружия +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_004
+JP: 
+EN: Урон оружия +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_005
+JP: 
+EN: Урон оружия +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_006
+JP: 
+EN: Урон оружия +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_007
+JP: 
+EN: Урон оружия +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_008
+JP: 
+EN: Урон оружия +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_009
+JP: 
+EN: Урон оружия +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_010
+JP: 
+EN: Атака с воздуха
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_011
+JP: 
+EN: Атака с воздуха +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_012
+JP: 
+EN: Атака с воздуха +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_013
+JP: 
+EN: Атака с воздуха +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_014
+JP: 
+EN: Атака с воздуха +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_015
+JP: 
+EN: Атака с воздуха +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_016
+JP: 
+EN: Атака с воздуха +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_017
+JP: 
+EN: Атака с воздуха +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_018
+JP: 
+EN: Атака с воздуха +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_019
+JP: 
+EN: Крит
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_020
+JP: 
+EN: Крит +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_021
+JP: 
+EN: Крит +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_022
+JP: 
+EN: Крит +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_023
+JP: 
+EN: Крит +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_024
+JP: 
+EN: Крит +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_025
+JP: 
+EN: Крит +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_026
+JP: 
+EN: Крит +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_027
+JP: 
+EN: Крит +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_028
+JP: 
+EN: Дальний бой
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_029
+JP: 
+EN: Дальний бой +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_030
+JP: 
+EN: Дальний бой +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_031
+JP: 
+EN: Дальний бой +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_032
+JP: 
+EN: Дальний бой +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_033
+JP: 
+EN: Дальний бой +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_034
+JP: 
+EN: Дальний бой +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_035
+JP: 
+EN: Дальний бой +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_036
+JP: 
+EN: Дальний бой +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_037
+JP: 
+EN: Перезарядка
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_038
+JP: 
+EN: Перезарядка +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_039
+JP: 
+EN: Перезарядка +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_040
+JP: 
+EN: Перезарядка +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_041
+JP: 
+EN: Перезарядка +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_042
+JP: 
+EN: Перезарядка +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_043
+JP: 
+EN: Перезарядка +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_044
+JP: 
+EN: Перезарядка +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_045
+JP: 
+EN: Перезарядка +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_046
+JP: 
+EN: Защита от ударов
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_047
+JP: 
+EN: Защита от ударов +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_048
+JP: 
+EN: Защита от ударов +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_049
+JP: 
+EN: Защита от ударов +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_050
+JP: 
+EN: Защита от ударов +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_051
+JP: 
+EN: Защита от ударов +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_052
+JP: 
+EN: Защита от ударов +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_053
+JP: 
+EN: Защита от ударов +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_054
+JP: 
+EN: Защита от ударов +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_055
+JP: 
+EN: Защита от снарядов
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_056
+JP: 
+EN: Защита от снарядов +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_057
+JP: 
+EN: Защита от снарядов +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_058
+JP: 
+EN: Защита от снарядов +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_059
+JP: 
+EN: Защита от снарядов +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_060
+JP: 
+EN: Защита от снарядов +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_061
+JP: 
+EN: Защита от снарядов +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_062
+JP: 
+EN: Защита от снарядов +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_063
+JP: 
+EN: Защита от снарядов +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_064
+JP: 
+EN: Обрыв повреждений
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_065
+JP: 
+EN: Обрыв повреждений +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_066
+JP: 
+EN: Обрыв повреждений +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_067
+JP: 
+EN: Обрыв повреждений +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_068
+JP: 
+EN: Обрыв повреждений +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_069
+JP: 
+EN: Обрыв повреждений +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_070
+JP: 
+EN: Обрыв повреждений +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_071
+JP: 
+EN: Обрыв повреждений +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_072
+JP: 
+EN: Обрыв повреждений +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_073
+JP: 
+EN: Максимум ОЗ
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_074
+JP: 
+EN: Максимум ОЗ +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_075
+JP: 
+EN: Максимум ОЗ +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_076
+JP: 
+EN: Максимум ОЗ +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_077
+JP: 
+EN: Максимум ОЗ +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_078
+JP: 
+EN: Максимум ОЗ +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_079
+JP: 
+EN: Максимум ОЗ +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_080
+JP: 
+EN: Максимум ОЗ +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_081
+JP: 
+EN: Максимум ОЗ +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_082
+JP: 
+EN: Боевое исцеление
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_083
+JP: 
+EN: Боевое исцеление +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_084
+JP: 
+EN: Боевое исцеление +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_085
+JP: 
+EN: Боевое исцеление +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_086
+JP: 
+EN: Боевое исцеление +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_087
+JP: 
+EN: Боевое исцеление +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_088
+JP: 
+EN: Боевое исцеление +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_089
+JP: 
+EN: Боевое исцеление +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_090
+JP: 
+EN: Боевое исцеление +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_091
+JP: 
+EN: Утилизация
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_092
+JP: 
+EN: Утилизация +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_093
+JP: 
+EN: Утилизация +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_094
+JP: 
+EN: Утилизация +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_095
+JP: 
+EN: Утилизация +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_096
+JP: 
+EN: Утилизация +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_097
+JP: 
+EN: Утилизация +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_098
+JP: 
+EN: Утилизация +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_099
+JP: 
+EN: Утилизация +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_100
+JP: 
+EN: Самовосстановление
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_101
+JP: 
+EN: Самовосстановление +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_102
+JP: 
+EN: Самовосстановление +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_103
+JP: 
+EN: Самовосстановление +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_104
+JP: 
+EN: Самовосстановление +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_105
+JP: 
+EN: Самовосстановление +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_106
+JP: 
+EN: Самовосстановление +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_107
+JP: 
+EN: Самовосстановление +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_108
+JP: 
+EN: Самовосстановление +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_109
+JP: 
+EN: Уклонение
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_110
+JP: 
+EN: Уклонение +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_111
+JP: 
+EN: Уклонение +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_112
+JP: 
+EN: Уклонение +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_113
+JP: 
+EN: Уклонение +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_114
+JP: 
+EN: Уклонение +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_115
+JP: 
+EN: Уклонение +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_116
+JP: 
+EN: Уклонение +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_117
+JP: 
+EN: Уклонение +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_118
+JP: 
+EN: Передвижение
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_119
+JP: 
+EN: Передвижение +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_120
+JP: 
+EN: Передвижение +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_121
+JP: 
+EN: Передвижение +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_122
+JP: 
+EN: Передвижение +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_123
+JP: 
+EN: Передвижение +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_124
+JP: 
+EN: Передвижение +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_125
+JP: 
+EN: Передвижение +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_126
+JP: 
+EN: Передвижение +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_127
+JP: 
+EN: Удача
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_128
+JP: 
+EN: Удача +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_129
+JP: 
+EN: Удача +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_130
+JP: 
+EN: Удача +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_131
+JP: 
+EN: Удача +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_132
+JP: 
+EN: Удача +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_133
+JP: 
+EN: Удача +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_134
+JP: 
+EN: Удача +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_135
+JP: 
+EN: Удача +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_136
+JP: 
+EN: Опыт
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_137
+JP: 
+EN: Опыт +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_138
+JP: 
+EN: Опыт +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_139
+JP: 
+EN: Опыт +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_140
+JP: 
+EN: Опыт +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_141
+JP: 
+EN: Опыт +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_142
+JP: 
+EN: Опыт +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_143
+JP: 
+EN: Опыт +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_144
+JP: 
+EN: Опыт +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_145
+JP: 
+EN: Ударная волна
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_146
+JP: 
+EN: Ударная волна +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_147
+JP: 
+EN: Ударная волна +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_148
+JP: 
+EN: Ударная волна +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_149
+JP: 
+EN: Ударная волна +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_150
+JP: 
+EN: Ударная волна +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_151
+JP: 
+EN: Ударная волна +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_152
+JP: 
+EN: Ударная волна +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_153
+JP: 
+EN: Ударная волна +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_154
+JP: 
+EN: Последний рубеж
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_155
+JP: 
+EN: Последний рубеж +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_156
+JP: 
+EN: Последний рубеж +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_157
+JP: 
+EN: Последний рубеж +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_158
+JP: 
+EN: Последний рубеж +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_159
+JP: 
+EN: Последний рубеж +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_160
+JP: 
+EN: Последний рубеж +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_161
+JP: 
+EN: Последний рубеж +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_162
+JP: 
+EN: Последний рубеж +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_163
+JP: 
+EN: Поглощение урона
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_164
+JP: 
+EN: Поглощение урона +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_165
+JP: 
+EN: Поглощение урона +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_166
+JP: 
+EN: Поглощение урона +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_167
+JP: 
+EN: Поглощение урона +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_168
+JP: 
+EN: Поглощение урона +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_169
+JP: 
+EN: Поглощение урона +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_170
+JP: 
+EN: Поглощение урона +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_171
+JP: 
+EN: Поглощение урона +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_172
+JP: 
+EN: Отмщение
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_173
+JP: 
+EN: Отмщение +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_174
+JP: 
+EN: Отмщение +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_175
+JP: 
+EN: Отмщение +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_176
+JP: 
+EN: Отмщение +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_177
+JP: 
+EN: Отмщение +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_178
+JP: 
+EN: Отмщение +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_179
+JP: 
+EN: Отмщение +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_180
+JP: 
+EN: Отмщение +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_181
+JP: 
+EN: Перезапуск
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_182
+JP: 
+EN: Перезапуск +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_183
+JP: 
+EN: Перезапуск +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_184
+JP: 
+EN: Перезапуск +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_185
+JP: 
+EN: Перезапуск +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_186
+JP: 
+EN: Перезапуск +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_187
+JP: 
+EN: Перезапуск +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_188
+JP: 
+EN: Перезапуск +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_189
+JP: 
+EN: Перезапуск +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_190
+JP: 
+EN: Разгон
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_191
+JP: 
+EN: Разгон +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_192
+JP: 
+EN: Разгон +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_193
+JP: 
+EN: Разгон +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_194
+JP: 
+EN: Разгон +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_195
+JP: 
+EN: Разгон +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_196
+JP: 
+EN: Разгон +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_197
+JP: 
+EN: Разгон +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_198
+JP: 
+EN: Разгон +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_199
+JP: 
+EN: Устойчивость
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_200
+JP: 
+EN: Устойчивость +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_201
+JP: 
+EN: Устойчивость +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_202
+JP: 
+EN: Устойчивость +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_203
+JP: 
+EN: Устойчивость +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_204
+JP: 
+EN: Устойчивость +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_205
+JP: 
+EN: Устойчивость +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_206
+JP: 
+EN: Устойчивость +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_207
+JP: 
+EN: Устойчивость +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_208
+JP: 
+EN: Сканирование предмета
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_217
+JP: 
+EN: Контратака
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_218
+JP: 
+EN: Контратака +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_219
+JP: 
+EN: Контратака +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_220
+JP: 
+EN: Контратака +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_221
+JP: 
+EN: Контратака +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_222
+JP: 
+EN: Контратака +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_223
+JP: 
+EN: Контратака +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_224
+JP: 
+EN: Контратака +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_225
+JP: 
+EN: Контратака +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_226
+JP: 
+EN: Провокация
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_227
+JP: 
+EN: Провокация +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_228
+JP: 
+EN: Провокация +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_229
+JP: 
+EN: Провокация +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_230
+JP: 
+EN: Провокация +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_231
+JP: 
+EN: Провокация +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_232
+JP: 
+EN: Провокация +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_233
+JP: 
+EN: Провокация +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_234
+JP: 
+EN: Провокация +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_235
+JP: 
+EN: Заряженная атака
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_236
+JP: 
+EN: Заряженная атака +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_237
+JP: 
+EN: Заряженная атака +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_238
+JP: 
+EN: Заряженная атака +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_239
+JP: 
+EN: Заряженная атака +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_240
+JP: 
+EN: Заряженная атака +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_241
+JP: 
+EN: Заряженная атака +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_242
+JP: 
+EN: Заряженная атака +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_243
+JP: 
+EN: Заряженная атака +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_244
+JP: 
+EN: Авто-предметы
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_245
+JP: 
+EN: Авто-предметы +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_246
+JP: 
+EN: Авто-предметы +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_247
+JP: 
+EN: Авто-предметы +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_248
+JP: 
+EN: Авто-предметы +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_249
+JP: 
+EN: Авто-предметы +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_250
+JP: 
+EN: Авто-предметы +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_251
+JP: 
+EN: Авто-предметы +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_252
+JP: 
+EN: Авто-предметы +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_262
+JP: 
+EN: Усиление взлома
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_263
+JP: 
+EN: Усиление взлома +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_264
+JP: 
+EN: Усиление взлома +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_265
+JP: 
+EN: Усиление взлома +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_266
+JP: 
+EN: Усиление взлома +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_267
+JP: 
+EN: Усиление взлома +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_268
+JP: 
+EN: Усиление взлома +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_269
+JP: 
+EN: Усиление взлома +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_270
+JP: 
+EN: Усиление взлома +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_289
+JP: 
+EN: Оглушение
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_290
+JP: 
+EN: Оглушение +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_291
+JP: 
+EN: Оглушение +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_292
+JP: 
+EN: Оглушение +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_293
+JP: 
+EN: Оглушение +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_294
+JP: 
+EN: Оглушение +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_295
+JP: 
+EN: Оглушение +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_296
+JP: 
+EN: Оглушение +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_297
+JP: 
+EN: Оглушение +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_298
+JP: 
+EN: Возгорание
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_299
+JP: 
+EN: Возгорание +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_300
+JP: 
+EN: Возгорание +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_301
+JP: 
+EN: Возгорание +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_302
+JP: 
+EN: Возгорание +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_303
+JP: 
+EN: Возгорание +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_304
+JP: 
+EN: Возгорание +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_305
+JP: 
+EN: Возгорание +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_306
+JP: 
+EN: Возгорание +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_325
+JP: 
+EN: Исцеляющий сброс
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_326
+JP: 
+EN: Исцеляющий сброс +1
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_327
+JP: 
+EN: Исцеляющий сброс +2
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_328
+JP: 
+EN: Исцеляющий сброс +3
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_329
+JP: 
+EN: Исцеляющий сброс +4
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_330
+JP: 
+EN: Исцеляющий сброс +5
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_331
+JP: 
+EN: Исцеляющий сброс +6
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_332
+JP: 
+EN: Исцеляющий сброс +7
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_333
+JP: 
+EN: Исцеляющий сброс +8
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_334
+JP: 
+EN: Предсмертный хрип
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_335
+JP: 
+EN: HUD: Шкала ОЗ
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_336
+JP: 
+EN: HUD: Звуковые волны
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_337
+JP: 
+EN: HUD: Данные о противнике
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_338
+JP: 
+EN: Чип ОС
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_339
+JP: 
+EN: Система уклонения
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_340
+JP: 
+EN: Непрерывное комбо
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_341
+JP: 
+EN: Подрыв пуль
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_342
+JP: 
+EN: Авто-подбор предметов
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_343
+JP: 
+EN: HUD: Шкала навыка
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_344
+JP: 
+EN: HUD: Текстовый журнал
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_345
+JP: 
+EN: HUD: Мини-карта
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_346
+JP: 
+EN: HUD: Шкала опыта
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_347
+JP: 
+EN: HUD: Точки сохранения
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_348
+JP: 
+EN: HUD: Значения урона
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_349
+JP: 
+EN: HUD: Цели
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_350
+JP: 
+EN: HUD: Управление
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_351
+JP: 
+EN: Клетки пришельцев
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_352
+JP: 
+EN: Сердце пришельца
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_353
+JP: 
+EN: HUD: Места для рыбалки
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_354
+JP: 
+EN: Авто-атака
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_355
+JP: 
+EN: Авто-стрельба
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_356
+JP: 
+EN: Авто-уклонение
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_357
+JP: 
+EN: Авто-программа
+RU: 
+
+ID: CORE_PSV_SKILL_NAME_358
+JP: 
+EN: Авто-смена оружия
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_CHIP
+JP: 
+EN: Чип: "<CHIP_NAME>"
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_EXP
+JP: 
+EN: <EXP_VALUE> Опыта
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_ITEM
+JP: 
+EN: <ITEM_NAME> x <ITEM_NUM>
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_MONEY
+JP: 
+EN: <MONEY_VALUE> G
+RU: 
+
+ID: CORE_QUEST_EMP_TXT_WEAPON
+JP: 
+EN: <WEAPON_NAME>
+RU: 
+
+ID: CORE_QUEST_TXT_01
+JP: 
+EN: Задание принято: "<QUEST_NAME>"
+RU: 
+
+ID: CORE_QUEST_TXT_02
+JP: 
+EN: Задание завершено: "<QUEST_NAME>"
+RU: 
+
+ID: CORE_QUEST_TXT_03
+JP: 
+EN: Информация о задании была обновлена.
+RU: 
+
+ID: CORE_QUEST_TXT_04
+JP: 
+EN: Обновлено "<QUEST_NAME>".
+RU: 
+
+ID: CORE_QUEST_TXT_05
+JP: 
+EN: Ремонт завершён.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_00
+JP: 
+EN: Это закроет игру.\nВы согласны?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_01
+JP: 
+EN: Создать сохранение?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_02
+JP: 
+EN: Загрузить это сохранение?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_03
+JP: 
+EN: Сохранить в эту ячейку? (Игра возобновится с ближайшего терминала.)
+RU: 
+
+ID: CORE_SAVELOAD_TXT_04
+JP: 
+EN: Перезаписать это сохранение? (Игра возобновится с ближайшего терминала.)
+RU: 
+
+ID: CORE_SAVELOAD_TXT_06
+JP: 
+EN: Сохранения не найдены.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_07
+JP: 
+EN: Удалить текущее сохранение\nи создать новое?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_08
+JP: 
+EN: Загрузка завершена.
+RU: 
+
+ID: CORE_SAVELOAD_TXT_09
+JP: 
+EN: Сохранить текущий прогресс?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_10
+JP: 
+EN: Сохранить в эту ячейку?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_11
+JP: 
+EN: Перезаписать сохранение в этой ячейке?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_12
+JP: 
+EN: Вернуться в игру, не сохраняясь?
+RU: 
+
+ID: CORE_SAVELOAD_TXT_13
+JP: 
+EN: Загрузить сохранение?\nНесохранённые данные будут потеряны.
+RU: 
+
+ID: CORE_SKILL_GET
+JP: 
+EN: Вы получили программу бота.
+RU: 
+
+ID: CORE_STOP_TXT_01
+JP: 
+EN: Сигнал идентификации больше не функционирует.
+RU: 
+
+ID: CORE_SYS_DIALOG_04
+JP: 
+EN: Игра использует онлайн функции для обмена сообщениями. \nПодключиться к сети? (Можно изменить в системном меню в любое время.)
+RU: 
+
+ID: CORE_SYS_DIALOG_05
+JP: 
+EN: Подключиться к сети?
+RU: 
+
+ID: CORE_SYS_DIALOG_06
+JP: 
+EN: Вы не можете получить доступ к онлайн функциям игры из-за ограничений родительского контроля.
+RU: 
+
+ID: CORE_TRANSPORTER_TXT_01
+JP: 
+EN: Перейти к <AREA_NAME>?
+RU: 
+
+ID: CORE_TRANSPORTER_TXT_02
+JP: 
+EN: Функция не может быть использована.
+RU: 
+
+ID: CORE_TUTORIAL_0000
+JP: 
+EN: * Эта игра не поддерживает автосохранение. Играйте в игру, чтобы узнать, как сохраниться.
+RU: 
+
+ID: CORE_TUTORIAL_0018
+JP: 
+EN: * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения.* Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения. * Эта игра не поддерживает автосохранения.
+RU: 
+
+ID: CORE_TUTORIAL_0020
+JP: 
+EN: Мир наполнен искусно замаскированными терминалами <MAP_EVENT>, которые могут быть использованы для следующего:\n\n— Разблокировка карты\n— Разблокировка зоны сохранения (белая зона на карте), которая позволяет вам сохранить игру из системного меню, пока вы достаточно близко к терминалу.\n\nЕсли вы найдёте терминал, который подвергается атаке противника, то уничтожьте их всех, чтобы активировать его.
+RU: 
+
+ID: CORE_TUTORIAL_0021
+JP: 
+EN: Выберите "Переместиться" в терминале для перемещения к другим терминалам.\nВ мире есть много терминалов, но вам нужно их разблокировать, прежде чем использовать.
+RU: 
+
+ID: CORE_TUTORIAL_0022
+JP: 
+EN: Терминалы, отмеченные этим значком <MAP_TELEPORT_N>, испытывают технические неполадки и не могут быть использованы.
+RU: 
+
+ID: CORE_TUTORIAL_0023
+JP: 
+EN: Выберите "Входящие" на терминале, чтобы проверить свою почту.
+RU: 
+
+ID: CORE_TUTORIAL_0024
+JP: 
+EN: Вы открыли режим "Аркада" на терминале.\nЭто позволит вам переиграть любые игры взлома, которые вы завершили в течение игры.
+RU: 
+
+ID: CORE_TUTORIAL_0025
+JP: 
+EN: Когда ваш персонаж умирает, его тело отмечается на карте как труп <MAP_CORPSE>. Эти тела содержат различные данные, так что вам придется вернуться к своему телу, чтобы забрать свои вещи. \n\nЕсли вы умерли снова, прежде чем достигли предыдущего тела, оно исчезнет. Если вы продолжаете играть в течение длительного периода времени без возврата своего тела, оно исчезнет.\n
+RU: 
+
+ID: CORE_TUTORIAL_0026
+JP: 
+EN: Если вы включили опцию "Сетевые функции", ваши тела будут загружены в онлайн после смерти.\nВы можете создать эпитафию для вашего тела в системном меню во вкладке "Сеть", в разделе "Изменить эпитафию".
+RU: 
+
+ID: CORE_TUTORIAL_0027
+JP: 
+EN: Если у вас включена опция "Сетевые функции", вы сможете видеть мёртвые тела других игроков. Изучив эти тела, вы сможете сделать следующее:\n\n— Извлечь: временно вы получите 3 случайных эффекта на основе экипированных чипов игрока.\n— Ремонтировать: тело будет следовать за вами и помогать вам в бою (максимум одно тело).
+RU: 
+
+ID: CORE_TUTORIAL_0027_PC
+JP: 
+EN: Если у вас включена опция "Сетевые функции", вы сможете видеть мёртвые тела других игроков. Изучив эти тела, вы сможете сделать следующее:\n\n— Извлечь: временно вы получите 3 случайных эффекта на основе экипированных чипов игрока.\n— Ремонтировать: тело будет следовать за вами и помогать вам в бою (максимум одно тело).
+RU: 
+
+ID: CORE_TUTORIAL_0028
+JP: 
+EN: Вы можете принимать дополнительные задания у клиентов (отмеченных как <MAP_EVENT>) по всему миру.\nМестоположение дополнительных заданий отображается в виде <MAP_GOAL_SUB> на мини-карте.
+RU: 
+
+ID: CORE_TUTORIAL_0029
+JP: 
+EN: Ваше дополнительное задание было обновлено.\nВы можете проверить прогресс по таблице заданий в системном меню.
+RU: 
+
+ID: CORE_TUTORIAL_0030
+JP: 
+EN: Вы можете открыть меню отладки нажав <BTN_R2_2><ICON_PLUS_2><BTN_SELECT_2>\n\nАктивация меню отладки отключит все функции сохранения до тех пор, пока вы не загрузите любое сохранение.
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0020
+JP: 
+EN: Терминал
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0021
+JP: 
+EN: Терминал: телепорт
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0022
+JP: 
+EN: Терминал: недоступен
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0023
+JP: 
+EN: Терминал: почтовый ящик
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0024
+JP: 
+EN: Терминал: аркада
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0025
+JP: 
+EN: Реликварийная система
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0026
+JP: 
+EN: Реликварийная система: загрузить
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0027
+JP: 
+EN: Тела других игроков
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0028
+JP: 
+EN: Побочные задания
+RU: 
+
+ID: CORE_TUTORIAL_NAME_0029
+JP: 
+EN: Прогресс побочных заданий
+RU: 
+
+ID: CORE_WP_GET
+JP: 
+EN: Вы получили оружие.
+RU: 
+
+ID: CORE_WP_NAME_00f0
+JP: 
+EN: Моторный клинок
+RU: 
+
+ID: CORE_WP_NAME_00f1
+JP: 
+EN: Кипарисовая палка
+RU: 
+
+ID: CORE_WP_NAME_1001
+JP: 
+EN: Кулаки
+RU: 
+
+ID: CORE_WP_NAME_1003
+JP: 
+EN: Вера
+RU: 
+
+ID: CORE_WP_NAME_1013
+JP: 
+EN: Железная труба
+RU: 
+
+ID: CORE_WP_NAME_1020
+JP: 
+EN: Кара зверя
+RU: 
+
+ID: CORE_WP_NAME_1030
+JP: 
+EN: Древний владыка
+RU: 
+
+ID: CORE_WP_NAME_1040
+JP: 
+EN: Кинжал феникса
+RU: 
+
+ID: CORE_WP_NAME_1050
+JP: 
+EN: Меч модели 4O
+RU: 
+
+ID: CORE_WP_NAME_1060
+JP: 
+EN: Меч модели 3
+RU: 
+
+ID: CORE_WP_NAME_1070
+JP: 
+EN: Белый контракт
+RU: 
+
+ID: CORE_WP_NAME_1071
+JP: 
+EN: Черный договор
+RU: 
+
+ID: CORE_WP_NAME_1080
+JP: 
+EN: Меч отряда YoRHa
+RU: 
+
+ID: CORE_WP_NAME_1090
+JP: 
+EN: Машинный меч
+RU: 
+
+ID: CORE_WP_NAME_1203
+JP: 
+EN: Железная воля
+RU: 
+
+ID: CORE_WP_NAME_1213
+JP: 
+EN: Клык близнецов
+RU: 
+
+ID: CORE_WP_NAME_1220
+JP: 
+EN: Царь зверей
+RU: 
+
+ID: CORE_WP_NAME_1230
+JP: 
+EN: Меч феникса
+RU: 
+
+ID: CORE_WP_NAME_1240
+JP: 
+EN: Клинок модель-4O
+RU: 
+
+ID: CORE_WP_NAME_1250
+JP: 
+EN: Клинок модель-3
+RU: 
+
+ID: CORE_WP_NAME_1260
+JP: 
+EN: Белый договор
+RU: 
+
+ID: CORE_WP_NAME_1261
+JP: 
+EN: Черное обещание
+RU: 
+
+ID: CORE_WP_NAME_1270
+JP: 
+EN: Машинный топор
+RU: 
+
+ID: CORE_WP_NAME_1400
+JP: 
+EN: Копьё феникса
+RU: 
+
+ID: CORE_WP_NAME_1420
+JP: 
+EN: Проклятие зверя
+RU: 
+
+ID: CORE_WP_NAME_1430
+JP: 
+EN: Копьё драгуна
+RU: 
+
+ID: CORE_WP_NAME_1440
+JP: 
+EN: Копьё узурпатора
+RU: 
+
+ID: CORE_WP_NAME_1450
+JP: 
+EN: Копьё модель-4O
+RU: 
+
+ID: CORE_WP_NAME_1460
+JP: 
+EN: Копьё модель-3
+RU: 
+
+ID: CORE_WP_NAME_1470
+JP: 
+EN: Белая гордыня
+RU: 
+
+ID: CORE_WP_NAME_1471
+JP: 
+EN: Черное высокомерие
+RU: 
+
+ID: CORE_WP_NAME_1480
+JP: 
+EN: Машинное копьё
+RU: 
+
+ID: CORE_WP_NAME_1600
+JP: 
+EN: Кастеты модель-3
+RU: 
+
+ID: CORE_WP_NAME_1610
+JP: 
+EN: Кастеты модель-4O
+RU: 
+
+ID: CORE_WP_NAME_1620
+JP: 
+EN: Белая скорбь
+RU: 
+
+ID: CORE_WP_NAME_1621
+JP: 
+EN: Черные слезы
+RU: 
+
+ID: CORE_WP_NAME_1630
+JP: 
+EN: Клык демона
+RU: 
+
+ID: CORE_WP_NAME_1640
+JP: 
+EN: Крыло ангела
+RU: 
+
+ID: CORE_WP_NAME_1650
+JP: 
+EN: Головы машин
+RU: 
+
+ID: CORE_WP_NAME_1877
+JP: 
+EN: Головы Эмиля
+RU: 
+
+ID: PAUSE_QUEST_NAME_q020
+JP: 
+EN: Меланхолия Сартра
+RU: 
+
+ID: PAUSE_QUEST_NAME_q020_US
+JP: 
+EN: Меланхолия Жан-Поля
+RU: 
+
+ID: PAUSE_QUEST_NAME_q031
+JP: 
+EN: Изучение машин 1
+RU: 
+
+ID: PAUSE_QUEST_NAME_q032
+JP: 
+EN: Изучение машин 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q040
+JP: 
+EN: Семейная ссора
+RU: 
+
+ID: PAUSE_QUEST_NAME_q070
+JP: 
+EN: Из машин и зверей
+RU: 
+
+ID: PAUSE_QUEST_NAME_q071
+JP: 
+EN: Уход за животными
+RU: 
+
+ID: PAUSE_QUEST_NAME_q072
+JP: 
+EN: Борьба за власть
+RU: 
+
+ID: PAUSE_QUEST_NAME_q100
+JP: 
+EN: Робододзё, белый пояс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q101
+JP: 
+EN: Робододзё, коричневый пояс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q102
+JP: 
+EN: Робододзё, чёрный пояс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q103
+JP: 
+EN: Робододзё, бело-красный пояс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q104
+JP: 
+EN: Робододзё, красный пояс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q110
+JP: 
+EN: Пропавшая девочка
+RU: 
+
+ID: PAUSE_QUEST_NAME_q120
+JP: 
+EN: Просьба торговца припасами
+RU: 
+
+ID: PAUSE_QUEST_NAME_q121
+JP: 
+EN: Просьба управляющей
+RU: 
+
+ID: PAUSE_QUEST_NAME_q122
+JP: 
+EN: Развитие лагеря
+RU: 
+
+ID: PAUSE_QUEST_NAME_q123
+JP: 
+EN: Прошлое Анемоны
+RU: 
+
+ID: PAUSE_QUEST_NAME_q130
+JP: 
+EN: Амнезия
+RU: 
+
+ID: PAUSE_QUEST_NAME_q140
+JP: 
+EN: Пропажа члена Сопротивления
+RU: 
+
+ID: PAUSE_QUEST_NAME_q150
+JP: 
+EN: Исследования Джекэсс
+RU: 
+
+ID: PAUSE_QUEST_NAME_q160
+JP: 
+EN: Улучшение связи
+RU: 
+
+ID: PAUSE_QUEST_NAME_q162
+JP: 
+EN: Исследование связи
+RU: 
+
+ID: PAUSE_QUEST_NAME_q170
+JP: 
+EN: Починка терминалов
+RU: 
+
+ID: PAUSE_QUEST_NAME_q171
+JP: 
+EN: Поиск подарка
+RU: 
+
+ID: PAUSE_QUEST_NAME_q180
+JP: 
+EN: Помешанная на анализе данных
+RU: 
+
+ID: PAUSE_QUEST_NAME_q181
+JP: 
+EN: Помешанная на анализе данных 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q210
+JP: 
+EN: Владыка долины
+RU: 
+
+ID: PAUSE_QUEST_NAME_q220
+JP: 
+EN: Борьба с плохой машиной
+RU: 
+
+ID: PAUSE_QUEST_NAME_q221
+JP: 
+EN: Поиграй с нами!
+RU: 
+
+ID: PAUSE_QUEST_NAME_q222
+JP: 
+EN: Накопитель
+RU: 
+
+ID: PAUSE_QUEST_NAME_q240
+JP: 
+EN: Полоумный изобретатель
+RU: 
+
+ID: PAUSE_QUEST_NAME_q250
+JP: 
+EN: Дефективный
+RU: 
+
+ID: PAUSE_QUEST_NAME_q290
+JP: 
+EN: Разработка игры Ур.1
+RU: 
+
+ID: PAUSE_QUEST_NAME_q291
+JP: 
+EN: Разработка игры Ур.2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q292
+JP: 
+EN: Разработка игры Ур.3
+RU: 
+
+ID: PAUSE_QUEST_NAME_q300
+JP: 
+EN: Со скоростью звёзд
+RU: 
+
+ID: PAUSE_QUEST_NAME_q330
+JP: 
+EN: Воспоминания Эмиля
+RU: 
+
+ID: PAUSE_QUEST_NAME_q340
+JP: 
+EN: Фотографии
+RU: 
+
+ID: PAUSE_QUEST_NAME_q360
+JP: 
+EN: В высоком местечке
+RU: 
+
+ID: PAUSE_QUEST_NAME_q400
+JP: 
+EN: Мстительный воин
+RU: 
+
+ID: PAUSE_QUEST_NAME_q401
+JP: 
+EN: Мстительный воин возвращается
+RU: 
+
+ID: PAUSE_QUEST_NAME_q403
+JP: 
+EN: Мстительный воин — финал
+RU: 
+
+ID: PAUSE_QUEST_NAME_q410
+JP: 
+EN: Память об 11B
+RU: 
+
+ID: PAUSE_QUEST_NAME_q440
+JP: 
+EN: Охота за сокровищами в замке
+RU: 
+
+ID: PAUSE_QUEST_NAME_q500
+JP: 
+EN: Блуждающая парочка
+RU: 
+
+ID: PAUSE_QUEST_NAME_q520
+JP: 
+EN: Данные старого мира
+RU: 
+
+ID: PAUSE_QUEST_NAME_q532
+JP: 
+EN: Кулинарный исследователь
+RU: 
+
+ID: PAUSE_QUEST_NAME_q540
+JP: 
+EN: Предатели YoRHa
+RU: 
+
+ID: PAUSE_QUEST_NAME_q550
+JP: 
+EN: Отряд разведки
+RU: 
+
+ID: PAUSE_QUEST_NAME_q560
+JP: 
+EN: Просьба Деволы
+RU: 
+
+ID: PAUSE_QUEST_NAME_q561
+JP: 
+EN: Просьба Пополы
+RU: 
+
+ID: PAUSE_QUEST_NAME_q562
+JP: 
+EN: Просьба близняшек
+RU: 
+
+ID: PAUSE_QUEST_NAME_q590
+JP: 
+EN: Наследие прошлого
+RU: 
+
+ID: PAUSE_QUEST_NAME_q640
+JP: 
+EN: Возврат секретных разведданных
+RU: 
+
+ID: PAUSE_QUEST_NAME_q650
+JP: 
+EN: Проблемы сортировки
+RU: 
+
+ID: PAUSE_QUEST_NAME_q651
+JP: 
+EN: Проблемы сортировки 2
+RU: 
+
+ID: PAUSE_QUEST_NAME_q652
+JP: 
+EN: Проблемы сортировки 3
+RU: 
+
+ID: PAUSE_QUEST_NAME_q660
+JP: 
+EN: Сбор печатей
+RU: 
+
+ID: PAUSE_QUEST_NAME_q680
+JP: 
+EN: Сопровождение парада
+RU: 
+
+ID: PAUSE_QUEST_NAME_q720
+JP: 
+EN: Сбор сувениров
+RU: 
+
+ID: PAUSE_QUEST_NAME_q770
+JP: 
+EN: Просьба торговца оружием
+RU: 
+
+ID: PAUSE_QUEST_NAME_q800
+JP: 
+EN: Затворник
+RU: 
+
+ID: PAUSE_QUEST_NAME_q801
+JP: 
+EN: Затворник остаётся дома
+RU: 
+
+ID: PAUSE_QUEST_NAME_q802
+JP: 
+EN: Стойкий затворник
+RU: 
+
+ID: PAUSE_QUEST_NAME_q900
+JP: 
+EN: Решимость Эмиля
+RU: 
+
+ID: PAUSE_QUEST_NAME_q920
+JP: 
+EN: Кража сделки
+RU: 
+

@@ -1,0 +1,566 @@
+-- Section 1
+
+ID: M6040_S0010_G0020_300_n02
+JP: アイを受け取ってクダサイ。
+EN: Accept my love!
+RU: Примите мою любовь!
+
+
+-- Section 2
+
+ID: M6040_S0010_G0030_300_n02
+JP: アリガトウ！アリガトウ！
+EN: Thank you! Thank you!
+RU: Спасибо вам! Спасибо вам!
+
+
+-- Section 3
+
+ID: M6040_S0010_G0070_300_n02
+JP: 楽しイネ！！タのしイネ！！
+EN: Oh, what fun! Oh, what fun!
+RU: О, как весело! О, как весело!
+
+
+-- Section 4
+
+ID: M6040_S0010_G0100_300_n02
+JP: いラッしゃイマせ！
+EN: Welcome!
+RU: Добро пожаловать!
+
+
+-- Section 5
+
+ID: M6040_S0010_G0110_300_n02
+JP: ヨウコソ！
+EN: Welcome!
+RU: Добро пожаловать!
+
+
+-- Section 6
+
+ID: M6040_S0010_G0040_300_n02
+JP: オメデトウ！アナタが一人目のお客サンです！！
+EN: Congratulations! You're our first customer!
+RU: Поздравляем! Вы наш первый клиент!
+
+
+-- Section 7
+
+ID: M6040_S0010_G0050_300_n02
+JP: ヨウこそ！ようコソ！
+EN: Welcome! Welcome!
+RU: Добро пожаловать! Добро пожаловать!
+
+
+-- Section 8
+
+ID: M6040_S0010_G0125_300_husenoto
+JP: 楽シンデください。
+EN: Have fun!
+RU: Желаю вам повеселиться!
+
+
+-- Section 9
+
+ID: M6040_S0010_G0130_300_n02
+JP: マタ来てネ！
+EN: Come again!
+RU: Приходите ещё!
+
+
+-- Section 10
+
+ID: M6040_S0010_G0140_300_n02
+JP: マタね！マタね！
+EN: See you! See you!
+RU: Увидимся! Увидимся!
+
+
+-- Section 11
+
+ID: M6040_S0010_G0260_300_robowoman
+JP: アラ！こんにちは。
+EN: Oh! Hello.
+RU: О! Привет!
+
+
+-- Section 12
+
+ID: M6040_S0010_G0270_300_robowoman
+JP: ごきげんいかが？
+EN: How are you?
+RU: Как дела?
+
+
+-- Section 13
+
+ID: M6040_S0010_G0080_300_n02
+JP: ブキをすてて　アイを持トウ！
+EN: Throw down your weapons! Surrender to love!
+RU: Сложите оружие! Предайтесь любви!
+
+ID: M6040_S0010_G0090_300_n02
+JP: ネ！ネ！ね！
+EN: Hey! Hey!
+RU: Эй! Эй!
+
+
+-- Section 14
+
+ID: M6040_S0010_G0060_300_n02
+JP: タのしイネ！楽しイネ！
+EN: Oh, what fun! Oh, what fun!
+RU: О, как весело! О, как весело!
+
+
+-- Section 15
+
+ID: M6040_S0010_G0000_300_n02
+JP: 喜ビヲ！分かち合オウ！
+EN: Let's be happy together!
+RU: Давайте веселиться вместе!
+
+ID: M6040_S0010_G0010_300_n02
+JP: アオウ！
+EN: Together! Together!
+RU: Вместе! Вместе!
+
+
+-- Section 16
+
+ID: M6040_S0010_G0150_300_n02
+JP: 休憩チゅウ！
+EN: Break time!
+RU: Перерыв!
+
+
+-- Section 17
+
+ID: M6040_S0010_G0160_300_n02
+JP: 見ルなッテ！
+EN: Don't look at me!
+RU: Не смотрите на меня!
+
+ID: M6040_S0010_G0170_300_n02
+JP: コッチこなイデ！
+EN: Don't come closer!
+RU: Не подходите ближе!
+
+
+-- Section 18
+
+ID: M6040_S0010_G0180_300_n02
+JP: 関係シャ？チガう？
+EN: You have business here? No?
+RU: У вас здесь дело? Нет?
+
+
+-- Section 19
+
+ID: M6040_S0010_G0190_300_n02
+JP: コッチ　何もナイヨ。
+EN: Nothing here, you know.
+RU: Здесь ничего нет.
+
+
+-- Section 20
+
+ID: M6040_S0010_G0230_300_junk
+JP: シーッ！大キナ声ヲ出スナ！
+EN: Shhh! Don't shout!
+RU: Тс-с-с! Не кричите!
+
+ID: M6040_S0010_G0240_300_junk
+JP: 何カ用カ？
+EN: Can I help you?
+RU: Чем могу помочь?
+
+
+-- Section 21
+
+ID: M6040_S0010_G0240_300_junk
+JP: 何カ用カ？
+EN: Can I help you?
+RU: Чем могу помочь?
+
+
+-- Section 22
+
+ID: M6040_S0010_G0250_300_junk
+JP: アリガトヨ！
+EN: Thank you!
+RU: Спасибо!
+
+
+-- Section 23
+
+ID: M6040_S0010_G0200_300_n02
+JP: コノ先　アぶナい！コワレタ！
+EN: Dangerous beyond here! Broken!
+RU: Здесь опасный тип! Сломанный!
+
+ID: M6040_S0010_G0210_300_n02
+JP: ポンコツ　危けん！
+EN: Junk! Danger!
+RU: Хлам! Опасный!
+
+
+-- Section 24
+
+ID: M6040_S0010_G0220_300_n02
+JP: ポンコツ　イナクなった！
+EN: Junk! Disappeared!
+RU: Хлам! Прячьтесь!
+
+
+-- Section 25
+
+ID: M1030_S0120_G0190_001_a9s
+JP: これで安心ですよね？
+EN: We can rest easy now, huh?
+RU: Теперь мы можем отдохнуть, да?
+
+ID: M1030_S0120_G0200_001_a2b
+JP: ……そうだね。
+EN: ...Yeah.
+RU: ...Да.
+
+
+-- Section 26
+
+ID: M1030_S0120_G0210_001_a2b
+JP: これは……結晶？
+EN: What's this? Some kind of crystal?
+RU: Что это? Какой-то кристалл?
+
+ID: M1030_S0120_G0220_001_pod042
+JP: 回答：機械生命体の体内にあるコアの破片。
+EN: Analysis: It is a core fragment from the machine lifeform.
+RU: Анализ: это фрагмент ядра машин.
+
+ID: M1030_S0120_G0230_001_pod042
+JP: 構造的に植物細胞に近似。
+EN: It is similar in structure to a plant cell.
+RU: Структурно оно похоже на растительную клетку.
+
+ID: M1030_S0120_G0240_001_a2b
+JP: 植物細胞か……
+EN: A plant cell?
+RU: Растительную клетку?
+
+
+-- Section 27
+
+ID: M4040_S0000_G0010_300_a2b
+JP: ……ただの置物か。
+EN: It's just a statue.
+RU: Это просто статуя.
+
+ID: M4040_S0000_G0020_300_a9s
+JP: 動かない……ただの置物かな？
+EN: It's not moving. Maybe just a statue?
+RU: Не двигается. Может просто статуя?
+
+ID: M4040_S0000_G0040_300_a2
+JP: ……ただの置物みたいだな。
+EN: Guess it's just a statue.
+RU: Полагаю, это просто статуя.
+
+
+-- Section 28
+
+ID: M4040_S0000_G0030_300_a9s
+JP: 動かないな……
+EN: No response...
+RU: Не отвечает...
+
+
+-- Section 29
+
+ID: M4040_S0000_G0050_300_rabit
+JP: なにしとんねんワレ！！
+EN: Hey! Whaddya think yer doin' there!?
+RU: Эй! Чего это вы тут творите?!
+
+ID: M4040_S0000_G0060_300_a2b
+JP: こいつ、動く！？
+EN: It moved!
+RU: Она двигается!
+
+ID: M4040_S0000_G0070_300_a9s
+JP: うわっ！
+EN: Agh!
+RU: Агх!
+
+ID: M4040_S0000_G0090_300_a2
+JP: こいつ……っ！
+EN: You little...!
+RU: Ах ты, маленький!..
+
+ID: M4040_S0000_G0100_300_pod042
+JP: 推奨：大型機械生命体の撃破。
+EN: Proposal: Defeat the giant machine lifeform.
+RU: Предложение: победите гигантскую машину.
+
+ID: M4040_S0000_G0110_300_pod153
+JP: 推奨：大型機械生命体の撃破。
+EN: Proposal: Defeat the giant machine lifeform.
+RU: Предложение: победите гигантскую машину.
+
+
+-- Section 30
+
+ID: M4040_S0000_G0050_300_rabit
+JP: なにしとんねんワレ！！
+EN: Hey! Whaddya think yer doin' there!?
+RU: Эй! Чего это вы тут творите?!
+
+ID: M4040_S0000_G0080_300_a9s
+JP: っ……殺す！
+EN: Die!
+RU: Умри!
+
+ID: M4040_S0000_G0110_300_pod153
+JP: 推奨：大型機械生命体の撃破。
+EN: Proposal: Defeat the giant machine lifeform.
+RU: Предложение: победите гигантскую машину.
+
+
+-- Section 31
+
+ID: M4040_S0000_G0120_300_rabit
+JP: こんなに可愛いワシを殴るなんて、アンドロイドは血も涙もないのんか！
+EN: Why y'all swingin' at cute ol' me now!? Ain't you androids got no respect what fer livin' things!?
+RU: Зачем вы нападаете на такого милаху, как я?! Разве вы, андроиды, не уважаете живых существ?!
+
+
+-- Section 32
+
+ID: M4040_S0000_G0130_300_rabit
+JP: おんどれ……！可愛らしさなら負けへんのに……！
+EN: Fer cryin' out loud, when it comes to cute, I'm the goldurn BOSS'a cute, ya hear!?
+RU: Поклонники кричат громко, когда дело доходит до милого меня, милого золотого БОССА, слышите?!
+
+
+-- Section 33
+
+ID: M4040_S0000_G0160_300_pod042
+JP: 敵沈黙。脅威の排除を確認。
+EN: Enemy silenced. Threat has been neutralized.
+RU: Враг уничтожен. Угроза нейтрализована.
+
+ID: M4040_S0000_G0170_300_pod153
+JP: 敵沈黙。脅威の排除を確認。
+EN: Enemy silenced. Threat has been neutralized.
+RU: Враг уничтожен. Угроза нейтрализована.
+
+
+-- Section 34
+
+ID: M6040_S0010_G0280_300_n02
+JP: アオウゥゥゥゥ……
+EN: Oh dear...
+RU: О боже...
+
+
+-- Section 35
+
+ID: M6040_S0010_G0290_300_n02
+JP: ¢％□◆！！
+EN: ¢% □◆!
+RU: ¢% □◆!
+
+
+-- Section 36
+
+ID: M6040_S0010_G0410_300_n02
+JP: ……オキャク……サン……アー……アー……
+EN: ...Cust...om...er...augh...
+RU: ...Пос... ети... тель... агх...
+
+
+-- Section 37
+
+ID: M6040_S0010_G0420_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 38
+
+ID: M6040_S0010_G0460_300_n02
+JP: ……アナタ……ニク…………ヤサイ……
+EN: ...You...meat...vegetables...
+RU: ...Ты... мясо... овощи...
+
+
+-- Section 39
+
+ID: M6040_S0010_G0470_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 40
+
+ID: M6040_S0010_G0400_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 41
+
+ID: M6040_S0010_G0300_300_n02
+JP: クレ……クレ……ニク……
+EN: Give...give...me...
+RU: Дай... дай... мне...
+
+
+-- Section 42
+
+ID: M6040_S0010_G0310_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 43
+
+ID: M6040_S0010_G0360_300_n02
+JP: ……クウ……キカイ……どこどｋどｋ……
+EN: ...M-Machines...where...wh-whe...re...
+RU: ...М-машины... где... г-гд... е...
+
+
+-- Section 44
+
+ID: M6040_S0010_G0370_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 45
+
+ID: M6040_S0010_G0340_300_n02
+JP: タノシィィ……
+EN: Fun...
+RU: Весело...
+
+
+-- Section 46
+
+ID: M6040_S0010_G0350_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 47
+
+ID: M6040_S0010_G0320_300_n02
+JP: アナタ……□◆£¢％人目……シタイ……
+EN: You'll be...the □◆£ ¢%th one...
+RU: Ты будешь... □◆£ ¢% один...
+
+
+-- Section 48
+
+ID: M6040_S0010_G0330_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 49
+
+ID: M6040_S0010_G0380_300_n02
+JP: ……シンデ……クダサイ……
+EN: ...Please...die...
+RU: ...Пожалуйста... умри...
+
+
+-- Section 50
+
+ID: M6040_S0010_G0390_300_n02
+JP: ク……ル…………シィ……ヨォ。
+EN: It...hu...it...it...hurts...
+RU: Это... бо... это... так... больно...
+
+ID: M6040_S0010_G0400_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+
+-- Section 51
+
+ID: M6040_S0010_G0430_300_n02
+JP: ミンナ　ヘン　ナッタ！
+EN: All...acting...strange!
+RU: Все... ведут себя... странно!
+
+
+-- Section 52
+
+ID: M6040_S0010_G0440_300_n02
+JP: 休憩シテテ ヨカッター。
+EN: I'm glad I rested.
+RU: Я рад, что отдохнул.
+
+ID: M6040_S0010_G0450_300_n02
+JP: 休憩チゅウ！
+EN: Break time!
+RU: Перерыв!
+
+
+-- Section 53
+
+ID: M6040_S0010_G0500_300_junk
+JP: シーッ！大キナ声ヲ出スナ！\nミツカッタラ　ドウスル！
+EN: Shhh! Don't shout! What if they find us!?
+RU: Тс-с-с! Не кричите! Что, если они найдут нас?!
+
+ID: M6040_S0010_G0510_300_junk
+JP: 何カ用カ？
+EN: Can I help you?
+RU: Чем могу помочь?
+
+
+-- Section 54
+
+ID: M6040_S0010_G0510_300_junk
+JP: 何カ用カ？
+EN: Can I help you?
+RU: Чем могу помочь?
+
+
+-- Section 55
+
+ID: M6040_S0010_G0520_300_junk
+JP: ジャアナ！シッカリヤレヨ！
+EN: See you later. Hang in there!
+RU: Увидимся позже. Не сдавайтесь!
+
+
+-- Section 56
+
+ID: M6040_S0010_G0480_300_n02
+JP: ポンコ……ツ…………コワ……レタ……ワタし……あたシ……
+EN: Jun...k...bro...ken... I... I...
+RU: Хла... м... слом... ман... я... я...
+
+
+-- Section 57
+
+ID: M6040_S0010_G0490_300_n02
+JP: ……ゲェゲェ……
+EN: ...Guh...
+RU: ...Гр-р...
+
+

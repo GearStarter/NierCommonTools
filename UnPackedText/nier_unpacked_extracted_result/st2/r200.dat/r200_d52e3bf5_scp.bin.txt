@@ -1,0 +1,431 @@
+-- Section 1
+
+ID: M4020_S0000_G0271_300_pod042
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: Предложение: используйте стрельбу Бота, чтобы заставить его остановиться.
+
+
+-- Section 2
+
+ID: M4020_S0000_G0310_300_pod153
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: Предложение: используйте стрельбу Бота, чтобы заставить его остановиться.
+
+
+-- Section 3
+
+ID: M5920_S0030_G0000_001_a2
+JP: 何だ……あれは。
+EN: Huh? What's that?
+RU: А? Что это было?
+
+ID: M4020_S0000_G0271_300_pod042
+JP: 推奨：ポッド射撃による強制停止。
+EN: Proposal: Use Pod fire to force him to stop.
+RU: Предложение: используйте стрельбу Бота, чтобы заставить его остановиться.
+
+
+-- Section 4
+
+ID: M6020_S0000_G0020_300_eml
+JP: 何か御用ですか？
+EN: Can I help you with anything?
+RU: Могу я чем-то помочь?
+
+ID: M5920_S0080_G0120_001_eml
+JP: いやあ、最近物騒ですよね。
+EN: Boy, the world's really going to hell in a handbasket, isn't it?
+RU: Мир действительно катится в тартарары, не так ли?
+
+ID: M5920_S0080_G0130_001_eml
+JP: この前もウチにドロボウさんが来たみたいで……
+EN: I actually had a bandit break into my place a little while ago!
+RU: На самом деле, недавно в мой дом ворвались бандиты!
+
+ID: M5920_S0080_G0140_001_eml
+JP: でも、今回は頑丈な入れ物に入れたので大丈夫です！
+EN: After that, I put all my valuables in a secure container. Now I don't have to worry anymore!
+RU: После этого я сложил все свои ценные вещи в ящик с кодовым замком. Теперь мне не нужно ни о чём беспокоиться.
+
+
+-- Section 5
+
+ID: M6020_S0000_G0000_300_eml
+JP: あいたたた……
+EN: Owowowow...
+RU: Ой-ой-ой-ой-ой...
+
+ID: M6020_S0000_G0010_300_eml
+JP: あっ！いらっしゃい！
+EN: Oh! Heya!
+RU: О! Приветик!
+
+
+-- Section 6
+
+ID: M6020_S0000_G0100_001_eml
+JP: いやあ……気づきませんでした。
+EN: Sorry about that. I didn't see you there.
+RU: Простите за это. Я не заметил вас.
+
+ID: M6020_S0000_G0020_300_eml
+JP: 何か御用ですか？
+EN: Can I help you with anything?
+RU: Могу я чем-то помочь?
+
+
+-- Section 7
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: Добро пожаловать!
+
+
+-- Section 8
+
+ID: M6020_S0000_G0060_001_eml
+JP: こんにちは～
+EN: Hello!
+RU: Привет!
+
+ID: M6020_S0000_G0120_001_eml
+JP: 攻撃して止めるなんて……乱暴ですねぇ。
+EN: You don't have to whack someone in the face to get their attention, you know?
+RU: А вы знали, не обязательно бить кого-то по лицу, чтобы привлечь его внимание?
+
+
+-- Section 9
+
+ID: M6020_S0000_G0070_001_eml
+JP: いらっしゃいませ？
+EN: Er, welcome?
+RU: Эм, добро пожаловать?
+
+
+-- Section 10
+
+ID: M6020_S0000_G0110_001_eml
+JP: おおっと？何かご入用ですか？
+EN: Sorry? Do you need something?
+RU: Простите? Вам что-нибудь нужно?
+
+
+-- Section 11
+
+ID: M6020_S0000_G0030_300_eml
+JP: また来てくださいね～
+EN: Come again!
+RU: Приходите ещё!
+
+
+-- Section 12
+
+ID: M6020_S0000_G0040_001_eml
+JP: またのご利用をお待ちしておりまーす！！
+EN: Hope to see you again!
+RU: Надеюсь, мы ещё увидимся!
+
+
+-- Section 13
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: Спасибо!
+
+
+-- Section 14
+
+ID: M6020_S0000_G0090_001_eml
+JP: ありがとうございました？
+EN: Thank you?
+RU: Спасибо?
+
+
+-- Section 15
+
+ID: M6020_S0000_G0230_300_eml
+JP: あっいらっしゃいませ！
+EN: Oh! Welcome!
+RU: О! Добро пожаловать!
+
+ID: M6020_S0000_G0240_300_eml
+JP: え？どうしてこんな形状で商売してるかって？
+EN: ...Hmm? Why am I running a shop like this?
+RU: Хм? Зачем мне передвижной магазин?
+
+ID: M6020_S0000_G0250_300_eml
+JP: それを話すと、一晩じゃ済まないのですが……
+EN: Yeaaaah, that's a really long story that we probably don't have time for.
+RU: Ну-у-у, это довольно долгая история, скорее всего, нам не хватит времени на её пересказ.
+
+ID: M6020_S0000_G0260_300_eml
+JP: とりあえず……何か買いますか？
+EN: So how about you buy something instead?
+RU: Может, вместо этого купите что-нибудь?
+
+ID: M6020_S0000_G0270_300_eml
+JP: ありがとうございました！
+EN: Thanks much!
+RU: Большое спасибо!
+
+ID: M6020_S0000_G0280_300_eml
+JP: えーと、領収書のお名前は……
+EN: And what name should I put on the receipt?
+RU: На чьё имя мне следует выписать счёт?
+
+ID: M6020_S0000_G0290_300_eml
+JP: 領収書なんか要らない。
+EN: That's not necessary.
+RU: В этом нет необходимости.
+
+ID: M6020_S0000_G0330_300_eml
+JP: 領収書なんか要らない。
+EN: Um, I don't really think I need a receipt.
+RU: Эм, я правде не думаю, что мне нужна квитанция.
+
+ID: M6020_S0000_G0300_300_eml
+JP: ヨルハ頭脳スキャン完了！２Ｂさんですね。
+EN: ...YoRHa brain scan complete. "2B," is it?
+RU: ...Сканирование мозга YoRHa завершено. "2B", верно?
+
+ID: M6020_S0000_G0340_300_eml
+JP: ヨルハ頭脳スキャン完了！９Ｓさんですね。
+EN: ...YoRHa brain scan complete. "9S," is it?
+RU: ...Сканирование мозга YoRHa завершено. "9S", верно?
+
+ID: M6020_S0000_G0310_300_eml
+JP: 今後ともご愛顧の程よろしくお願いいたします！
+EN: Hope to see you again soon!
+RU: Надеюсь, ещё увидимся, 2B!
+
+ID: M6020_S0000_G0320_300_eml
+JP: ……
+EN: ......
+RU: ......
+
+ID: M6020_S0000_G0360_300_eml
+JP: ……
+EN: Oooo-kay?
+RU: Х-х-хоро-шо?
+
+
+-- Section 16
+
+ID: M6020_S0000_G0370_300_eml
+JP: あ、いらっしゃいませ！
+EN: Welcome!
+RU: Добро пожаловать!
+
+ID: M6020_S0000_G0380_300_eml
+JP: そういえば、お名前は……Ａ２さんですか？
+EN: I think you're...A2, right?
+RU: Я полагаю, вы... A2, наверное?
+
+ID: M6020_S0000_G0390_300_eml
+JP: 何故知ってる。
+EN: How did you know that?
+RU: Как ты узнал?
+
+ID: M6020_S0000_G0400_300_eml
+JP: ２Ｂさんから聞いた事を思い出して…・…２Ｂさんをご存知ですか？
+EN: Oh, I just remembered something 2B said. Do you know 2B?
+RU: О, я просто вспомнил то, что упоминала 2B. Вы знакомы с 2B?
+
+ID: M6020_S0000_G0410_300_eml
+JP: あいつは……
+EN: She...
+RU: Она...
+
+ID: M6020_S0000_G0420_300_eml
+JP: すごく美人で、優しくて、物静かでいい人でしたよ！
+EN: She's beautiful! And kind! And unusually calm, all things considered.
+RU: Она красивая! И добрая! И необычайно спокойная, если подумать.
+
+ID: M6020_S0000_G0430_300_eml
+JP: ……
+EN: ......
+RU: ......
+
+ID: M6020_S0000_G0440_300_eml
+JP: どうしました？
+EN: What's wrong?
+RU: Что-то не так?
+
+ID: M6020_S0000_G0450_300_eml
+JP: ……何でもない。どこかで元気にやってるだろう。
+EN: Nothing. I'm sure she's doing well...wherever she is.
+RU: Ничего. Я уверена, с ней всё в порядке... где бы она ни была.
+
+ID: M6020_S0000_G0460_300_eml
+JP: そうなんですね。Ａ２さんも、また是非いらしてください～
+EN: I think so too. I hope you'll visit me again, A2!
+RU: Я тоже так думаю. Надеюсь ты посетишь меня снова, A2!
+
+
+-- Section 17
+
+ID: M6020_S0000_G0130_300_eml
+JP: いたたたた……
+EN: Ow! Owowowowowwww...
+RU: Ой! Ой-ой-ой-ой-ой-ой-ой...
+
+ID: M6020_S0000_G0140_300_eml
+JP: あっ！アナタは……先日の！
+EN: Hey! I remember you from the other day!
+RU: Эй! Я помню вас, мы уже встречались!
+
+ID: M6020_S0000_G0150_300_eml
+JP: この前は驚いて逃げてしまい、すみませんでした！
+EN: Sorry I got startled and ran away. ...Er, or rolled away, I guess.
+RU: Простите, я испугался и убежал. Эм, или укатился, наверное.
+
+ID: M6020_S0000_G0160_300_eml
+JP: 僕の名前はエミールといいます。見ての通り、ショップを営んでいます。
+EN: Anyway, my name's Emil, and this is my shop.
+RU: Как бы то ни было, меня зовут Эмиль, а это мой магазинчик.
+
+ID: M6020_S0000_G0170_300_eml
+JP: 良ければ何か買っていきますか？
+EN: Wanna buy something? I've got the best prices anywhere!
+RU: Желаете что-нибудь прикупить? У меня самые лучшие расценки!
+
+
+-- Section 18
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: Я с нетерпением жду, когда смогу послужить вам снова!
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: ...Что? Вы хотите знать, где я живу?
+
+ID: M5920_S0080_G0040_001_a9s
+JP: 聞いてない。
+EN: I didn't ask that.
+RU: Я не слушаю.
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: Ну, я живу глубоко, глубоко под землёй. Представьте что-то глубокое, а затем БОЛЕЕ ГЛУБОКОЕ!
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: Не стесняйтесь и приходите ко мне в любое время!
+
+
+-- Section 19
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: Я с нетерпением жду, когда смогу послужить вам снова!
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: ...Что? Вы хотите знать, где я живу?
+
+ID: M5920_S0080_G0020_001_a2b
+JP: 聞いてない。
+EN: I didn't ask that.
+RU: Я не слушаю.
+
+ID: M5920_S0080_G0030_001_a9s
+JP: 聞いてないよ。
+EN: Uh, I don't think I asked about that.
+RU: Ух, я не думаю, что спрашивал об этом.
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: Ну, я живу глубоко, глубоко под землёй. Представьте что-то глубокое, а затем БОЛЕЕ ГЛУБОКОЕ!
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: Не стесняйтесь и приходите ко мне в любое время!
+
+
+-- Section 20
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: Добро пожаловать!
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: Спасибо!
+
+
+-- Section 21
+
+ID: M6020_S0000_G0180_300_eml
+JP: うううっ……イタタタ。
+EN: Urgh...  Ow ow ow.
+RU: Угх... Ой-ой-ой.
+
+ID: M6020_S0000_G0190_300_eml
+JP: いきなり攻撃して停車させるなんて……
+EN: You could've just asked me to stop, you know?
+RU: Вы могли бы просто попросить меня остановиться, знаете ли?
+
+ID: M6020_S0000_G0200_300_eml
+JP: ああ……Ａ２さんじゃないですか！
+EN: Hey... You're A2, aren't you?
+RU: Эй... Вы же A2, верно?
+
+ID: M6020_S0000_G0210_300_eml
+JP: ここで出会ったのも何かのご縁……\nせっかくなのでブツをバイしてみませんか？
+EN: It must be fate that we ran into each other. ...And since you're here, you might as well buy something!
+RU: Должно быть, судьба свела нас друг с другом. И раз уж вы здесь, может, купите чего-нибудь!
+
+ID: M5920_S0080_G0000_001_eml
+JP: またのご愛顧をお待ちしております！
+EN: I look forward to serving you again!
+RU: Я с нетерпением жду, когда смогу послужить вам снова!
+
+ID: M5920_S0080_G0010_001_eml
+JP: え？僕がドコに住んでいるかですか？
+EN: ...What was that? You want to know where I live?
+RU: ...Что? Вы хотите знать, где я живу?
+
+ID: M5920_S0080_G0050_001_a2
+JP: 聞いてない。
+EN: No.
+RU: Нет.
+
+ID: M5920_S0080_G0060_001_eml
+JP: えーと、地下の奥深くのそのまた奥深く、に暮らしています。
+EN: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+RU: Ну, я живу глубоко, глубоко под землёй. Представьте что-то глубокое, а затем БОЛЕЕ ГЛУБОКОЕ!
+
+ID: M5920_S0080_G0070_001_eml
+JP: いつでも遊びに来てくださいね！
+EN: Feel free to visit me anytime you want!
+RU: Не стесняйтесь и приходите ко мне в любое время!
+
+
+-- Section 22
+
+ID: M6020_S0000_G0050_001_eml
+JP: いらっしゃいませ～！
+EN: Welcome!
+RU: Добро пожаловать!
+
+ID: M6020_S0000_G0080_001_eml
+JP: ありがとうございました～！
+EN: Thank you!
+RU: Спасибо!
+
+

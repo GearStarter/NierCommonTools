@@ -1,0 +1,62 @@
+-- Section 1
+
+ID: M5095_S0100_G0000_001_announce
+JP: プラトンモデル１７２８号機。
+EN: Plato Model No. 1728.
+RU: Платон. Модель за номером 1728.
+
+ID: M5095_S0100_G0010_001_announce
+JP: 運動機能試験を始メル。
+EN: Starting examination of motor functions.
+RU: Запуск проверки моторных функций.
+
+ID: M5095_S0100_G0020_001_announce
+JP: 制限時間内に、マーカーの点灯スル箇所に移動する事。
+EN: Move to the location highlighted by the marker within the allotted time.
+RU: Переместитесь до обозначенного места за отведенное время.
+
+ID: M5095_S0100_G0030_001_announce
+JP: ソレデハ試験を開始する。
+EN: Commencing examination.
+RU: Запуск проверки.
+
+
+-- Section 2
+
+ID: M5095_S0100_G0050_001_announce
+JP: プラトン１７２８。
+EN: Plato 1728.
+RU: Платон 1728.
+
+ID: M5095_S0100_G0060_001_announce
+JP: 成績記録：非常に悪イ。
+EN: Results: Extremely poor.
+RU: Результаты: Очень плохо.
+
+ID: M5095_S0100_G0070_001_announce
+JP: 次回試験マデニ対処シテオクヨウニ。
+EN: Measures must be taken before the next examination.
+RU: Требуется принять меры до следующей проверки.
+
+ID: M5095_S0100_G0080_001_announce
+JP: 以上。
+EN: That is all.
+RU: На этом всё.
+
+
+-- Section 3
+
+ID: M5095_S0100_G0040_001_announce
+JP: 測定基準を満たしてイナイ為、再試験を命ずる。
+EN: The required measurement standard has not been met. Reexamination is required.
+RU: Требуемая норма не была выполнена. Необходима повторная проверка.
+
+
+-- Section 4
+
+ID: M5095_S0100_G0030_001_announce
+JP: ソレデハ試験を開始する。
+EN: Commencing examination.
+RU: Запуск проверки.
+
+

@@ -1,0 +1,123 @@
+-- Section 1
+
+ID: M1090_S0270_G0000_201_eve
+JP:
+EN:
+RU: 
+
+ID: M1090_S0270_G0010_201_a9s
+JP: クソッ……こんな防壁……
+EN: Shit! Stupid barriers...
+RU: Дерьмо! Дурацкий барьер...
+
+
+-- Section 2
+
+ID: M1090_S0270_G0020_201_eve
+JP: オレは……俺は……にいちゃん……
+EN: I... Brother, I...
+RU: Я... Брат, я...
+
+ID: M1090_S0270_G0030_201_eve
+JP: にいちゃん……どうして……
+EN: Oh, brother... Why...?
+RU: Ох, брат... Почему?..
+
+
+-- Section 3
+
+ID: M1090_S0270_G0040_201_eve
+JP: 他の何も要らなかった……
+EN: I needed nothing else...
+RU: Мне ничего другого не нужно...
+
+
+-- Section 4
+
+ID: M1090_S0270_G0050_201_a9s
+JP: 何……これ？
+EN: What is this?
+RU: Что это?
+
+ID: M1090_S0270_G0060_201_pod153
+JP: 警告：巨大な自我データの崩壊。データ汚染の危険あり。
+EN: Alert: Disruption detected in YoRHa unit 9S's self-consciousness data. Corruption potential critical.
+RU: Внимание: обнаружен распад данных самосознания единицы YoRHa 9S. Опасность критического повреждения.
+
+ID: M1090_S0270_G0070_201_pod153
+JP: 推奨：退避。
+EN: Evacuation recommended.
+RU: Рекомендуется эвакуация.
+
+ID: M1090_S0270_G0080_201_a9s
+JP: ここまで来て、逃げる訳にはいかない！
+EN: Can't. Not when I'm this far in!
+RU: Не могу. Нет, я зашёл слишком далеко!
+
+
+-- Section 5
+
+ID: M1090_S0270_G0090_201_eve
+JP: 俺にとってはにいちゃんだけが……
+EN: My brother was everything to me...
+RU: Мой брат был всем для меня...
+
+ID: M1090_S0270_G0100_201_eve
+JP: にいちゃんと居る事だけが生きてる意味だった……
+EN: My life was contained in our moments...
+RU: Моя жизнь заключалась в наших общих мгновениях...
+
+ID: M1090_S0270_G0110_201_pod153
+JP: 警告：ヨルハ機体９Ｓの自我データの汚染を検知。
+EN: Alert: Corruption confirmed in YoRHa unit 9S's self-consciousness data.
+RU: Внимание: подтверждено повреждение данных самосознания единицы YoRHa 9S.
+
+ID: M1090_S0270_G0120_201_pod153
+JP: 推奨：早急な退避と治療。
+EN: Immediate evacuation and treatment recommended.
+RU: Рекомендуется немедленная эвакуация и лечение.
+
+ID: M1090_S0270_G0130_201_a9s
+JP: あと……少し……
+EN: Just...a little more...
+RU: Ещё... чуть-чуть...
+
+ID: M1090_S0270_G0140_201_a9s
+JP: イヴの持つ、オブジェクトコントロール機能を奪えれば……
+EN: If I can remove Eve's object control function...
+RU: Если я смогу отключить функции Евы по контролю объектов...
+
+
+-- Section 6
+
+ID: M1090_S0270_G0150_201_eve
+JP: ねぇ……にいちゃん……
+EN: Listen to me, Adam...
+RU: Послушай, Адам...
+
+ID: M1090_S0270_G0160_201_eve
+JP: ぼく、たたかう事は嫌いじゃないよ……
+EN: I never disliked fighting.
+RU: Мне никогда не нравилось сражаться.
+
+ID: M1090_S0270_G0170_201_eve
+JP: だけど、にいちゃんが傷つくのはイヤだよ……
+EN: But I didn't want you to be hurt.
+RU: Но я не хочу, чтобы тебя ранили.
+
+ID: M1090_S0270_G0180_201_eve
+JP: にいちゃんが居なくなるのは……もっとイヤだ……
+EN: And I especially didn't want to lose you.
+RU: И главное, я не хочу тебя потерять.
+
+ID: M1090_S0270_G0190_201_eve
+JP: だから、ふたりで、どこか、静かな場所に……
+EN: So let's go somewhere quiet. Together.
+RU: Давай пойдём куда-нибудь, где тихо. Вместе.
+
+ID: M1090_S0270_G0200_201_eve
+JP: にいちゃ……
+EN: My brother...
+RU: Мой брат...
+
+

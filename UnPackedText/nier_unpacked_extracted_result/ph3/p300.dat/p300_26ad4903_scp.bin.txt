@@ -1,0 +1,321 @@
+-- Section 1
+
+ID: M3000_S0430_G0000_001_a9s
+JP: くそっ……扉が！
+EN: Damn! The doors!
+RU: Чёрт! Двери!
+
+ID: M3000_S0430_G0010_001_a9s
+JP: バンカー内部までウィルスが入ってるのか！？
+EN: Did the virus infiltrate the Bunker itself?
+RU: Вирус самостоятельно проник в Бункер?
+
+ID: M3000_S0430_G0020_001_op60
+JP: それも、せいかーい！
+EN: Oooo! Bingo AGAIN!
+RU: О-о-о! И СНОВА бинго!
+
+ID: M3000_S0430_G0030_001_a9s
+JP: オペレーターさんッ！
+EN: Operator, what—
+RU: Оператор, что за...
+
+ID: M3000_S0430_G0040_001_a2b
+JP: 違う……９Ｓ。あれは……
+EN: That's not the Operator. It's—
+RU: Это не оператор. Это...
+
+ID: M3000_S0430_G0050_001_op60
+JP: 私達は機械生命体。
+EN: We are your beloved machine lifeforms.
+RU: Мы — ваши любимые машины.
+
+ID: M3000_S0430_G0060_001_op60
+JP: ネットワークとウィルスを通じ話しかけている。
+EN: We speak to you through the network and the virus.
+RU: Мы говорим с вами через сеть и вирус.
+
+ID: M3000_S0430_G0070_001_cmd
+JP: そんな、そんな事が！？
+EN: How is that even possible!?
+RU: Как такое возможно?!
+
+
+-- Section 2
+
+ID: M3000_S0430_G0080_001_op60
+JP: ずいぶん楽しませてもらったけど……
+EN: We've had a great deal of fun watching you squirm.
+RU: Было забавно наблюдать за вашими потугами.
+
+ID: M3000_S0430_G0090_001_op60
+JP: もう、この基地は終わりだね。
+EN: But I'm afraid the end has come for this outpost.
+RU: Но, боюсь, что этому аванпосту пришёл конец.
+
+
+-- Section 3
+
+ID: M3000_S0430_G0100_001_op60
+JP: あっはははははあははは！
+EN: Ah ha! Aaaaah ha ha ha!
+RU: Ха-ха! А-ха-ха ха-ха-ха!
+
+ID: M3000_S0430_G0110_001_op60
+JP: ハハァはアアはあハハアは！ハは！
+EN: Ah ha! Aaaaah ha ha ha!
+RU: Ха-ха! А-ха-ха ха-ха-ха!
+
+
+-- Section 4
+
+ID: M3000_S0430_G0120_001_a9s
+JP: 開いたよ！２Ｂッ！
+EN: 2B, it's open!
+RU: 2B, здесь не заперто!
+
+
+-- Section 5
+
+ID: M3000_S0430_G0140_001_pollutions
+JP: ジジ……人類に栄光あ……レ
+EN: G-G-Glory to...m-mankind...
+RU: С-с-лава... ч-человечеству...
+
+
+-- Section 6
+
+ID: M3000_S0430_G0150_001_pollutions
+JP: ヨルハ部隊……全キ発シン……
+EN: All YoRHa units...launch...
+RU: Всем единицам YoRHa... запуск...
+
+
+-- Section 7
+
+ID: M3000_S0430_G0160_001_pollutions
+JP: 現地状況ノ……報告……
+EN: Reporting...current status...
+RU: Докладываю... текущую... обстановку...
+
+
+-- Section 8
+
+ID: M3000_S0430_G0171_001_a2b
+JP: まだ……意識が……
+EN: They're still...conscious...
+RU: Они всё ещё... в сознании...
+
+ID: M3000_S0430_G0172_001_a9s
+JP: ２Ｂ！油断しないで！！
+EN: Stay focused, 2B!
+RU: Сосредоточься, 2B!
+
+
+-- Section 9
+
+ID: M3000_S0430_G0170_001_pollutions
+JP: 司令官……光栄デス…‥
+EN: Commander...it is an honor...
+RU: Командор... это большая честь...
+
+
+-- Section 10
+
+ID: M3000_S0430_G0180_001_pollutions
+JP: このご飯……あんマリ美味しくナイね。
+EN: This food...isn't very good.
+RU: Эта еда... не очень хороша.
+
+
+-- Section 11
+
+ID: M3000_S0430_G0190_001_pollutions
+JP: フフッフッッッ戦争はイツ終わる？終わる？
+EN: Hee hee! When does the war end? End?
+RU: Хи-хи! Думали, что война закончилась? Закончилась?
+
+
+-- Section 12
+
+ID: M3000_S0430_G0191_001_op60
+JP: ツービーさん、私……オペレーター６Ｏ。
+EN: Two-Bee, I...am Operator 6O.
+RU: 2B, Я... Оператор 6O.
+
+ID: M3000_S0430_G0192_001_op60
+JP: オハナをありがとうゴ……ザイマス。
+EN: ThANk you for...foR the FLOWErs.
+RU: СпАСИбо тебе за... зА ЦВЕТы.
+
+ID: M3000_S0430_G0193_001_op60
+JP: 砂漠のバラハはキデスネ……アリガトウアリガ……いつか、私……
+EN: Desert FLOWErs are BEAUTIF, arEN't thEY... Th-Th-thank You... SoMEdAy I...
+RU: Пустынные ЦВеТЫ ТаК ПРекрАСнЫ... С-с-спасибо тебе... КоГДа-нИБУдЬ я...
+
+ID: M3000_S0430_G0194_001_a2b
+JP: ……ッ！！
+EN: !!
+RU: !!!
+
+
+-- Section 13
+
+ID: M3000_S0430_G0270_001_a2b
+JP: 司令官！この基地はもうだめです。
+EN: Commander, the Bunker is lost.
+RU: Командор, Бункер потерян.
+
+ID: M3000_S0430_G0280_001_a2b
+JP: 一旦退避しましょう！
+EN: We have to evacuate.
+RU: Мы должны эвакуироваться.
+
+ID: M3000_S0430_G0290_001_cmd
+JP: どうして、お前達二人は汚染されてないんだ？
+EN: But tell me—why weren't you two infected?
+RU: Скажите мне, как вам удалось избежать заражения?
+
+ID: M3000_S0430_G0300_001_a2b
+JP: わかりません！
+EN: I don't know!
+RU: Я не знаю!
+
+ID: M3000_S0430_G0310_001_a9s
+JP: いえ……おそらく、僕がデータ同期を保留していたからです。
+EN: It's probably because I deferred our data sync.
+RU: Скорее всего из-за того, что я приостановил синхронизацию данных.
+
+ID: M3000_S0430_G0320_001_a9s
+JP: 以前、バンカーのサーバーデータにノイズがあったので、\nそれが気になって……
+EN: I noticed some weird noise in the Bunker's server data, so I paused the upload.
+RU: Я обратил внимание на странные помехи на серверах Бункера и приостановил обмен данными.
+
+ID: M3000_S0430_G0330_001_cmd
+JP: ……そうか。
+EN: I see.
+RU: Ясно.
+
+
+-- Section 14
+
+ID: M3000_S0430_G0200_001_pollutions
+JP: どうして……ワタシ、オペレーター
+EN: Why... I... Operator!
+RU: Почему... Я... Оператор!
+
+
+-- Section 15
+
+ID: M3000_S0430_G0210_001_pollutions
+JP: 人類……ジン類？
+EN: Mankind... Man...kind...?
+RU: Человечество... Чел... овечество?...
+
+
+-- Section 16
+
+ID: M3000_S0430_G0211_001_a9s
+JP: アクセスユニットは汚染されています。\n格納庫に行って飛行ユニットを奪いましょう！
+EN: The transport terminal is corrupted. We need to get to the hangar and get some flight units!
+RU: Транспортный терминал повреждён. Нам нужно добраться до ангара и воспользоваться полётными модулями!
+
+
+-- Section 17
+
+ID: M3000_S0430_G0240_001_pollutions
+JP: 作戦ハ……成功デス。
+EN: Mission...accomplished.
+RU: Задание... завершено.
+
+
+-- Section 18
+
+ID: M3000_S0430_G0250_001_pollutions
+JP: シレ……司令官……好きデス……
+EN: Co...Commander... Thank you...
+RU: Ко... Командор... Спасибо...
+
+
+-- Section 19
+
+ID: M3000_S0430_G0260_001_cmd
+JP: クソッ！！
+EN: Damn it!!
+RU: Чёрт!!!
+
+
+-- Section 20
+
+ID: M3000_S0430_G0340_001_a2b
+JP: 司令官！格納庫から飛行ユニットで脱出します！
+EN: Commander, we need to get some flight units from the hangar and get out of here.
+RU: Командор, нам нужно взять полётные модули из ангара и убираться отсюда.
+
+
+-- Section 21
+
+ID: M3000_S0450_G0000_001_a2b
+JP: 司令官……
+EN: Commander!
+RU: Командор!
+
+ID: M3000_S0450_G0010_001_cmd
+JP: 私も……サーバーとデータ同期をしていたからな……
+EN: I, too, was synched up with the server...
+RU: Я тоже была синхронизирована с сервером...
+
+ID: M3000_S0450_G0020_001_a2b
+JP: でも、それなら９Ｓが……
+EN: But 9S can hack into your systems and—
+RU: Но 9S может взломать вашу систему и...
+
+ID: M3000_S0450_G0030_001_cmd
+JP: そんな時間はないッ！！
+EN: There's no time!
+RU: На это нет времени!
+
+ID: M3000_S0450_G0040_001_cmd
+JP: お前達二人は、最後のヨルハ部隊なんだ！
+EN: You two are the last remaining members of YoRHa.
+RU: Вы двое — последние оставшиеся члены YoRHa.
+
+ID: M3000_S0450_G0050_001_cmd
+JP: 生き残る義務がある！
+EN: It's your duty to survive.
+RU: Выжить — ваш долг.
+
+ID: M3000_S0450_G0060_001_a9s
+JP: 司令官……
+EN: But Commander...
+RU: Но Командор...
+
+ID: M3000_S0450_G0070_001_cmd
+JP: それに、私はこの基地の司令官だ。
+EN: Besides, this is my command.
+RU: Это приказ.
+
+ID: M3000_S0450_G0080_001_cmd
+JP: せめて最後まで上官らしく、いさせてくれ……
+EN: Let me at least fulfill my duty here to the end...
+RU: Позвольте мне выполнить свой долг до конца...
+
+
+-- Section 22
+
+ID: M3000_S0460_H0000_001_a9s
+JP: ２Ｂ！もう、基地が……！
+EN: 2B, this place is lost!
+RU: 2B, это место потеряно!
+
+ID: M3000_S0460_H0010_001_a2b
+JP: 司令ッ！！！
+EN: Commander!
+RU: Командор!
+
+ID: M3000_S0460_H0020_001_cmd
+JP: 行けええっ！！２Ｂッ！！
+EN: Move it, 2B! That's an order!
+RU: Уходи, 2B! Это приказ!
+
+

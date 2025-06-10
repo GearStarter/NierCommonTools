@@ -1,0 +1,258 @@
+-- Section 1
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: Для доступа к вспомогательным модулям Башни необходимы ключи авторизации.
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: Мы извиняемся за доставленные неудобства, но в данный момент доступ запрещён.
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: Однако...
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: Сегодня у нас есть особый подарок для тех, кто посещает Башню впервые.
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: Тур по нашим абсолютно новым модулям добычи ресурсов!
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: !!!
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: Мы с нетерпением ожидаем возможности послужить вам снова!
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: Чёрт, что это было?
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: Принудительное сообщение от системы врага.
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: В сообщении вам передали местоположение объектов, известных как "модули добычи ресурсов".
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: Теперь они попросту издеваются над нами...
+
+
+-- Section 2
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: Мы извиняемся за доставленные неудобства...
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: ...но для доступа к главной Башне необходимо отключить блокировки на вспомогательных модулях.
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: ОТЛИЧНОГО вам дня!
+
+
+-- Section 3
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: Для доступа к вспомогательным модулям Башни необходимы ключи авторизации.
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: Мы извиняемся за доставленные неудобства, но в данный момент доступ запрещён.
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: Однако...
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: Сегодня у нас есть особый подарок для тех, кто посещает Башню впервые.
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: Тур по нашим абсолютно новым модулям добычи ресурсов!
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: !!!
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: Мы с нетерпением ожидаем возможности послужить вам снова!
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: Чёрт, что это было?
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: Принудительное сообщение от системы врага.
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: В сообщении вам передали местоположение объектов, известных как "модули добычи ресурсов".
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: Теперь они попросту издеваются над нами...
+
+
+-- Section 4
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: Мы извиняемся за доставленные неудобства...
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: ...но для доступа к главной Башне необходимо отключить блокировки на вспомогательных модулях.
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: ОТЛИЧНОГО вам дня!
+
+
+-- Section 5
+
+ID: M3020_S0024_G0070_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0080_001_announce
+JP: 『塔』サブユニットへのアクセスには『アクセス認証キー』が必要です。
+EN: Special authorization keys are required to access Tower sub-units.
+RU: Для доступа к вспомогательным модулям Башни необходимы ключи авторизации.
+
+ID: M3020_S0024_G0090_001_announce
+JP: 申し訳ありませんがアクセスを許可する事は出来ません。
+EN: We apologize for the inconvenience, but access is not permitted at this time.
+RU: Мы извиняемся за доставленные неудобства, но в данный момент доступ запрещён.
+
+ID: M3020_S0024_G0100_001_announce
+JP: その代わりとしまして……
+EN: However...
+RU: Однако...
+
+ID: M3020_S0024_G0110_001_announce
+JP: 今回は初回アクセスをされた方に特別なサービスとして、
+EN: Today, we have a special gift for first-time visitors to this Tower:
+RU: Сегодня у нас есть особый подарок для тех, кто посещает Башню впервые.
+
+ID: M3020_S0024_G0120_001_announce
+JP: 『資源回収ユニット』へのツアーにご招待いたします！
+EN: A tour of our brand-new resource-recovery units!
+RU: Тур по нашим абсолютно новым модулям добычи ресурсов!
+
+ID: M3020_S0024_G0130_001_a9s
+JP: ……ッ！
+EN: !!
+RU: !!!
+
+ID: M3020_S0024_G0140_001_announce
+JP: またのご来訪、心よりお待ち申し上げております。
+EN: We look forward to serving you again!
+RU: Мы с нетерпением ожидаем возможности послужить вам снова!
+
+ID: M3020_S0024_G0150_001_a9s
+JP: 何だ……今のは？
+EN: The heck was that?
+RU: Чёрт, что это было?
+
+ID: M3020_S0024_G0160_001_pod153
+JP: 敵システムからの強制通信。
+EN: A forced message from the enemy system.
+RU: Принудительное сообщение от системы врага.
+
+ID: M3020_S0024_G0170_001_pod153
+JP: 『資源回収ユニット』と称する物体の場所を通知。
+EN: Said message relays the locations of objects known as "resource-recovery units".
+RU: В сообщении вам передали местоположение объектов, известных как "модули добычи ресурсов".
+
+ID: M3020_S0024_G0180_001_a9s
+JP: ふざけやがって……
+EN: Now they're just messing with us...
+RU: Теперь они попросту издеваются над нами...
+
+
+-- Section 6
+
+ID: M3020_S0024_G0000_001_announce
+JP: こんにちは！『塔』システムサービスです。
+EN: Hello, and thank you for choosing Tower System Services!
+RU: Здравствуйте, и спасибо вам за то, что пользуетесь услугами системы Башни!
+
+ID: M3020_S0024_G0010_001_announce
+JP: 大変申し訳ありません。
+EN: We apologize for the inconvenience...
+RU: Мы извиняемся за доставленные неудобства...
+
+ID: M3020_S0024_G0020_001_announce
+JP: 『塔』メインユニットへのアクセスにはサブユニットのロック解除が必要です。
+EN: but locks on each sub-unit must be deactivated before accessing the main Tower.
+RU: ...но для доступа к главной Башне необходимо отключить блокировки на вспомогательных модулях.
+
+ID: M3020_S0024_G0030_001_announce
+JP: お手数ですが、よろしくお願いいたします。
+EN: Have a GREAT day!
+RU: ОТЛИЧНОГО вам дня!
+
+

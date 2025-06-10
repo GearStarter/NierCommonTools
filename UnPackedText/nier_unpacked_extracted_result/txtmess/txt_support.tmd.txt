@@ -1,0 +1,2880 @@
+ID: SUPPORT_BASE_00
+JP: <NAME> 「【<SENTENCE_01>】【<CONJUNCTION>】【<SENTENCE_02>】」 【<COUNTRY>】
+EN: <NAME> "[<SENTENCE_01>] [<CONJUNCTION>] [<SENTENCE_02>]" [<COUNTRY>]
+RU: <NAME> "[<SENTENCE_01>] [<CONJUNCTION>] [<SENTENCE_02>]" [<COUNTRY>]
+
+ID: SUPPORT_BASE_01
+JP: <NAME> 「<SENTENCE_01><CONJUNCTION><SENTENCE_02>」　<COUNTRY>
+EN: <NAME> "<SENTENCE_01> <CONJUNCTION> <SENTENCE_02>" <COUNTRY>
+RU: <NAME> "<SENTENCE_01> <CONJUNCTION> <SENTENCE_02>" <COUNTRY>
+
+ID: SUPPORT_COUNTRY_000
+JP: アメリカ
+EN: USA
+RU: Россия
+
+ID: SUPPORT_COUNTRY_001
+JP: カナダ
+EN: Canada
+RU: Украина
+
+ID: SUPPORT_COUNTRY_002
+JP: アルゼンチン
+EN: Argentina
+RU: Белоруссия
+
+ID: SUPPORT_COUNTRY_003
+JP: アンティグア・バーブーダ
+EN: Antigua and Barbuda
+RU: Антигуа и Барбуда
+
+ID: SUPPORT_COUNTRY_004
+JP: ウルグアイ
+EN: Uruguay
+RU: Уругвай
+
+ID: SUPPORT_COUNTRY_005
+JP: エクアドル
+EN: Ecuador
+RU: Эквадор
+
+ID: SUPPORT_COUNTRY_006
+JP: エルサルバドル
+EN: El Salvador
+RU: Сальвадор
+
+ID: SUPPORT_COUNTRY_007
+JP: ガイアナ
+EN: Guyana
+RU: Гайана
+
+ID: SUPPORT_COUNTRY_008
+JP: キューバ
+EN: Cuba
+RU: Куба
+
+ID: SUPPORT_COUNTRY_009
+JP: グアテマラ
+EN: Guatemala
+RU: Гватемала
+
+ID: SUPPORT_COUNTRY_010
+JP: グレナダ
+EN: Grenada
+RU: Гренада
+
+ID: SUPPORT_COUNTRY_011
+JP: コスタリカ
+EN: Costa Rica
+RU: Коста-Рика
+
+ID: SUPPORT_COUNTRY_012
+JP: コロンビア
+EN: Colombia
+RU: Колумбия
+
+ID: SUPPORT_COUNTRY_013
+JP: ジャマイカ
+EN: Jamaica
+RU: Ямайка
+
+ID: SUPPORT_COUNTRY_014
+JP: スリナム
+EN: Suriname
+RU: Суринам
+
+ID: SUPPORT_COUNTRY_015
+JP: セントビンセントおよびグレナディーン諸島
+EN: St. Vincent and the Grenadines
+RU: Сент-Винсент и Гренадины
+
+ID: SUPPORT_COUNTRY_016
+JP: セントクリストファー・ネーヴィス
+EN: St. Christopher and Nevis
+RU: Сент-Китс и Невис
+
+ID: SUPPORT_COUNTRY_017
+JP: セントルシア
+EN: Saint Lucia
+RU: Сент-Люсия
+
+ID: SUPPORT_COUNTRY_018
+JP: チリ
+EN: Chile
+RU: Чили
+
+ID: SUPPORT_COUNTRY_019
+JP: ドミニカ国
+EN: Dominica
+RU: Доминика
+
+ID: SUPPORT_COUNTRY_020
+JP: ドミニカ共和国
+EN: Dominican Republic
+RU: Доминиканская Республика
+
+ID: SUPPORT_COUNTRY_021
+JP: トリニダード・トバゴ
+EN: Trinidad and Tobago
+RU: Тринидад и Тобаго
+
+ID: SUPPORT_COUNTRY_022
+JP: ニカラグア
+EN: Nicaragua
+RU: Никарагуа
+
+ID: SUPPORT_COUNTRY_023
+JP: ハイチ
+EN: Haiti
+RU: Гаити
+
+ID: SUPPORT_COUNTRY_024
+JP: パナマ
+EN: Panama
+RU: Панама
+
+ID: SUPPORT_COUNTRY_025
+JP: バハマ
+EN: Bahamas
+RU: Багамы
+
+ID: SUPPORT_COUNTRY_026
+JP: パラグアイ
+EN: Paraguay
+RU: Парагвай
+
+ID: SUPPORT_COUNTRY_027
+JP: バルバドス
+EN: Barbados
+RU: Барбадос
+
+ID: SUPPORT_COUNTRY_028
+JP: ブラジル
+EN: Brazil
+RU: Бразилия
+
+ID: SUPPORT_COUNTRY_029
+JP: ベネズエラ
+EN: Venezuela
+RU: Венесуэла
+
+ID: SUPPORT_COUNTRY_030
+JP: ベリーズ
+EN: Belize
+RU: Белиз
+
+ID: SUPPORT_COUNTRY_031
+JP: ペルー
+EN: Peru
+RU: Перу
+
+ID: SUPPORT_COUNTRY_032
+JP: ボリビア
+EN: Bolivia
+RU: Боливия
+
+ID: SUPPORT_COUNTRY_033
+JP: ホンジュラス
+EN: Honduras
+RU: Гондурас
+
+ID: SUPPORT_COUNTRY_034
+JP: メキシコ
+EN: Mexico
+RU: Мексика
+
+ID: SUPPORT_COUNTRY_035
+JP: インド
+EN: India
+RU: Индия
+
+ID: SUPPORT_COUNTRY_036
+JP: インドネシア
+EN: Indonesia
+RU: Индонезия
+
+ID: SUPPORT_COUNTRY_037
+JP: カンボジア
+EN: Cambodia
+RU: Камбоджа
+
+ID: SUPPORT_COUNTRY_038
+JP: シンガポール
+EN: Singapore
+RU: Сингапур
+
+ID: SUPPORT_COUNTRY_039
+JP: スリランカ
+EN: Sri Lanka
+RU: Шри-Ланка
+
+ID: SUPPORT_COUNTRY_040
+JP: タイ
+EN: Thailand
+RU: Таиланд
+
+ID: SUPPORT_COUNTRY_041
+JP: 韓国
+EN: South Korea
+RU: Южная Корея
+
+ID: SUPPORT_COUNTRY_042
+JP: 中国
+EN: China
+RU: Китай
+
+ID: SUPPORT_COUNTRY_043
+JP: ネパール
+EN: Nepal
+RU: Непал
+
+ID: SUPPORT_COUNTRY_044
+JP: パキスタン
+EN: Pakistan
+RU: Пакистан
+
+ID: SUPPORT_COUNTRY_045
+JP: バングラデシュ
+EN: Bangladesh
+RU: Бангладеш
+
+ID: SUPPORT_COUNTRY_046
+JP: 東ティモール
+EN: Timor-Leste
+RU: Восточный Тимор
+
+ID: SUPPORT_COUNTRY_047
+JP: フィリピン
+EN: Philippines
+RU: Филиппины
+
+ID: SUPPORT_COUNTRY_048
+JP: ブータン
+EN: Bhutan
+RU: Бутан
+
+ID: SUPPORT_COUNTRY_049
+JP: ブルネイ
+EN: Brunei
+RU: Бруней
+
+ID: SUPPORT_COUNTRY_050
+JP: ベトナム
+EN: Vietnam
+RU: Вьетнам
+
+ID: SUPPORT_COUNTRY_051
+JP: マレーシア
+EN: Malaysia
+RU: Малайзия
+
+ID: SUPPORT_COUNTRY_052
+JP: ミャンマー
+EN: Myanmar
+RU: Мьянма
+
+ID: SUPPORT_COUNTRY_053
+JP: モルディブ
+EN: Maldives
+RU: Мальдивы
+
+ID: SUPPORT_COUNTRY_054
+JP: モンゴル
+EN: Mongolia
+RU: Монголия
+
+ID: SUPPORT_COUNTRY_055
+JP: ラオス
+EN: Laos
+RU: Лаос
+
+ID: SUPPORT_COUNTRY_056
+JP: 北朝鮮
+EN: North Korea
+RU: Северная Корея
+
+ID: SUPPORT_COUNTRY_057
+JP: 香港
+EN: Hong Kong
+RU: Гонконг
+
+ID: SUPPORT_COUNTRY_058
+JP: 台湾
+EN: Taiwan
+RU: Тайвань
+
+ID: SUPPORT_COUNTRY_059
+JP: マカオ
+EN: Macau
+RU: Макао
+
+ID: SUPPORT_COUNTRY_060
+JP: 日本
+EN: Japan
+RU: Япония
+
+ID: SUPPORT_COUNTRY_061
+JP: オーストラリア
+EN: Australia
+RU: Австралия
+
+ID: SUPPORT_COUNTRY_062
+JP: キリバス
+EN: Kiribati
+RU: Кирибати
+
+ID: SUPPORT_COUNTRY_063
+JP: クック諸島
+EN: Cook Islands
+RU: Острова Кука
+
+ID: SUPPORT_COUNTRY_064
+JP: サモア
+EN: Samoa
+RU: Самоа
+
+ID: SUPPORT_COUNTRY_065
+JP: ソロモン諸島
+EN: Solomon Islands
+RU: Соломоновы Острова
+
+ID: SUPPORT_COUNTRY_066
+JP: ツバル
+EN: Tuvalu
+RU: Тувалу
+
+ID: SUPPORT_COUNTRY_067
+JP: トンガ
+EN: Tonga
+RU: Тонга
+
+ID: SUPPORT_COUNTRY_068
+JP: ナウル
+EN: Nauru
+RU: Науру
+
+ID: SUPPORT_COUNTRY_069
+JP: ニウエ
+EN: Niue
+RU: Ниуэ
+
+ID: SUPPORT_COUNTRY_070
+JP: ニュージーランド
+EN: New Zealand
+RU: Новая Зеландия
+
+ID: SUPPORT_COUNTRY_071
+JP: バヌアツ
+EN: Vanuatu
+RU: Вануату
+
+ID: SUPPORT_COUNTRY_072
+JP: パプアニューギニア
+EN: Papua New Guinea
+RU: Папуа — Новая Гвинея
+
+ID: SUPPORT_COUNTRY_073
+JP: パラオ
+EN: Palau
+RU: Палау
+
+ID: SUPPORT_COUNTRY_074
+JP: フィジー
+EN: Fiji
+RU: Фиджи
+
+ID: SUPPORT_COUNTRY_075
+JP: マーシャル
+EN: Marshall Islands
+RU: Маршалловы Острова
+
+ID: SUPPORT_COUNTRY_076
+JP: ミクロネシア
+EN: Micronesia
+RU: Микронезия
+
+ID: SUPPORT_COUNTRY_077
+JP: アフガニスタン
+EN: Afghanistan
+RU: Афганистан
+
+ID: SUPPORT_COUNTRY_078
+JP: アラブ首長国連邦
+EN: United Arab Emirates
+RU: ОАЭ
+
+ID: SUPPORT_COUNTRY_079
+JP: イエメン
+EN: Yemen
+RU: Йемен
+
+ID: SUPPORT_COUNTRY_080
+JP: イスラエル
+EN: Israel
+RU: Израиль
+
+ID: SUPPORT_COUNTRY_081
+JP: イラク
+EN: Iraq
+RU: Ирак
+
+ID: SUPPORT_COUNTRY_082
+JP: イラン
+EN: Iran
+RU: Иран
+
+ID: SUPPORT_COUNTRY_083
+JP: オマーン
+EN: Oman
+RU: Оман
+
+ID: SUPPORT_COUNTRY_084
+JP: カタール
+EN: Qatar
+RU: Катар
+
+ID: SUPPORT_COUNTRY_085
+JP: クウェート
+EN: Kuwait
+RU: Кувейт
+
+ID: SUPPORT_COUNTRY_086
+JP: サウジアラビア
+EN: Saudi Arabia
+RU: Саудовская Аравия
+
+ID: SUPPORT_COUNTRY_087
+JP: シリア
+EN: Syria
+RU: Сирия
+
+ID: SUPPORT_COUNTRY_088
+JP: トルコ
+EN: Turkey
+RU: Турция
+
+ID: SUPPORT_COUNTRY_089
+JP: バーレーン
+EN: Bahrain
+RU: Бахрейн
+
+ID: SUPPORT_COUNTRY_090
+JP: ヨルダン
+EN: Jordan
+RU: Джордан
+
+ID: SUPPORT_COUNTRY_091
+JP: レバノン
+EN: Lebanon
+RU: Ливан
+
+ID: SUPPORT_COUNTRY_092
+JP: パレスチナ自治政府
+EN: Palestine
+RU: Палестина
+
+ID: SUPPORT_COUNTRY_093
+JP: アイスランド
+EN: Iceland
+RU: Исландия
+
+ID: SUPPORT_COUNTRY_094
+JP: アイルランド
+EN: Ireland
+RU: Ирландия
+
+ID: SUPPORT_COUNTRY_095
+JP: アゼルバイジャン
+EN: Azerbaijan
+RU: Азербайджан
+
+ID: SUPPORT_COUNTRY_096
+JP: アルバニア
+EN: Albania
+RU: Албания
+
+ID: SUPPORT_COUNTRY_097
+JP: アルメニア
+EN: Armenia
+RU: Армения
+
+ID: SUPPORT_COUNTRY_098
+JP: アンドラ
+EN: Andorra
+RU: Андорра
+
+ID: SUPPORT_COUNTRY_099
+JP: イタリア
+EN: Italy
+RU: Италия
+
+ID: SUPPORT_COUNTRY_100
+JP: ウクライナ
+EN: Ukraine
+RU: Канада
+
+ID: SUPPORT_COUNTRY_101
+JP: ウズベキスタン
+EN: Uzbekistan
+RU: Узбекистан
+
+ID: SUPPORT_COUNTRY_102
+JP: イギリス
+EN: United Kingdom
+RU: Великобритания
+
+ID: SUPPORT_COUNTRY_103
+JP: エストニア
+EN: Estonia
+RU: Эстония
+
+ID: SUPPORT_COUNTRY_104
+JP: オーストリア
+EN: Austria
+RU: Австрия
+
+ID: SUPPORT_COUNTRY_105
+JP: オランダ
+EN: Netherlands
+RU: Нидерланды
+
+ID: SUPPORT_COUNTRY_106
+JP: カザフスタン
+EN: Kazakhstan
+RU: Казахстан
+
+ID: SUPPORT_COUNTRY_107
+JP: キプロス
+EN: Cyprus
+RU: Кипр
+
+ID: SUPPORT_COUNTRY_108
+JP: ギリシャ
+EN: Greece
+RU: Греция
+
+ID: SUPPORT_COUNTRY_109
+JP: キルギス
+EN: Kyrgyzstan
+RU: Киргизия
+
+ID: SUPPORT_COUNTRY_110
+JP: クロアチア
+EN: Croatia
+RU: Хорватия
+
+ID: SUPPORT_COUNTRY_111
+JP: コソボ
+EN: Kosovo
+RU: Косово
+
+ID: SUPPORT_COUNTRY_112
+JP: サンマリノ
+EN: San Marino
+RU: Сан-Марино
+
+ID: SUPPORT_COUNTRY_113
+JP: ジョージア
+EN: Georgia
+RU: Грузия
+
+ID: SUPPORT_COUNTRY_114
+JP: スイス
+EN: Switzerland
+RU: Швейцария
+
+ID: SUPPORT_COUNTRY_115
+JP: スウェーデン
+EN: Sweden
+RU: Швеция
+
+ID: SUPPORT_COUNTRY_116
+JP: スペイン
+EN: Spain
+RU: Испания
+
+ID: SUPPORT_COUNTRY_117
+JP: スロバキア
+EN: Slovakia
+RU: Словакия
+
+ID: SUPPORT_COUNTRY_118
+JP: スロベニア
+EN: Slovenia
+RU: Словения
+
+ID: SUPPORT_COUNTRY_119
+JP: セルビア
+EN: Serbia
+RU: Сербия
+
+ID: SUPPORT_COUNTRY_120
+JP: タジキスタン
+EN: Tajikistan
+RU: Таджикистан
+
+ID: SUPPORT_COUNTRY_121
+JP: チェコ
+EN: Czech Republic
+RU: Чехия
+
+ID: SUPPORT_COUNTRY_122
+JP: デンマーク
+EN: Denmark
+RU: Дания
+
+ID: SUPPORT_COUNTRY_123
+JP: ドイツ
+EN: Germany
+RU: Германия
+
+ID: SUPPORT_COUNTRY_124
+JP: トルクメニスタン
+EN: Turkmenistan
+RU: Туркмения
+
+ID: SUPPORT_COUNTRY_125
+JP: ノルウェー
+EN: Norway
+RU: Норвегия
+
+ID: SUPPORT_COUNTRY_126
+JP: バチカン
+EN: Vatican
+RU: Ватикан
+
+ID: SUPPORT_COUNTRY_127
+JP: ハンガリー
+EN: Hungary
+RU: Венгрия
+
+ID: SUPPORT_COUNTRY_128
+JP: フィンランド
+EN: Finland
+RU: Финляндия
+
+ID: SUPPORT_COUNTRY_129
+JP: フランス
+EN: France
+RU: Франция
+
+ID: SUPPORT_COUNTRY_130
+JP: ブルガリア
+EN: Bulgaria
+RU: Болгария
+
+ID: SUPPORT_COUNTRY_131
+JP: ベラルーシ
+EN: Belarus
+RU: Аргентина
+
+ID: SUPPORT_COUNTRY_132
+JP: ベルギー
+EN: Belgium
+RU: Бельгия
+
+ID: SUPPORT_COUNTRY_133
+JP: ポーランド
+EN: Poland
+RU: Польша
+
+ID: SUPPORT_COUNTRY_134
+JP: ボスニア・ヘルツェゴビナ
+EN: Bosnia and Herzegovina
+RU: Босния и Герцеговина
+
+ID: SUPPORT_COUNTRY_135
+JP: ポルトガル
+EN: Portugal
+RU: Португалия
+
+ID: SUPPORT_COUNTRY_136
+JP: マケドニア旧ユーゴスラビア共和国
+EN: Macedonia
+RU: Македония
+
+ID: SUPPORT_COUNTRY_137
+JP: マルタ
+EN: Malta
+RU: Мальта
+
+ID: SUPPORT_COUNTRY_138
+JP: モナコ
+EN: Monaco
+RU: Монако
+
+ID: SUPPORT_COUNTRY_139
+JP: モルドバ
+EN: Moldova
+RU: Молдавия
+
+ID: SUPPORT_COUNTRY_140
+JP: モンテネグロ
+EN: Montenegro
+RU: Черногория
+
+ID: SUPPORT_COUNTRY_141
+JP: ラトビア
+EN: Latvia
+RU: Латвия
+
+ID: SUPPORT_COUNTRY_142
+JP: リヒテンシュタイン
+EN: Liechtenstein
+RU: Лихтенштейн
+
+ID: SUPPORT_COUNTRY_143
+JP: リトアニア
+EN: Lithuania
+RU: Литва
+
+ID: SUPPORT_COUNTRY_144
+JP: ルーマニア
+EN: Romania
+RU: Румыния
+
+ID: SUPPORT_COUNTRY_145
+JP: ルクセンブルク
+EN: Luxembourg
+RU: Люксембург
+
+ID: SUPPORT_COUNTRY_146
+JP: ロシア
+EN: Russia
+RU: США
+
+ID: SUPPORT_COUNTRY_147
+JP: アルジェリア
+EN: Algeria
+RU: Алжир
+
+ID: SUPPORT_COUNTRY_148
+JP: アンゴラ
+EN: Angola
+RU: Ангола
+
+ID: SUPPORT_COUNTRY_149
+JP: ウガンダ
+EN: Uganda
+RU: Уганда
+
+ID: SUPPORT_COUNTRY_150
+JP: エジプト
+EN: Egypt
+RU: Египет
+
+ID: SUPPORT_COUNTRY_151
+JP: エチオピア
+EN: Ethiopia
+RU: Эфиопия
+
+ID: SUPPORT_COUNTRY_152
+JP: エリトリア
+EN: Eritrea
+RU: Эритрея
+
+ID: SUPPORT_COUNTRY_153
+JP: ガーナ
+EN: Ghana
+RU: Гана
+
+ID: SUPPORT_COUNTRY_154
+JP: カーボヴェルデ
+EN: Cabo Verde
+RU: Кабо-Верде
+
+ID: SUPPORT_COUNTRY_155
+JP: ガボン
+EN: Gabon
+RU: Габон
+
+ID: SUPPORT_COUNTRY_156
+JP: カメルーン
+EN: Cameroon
+RU: Камерун
+
+ID: SUPPORT_COUNTRY_157
+JP: ガンビア
+EN: Gambia
+RU: Гамбия
+
+ID: SUPPORT_COUNTRY_158
+JP: ギニア
+EN: Guinea
+RU: Гвинея
+
+ID: SUPPORT_COUNTRY_159
+JP: ギニアビサウ
+EN: Guinea-Bissau
+RU: Гвинея-Бисау
+
+ID: SUPPORT_COUNTRY_160
+JP: ケニア
+EN: Kenya
+RU: Кения
+
+ID: SUPPORT_COUNTRY_161
+JP: コートジボワール
+EN: Ivory Coast
+RU: Кот-д’Ивуар
+
+ID: SUPPORT_COUNTRY_162
+JP: コモロ
+EN: Comoros
+RU: Коморы
+
+ID: SUPPORT_COUNTRY_163
+JP: コンゴ共和国
+EN: Congo Republic
+RU: Республика Конго
+
+ID: SUPPORT_COUNTRY_164
+JP: コンゴ民主共和国
+EN: DR Congo
+RU: Демократическая Республика Конго
+
+ID: SUPPORT_COUNTRY_165
+JP: サントメ・プリンシペ
+EN: Sao Tome and Principe
+RU: Сан-Томе и Принсипи
+
+ID: SUPPORT_COUNTRY_166
+JP: ザンビア
+EN: Zambia
+RU: Замбия
+
+ID: SUPPORT_COUNTRY_167
+JP: シエラレオネ
+EN: Sierra Leone
+RU: Сьерра-Леоне
+
+ID: SUPPORT_COUNTRY_168
+JP: ジブチ
+EN: Djibouti
+RU: Джибути
+
+ID: SUPPORT_COUNTRY_169
+JP: ジンバブエ
+EN: Zimbabwe
+RU: Зимбабве
+
+ID: SUPPORT_COUNTRY_170
+JP: スーダン
+EN: Sudan
+RU: Судан
+
+ID: SUPPORT_COUNTRY_171
+JP: スワジランド
+EN: Swaziland
+RU: Свазиленд
+
+ID: SUPPORT_COUNTRY_172
+JP: セーシェル
+EN: The Seychelles
+RU: Сейшелы
+
+ID: SUPPORT_COUNTRY_173
+JP: 赤道ギニア
+EN: Equatorial Guinea
+RU: Экваториальная Гвинея
+
+ID: SUPPORT_COUNTRY_174
+JP: セネガル
+EN: Senegal
+RU: Сенегал
+
+ID: SUPPORT_COUNTRY_175
+JP: ソマリア
+EN: Somalia
+RU: Сомали
+
+ID: SUPPORT_COUNTRY_176
+JP: タンザニア
+EN: Tanzania
+RU: Танзания
+
+ID: SUPPORT_COUNTRY_177
+JP: チャド
+EN: Chad
+RU: Чад
+
+ID: SUPPORT_COUNTRY_178
+JP: 中央アフリカ
+EN: Central African Republic
+RU: Центральноафриканская Республика
+
+ID: SUPPORT_COUNTRY_179
+JP: チュニジア
+EN: Tunisia
+RU: Тунис
+
+ID: SUPPORT_COUNTRY_180
+JP: トーゴ
+EN: Togo
+RU: Того
+
+ID: SUPPORT_COUNTRY_181
+JP: ナイジェリア
+EN: Nigeria
+RU: Нигерия
+
+ID: SUPPORT_COUNTRY_182
+JP: ナミビア
+EN: Namibia
+RU: Намибия
+
+ID: SUPPORT_COUNTRY_183
+JP: ニジェール
+EN: Niger
+RU: Нигер
+
+ID: SUPPORT_COUNTRY_184
+JP: ブルキナファソ
+EN: Burkina Faso
+RU: Буркина-Фасо
+
+ID: SUPPORT_COUNTRY_185
+JP: ブルンジ
+EN: Burundi
+RU: Бурунди
+
+ID: SUPPORT_COUNTRY_186
+JP: ベナン
+EN: Benin
+RU: Бенин
+
+ID: SUPPORT_COUNTRY_187
+JP: ボツワナ
+EN: Botswana
+RU: Ботсвана
+
+ID: SUPPORT_COUNTRY_188
+JP: マダガスカル
+EN: Madagascar
+RU: Мадагаскар
+
+ID: SUPPORT_COUNTRY_189
+JP: マラウイ
+EN: Malawi
+RU: Малави
+
+ID: SUPPORT_COUNTRY_190
+JP: マリ
+EN: Mali
+RU: Мали
+
+ID: SUPPORT_COUNTRY_191
+JP: 南アフリカ
+EN: South Africa
+RU: ЮАР
+
+ID: SUPPORT_COUNTRY_192
+JP: 南スーダン
+EN: South Sudan
+RU: Южный Судан
+
+ID: SUPPORT_COUNTRY_193
+JP: モザンビーク
+EN: Mozambique
+RU: Мозамбик
+
+ID: SUPPORT_COUNTRY_194
+JP: モーリシャス
+EN: Mauritius
+RU: Маврикий
+
+ID: SUPPORT_COUNTRY_195
+JP: モーリタニア
+EN: Mauritania
+RU: Мавритания
+
+ID: SUPPORT_COUNTRY_196
+JP: モロッコ
+EN: Morocco
+RU: Марокко
+
+ID: SUPPORT_COUNTRY_197
+JP: リビア
+EN: Libya
+RU: Ливия
+
+ID: SUPPORT_COUNTRY_198
+JP: リベリア
+EN: Liberia
+RU: Либерия
+
+ID: SUPPORT_COUNTRY_199
+JP: ルワンダ
+EN: Rwanda
+RU: Руанда
+
+ID: SUPPORT_COUNTRY_200
+JP: レソト
+EN: Lesotho
+RU: Лесото
+
+ID: SUPPORT_COUNTRY_201
+JP: 海王星
+EN: Neptune
+RU: Нептун
+
+ID: SUPPORT_COUNTRY_202
+JP: 火星
+EN: Mars
+RU: Марс
+
+ID: SUPPORT_COUNTRY_203
+JP: 金星
+EN: Venus
+RU: Венера
+
+ID: SUPPORT_COUNTRY_204
+JP: 水星
+EN: Mercury
+RU: Меркурий
+
+ID: SUPPORT_COUNTRY_205
+JP: 地球
+EN: Earth
+RU: Земля
+
+ID: SUPPORT_COUNTRY_206
+JP: 天王星
+EN: Uranus
+RU: Уран
+
+ID: SUPPORT_COUNTRY_207
+JP: 土星
+EN: Saturn
+RU: Сатурн
+
+ID: SUPPORT_COUNTRY_208
+JP: 木星
+EN: Jupiter
+RU: Юпитер
+
+ID: SUPPORT_COUNTRY_209
+JP: 冥王星
+EN: Pluto
+RU: Плутон
+
+ID: SUPPORT_COUNTRY_210
+JP: 月
+EN: Moon
+RU: Луна
+
+ID: SUPPORT_COUNTRY_211
+JP: バンカー
+EN: The Bunker
+RU: Бункер
+
+ID: SUPPORT_COUNTRY_212
+JP: 廃墟都市
+EN: City Ruins
+RU: Руины города
+
+ID: SUPPORT_COUNTRY_213
+JP: レジスタンスキャンプ
+EN: Resistance Camp
+RU: Лагерь Сопротивления
+
+ID: SUPPORT_COUNTRY_214
+JP: 工場廃墟
+EN: Abandoned Factory
+RU: Заброшенная фабрика
+
+ID: SUPPORT_COUNTRY_215
+JP: 砂漠
+EN: Desert Area
+RU: Пустынная зона
+
+ID: SUPPORT_COUNTRY_216
+JP: 遊園地
+EN: Amusement Park
+RU: Парк развлечений
+
+ID: SUPPORT_COUNTRY_217
+JP: パスカルの村
+EN: Pascal's Village
+RU: Деревня Паскаля
+
+ID: SUPPORT_COUNTRY_218
+JP: 水没都市
+EN: Flooded City
+RU: Затопленный город
+
+ID: SUPPORT_COUNTRY_219
+JP: 森の城
+EN: Forest Castle
+RU: Лесной замок
+
+ID: SUPPORT_COUNTRY_220
+JP: 複製された街
+EN: Copied City
+RU: Реплика города
+
+ID: SUPPORT_COUNTRY_221
+JP: 塔
+EN: The Tower
+RU: Башня
+
+ID: SUPPORT_COUNTRY_222
+JP: 崖の村
+EN: The Aerie
+RU: Орлиное гнездо
+
+ID: SUPPORT_COUNTRY_223
+JP: 神話の森
+EN: Forest of Myth
+RU: Лес мифов
+
+ID: SUPPORT_COUNTRY_224
+JP: 海岸の街
+EN: Seafront
+RU: Набережная
+
+ID: SUPPORT_COUNTRY_225
+JP: 仮面の街
+EN: Facade
+RU: Фасад
+
+ID: SUPPORT_COUNTRY_226
+JP: 新宿
+EN: Shinjuku
+RU: Синдзюку
+
+ID: SUPPORT_COUNTRY_227
+JP: アトランティス
+EN: Atlantis
+RU: Атлантида
+
+ID: SUPPORT_COUNTRY_228
+JP: アヴァロン
+EN: Avalon
+RU: Авалон
+
+ID: SUPPORT_COUNTRY_229
+JP: 蓬莱
+EN: Penglai
+RU: Пэнлай
+
+ID: SUPPORT_COUNTRY_230
+JP: マグ・メル
+EN: Mag Mell
+RU: Маг Мелл
+
+ID: SUPPORT_COUNTRY_231
+JP: ヴァルハラ
+EN: Valhalla
+RU: Вальхалла
+
+ID: SUPPORT_COUNTRY_232
+JP: ニライカナイ
+EN: Nirai Kanai
+RU: Нирай Канай
+
+ID: SUPPORT_COUNTRY_233
+JP: ヘルヘイム
+EN: Helheim
+RU: Хельхейм
+
+ID: SUPPORT_COUNTRY_234
+JP: 桃源郷
+EN: Paradise
+RU: Рай
+
+ID: SUPPORT_COUNTRY_235
+JP: ユートピア
+EN: Utopia
+RU: Утопия
+
+ID: SUPPORT_COUNTRY_236
+JP: ムー大陸
+EN: Mu
+RU: Му
+
+ID: SUPPORT_COUNTRY_237
+JP: 高天原
+EN: Heavenly Plains
+RU: Небесные равнины
+
+ID: SUPPORT_COUNTRY_238
+JP: 一次元
+EN: The First Dimension
+RU: Первое измерение
+
+ID: SUPPORT_COUNTRY_239
+JP: 二次元
+EN: The Second Dimension
+RU: Второе измерение
+
+ID: SUPPORT_COUNTRY_240
+JP: 三次元
+EN: The Third Dimension
+RU: Третье измерение
+
+ID: SUPPORT_COUNTRY_241
+JP: 四次元
+EN: The Fourth Dimension
+RU: Четвёртое измерение
+
+ID: SUPPORT_COUNTRY_242
+JP: 並行世界
+EN: A Parallel World
+RU: Параллельный мир
+
+ID: SUPPORT_COUNTRY_243
+JP: 天国
+EN: Heaven
+RU: Рай
+
+ID: SUPPORT_COUNTRY_244
+JP: 地獄
+EN: Hell
+RU: Ад
+
+ID: SUPPORT_WORD_01_000
+JP: 君は今、ものすごく大変だと思う。
+EN: I bet you're having a tough time right now.
+RU: Могу поспорить, тебе сейчас нелегко.
+
+ID: SUPPORT_WORD_01_001
+JP: シューティングは辛い。
+EN: Shooters are tough.
+RU: Стрелялки сложные.
+
+ID: SUPPORT_WORD_01_002
+JP: 私も君と同じ道を通りました。
+EN: I've walked the same road as you.
+RU: Я шёл по тому же пути, что и ты.
+
+ID: SUPPORT_WORD_01_003
+JP: 私も辛かった。
+EN: It was hard for me as well.
+RU: Вообще, для меня это было сложно.
+
+ID: SUPPORT_WORD_01_004
+JP: まだまだ、何度も、死ぬだろう。
+EN: You'll die many times before it's over.
+RU: Так много смертей, но скоро всё закончится.
+
+ID: SUPPORT_WORD_01_005
+JP: とりあえず、落ち着いて。
+EN: Let's calm down for a moment.
+RU: Передохни немного.
+
+ID: SUPPORT_WORD_01_006
+JP: 次もありますよ。
+EN: There's always next time!
+RU: В следующий раз ты сможешь!
+
+ID: SUPPORT_WORD_01_007
+JP: 目が疲れるよね～。
+EN: Your eyes get tired, don't they?
+RU: Твои глаза не устали?
+
+ID: SUPPORT_WORD_01_008
+JP: 終わらないかと思った。
+EN: I thought it would never end.
+RU: Я думал, что это никогда не кончится.
+
+ID: SUPPORT_WORD_01_009
+JP: 言いたいことは分かる。
+EN: I know what you want to say.
+RU: Я знаю, что ты хочешь сказать.
+
+ID: SUPPORT_WORD_01_010
+JP: 私はやり遂げたよ。
+EN: I saw this through to the end.
+RU: Я прочёл это до конца.
+
+ID: SUPPORT_WORD_01_011
+JP: 自力クリアしたらすごい。
+EN: It'd be amazing if you cleared this alone.
+RU: Будет здорово, если ты разберешься с этим в одиночку.
+
+ID: SUPPORT_WORD_01_012
+JP: 何度でも挑戦するんだ。
+EN: Step up as many times as it takes!
+RU: Иди вперёд столько, сколько потребуется!
+
+ID: SUPPORT_WORD_01_013
+JP: 諦めたら終わり。
+EN: If you give up, you're done for.
+RU: Если сдашься, то погибнешь.
+
+ID: SUPPORT_WORD_01_014
+JP: 最初は何かの間違いかと思った。
+EN: I thought it was some kind of mistake.
+RU: Я думал, что здесь какая-то ошибка.
+
+ID: SUPPORT_WORD_01_015
+JP: 良い結果は勝ち取るものだ。
+EN: Good results must be earned.
+RU: Обязательно выложись по полной.
+
+ID: SUPPORT_WORD_01_016
+JP: ここでやめるの？
+EN: Are you really giving up here?
+RU: Ты правда сдашься здесь?
+
+ID: SUPPORT_WORD_01_017
+JP: 何度目のコンティニューだ？
+EN: How many continues is this?
+RU: Как долго это может продолжаться?
+
+ID: SUPPORT_WORD_01_018
+JP: 自分の弱さに気づいたか？
+EN: Have you realized how weak you are?
+RU: Осознаешь свою беспомощность?
+
+ID: SUPPORT_WORD_01_019
+JP: ボンヤリしていましたね。
+EN: You were zoning out there!
+RU: Вы покидаете зону!
+
+ID: SUPPORT_WORD_01_020
+JP: 裏ワザは無いぞ。
+EN: There's no trick to this.
+RU: В этом нет никакой хитрости.
+
+ID: SUPPORT_WORD_01_021
+JP: 何をやってるんだ？
+EN: What are you doing?
+RU: Что ты делаешь?
+
+ID: SUPPORT_WORD_01_022
+JP: 楽しいか？
+EN: Having fun?
+RU: Веселишься?
+
+ID: SUPPORT_WORD_01_023
+JP: 追い込まれてどうする？
+EN: What if you get cornered?
+RU: Что если вас загонят в угол?
+
+ID: SUPPORT_WORD_01_024
+JP: 世界にはズルをしたりする人もいる。
+EN: Not everyone in this world plays fair.
+RU: Не все в этом мире играют честно.
+
+ID: SUPPORT_WORD_01_025
+JP: ２Ｂも９Ｓも命を賭けて戦った。
+EN: 2B and 9S put their lives on the line.
+RU: 2B и 9S рисковали своими жизнями.
+
+ID: SUPPORT_WORD_01_026
+JP: この世界は苦難で満ちている。
+EN: This world is rife with hardship.
+RU: Этот мир полон трудностей.
+
+ID: SUPPORT_WORD_01_027
+JP: シューティングの弾幕は厚い。
+EN: The bullets rain down without pause.
+RU: Дождь из пуль не прекращается.
+
+ID: SUPPORT_WORD_01_028
+JP: この戦いは勝ち目の無い戦いだ。
+EN: This is an unwinnable fight.
+RU: В этой битве невозможно победить.
+
+ID: SUPPORT_WORD_01_029
+JP: 今遊んでるのは、たかがゲーム。
+EN: What you're playing now is a mere game.
+RU: Вы играете в очень простую игру.
+
+ID: SUPPORT_WORD_01_030
+JP: 所詮は遊びだよね。
+EN: It's just a game in the end, right?
+RU: В конце концов, это всего лишь игра, да?
+
+ID: SUPPORT_WORD_01_031
+JP: 必死でやってもうまくいかない時は誰にでもある。
+EN: It's sad, but things don't always work out.
+RU: Это грустно, но не всегда всё идёт по плану.
+
+ID: SUPPORT_WORD_01_032
+JP: 「勝てる訳がない！」そう思ってるよね？
+EN: You're thinking this is impossible, right?
+RU: Думаешь это невозможно, верно?
+
+ID: SUPPORT_WORD_01_033
+JP: 追い詰められると辛い気持ちになる。
+EN: Sometimes you just feel trapped.
+RU: Иногда чувствуешь себя, словно в ловушке.
+
+ID: SUPPORT_WORD_01_034
+JP: さっきの戦いは惜しかった。
+EN: You were so close to winning that last fight.
+RU: Вы были так близки к победе в этой битве.
+
+ID: SUPPORT_WORD_01_035
+JP: クソみたいな世界、クソみたいなゲーム。
+EN: Shitty world, shitty game!
+RU: Грёбаный мир, сраная игра!
+
+ID: SUPPORT_WORD_01_036
+JP: 僕はがんばった。
+EN: I did my best.
+RU: Я старался изо всех сил.
+
+ID: SUPPORT_WORD_01_037
+JP: 誰も助けてはくれない。
+EN: No one will help you.
+RU: Никто тебе не поможет.
+
+ID: SUPPORT_WORD_01_038
+JP: 貴方は恐怖を知る人。
+EN: You are one who knows fear.
+RU: Ты познаешь страх.
+
+ID: SUPPORT_WORD_01_039
+JP: 負けて負けて、負け続けて。
+EN: Lose, lose, and lose some more!
+RU: Проигрывай, проигрывай, проигрывай ещё больше!
+
+ID: SUPPORT_WORD_01_040
+JP: 生きる事の意味を見失いそうになった時。
+EN: Sometimes you forget what it means to live.
+RU: Иногда ты забываешь, что значит жить.
+
+ID: SUPPORT_WORD_01_041
+JP: 「ゲームは遊びだ」と言われ続けた。
+EN: I've always heard games are "just for fun."
+RU: Я всегда слышал, что игры «просто для развлечения».
+
+ID: SUPPORT_WORD_01_042
+JP: この戦いに意味はあるのか？
+EN: Does this battle have meaning?
+RU: У этой битвы есть смысл?
+
+ID: SUPPORT_WORD_01_043
+JP: 現実世界は辛い事ばかりだ。
+EN: The real world is naught but hardship.
+RU: Реальный мир не лишён трудностей.
+
+ID: SUPPORT_WORD_01_044
+JP: もしかしたら、この声は届かないかもしれない。
+EN: My voice may not reach you.
+RU: Мой голос может не достигнуть тебя.
+
+ID: SUPPORT_WORD_01_045
+JP: たとえゲームでも僕は死ぬ気を出す！
+EN: I'm serious, even if it's just a game!
+RU: Я серьёзен, даже если это просто игра!
+
+ID: SUPPORT_WORD_01_046
+JP: 貴方はこのゲームが好きか？
+EN: Do you like this game?
+RU: Тебе понравилась эта игра?
+
+ID: SUPPORT_WORD_01_047
+JP: 僕はこのゲームが好きだ！
+EN: I love this game!
+RU: Я обожаю эту игру!
+
+ID: SUPPORT_WORD_01_048
+JP: この世界に存在する意味は自分自身が決めるべきだ。
+EN: You must decide what it means to exist.
+RU: Вы должны осознать, что такое жизнь.
+
+ID: SUPPORT_WORD_01_049
+JP: 僕にこの言葉を言う資格は無いのかもしれない。
+EN: I may not have the right to say this.
+RU: Возможно, я не имею права говорить об этом.
+
+ID: SUPPORT_WORD_01_050
+JP: 覚悟の強さで己の成長が決まる。
+EN: Your growth hinges on your resolve.
+RU: Твой прогресс зависит от твоей решимости.
+
+ID: SUPPORT_WORD_01_051
+JP: 限界は破るためにある！
+EN: Limits exist to be broken!
+RU: Правила существуют, чтобы их нарушать!
+
+ID: SUPPORT_WORD_01_052
+JP: 周りは敵だらけ……。
+EN: You're surrounded by enemies.
+RU: Враги повсюду.
+
+ID: SUPPORT_WORD_01_053
+JP: キミはこの下らない世界が好きですか？
+EN: Do you care for this worthless world?
+RU: Вы заботитесь об этом никчёмном мире?
+
+ID: SUPPORT_WORD_01_054
+JP: この戦いの先に答えはあるのだろうか。
+EN: Is there an answer at the end of this battle?
+RU: Есть ли ответ в конце этой битвы?
+
+ID: SUPPORT_WORD_01_055
+JP: 終わりのない戦いに挑もう。
+EN: Throw yourself into a battle with no end.
+RU: Да начнется бесконечная битва!
+
+ID: SUPPORT_WORD_01_056
+JP: キミは一人だ。
+EN: You are alone.
+RU: Вы здесь одни.
+
+ID: SUPPORT_WORD_01_057
+JP: これが求めていた戦いなのか。
+EN: Is this the fight you wanted?
+RU: Этого боя вы желали?
+
+ID: SUPPORT_WORD_01_058
+JP: 助けが来ると思っているのか？
+EN: Do you think help is on the way?
+RU: Думаешь, что помощь уже в пути?
+
+ID: SUPPORT_WORD_01_059
+JP: 追い詰められたか？
+EN: Are you at your wit's end?
+RU: Ты в своём уме?
+
+ID: SUPPORT_WORD_01_060
+JP: 逃げ出したくなったか？
+EN: Feel like running away?
+RU: Уже хочешь сбежать?
+
+ID: SUPPORT_WORD_01_061
+JP: 私は諦めない。
+EN: I won't give up!
+RU: Я не сдамся!
+
+ID: SUPPORT_WORD_01_062
+JP: もう帰りたいよね。
+EN: You'd love to go home already, wouldn't you?
+RU: Ты уже хочешь домой, да?
+
+ID: SUPPORT_WORD_01_063
+JP: アナタとワタシは同じです。
+EN: You and I are the same.
+RU: Мы с тобой одинаковы.
+
+ID: SUPPORT_WORD_01_064
+JP: お前は誰だ？
+EN: Who are you?
+RU: Кто ты?
+
+ID: SUPPORT_WORD_01_065
+JP: 肩の力を抜け。
+EN: Your shoulders are tense. Relaaaaax.
+RU: Твои плечи напряжены. Рассла-а-абься.
+
+ID: SUPPORT_WORD_01_066
+JP: 助けはこない。
+EN: Help isn't coming.
+RU: Помощь не придёт.
+
+ID: SUPPORT_WORD_01_067
+JP: 充電は残っているか？
+EN: Any juice left in your batteries?
+RU: У тебя в батареях ещё остался заряд?
+
+ID: SUPPORT_WORD_01_068
+JP: いつまで続けるつもりだ？
+EN: How long do you plan to continue?
+RU: Как долго ты сможешь это продолжать?
+
+ID: SUPPORT_WORD_01_069
+JP: オレも大変な思いをした。
+EN: I've had my share of hardship.
+RU: У меня были свои трудности.
+
+ID: SUPPORT_WORD_01_070
+JP: よく耐えているな。
+EN: You're holding up well.
+RU: Вы держитесь вполне уверенно.
+
+ID: SUPPORT_WORD_01_071
+JP: そろそろいいんじゃないか？
+EN: Haven't you just about had enough?
+RU: Разве вам не достаточно?
+
+ID: SUPPORT_WORD_01_072
+JP: よく頑張ったよ。
+EN: You did your best.
+RU: Постарайся изо всех сил.
+
+ID: SUPPORT_WORD_01_073
+JP: しんどいでしょう？
+EN: You must be exhausted.
+RU: Вы, наверное, устали.
+
+ID: SUPPORT_WORD_01_074
+JP: キミは弱い。
+EN: You're weak!
+RU: Ты не пройдешь!
+
+ID: SUPPORT_WORD_01_075
+JP: 希望の光は見えているか？
+EN: Can you see the light of hope?
+RU: Видишь луч надежды?
+
+ID: SUPPORT_WORD_01_076
+JP: 絶望しかない。
+EN: There is nothing but despair.
+RU: Нет ничего, кроме отчаяния.
+
+ID: SUPPORT_WORD_01_077
+JP: シューティングは得意なんだ。
+EN: I'm confident in my shooting abilities.
+RU: Я уверен в своих стрелковых навыках.
+
+ID: SUPPORT_WORD_01_078
+JP: シューティングは苦手なんだ。
+EN: I'm not a strong shooter.
+RU: В шутерах я не силён.
+
+ID: SUPPORT_WORD_01_079
+JP: 私は２Bが好きだ！
+EN: I like 2B!
+RU: Мне нравится 2B!
+
+ID: SUPPORT_WORD_01_080
+JP: 私は９Sが好きだ！
+EN: I like 9S!
+RU: Я обожаю 9S!
+
+ID: SUPPORT_WORD_01_081
+JP: 私はA２が好きだ！
+EN: I like A2!
+RU: A2 круче всех!
+
+ID: SUPPORT_WORD_01_082
+JP: 私はエミールが好きだ！
+EN: I like Emil!
+RU: Эмиль такой классный!
+
+ID: SUPPORT_WORD_01_083
+JP: 私はポポル派です！
+EN: I'm a Popola fan!
+RU: Я фанат Пополы!
+
+ID: SUPPORT_WORD_01_084
+JP: 私はデボル派です！
+EN: I'm a Devola fan!
+RU: Я фанат Деволы!
+
+ID: SUPPORT_WORD_01_085
+JP: 終わりのない戦いもある。
+EN: Some wars never end.
+RU: Некоторые войны никогда не заканчиваются.
+
+ID: SUPPORT_WORD_01_086
+JP: 明日は休日なんだ。
+EN: Tomorrow is my day off.
+RU: Завтра у меня выходной.
+
+ID: SUPPORT_WORD_01_087
+JP: 明日は月曜日だって！？
+EN: Wait, tomorrow's MONDAY!?
+RU: Завтра что, уже ПОНЕДЕЛЬНИК?!
+
+ID: SUPPORT_WORD_01_088
+JP: まだ諦めていないのか？
+EN: Haven't given up yet?
+RU: Ещё не сдаешься?
+
+ID: SUPPORT_WORD_01_089
+JP: しぶとい奴ですね。
+EN: You're tough.
+RU: Вы жестоки.
+
+ID: SUPPORT_WORD_01_090
+JP: お前は一人か？
+EN: Are you alone?
+RU: Тебе одиноко?
+
+ID: SUPPORT_WORD_01_091
+JP: 戦いこそが全てだった。
+EN: The fight was everything.
+RU: Сражение было всем.
+
+ID: SUPPORT_WORD_01_092
+JP: おいおい、まだいけるんですか？
+EN: Can you really keep going?
+RU: Сможешь ли ты продолжить?
+
+ID: SUPPORT_WORD_01_093
+JP: こんなこと、聞いてないぞ。
+EN: Oh, come on! No one told me about this!
+RU: Ох, да ладно! Никто мне не говорил об этом!
+
+ID: SUPPORT_WORD_01_094
+JP: まだだ、まだやれる！
+EN: I'm not done yet!
+RU: Я ещё не закончил!
+
+ID: SUPPORT_WORD_01_095
+JP: 限界の更に向こうへ挑め。
+EN: Push yourself beyond your limits.
+RU: Выйди за рамки своих возможностей.
+
+ID: SUPPORT_WORD_01_096
+JP: 活路を見い出せ！
+EN: Cut your way through!
+RU: Проложи свой путь!
+
+ID: SUPPORT_WORD_01_097
+JP: 腹が減っては戦えない。
+EN: You can't fight on an empty stomach.
+RU: Ты не можешь сражаться на пустой желудок.
+
+ID: SUPPORT_WORD_01_098
+JP: 貴方ならやれるでしょう？
+EN: I'm sure *you* can handle this.
+RU: Уверен, ТЫ сможешь!
+
+ID: SUPPORT_WORD_01_099
+JP: それで全力か？
+EN: That all you've got?
+RU: И это всё, на что вы способны?
+
+ID: SUPPORT_WORD_01_100
+JP: って思うんだよね→
+EN: You'd think so, wouldn't you?
+RU: О чем ты думаешь?
+
+ID: SUPPORT_WORD_01_101
+JP: 抗い続けろ。
+EN: The struggle must continue.
+RU: Борьба должна продолжаться.
+
+ID: SUPPORT_WORD_01_102
+JP: 疲れているの？
+EN: Are you tired?
+RU: Вы устали?
+
+ID: SUPPORT_WORD_01_103
+JP: 憎悪と愛情は表裏一体だ。
+EN: Love and hate are two sides of the same coin.
+RU: Любовь и ненависть — две стороны одной медали.
+
+ID: SUPPORT_WORD_01_104
+JP: オレもお前も同じだ。
+EN: We're not that different, you and I.
+RU: Мы не такие разные, ты и я.
+
+ID: SUPPORT_WORD_01_105
+JP: 困難から目を逸らすな。
+EN: Do not avert your eyes from difficulties.
+RU: Не убегай от трудностей.
+
+ID: SUPPORT_WORD_01_106
+JP: 睡眠を削れ。
+EN: Who needs sleep anyway?
+RU: Кому нужен сон?
+
+ID: SUPPORT_WORD_01_107
+JP: 否定：
+EN: Negative.
+RU: Отрицательно.
+
+ID: SUPPORT_WORD_01_108
+JP: 肯定：
+EN: Affirmative.
+RU: Подтверждаю.
+
+ID: SUPPORT_WORD_01_109
+JP: 提案：
+EN: Proposal:
+RU: Предложение:
+
+ID: SUPPORT_WORD_02_000
+JP: いずれにしても、
+EN: In any case,
+RU: В любом случае,
+
+ID: SUPPORT_WORD_02_001
+JP: おまけに、
+EN: On top of that,
+RU: Более того,
+
+ID: SUPPORT_WORD_02_002
+JP: かわりに、
+EN: Instead,
+RU: Вместо этого,
+
+ID: SUPPORT_WORD_02_003
+JP: 結局、
+EN: In the end,
+RU: Наконец,
+
+ID: SUPPORT_WORD_02_004
+JP: けど、
+EN: But,
+RU: Но,
+
+ID: SUPPORT_WORD_02_005
+JP: けれど、
+EN: But
+RU: Но
+
+ID: SUPPORT_WORD_02_006
+JP: けれども、
+EN: But...
+RU: Но...
+
+ID: SUPPORT_WORD_02_007
+JP: さもないと、
+EN: If not,
+RU: Если нет,
+
+ID: SUPPORT_WORD_02_008
+JP: さもなくば、
+EN: Otherwise,
+RU: В противном случае,
+
+ID: SUPPORT_WORD_02_009
+JP: さもなければ、
+EN: If not, then
+RU: Если нет, тогда
+
+ID: SUPPORT_WORD_02_010
+JP: さらに、
+EN: What's more,
+RU: Кроме того,
+
+ID: SUPPORT_WORD_02_011
+JP: しかし、
+EN: However,
+RU: Однако,
+
+ID: SUPPORT_WORD_02_012
+JP: しかも、
+EN: Moreover,
+RU: Более того,
+
+ID: SUPPORT_WORD_02_013
+JP: しからば、
+EN: If so,
+RU: Если так,
+
+ID: SUPPORT_WORD_02_014
+JP: したがって、
+EN: Therefore,
+RU: Следовательно,
+
+ID: SUPPORT_WORD_02_015
+JP: じゃあ、
+EN: Well,
+RU: Ну,
+
+ID: SUPPORT_WORD_02_016
+JP: じゃなくて、
+EN: Or, rather,
+RU: Или, скорее,
+
+ID: SUPPORT_WORD_02_017
+JP: すなわち、
+EN: Namely,
+RU: А именно,
+
+ID: SUPPORT_WORD_02_018
+JP: せめて、
+EN: At least
+RU: Как минимум
+
+ID: SUPPORT_WORD_02_019
+JP: そうしたら、
+EN: Then, after that,
+RU: Затем, после этого,
+
+ID: SUPPORT_WORD_02_020
+JP: そうして、
+EN: Doing so,
+RU: Делать то,
+
+ID: SUPPORT_WORD_02_021
+JP: そうしないと、
+EN: If you don't,
+RU: Если вы не сделаете,
+
+ID: SUPPORT_WORD_02_022
+JP: そうじゃなくて、
+EN: Not really, but...
+RU: Не совсем, но...
+
+ID: SUPPORT_WORD_02_023
+JP: そうだとすれば、
+EN: If that's the case,
+RU: Если это так,
+
+ID: SUPPORT_WORD_02_024
+JP: そうでないなら、
+EN: If that's not so, then
+RU: Если это не так, то
+
+ID: SUPPORT_WORD_02_025
+JP: そうでなくて、
+EN: Er, I mean,
+RU: Эм, я имею в виду,
+
+ID: SUPPORT_WORD_02_026
+JP: そうでなければ、
+EN: Otherwise,
+RU: В противном случае,
+
+ID: SUPPORT_WORD_02_027
+JP: そうではなく、
+EN: Wait, no, I mean
+RU: Подожди, нет, я имел в виду
+
+ID: SUPPORT_WORD_02_028
+JP: そうは言っても、
+EN: That being said,
+RU: Как говорится,
+
+ID: SUPPORT_WORD_02_029
+JP: そう言えば、
+EN: That reminds me,
+RU: Это напомнило мне,
+
+ID: SUPPORT_WORD_02_030
+JP: そこで、
+EN: So, then,
+RU: Так что,
+
+ID: SUPPORT_WORD_02_031
+JP: そして、
+EN: Then
+RU: Тогда,
+
+ID: SUPPORT_WORD_02_032
+JP: そしてまた、
+EN: And, also,
+RU: И, также,
+
+ID: SUPPORT_WORD_02_033
+JP: そのかわりに、
+EN: As an alternative,
+RU: Вместо этого,
+
+ID: SUPPORT_WORD_02_034
+JP: そのために、
+EN: For that purpose,
+RU: Для этой цели,
+
+ID: SUPPORT_WORD_02_035
+JP: その結果、
+EN: As a result,
+RU: В результате,
+
+ID: SUPPORT_WORD_02_036
+JP: その後、
+EN: After that,
+RU: После этого,
+
+ID: SUPPORT_WORD_02_037
+JP: それから、
+EN: And also,
+RU: И также,
+
+ID: SUPPORT_WORD_02_038
+JP: それじゃあ、
+EN: In that case,
+RU: В этом случае,
+
+ID: SUPPORT_WORD_02_039
+JP: それで、
+EN: So,
+RU: Так,
+
+ID: SUPPORT_WORD_02_040
+JP: それでいて、
+EN: Despite that,
+RU: Несмотря на это,
+
+ID: SUPPORT_WORD_02_041
+JP: それでは、
+EN: Because of that,
+RU: Из-за этого,
+
+ID: SUPPORT_WORD_02_042
+JP: それでも、
+EN: All the same,
+RU: Тем не менее,
+
+ID: SUPPORT_WORD_02_043
+JP: それと同時に、
+EN: At the same time,
+RU: В то же время,
+
+ID: SUPPORT_WORD_02_044
+JP: それなのに、
+EN: Even so,
+RU: Даже так,
+
+ID: SUPPORT_WORD_02_045
+JP: それならば、
+EN: And thus we can say,
+RU: Таким образом, мы можем сказать,
+
+ID: SUPPORT_WORD_02_046
+JP: それに、
+EN: In addition,
+RU: К тому же,
+
+ID: SUPPORT_WORD_02_047
+JP: それにしては、
+EN: And yet,
+RU: И ещё,
+
+ID: SUPPORT_WORD_02_048
+JP: それにもかかわらず、
+EN: Nevertheless,
+RU: Тем не менее,
+
+ID: SUPPORT_WORD_02_049
+JP: それに加えて、
+EN: In addition to that,
+RU: В дополнение к этому,
+
+ID: SUPPORT_WORD_02_050
+JP: そればかりか、
+EN: Not only that,
+RU: Не только к этому,
+
+ID: SUPPORT_WORD_02_051
+JP: そればかりでなく、
+EN: But that's not all;
+RU: Но это не все;
+
+ID: SUPPORT_WORD_02_052
+JP: それはさておき、
+EN: That aside,
+RU: А в остальном,
+
+ID: SUPPORT_WORD_02_053
+JP: それはそうと、
+EN: Putting that aside,
+RU: Это не считая,
+
+ID: SUPPORT_WORD_02_054
+JP: それ故に、
+EN: Because of this,
+RU: Потому что это,
+
+ID: SUPPORT_WORD_02_055
+JP: だが、
+EN: As such,
+RU: Как таковой,
+
+ID: SUPPORT_WORD_02_056
+JP: だから、
+EN: So
+RU: Поэтому
+
+ID: SUPPORT_WORD_02_057
+JP: だからといって、
+EN: While it may be so,
+RU: Хотя может быть так,
+
+ID: SUPPORT_WORD_02_058
+JP: だけど、
+EN: Or
+RU: Или
+
+ID: SUPPORT_WORD_02_059
+JP: だけれど、
+EN: But even so,
+RU: Но даже так,
+
+ID: SUPPORT_WORD_02_060
+JP: ただ、
+EN: But still,
+RU: Но всё же,
+
+ID: SUPPORT_WORD_02_061
+JP: ただし、
+EN: Still,
+RU: Всё же,
+
+ID: SUPPORT_WORD_02_062
+JP: だったら、
+EN: In which case,
+RU: В таком случае,
+
+ID: SUPPORT_WORD_02_063
+JP: だって、
+EN: I mean,
+RU: Я имею в виду,
+
+ID: SUPPORT_WORD_02_064
+JP: だとしたら、
+EN: If that's true,
+RU: Если это правда,
+
+ID: SUPPORT_WORD_02_065
+JP: だとすると、
+EN: Given that,
+RU: При условии,
+
+ID: SUPPORT_WORD_02_066
+JP: だのに、
+EN: In spite of that,
+RU: Не смотря на это,
+
+ID: SUPPORT_WORD_02_067
+JP: ちなみに、
+EN: By the way,
+RU: Кстати,
+
+ID: SUPPORT_WORD_02_068
+JP: ついで、
+EN: Incidentally,
+RU: Между прочим,
+
+ID: SUPPORT_WORD_02_069
+JP: つまり、
+EN: What I mean is...
+RU: Я имею в виду...
+
+ID: SUPPORT_WORD_02_070
+JP: ですが、
+EN: Though,
+RU: Однако,
+
+ID: SUPPORT_WORD_02_071
+JP: ですから、
+EN: And thus,
+RU: И поэтому,
+
+ID: SUPPORT_WORD_02_072
+JP: ですけれど、
+EN: Nonetheless,
+RU: Тем не менее,
+
+ID: SUPPORT_WORD_02_073
+JP: でなくて、
+EN: What I mean to say is,
+RU: Я хочу сказать,
+
+ID: SUPPORT_WORD_02_074
+JP: でなければ、
+EN: If that weren't the case,
+RU: Если бы это было не так,
+
+ID: SUPPORT_WORD_02_075
+JP: では、
+EN: Now then,
+RU: Сейчас, когда
+
+ID: SUPPORT_WORD_02_076
+JP: でも、
+EN: But, even so,
+RU: Но даже так,
+
+ID: SUPPORT_WORD_02_077
+JP: というか、
+EN: Or should I say,
+RU: Или я должен сказать,
+
+ID: SUPPORT_WORD_02_078
+JP: というより、
+EN: Or rather,
+RU: Или скорее,
+
+ID: SUPPORT_WORD_02_079
+JP: ところが、
+EN: Yet,
+RU: И всё же,
+
+ID: SUPPORT_WORD_02_080
+JP: ところで、
+EN: Anyway,
+RU: Как бы то ни было,
+
+ID: SUPPORT_WORD_02_081
+JP: どっちにしても、
+EN: Either way,
+RU: Так или иначе,
+
+ID: SUPPORT_WORD_02_082
+JP: とにかく、
+EN: At any rate,
+RU: В любом случае,
+
+ID: SUPPORT_WORD_02_083
+JP: とはいうものの、
+EN: Having said that,
+RU: Было сказано, что
+
+ID: SUPPORT_WORD_02_084
+JP: とは言え、
+EN: Be that as it may,
+RU: Как бы то ни было,
+
+ID: SUPPORT_WORD_02_085
+JP: なおかつ、
+EN: And yet, still,
+RU: И, тем не менее, до сих пор
+
+ID: SUPPORT_WORD_02_086
+JP: なぜなら、
+EN: Why? Because
+RU: Почему? Потому что
+
+ID: SUPPORT_WORD_02_087
+JP: なのに、
+EN: Despite this,
+RU: Несмотря на это,
+
+ID: SUPPORT_WORD_02_088
+JP: ならば、
+EN: If that's the truth,
+RU: Если это правда,
+
+ID: SUPPORT_WORD_02_089
+JP: にもかかわらず、
+EN: Notwithstanding,
+RU: Несмотря на это,
+
+ID: SUPPORT_WORD_02_090
+JP: ひいては、
+EN: Which leads us to:
+RU: Вот что:
+
+ID: SUPPORT_WORD_02_091
+JP: ましてや、
+EN: And remember,
+RU: И помни,
+
+ID: SUPPORT_WORD_02_092
+JP: また、
+EN: Also,
+RU: Также,
+
+ID: SUPPORT_WORD_02_093
+JP: または、
+EN: Or, you could say
+RU: Или, ты можешь сказать
+
+ID: SUPPORT_WORD_02_094
+JP: むしろ、
+EN: Rather,
+RU: Скорее,
+
+ID: SUPPORT_WORD_02_095
+JP: もしくは、
+EN: Just remember,
+RU: Просто помни,
+
+ID: SUPPORT_WORD_02_096
+JP: よって、
+EN: Thus,
+RU: Таким образом,
+
+ID: SUPPORT_WORD_02_097
+JP: 一方では、
+EN: On the other hand,
+RU: С другой стороны,
+
+ID: SUPPORT_WORD_02_098
+JP: 逆に、
+EN: On the contrary,
+RU: Напротив,
+
+ID: SUPPORT_WORD_02_099
+JP: 具体的には、
+EN: Specifically,
+RU: В частности,
+
+ID: SUPPORT_WORD_02_100
+JP: 言い換えてみれば、
+EN: In other words,
+RU: Другими словами,
+
+ID: SUPPORT_WORD_02_101
+JP: 言ってみれば、
+EN: Actually,
+RU: На самом деле,
+
+ID: SUPPORT_WORD_02_102
+JP: 言い訳しないで、
+EN: Don't make excuses;
+RU: Не оправдывайся;
+
+ID: SUPPORT_WORD_02_103
+JP: 他方では、
+EN: That said,
+RU: Тем не менее,
+
+ID: SUPPORT_WORD_02_104
+JP: 特に、
+EN: In particular,
+RU: В частности,
+
+ID: SUPPORT_WORD_02_105
+JP: 反対に、
+EN: Conversely,
+RU: И наоборот,
+
+ID: SUPPORT_WORD_02_106
+JP: 要するに、
+EN: Basically,
+RU: В основном,
+
+ID: SUPPORT_WORD_02_107
+JP: 例えるなら、
+EN: To give an example,
+RU: Чтобы привести пример,
+
+ID: SUPPORT_WORD_02_108
+JP: と言って、からの……、
+EN: With that in mind,
+RU: Размышляя об этом,
+
+ID: SUPPORT_WORD_02_109
+JP: その心は、
+EN: The feeling is:
+RU: Такое чувство:
+
+ID: SUPPORT_WORD_02_110
+JP: いつだって、
+EN: One thing is certain:
+RU: Одно можно сказать наверняка:
+
+ID: SUPPORT_WORD_03_000
+JP: エミールの如く、風となれ！
+EN: become the wind, like Emil!
+RU: стань ветром, как Эмиль!
+
+ID: SUPPORT_WORD_03_001
+JP: 冷静にやりゃなんとかなるって。
+EN: it'll work out if you stay calm.
+RU: это сработает, если сохранять спокойствие.
+
+ID: SUPPORT_WORD_03_002
+JP: ２Ｂのようにワイルドになれ！
+EN: get wild, like 2B!
+RU: Покажи такую же силу, как у 2B!
+
+ID: SUPPORT_WORD_03_003
+JP: 大切なものの為に戦え！
+EN: fight for what's important to you!
+RU: борись за то, что важно для тебя!
+
+ID: SUPPORT_WORD_03_004
+JP: 叫んでもいいんだ！
+EN: scream if you need to!
+RU: кричи, если нужно!
+
+ID: SUPPORT_WORD_03_005
+JP: その苦しみが人を成長させるんだよ。
+EN: suffering makes people grow.
+RU: страдания делают человека сильнее.
+
+ID: SUPPORT_WORD_03_006
+JP: 僕も頑張る！
+EN: I'll give it all I've got!
+RU: я отдам всё, что у меня есть!
+
+ID: SUPPORT_WORD_03_007
+JP: 一緒に楽しみましょう！
+EN: let's enjoy this!
+RU: насладись этим!
+
+ID: SUPPORT_WORD_03_008
+JP: 君もがんばってください！
+EN: you should do your best, too!
+RU: ты тоже должен постараться изо всех сил.
+
+ID: SUPPORT_WORD_03_009
+JP: もう少し続けてみてはいかがでしょう？
+EN: how about trying to go a little farther?
+RU: как насчёт того, чтобы зайти немного дальше?
+
+ID: SUPPORT_WORD_03_010
+JP: 根性出せ！
+EN: show me what you're made of!
+RU: покажи мне, из чего ты сделан!
+
+ID: SUPPORT_WORD_03_011
+JP: ここでやめるな！
+EN: don't give up here!
+RU: не сдавайся здесь!
+
+ID: SUPPORT_WORD_03_012
+JP: タノシイネ！
+EN: it's fun!
+RU: это весело!
+
+ID: SUPPORT_WORD_03_013
+JP: ヨロコビヲ ワカチアオウ！
+EN: let's share in our joy!
+RU: давай поделимся нашей радостью!
+
+ID: SUPPORT_WORD_03_014
+JP: あきらめないで！
+EN: never surrender!
+RU: никогда не сдавайся!
+
+ID: SUPPORT_WORD_03_015
+JP: 続けろ！
+EN: keep going!
+RU: продолжай!
+
+ID: SUPPORT_WORD_03_016
+JP: 世界中のみんなが応援しています。
+EN: the whole world is rooting for you.
+RU: весь мир болеет за тебя.
+
+ID: SUPPORT_WORD_03_017
+JP: 必ず成功するでしょう！
+EN: we've got this!
+RU: мы сделаем это!
+
+ID: SUPPORT_WORD_03_018
+JP: 落ち着いてプレイすれば大丈夫。
+EN: you'll be fine if you stay calm.
+RU: всё будет хорошо, если сохранять спокойствие.
+
+ID: SUPPORT_WORD_03_019
+JP: 気楽に行って。
+EN: stay optimistic.
+RU: оставайся оптимистом.
+
+ID: SUPPORT_WORD_03_020
+JP: 本当の結末を見に行こうよ。
+EN: let's see how this really ends.
+RU: давай посмотрим, чем это закончится.
+
+ID: SUPPORT_WORD_03_021
+JP: 夜はこれからじゃない？
+EN: the night has just begun.
+RU: ночь только началась.
+
+ID: SUPPORT_WORD_03_022
+JP: 私は応援している。
+EN: I'm in your corner.
+RU: я на твоей стороне.
+
+ID: SUPPORT_WORD_03_023
+JP: 命を無駄にするな。
+EN: don't throw your life away.
+RU: не разбрасывайся своей жизнью.
+
+ID: SUPPORT_WORD_03_024
+JP: 私達がついている。
+EN: you've got us with you.
+RU: вы взяли нас с собой.
+
+ID: SUPPORT_WORD_03_025
+JP: あと少しだけがんばりましょう。
+EN: keep trying for just a biiiit longer!
+RU: попробуй еще немножечко!
+
+ID: SUPPORT_WORD_03_026
+JP: もっとやれるはずだ。
+EN: we should be able to get further.
+RU: мы должны зайти ещё дальше.
+
+ID: SUPPORT_WORD_03_027
+JP: 努力は報われる。
+EN: effort will be rewarded.
+RU: усилия будут вознаграждены.
+
+ID: SUPPORT_WORD_03_028
+JP: 君を助けたい。
+EN: I want to help you.
+RU: я хочу помочь тебе.
+
+ID: SUPPORT_WORD_03_029
+JP: 冷静になってみろ。
+EN: try to stay cool.
+RU: попытайся сохранять спокойствие.
+
+ID: SUPPORT_WORD_03_030
+JP: 力を抜いてみて。
+EN: try to relax.
+RU: постарайся успокоиться.
+
+ID: SUPPORT_WORD_03_031
+JP: その先に光がある。
+EN: there's light at the end of the tunnel.
+RU: есть свет в конце туннеля.
+
+ID: SUPPORT_WORD_03_032
+JP: 君だけじゃないよ。
+EN: you're not the only one.
+RU: я с тобой.
+
+ID: SUPPORT_WORD_03_033
+JP: 応援している。
+EN: I'm rooting for you.
+RU: я болею за тебя.
+
+ID: SUPPORT_WORD_03_034
+JP: 誘惑に負けないで！
+EN: don't give in to temptation!
+RU: не поддавайтесь искушению!
+
+ID: SUPPORT_WORD_03_035
+JP: 自力で頑張れる！
+EN: rely on your own strength!
+RU: полагайся на собственные силы!
+
+ID: SUPPORT_WORD_03_036
+JP: もう一度だ。
+EN: give it one more go.
+RU: дайте ему ещё один шанс.
+
+ID: SUPPORT_WORD_03_037
+JP: 一息入れてください。
+EN: take a breather.
+RU: сделай передышку.
+
+ID: SUPPORT_WORD_03_038
+JP: とりあえず続けろ。
+EN: keep going for now.
+RU: продолжай двигаться вперёд.
+
+ID: SUPPORT_WORD_03_039
+JP: 自信を持ってね。
+EN: believe in yourself.
+RU: верь в себя.
+
+ID: SUPPORT_WORD_03_040
+JP: まだまだ長いぞ。
+EN: there's still a long way to go.
+RU: ещё предстоит пройти долгий путь.
+
+ID: SUPPORT_WORD_03_041
+JP: 君がやらなくて誰がやるの！？
+EN: if you won't do it, who will?
+RU: если ты не сделаешь этого, тогда кто?
+
+ID: SUPPORT_WORD_03_042
+JP: 怖気づくな！
+EN: don't lose your nerve!
+RU: не трать свои нервы!
+
+ID: SUPPORT_WORD_03_043
+JP: がんばれ！
+EN: break a leg!
+RU: ни пуха ни пера!
+
+ID: SUPPORT_WORD_03_044
+JP: やりゃーできる！
+EN: you can do it if you try!
+RU: ты сможешь, если постараешься!
+
+ID: SUPPORT_WORD_03_045
+JP: 一気に進みきれ！
+EN: push through in one go!
+RU: покончи с этим одним махом!
+
+ID: SUPPORT_WORD_03_046
+JP: どってことないさ！
+EN: there's nothing to worry about!
+RU: не о чем беспокоиться!
+
+ID: SUPPORT_WORD_03_047
+JP: 全力前進です！
+EN: full steam ahead!
+RU: полный вперёд!
+
+ID: SUPPORT_WORD_03_048
+JP: 大丈夫。
+EN: it's all right.
+RU: всё хорошо.
+
+ID: SUPPORT_WORD_03_049
+JP: うまくいくよ！
+EN: everything will be fine!
+RU: всё будет хорошо!
+
+ID: SUPPORT_WORD_03_050
+JP: 少しずつ歩めばいい。
+EN: take it one step at a time.
+RU: делай всё постепенно.
+
+ID: SUPPORT_WORD_03_051
+JP: 休憩してもいい。
+EN: it's OK to take a break.
+RU: сделать перерыв — это нормально.
+
+ID: SUPPORT_WORD_03_052
+JP: 無理をするな。
+EN: don't push yourself.
+RU: не стоит себя загонять.
+
+ID: SUPPORT_WORD_03_053
+JP: ゆっくり思い出していこう！
+EN: take your time remembering.
+RU: постарайся всё запомнить.
+
+ID: SUPPORT_WORD_03_054
+JP: ヨロコビヲ、ワカチアオウ！
+EN: let us share in our joy!
+RU: давайте же поделимся нашей радостью!
+
+ID: SUPPORT_WORD_03_055
+JP: 落ち着こうか。
+EN: let's calm down.
+RU: давай успокоимся.
+
+ID: SUPPORT_WORD_03_056
+JP: もうひとふんばりだよ！
+EN: hang on just a bit longer!
+RU: продержитесь ещё чуть-чуть!
+
+ID: SUPPORT_WORD_03_057
+JP: まだいける。
+EN: I can keep going.
+RU: я могу продолжать.
+
+ID: SUPPORT_WORD_03_058
+JP: 足掻け！
+EN: never give up the struggle!
+RU: никогда не сдавайтесь!
+
+ID: SUPPORT_WORD_03_059
+JP: 次こそうまくやればいいです。
+EN: just do better next time.
+RU: в следующий раз сделай всё как следует.
+
+ID: SUPPORT_WORD_03_060
+JP: 他人のプレイに任せてしまおう。
+EN: let someone else play for you.
+RU: пусть кто-то другой играет за вас.
+
+ID: SUPPORT_WORD_03_061
+JP: 貴方に出来る訳がない。
+EN: there's no way you can do it.
+RU: вы не сможете этого сделать.
+
+ID: SUPPORT_WORD_03_062
+JP: 心が折れるだろう？
+EN: you'll reach the end of your rope.
+RU: вы обязательно достигните конца.
+
+ID: SUPPORT_WORD_03_063
+JP: キミは役立たずだ。
+EN: you're worthless.
+RU: ты бесполезен.
+
+ID: SUPPORT_WORD_03_064
+JP: 負け犬のまま終わってしまおう。
+EN: you lost. Let it go.
+RU: ты проиграл, забей.
+
+ID: SUPPORT_WORD_03_065
+JP: もうすでに終わってますよ。
+EN: it's already over.
+RU: всё уже позади.
+
+ID: SUPPORT_WORD_03_066
+JP: たかだかゲームだ。現実を見ろ。
+EN: it's just a game. Face reality already!
+RU: это всего лишь игра, посмотрите правде в лицо!
+
+ID: SUPPORT_WORD_03_067
+JP: 諦めて。
+EN: surrender.
+RU: сдайся.
+
+ID: SUPPORT_WORD_03_068
+JP: 死んでしまえ。
+EN: just forget it.
+RU: забудь об этом.
+
+ID: SUPPORT_WORD_03_069
+JP: 意味が無いんだよ。
+EN: it's meaningless.
+RU: это бессмысленно.
+
+ID: SUPPORT_WORD_03_070
+JP: 時間の無駄だよ。
+EN: you're wasting your time.
+RU: ты тратишь своё время.
+
+ID: SUPPORT_WORD_03_071
+JP: 帰ったほうが良いですよ？
+EN: why not head home?
+RU: почему бы не отправиться домой?
+
+ID: SUPPORT_WORD_03_072
+JP: 電源を切れ。
+EN: turn the power off.
+RU: выключай компьютер.
+
+ID: SUPPORT_WORD_03_073
+JP: 君は必要ない。
+EN: you're not needed.
+RU: ты не нужен.
+
+ID: SUPPORT_WORD_03_074
+JP: ゲームを投げ出そう。
+EN: give up the game.
+RU: откажись от игры.
+
+ID: SUPPORT_WORD_03_075
+JP: 消えろ。
+EN: disappear.
+RU: исчезни.
+
+ID: SUPPORT_WORD_03_076
+JP: 今すぐゲームのコントローラーを置けばいい。
+EN: you can just put down the controller.
+RU: просто отложи геймпад.
+
+ID: SUPPORT_WORD_03_077
+JP: オマエはクソッタレだ。
+EN: you're worthless.
+RU: ты бесполезен.
+
+ID: SUPPORT_WORD_03_078
+JP: もっと他に楽しいこと探しなよ？
+EN: go look for something else to enjoy.
+RU: попробуй насладиться чем-нибудь другим.
+
+ID: SUPPORT_WORD_03_079
+JP: こんなクダラナイ事をやりつづける意味はない。
+EN: it's stupid to continue this nonsense.
+RU: глупо продолжать эту чушь.
+
+ID: SUPPORT_WORD_03_080
+JP: もう止めてしまっていいよ。
+EN: why not just stop already?
+RU: почему бы уже не остановиться?
+
+ID: SUPPORT_WORD_03_081
+JP: NieR:Automataみたいなクソゲー捨ててしまえ！
+EN: this game is crap anyway.
+RU: в любом случае, эта игра — дерьмо.
+
+ID: SUPPORT_WORD_03_082
+JP: プラチナゲームズなんて嫌いだ！
+EN: I hate PlatinumGames!
+RU: я ненавижу PlatinumGames!
+
+ID: SUPPORT_WORD_03_083
+JP: オマエのような下手くそにプレイする意味はない。
+EN: just stop playing if you're that bad.
+RU: если ты криворукий, просто закрой игру.
+
+ID: SUPPORT_WORD_03_084
+JP: 君はゲームの中でも不必要な人間だ。
+EN: even in video games, you're useless.
+RU: даже в играх ты бесполезен.
+
+ID: SUPPORT_WORD_03_085
+JP: 現実世界に戻る時間だ。
+EN: it's time to return to the real world.
+RU: время вернуться в реальный мир.
+
+ID: SUPPORT_WORD_03_086
+JP: 嫌いじゃないだろう？
+EN: it's not like you hate it, right?
+RU: не похоже, что вам это не нравится, да?
+
+ID: SUPPORT_WORD_03_087
+JP: 孤独こそが人を強くする。
+EN: solitude makes people stronger.
+RU: одиночество делает людей сильнее.
+
+ID: SUPPORT_WORD_03_088
+JP: 遊びだからこそ、心を燃やせ！
+EN: it's a game. Go wild!
+RU: это игра. Развлекайся!
+
+ID: SUPPORT_WORD_03_089
+JP: 私もだ。
+EN: I feel the same.
+RU: я тоже это чувствую.
+
+ID: SUPPORT_WORD_03_090
+JP: 目を逸らし、背を向けるのか？
+EN: can you avert your eyes and walk away?
+RU: ты сможешь отвернуться и уйти?
+
+ID: SUPPORT_WORD_03_091
+JP: 諦めが肝心だ。
+EN: you need to know when to give up.
+RU: тебе нужно знать, когда сдаться.
+
+ID: SUPPORT_WORD_03_092
+JP: お腹が減った。
+EN: I'm starving.
+RU: я голоден.
+
+ID: SUPPORT_WORD_03_093
+JP: 犠牲になろう。
+EN: let's sacrifice ourselves.
+RU: давайте пожертвуем собой.
+
+ID: SUPPORT_WORD_03_094
+JP: 指がつりそうだ。
+EN: I feel a finger cramp coming on.
+RU: я чувствую, как судорога схватила за палец.
+
+ID: SUPPORT_WORD_03_095
+JP: お菓子でも食べよう。
+EN: let's have some candy.
+RU: пора перекусить вкусняшками.
+
+ID: SUPPORT_WORD_03_096
+JP: 孤独を生きましょう。
+EN: let's live in solitude.
+RU: давайте жить в уединении.
+
+ID: SUPPORT_WORD_03_097
+JP: 私は諦めた。
+EN: I've given up.
+RU: я сдался.
+
+ID: SUPPORT_WORD_03_098
+JP: 絶望せよ。
+EN: wallow in despair!
+RU: окунись в отчаяние!
+
+ID: SUPPORT_WORD_03_099
+JP: 人類に栄光あれ！
+EN: glory to mankind!
+RU: слава человечеству!
+
+ID: SUPPORT_WORD_03_100
+JP: 夜更かしはするなよ。
+EN: don't stay up too late.
+RU: не ложись спать слишком поздно.
+
+ID: SUPPORT_WORD_03_101
+JP: 掟は自由を知るためにある。
+EN: rules exist so we can know our freedoms.
+RU: правила существуют, чтобы мы могли познать нашу свободу.
+
+ID: SUPPORT_WORD_03_102
+JP: お前のことを見ているぞ。
+EN: I've got my eyes on you.
+RU: я слежу за тобой.
+
+ID: SUPPORT_WORD_03_103
+JP: ガンバレ！この※★○▲野郎！！
+EN: put your back into it, you $&*@#!
+RU: готовь свою задницу!
+
+ID: SUPPORT_WORD_03_104
+JP: オレの方が上手いぞ！
+EN: I'm better than you!
+RU: я лучше тебя!
+
+ID: SUPPORT_WORD_03_105
+JP: 生き残れ！
+EN: survive!
+RU: выживи!
+
+ID: SUPPORT_WORD_03_106
+JP: 絶望を喰らいながら生きろ！
+EN: feed on despair and survive!
+RU: вкуси отчаяние и выживи!
+
+ID: SUPPORT_WORD_03_107
+JP: さようなら。
+EN: goodbye.
+RU: прощай.
+

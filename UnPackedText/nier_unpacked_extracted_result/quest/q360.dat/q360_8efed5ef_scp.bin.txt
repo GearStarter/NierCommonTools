@@ -1,0 +1,268 @@
+-- Section 1
+
+ID: M5360_S0010_G0000_001_a9s
+JP: あのロボット……何か様子がおかしいな？
+EN: That machine... I think something's wrong with it.
+RU: Эта машина... Я думаю, с неё что-то не так.
+
+
+-- Section 2
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 3
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 4
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 5
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 6
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 7
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+
+-- Section 8
+
+ID: M5360_S0010_G0010_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+ID: M5360_S0010_G0020_001_a9s
+JP: オーイ、こんにちはー
+EN: Hellooo? Anybody home in there?
+RU: Приве-е-ет? Есть кто дома?
+
+ID: M5360_S0010_G0030_001_n02
+JP: …………
+EN: ......
+RU: ......
+
+ID: M5360_S0010_G0040_001_a9s
+JP: 聴こえてるよね？君、こんなところで何してるの？
+EN: Come on, I know you can hear me. What are you doing here?
+RU: Ну же, я знаю, ты слышишь меня. Что ты здесь делаешь?
+
+ID: M5360_S0010_G0050_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+ID: M5360_S0010_G0060_001_pod153
+JP: 回路に異常なし。意図的な無反応。いわゆる無視。
+EN: Analysis: Scans indicate no mechanical malfunctions in this unit. Therefore, it must be deliberately ignoring you.
+RU: Анализ: сканирование не выявило неисправностей у этой единицы. Более того, она сознательно игнорирует вас.
+
+ID: M5360_S0010_G0070_001_a9s
+JP: む……そっちがその気なら、こっちだって。
+EN: So it's gonna be like that, is it?
+RU: Так значит, да?
+
+
+-- Section 9
+
+ID: M5360_S0030_G0010_001_a9s
+JP: オーイ、こんにちはー！
+EN: Hey there, buddy. You listening?
+RU: Эй, дружище. Ты слышишь?
+
+ID: M5360_S0030_G0020_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+ID: M5360_S0030_G0030_001_a9s
+JP: やっぱり駄目か。じゃあ、ちょっとハッキングで失礼しますよっと。
+EN: That seems like a big fat no. Guess it won't mind if I hack my way inside...
+RU: Похоже на здоровенное "нет". Полагаю, ты не возражаешь, если я взломаю и исследую тебя изнутри...
+
+
+-- Section 10
+
+ID: M5360_S0040_G0010_001_a9s
+JP: こんにちは。
+EN: Hi there.
+RU: Привет.
+
+ID: M5360_S0040_G0020_001_n02
+JP: ……
+EN: ......
+RU: ......
+
+ID: M5360_S0040_G0030_001_a9s
+JP: ……少し、覗かせてもらうよ。
+EN: All right, that's enough small talk. Time to root around and see what's what.
+RU: Так, хватит с меня болтовни. Пора проникнуть внутрь и посмотреть, что к чему.
+
+
+-- Section 11
+
+ID: M5360_S0020_G0030_001_a9s
+JP: あの音声は、機械生命体の……思考？
+EN: That voice couldn't have been that machine's...thoughts, right?
+RU: Подобные мысли вряд ли бы выразила машина... верно?
+
+ID: M5360_S0020_G0040_001_a9s
+JP: 自分の存在意義について悩んでる？
+EN: Was it seriously trying to figure out the meaning of existence?
+RU: Она на полном серьёзе пыталась понять смысл существования?
+
+ID: M5360_S0020_G0050_001_pod153
+JP: 否定：機械生命体は、そのような思考を持たない。
+EN: Negative: Machine lifeforms do not possess such thought routines.
+RU: Отрицательно: машины не обладают подобным мышлением.
+
+ID: M5360_S0020_G0060_001_a9s
+JP: 確かに……
+EN: Well, yeah, but...
+RU: Да, но всё же...
+
+
+-- Section 12
+
+ID: M5360_S0030_G0080_001_a9s
+JP: 何だ……これ！？
+EN: Okay, what the hell was that?
+RU: Так, и что это была за чертовщина?
+
+ID: M5360_S0030_G0090_001_a9s
+JP: 自分に価値が見出せなくて……苦しい？
+EN: It's in pain because it can't find value in its own existence?
+RU: Он опечален тем, что не может найти смысла в своём существовании?
+
+ID: M5360_S0030_G0100_001_a9s
+JP: 自分はなぜここにいる？なんで存在する？僕は？僕は何の為に……
+EN: It wants to know why it's here? Why it exists?\n...And what about me? Why am I here? Why do I—
+RU: Он хочет знать, почему он здесь оказался? Зачем он существует?\n...А что насчёт меня? Зачем я здесь? Почему я...
+
+ID: M5360_S0030_G0110_001_pod153
+JP: 警告：ハッキングにより電波の同調が見られる。
+EN: Alert: Hacking has resulted in an alignment of synaptic transmissions.
+RU: Внимание: взлом привёл к синаптическому наложению.
+
+ID: M5360_S0030_G0120_001_a9s
+JP: あ……ああ、ごめん。ありがとう。
+EN: ...Oh. R-Right. Sorry, I just...
+RU: ...Ох. Т-точно. Прости, я просто...
+
+ID: M5360_S0030_G0130_001_a9s
+JP: 気をつけないと……
+EN: I'd better be more careful next time.
+RU: В следующий раз я буду более осторожен.
+
+
+-- Section 13
+
+ID: M5360_S0040_G0080_001_a9s
+JP: うっ……
+EN: ...Oof.
+RU: ...Уф.
+
+ID: M5360_S0040_G0090_001_pod153
+JP: バイタル値に異常。心拍数に上昇傾向が見られる。
+EN: Alert: Abnormalities detected in vital signs.\nPulse rate nearing dangerous levels.
+RU: Внимание: в ваших показателях обнаружены отклонения.\nПульс приблизился к опасной отметке.
+
+ID: M5360_S0040_G0100_001_a9s
+JP: 大丈夫……
+EN: I'm all right...
+RU: Я в порядке...
+
+
+-- Section 14
+
+ID: M5360_S0040_G0110_001_n02
+JP: 私達は戦う為に生み出された！
+EN: We were created to fight!
+RU: Мы были созданы для сражений!
+
+ID: M5360_S0040_G0120_001_n02
+JP: 他者を排除しあらゆる存在の頂点になる為に！
+EN: To eliminate all others and reside at the pinnacle of existence!
+RU: Чтобы уничтожить всех остальных и быть на вершине эволюции!
+
+ID: M5360_S0040_G0130_001_n02
+JP: だが闘争は永遠に続く！
+EN: Yet the battle rages eternal!
+RU: Но эта битва будет идти вечно!
+
+ID: M5360_S0040_G0140_001_n02
+JP: 破壊と再生の輪廻を繰り返すだけの呪われた存在になってしまった！
+EN: Our cursed cycle of destruction and rebirth continues without end!
+RU: Наш проклятый цикл уничтожения и возрождения будет повторяться без конца!
+
+ID: M5360_S0040_G0150_001_n02
+JP: この世界に私達は愛されていない！
+EN: None of us in this world are loved!
+RU: Никто из нас не сможет быть любимым в этом мире!
+
+ID: M5360_S0040_G0160_001_n02
+JP: この世界に私達は不要だ！
+EN: This world has no need for us!
+RU: Этот мир не нуждается в нас!
+
+ID: M5360_S0040_G0170_001_n02
+JP: だから……
+EN: There is only one solution...
+RU: Есть только один выход...
+
+ID: M5360_S0040_G0180_001_a9s
+JP: あ！
+EN: Ah!
+RU: Ах!
+
+ID: M5360_S0040_G0190_001_a9s
+JP: 機械生命体が、自死を選ぶなんて……
+EN: I can't believe that thing decided to end itself...
+RU: Поверить не могу, что он решил покончить с собой...
+
+
+-- Section 15
+
+ID: M5360_S0020_G0070_001_a9s
+JP: 一体、何だったんだ……
+EN: What was it going on about then?
+RU: Тогда что это было?
+
+
+-- Section 16
+
+ID: M5360_S0040_G0200_001_a9s
+JP: あの機械生命体が落ちた場所……
+EN: This is where that machine fell...
+RU: Это место падения машины...
+
+

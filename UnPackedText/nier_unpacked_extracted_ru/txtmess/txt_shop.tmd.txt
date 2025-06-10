@@ -1,0 +1,70 @@
+ID: SHOP_DIALOG_01
+JP: 
+EN: Приобрести за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_02
+JP: 
+EN: Продать за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_03
+JP: 
+EN: Создать чип за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_04
+JP: 
+EN: Улучшить за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_05
+JP: 
+EN: Экипировать купленное оружие?
+RU: 
+
+ID: SHOP_DIALOG_06
+JP: 
+EN: Этот предмет нельзя еще более усилить в этом магазине.
+RU: 
+
+ID: SHOP_DIALOG_07
+JP: 
+EN: Это оружие не может быть улучшено.
+RU: 
+
+ID: SHOP_DIALOG_08
+JP: 
+EN: Выбранный чип экипирован в комплект чипов. Если вы объедините его, он будет извлечён из комплекта чипов.\nЖелаете объединить этот чип?
+RU: 
+
+ID: SHOP_DIALOG_09
+JP: 
+EN: Этот чип сейчас экипирован. Продать за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_10
+JP: 
+EN: Вы не можете объединять чипы, если у вас нет чипов с одинаковыми бонусами и уровнем.
+RU: 
+
+ID: SHOP_DIALOG_11
+JP: 
+EN: Этот бот не может быть улучшен.
+RU: 
+
+ID: SHOP_DIALOG_12
+JP: 
+EN: Продать за <TOTAL_PRICE> G?
+RU: 
+
+ID: SHOP_DIALOG_13
+JP: 
+EN: У вас недостаточно денег.
+RU: 
+
+ID: SHOP_DIALOG_14
+JP: 
+EN: У вас недостаточно материалов.
+RU: 
+

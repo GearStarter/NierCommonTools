@@ -1,0 +1,103 @@
+-- Section 1
+
+ID: M3060_S0010_S0000_001_pod153
+JP: ボディユニットチェック完了。
+EN: Physical check complete.
+RU: Физическая проверка завершена.
+
+ID: M3060_S0010_S0010_001_pod153
+JP: メモリーユニットチェック完了。
+EN: Memory check complete.
+RU: Проверка памяти завершена.
+
+ID: M3060_S0010_S0020_001_pod153
+JP: メンテナンスモード終了。
+EN: Maintenance mode complete.
+RU: Техобслуживание завершено.
+
+ID: M3060_S0010_S0030_001_pod153
+JP: ヨルハ機体９Ｓ。起動。
+EN: YoRHa unit 9S... Activate.
+RU: Единица YoRHa 9S... Запуск.
+
+ID: M3060_S0010_S0040_001_a9s
+JP: う……
+EN: Ooof...
+RU: Ух...
+
+ID: M3060_S0010_S0050_001_pod153
+JP: おはようございます。９Ｓ。
+EN: Good morning, 9S.
+RU: Доброе утро, 9S.
+
+ID: M3060_S0020_G0000_001_a9s
+JP: 僕は……
+EN: Am I...?
+RU: Я?..
+
+ID: M3060_S0020_G0010_001_pod153
+JP: 敵大型ユニット内部での戦闘時にユニット構造物が崩落。
+EN: Analysis: The enemy structural unit collapsed during battle.
+RU: Анализ: вражеская структурная единица разрушена во время боя.
+
+ID: M3060_S0020_G0020_001_pod153
+JP: 落下したヨルハ機体９Ｓはダメージを受けた為、\n緊急サスペンドモードに移行。
+EN: Unit 9S suffered damage from the fall and was placed in emergency suspend mode.
+RU: Единица 9S была сильно повреждена после падения и помещена в режим экстренного энергосбережения.
+
+ID: M3060_S0020_G0030_001_pod153
+JP: 墜落地点付近は危険と判断し、現地点まで搬送。
+EN: Fall location was deemed too dangerous, thus said unit was transported to current location.
+RU: Место падения было слишком опасным, в связи с этим единица была перемещена.
+
+ID: M3060_S0020_G0040_001_pod153
+JP: 現段階で、全てのチェック及び再起動を完了。
+EN: All system checks and reactivation complete.
+RU: Все системные проверки и перезапуск успешно завершены.
+
+ID: M3060_S0020_G0050_001_a9s
+JP: オペレーターさん……
+EN: Operator...
+RU: Оператор...
+
+ID: M3060_S0020_G0060_001_pod153
+JP: 遭遇したモデル２１Oは死亡。
+EN: Operator model 21O is deceased.
+RU: Оператор 21O была уничтожена.
+
+ID: M3060_S0020_G0070_001_pod153
+JP: ブラックボックス信号も停止。
+EN: Black box signal not found.
+RU: Сигнал чёрного ящика не обнаружен.
+
+ID: M3060_S0020_G0080_001_a9s
+JP: ……そう。
+EN: ...Oh.
+RU: ...Ох.
+
+ID: M3060_S0020_G0090_001_a9s
+JP: 現状報告。
+EN: Situation report.
+RU: Отчёт о ситуации.
+
+ID: M3060_S0020_G0100_001_pod153
+JP: 『塔』にアクセスする為の認証キーを入手。
+EN: Tower access authentication key acquired.
+RU: Получен ключ авторизации от Башни.
+
+ID: M3060_S0020_G0110_001_pod153
+JP: 規定数のアクセス認証キーの入手を確認。
+EN: The required number of authentication keys have been acquired.
+RU: Собрано необходимое число ключей авторизации.
+
+ID: M3060_S0020_G0120_001_pod153
+JP: 『塔』の調査が可能な状態。
+EN: The Tower is now open for investigation.
+RU: Теперь Башня доступна для исследования.
+
+ID: M3060_S0020_G0130_001_a9s
+JP: わかった。
+EN: Good.
+RU: Хорошо.
+
+

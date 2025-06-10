@@ -1,0 +1,1659 @@
+{
+  "path": "Manual",
+  "contents": [
+    {
+      "name": "Install_Rus",
+      "type": "directory",
+      "contents": [
+        {
+          "name": "unins000.dat",
+          "type": "file"
+        },
+        {
+          "name": "unins000.exe",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "data",
+      "type": "directory",
+      "contents": [
+        {
+          "name": "core",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "corehap.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "novel",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "M1030_S0310_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M1070_S0020_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M1070_S0040_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M1070_S0060_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M1070_S0080_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M1070_S0100_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M3060_S0005_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M3060_S0035_GM_N_Sample_0912_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M3060_S0035_GM_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M3060_S0910_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M5095_S0020_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M5095_S0025_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M5095_S0100_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M5095_S0200_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M5095_S0300_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M6010_S0050_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M6010_S0150_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M6010_S0250_N_eng.txt",
+              "type": "file"
+            },
+            {
+              "name": "M9000_S0500_N_eng.txt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ph1",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "p100.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ph2",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "p200.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ph3",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "p300.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ph4",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "p400.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "phf",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "pf10.dat",
+              "type": "file"
+            },
+            {
+              "name": "pf30.dat",
+              "type": "file"
+            },
+            {
+              "name": "pf31.dat",
+              "type": "file"
+            },
+            {
+              "name": "pf60.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "quest",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "q020.dat",
+              "type": "file"
+            },
+            {
+              "name": "q031.dat",
+              "type": "file"
+            },
+            {
+              "name": "q032.dat",
+              "type": "file"
+            },
+            {
+              "name": "q040.dat",
+              "type": "file"
+            },
+            {
+              "name": "q070.dat",
+              "type": "file"
+            },
+            {
+              "name": "q071.dat",
+              "type": "file"
+            },
+            {
+              "name": "q080.dat",
+              "type": "file"
+            },
+            {
+              "name": "q090.dat",
+              "type": "file"
+            },
+            {
+              "name": "q091.dat",
+              "type": "file"
+            },
+            {
+              "name": "q092.dat",
+              "type": "file"
+            },
+            {
+              "name": "q095.dat",
+              "type": "file"
+            },
+            {
+              "name": "q100.dat",
+              "type": "file"
+            },
+            {
+              "name": "q101.dat",
+              "type": "file"
+            },
+            {
+              "name": "q102.dat",
+              "type": "file"
+            },
+            {
+              "name": "q103.dat",
+              "type": "file"
+            },
+            {
+              "name": "q104.dat",
+              "type": "file"
+            },
+            {
+              "name": "q110.dat",
+              "type": "file"
+            },
+            {
+              "name": "q120.dat",
+              "type": "file"
+            },
+            {
+              "name": "q121.dat",
+              "type": "file"
+            },
+            {
+              "name": "q122.dat",
+              "type": "file"
+            },
+            {
+              "name": "q123.dat",
+              "type": "file"
+            },
+            {
+              "name": "q130.dat",
+              "type": "file"
+            },
+            {
+              "name": "q140.dat",
+              "type": "file"
+            },
+            {
+              "name": "q150.dat",
+              "type": "file"
+            },
+            {
+              "name": "q160.dat",
+              "type": "file"
+            },
+            {
+              "name": "q162.dat",
+              "type": "file"
+            },
+            {
+              "name": "q170.dat",
+              "type": "file"
+            },
+            {
+              "name": "q171.dat",
+              "type": "file"
+            },
+            {
+              "name": "q180.dat",
+              "type": "file"
+            },
+            {
+              "name": "q181.dat",
+              "type": "file"
+            },
+            {
+              "name": "q210.dat",
+              "type": "file"
+            },
+            {
+              "name": "q220.dat",
+              "type": "file"
+            },
+            {
+              "name": "q221.dat",
+              "type": "file"
+            },
+            {
+              "name": "q222.dat",
+              "type": "file"
+            },
+            {
+              "name": "q290.dat",
+              "type": "file"
+            },
+            {
+              "name": "q300.dat",
+              "type": "file"
+            },
+            {
+              "name": "q330.dat",
+              "type": "file"
+            },
+            {
+              "name": "q340.dat",
+              "type": "file"
+            },
+            {
+              "name": "q360.dat",
+              "type": "file"
+            },
+            {
+              "name": "q400.dat",
+              "type": "file"
+            },
+            {
+              "name": "q401.dat",
+              "type": "file"
+            },
+            {
+              "name": "q403.dat",
+              "type": "file"
+            },
+            {
+              "name": "q410.dat",
+              "type": "file"
+            },
+            {
+              "name": "q440.dat",
+              "type": "file"
+            },
+            {
+              "name": "q500.dat",
+              "type": "file"
+            },
+            {
+              "name": "q520.dat",
+              "type": "file"
+            },
+            {
+              "name": "q532.dat",
+              "type": "file"
+            },
+            {
+              "name": "q540.dat",
+              "type": "file"
+            },
+            {
+              "name": "q550.dat",
+              "type": "file"
+            },
+            {
+              "name": "q560.dat",
+              "type": "file"
+            },
+            {
+              "name": "q561.dat",
+              "type": "file"
+            },
+            {
+              "name": "q562.dat",
+              "type": "file"
+            },
+            {
+              "name": "q590.dat",
+              "type": "file"
+            },
+            {
+              "name": "q640.dat",
+              "type": "file"
+            },
+            {
+              "name": "q650.dat",
+              "type": "file"
+            },
+            {
+              "name": "q651.dat",
+              "type": "file"
+            },
+            {
+              "name": "q652.dat",
+              "type": "file"
+            },
+            {
+              "name": "q660.dat",
+              "type": "file"
+            },
+            {
+              "name": "q680.dat",
+              "type": "file"
+            },
+            {
+              "name": "q720.dat",
+              "type": "file"
+            },
+            {
+              "name": "q770.dat",
+              "type": "file"
+            },
+            {
+              "name": "q800.dat",
+              "type": "file"
+            },
+            {
+              "name": "q801.dat",
+              "type": "file"
+            },
+            {
+              "name": "q900.dat",
+              "type": "file"
+            },
+            {
+              "name": "q910.dat",
+              "type": "file"
+            },
+            {
+              "name": "q920.dat",
+              "type": "file"
+            },
+            {
+              "name": "qab2.dat",
+              "type": "file"
+            },
+            {
+              "name": "qab3.dat",
+              "type": "file"
+            },
+            {
+              "name": "qab5.dat",
+              "type": "file"
+            },
+            {
+              "name": "qab6.dat",
+              "type": "file"
+            },
+            {
+              "name": "qaba.dat",
+              "type": "file"
+            },
+            {
+              "name": "qabb.dat",
+              "type": "file"
+            },
+            {
+              "name": "qabd.dat",
+              "type": "file"
+            },
+            {
+              "name": "qac8.dat",
+              "type": "file"
+            },
+            {
+              "name": "qad0.dat",
+              "type": "file"
+            },
+            {
+              "name": "qad1.dat",
+              "type": "file"
+            },
+            {
+              "name": "qad2.dat",
+              "type": "file"
+            },
+            {
+              "name": "qad6.dat",
+              "type": "file"
+            },
+            {
+              "name": "qaeb.dat",
+              "type": "file"
+            },
+            {
+              "name": "qaef.dat",
+              "type": "file"
+            },
+            {
+              "name": "qaf4.dat",
+              "type": "file"
+            },
+            {
+              "name": "qb20.dat",
+              "type": "file"
+            },
+            {
+              "name": "qb40.dat",
+              "type": "file"
+            },
+            {
+              "name": "qc10.dat",
+              "type": "file"
+            },
+            {
+              "name": "qc11.dat",
+              "type": "file"
+            },
+            {
+              "name": "qc12.dat",
+              "type": "file"
+            },
+            {
+              "name": "qc30.dat",
+              "type": "file"
+            },
+            {
+              "name": "qc50.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "st1",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "r100.dat",
+              "type": "file"
+            },
+            {
+              "name": "r110.dat",
+              "type": "file"
+            },
+            {
+              "name": "r120.dat",
+              "type": "file"
+            },
+            {
+              "name": "r130.dat",
+              "type": "file"
+            },
+            {
+              "name": "r140.dat",
+              "type": "file"
+            },
+            {
+              "name": "r150.dat",
+              "type": "file"
+            },
+            {
+              "name": "r160.dat",
+              "type": "file"
+            },
+            {
+              "name": "r170.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "st2",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "r200.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "st5",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "r530.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "subtitle",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "subtitle0010_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0011_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0030_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0031_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0040_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0050_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0055_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0060_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0080_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0081_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0086_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0090_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0091_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0092_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0110_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0111_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0120_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0130_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0140_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0160_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0170_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0190_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0191_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0225_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0226_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0230_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0240_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0241_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0250_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0251_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0260_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0262_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0270_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0280_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0300_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0301_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0310_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0311_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0320_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0321_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0322_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0323_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0325_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0326_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0330_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0340_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0341_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0350_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0351_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0352_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0360_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0370_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0390_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0400_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0410_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0420_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0440_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0441_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0460_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0461_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0470_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0471_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0475_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0480_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0482_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0483_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0485_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0490_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0491_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0500_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0502_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0520_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0521_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0525_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0526_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0530_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0531_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0540_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0550_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0552_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0570_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0571_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0590_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0600_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0610_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0612_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0630_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0631_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0640_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0642_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0650_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0651_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0655_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0656_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0660_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0661_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0670_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0671_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0680_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0682_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0690_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0692_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0693_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0694_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0700_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0702_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0720_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0722_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0730_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0760_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0761_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0770_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0771_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0780_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0781_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0790_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0791_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0792_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0800_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0810_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0811_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0820_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0830_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0835_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0836_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0850_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0855_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0860_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0861_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0870_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0871_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0875_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0880_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0900_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0901_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0910_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0920_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0921_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0926_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0930_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0931_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0935_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0936_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0940_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0950_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0951_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0960_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0961_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0970_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle0990_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1000_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1001_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1010_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1030_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1040_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1041_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1050_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1051_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1060_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1080_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1090_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1091_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1100_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1120_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1121_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1125_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1150_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1160_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1180_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1181_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1190_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1191_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1210_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1211_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1220_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1221_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1230_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1232_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1233_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1234_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1235_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1240_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1241_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1250_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1260_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1270_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1280_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1290_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1300_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1310_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1320_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1400_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitle1402_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb060_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb191_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb251_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb301_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb311_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb321_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb341_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb351_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb441_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb461_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb471_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb651_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb656_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb661_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "subtitleb671_us.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "txtmess",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "txt_chapter_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_core_add_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_core_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_credit_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_dlc1_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_dlc2_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_dlc3_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_hud_add_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_hud_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_pause_add_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_pause_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_shop_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "txt_support_us.dat",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "ui",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "ui_chapter_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_chapter_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_2_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_2_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_pc_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_pc_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_core_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_credit_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_credit_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_dbg_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_dbg_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc1_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc1_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc2_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc2_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc3_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_dlc3_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_ending_dlc_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_ending_dlc_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_ending_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_ending_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_event_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_event_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_hud_hacking_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_hud_hacking_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_hud_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_hud_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_loading.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_loading.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_option_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_option_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_pause_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_pause_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_shop_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_shop_us.dtt",
+              "type": "file"
+            },
+            {
+              "name": "ui_title_us.dat",
+              "type": "file"
+            },
+            {
+              "name": "ui_title_us.dtt",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "wd1",
+          "type": "directory",
+          "contents": [
+            {
+              "name": "g11516.dat",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
