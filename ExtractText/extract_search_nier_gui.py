@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                             QHBoxLayout, QLineEdit, QPushButton, QFileDialog, 
                             QTextEdit, QLabel)
@@ -50,27 +51,33 @@ class SearchWindow(QMainWindow):
             self.folder_label.setText(f"Folder: {folder}")
 
     def search_phrase(self, phrase):
-        """Searches for a phrase in text files, ignoring case and punctuation."""
+        """Searches for a phrase in JSON files, ignoring case and punctuation, and returns full subtitle blocks."""
         found = False
         results = []
-        # Create translation table to remove punctuation
         translator = str.maketrans("", "", string.punctuation)
-        
+        clean_phrase = phrase.lower().translate(translator)
+
         for root, _, files in os.walk(self.folder_path):
             for file in files:
-                if file.endswith('.txt'):
+                if file.endswith('.json'):
                     file_path = os.path.join(root, file)
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
-                            for line_number, line in enumerate(f, 1):
-                                # Remove punctuation from both phrase and line for comparison
-                                clean_phrase = phrase.lower().translate(translator)
-                                clean_line = line.lower().translate(translator)
-                                if clean_phrase in clean_line:
-                                    if not found:
-                                        found = True
-                                    result = f"File: {file_path}\nLine {line_number}: {line.strip()}\n{'-' * 50}\n"
-                                    results.append(result)
+                            subtitles = json.load(f)
+                            for idx, subtitle in enumerate(subtitles):
+                                for key in ['id', 'jp', 'en', 'ru']:
+                                    value = subtitle.get(key, "")
+                                    clean_value = value.lower().translate(translator)
+                                    if clean_phrase in clean_value:
+                                        if not found:
+                                            found = True
+                                        result = f"File: {file_path}\n"
+                                        result += f"ID: {subtitle.get('id', '')}\n"
+                                        result += f"JP: {subtitle.get('jp', '')}\n"
+                                        result += f"EN: {subtitle.get('en', '')}\n"
+                                        result += f"RU: {subtitle.get('ru', '')}\n"
+                                        result += f"{'-' * 50}\n"
+                                        results.append(result)
                     except Exception as e:
                         results.append(f"Error reading {file_path}: {str(e)}\n")
         
@@ -89,7 +96,6 @@ class SearchWindow(QMainWindow):
             return
 
         self.results_text.clear()
-        # Clean phrase from punctuation before search
         translator = str.maketrans("", "", string.punctuation)
         clean_phrase = phrase.lower().translate(translator)
         if not clean_phrase:
