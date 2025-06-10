@@ -51,7 +51,7 @@ class SearchWindow(QMainWindow):
             self.folder_label.setText(f"Folder: {folder}")
 
     def search_phrase(self, phrase):
-        """Searches for a phrase in JSON files, ignoring case and punctuation, and returns full subtitle blocks."""
+        """Searches for a phrase in JSON files, ignoring case and punctuation, and returns full JSON elements."""
         found = False
         results = []
         translator = str.maketrans("", "", string.punctuation)
@@ -63,21 +63,21 @@ class SearchWindow(QMainWindow):
                     file_path = os.path.join(root, file)
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
-                            subtitles = json.load(f)
-                            for idx, subtitle in enumerate(subtitles):
-                                for key in ['id', 'jp', 'en', 'ru']:
-                                    value = subtitle.get(key, "")
-                                    clean_value = value.lower().translate(translator)
-                                    if clean_phrase in clean_value:
-                                        if not found:
-                                            found = True
-                                        result = f"File: {file_path}\n"
-                                        result += f"ID: {subtitle.get('id', '')}\n"
-                                        result += f"JP: {subtitle.get('jp', '')}\n"
-                                        result += f"EN: {subtitle.get('en', '')}\n"
-                                        result += f"RU: {subtitle.get('ru', '')}\n"
-                                        result += f"{'-' * 50}\n"
-                                        results.append(result)
+                            data = json.load(f)
+                            if not isinstance(data, list):
+                                continue  # Skip if not a list of objects
+                            for idx, item in enumerate(data):
+                                for key, value in item.items():
+                                    if isinstance(value, str):
+                                        clean_value = value.lower().translate(translator)
+                                        if clean_value and clean_phrase in clean_value:
+                                            if not found:
+                                                found = True
+                                            result = f"File: {file_path}\n"
+                                            for k, v in item.items():
+                                                result += f"{k}: {v}\n"
+                                            result += f"{'-' * 50}\n"
+                                            results.append(result)
                     except Exception as e:
                         results.append(f"Error reading {file_path}: {str(e)}\n")
         
