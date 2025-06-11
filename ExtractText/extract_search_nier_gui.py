@@ -33,8 +33,9 @@ class EditValuesWindow(QDialog):
         self.file_blocks = {}
         row = 0
         for file_path, index, item, modified_item in edit_data:
-            # Путь файла как QLineEdit с ReadOnly
-            file_edit = QLineEdit(f"File: {file_path}")
+            # Путь файла как QLineEdit с ReadOnly, с унифицированными слэшами
+            unified_path = file_path.replace('\\', '/')
+            file_edit = QLineEdit(f"File: {unified_path}")
             file_edit.setReadOnly(True)
             self.content_layout.addWidget(file_edit, row, 0, 1, 1)
             row += 1
@@ -244,7 +245,7 @@ class SearchWindow(QMainWindow):
         for root, _, files in os.walk(self.folder_path):
             for file in files:
                 if file.endswith('.json'):
-                    file_path = os.path.join(root, file)
+                    file_path = os.path.join(root, file).replace('\\', '/')
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
                             data = json.load(f)
