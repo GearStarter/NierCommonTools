@@ -3,132 +3,154 @@
         "id": "M0010_S0005_S0070_101_op60",
         "jp": "こちら司令部。ヨルハ部隊応答してください。",
         "en": "This is Command. YoRHa squadron, come in.",
-        "ru": "На связи Штаб. Эскадрилья YoRHa, приём."
+        "ru": "На связи Штаб. Эскадрилья YoRHa, приём.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/102.wav"
     },
     {
         "id": "M0010_S0005_S0080_101_a2b",
         "jp": "こちら２Ｂ。全機無事に成層圏を突破。",
         "en": "2B here. All units have penetrated the stratosphere.",
-        "ru": "2B на связи. Все успешно вошли в стратосферу."
+        "ru": "2B на связи. Все успешно вошли в стратосферу.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/13.wav"
     },
     {
         "id": "M0010_S0005_S0090_101_a2b",
         "jp": "自動航行システムに問題なし。",
         "en": "Autopilot systems green across the board.",
-        "ru": "Автопилот функционирует стабильно."
+        "ru": "Автопилот функционирует стабильно.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/14.wav"
     },
     {
         "id": "M0010_S0005_S0100_101_op60",
         "jp": "こちらオペレーター６Ｏ。全機反応確認しました。",
         "en": "This is Operator 6O. All units confirmed.",
-        "ru": "Оператор 6O на связи. Наблюдаю все единицы."
+        "ru": "Оператор 6O на связи. Наблюдаю все единицы.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/103.wav"
     },
     {
         "id": "M0010_S0005_S0110_101_a2b",
         "jp": "現在、対目標５０ｋｍ地点を通過。",
         "en": "We've passed the 50-kilometer threshold and are proceeding toward the target.",
-        "ru": "Мы достигли 50-километрового рубежа, продвигаемся к цели."
+        "ru": "Мы достигли 50-километрового рубежа, продвигаемся к цели.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/15.wav"
     },
     {
         "id": "M0010_S0005_S0120_101_op60",
         "jp": "敵防空圏内に突入後、マニュアル攻撃形態に移行し、",
         "en": "Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...",
-        "ru": "Принято. Достигнув радиуса поражения ПВО противника, примите боевой порядок..."
+        "ru": "Принято. Достигнув радиуса поражения ПВО противника, примите боевой порядок...",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/104.wav"
     },
     {
         "id": "M0010_S0005_S0130_101_op60",
         "jp": "目標の大型兵器の破壊と情報の収集にあたってください。",
         "en": "then destroy the Goliath-class unit by any means necessary and gather what data you can.",
-        "ru": "затем любым способом уничтожьте противника класса Голиаф и соберите разведанные."
+        "ru": "затем любым способом уничтожьте противника класса Голиаф и соберите разведанные.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/105.wav"
     },
     {
         "id": "M0010_S0005_S0140_101_a2b",
         "jp": "了解……",
         "en": "Understood.",
-        "ru": "Принято."
+        "ru": "Принято.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/16.wav"
     },
     {
         "id": "M0010_S0010_G0000_101_a2b",
         "jp": "１２Ｈ、ロスト。",
         "en": "12H down.",
-        "ru": "12H сбита."
+        "ru": "12H сбита.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/17.wav"
     },
     {
         "id": "M0010_S0010_G0010_101_a2b",
         "jp": "全機マニュアルモード起動。目視で回避。",
         "en": "All units, activate manual mode and rely on visuals to evade.",
-        "ru": "Всем перейти на ручное управление, избегайте вражеских атак."
+        "ru": "Всем перейти на ручное управление, избегайте вражеских атак.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/18.wav"
     },
     {
         "id": "M0010_S0010_G0020_101_pod042",
         "jp": "既に起動。移動操作可能。",
         "en": "Already engaged. Free movement unlocked.",
-        "ru": "Выполнено. Управление разблокировано."
+        "ru": "Выполнено. Управление разблокировано.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/110.wav"
     },
     {
         "id": "M0010_S0010_G0030_101_a1d",
         "jp": "長距離レーザー発射点を確認。",
         "en": "Origin point of long-range lasers confirmed.",
-        "ru": "Местоположение дальнобойных лазеров установлено."
+        "ru": "Местоположение дальнобойных лазеров установлено.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/2.wav"
     },
     {
         "id": "M0010_S0010_G0050_101_a1d",
         "jp": "１１Ｂ、ロスト。",
         "en": "11B down.",
-        "ru": "11B сбита."
+        "ru": "11B сбита.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/3.wav"
     },
     {
         "id": "M0010_S0010_G0060_101_a1d",
         "jp": "装備Ho229のキャンセラー効果ナシ",
         "en": "Our Ho229 cancellers are ineffective.",
-        "ru": "Барьеры наших Ho229 бесполезны."
+        "ru": "Барьеры наших Ho229 бесполезны.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/4.wav"
     },
     {
         "id": "M0010_S0010_G0070_101_pod042",
         "jp": "前方に敵機確認。",
         "en": "Alert: Enemy units sighted ahead.",
-        "ru": "Внимание: впереди обнаружен противник."
+        "ru": "Внимание: впереди обнаружен противник.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/111.wav"
     },
     {
         "id": "M0010_S0005_S0000_101_a2b",
         "jp": "全ての存在は滅びるようにデザインされている。",
         "en": "Everything that lives is designed to end.",
-        "ru": "Всему живому предначертан конец."
+        "ru": "Всему живому предначертан конец.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/6.wav"
     },
     {
         "id": "M0010_S0005_S0010_101_a2b",
         "jp": "生と死を繰り返す螺旋に……",
         "en": "We are perpetually trapped...",
-        "ru": "Мы навечно заперты..."
+        "ru": "Мы навечно заперты...",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/7.wav"
     },
     {
         "id": "M0010_S0005_S0020_101_a2b",
         "jp": "私達は囚われ続けている。",
         "en": "in a never-ending spiral of life and death.",
-        "ru": "в бесконечном цикле жизни и смерти."
+        "ru": "в бесконечном цикле жизни и смерти.",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/8.wav"
     },
     {
         "id": "M0010_S0005_S0030_101_a2b",
         "jp": "これは、呪いか。",
         "en": "Is this a curse?",
-        "ru": "Это проклятие?"
+        "ru": "Это проклятие?",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/9.wav"
     },
     {
         "id": "M0010_S0005_S0040_101_a2b",
         "jp": "それとも、罰か。",
         "en": "Or some kind of punishment?",
-        "ru": "Или какое-то наказание?"
+        "ru": "Или какое-то наказание?",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/10.wav"
     },
     {
         "id": "M0010_S0005_S0050_101_a2b",
         "jp": "不可解なパズルを渡した神に",
         "en": "I often think about the god who blessed us with this cryptic puzzle...",
-        "ru": "Что за бог ниспослал нам эту таинственную загадку..."
+        "ru": "Что за бог ниспослал нам эту таинственную загадку...",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/11.wav"
     },
     {
         "id": "M0010_S0005_S0060_101_a2b",
         "jp": "いつか、私達は弓を引くのだろうか？",
         "en": "and wonder if we'll ever have the chance to kill him.",
-        "ru": "и сможем ли мы бросить ему вызов?"
+        "ru": "и сможем ли мы бросить ему вызов?",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/12.wav"
     }
 ]

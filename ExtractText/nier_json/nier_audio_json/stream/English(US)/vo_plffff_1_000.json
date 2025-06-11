@@ -53,7 +53,7 @@
     },
     {
         "wav": "13.wav",
-        "text": "To be here, all units have penetrated the stratosphere."
+        "text": "2B here. All units have penetrated the stratosphere."
     },
     {
         "wav": "14.wav",
@@ -61,7 +61,7 @@
     },
     {
         "wav": "15.wav",
-        "text": "We've passed the 50 kilometer threshold and are proceeding toward the target."
+        "text": "We've passed the 50-kilometer threshold and are proceeding toward the target."
     },
     {
         "wav": "16.wav",
@@ -413,11 +413,11 @@
     },
     {
         "wav": "103.wav",
-        "text": "This is operator 6-0. All units confirmed."
+        "text": "This is Operator 6O. All units confirmed."
     },
     {
         "wav": "104.wav",
-        "text": "Understood. Once you reach their anti-air defenses, proceed to manual attack formation."
+        "text": "Understood. Once you reach their anti-air defenses, proceed to manual-attack formation..."
     },
     {
         "wav": "105.wav",
@@ -445,6 +445,6 @@
     },
     {
         "wav": "111.wav",
-        "text": "Alert! Enemy unit sighted ahead."
+        "text": "Alert: Enemy units sighted ahead."
     }
 ]
