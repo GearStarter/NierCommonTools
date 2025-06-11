@@ -5,7 +5,7 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                             QHBoxLayout, QLineEdit, QPushButton, QFileDialog, 
                             QTextEdit, QLabel, QDialog, QFormLayout, 
                             QMessageBox, QScrollArea, QGridLayout, QSizePolicy, QSpacerItem)
-from PyQt6.QtCore import Qt, QSize
+from PyQt6.QtCore import Qt, QSize, pyqtSignal
 import string
 
 class EditValuesWindow(QDialog):
@@ -97,6 +97,9 @@ class EditValuesWindow(QDialog):
         grid_layout.setColumnStretch(1, 8)  # Value LineEdit
         grid_layout.setColumnStretch(2, 0)  # Delete Button
 
+        # Подключение сигнала textChanged для отслеживания изменений
+        key_edit.textChanged.connect(lambda: self.mark_file_as_modified(file_path))
+        value_edit.textChanged.connect(lambda: self.mark_file_as_modified(file_path))
         delete_button.clicked.connect(lambda checked, fp=file_path, k=key, idx=index, w=row_widget: self.delete_row_widget(fp, k, idx, w))
 
         self.edit_fields[(file_path, key, index)] = (key_edit, value_edit)
@@ -126,6 +129,9 @@ class EditValuesWindow(QDialog):
                         del modified_item[key]
                     self.modified_files.add(file_path)  # Отмечаем файл как изменённый
                     break
+
+    def mark_file_as_modified(self, file_path):
+        self.modified_files.add(file_path)
 
     def save_changes(self):
         reply = QMessageBox.question(self, "Confirm", "Save changes to JSON files?", 
