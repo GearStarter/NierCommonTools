@@ -24,25 +24,29 @@
         "id": "M0010_S0740_G0030_021_pod153",
         "jp": "報告：敵機体解析完了。",
         "en": "Enemy analysis complete.",
-        "ru": "Анализ противника завершён."
+        "ru": "Анализ противника завершён.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/103.wav"
     },
     {
         "id": "M0010_S0740_G0040_021_pod153",
         "jp": "侵入経路及び、脆弱性を発見。",
         "en": "Software vulnerabilities and penetration path detected.",
-        "ru": "Обнаружена уязвимость ПО и пути для взлома."
+        "ru": "Обнаружена уязвимость ПО и пути для взлома.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/104.wav"
     },
     {
         "id": "M0010_S0740_G0050_021_pod153",
         "jp": "ＨＵＤ表示。",
         "en": "Displaying on HUD.",
-        "ru": "Проецирую на дисплей."
+        "ru": "Проецирую на дисплей.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/105.wav"
     },
     {
         "id": "M0010_S0740_G0060_021_a9s",
         "jp": "ハッキングして弱体化させる！",
         "en": "I'll hack this thing and weaken it!",
-        "ru": "Я взломаю эту штуку и ослаблю её!"
+        "ru": "Я взломаю эту штуку и ослаблю её!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/63.wav"
     },
     {
         "id": "M0010_S0740_G0070_001_telo",
