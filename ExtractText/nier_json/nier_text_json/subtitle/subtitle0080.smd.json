@@ -3,24 +3,28 @@
         "id": "M0010_S0720_H0000_101_a2b",
         "jp": "あれは……",
         "en": "Is that—",
-        "ru": "Это же..."
+        "ru": "Это же...",
+        "en_voice": "stream/English(US)/vo_core_2_000/6.wav"
     },
     {
         "id": "M0010_S0720_H0010_101_pod042",
         "jp": "目標超大型兵器発見。",
         "en": "Target enemy detected.",
-        "ru": "Обнаружена цель операции."
+        "ru": "Обнаружена цель операции.",
+        "en_voice": "stream/English(US)/vo_core_2_000/6.wav"
     },
     {
         "id": "M0010_S0720_H0011_101_pod042",
         "jp": "警告：敵兵器による下方向からの攻撃。",
         "en": "Alert: Incoming enemy attack from below.",
-        "ru": "Внимание: враг атакует снизу."
+        "ru": "Внимание: враг атакует снизу.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/93.wav"
     },
     {
         "id": "M0010_S0720_H0012_101_pod042",
         "jp": "推奨：退避。",
         "en": "Proposal: Evade.",
-        "ru": "Предложение: отступайте."
+        "ru": "Предложение: отступайте.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/94.wav"
     }
 ]

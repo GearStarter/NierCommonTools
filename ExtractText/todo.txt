@@ -1,6 +1,4 @@
-        
 "E:\AI\NierAudio\data\sound_extracted\stream\English(US)\vo_plffff_2_000\"
-
     {
         "wav": "76.wav",
         "text": "Block 43 to Block 12, materials en route. Work Party B, proceed to Cafeteria 25, you have three minutes to consume your lunch. Block 14 to Block 8, materials en route. Block 64 to Block 32, materials en route. Thank you for another day of hard work. Please enjoy the job well done. Thank you for watching."
@@ -21,3 +19,8 @@
         "wav": "80.wav",
         "text": "Thank you for another day of hard work. Please bask in the joy of a job well done."
     },
+	
+	
+	
+"E:\AI\NierAudio\data\sound_extracted\stream\English(US)\vo_core_2_000\8.wav"
+	2B

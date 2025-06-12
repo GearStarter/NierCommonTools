@@ -3,19 +3,22 @@
         "id": "M0010_S0740_G1000_001_a9s",
         "jp": "状況は！？",
         "en": "What's your status!?",
-        "ru": "Что случилось?!"
+        "ru": "Что случилось?!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/61.wav"
     },
     {
         "id": "M0010_S0740_G1010_001_a2b",
         "jp": "これが目標の超大型兵器。破壊する。",
         "en": "This is the target. I'm going to destroy it.",
-        "ru": "Обнаружила цель. Приступаю к уничтожению."
+        "ru": "Обнаружила цель. Приступаю к уничтожению.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/25.wav"
     },
     {
         "id": "M0010_S0740_G1020_001_a9s",
         "jp": "援護しますっ！",
         "en": "Uh...right. I'll provide support!",
-        "ru": "Э... хорошо. Я окажу поддержку!"
+        "ru": "Э... хорошо. Я окажу поддержку!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/62.wav"
     },
     {
         "id": "M0010_S0740_G0030_021_pod153",

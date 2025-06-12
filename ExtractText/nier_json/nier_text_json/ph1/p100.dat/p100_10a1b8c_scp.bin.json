@@ -3,36 +3,42 @@
         "id": "M0010_S0740_G0000_001_a9s",
         "jp": "状況は！？",
         "en": "What's your status!?",
-        "ru": "Что случилось?!"
+        "ru": "Что случилось?!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/61.wav"
     },
     {
         "id": "M0010_S0740_G0010_001_a2b",
         "jp": "これが目標の超大型兵器。破壊する。",
         "en": "This is the target. I'm going to destroy it.",
-        "ru": "Это цель задания. Приступила к уничтожению!"
+        "ru": "Это цель задания. Приступила к уничтожению!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/25.wav"
     },
     {
         "id": "M0010_S0740_G0020_001_a9s",
         "jp": "援護しますっ！",
         "en": "Uh...right. I'll provide support!",
-        "ru": "Э... хорошо. Я окажу поддержку!"
+        "ru": "Э... хорошо. Я окажу поддержку!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/62.wav"
     },
     {
         "id": "M0010_S0720_H0011_101_pod042",
         "jp": "警告：敵兵器による下方向からの攻撃。",
         "en": "Alert: Incoming enemy attack from below.",
-        "ru": "Внимание: противник атакует снизу."
+        "ru": "Внимание: противник атакует снизу.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/93.wav"
     },
     {
         "id": "M0010_S0720_H0012_101_pod042",
         "jp": "推奨：退避。",
         "en": "Proposal: Evade.",
-        "ru": "Предложение: отступайте."
+        "ru": "Предложение: отступайте.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/94.wav"
     },
     {
         "id": "M0010_S0740_G0065_021_a9s",
         "jp": "ハッキング開始します！",
         "en": "Hacking in!",
-        "ru": "Инициирую взлом!"
+        "ru": "Инициирую взлом!",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/64.wav"
     }
 ]
