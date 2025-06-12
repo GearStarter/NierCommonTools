@@ -3,24 +3,28 @@
         "id": "M0010_S0220_G0070_111_pod042",
         "jp": "ゲートの封鎖を確認。",
         "en": "Exit confirmed closed.",
-        "ru": "Ворота были заблокированы."
+        "ru": "Ворота были заблокированы.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/89.wav"
     },
     {
         "id": "M0010_S0220_G0080_111_a2b",
         "jp": "扉の解除。",
         "en": "So open it.",
-        "ru": "Так открой их."
+        "ru": "Так открой их.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/8.wav"
     },
     {
         "id": "M0010_S0220_G0090_111_pod042",
         "jp": "不可能：本エリアの敵が妨害電波を出している。",
         "en": "Negative. Nearby enemies are jamming our signal.",
-        "ru": "Отрицательно. Противник в комнате глушит сигнал."
+        "ru": "Отрицательно. Противник в комнате глушит сигнал.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/90.wav"
     },
     {
         "id": "M0010_S0220_G0100_111_a2b",
         "jp": "面倒くさい……",
         "en": "Nothing's ever easy...",
-        "ru": "А разве когда-то было просто..."
+        "ru": "А разве когда-то было просто...",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/9.wav"
     }
 ]
