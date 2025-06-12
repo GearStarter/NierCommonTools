@@ -3,18 +3,21 @@
         "id": "M0010_S0715_G0000_101_pod042",
         "jp": "強力なジャミングを探知。",
         "en": "Alert: High-powered jamming detected.",
-        "ru": "Внимание: обнаружены сильные помехи."
+        "ru": "Внимание: обнаружены сильные помехи.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/91.wav"
     },
     {
         "id": "M0010_S0715_G0010_101_pod042",
         "jp": "遠距離通信応答なし。",
         "en": "No response from long-range communications.",
-        "ru": "Потерян сигнал от систем дальней связи."
+        "ru": "Потерян сигнал от систем дальней связи.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/92.wav"
     },
     {
         "id": "M0010_S0715_G0020_101_a2b",
         "jp": "倒せばいい。",
         "en": "Doesn't matter. I'll just take 'em out.",
-        "ru": "Не важно. Обойдусь и без них."
+        "ru": "Не важно. Обойдусь и без них.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/24.wav"
     }
 ]
