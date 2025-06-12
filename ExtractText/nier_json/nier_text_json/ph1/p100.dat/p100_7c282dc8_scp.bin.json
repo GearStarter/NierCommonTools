@@ -3,18 +3,21 @@
         "id": "M0010_S0220_G0000_101_pod042",
         "jp": "防弾タイプの敵を確認。",
         "en": "Alert: Bulletproof apparatus detected on enemies.",
-        "ru": "Внимание: у противника обнаружен пуленепробиваемый щит."
+        "ru": "Внимание: у противника обнаружен пуленепробиваемый щит.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/86.wav"
     },
     {
         "id": "M0010_S0220_G0010_101_pod042",
         "jp": "近接攻撃を推奨。",
         "en": "Close-range combat is advised.",
-        "ru": "Перейдите на ближний бой."
+        "ru": "Перейдите на ближний бой.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/88.wav"
     },
     {
         "id": "M0010_S0220_G0020_101_a2b",
         "jp": "わかってる。",
         "en": "I know.",
-        "ru": "Знаю."
+        "ru": "Знаю.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/5.wav"
     }
 ]
