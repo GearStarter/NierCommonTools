@@ -28,3 +28,6 @@
 "E:\AI\NierAudio\data\sound_extracted\stream\English(US)\vo_core_2_000\9.wav"
 "E:\AI\NierAudio\data\sound_extracted\stream\English(US)\vo_core_0_000\2.wav"
 	Boost! 9S!
+	
+"E:\AI\NierAudio\data\sound_extracted\stream\English(US)\vo_core_2_000\10.wav"
+	9S
