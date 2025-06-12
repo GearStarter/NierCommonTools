@@ -6,15 +6,31 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                             QTextEdit, QLabel, QDialog, QFormLayout, 
                             QMessageBox, QScrollArea, QGridLayout, QSizePolicy, QSpacerItem)
 from PyQt6.QtCore import Qt, QSize, pyqtSignal
+from PyQt6.QtGui import QGuiApplication
 import string
 
+class CopyableLineEdit(QLineEdit):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.setContextMenuPolicy(Qt.ContextMenuPolicy.NoContextMenu)  # Отключаем контекстное меню
+
+    def mousePressEvent(self, event):
+        if event.button() == Qt.MouseButton.RightButton:
+            text = self.text()
+            if text:
+                QApplication.clipboard().setText(text)
+                event.accept()  # Предотвращаем дальнейшую обработку
+        super().mousePressEvent(event)
+
 class EditValuesWindow(QDialog):
-    def __init__(self, parent, edit_data):
+    def __init__(self, parent, edit_data, base_folder):
         super().__init__(parent)
         self.setWindowTitle("Edit Values")
-        self.setGeometry(100, 100, 800, 600)
+        self.resize(800, 600)
+        self.move(QGuiApplication.primaryScreen().geometry().center() - self.rect().center())
         self.edit_data = edit_data
         self.modified_files = set()  # Множество для отслеживания изменённых файлов
+        self.base_folder = base_folder
 
         # Основной grid layout
         self.grid_layout = QGridLayout(self)
@@ -33,9 +49,9 @@ class EditValuesWindow(QDialog):
         self.file_blocks = {}
         row = 0
         for file_path, index, item, modified_item in edit_data:
-            # Путь файла как QLineEdit с ReadOnly, с унифицированными слэшами
-            unified_path = file_path.replace('\\', '/')
-            file_edit = QLineEdit(f"File: {unified_path}")
+            # Относительный путь файла как CopyableLineEdit с ReadOnly
+            relative_path = os.path.relpath(file_path, self.base_folder)
+            file_edit = CopyableLineEdit(f"File: {relative_path}")
             file_edit.setReadOnly(True)
             self.content_layout.addWidget(file_edit, row, 0, 1, 1)
             row += 1
@@ -74,8 +90,8 @@ class EditValuesWindow(QDialog):
         grid_layout = QGridLayout(row_widget)
         grid_layout.setContentsMargins(0, 0, 0, 0)
 
-        key_edit = QLineEdit("en_voice" if not key else str(key))
-        value_edit = QLineEdit(str(value))
+        key_edit = CopyableLineEdit("en_voice" if not key else str(key))
+        value_edit = CopyableLineEdit(str(value))
         delete_button = QPushButton("X")
 
         # Установка политик и растяжения
@@ -184,8 +200,9 @@ class SearchWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Text Search Tool")
-        self.setGeometry(100, 100, 600, 400)
-
+        self.resize(800, 600)
+        self.move(QGuiApplication.primaryScreen().geometry().center() - self.rect().center())
+        
         # Central widget and layout
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
@@ -246,6 +263,7 @@ class SearchWindow(QMainWindow):
             for file in files:
                 if file.endswith('.json'):
                     file_path = os.path.join(root, file).replace('\\', '/')
+                    relative_path = os.path.relpath(file_path, self.folder_path)
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
                             data = json.load(f)
@@ -258,14 +276,14 @@ class SearchWindow(QMainWindow):
                                         if clean_value and clean_phrase in clean_value:
                                             if not found:
                                                 found = True
-                                            result = f"File: {file_path}\n"
+                                            result = f"File: {relative_path}\n"
                                             for k, v in item.items():
                                                 result += f"{k}: {v}\n"
                                             result += f"{'-' * 50}\n"
                                             results.append(result)
                                             self.edit_data.append((file_path, idx, item, None))
                     except Exception as e:
-                        results.append(f"Error reading {file_path}: {str(e)}\n")
+                        results.append(f"Error reading {relative_path}: {str(e)}\n")
         
         if not found and not any("Error" in r for r in results):
             results.append(f"\nPhrase '{phrase}' not found in text files.\n")
@@ -296,7 +314,7 @@ class SearchWindow(QMainWindow):
 
     def edit_values(self):
         if self.edit_data:
-            EditValuesWindow(self, self.edit_data)
+            EditValuesWindow(self, self.edit_data, self.folder_path)
 
     def clear_results(self):
         self.results_text.clear()
