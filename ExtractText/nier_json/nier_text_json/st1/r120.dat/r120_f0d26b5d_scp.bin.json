@@ -3,6 +3,7 @@
         "id": "M0010_S0220_G0000_300_pod042",
         "jp": "解析：このエレベーターはプロテクトされている為使用不可能。",
         "en": "Analysis: This elevator's controls are locked and cannot be used.",
-        "ru": "Анализ: этот лифт заблокирован, воспользоваться им нельзя."
+        "ru": "Анализ: этот лифт заблокирован, воспользоваться им нельзя.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/87.wav"
     }
 ]
