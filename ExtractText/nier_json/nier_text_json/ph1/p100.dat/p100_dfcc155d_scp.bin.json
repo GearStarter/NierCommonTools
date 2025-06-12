@@ -3,42 +3,49 @@
         "id": "M0010_S0100_G0000_101_a2b",
         "jp": "これが……目標大型兵器！？",
         "en": "Is that our target?",
-        "ru": "Это и есть наша цель?"
+        "ru": "Это и есть наша цель?",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/0.wav"
     },
     {
         "id": "M0010_S0100_G0010_101_pod042",
         "jp": "否定：当該敵は目標ではない。",
         "en": "Negative. This enemy is unrelated.",
-        "ru": "Отрицательно. Этот противник не относится к заданию."
+        "ru": "Отрицательно. Этот противник не относится к заданию.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/82.wav"
     },
     {
         "id": "M0010_S0100_G0020_101_pod042",
         "jp": "速やかな排除を推奨。",
         "en": "Proposal: Dispatch it as swiftly as possible.",
-        "ru": "Предложение: уничтожьте его как можно скорее."
+        "ru": "Предложение: уничтожьте его как можно скорее.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/83.wav"
     },
     {
         "id": "M0010_S0100_G0030_101_a2b",
         "jp": "簡単に言う……ッ",
         "en": "You don't say.",
-        "ru": "Как скажешь."
+        "ru": "Как скажешь.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/1.wav"
     },
     {
         "id": "M0010_S0100_G0040_101_pod042",
         "jp": "レーザー通信回復。",
         "en": "Laser communications recovered.",
-        "ru": "Лазерная коммуникация установлена."
+        "ru": "Лазерная коммуникация установлена.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/84.wav"
     },
     {
         "id": "M0010_S0100_G0050_101_op60",
         "jp": "２Ｂさん、今……ポッド・プロ……送信し……",
         "en": "2B...transmitting...Pod prog...!",
-        "ru": "2B... передаю... програ!.."
+        "ru": "2B... передаю... програ!..",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/81.wav"
     },
     {
         "id": "M0010_S0100_G0060_101_pod042",
         "jp": "ポッド・プログラムのダウンロードを終了。",
         "en": "Pod program download complete.",
-        "ru": "Загрузка программы завершена."
+        "ru": "Загрузка программы завершена.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/85.wav"
     }
 ]

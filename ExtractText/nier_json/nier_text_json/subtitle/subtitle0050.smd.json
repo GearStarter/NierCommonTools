@@ -3,24 +3,28 @@
         "id": "M0010_S2000_H0000_001_a9s",
         "jp": "あーあ！スゴイのが暴れてますね。",
         "en": "Whoa! Get a load of that thing!",
-        "ru": "Ого! Ну и здоровяк!"
+        "ru": "Ого! Ну и здоровяк!",
+        "en_voice": "stream/English(US)/vo_core_2_000/3.wav"
     },
     {
         "id": "M0010_S2000_H0010_001_a9s",
         "jp": "ミサイル発射。",
         "en": "Firing missiles.",
-        "ru": "Выпускаю ракеты."
+        "ru": "Выпускаю ракеты.",
+        "en_voice": "stream/English(US)/vo_core_2_000/3.wav"
     },
     {
         "id": "M0010_S2000_H0020_001_a9s",
         "jp": "ちゃんと死んだのを確認しないと",
         "en": "Better make sure he's actually dead next time.",
-        "ru": "В следующий раз будьте повнимательней."
+        "ru": "В следующий раз будьте повнимательней.",
+        "en_voice": "stream/English(US)/vo_core_2_000/3.wav"
     },
     {
         "id": "M0010_S2000_H0030_001_a9s",
         "jp": "危ないですよ。",
         "en": "That was dangerous, ma'am.",
-        "ru": "Это было опасно, мэм."
+        "ru": "Это было опасно, мэм.",
+        "en_voice": "stream/English(US)/vo_core_2_000/3.wav"
     }
 ]

@@ -95,13 +95,13 @@
         "jp": "敵反応、多数確認。",
         "en": "Alert: Large enemy group detected.",
         "ru": "Внимание: обнаружено скопление противников.",
-        "en_voice": "stream/English(US)/vo_core_2_000/0.wav"
+        "en_voice": "stream/English(US)/vo_core_2_000/1.wav"
     },
     {
         "id": "M0010_S0050_H0140_101_a2b",
         "jp": "見ればわかるよ。",
         "en": "Yes, I'm aware of that.",
         "ru": "Да, я вижу.",
-        "en_voice": "stream/English(US)/vo_core_2_000/0.wav"
+        "en_voice": "stream/English(US)/vo_core_2_000/1.wav"
     }
 ]
