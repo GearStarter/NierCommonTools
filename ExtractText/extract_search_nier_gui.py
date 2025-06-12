@@ -50,7 +50,7 @@ class EditValuesWindow(QDialog):
         row = 0
         for file_path, index, item, modified_item in edit_data:
             # Относительный путь файла как CopyableLineEdit с ReadOnly
-            relative_path = os.path.relpath(file_path, self.base_folder)
+            relative_path = os.path.relpath(file_path, self.base_folder).replace('\\', '/')
             file_edit = CopyableLineEdit(f"File: {relative_path}")
             file_edit.setReadOnly(True)
             self.content_layout.addWidget(file_edit, row, 0, 1, 1)
@@ -263,7 +263,7 @@ class SearchWindow(QMainWindow):
             for file in files:
                 if file.endswith('.json'):
                     file_path = os.path.join(root, file).replace('\\', '/')
-                    relative_path = os.path.relpath(file_path, self.folder_path)
+                    relative_path = os.path.relpath(file_path, self.folder_path).replace('\\', '/')
                     try:
                         with open(file_path, 'r', encoding='utf-8') as f:
                             data = json.load(f)
