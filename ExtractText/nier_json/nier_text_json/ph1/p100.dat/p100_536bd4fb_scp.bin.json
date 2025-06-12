@@ -59,24 +59,28 @@
         "id": "M0010_S0220_G0030_101_a9s",
         "jp": "２Ｂさん！",
         "en": "2B? Uh, ma'am?",
-        "ru": "2B? Э, мэм?"
+        "ru": "2B? Э, мэм?",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/39.wav"
     },
     {
         "id": "M0010_S0220_G0040_101_a2b",
         "jp": "何？",
         "en": "What is it?",
-        "ru": "В чём дело?"
+        "ru": "В чём дело?",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/6.wav"
     },
     {
         "id": "M0010_S0220_G0050_101_a9s",
         "jp": "事前に調査しておいたマップデータを転送しておきますね。",
         "en": "I was going to send you the map data I collected earlier.",
-        "ru": "Я хочу переслать вам карту, которую я составил."
+        "ru": "Я хочу переслать вам карту, которую я составил.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/40.wav"
     },
     {
         "id": "M0010_S0220_G0060_101_a2b",
         "jp": "了解。",
         "en": "Do it.",
-        "ru": "Давай."
+        "ru": "Давай.",
+        "en_voice": "stream/English(US)/vo_plffff_2_000/7.wav"
     }
 ]
