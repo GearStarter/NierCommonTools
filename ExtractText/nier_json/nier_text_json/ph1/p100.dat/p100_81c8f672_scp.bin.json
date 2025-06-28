@@ -55,7 +55,8 @@
         "jp": "これは果実の一種だ。",
         "en": "This is a type of fruit.",
         "ru": "Это разновидность фруктов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/670.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/670.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/752.wav"
     },
     {
         "id": "M1030_S0500_S0090_201_adam",
