@@ -4,7 +4,8 @@
         "jp": "ヨルハ攻撃部隊の侵入を確認しました。",
         "en": "YoRHa has entered the base.",
         "ru": "Проникновение YoRHa на базу завершено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/113.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/113.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/175.wav"
     },
     {
         "id": "M0010_S0140_G0170_201_op210",
@@ -24,6 +25,7 @@
         "jp": "敵防衛兵器によって苦戦しているようです。",
         "en": "The enemy's defensive weapon is making things more difficult than we estimated.",
         "ru": "Оборонительное вооружение противника оказалось мощнее, чем мы ожидали.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/115.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/115.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/177.wav"
     }
 ]

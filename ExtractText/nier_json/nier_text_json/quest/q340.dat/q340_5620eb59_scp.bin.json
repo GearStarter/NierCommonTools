@@ -3,7 +3,8 @@
         "id": "M5340_S0010_G0000_001_resiwoman",
         "jp": "うーん……",
         "en": "Hmm...",
-        "ru": "Хм..."
+        "ru": "Хм...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/434.wav"
     },
     {
         "id": "M5340_S0010_G0010_001_a9s",
@@ -148,7 +149,8 @@
         "jp": "この写真の場所か……",
         "en": "Hmm... These places look familiar...",
         "ru": "Хм... Эти места кажутся мне знакомыми...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/188.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/188.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/270.wav"
     },
     {
         "id": "M5340_S0020_G0010_001_a9s",
@@ -162,7 +164,8 @@
         "jp": "ちょっと探してみましょう。",
         "en": "Let's keep our eyes open next time we're in any of those areas.",
         "ru": "Нам следует быть повнимательней, когда будем находиться в тех областях.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/190.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/190.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/272.wav"
     },
     {
         "id": "M5340_S0040_G0005_300_telo",
@@ -272,48 +275,55 @@
         "jp": "座標を記録しておきましょう。",
         "en": "Better record the coordinates.",
         "ru": "Будет лучше записать координаты.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/192.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/192.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/274.wav"
     },
     {
         "id": "M5340_S0020_G0050_001_a9s",
         "jp": "ここ、見覚えがありますね……",
         "en": "This place looks familiar...",
         "ru": "Это место кажется мне знакомым...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/193.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/193.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/275.wav"
     },
     {
         "id": "M5340_S0020_G0060_001_a9s",
         "jp": "この写真と同じ場所です。",
         "en": "Oh, right! It's from that woman's photograph!",
         "ru": "О, точно! Оно же с фотографии той женщины!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/194.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/194.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/276.wav"
     },
     {
         "id": "M5340_S0020_G0070_001_a9s",
         "jp": "レジスタンスの女性に座標を伝えましょう。",
         "en": "I'll be sure to get her the coordinates...",
         "ru": "Надо бы отправить ей координаты...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/195.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/195.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/277.wav"
     },
     {
         "id": "M5340_S0030_G0000_001_a9s",
         "jp": "これで、依頼されてた写真の位置座標は全部集まりましたね。",
         "en": "Okay. That's all the coordinates that Resistance member wanted.",
         "ru": "Хорошо. Это все координаты, которые были нужны члену Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/196.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/196.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/278.wav"
     },
     {
         "id": "M5340_S0030_G0010_001_a9s",
         "jp": "でも……どうしてこんな写真の場所が知りたいんでしょう。",
         "en": "I'll be honest though—I don't quite get why she cares about these particular photos.",
-        "ru": "Честно говоря, я не понимаю, почему она так печётся об этих фотографиях."
+        "ru": "Честно говоря, я не понимаю, почему она так печётся об этих фотографиях.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/279.wav"
     },
     {
         "id": "M5340_S0030_G0020_001_a2b",
         "jp": "どんな人にも大切な記憶はある。",
         "en": "Everyone has memories that are precious for one reason or another.",
         "ru": "У всех есть воспоминания, которые важны для них по разным причинам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/930.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/930.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/931.wav"
     },
     {
         "id": "M5340_S0030_G0030_001_a2b",
@@ -327,7 +337,8 @@
         "jp": "他人にわからなくても、きっとこれは……必要な情報。",
         "en": "They're important to her; that's all we need to know.",
         "ru": "Они важны для неё; это всё, что нам следует знать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/932.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/932.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/933.wav"
     },
     {
         "id": "M5340_S0030_G0050_001_a9s",

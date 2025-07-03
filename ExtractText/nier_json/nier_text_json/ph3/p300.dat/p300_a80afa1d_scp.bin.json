@@ -29,13 +29,15 @@
         "jp": "圧縮会話モード終了。",
         "en": "Compressed conversation mode complete.",
         "ru": "Передача данных в сжатом виде завершена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/261.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/261.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/339.wav"
     },
     {
         "id": "M3015_S0010_G0030_001_pod153",
         "jp": "理解した。",
         "en": "Affirmative.",
-        "ru": "Подтверждаю."
+        "ru": "Подтверждаю.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/340.wav"
     },
     {
         "id": "M3015_S0010_G0040_001_pod153",
@@ -55,6 +57,7 @@
         "jp": "支援活動の参考情報としてアップデートする。",
         "en": "Updating as reference data for support activity.",
         "ru": "Обновление данных для проведения деятельности поддержки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/822.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/822.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/884.wav"
     }
 ]

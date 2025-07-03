@@ -15,7 +15,8 @@
         "id": "M5802_S0010_G0050_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5802_S0010_G0070_001_robomother",
@@ -33,7 +34,8 @@
         "id": "M5802_S0010_G0050_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5802_S0010_G0000_001_robomother",
@@ -81,7 +83,8 @@
         "id": "M5802_S0010_G0130_001_a9s",
         "jp": "わかったわかった……",
         "en": "This is so stupid...",
-        "ru": "Ну что за глупости..."
+        "ru": "Ну что за глупости...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1488.wav"
     },
     {
         "id": "M5802_S0010_G0060_001_robomother",

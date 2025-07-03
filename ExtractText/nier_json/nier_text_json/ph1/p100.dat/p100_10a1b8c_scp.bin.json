@@ -39,6 +39,7 @@
         "jp": "ハッキング開始します！",
         "en": "Hacking in!",
         "ru": "Инициирую взлом!",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/64.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/64.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/64.wav"
     }
 ]

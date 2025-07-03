@@ -137,21 +137,24 @@
         "jp": "でも……殺していい動物と、そうでない動物がいるなんて。",
         "en": "So it's okay to kill some animals, but not others?",
         "ru": "А разве это нормально — одних животных убивать, а других нет?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/9.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/9.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/91.wav"
     },
     {
         "id": "M5072_S0010_G0210_001_a9s",
         "jp": "勝手な話ですね。",
         "en": "Seems kind of arbitrary, no?",
         "ru": "Выглядит довольно своенравно, нет так ли?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/10.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/10.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/92.wav"
     },
     {
         "id": "M5072_S0010_G0220_001_a2b",
         "jp": "……ためらう権利なんかない。",
         "en": "We have no right to judge.",
         "ru": "Мы не имеем права его осуждать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/835.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/835.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/836.wav"
     },
     {
         "id": "M5072_S0010_G0230_001_a2b",
@@ -189,7 +192,8 @@
         "jp": "まさか、動物の群れのリーダーが機械生命体だなんて……",
         "en": "Wow... So the leader of the pack was a machine?",
         "ru": "Ого... Так лидер этой стаи — машина?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/12.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/12.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/94.wav"
     },
     {
         "id": "M5072_S0010_G0290_001_a9s",
@@ -203,7 +207,8 @@
         "jp": "あのロボットに知らせましょう。",
         "en": "Let's go tell that machine that his animal friends are safe.",
         "ru": "Идём, скажем той машине, что её друзья-животные в безопасности.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/14.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/14.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/96.wav"
     },
     {
         "id": "M5072_S0010_G0180_001_n02",
@@ -222,7 +227,8 @@
         "jp": "……あの、動物を真似ていたロボット。",
         "en": "I've been thinking about the machine who was leading that pack.",
         "ru": "Я думаю о машине, которая возглавляла стаю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/838.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/838.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/839.wav"
     },
     {
         "id": "M5072_S0010_G0320_001_a9s",
@@ -243,7 +249,8 @@
         "jp": "言われてみれば不思議ですね。何か理由があったんでしょうか？",
         "en": "Yeah, I guess it was kind of odd. You thinking there's a reason for it?",
         "ru": "Да, я думаю, это было несколько странновато. Как считаешь, этому есть какая-то причина?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/16.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/16.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/98.wav"
     },
     {
         "id": "M5072_S0010_G0350_001_a2b",

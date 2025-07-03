@@ -212,7 +212,8 @@
         "jp": "だから、文句を言わない。",
         "en": "So no. I don't think they're a pain.",
         "ru": "Так что нет. Я не считаю, что это морока.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/854.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/854.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/855.wav"
     },
     {
         "id": "M5120_S0020_G0050_001_a9s",

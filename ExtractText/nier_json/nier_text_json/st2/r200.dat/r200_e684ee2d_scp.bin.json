@@ -195,7 +195,8 @@
         "id": "M5032_S0030_G0290_001_a2b",
         "jp": "そうなんだ。",
         "en": "I didn't know that.",
-        "ru": "Я этого не знала."
+        "ru": "Я этого не знала.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/269.wav"
     },
     {
         "id": "M5032_S0030_G0300_001_eng",
@@ -291,7 +292,8 @@
         "id": "M5032_S0030_G0450_001_a9s",
         "jp": "それは……",
         "en": "Wait. Are you...",
-        "ru": "Подожди. Ты..."
+        "ru": "Подожди. Ты...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5032_S0030_G0460_001_eng",
@@ -315,7 +317,8 @@
         "id": "M5032_S0030_G0490_001_a9s",
         "jp": "あっ……！",
         "en": "Ah!",
-        "ru": "Ах!"
+        "ru": "Ах!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/592.wav"
     },
     {
         "id": "M5032_S0030_G0500_001_a2b",
@@ -328,7 +331,8 @@
         "jp": "自分から死を選ぶなんて……",
         "en": "Wow... It just chose death.",
         "ru": "Ну и ну... Он выбрал смерть.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1940.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1940.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/67.wav"
     },
     {
         "id": "M5032_S0030_G0520_001_a2b",
@@ -349,14 +353,16 @@
         "jp": "同じように大量の機械生命体を破壊してきた。",
         "en": "We've destroyed machines beyond counting.",
         "ru": "Мы без конца уничтожаем машины.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/822.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/822.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/823.wav"
     },
     {
         "id": "M5032_S0030_G0550_001_a2b",
         "jp": "もしそれが罪だと問われたら……",
         "en": "Perhaps someone sees that as a sin.",
         "ru": "Возможно, кто-то из нас тоже видит в этом грех.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/823.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/823.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/824.wav"
     },
     {
         "id": "M5032_S0030_G0560_001_a9s",

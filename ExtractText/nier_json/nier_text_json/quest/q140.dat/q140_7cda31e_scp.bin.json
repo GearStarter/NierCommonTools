@@ -251,7 +251,8 @@
         "jp": "でも……",
         "en": "But...",
         "ru": "Но...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/337.wav"
     },
     {
         "id": "M5140_S0050_G0260_001_resiwoman",
@@ -389,14 +390,16 @@
         "id": "M5140_S0030_G0000_001_a9s",
         "jp": "レジスタンスキャンプに書かれていた数列を座標に変換すると……",
         "en": "So if we use those numbers from the Resistance camp as coordinates...",
-        "ru": "Если мы используем те цифры из лагеря Сопротивления в качестве координат..."
+        "ru": "Если мы используем те цифры из лагеря Сопротивления в качестве координат...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/173.wav"
     },
     {
         "id": "M5140_S0030_G0010_001_a9s",
         "jp": "この辺りになるはずなんですが……",
         "en": "Yeah. We're pretty much standing right on top of whatever they're pointing to.",
         "ru": "Ага. Мы стоим ровно на том месте, куда они указывают.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/92.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/92.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/174.wav"
     },
     {
         "id": "M5140_S0030_G0020_001_a2b",
@@ -488,14 +491,16 @@
         "jp": "最終的に、破壊した模様。",
         "en": "It then proceeded to destroy him.",
         "ru": "А затем уничтожила его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/972.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/972.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/9.wav"
     },
     {
         "id": "M5140_S0040_G0060_001_a2b",
         "jp": "機械生命体が……復讐した？",
         "en": "Are you saying this thing wanted revenge?",
         "ru": "Хочешь сказать, эта штуковина хочет мести?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/883.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/883.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/884.wav"
     },
     {
         "id": "M5140_S0040_G0070_001_a9s",
@@ -509,14 +514,16 @@
         "jp": "この遺体は……レジスタンスキャンプで依頼された探し人でしょうか？",
         "en": "This corpse... I wonder if it's the Resistance member we're looking for.",
         "ru": "Этот труп... Уж не тот ли это член Сопротивления, которого мы ищем.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/95.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/95.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/177.wav"
     },
     {
         "id": "M5140_S0040_G0090_001_a9s",
         "jp": "メモリを調べてみましょう。",
         "en": "Let's check his memory.",
         "ru": "Давай проверим его память.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/96.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/96.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/178.wav"
     },
     {
         "id": "M5140_S0040_G0100_001_a9s",
@@ -530,7 +537,8 @@
         "jp": "……そして、弱い方が殺された。",
         "en": "I guess the weaker one lost.",
         "ru": "И, полагаю, слабейший из них потерпел неудачу.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/884.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/884.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/885.wav"
     },
     {
         "id": "M5140_S0040_G0120_001_a9s",
@@ -543,7 +551,8 @@
         "jp": "今回の件……",
         "en": "I really hate this.",
         "ru": "Я действительно ненавижу это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/99.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/99.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/181.wav"
     },
     {
         "id": "M5140_S0050_G0010_001_a9s",
@@ -557,7 +566,8 @@
         "jp": "真実を知ったからには、言わないと。",
         "en": "It's the truth. She has to know.",
         "ru": "Такова правда. Она должна узнать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/885.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/885.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/886.wav"
     },
     {
         "id": "M5140_S0050_G0030_001_a9s",

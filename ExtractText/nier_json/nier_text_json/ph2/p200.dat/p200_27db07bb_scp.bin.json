@@ -10,14 +10,16 @@
         "jp": "この通信が届くアンドロイド部隊に支援要請。",
         "en": "Requesting support from any friendly units in range.",
         "ru": "Запрашиваю поддержки от любых союзных единиц в радиусе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/925.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/925.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1007.wav"
     },
     {
         "id": "M1060_S0050_G0020_001_cap",
         "jp": "現在我々は敵軍の攻撃を受けている。",
         "en": "We've come under heavy fire from the enemy.",
         "ru": "Мы попали под плотный вражеский огонь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/926.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/926.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1008.wav"
     },
     {
         "id": "M1060_S0050_G0030_001_cap",
@@ -44,14 +46,16 @@
         "jp": "付近にいるアンドロイド部隊からの支援を求む。",
         "en": "We need immediate backup from any available android forces.",
         "ru": "Запрашиваю немедленную поддержку любых союзных сил андроидов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/931.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/931.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1013.wav"
     },
     {
         "id": "M1060_S0050_G0070_001_a9s",
         "jp": "大型の敵、反応あります！",
         "en": "I'm picking up a large-scale enemy inbound!",
         "ru": "Я засёк приближение крупного врага!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1428.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1428.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1429.wav"
     },
     {
         "id": "M1060_S0052_S0000_001_a9s",
@@ -64,7 +68,8 @@
         "jp": "敵飛行兵器の破壊を確認。",
         "en": "Enemy aerial unit destroyed.",
         "ru": "Воздушная единица врага уничтожена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/581.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/581.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/581.wav"
     },
     {
         "id": "M1060_S0056_G0010_001_a2b",
@@ -76,14 +81,16 @@
         "id": "M1060_S0056_G0020_001_a9s",
         "jp": "ちょっと待って！",
         "en": "Wait!",
-        "ru": "Стой!"
+        "ru": "Стой!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1431.wav"
     },
     {
         "id": "M1060_S0056_G0030_001_a9s",
         "jp": "まだ、大型の敵反応が残ってます！！",
         "en": "I'm still picking up a large enemy presence!",
         "ru": "Я еще фиксирую присутствие гигантского противника!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1431.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1431.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1432.wav"
     },
     {
         "id": "M1060_S0056_G0040_001_a2b",
@@ -97,6 +104,7 @@
         "jp": "そんな……こんな大きな敵、どこに！？",
         "en": "What on...? If it's that big, we should be able to see it...",
         "ru": "Что за...?! Если он настолько огромный, мы должны уже его увидеть...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1432.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1432.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1433.wav"
     }
 ]

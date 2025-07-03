@@ -18,7 +18,8 @@
         "jp": "事前に調査しておいたマップデータを転送しておきますね。",
         "en": "I was going to send you the map data I collected earlier.",
         "ru": "Я хочу переслать вам карту, которую я составил.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/40.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/40.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/40.wav"
     },
     {
         "id": "M0010_S0220_G1060_101_a2b",
@@ -74,7 +75,8 @@
         "jp": "それと……",
         "en": "And another thing...",
         "ru": "И ещё кое-что...",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/12.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/12.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/12.wav"
     },
     {
         "id": "M0010_S0220_G1180_101_a2b",
@@ -109,28 +111,32 @@
         "jp": "広いな……この廃墟。",
         "en": "This place sure is big.",
         "ru": "Какой большой комплекс.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/15.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/15.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/15.wav"
     },
     {
         "id": "M0010_S0220_G1230_101_a9s",
         "jp": "ここは昔、人類の兵器工場だったらしいですよ。",
         "en": "I guess humans used to use it as a weapons factory.",
         "ru": "Думаю, люди использовали его как завод по производству оружия.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/47.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/47.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/47.wav"
     },
     {
         "id": "M0010_S0220_G1240_101_a9s",
         "jp": "今ではすっかり機械生命体だらけですが……",
         "en": "But now it's just crawling with machines.",
         "ru": "Но теперь он кишит машинами.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/48.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/48.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/48.wav"
     },
     {
         "id": "M0010_S0220_G1250_101_a9s",
         "jp": "敵はこの工場を再利用して、機械生命体を増産しているようです。",
         "en": "The enemy seems to have repurposed the facility to increase their overall machine production.",
         "ru": "Похоже, завод был переделан врагом под массовое производство всевозможных машин.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/49.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/49.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/49.wav"
     },
     {
         "id": "M0010_S0220_G1260_101_a2b",
@@ -172,7 +178,8 @@
         "jp": "もしかしたら別の場所に移動しちゃったかもしれませんね。",
         "en": "Maybe they...I dunno. Moved it somewhere?",
         "ru": "Может они... ну не знаю, переместили его куда-нибудь?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/57.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/57.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/57.wav"
     },
     {
         "id": "M0010_S0700_G1031_101_a2b",
@@ -186,7 +193,8 @@
         "jp": "ああ、鳥ですか。",
         "en": "You mean the birds?",
         "ru": "Ты про птиц?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/54.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/54.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/54.wav"
     },
     {
         "id": "M0010_S0700_G0033_101_a9s",
@@ -200,14 +208,16 @@
         "jp": "その橋の先に別の施設があるはずです。",
         "en": "There should be another facility across that bridge.",
         "ru": "По ту сторону моста должен быть ещё один цех.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/58.wav"
     },
     {
         "id": "M0010_S0700_G1062_101_a9s",
         "jp": "ちょっと遠いですが、移動してみましょうか。",
         "en": "It's a bit of a hike, but should we check it out?",
         "ru": "Путь неблизкий, но, может, осмотрим и его?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/59.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/59.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/59.wav"
     },
     {
         "id": "M0010_S0700_G1070_101_a9s",
@@ -228,7 +238,8 @@
         "jp": "どうかな……",
         "en": "I wouldn't bet on that.",
         "ru": "Я так не думаю.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/23.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/23.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/23.wav"
     },
     {
         "id": "M0010_S0733_G0005_001_a2b",
@@ -255,6 +266,7 @@
         "jp": "援護しなきゃ……急ごう！",
         "en": "We have to help her! Let's go!",
         "ru": "Мы должны помочь ей! Вперёд!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1095.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1095.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1096.wav"
     }
 ]

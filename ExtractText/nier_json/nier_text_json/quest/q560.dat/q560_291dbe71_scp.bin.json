@@ -45,13 +45,15 @@
         "id": "M5560_S0010_G0060_001_sele",
         "jp": "手伝う。",
         "en": "Help the twins.",
-        "ru": "Помочь близняшкам."
+        "ru": "Помочь близняшкам.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M5560_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Decline.",
-        "ru": "Отказать."
+        "ru": "Отказать.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5560_S0010_G0110_001_dbl",
@@ -111,13 +113,15 @@
         "id": "M5560_S0010_G0060_001_sele",
         "jp": "手伝う。",
         "en": "Help the twins.",
-        "ru": "Помочь близняшкам."
+        "ru": "Помочь близняшкам.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M5560_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Decline.",
-        "ru": "Отказать."
+        "ru": "Отказать.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M6090_S0020_G0780_300_dbl",

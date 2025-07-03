@@ -16,7 +16,8 @@
         "jp": "……まだ何も言ってない。",
         "en": "I didn't say anything yet.",
         "ru": "Я ещё ничего не сказала.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/907.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/907.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/908.wav"
     },
     {
         "id": "M5171_S0010_G0030_001_pod042",
@@ -35,7 +36,8 @@
         "jp": "……その通り。",
         "en": "...That's right.",
         "ru": "...Ты прав.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/908.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/908.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/909.wav"
     },
     {
         "id": "M5171_S0010_G0060_001_pod042",
@@ -49,7 +51,8 @@
         "jp": "花の写真？",
         "en": "You think?",
         "ru": "Ты так считаешь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/909.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/909.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/910.wav"
     },
     {
         "id": "M5171_S0010_G0080_001_pod042",
@@ -95,7 +98,8 @@
         "jp": "……画像データの送信を完了。",
         "en": "Image data transfer complete.",
         "ru": "Передача изображения завершена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/989.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/989.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/26.wav"
     },
     {
         "id": "M5171_S0030_G0000_001_op60",
@@ -142,7 +146,8 @@
         "jp": "機会があれば、また送る。",
         "en": "I'll try to send more if I can.",
         "ru": "Я постараюсь прислать ещё фото, если будет время.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/914.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/914.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/915.wav"
     },
     {
         "id": "M5171_S0030_G0070_001_op60",
@@ -156,12 +161,14 @@
         "jp": "この写真……宝物にします！",
         "en": "I'm going to treasure this forever!",
         "ru": "Я буду вечно дорожить ими!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/354.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/354.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/416.wav"
     },
     {
         "id": "M5171_S0030_G0090_001_op60",
         "jp": "お礼のメールも、後で出しておきますね……ではでは！",
         "en": "Oh, and I'm going to send you a proper thank-you mail later, so keep an eye out for it. Bye!",
-        "ru": "Ой и ещё, попозже я вышлю тебе письмо с благодарностями, так что не пропусти его. Пока!"
+        "ru": "Ой и ещё, попозже я вышлю тебе письмо с благодарностями, так что не пропусти его. Пока!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/417.wav"
     }
 ]

@@ -51,7 +51,8 @@
         "jp": "検索……",
         "en": "Searching...",
         "ru": "Поиск...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/760.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/760.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/822.wav"
     },
     {
         "id": "M3000_S0510_G0029_001_pod042",
@@ -82,7 +83,8 @@
         "id": "M3000_S0510_G0002_300_a2b",
         "jp": "汚染の除去と……再起動……",
         "en": "Remove the contamination...and reset...",
-        "ru": "Удалить заражение... и перезагрузить..."
+        "ru": "Удалить заражение... и перезагрузить...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/787.wav"
     },
     {
         "id": "M3000_S0510_G0003_300_pod042",
@@ -102,7 +104,8 @@
         "jp": "視覚処理システムに異常を検知。",
         "en": "Malfunction detected in visual processing system.",
         "ru": "В системе визуальной обработки обнаружена неисправность.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/758.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/758.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/820.wav"
     },
     {
         "id": "M5920_S0090_G0200_001_human",
@@ -133,7 +136,8 @@
         "id": "M5920_S0090_G0240_001_human",
         "jp": "希望の光は、……",
         "en": "The light of hope is near......closer than ever to it.",
-        "ru": "Свет надежды так близок... близок как никогда прежде."
+        "ru": "Свет надежды так близок... близок как никогда прежде.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/147.wav"
     },
     {
         "id": "M5920_S0090_G0250_001_human",
@@ -217,7 +221,8 @@
         "id": "M3000_S0510_G0019_300_a2b",
         "jp": "……もう、バンカーはない。バックアップの意味も……ない。",
         "en": "Bunker's gone... There's...no point in backing up anyway.",
-        "ru": "Бункер потерян... В любом случае... нет смысла в резервном копировании."
+        "ru": "Бункер потерян... В любом случае... нет смысла в резервном копировании.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/789.wav"
     },
     {
         "id": "M3000_S0510_G0020_300_a2b",

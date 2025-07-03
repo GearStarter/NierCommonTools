@@ -161,7 +161,8 @@
         "jp": "以前はどんな場所だったんだろう……",
         "en": "I wonder what it used to be like?",
         "ru": "Интересно, для чего его раньше использовали?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/112.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/112.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/194.wav"
     },
     {
         "id": "M5180_S0020_G0020_001_pod153",
@@ -175,14 +176,16 @@
         "jp": "兵器生産と実験を行っていた。",
         "en": "Analysis: This location was once used for weapons production and experimentation.",
         "ru": "Анализ: Это место использовалось для создания и испытания оружия.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/434.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/434.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/512.wav"
     },
     {
         "id": "M5180_S0020_G0040_001_a9s",
         "jp": "へぇ……どんな武器を作っていたの？",
         "en": "No kidding? What kind of weapons?",
         "ru": "Серьёзно? И какого оружия?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/113.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/113.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/195.wav"
     },
     {
         "id": "M5180_S0020_G0050_001_pod153",
@@ -210,7 +213,8 @@
         "jp": "あそこからデータにアクセスできるみたいだな……",
         "en": "I think I can access the data over there...",
         "ru": "Думаю, я смогу получить доступ к данным вон там...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/115.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/115.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/197.wav"
     },
     {
         "id": "M5180_S0030_G0010_001_a9s",
@@ -223,7 +227,8 @@
         "jp": "あとは、このデータを送信すればいいな。",
         "en": "Now I just have to send it to her.",
         "ru": "Теперь мне нужно просто отправить их ей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/117.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/117.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/199.wav"
     },
     {
         "id": "M5180_S0030_G0030_001_pod153",
@@ -250,7 +255,8 @@
         "jp": "ここなら通信可能だな……",
         "en": "This should be good enough...",
         "ru": "Теперь всё должно пройти хорошо...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/119.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/119.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/201.wav"
     },
     {
         "id": "M5180_S0030_G0070_001_a9s",
@@ -282,40 +288,46 @@
         "jp": "データの受領を確認しました。",
         "en": "I received the data you sent.",
         "ru": "Я получила данные, что вы отправили.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/203.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/203.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/265.wav"
     },
     {
         "id": "M5180_S0030_G0120_001_op210",
         "jp": "現在解析していますが……これは興味深いですね。",
         "en": "It's...fascinating.",
-        "ru": "Они... восхитительны."
+        "ru": "Они... восхитительны.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/266.wav"
     },
     {
         "id": "M5180_S0030_G0130_001_op210",
         "jp": "このデータは過去に工場で働いていた人類の日記のようです。",
         "en": "It appears to be the journal of a human who once worked in the factory.",
         "ru": "По-видимому, это журнал человека, работавшего на фабрике.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/205.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/205.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/267.wav"
     },
     {
         "id": "M5180_S0030_G0140_001_a9s",
         "jp": "日記？",
         "en": "What, like a diary?",
         "ru": "Что-то вроде дневника?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/122.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/122.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/204.wav"
     },
     {
         "id": "M5180_S0030_G0150_001_op210",
         "jp": "その日記によると、毎日長時間工場で労働していたのですが、",
         "en": "Yes. According to this, the man worked long hours on an almost daily basis.",
         "ru": "Да. Согласно ему, человек работал почти каждый день по многу часов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/206.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/206.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/268.wav"
     },
     {
         "id": "M5180_S0030_G0160_001_op210",
         "jp": "『まるで機械のように働いている』と記載されています。",
         "en": "He says, and I quote, \"They are working me like a machine.\"",
-        "ru": "Он сказал, я процитирую: \"Они заставляют работать меня, словно машину\"."
+        "ru": "Он сказал, я процитирую: \"Они заставляют работать меня, словно машину\".",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/269.wav"
     },
     {
         "id": "M5180_S0030_G0170_001_op210",
@@ -335,21 +347,24 @@
         "id": "M5180_S0030_G0190_001_op210",
         "jp": "後ほどメールで特別報酬を送信します。",
         "en": "I'll send your reward later.",
-        "ru": "Позже я вышлю награду."
+        "ru": "Позже я вышлю награду.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/271.wav"
     },
     {
         "id": "M5180_S0030_G0200_001_a9s",
         "jp": "報酬？報酬がもらえるんですか？",
         "en": "Wait, I can get rewarded for doing this?",
         "ru": "Погодите, меня вознаградят за это?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/124.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/124.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/206.wav"
     },
     {
         "id": "M5180_S0030_G0210_001_op210",
         "jp": "報酬を渡さないとは一言も言っていません。",
         "en": "I didn't say you would not get a reward.",
         "ru": "Я ведь не говорила, что награды не будет.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/210.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/210.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/272.wav"
     },
     {
         "id": "M5180_S0030_G0220_001_a9s",
@@ -361,7 +376,8 @@
         "id": "M5180_S0030_G0230_001_a9s",
         "jp": "……てか、通信切れてるし。",
         "en": "H-Hey! Don't disconnect me!",
-        "ru": "Э-эй! Не разъединяйте вот так!"
+        "ru": "Э-эй! Не разъединяйте вот так!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/208.wav"
     },
     {
         "id": "M5920_S0020_G0180_001_pod153",

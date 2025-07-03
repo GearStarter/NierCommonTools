@@ -11,7 +11,8 @@
         "jp": "一人で死のうとしないで。",
         "en": "Don't die alone.",
         "ru": "Не умирай в одиночестве.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/654.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/654.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/732.wav"
     },
     {
         "id": "M3050_S0038_G0100_001_a9s",
@@ -56,7 +57,8 @@
         "jp": "また、あの文字……",
         "en": "That language again...",
         "ru": "И вновь тот же язык...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1817.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1817.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1818.wav"
     },
     {
         "id": "M3050_S0042_G0010_001_pod153",
@@ -69,7 +71,8 @@
         "jp": "神……",
         "en": "God, huh...",
         "ru": "Бога, да...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1818.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1818.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1819.wav"
     },
     {
         "id": "M3050_S0042_G0030_001_a9s",

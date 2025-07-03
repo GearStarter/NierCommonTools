@@ -3,7 +3,8 @@
         "id": "M1020_S0020_G0000_001_a9s",
         "jp": "砂で滑りますね……",
         "en": "This sand sure is slippery.",
-        "ru": "Этот песок такой скользкий."
+        "ru": "Этот песок такой скользкий.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1150.wav"
     },
     {
         "id": "M1020_S0020_G0020_001_n02",
@@ -15,7 +16,8 @@
         "id": "M1020_S0020_G0030_001_n02",
         "jp": "サバ……ク",
         "en": "De...sert...",
-        "ru": "Пус... тыня..."
+        "ru": "Пус... тыня...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/855.wav"
     },
     {
         "id": "M1020_S0020_G0040_001_n02",
@@ -33,21 +35,24 @@
         "id": "M1020_S0020_G0060_001_a2b",
         "jp": "機械生命体が、言葉を……",
         "en": "These machines are...talking.",
-        "ru": "Эти машины... они разговаривают."
+        "ru": "Эти машины... они разговаривают.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/478.wav"
     },
     {
         "id": "M1020_S0020_G0070_001_a9s",
         "jp": "こういう個体も増えたってレジスタンスの人が言ってましたね。",
         "en": "Yeah, I heard from the Resistance that they've been seeing this a lot lately.",
         "ru": "Да, я слышал от Сопротивления, что говорящих всё чаще замечают в последнее время.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1151.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1151.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1152.wav"
     },
     {
         "id": "M1020_S0020_G0080_001_a9s",
         "jp": "どうして最近になって増えたんだろう……？",
         "en": "Couldn't tell you why, though.",
         "ru": "Хотя причина неизвестна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1152.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1152.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1153.wav"
     },
     {
         "id": "M1020_S0020_G0010_001_a9s",
@@ -85,7 +90,8 @@
         "jp": "機械生命体にも、怖いっていう感情があるんでしょうか……",
         "en": "Do you think they even understand the concept of being scared?",
         "ru": "Как думаешь, они вообще способны понимать концепцию страха?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1154.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1154.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1155.wav"
     },
     {
         "id": "M1020_S0020_G0160_001_n02",
@@ -173,7 +179,8 @@
         "jp": "大体、助けてって言いながら攻撃するなんて矛盾してるし……",
         "en": "If they wanted help, why would they be attacking us?",
         "ru": "Если уж им нужна помощь, то зачем они нападают на нас?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1159.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1159.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1160.wav"
     },
     {
         "id": "M1020_S0020_G0300_001_a2b",
@@ -213,18 +220,21 @@
         "jp": "あっちの岩場に逃げましたよ！",
         "en": "It's heading for that rocky area!",
         "ru": "Вон он, хочет скрыться за этой скалой!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1160.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1160.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1161.wav"
     },
     {
         "id": "M1020_S0020_G0360_011_pod042",
         "jp": "ターゲット個体識別信号をマーク",
         "en": "Individual target ID marked.",
-        "ru": "Цель отмечена индивидуальным ID."
+        "ru": "Цель отмечена индивидуальным ID.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/669.wav"
     },
     {
         "id": "M1020_S0020_G0370_021_pod153",
         "jp": "ターゲット個体識別信号をマーク",
         "en": "Individual target ID marked.",
-        "ru": "Цель отмечена индивидуальным ID."
+        "ru": "Цель отмечена индивидуальным ID.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/669.wav"
     }
 ]

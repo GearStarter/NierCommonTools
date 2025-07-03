@@ -10,7 +10,8 @@
         "jp": "よし。最初のゲート解除！",
         "en": "There we go. First door unlocked!",
         "ru": "Вот так. Первая дверь открыта!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1541.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1541.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1542.wav"
     },
     {
         "id": "M1080_S0080_G1120_201_a9s",
@@ -36,7 +37,8 @@
         "jp": "ゲートのロックを解除しました！先に進んでください！",
         "en": "The door's open! Keep moving!",
         "ru": "Дверь открыта! Продолжай движение!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1546.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1546.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1547.wav"
     },
     {
         "id": "M1080_S0080_G1160_201_a2b",
@@ -49,7 +51,8 @@
         "jp": "解放したぞ。",
         "en": "It's open.",
         "ru": "Дверь открыта.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1549.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1549.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1550.wav"
     },
     {
         "id": "M1080_S0080_G1180_201_a9s",

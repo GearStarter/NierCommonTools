@@ -25,21 +25,24 @@
         "jp": "この大きなノコギリが、目標の『超大型兵器』ですか？",
         "en": "Soooo, was that big ol' buzzsaw the Goliath you came here to take out?",
         "ru": "Та-а-ак, эта груда металла и есть Голиаф, за которым вы пришли?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/36.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/36.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/36.wav"
     },
     {
         "id": "M0010_S0210_G0040_001_a2b",
         "jp": "違う。単なる防衛装置みたい。",
         "en": "No. Just another defensive system.",
         "ru": "Нет. Всего лишь очередная охранная система.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/3.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/3.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/3.wav"
     },
     {
         "id": "M0010_S0210_G0050_001_a9s",
         "jp": "じゃあ……目標を探す必要がありますね。",
         "en": "Oh. Well, uh...I guess we have to find the target then, huh?",
         "ru": "О. Ну, э... Думаю, тогда следует найти нашу цель, да?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/37.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/37.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/37.wav"
     },
     {
         "id": "M0010_S0210_G0060_001_a9s",

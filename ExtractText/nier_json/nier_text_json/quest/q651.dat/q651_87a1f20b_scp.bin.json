@@ -27,7 +27,8 @@
         "id": "M5651_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5651_S0010_G0030_001_resiman",
@@ -57,7 +58,8 @@
         "id": "M5651_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5651_S0010_G0100_001_resiman",
@@ -123,7 +125,8 @@
         "id": "M5651_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5651_S0010_G0090_001_resiman",
@@ -141,7 +144,8 @@
         "id": "M5651_S0010_G0070_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5650_S0020_G0030_300_resiman",

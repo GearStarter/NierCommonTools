@@ -83,14 +83,16 @@
         "jp": "っていうか、機械生命体の姉妹って変な話ですね。",
         "en": "Still, it's pretty funny to hear machines talk about siblings.",
         "ru": "Хотя довольно забавно слышать о том, как машины говорят о своих братьях и сёстрах.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/25.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/25.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/107.wav"
     },
     {
         "id": "M5110_S0010_G0100_001_a9s",
         "jp": "同じ工場で作られた、とかでしょうか？",
         "en": "Do you think she just means they were built at the same factory or something?",
         "ru": "Ты, случаем, не думала, что их попросту изготовили на одной и той же фабрике или что-то вроде того?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/26.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/26.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/108.wav"
     },
     {
         "id": "M5110_S0010_G0110_001_a2b",
@@ -116,7 +118,8 @@
         "id": "M5110_S0020_G0020_001_pascal",
         "jp": "突然の通信ですみません。",
         "en": "Ah! 9S! Yes, it is me. Many apologies for the sudden transmission.",
-        "ru": "О! 9S! Да, это я. Премного извиняюсь за внезапный сеанс связи."
+        "ru": "О! 9S! Да, это я. Премного извиняюсь за внезапный сеанс связи.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/636.wav"
     },
     {
         "id": "M5110_S0020_G0030_001_pascal",
@@ -130,14 +133,16 @@
         "jp": "私からもお願いします。どうか、早く見つけてやってください。",
         "en": "Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!",
         "ru": "Если это так, прошу, рассматривайте это как мою личную просьбу. Ступайте и отыщите ребёнка как можно быстрее!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/576.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/576.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/638.wav"
     },
     {
         "id": "M5110_S0020_G0050_001_pascal",
         "jp": "あれは姉思いのいい子なんです。",
         "en": "She's such a good little girl, and so fond of her sister!",
         "ru": "Она такая хорошая девочка, и она так сильно любит свою сестру!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/577.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/577.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/639.wav"
     },
     {
         "id": "M5110_S0020_G0060_001_pascal",
@@ -258,7 +263,8 @@
         "jp": "それで？パーツは見つかったの？",
         "en": "Did you at least find what you needed?",
         "ru": "Ты ведь нашла то, за чем пришла?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/32.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/32.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/114.wav"
     },
     {
         "id": "M5110_S0030_G0150_001_roboimouto",
@@ -271,7 +277,8 @@
         "jp": "そうだね。けど君が無事に戻ったら、もっと喜ぶと思うよ。",
         "en": "I'm sure she will. But I bet she'll be even happier to see you back home safe and sound.",
         "ru": "Уверен, что будет. Но, держу пари, она будет ещё счастливее увидеть тебя в целости и сохранности дома.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/33.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/33.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/115.wav"
     },
     {
         "id": "M5110_S0030_G0170_001_roboimouto",
@@ -296,7 +303,8 @@
         "id": "M5110_S0030_G0270_001_a9s",
         "jp": "それに従って土壌が変化し……",
         "en": "This caused lasting changes in the soil, which means plants aren't able to—",
-        "ru": "Это вызвало устойчивые изменения почвы, поэтому растения больше не могут..."
+        "ru": "Это вызвало устойчивые изменения почвы, поэтому растения больше не могут...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/120.wav"
     },
     {
         "id": "M5110_S0030_G0280_001_roboimouto",
@@ -328,7 +336,8 @@
         "jp": "それは気温や気圧の変化が……",
         "en": "Wind is just a force caused by changes in temperature and atmospheric pressure and...",
         "ru": "Ветер — сила, вызванная изменениями температуры и атмосферного давления и...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/40.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/40.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/122.wav"
     },
     {
         "id": "M5110_S0030_G0330_001_a9s",
@@ -348,7 +357,8 @@
         "jp": "私に聞かない。",
         "en": "Don't know. Don't care.",
         "ru": "Меня это не касается.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/848.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/848.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/849.wav"
     },
     {
         "id": "M5110_S0030_G0360_001_roboimouto",
@@ -361,7 +371,8 @@
         "id": "M5110_S0030_G0370_001_a9s",
         "jp": "それは……",
         "en": "Uuuuuuum....",
-        "ru": "Э-э-эм..."
+        "ru": "Э-э-эм...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5110_S0030_G0380_001_a9s",
@@ -388,7 +399,8 @@
         "jp": "そ、そんな声で言われても、私は助けられない。",
         "en": "Huh? You're the chatty one. Work it out.",
         "ru": "Чего? Ты уже у нас болтун. Вот и расхлёбывай сам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/849.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/849.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/850.wav"
     },
     {
         "id": "M5110_S0030_G0420_001_a9s",
@@ -525,14 +537,16 @@
         "jp": "どこではぐれちゃったんだろう……",
         "en": "We must have gotten separated somehow.",
         "ru": "Должно быть, мы где-то разошлись.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/35.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/35.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/117.wav"
     },
     {
         "id": "M5110_S0030_G0210_001_a9s",
         "jp": "あの子を見つけた場所に戻ってみましょうか。",
         "en": "Let's go back to where we first found her. I bet she's waiting there.",
         "ru": "Давай вернёмся к месту, где впервые нашли её. Уверен, она ждёт нас именно там.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/36.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/36.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/118.wav"
     },
     {
         "id": "M5110_S0030_G0220_001_roboimouto",

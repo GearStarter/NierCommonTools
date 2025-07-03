@@ -16,7 +16,8 @@
         "id": "M1050_S0020_G0020_001_pascal",
         "jp": "先日の機械生命体の暴走は大変でしたね……",
         "en": "Those machines caused quite the ruckus, don't you think?",
-        "ru": "Эти машины уж слишком шумные, вам так не кажется?"
+        "ru": "Эти машины уж слишком шумные, вам так не кажется?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/459.wav"
     },
     {
         "id": "M1050_S0020_G0030_001_a2b",
@@ -169,13 +170,15 @@
         "jp": "この村以外に、ネットワークから切り離された機械生命体はいるの？",
         "en": "Aside from this village, are there any other machines that are cut off from the network?",
         "ru": "Интересно, есть ли другие машины помимо этой деревни, которые отключены от сети?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/554.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/554.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/554.wav"
     },
     {
         "id": "M1050_S0040_G0110_001_pascal",
         "jp": "この村以外ですか……",
         "en": "Hmm...",
-        "ru": "Хм..."
+        "ru": "Хм...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/467.wav"
     },
     {
         "id": "M1050_S0040_G0120_001_pascal",
@@ -189,7 +192,8 @@
         "jp": "歌姫……あれが？",
         "en": "You mean that singing thing?",
         "ru": "Ты имеешь в виду ту поющую жестянку?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1354.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1354.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1355.wav"
     },
     {
         "id": "M1050_S0040_G0140_001_pascal",
@@ -202,14 +206,16 @@
         "jp": "森の国？",
         "en": "Forest kingdom?",
         "ru": "Лесное королевство?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/555.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/555.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/555.wav"
     },
     {
         "id": "M1050_S0040_G0160_001_pascal",
         "jp": "ええ。この近くに広い森があるのですが、",
         "en": "Yes. It's a vast woodland area not far from here.",
         "ru": "Да. Это место в лесу, неподалёку отсюда.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/408.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/408.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/470.wav"
     },
     {
         "id": "M1050_S0040_G0170_001_pascal",
@@ -244,7 +250,8 @@
         "jp": "大きな商業施設の廃墟から行けるはずですが……",
         "en": "You should be able to reach it by passing through the ruins of the commercial facility.",
         "ru": "Вы сможете добраться до него, если проберётесь через торговый центр.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/412.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/412.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/474.wav"
     },
     {
         "id": "M1050_S0040_G0220_001_pascal",

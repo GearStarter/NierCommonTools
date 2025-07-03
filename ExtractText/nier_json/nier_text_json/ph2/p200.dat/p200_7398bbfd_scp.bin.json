@@ -4,6 +4,7 @@
         "jp": "この先が森のある地域みたいですね。",
         "en": "Looks like the forest is just ahead.",
         "ru": "Похоже, что впереди лес.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1370.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1370.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1371.wav"
     }
 ]

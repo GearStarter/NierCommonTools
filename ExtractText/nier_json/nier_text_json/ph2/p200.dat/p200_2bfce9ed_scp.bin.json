@@ -3,7 +3,8 @@
         "id": "M1050_S0195_S0133_201_a9s",
         "jp": "いかにも王様が住んでそうなお城ですね……",
         "en": "Yep, this looks like a king's castle, all right...",
-        "ru": "Ага, вроде бы, похож на королевский замок..."
+        "ru": "Ага, вроде бы, похож на королевский замок...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1383.wav"
     },
     {
         "id": "M5920_S0060_G0140_001_a9s",
@@ -35,14 +36,16 @@
         "id": "M5920_S0060_G0180_001_a9s",
         "jp": "え？違いますよね？もっと、こう『ナインズ』的な発音でしたよね？",
         "en": "Wait, no! That's not what you said! You said \"Nines\"!\\nOr at least something close to—",
-        "ru": "Подожди, нет! Ты не это сказала! Ты сказала \"Девятый\"! Или что-то похожее..."
+        "ru": "Подожди, нет! Ты не это сказала! Ты сказала \"Девятый\"! Или что-то похожее...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/432.wav"
     },
     {
         "id": "M5920_S0060_G0190_001_a2b",
         "jp": "黙って敵を倒す。",
         "en": "Cut the chatter, and engage the enemy.",
         "ru": "Хватит болтать и займись врагом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1010.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1010.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1011.wav"
     },
     {
         "id": "M5920_S0060_G0200_001_a9s",

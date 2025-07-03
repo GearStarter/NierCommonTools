@@ -4,7 +4,8 @@
         "jp": "どうしたの！？その傷……",
         "en": "Oh dear. What happened to you?",
         "ru": "Ох, дорогуша. Что с тобой случилось?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/649.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/649.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/727.wav"
     },
     {
         "id": "M3050_S0038_G0010_001_pod153",
@@ -18,14 +19,16 @@
         "jp": "よくそんな状態でここまで来られたな……",
         "en": "I'm amazed you were even able to drag yourself here.",
         "ru": "Я удивлена, как ты только смог самостоятельно прийти сюда.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/947.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/947.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1029.wav"
     },
     {
         "id": "M3050_S0038_G0040_001_dbl",
         "jp": "調整に時間がかかる。ちょっと待っててくれ。",
         "en": "This is gonna take a bit, so just hang tight.",
         "ru": "Это займёт немного времени, так что потерпи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/948.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/948.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1030.wav"
     },
     {
         "id": "M3050_S0038_G0050_001_ppl",

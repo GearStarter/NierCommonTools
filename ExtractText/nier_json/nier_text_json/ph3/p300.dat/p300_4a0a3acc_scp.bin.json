@@ -30,7 +30,8 @@
         "jp": "ネット……ワーク……",
         "en": "Net...work...",
         "ru": "Се... ть...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/868.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/868.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/950.wav"
     },
     {
         "id": "M3060_S0640_G0010_001_spider",
@@ -63,14 +64,16 @@
         "jp": "あの機械……",
         "en": "This is messed up.",
         "ru": "Как запутанно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/531.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/531.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/613.wav"
     },
     {
         "id": "M3060_S0640_G0310_001_a2",
         "jp": "何をグズグズと喋ってるんだ！？",
         "en": "What the hell is this thing going on about?",
         "ru": "Что за чушь несёт эта штука?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/532.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/532.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/614.wav"
     },
     {
         "id": "M3060_S0640_G0320_001_pod042",
@@ -91,14 +94,16 @@
         "jp": "不明。何かの資材にする可能性。",
         "en": "Speculation: It is a resource of some kind.",
         "ru": "Догадка: это ресурс... или нечто подобное.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/883.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/883.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/945.wav"
     },
     {
         "id": "M3060_S0640_G0570_001_a2",
         "jp": "資材……何を作るんだ？",
         "en": "Used to make what?",
         "ru": "Для чего он используется?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/534.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/534.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/616.wav"
     },
     {
         "id": "M3060_S0640_G0580_001_pod042",
@@ -150,7 +155,8 @@
         "id": "M3060_S0640_G0390_001_spider",
         "jp": "失った……壊れた",
         "en": "Lost...destroyed...",
-        "ru": "Потеряно... уничтожено..."
+        "ru": "Потеряно... уничтожено...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/978.wav"
     },
     {
         "id": "M3060_S0640_G0400_001_spider",
@@ -220,20 +226,23 @@
         "jp": "君は、何故生存するのか。",
         "en": "Why do you live?",
         "ru": "Зачем вы живёте?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/907.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/907.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/989.wav"
     },
     {
         "id": "M3060_S0640_G0510_001_spider",
         "jp": "僕は、何故存在するのか。",
         "en": "Why do we exist?",
         "ru": "Зачем вы существуете?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/908.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/908.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/990.wav"
     },
     {
         "id": "M3060_S0640_G0520_001_spider",
         "jp": "ああ、光が見える。",
         "en": "I see...light.",
-        "ru": "Я вижу... свет."
+        "ru": "Я вижу... свет.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/991.wav"
     },
     {
         "id": "M3060_S0640_G0530_001_spider",

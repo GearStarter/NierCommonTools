@@ -37,7 +37,8 @@
         "jp": "そんな時間……ない。",
         "en": "I don't have that kind of time.",
         "ru": "У меня нет времени на подобное.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1811.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1811.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1812.wav"
     },
     {
         "id": "M3050_S0030_G0060_001_pod153",
@@ -50,7 +51,8 @@
         "id": "M3050_S0030_G0070_001_pod153",
         "jp": "レジスタンスキャンプのデボルが修理可能。",
         "en": "Unit 9S should have Devola initiate repairs at the Resistance camp.",
-        "ru": "Единице 9S следует найти Деволу и провести ремонт в лагере Сопротивления."
+        "ru": "Единице 9S следует найти Деволу и провести ремонт в лагере Сопротивления.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/404.wav"
     },
     {
         "id": "M3050_S0030_G0080_001_a9s",

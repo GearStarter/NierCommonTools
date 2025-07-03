@@ -31,21 +31,24 @@
         "jp": "なんか……子供扱いされてる？",
         "en": "Why are you talking to me like I'm a child?",
         "ru": "Почему это вы разговариваете со мной, будто я ребёнок?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1622.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1622.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1623.wav"
     },
     {
         "id": "M3000_S0040_G0050_001_op210",
         "jp": "気のせいです。",
         "en": "What? That must be your imagination.",
         "ru": "Что? Наверное, вам просто показалось.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/158.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/158.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/220.wav"
     },
     {
         "id": "M3000_S0040_G0060_001_op210",
         "jp": "防空システムを受信している機械生命体は、",
         "en": "Look for machines that are receiving signals from the anti-air system.",
         "ru": "Разыщите машины, которые получают сигнал от ПВО системы.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/159.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/159.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/221.wav"
     },
     {
         "id": "M3000_S0040_G0070_001_op210",
@@ -105,14 +108,16 @@
         "jp": "なんだか、あいつらどんどん賢くなってるような気がするな。",
         "en": "Is it me, or does it seem like they're getting smarter?",
         "ru": "Это я, или же они стали умнее?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1623.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1623.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1624.wav"
     },
     {
         "id": "M3000_S0040_G0090_001_a9s",
         "jp": "しまった……",
         "en": "Whoops!",
         "ru": "Упс!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1626.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1626.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1627.wav"
     },
     {
         "id": "M3000_S0040_G0100_001_op210",
@@ -132,7 +137,8 @@
         "jp": "敵の視界の後ろからそーっと迫って……",
         "en": "Try to sneak up behind your foes, keep out of sight, and then...",
         "ru": "Подкрадитесь к противнику сзади, не попадайтесь ему на глаза, а потом...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/168.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/168.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/230.wav"
     },
     {
         "id": "M3000_S0040_G0130_001_op210",
@@ -146,7 +152,8 @@
         "jp": "わかってるよ……",
         "en": "Um, okay.",
         "ru": "Эм, хорошо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1629.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1629.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1630.wav"
     },
     {
         "id": "M3000_S0040_G0150_001_a9s",
@@ -185,13 +192,15 @@
         "jp": "やっぱり子供扱いされてる……",
         "en": "You're totally treating me like a kid.",
         "ru": "Вы точно обращаетесь со мной, как с ребёнком!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1627.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1627.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1628.wav"
     },
     {
         "id": "M3000_S0040_G0110_300_op210",
         "jp": "次もよろしくお願いします。",
         "en": "Now move onto the next one!",
-        "ru": "Теперь двигайтесь к следующей!"
+        "ru": "Теперь двигайтесь к следующей!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/229.wav"
     },
     {
         "id": "M3000_S0040_G0120_300_a9s",
@@ -210,14 +219,16 @@
         "id": "M3000_S0040_G0140_300_a9s",
         "jp": "もう少しだね。",
         "en": "Almost there.",
-        "ru": "Почти на месте."
+        "ru": "Почти на месте.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1631.wav"
     },
     {
         "id": "M3000_S0040_G0160_001_op210",
         "jp": "順調なようですね。",
         "en": "Looks like it's going well down there.",
         "ru": "Похоже, что всё продвигается успешно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/172.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/172.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/234.wav"
     },
     {
         "id": "M3000_S0040_G0170_001_op210",
@@ -278,7 +289,8 @@
         "jp": "あれ？心配してくれてるんですか？",
         "en": "Aw, are you worried about me?",
         "ru": "О, вы беспокоитесь обо мне?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1638.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1638.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1639.wav"
     },
     {
         "id": "M3000_S0040_G0260_001_op210",
@@ -403,7 +415,8 @@
         "jp": "素晴らしい成果なので、ご褒美を用意しました。",
         "en": "That really was brilliant work, which means I've got a special surprise for you.",
         "ru": "Отличная работа, поэтому у меня есть для вас особый сюрприз.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/174.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/174.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/236.wav"
     },
     {
         "id": "M3000_S0040_G0180_300_op210",
@@ -417,7 +430,8 @@
         "jp": "……ご褒美？",
         "en": "...A surprise?",
         "ru": "...Сюрприз?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1635.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1635.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1636.wav"
     },
     {
         "id": "M3000_S0040_G0151_001_pod153",
@@ -450,7 +464,8 @@
         "jp": "始まった……",
         "en": "Here we go...",
         "ru": "Понеслась...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1645.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1645.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1646.wav"
     },
     {
         "id": "M5920_S0020_G0310_001_pod153",

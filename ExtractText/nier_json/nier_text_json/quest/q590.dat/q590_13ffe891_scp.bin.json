@@ -205,13 +205,15 @@
         "jp": "旧世界の遺産か……",
         "en": "Relics from the old world, eh?",
         "ru": "Реликвии из старого мира, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/968.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/968.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/969.wav"
     },
     {
         "id": "M5590_S0010_G0070_001_pod042",
         "jp": "砂漠地帯での遺失物捜索は困難。",
         "en": "Searching for relics in the desert without assistance might prove difficult.",
-        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным."
+        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/559.wav"
     },
     {
         "id": "M5590_S0010_G0080_001_pod042",
@@ -225,13 +227,15 @@
         "jp": "旧世界の遺産……",
         "en": "Relics from the old world...",
         "ru": "Реликвии из старого мира...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/269.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/269.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/351.wav"
     },
     {
         "id": "M5590_S0010_G0100_001_pod153",
         "jp": "砂漠地帯での遺失物捜索は困難。",
         "en": "Searching for relics in the desert without assistance might prove difficult.",
-        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным."
+        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/559.wav"
     },
     {
         "id": "M5590_S0010_G0110_001_pod153",
@@ -244,13 +248,15 @@
         "jp": "旧世界の遺産ね……",
         "en": "So I need to find junk from the old world now?",
         "ru": "Итак, теперь мне нужно найти хлам из старого мира?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/596.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/596.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/678.wav"
     },
     {
         "id": "M5590_S0010_G0130_001_pod042",
         "jp": "砂漠地帯での遺失物捜索は困難。",
         "en": "Searching for relics in the desert without assistance might prove difficult.",
-        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным."
+        "ru": "Поиск реликвий в пустыне без помощи будет слишком сложным.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/559.wav"
     },
     {
         "id": "M5590_S0010_G0140_001_pod042",
@@ -322,7 +328,8 @@
         "jp": "この敵は……",
         "en": "These enemies...",
         "ru": "Те враги...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/970.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/970.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/971.wav"
     },
     {
         "id": "M5590_S0050_G0000_001_robolarge",
@@ -363,7 +370,8 @@
         "jp": "こいつら一体……",
         "en": "What the heck were those guys?",
         "ru": "Что это были за парни?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/271.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/271.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/353.wav"
     },
     {
         "id": "M5590_S0050_G0000_001_robolarge",
@@ -397,14 +405,16 @@
         "jp": "クソッ！？",
         "en": "Well, crap.",
         "ru": "Вот дерьмо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/597.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/597.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M5590_S0050_G0210_001_a2",
         "jp": "こいつらは……",
         "en": "What the hell were those guys?",
         "ru": "Кто, чёрт возьми, эти парни?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/598.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/598.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/680.wav"
     },
     {
         "id": "M5590_S0050_G0080_001_pod042",

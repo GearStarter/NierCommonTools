@@ -275,7 +275,8 @@
         "jp": "でも……",
         "en": "But...",
         "ru": "Но...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/337.wav"
     },
     {
         "id": "M5500_S0020_G0100_001_a9s",
@@ -551,7 +552,8 @@
         "id": "M5500_S0020_G0380_001_pod042",
         "jp": "詳細不明。ただし、最後に目撃された地点についての情報が存在。",
         "en": "Exact position unknown. Data regarding her last known location does exist, however.",
-        "ru": "Точное местоположение неизвестно. Однако есть данные относительно её последнего известного местоположения."
+        "ru": "Точное местоположение неизвестно. Однако есть данные относительно её последнего известного местоположения.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/69.wav"
     },
     {
         "id": "M5500_S0020_G0390_001_pod042",
@@ -575,7 +577,8 @@
         "id": "M5500_S0020_G0420_001_pod153",
         "jp": "詳細不明。ただし、最後に目撃された地点についての情報が存在。",
         "en": "Exact position unknown. Data regarding her last known location does exist, however.",
-        "ru": "Точное местоположение неизвестно. Однако есть данные относительно её последнего известного местоположения."
+        "ru": "Точное местоположение неизвестно. Однако есть данные относительно её последнего известного местоположения.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/69.wav"
     },
     {
         "id": "M5500_S0020_G0430_001_pod153",

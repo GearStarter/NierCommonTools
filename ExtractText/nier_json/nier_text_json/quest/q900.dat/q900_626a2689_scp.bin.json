@@ -28,7 +28,8 @@
         "id": "M5900_S0010_G0030_001_a2",
         "jp": "どういう意味だ？",
         "en": "What do you mean?",
-        "ru": "Что ты имеешь в виду?"
+        "ru": "Что ты имеешь в виду?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/686.wav"
     },
     {
         "id": "M5900_S0010_G0040_001_eml",
@@ -41,7 +42,8 @@
         "id": "M5900_S0010_G0050_001_a2b",
         "jp": "なんだか、エミールの様子がおかしい……",
         "en": "Emil sure is acting odd.",
-        "ru": "Эмиль определённо ведёт себя странно."
+        "ru": "Эмиль определённо ведёт себя странно.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/983.wav"
     },
     {
         "id": "M5900_S0010_G0060_001_a2b",
@@ -66,7 +68,8 @@
         "id": "M5900_S0010_G0090_001_a9s",
         "jp": "なんだか、エミールの様子がおかしいな……",
         "en": "Emil sure is acting kind of weird.",
-        "ru": "Эмиль определённо ведёт себя странно."
+        "ru": "Эмиль определённо ведёт себя странно.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/394.wav"
     },
     {
         "id": "M5900_S0010_G0100_001_a9s",
@@ -85,14 +88,16 @@
         "jp": "用意がいいな。追うぞ。",
         "en": "Heh. Nice work. Let's go find him.",
         "ru": "Хех. Отличная работа. Давай найдём его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/314.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/314.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/396.wav"
     },
     {
         "id": "M5900_S0010_G0130_001_a2",
         "jp": "なんだか、あの丸っこいのの様子がおかしいな……",
         "en": "That round guy is acting kind of strange.",
         "ru": "Этот круглый парень ведёт себя странно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/605.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/605.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/687.wav"
     },
     {
         "id": "M5900_S0010_G0140_001_a2",
@@ -156,13 +161,15 @@
         "id": "M5900_S0020_S0060_001_eml",
         "jp": "気を……つけて……",
         "en": "Watch...out...",
-        "ru": "Берегись..."
+        "ru": "Берегись...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1142.wav"
     },
     {
         "id": "M5900_S0020_S0070_001_eml",
         "jp": "まだ……生きて……",
         "en": "They're still...alive...",
-        "ru": "Он ещё... жив..."
+        "ru": "Он ещё... жив...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1143.wav"
     },
     {
         "id": "M5900_S0030_H0000_001_a2b",
@@ -350,27 +357,31 @@
         "jp": "あいつらは……僕が決着を……つけないと……",
         "en": "I need to settle things with them. On my own.",
         "ru": "Мне нужно разобраться с ними. Самостоятельно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1064.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1064.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1146.wav"
     },
     {
         "id": "M5900_S0110_G0140_001_a2b",
         "jp": "黙ってて！",
         "en": "Enough!",
-        "ru": "Достаточно!"
+        "ru": "Достаточно!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/993.wav"
     },
     {
         "id": "M5900_S0110_G0150_001_a9s",
         "jp": "いいから休んで！",
         "en": "Stop it! You have to stand down!",
         "ru": "Остановись! Тебе следует отступить!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/322.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/322.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/404.wav"
     },
     {
         "id": "M5900_S0110_G0160_001_a2",
         "jp": "子供は黙ってろ！！",
         "en": "Shut up already, kid!",
         "ru": "Заткнись уже, малыш!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/615.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/615.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/697.wav"
     },
     {
         "id": "M5900_S0120_G0000_001_emls",
@@ -455,7 +466,8 @@
         "id": "M5900_S0120_G0130_001_a2b",
         "jp": "ああっ！！",
         "en": "Aaaaah!",
-        "ru": "А-а-а-а!"
+        "ru": "А-а-а-а!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/307.wav"
     },
     {
         "id": "M5900_S0120_G0140_001_a9s",
@@ -467,7 +479,8 @@
         "id": "M5900_S0120_G0150_001_a2",
         "jp": "クソッ！！",
         "en": "Shit!",
-        "ru": "Дерьмо!"
+        "ru": "Дерьмо!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M5900_S0120_G0160_001_emls",
@@ -515,7 +528,8 @@
         "jp": "どんなに苦しくても、どんなに辛くても……",
         "en": "No matter how hard or how painful...",
         "ru": "Не важно, как тяжело или как больно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1066.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1066.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1148.wav"
     },
     {
         "id": "M5900_S0120_G0230_001_eml",
@@ -529,7 +543,8 @@
         "jp": "いつか乗り越えられると信じて、戦ってたんだ！",
         "en": "They kept fighting because they believed they could overcome someday!",
         "ru": "Они продолжали бороться, потому что верили, что когда-нибудь смогут победить!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1068.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1068.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1150.wav"
     },
     {
         "id": "M5900_S0120_G0250_001_eml",
@@ -592,14 +607,16 @@
         "id": "M5900_S0130_S0050_001_eml",
         "jp": "僕は、逃げていたんです……大事な人を失った記憶から……",
         "en": "I was running...from the memories of losing those close to me...",
-        "ru": "Я бежал... от воспоминаний о том, как терял тех, кто мне близок..."
+        "ru": "Я бежал... от воспоминаний о том, как терял тех, кто мне близок...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1156.wav"
     },
     {
         "id": "M5900_S0130_S0060_001_eml",
         "jp": "だって……辛くて……苦しくて……",
         "en": "It was so hard... So painful...",
         "ru": "Было так тяжело... Так больно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1075.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1075.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1157.wav"
     },
     {
         "id": "M5900_S0130_S0070_001_eml",
@@ -624,13 +641,15 @@
         "jp": "でも、もうすぐ会えるから……きっと……",
         "en": "But now I get to see them again... Really soon...",
         "ru": "Но теперь я увижу их снова... Очень скоро...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1079.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1079.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1161.wav"
     },
     {
         "id": "M5900_S0130_S0110_001_a2b",
         "jp": "大丈夫、修理すれば……",
         "en": "You'll be all right. We can repair you.",
-        "ru": "С тобой всё будет хорошо. Мы сможем починить тебя."
+        "ru": "С тобой всё будет хорошо. Мы сможем починить тебя.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/996.wav"
     },
     {
         "id": "M5900_S0130_S0120_001_a9s",
@@ -643,7 +662,8 @@
         "id": "M5900_S0130_S0130_001_a2",
         "jp": "さっさと修理して元気に……",
         "en": "Cram it already, kid. I'm sure we'll have you back up and running in no time.",
-        "ru": "Заткнись уже, малыш. Я уверена, мы вмиг починим тебя."
+        "ru": "Заткнись уже, малыш. Я уверена, мы вмиг починим тебя.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/700.wav"
     },
     {
         "id": "M5900_S0130_S0140_001_eml",

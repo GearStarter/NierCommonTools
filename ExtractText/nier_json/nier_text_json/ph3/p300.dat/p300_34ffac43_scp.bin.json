@@ -23,7 +23,8 @@
         "jp": "使えないな……",
         "en": "Well, aren't you helpful.",
         "ru": "Ты как всегда полезен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/481.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/481.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/732.wav"
     },
     {
         "id": "M3050_S0045_G0040_001_pod042",
@@ -98,7 +99,8 @@
         "jp": "一体……何が起きてるんだ？",
         "en": "What the heck is going on around here?",
         "ru": "Что, чёрт возьми, здесь происходит?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/485.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/485.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/567.wav"
     },
     {
         "id": "M3050_S0045_G0160_001_pod153",

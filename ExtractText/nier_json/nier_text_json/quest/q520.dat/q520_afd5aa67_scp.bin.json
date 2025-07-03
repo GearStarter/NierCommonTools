@@ -154,28 +154,32 @@
         "jp": "旧世界の情報だ……けど、これ、内容が……",
         "en": "It's data from the old world, but it's...",
         "ru": "Это данные из старого мира, но...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/228.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/228.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/310.wav"
     },
     {
         "id": "M5520_S0020_G0060_001_pod153",
         "jp": "核分裂を用いた兵器の生成に関する情報。",
         "en": "This data is related to the creation of nuclear fission weapons.",
         "ru": "Эти данные описывают создание оружия на основе ядерного распада.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/470.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/470.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/548.wav"
     },
     {
         "id": "M5520_S0020_G0070_001_a9s",
         "jp": "……これ、パスカルに渡してもいいんだろうか。",
         "en": "Oh, geez. I wonder if we should really hand this over to Pascal...",
         "ru": "Ох, блин. Интересно, стоит ли нам передавать такие данные Паскалю...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/229.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/229.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/311.wav"
     },
     {
         "id": "M5520_S0020_G0080_001_a9s",
         "jp": "それとも司令官に……",
         "en": "I mean, the Commander might want it, right?",
         "ru": "В смысле, Командору могут быть полезны эти данные, верно?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/230.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/230.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/312.wav"
     },
     {
         "id": "M5520_S0020_G0090_001_pod153",

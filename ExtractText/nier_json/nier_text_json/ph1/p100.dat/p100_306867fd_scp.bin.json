@@ -4,14 +4,16 @@
         "jp": "ここがレジスタンスキャンプか……",
         "en": "So this is the Resistance Camp, huh?",
         "ru": "Значит, это и есть Лагерь Сопротивления, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1138.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1138.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1139.wav"
     },
     {
         "id": "M1010_S0060_G0010_001_a9s",
         "jp": "まず、リーダーに情報を聞いてみましょうよ。",
         "en": "We should probably go talk to their leader first thing.",
         "ru": "Пожалуй, для начала нам стоит поговорить с их лидером.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1139.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1139.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1140.wav"
     },
     {
         "id": "M1010_S0060_G0020_001_ane",
@@ -39,14 +41,16 @@
         "jp": "……いや、バンカーから連絡が来てたからな。",
         "en": "Um... Yes, well, the Bunker told me to expect you.",
         "ru": "Эм... Да, ну, мне поступило сообщение из Бункера о том, что вы прибудете.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/744.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/744.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/826.wav"
     },
     {
         "id": "M1010_S0060_G0050_001_ane",
         "jp": "私の名前はアネモネ。",
         "en": "My name is Anemone.",
         "ru": "Меня зовут Анемона.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/745.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/745.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/827.wav"
     },
     {
         "id": "M1010_S0060_G0060_001_ane",
@@ -67,14 +71,16 @@
         "jp": "情報は私よりも他の連中の方が詳しいだろう。",
         "en": "Well, I'm sure my people will have plenty of information for you.",
         "ru": "Я уверена, у моих подчинённых есть масса информации для вас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/748.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/748.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/830.wav"
     },
     {
         "id": "M1010_S0060_G0090_001_ane",
         "jp": "私を通さなくていいから、好きに聞いてくれ。",
         "en": "Please, feel free to ask them anything you like.",
         "ru": "Не стесняйтесь спрашивать их о чём угодно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/749.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/749.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/831.wav"
     },
     {
         "id": "M1010_S0060_G0100_001_ane",
@@ -128,7 +134,8 @@
         "id": "M1020_S0005_G0050_001_ane",
         "jp": "手伝う。",
         "en": "Help her.",
-        "ru": "Помочь ей."
+        "ru": "Помочь ей.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M1020_S0005_G0060_001_ane",
@@ -191,7 +198,8 @@
         "jp": "問題なし……それは作戦に関係する情報？",
         "en": "It's fine. Does that question have anything to do with our operation?",
         "ru": "Отличная. Этот вопрос как-то связан с нашей операцией?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1017.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1017.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1018.wav"
     },
     {
         "id": "M5920_S0100_G0040_001_op60",
@@ -218,7 +226,8 @@
         "jp": "それでは、また！",
         "en": "Anyway, talk to you later!",
         "ru": "Ладно, до связи!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/363.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/363.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/425.wav"
     },
     {
         "id": "M5920_S0100_G0320_001_op210",
@@ -256,7 +265,8 @@
         "id": "M5920_S0100_G0370_001_a9s",
         "jp": "そこがいいところな気もしますけど。",
         "en": "Though I kinda like that about you.",
-        "ru": "Хотя, мне нравится эта твоя черта."
+        "ru": "Хотя, мне нравится эта твоя черта.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/447.wav"
     },
     {
         "id": "M6090_S0010_G0015_300_kj",

@@ -301,7 +301,8 @@
         "jp": "ちょっとアネモネさんに話をしに行こう。",
         "en": "Hmm. Maybe I should talk this over with Anemone.",
         "ru": "Хм. Может, я должен поговорить об этом с Анемоной.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/262.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/262.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/344.wav"
     },
     {
         "id": "M5561_S0030_G0050_001_a2",
@@ -322,7 +323,8 @@
         "jp": "ここのリーダーに、一度話をしておくか……",
         "en": "I'd better talk to the lady in charge about this.",
         "ru": "Я лучше поговорю с дамочкой, ответственной за это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/588.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/588.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/670.wav"
     },
     {
         "id": "M5561_S0030_G0080_001_ane",
@@ -364,7 +366,8 @@
         "id": "M5561_S0030_G0150_001_ane",
         "jp": "それは……",
         "en": "That...",
-        "ru": "Это..."
+        "ru": "Это...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5561_S0030_G0160_001_ane",
@@ -412,7 +415,8 @@
         "id": "M5561_S0030_G0150_001_ane",
         "jp": "それは……",
         "en": "That...",
-        "ru": "Это..."
+        "ru": "Это...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5561_S0030_G0160_001_ane",
@@ -439,6 +443,7 @@
         "jp": "ここのリーダーに、一度話をしておくか……",
         "en": "I'd better talk to the lady in charge about this.",
         "ru": "Я лучше поговорю с дамочкой, ответственной за это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/588.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/588.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/670.wav"
     }
 ]

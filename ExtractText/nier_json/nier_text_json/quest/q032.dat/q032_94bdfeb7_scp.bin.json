@@ -62,7 +62,8 @@
         "jp": "どんな情報でもいいから、集めておかないと。",
         "en": "Gather as much data as you can, no matter how irrelevant it may seem.",
         "ru": "Собери столько данных, сколько сможешь, невзирая на степень их важности.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/817.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/817.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/818.wav"
     },
     {
         "id": "M5032_S0010_G0050_001_a9s",
@@ -100,7 +101,8 @@
         "id": "M5032_S0020_G0020_001_a9s",
         "jp": "わっ！",
         "en": "Whoa!",
-        "ru": "Воу!"
+        "ru": "Воу!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/265.wav"
     },
     {
         "id": "M5032_S0020_G0030_001_eng",
@@ -208,7 +210,8 @@
         "id": "M5032_S0020_G0200_001_a2b",
         "jp": "どうして？",
         "en": "Why?",
-        "ru": "Зачем?"
+        "ru": "Зачем?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1556.wav"
     },
     {
         "id": "M5032_S0020_G0210_001_eng",
@@ -227,7 +230,8 @@
         "jp": "変わったロボットでしたね……",
         "en": "What a strange machine...",
         "ru": "Какая странная машина...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1939.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1939.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/66.wav"
     },
     {
         "id": "M5032_S0010_G0000_300_a2b",
@@ -241,7 +245,8 @@
         "jp": "困った時のオペレーターさん、ですよ。",
         "en": "Let's try the Operator again.",
         "ru": "Давай попробуем опять спросить у оператора.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1931.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1931.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/58.wav"
     },
     {
         "id": "M5032_S0010_G0080_300_a2b",
@@ -255,21 +260,24 @@
         "jp": "破損がひどくて使えないものばかりでしたね。",
         "en": "Yeah. Most of the gears were too damaged to use.",
         "ru": "Ага. Большинство приводов сильно повреждены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1937.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1937.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/64.wav"
     },
     {
         "id": "M5032_S0010_G0100_300_a2b",
         "jp": "少しくらい壊れてても使えるんじゃ……",
         "en": "Surely just a LITTLE damage won't hurt?",
         "ru": "И это ты называешь МАЛЕНЬКИМ ремонтом?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/820.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/820.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/821.wav"
     },
     {
         "id": "M5032_S0010_G0110_300_a9s",
         "jp": "無茶言わないでください",
         "en": "Come on now, 2B.",
         "ru": "Да ладно тебе, 2B.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1938.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1938.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/65.wav"
     },
     {
         "id": "M5032_S0010_G0020_300_a9s",
@@ -303,7 +311,8 @@
         "jp": "とりあえず、小型の機械生命体を倒しまくればいいのか。",
         "en": "Right. Let's go take out some small fry.",
         "ru": "Ладно. Пора бы выудить из неё информацию.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/818.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/818.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/819.wav"
     },
     {
         "id": "M5032_S0010_G0070_300_a9s",

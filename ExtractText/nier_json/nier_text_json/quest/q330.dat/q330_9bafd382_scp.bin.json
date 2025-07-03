@@ -27,14 +27,16 @@
         "id": "M5330_S0020_G0000_001_a9s",
         "jp": "これは、月の涙……",
         "en": "This is a Lunar Tear, right?",
-        "ru": "Это лунная слеза, верно?"
+        "ru": "Это лунная слеза, верно?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/241.wav"
     },
     {
         "id": "M5330_S0020_G0010_001_a9s",
         "jp": "エミールさんに知らせましょう。",
         "en": "We'd better let Emil know.",
         "ru": "Нам стоит рассказать Эмилю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/160.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/160.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/242.wav"
     },
     {
         "id": "M5330_S0020_G0020_001_eml",
@@ -71,14 +73,16 @@
         "id": "M5330_S0020_G0070_001_a9s",
         "jp": "うわっ！？",
         "en": "GYAAA!",
-        "ru": "А-А-А!"
+        "ru": "А-А-А!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/364.wav"
     },
     {
         "id": "M5330_S0020_G0080_001_eml",
         "jp": "ああ……そうだ。そういえば、ここは……",
         "en": "Oh, hey... Now that I think about it, this whole area was once...",
         "ru": "О, эй... Теперь, когда я подумал об этом, однажды всё это место было...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/985.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/985.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1067.wav"
     },
     {
         "id": "M5330_S0020_G0090_001_a2b",
@@ -92,7 +96,8 @@
         "jp": "ずっと昔……この花を保護していた記憶が断片的に残っています……",
         "en": "It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago...",
         "ru": "Всё довольно размыто, но, кажется, очень давно я ухаживал за такими цветами...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/986.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/986.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1068.wav"
     },
     {
         "id": "M5330_S0020_G0110_001_eml",
@@ -113,7 +118,8 @@
         "jp": "……人間を？",
         "en": "You mean humans?",
         "ru": "Ты имеешь в виду человечество?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/164.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/164.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/246.wav"
     },
     {
         "id": "M5330_S0020_G0140_001_eml",
@@ -197,7 +203,8 @@
         "jp": "ああ、そうか。ここは……",
         "en": "That's it. I remember now...",
         "ru": "Точно. Теперь я вспомнил...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/997.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/997.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1079.wav"
     },
     {
         "id": "M5330_S0030_G0090_001_eml",
@@ -217,7 +224,8 @@
         "id": "M5330_S0030_G0110_001_a9s",
         "jp": "エミールさんが？",
         "en": "You did?",
-        "ru": "Ты сражался?"
+        "ru": "Ты сражался?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/251.wav"
     },
     {
         "id": "M5330_S0030_G0120_001_eml",
@@ -285,13 +293,15 @@
         "id": "M5330_S0040_G0020_001_a9s",
         "jp": "月の涙を見つけ……",
         "en": "I found a Luna—",
-        "ru": "Я нашёл лунн..."
+        "ru": "Я нашёл лунн...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/253.wav"
     },
     {
         "id": "M5330_S0040_G0030_001_eml",
         "jp": "今すぐ行きます！！",
         "en": "I'M ON MY WAY!",
-        "ru": "Я УЖЕ В ПУТИ!"
+        "ru": "Я УЖЕ В ПУТИ!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1090.wav"
     },
     {
         "id": "M5330_S0040_G0040_001_eml",
@@ -304,7 +314,8 @@
         "jp": "さすが……早いですね。",
         "en": "As speedy as always, I see.",
         "ru": "Вижу, ты как всегда быстр.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/172.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/172.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/254.wav"
     },
     {
         "id": "M5330_S0040_G0060_001_eml",
@@ -324,7 +335,8 @@
         "jp": "ここでは、何があったんですか？",
         "en": "What happened here, Emil?",
         "ru": "Эмиль, что здесь произошло?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/173.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/173.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/255.wav"
     },
     {
         "id": "M5330_S0040_G0090_001_eml",
@@ -344,7 +356,8 @@
         "jp": "でも、敵の数もどんどん増えて……",
         "en": "But the aliens just kept coming.",
         "ru": "Но инопланетяне продолжали прибывать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1014.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1014.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1096.wav"
     },
     {
         "id": "M5330_S0040_G0120_001_eml",
@@ -407,7 +420,8 @@
         "id": "M5330_S0050_G0000_001_a9s",
         "jp": "これは、月の涙ですね。エミールさんに……",
         "en": "I should probably tell Emil about this Lunar Te—",
-        "ru": "Наверное, нужно сказать Эмилю об этой лунной сле..."
+        "ru": "Наверное, нужно сказать Эмилю об этой лунной сле...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/258.wav"
     },
     {
         "id": "M5330_S0050_G0010_001_eml",
@@ -420,7 +434,8 @@
         "jp": "まだ伝えてすらいないのに……",
         "en": "I didn't even contact you yet!",
         "ru": "Я ещё даже не связывался с тобой!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/177.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/177.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/259.wav"
     },
     {
         "id": "M5330_S0050_G0030_001_eml",
@@ -446,7 +461,8 @@
         "jp": "今……思い出しました……",
         "en": "I just remembered...",
         "ru": "Я просто вспомнил...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1024.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1024.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1106.wav"
     },
     {
         "id": "M5330_S0050_G0060_001_eml",
@@ -509,7 +525,8 @@
         "id": "M5330_S0070_G0010_001_a9s",
         "jp": "大事な場所？",
         "en": "Oh?",
-        "ru": "О?"
+        "ru": "О?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/262.wav"
     },
     {
         "id": "M5330_S0070_G0020_001_eml",
@@ -537,7 +554,8 @@
         "jp": "ショッピングモールにあるエレベーターの鍵です。",
         "en": "It'll let you access the elevator in the shopping mall.",
         "ru": "Он даст вам доступ к лифту в торговом центре.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1035.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1035.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1117.wav"
     },
     {
         "id": "M5330_S0070_G0060_001_eml",

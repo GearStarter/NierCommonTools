@@ -136,7 +136,8 @@
         "id": "M5221_S0010_G0220_001_a2",
         "jp": "クソッ……",
         "en": "Dammit...",
-        "ru": "Проклятие..."
+        "ru": "Проклятие...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M5221_S0000_G0000_300_robochild",
@@ -245,7 +246,8 @@
         "id": "M5221_S0010_G0360_001_robotoolshop",
         "jp": "よろしくお願いします。",
         "en": "Safe travels!",
-        "ru": "Счастливого пути!"
+        "ru": "Счастливого пути!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/644.wav"
     },
     {
         "id": "M6050_S0010_G1920_300_ps",
@@ -456,7 +458,8 @@
         "jp": "平和的な機械生命体……か。",
         "en": "A group of pacifist machines, huh?",
         "ru": "Группа машин-пацифистов, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/558.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/558.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/640.wav"
     },
     {
         "id": "M5221_S0030_G0222_001_pascal",

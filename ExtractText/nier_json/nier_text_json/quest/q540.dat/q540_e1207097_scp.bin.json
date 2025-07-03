@@ -139,7 +139,8 @@
         "jp": "隊長からの通信！撤退命令です！",
         "en": "Hold up! The captain is ordering a retreat!",
         "ru": "Остановись! Капитан приказала отступить!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/460.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/460.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/460.wav"
     },
     {
         "id": "M5540_S0030_G0090_001_64b",
@@ -152,7 +153,8 @@
         "jp": "逃げられた……",
         "en": "They got away...",
         "ru": "Они сбежали...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/239.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/239.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/321.wav"
     },
     {
         "id": "M5540_S0030_G0010_001_pod042",
@@ -232,7 +234,8 @@
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
         "ru": "Вы... Вы сделали это!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
@@ -252,7 +255,8 @@
         "id": "M5540_S0030_G0190_001_a2b",
         "jp": "クッ……",
         "en": "Nnngh...",
-        "ru": "Нгх..."
+        "ru": "Нгх...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
     },
     {
         "id": "M5540_S0030_G0200_001_pod042",
@@ -272,7 +276,8 @@
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
         "ru": "...Уничтожить? Почему не арестовать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/323.wav"
     },
     {
         "id": "M5540_S0030_G0130_001_a8b",
@@ -300,7 +305,8 @@
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
         "ru": "Вы... Вы сделали это!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
@@ -320,7 +326,8 @@
         "id": "M5540_S0030_G0190_001_a2b",
         "jp": "クッ……",
         "en": "Nnngh...",
-        "ru": "Нгх..."
+        "ru": "Нгх...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
     },
     {
         "id": "M5540_S0030_G0200_001_pod042",
@@ -340,7 +347,8 @@
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
         "ru": "...Уничтожить? Почему не арестовать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/323.wav"
     },
     {
         "id": "M5540_S0030_G0130_001_a8b",
@@ -368,7 +376,8 @@
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
         "ru": "Вы... Вы сделали это!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
@@ -388,7 +397,8 @@
         "id": "M5540_S0030_G0190_001_a2b",
         "jp": "クッ……",
         "en": "Nnngh...",
-        "ru": "Нгх..."
+        "ru": "Нгх...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
     },
     {
         "id": "M5540_S0030_G0200_001_pod042",
@@ -408,7 +418,8 @@
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
         "ru": "...Уничтожить? Почему не арестовать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/323.wav"
     },
     {
         "id": "M5540_S0030_G0230_001_pod042",
@@ -422,7 +433,8 @@
         "jp": "任務完了。",
         "en": "Mission complete.",
         "ru": "Задание выполнено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/2.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/2.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/80.wav"
     },
     {
         "id": "M5540_S0030_G0250_001_a9s",
@@ -569,7 +581,8 @@
         "jp": "司令官命令によるものです。",
         "en": "The order came from the Commander herself.",
         "ru": "Приказ поступил лично от Командора.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/235.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/235.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/297.wav"
     },
     {
         "id": "M5540_S0030_G0480_001_a9s",
@@ -589,7 +602,8 @@
         "jp": "私からの情報は以上です。",
         "en": "I have no further information.",
         "ru": "У меня нет дополнительной информации.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/237.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/237.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/299.wav"
     },
     {
         "id": "M5540_S0030_G0510_001_a9s",
@@ -602,7 +616,8 @@
         "id": "M5540_S0030_G0520_001_a9s",
         "jp": "どうして……",
         "en": "The hell is that all about?",
-        "ru": "Что, чёрт возьми, всё это значит?"
+        "ru": "Что, чёрт возьми, всё это значит?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1556.wav"
     },
     {
         "id": "M5540_S0030_G0530_001_a2b",
@@ -614,7 +629,8 @@
         "id": "M5540_S0030_G0540_001_a9s",
         "jp": "でも……",
         "en": "But—",
-        "ru": "Но..."
+        "ru": "Но...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/337.wav"
     },
     {
         "id": "M5540_S0030_G0550_001_a2b",

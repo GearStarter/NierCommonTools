@@ -4,7 +4,8 @@
         "jp": "目標、敵アンドロイド！！",
         "en": "Aim for the enemy androids!",
         "ru": "Замечены вражеские андроиды!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/867.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/867.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/945.wav"
     },
     {
         "id": "M1050_S0150_S0010_001_kdc",
@@ -38,7 +39,8 @@
         "jp": "油断しないでください！",
         "en": "Better keep your guard up!",
         "ru": "Следи за своей защитой!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1372.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1372.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1373.wav"
     },
     {
         "id": "M1050_S0180_G0020_001_a2b",
@@ -58,28 +60,32 @@
         "id": "M1050_S0180_G0040_001_a9s",
         "jp": "はいっ！",
         "en": "I will, 2B!",
-        "ru": "Хорошо, 2B!"
+        "ru": "Хорошо, 2B!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/4.wav"
     },
     {
         "id": "M1050_S0180_G0041_001_a2b",
         "jp": "ここの機械生命体は……",
         "en": "These machines...",
         "ru": "Эти машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/563.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/563.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/563.wav"
     },
     {
         "id": "M1050_S0180_G0042_001_a9s",
         "jp": "「王国」とか「王様」って言ってましたね。",
         "en": "They were talking about a king, right?",
         "ru": "Они говорили о короле, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1374.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1374.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1375.wav"
     },
     {
         "id": "M1050_S0180_G0043_001_a9s",
         "jp": "奥の方に城らしき建造物が見えましたし、ちょっと行って調べてみましょうか。",
         "en": "I saw what looked to be a castle further in. Maybe we should take a look.",
         "ru": "Чуть поодаль я видел нечто, похожее на замок. Может, стоит осмотреть его?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1375.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1375.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1376.wav"
     },
     {
         "id": "M1050_S0190_G0050_001_n02",
@@ -208,7 +214,8 @@
         "jp": "あのお城にはどうやって行けばいいんでしょうね……",
         "en": "How are we supposed to reach that castle?",
         "ru": "Как нам добраться до этого замка?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1378.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1378.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1379.wav"
     },
     {
         "id": "M1050_S0190_G0000_001_a9s",

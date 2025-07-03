@@ -17,6 +17,7 @@
         "jp": "使えないな。",
         "en": "You're useless.",
         "ru": "Ты бесполезен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/650.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/650.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/732.wav"
     }
 ]

@@ -3,7 +3,8 @@
         "id": "M1030_S0400_G0001_001_a2b",
         "jp": "助けてくれて、ありがとう。",
         "en": "Thanks for the assist.",
-        "ru": "Спасибо за помощь."
+        "ru": "Спасибо за помощь.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/510.wav"
     },
     {
         "id": "M1030_S0400_G0002_001_a9s",
@@ -23,7 +24,8 @@
         "jp": "いつでも援護しますよ。",
         "en": "I've got your back anytime.",
         "ru": "Я с радостью прикрою тебя в любое время.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1250.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1250.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1251.wav"
     },
     {
         "id": "M1030_S0400_G0000_001_a2b",
@@ -83,7 +85,8 @@
         "jp": "機械生命体に意識なんかない……",
         "en": "The machines don't have feelings.",
         "ru": "Машины делают это неосознанно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/513.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/513.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/513.wav"
     },
     {
         "id": "M1030_S0400_G0090_001_a2b",
@@ -129,7 +132,8 @@
         "jp": "機械生命体が、こんなに言葉を使えるなんて……",
         "en": "This thing is awfully verbose for a machine.",
         "ru": "Эта штуковина ужасно болтлива для машины.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1258.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1258.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1259.wav"
     },
     {
         "id": "M1030_S0400_G0160_001_n02",
@@ -155,7 +159,8 @@
         "jp": "罠かもしれませんが……",
         "en": "It could be a trap...",
         "ru": "Возможно это ловушка...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1259.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1259.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1260.wav"
     },
     {
         "id": "M1030_S0400_G0200_001_a9s",
@@ -169,20 +174,23 @@
         "jp": "確かに怪しいですが……",
         "en": "It does seem awfully suspicious...",
         "ru": "Всё это выглядит жутко подозрительно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1261.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1261.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1262.wav"
     },
     {
         "id": "M1030_S0400_G0220_001_a9s",
         "jp": "ここまでコミュニケーションを取れる個体は見たことがありません。",
         "en": "But I've never seen a machine that could communicate at this level.",
         "ru": "Но прежде мне не доводилось видеть, чтобы машины разговаривали на таком уровне.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1262.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1262.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1263.wav"
     },
     {
         "id": "M1030_S0400_G0230_001_a9s",
         "jp": "確認してみる価値はあるかもしれませんね。",
         "en": "It might be worth checking out.",
-        "ru": "Пожалуй, стоит всё это проверить."
+        "ru": "Пожалуй, стоит всё это проверить.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1264.wav"
     },
     {
         "id": "M1030_S0400_G0240_001_n02",

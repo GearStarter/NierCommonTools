@@ -10,7 +10,8 @@
         "jp": "我らが配備されたこの森……",
         "en": "This forest we are stationed in...",
         "ru": "Лес, в котором мы обосновались...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/854.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/854.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/932.wav"
     },
     {
         "id": "M1050_S0130_S0020_201_largerobot",
@@ -36,7 +37,8 @@
         "jp": "……我は決意した。",
         "en": "I have decided.",
         "ru": "Я решил.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/858.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/858.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/936.wav"
     },
     {
         "id": "M1050_S0130_S0060_201_largerobot",

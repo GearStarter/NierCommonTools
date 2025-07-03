@@ -96,14 +96,16 @@
         "jp": "当該状況からの単独離脱は可能であり……",
         "en": "There was a very high probability that at least one could have escaped.",
         "ru": "Была очень высокая вероятность выживания хотя бы одной из единиц.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/364.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/364.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/442.wav"
     },
     {
         "id": "M3060_S0036_G0040_001_a9s",
         "jp": "僕には……",
         "en": "I...",
         "ru": "Я...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1854.wav"
     },
     {
         "id": "M3060_S0036_G0050_001_a9s",

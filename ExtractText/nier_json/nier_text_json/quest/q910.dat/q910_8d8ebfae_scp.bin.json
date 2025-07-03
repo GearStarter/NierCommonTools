@@ -11,14 +11,16 @@
         "jp": "機械生命体同士の……争い？",
         "en": "Are those machines fighting each other?",
         "ru": "Эти машин сражаются друг с другом?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/620.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/620.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/702.wav"
     },
     {
         "id": "M5910_S0100_G0020_001_pascal",
         "jp": "大変ありがとうございました。",
         "en": "Thank you so much for saving me.",
         "ru": "Спасибо большое, что спасли меня.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/582.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/582.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/644.wav"
     },
     {
         "id": "M5910_S0100_G0030_001_a2",
@@ -63,7 +65,8 @@
         "id": "M5910_S0100_G0090_001_pascal",
         "jp": "そうですか、仕方ありませんね。",
         "en": "Ah...I see.",
-        "ru": "Ах... Понятно."
+        "ru": "Ах... Понятно.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/647.wav"
     },
     {
         "id": "M5910_S0100_G0100_001_pascal",
@@ -94,7 +97,8 @@
         "id": "M5910_S0100_G0090_001_pascal",
         "jp": "そうですか、仕方ありませんね。",
         "en": "Ah...I see.",
-        "ru": "Ах... Понятно."
+        "ru": "Ах... Понятно.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/647.wav"
     },
     {
         "id": "M5910_S0100_G0100_001_pascal",
@@ -119,7 +123,8 @@
         "id": "M5910_S0100_G0130_001_pascal",
         "jp": "……殺さないのですか？",
         "en": "You...aren't going to kill me?",
-        "ru": "Вы... не собираетесь убивать меня?"
+        "ru": "Вы... не собираетесь убивать меня?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/649.wav"
     },
     {
         "id": "M5910_S0100_G0140_001_a2",

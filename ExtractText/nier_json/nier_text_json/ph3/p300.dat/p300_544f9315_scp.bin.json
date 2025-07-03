@@ -4,7 +4,8 @@
         "jp": "もう、どうでもいいんだよ！全部！",
         "en": "It doesn't matter. None of this matters!",
         "ru": "Не важно. Это не имеет значения!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1893.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1893.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/20.wav"
     },
     {
         "id": "M3060_S0820_G0010_001_a2",
@@ -16,7 +17,8 @@
         "id": "M3060_S0820_G0020_001_a9s",
         "jp": "だけど……なんでこんなに人間が恋しいんだ！",
         "en": "But if it doesn't matter...why do I long for humans like this!?",
-        "ru": "Но если мне всё равно... то почему я так скучаю по людям?!"
+        "ru": "Но если мне всё равно... то почему я так скучаю по людям?!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/21.wav"
     },
     {
         "id": "M3060_S0820_G0030_001_a9s",
@@ -30,7 +32,8 @@
         "jp": "……そう、作られているからだ。",
         "en": "It's how we were made.",
         "ru": "Такими нас создали.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/545.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/545.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/627.wav"
     },
     {
         "id": "M3060_S0820_G0050_001_a2",
@@ -69,6 +72,7 @@
         "id": "M3060_S0820_G0100_001_a2",
         "jp": "……クソッ！",
         "en": "Damn it!",
-        "ru": "Чёрт!"
+        "ru": "Чёрт!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     }
 ]

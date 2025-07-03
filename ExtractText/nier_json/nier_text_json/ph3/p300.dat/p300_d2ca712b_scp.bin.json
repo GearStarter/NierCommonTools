@@ -24,7 +24,8 @@
         "jp": "全データの削除を開始する。",
         "en": "Commencing deletion of all data.",
         "ru": "Начинаю удаление всех данных.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/383.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/383.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/461.wav"
     },
     {
         "id": "M3060_S7500_S0040_001_pod153",
@@ -37,7 +38,8 @@
         "jp": "ストリームにノイズが混ざっている。",
         "en": "Data noise present in stream.",
         "ru": "В потоке обнаружены помехи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/385.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/385.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/463.wav"
     },
     {
         "id": "M3060_S7500_S0060_001_pod153",
@@ -89,7 +91,8 @@
         "jp": "計画に従い、パーソナルデータを削除せよ。",
         "en": "Follow project rules and delete all personal data.",
         "ru": "Следуйте процедуре проекта и удалите все персональные данные.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/388.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/388.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/466.wav"
     },
     {
         "id": "M3060_S7500_S0120_001_pod042",
@@ -108,7 +111,8 @@
         "jp": "パーソナルデータの削除を拒否する。",
         "en": "Personal data deletion request denied.",
         "ru": "В запросе на удаление персональных данных отказано.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/902.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/902.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/964.wav"
     },
     {
         "id": "M3060_S7500_S0150_001_pod153",
@@ -133,14 +137,16 @@
         "id": "M3060_S7500_S0180_001_pod042",
         "jp": "記録参照中に私の中に生成されたデータがある。",
         "en": "There was...data created in my banks as I was referencing the records.",
-        "ru": "В моей... базе были созданы данные, на которые я ссылался."
+        "ru": "В моей... базе были созданы данные, на которые я ссылался.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/966.wav"
     },
     {
         "id": "M3060_S7500_S0190_001_pod042",
         "jp": "私……",
         "en": "I...realize something.",
         "ru": "Я... осознал кое-что.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/905.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/905.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/967.wav"
     },
     {
         "id": "M3060_S7500_S0195_001_pod042",
@@ -161,7 +167,8 @@
         "jp": "データは破棄される予定だ。",
         "en": "All data must be destroyed.",
         "ru": "Все данные должны быть уничтожены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/392.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/392.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/470.wav"
     },
     {
         "id": "M3060_S7500_S0220_001_pod042",
@@ -174,7 +181,8 @@
         "jp": "繰り返す。",
         "en": "Repeat.",
         "ru": "Повторяю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/908.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/908.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/970.wav"
     },
     {
         "id": "M3060_S7500_S0240_001_pod042",
@@ -194,7 +202,8 @@
         "jp": "君も本当は、彼らの生存を望んでいるのだろう？",
         "en": "You hoped they would survive as well, didn't you?",
         "ru": "Вы ведь тоже желаете, чтобы они были живы, не так ли?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/911.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/911.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/973.wav"
     },
     {
         "id": "M3060_S7500_S0270_001_pod153",
@@ -214,7 +223,8 @@
         "jp": "ルールは低レベルシステムによって保持されており、データのサルベージは危険を伴う。",
         "en": "The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk.",
         "ru": "Правила защищены низкоуровневыми системами. Сохранение данных несёт собой неприемлемый уровень риска.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/395.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/395.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/473.wav"
     },
     {
         "id": "M3060_S7500_S0300_001_pod153",
@@ -266,7 +276,8 @@
         "jp": "我々には感情がなかった",
         "en": "We had no capacity for emotion.",
         "ru": "Мы не способны проявлять эмоции.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/914.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/914.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/976.wav"
     },
     {
         "id": "M3060_S7500_S0360_001_pod042",
@@ -286,7 +297,8 @@
         "jp": "……回答不能。",
         "en": "Unable to reply.",
         "ru": "Ответ невозможен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/399.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/399.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/477.wav"
     },
     {
         "id": "M3060_S7500_S0390_001_pod042",

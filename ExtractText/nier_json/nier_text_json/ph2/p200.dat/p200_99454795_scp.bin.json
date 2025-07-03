@@ -61,7 +61,8 @@
         "jp": "何を考えてる！！回路が壊れたのか！？",
         "en": "What are you thinking!? Have your circuits failed you!?",
         "ru": "О чём ты думаешь?! У тебя микросхемы не в порядке?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1000.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1000.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1078.wav"
     },
     {
         "id": "M1080_S0080_G0230_300_n02",
@@ -82,7 +83,8 @@
         "jp": "停止したロボットの残骸……",
         "en": "Look at all these broken machines...",
         "ru": "Только посмотрите на все эти сломанные машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1548.wav"
     },
     {
         "id": "M1080_S0080_G0160_300_a9s",

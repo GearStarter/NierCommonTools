@@ -3,14 +3,16 @@
         "id": "M3060_S0600_G0000_001_a2",
         "jp": "クソッ……",
         "en": "Damn it...",
-        "ru": "Проклятие..."
+        "ru": "Проклятие...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3060_S0600_G0010_001_pod042",
         "jp": "敵の強制ハッキング攻撃。",
         "en": "Alert: Enemy hacking detected.",
         "ru": "Внимание: обнаружен взлом со стороны врага.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/863.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/863.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/925.wav"
     },
     {
         "id": "M3060_S0600_G0020_001_pod042",
@@ -95,7 +97,8 @@
         "id": "M3060_S0600_G0140_001_a2",
         "jp": "クソッ！！",
         "en": "God damn it!",
-        "ru": "Чёрт вас побери!"
+        "ru": "Чёрт вас побери!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3060_S0600_G0150_001_pod042",
@@ -115,7 +118,8 @@
         "jp": "敵の論理学習機能を利用して弱点を形成する。",
         "en": "Utilize the enemy's logical learning function to formulate a weakness.",
         "ru": "Используйте логическую функцию обучения врага для создания уязвимости.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/866.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/866.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/928.wav"
     },
     {
         "id": "M3060_S0600_G0180_001_a2",
@@ -149,20 +153,23 @@
         "jp": "つまり、どうするんだ！",
         "en": "Meaning what!?",
         "ru": "И что это значит?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/522.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/522.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/604.wav"
     },
     {
         "id": "M3060_S0600_G0230_001_pod042",
         "jp": "敵を破壊してはいけない。",
         "en": "Do not destroy the enemy.",
         "ru": "Не уничтожайте противника.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/869.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/869.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/931.wav"
     },
     {
         "id": "M3060_S0600_G0240_001_a2",
         "jp": "は！？",
         "en": "Huh!?",
-        "ru": "Чего?!"
+        "ru": "Чего?!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/154.wav"
     },
     {
         "id": "M3060_S0600_G0250_001_pod042",
@@ -208,7 +215,8 @@
         "id": "M3060_S0600_G0301_001_girls",
         "jp": "面白い……面白い……",
         "en": "It's all so very amusing...",
-        "ru": "Всё это так забавляет..."
+        "ru": "Всё это так забавляет...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/103.wav"
     },
     {
         "id": "M3060_S0600_G0310_001_pod042",
@@ -248,7 +256,8 @@
         "jp": "愚かなアンドロイドよ……なぜ抗うのか？",
         "en": "Foolish androids... Why do you resist?",
         "ru": "Глупые андроиды... Почему вы сопротивляетесь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/45.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/45.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/107.wav"
     },
     {
         "id": "M3060_S0600_G0322_001_girls",
@@ -341,6 +350,7 @@
         "jp": "まるで、人類みたいだな……",
         "en": "They're acting like humans...",
         "ru": "Они ведут себя как люди...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/528.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/528.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/610.wav"
     }
 ]

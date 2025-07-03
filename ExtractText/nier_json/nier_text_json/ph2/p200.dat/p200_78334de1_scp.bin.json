@@ -4,28 +4,32 @@
         "jp": "ここが……パスカルの言ってた商業施設の廃墟みたいですね。",
         "en": "This must be the commercial structure Pascal was talking about.",
         "ru": "Должно быть, это торговое здание, о котором говорил Паскаль.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1356.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1356.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1357.wav"
     },
     {
         "id": "M1050_S0050_G0010_001_a9s",
         "jp": "記録によると『デパート』という場所だったみたいです。",
         "en": "The records say it was once a facility known as a \"shopping center.\"",
         "ru": "В записях говорится, что эта постройка известна как \"торговый центр\".",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1357.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1357.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1358.wav"
     },
     {
         "id": "M1050_S0050_G0020_001_a2b",
         "jp": "通れないな。",
         "en": "No getting through here.",
         "ru": "Здесь нам не пройти.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/557.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/557.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/557.wav"
     },
     {
         "id": "M1050_S0050_G0030_001_a9s",
         "jp": "何か仕掛けがあるんでしょうか……？",
         "en": "Maybe there's some kind of mechanism we could engage?",
         "ru": "Может, здесь есть какой-нибудь механизм, который мы можем включить?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1358.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1358.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1359.wav"
     },
     {
         "id": "M1050_S0050_G0040_001_a9s",
@@ -91,7 +95,8 @@
         "jp": "戦闘はあんまり得意じゃないんですよ！",
         "en": "Combat was never meant to be my forte.",
         "ru": "Сражения никогда не были моей сильной стороной.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1364.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1364.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1365.wav"
     },
     {
         "id": "M1050_S0050_G0160_001_n02",
@@ -104,13 +109,15 @@
         "jp": "なんか、あいつ……",
         "en": "Check this guy...",
         "ru": "Только глянь на него...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1365.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1365.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1366.wav"
     },
     {
         "id": "M1050_S0050_G0180_001_a9s",
         "jp": "逃げてばかりですね。",
         "en": "He's just running away.",
         "ru": "Он попросту убегает.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1366.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1366.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1367.wav"
     }
 ]

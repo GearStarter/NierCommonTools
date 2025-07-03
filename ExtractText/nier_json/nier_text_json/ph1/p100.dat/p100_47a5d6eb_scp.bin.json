@@ -4,7 +4,8 @@
         "jp": "全員が……白旗？",
         "en": "They all have white flags...",
         "ru": "У всех белые флаги...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/522.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/522.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/522.wav"
     },
     {
         "id": "M1040_S0030_G0010_001_a9s",
@@ -18,14 +19,16 @@
         "jp": "やっぱりこの村……何か変ですよ。",
         "en": "There's something weird about this village...",
         "ru": "Эта деревня довольно странная...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1278.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1278.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1279.wav"
     },
     {
         "id": "M1040_S0030_G0080_001_a9s",
         "jp": "戻って調べましょう。",
         "en": "We should go back and look around some more.",
         "ru": "Нужно будет ещё как-нибудь вернуться и осмотреть здесь всё.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1279.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1279.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1280.wav"
     },
     {
         "id": "M1040_S0030_G0005_300_a9s",
@@ -37,7 +40,8 @@
         "id": "M1040_S0030_G0090_001_pascal",
         "jp": "……まず、最初に",
         "en": "Hello.",
-        "ru": "Привет."
+        "ru": "Привет.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/443.wav"
     },
     {
         "id": "M1040_S0030_G0100_001_pascal",
@@ -178,7 +182,8 @@
         "jp": "いかがでしょうか？",
         "en": "Well? What do you think?",
         "ru": "Ну? Что думаете?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/388.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/388.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/450.wav"
     },
     {
         "id": "M1040_S0030_G0180_001_a9s",
@@ -198,7 +203,8 @@
         "jp": "口だけならいくらでも言える……",
         "en": "Your mouth can say anything it wants...",
         "ru": "Сказать-то ты можешь всё, что угодно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1282.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1282.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1283.wav"
     },
     {
         "id": "M1040_S0030_G0210_001_a9s",
@@ -211,14 +217,16 @@
         "id": "M1040_S0030_G0220_001_pascal",
         "jp": "……そうかもしれません。",
         "en": "I suppose that's...technically accurate.",
-        "ru": "Полагаю, технически... это верное замечание."
+        "ru": "Полагаю, технически... это верное замечание.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/452.wav"
     },
     {
         "id": "M1040_S0030_G0230_001_pascal",
         "jp": "でも、これからも良ければこの村に来てください。",
         "en": "Yes, well, you're free to visit our village whenever you like.",
         "ru": "Да, и ещё кое-что: вы можете приходить в деревню, когда пожелаете.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/391.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/391.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/453.wav"
     },
     {
         "id": "M1040_S0031_G0060_001_a9s",
@@ -260,7 +268,8 @@
         "id": "M1040_S0031_G0120_001_a9s",
         "jp": "そう……なんですね。",
         "en": "I see...",
-        "ru": "Ясно..."
+        "ru": "Ясно...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/153.wav"
     },
     {
         "id": "M1040_S0031_G0130_001_ane",
@@ -322,7 +331,8 @@
         "jp": "実は、ちょっと好きだった先輩を食事に誘ったら断られちゃって……",
         "en": "Oh, there's this operator I kind of liked, but when I asked her out, she turned me down.",
         "ru": "Ну, есть один оператор, которая мне нравится, но когда я пригласила её на свидание, она отказала.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/365.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/365.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/427.wav"
     },
     {
         "id": "M5920_S0100_G0110_001_op60",
@@ -342,7 +352,8 @@
         "jp": "もう、バンカーにいられないです……",
         "en": "I don't think I can stand spending one more day in this Bunker...",
         "ru": "Не думаю, что смогу вынести в Бункере ещё хоть один день...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/367.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/367.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/429.wav"
     },
     {
         "id": "M5920_S0100_G0140_001_a2b",
@@ -367,7 +378,8 @@
         "id": "M5920_S0100_G0170_001_a2b",
         "jp": "だから……",
         "en": "So...",
-        "ru": "Так что..."
+        "ru": "Так что...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1024.wav"
     },
     {
         "id": "M5920_S0100_G0180_001_op60",
@@ -380,7 +392,8 @@
         "jp": "……以上。通信終了。",
         "en": "That's all. Closing this channel.",
         "ru": "На этом всё. Конец связи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1024.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1024.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1025.wav"
     },
     {
         "id": "M5920_S0100_G0380_001_op210",
@@ -399,7 +412,8 @@
         "id": "M5920_S0100_G0400_001_a9s",
         "jp": "なんでしょう？",
         "en": "What is it?",
-        "ru": "Что это?"
+        "ru": "Что это?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/448.wav"
     },
     {
         "id": "M5920_S0100_G0410_001_op210",
@@ -439,7 +453,8 @@
         "jp": "……オペレーターさんって意外と乱暴なのかな。",
         "en": "Geez. My operator's more prone to violence than I thought.",
         "ru": "Блин. Мой оператор куда жёстче, чем я думал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/368.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/368.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/450.wav"
     },
     {
         "id": "M5920_S0090_G0130_001_human",

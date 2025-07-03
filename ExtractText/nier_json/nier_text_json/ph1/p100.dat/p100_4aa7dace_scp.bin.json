@@ -38,14 +38,16 @@
         "jp": "それでは、早速始めますね。",
         "en": "Right then. Let's get started.",
         "ru": "Ну что ж. Давайте приступать.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/49.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/49.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/49.wav"
     },
     {
         "id": "M1010_S0010_G0060_300_a9s",
         "jp": "一つずつ調整していきましょう。",
         "en": "We'll go through each adjustment in order.",
         "ru": "Мы пройдём по порядку через все регулировки.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/50.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/50.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/50.wav"
     },
     {
         "id": "M1010_S0010_G0070_300_a9s",
@@ -96,7 +98,8 @@
         "jp": "それでは、次は音声認識の設定です。",
         "en": "Now let's take a look at your voice recognition settings.",
         "ru": "Теперь давайте займёмся настройками распознавания речи.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/54.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/54.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/54.wav"
     },
     {
         "id": "M1010_S0010_G0140_300_a9s",
@@ -135,13 +138,15 @@
         "jp": "え、僕の声、聞こえてないですよね？",
         "en": "Wait, you shouldn't be able to hear me now...",
         "ru": "Подождите, сейчас вы не сможете меня услышать...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/60.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/60.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/60.wav"
     },
     {
         "id": "M1010_S0010_G0200_300_a9s",
         "jp": "これで問題ありませんか？",
         "en": "All right. Are we good now?",
-        "ru": "Хорошо. Так лучше?"
+        "ru": "Хорошо. Так лучше?",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/61.wav"
     },
     {
         "id": "M4100_S0000_G0000_300_sele",
@@ -166,7 +171,8 @@
         "jp": "はい、これで設定は完了です。",
         "en": "Okay! Settings should all be good to go.",
         "ru": "Отлично! Теперь настройки должны быть в норме.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/62.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/62.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/62.wav"
     },
     {
         "id": "M1010_S0010_G0100_300_a9s",
@@ -244,7 +250,8 @@
         "jp": "設定が終わったら、この画面を終了してください。",
         "en": "Once you're finished making adjustments, you can go ahead and close this out.",
         "ru": "Как только закончите настройку, можете двигаться далее и закрыть это меню.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/73.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/73.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/73.wav"
     },
     {
         "id": "M1010_S0010_G0370_300_a9s",
@@ -257,28 +264,32 @@
         "id": "M1010_S0010_G0380_300_a9s",
         "jp": "今から、実際に肩を軽く叩いてみますね。",
         "en": "I'm gonna tap you on the shoulders, all right?",
-        "ru": "Я дотронусь до ваших плеч, хорошо?"
+        "ru": "Я дотронусь до ваших плеч, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/75.wav"
     },
     {
         "id": "M1010_S0010_G0420_300_a9s",
         "jp": "あれ？おかしいですね。設定は正しいはずなのに。",
         "en": "Huh? That's odd. Everything should be set up correctly.",
         "ru": "Чего? Странно. Всё должно быть корректно настроено.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/78.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/78.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/78.wav"
     },
     {
         "id": "M1010_S0010_G0430_300_a9s",
         "jp": "ちょっと叩く場所を変えてみましょうか。次は、腕を軽く叩きますよ。",
         "en": "Here, let me try somewhere else. I'm gonna tap you on the arm this time, okay?",
         "ru": "Ладно, попробуем ещё разок. В этот раз я дотронусь до вашей руки, хорошо?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/79.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/79.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/79.wav"
     },
     {
         "id": "M1010_S0010_G0480_300_a9s",
         "jp": "え！？本当ですか？？",
         "en": "Huh? Really?",
         "ru": "А? Серьёзно?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/82.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/82.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/82.wav"
     },
     {
         "id": "M1010_S0010_G0490_300_a9s",
@@ -305,28 +316,32 @@
         "jp": "本当ですか！？",
         "en": "Are you serious?",
         "ru": "Вы серьёзно?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/88.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/88.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/88.wav"
     },
     {
         "id": "M1010_S0010_G0570_300_a9s",
         "jp": "本当に何も感じませんか？",
         "en": "You didn't feel anything just now?",
         "ru": "И сейчас тоже ничего не почувствовали?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/89.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/89.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/89.wav"
     },
     {
         "id": "M1010_S0010_G0580_300_a9s",
         "jp": "じゃ、じゃあこれでどうですか？",
         "en": "Well then, let's try something else.",
         "ru": "Ладно, попробуем ещё что-нибудь.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/90.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/90.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/90.wav"
     },
     {
         "id": "M1010_S0010_G0590_300_a9s",
         "jp": "も、もう知りませんよ……",
         "en": "No turning back now, I guess...",
         "ru": "Полагаю, поздно идти на попятную...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/91.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/91.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/91.wav"
     },
     {
         "id": "M1010_S0010_G0390_300_a9s",
@@ -358,7 +373,8 @@
         "jp": "今度はわかりましたよね？",
         "en": "Did you feel that?",
         "ru": "Почувствовали?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/80.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/80.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/80.wav"
     },
     {
         "id": "M4100_S0000_G0000_300_sele",
@@ -439,27 +455,31 @@
         "jp": "とりあえず、テストは終了です。",
         "en": "Regardless, that's the end of the check for now.",
         "ru": "Так или иначе, можно считать, что проверка завершена.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/95.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/95.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/95.wav"
     },
     {
         "id": "M1010_S0010_G0660_300_a9s",
         "jp": "確かに、自爆するのは嫌ですよね……",
         "en": "I know no one LIKES the idea of self-destructing.",
         "ru": "Я не знаю никого, кому бы НРАВИЛАСЬ идея самоуничтожения.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/96.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/96.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/96.wav"
     },
     {
         "id": "M1010_S0010_G0670_300_a9s",
         "jp": "規則では自爆機能は必須ですけど……司令官には、黙っておきます。",
         "en": "But that's what regulations call for. Still, I'll keep it a secret from the Commander.",
         "ru": "Но этого требует устав. Тем не менее, я сохраню это в тайне от Командора.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/97.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/97.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/97.wav"
     },
     {
         "id": "M1010_S0010_G0680_300_a9s",
         "jp": "音声、聞きたくないんですか？？いいですけど……なぜ……",
         "en": "You...don't want to hear my voice? I mean, it's your choice and all, but...",
-        "ru": "Вы... не хотите слышать меня? Я имею в виду, это ваш выбор, но..."
+        "ru": "Вы... не хотите слышать меня? Я имею в виду, это ваш выбор, но...",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/98.wav"
     },
     {
         "id": "M1010_S0010_G0690_300_a9s",

@@ -1174,7 +1174,8 @@
         "id": "M6090_S0010_G1250_300_bs",
         "jp": "そうなんですね……",
         "en": "Yikes! Well, before you barf everywhere...",
-        "ru": "Ой! Но прежде чем вас стошнит..."
+        "ru": "Ой! Но прежде чем вас стошнит...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/153.wav"
     },
     {
         "id": "M6090_S0010_G1255_300_bs",

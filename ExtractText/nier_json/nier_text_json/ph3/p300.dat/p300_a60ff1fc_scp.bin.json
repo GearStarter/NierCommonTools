@@ -16,7 +16,8 @@
         "id": "M3000_S0330_G0020_001_a2b",
         "jp": "クソッ！",
         "en": "God damn it!",
-        "ru": "Чёрт побери!"
+        "ru": "Чёрт побери!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3000_S0330_G0030_001_a9s",
@@ -28,7 +29,8 @@
         "id": "M3000_S0330_G0040_001_a9s",
         "jp": "妨害電波を出している個体をマークした！",
         "en": "I located the unit that's jamming our comms.",
-        "ru": "Я обнаружил единицу, что глушит наши системы."
+        "ru": "Я обнаружил единицу, что глушит наши системы.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1688.wav"
     },
     {
         "id": "M3000_S0330_G0050_001_a2b",
@@ -61,7 +63,8 @@
         "jp": "司令部に通信！状況報告と救援要請！",
         "en": "Pod, send an emergency distress signal to Command!",
         "ru": "Бот, пошли сигнал SOS Штабу!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/756.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/756.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/757.wav"
     },
     {
         "id": "M3000_S0330_G0090_001_pod042",
@@ -101,14 +104,16 @@
         "jp": "通信ロストは接続認証の失敗によるもの。",
         "en": "Connection lost due to server-side authentication failure.",
         "ru": "Соединение потеряно ввиду отказа аутентификации со стороны сервера.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/721.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/721.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/783.wav"
     },
     {
         "id": "M3000_S0330_G0150_001_pod042",
         "jp": "現在、司令部の通信機能は完全に沈黙。",
         "en": "No responses coming from Command on any channel.",
         "ru": "Штаб не отвечает на вызовы по всем каналам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/722.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/722.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/784.wav"
     },
     {
         "id": "M3000_S0330_G0160_001_a2b",
@@ -135,7 +140,8 @@
         "jp": "バンカーには非常用のバックドアがあるから、",
         "en": "It's possible to access the Bunker through a backdoor in the system.",
         "ru": "Есть возможность подключиться к Бункеру через лазейку в системе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1691.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1691.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1692.wav"
     },
     {
         "id": "M3000_S0330_G0195_001_a9s",
@@ -148,7 +154,8 @@
         "id": "M3000_S0330_G0200_001_a9s",
         "jp": "その後、ここをブラックボックス反応で吹き飛ばす！",
         "en": "Then we set our black boxes to self-destruct and take 'em all out at once!",
-        "ru": "Затем мы активируем наши чёрные ящики для самоуничтожения и вынесем их всех разом!"
+        "ru": "Затем мы активируем наши чёрные ящики для самоуничтожения и вынесем их всех разом!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1694.wav"
     },
     {
         "id": "M3000_S0330_G0210_001_a2b",

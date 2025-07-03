@@ -18,7 +18,8 @@
         "jp": "いつかまた調査しなくてはなりませんね。",
         "en": "I need to return and investigate as soon as possible.",
         "ru": "Мне нужно вернуться и проанализировать всё как можно быстрее.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/467.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/467.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/529.wav"
     },
     {
         "id": "M1090_S0100_G0030_101_pascal",
@@ -32,21 +33,24 @@
         "jp": "断る。",
         "en": "No thanks.",
         "ru": "Нет, спасибо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/679.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/679.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M1090_S0100_G0050_101_a2b",
         "jp": "私はレジスタンスキャンプに行く。",
         "en": "I'm heading back to the Resistance camp.",
         "ru": "Я возвращаюсь в лагерь Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/680.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/680.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/680.wav"
     },
     {
         "id": "M1090_S0100_G0060_101_a2b",
         "jp": "パスカルはどうする？",
         "en": "What about you?",
         "ru": "Что насчёт тебя?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/681.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/681.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/681.wav"
     },
     {
         "id": "M1090_S0100_G0070_101_pascal",
@@ -72,14 +76,16 @@
         "jp": "通信状況が悪い……",
         "en": "Say again? I'm not receiving.",
         "ru": "Повторите! Передача обрывается.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/683.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/683.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/683.wav"
     },
     {
         "id": "M1090_S0100_G0110_101_pod042",
         "jp": "電波障害を確認。",
         "en": "Scanning for interference.",
         "ru": "Сканирую радиопомехи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/692.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/692.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/754.wav"
     },
     {
         "id": "M1090_S0100_G0120_101_ane",
@@ -105,20 +111,23 @@
         "jp": "機械生命体の数が増えてる……",
         "en": "Why are their numbers increasing like this?",
         "ru": "Почему их число так быстро растёт?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/685.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/685.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/685.wav"
     },
     {
         "id": "M1090_S0100_G0160_101_pod042",
         "jp": "原因不明。",
         "en": "Cause unknown.",
-        "ru": "Причина неизвестна."
+        "ru": "Причина неизвестна.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/755.wav"
     },
     {
         "id": "M1090_S0100_G0170_101_a2b",
         "jp": "バンカーにレーザー通信での呼びかけを継続。",
         "en": "Try contacting the Bunker via laser relay system.",
         "ru": "Попробуй связаться с Бункером по лазерной системе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/686.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/686.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/686.wav"
     },
     {
         "id": "M1090_S0100_G0180_101_pod042",

@@ -18,6 +18,7 @@
         "jp": "早急な対処が必要だ。",
         "en": "Action must be taken immediately.",
         "ru": "Необходимо немедленно принять меры.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/312.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/312.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/390.wav"
     }
 ]

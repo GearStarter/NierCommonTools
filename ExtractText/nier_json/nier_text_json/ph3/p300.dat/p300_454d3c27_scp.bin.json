@@ -10,14 +10,16 @@
         "id": "M3030_S0160_G0110_300_a2",
         "jp": "待て……",
         "en": "Wait...",
-        "ru": "Подожди..."
+        "ru": "Подожди...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/555.wav"
     },
     {
         "id": "M3030_S0160_G0120_300_a2",
         "jp": "ああ…頼む……",
         "en": "Right... Do it.",
         "ru": "Верно... Сделай это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/475.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/475.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/557.wav"
     },
     {
         "id": "M3030_S0133_S0000_001_pascal",
@@ -30,7 +32,8 @@
         "jp": "ああ……助かった。",
         "en": "Yeah. Thanks for the assist.",
         "ru": "Да. Спасибо за помощь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/464.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/464.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/546.wav"
     },
     {
         "id": "M3030_S0140_G0000_001_pascal",
@@ -58,7 +61,8 @@
         "jp": "これは……自殺……",
         "en": "They...killed themselves.",
         "ru": "Они... сами убили себя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/467.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/467.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/549.wav"
     },
     {
         "id": "M3030_S0160_G0020_001_pascal",
@@ -84,7 +88,8 @@
         "jp": "それが、将来の役に立つと思って……",
         "en": "I thought it would serve them well in the future. But instead...",
         "ru": "Я думал, что в будущем им пригодятся эти знания. Но...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/547.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/547.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/609.wav"
     },
     {
         "id": "M3030_S0160_G0060_001_a2",
@@ -98,21 +103,24 @@
         "jp": "『恐怖』です……",
         "en": "Fear...",
         "ru": "Страх...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/549.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/549.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/611.wav"
     },
     {
         "id": "M3030_S0160_G0080_001_a2",
         "jp": "恐怖……？",
         "en": "I don't understand.",
         "ru": "Я не понимаю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/472.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/472.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/554.wav"
     },
     {
         "id": "M3030_S0160_G0090_001_pascal",
         "jp": "私は、この子たちに『怖い』という感情を教えたのです。",
         "en": "I taught the children what fear is.",
         "ru": "Я объяснил детям, что такое страх.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/550.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/550.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/612.wav"
     },
     {
         "id": "M3030_S0160_G0100_001_pascal",
@@ -146,27 +154,31 @@
         "jp": "お願いが……あります……",
         "en": "A2? I need your aid.",
         "ru": "A2? Мне нужна твоя помощь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/555.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/555.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/617.wav"
     },
     {
         "id": "M3030_S0160_G0150_001_pascal",
         "jp": "この……苦痛に私は耐えられません……",
         "en": "I...I cannot live with this heartbreak inside me.",
-        "ru": "Я... Я не могу жить с таким грузом."
+        "ru": "Я... Я не могу жить с таким грузом.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/619.wav"
     },
     {
         "id": "M3030_S0160_G0160_001_pascal",
         "jp": "私の……",
         "en": "I need you...",
         "ru": "Ты нужна мне...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/558.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/558.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/620.wav"
     },
     {
         "id": "M3030_S0160_G0170_001_pascal",
         "jp": "私の記憶を消去していただけないでしょうか？",
         "en": "I need you to delete my memories.",
         "ru": "Я хочу, чтобы ты удалила мои воспоминания.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/559.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/559.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/621.wav"
     },
     {
         "id": "M3030_S0160_G0180_001_pascal",
@@ -205,7 +217,8 @@
         "jp": "ポッド……パスカルの記憶を……",
         "en": "Pod, Pascal's memories...",
         "ru": "Бот, воспоминания Паскаля...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/476.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/476.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/558.wav"
     },
     {
         "id": "M3030_S0160_G0202_001_pod042",
@@ -219,7 +232,8 @@
         "jp": "記憶消去終了。再起動タイマーをセット完了。",
         "en": "Memory deletion complete. Reset timer activated.",
         "ru": "Очистка памяти завершена. Активирован таймер перезагрузки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/838.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/838.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/900.wav"
     },
     {
         "id": "M3030_S0160_G0206_001_a2",
@@ -232,12 +246,14 @@
         "jp": "パスカルを置いてはいけない……",
         "en": "I can't leave Pascal by himself...",
         "ru": "Я не могу оставить Паскаля одного...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/466.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/466.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/548.wav"
     },
     {
         "id": "M3030_S0160_G0150_001_pascal",
         "jp": "この……苦痛に私は耐えられません……",
         "en": "I...I cannot live with this heartbreak inside me.",
-        "ru": "Я... Я не могу жить с таким грузом."
+        "ru": "Я... Я не могу жить с таким грузом.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/619.wav"
     }
 ]

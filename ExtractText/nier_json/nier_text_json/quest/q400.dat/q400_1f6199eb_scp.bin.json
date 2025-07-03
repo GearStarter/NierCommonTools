@@ -11,7 +11,8 @@
         "jp": "……あのタイプ、データにあったかな？",
         "en": "...Have we seen these things before?",
         "ru": "...Мы ведь уже видели нечто подобное раньше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/203.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/203.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/285.wav"
     },
     {
         "id": "M5400_S0010_G0020_001_a2",
@@ -51,7 +52,8 @@
         "jp": "そっちがその気なら……",
         "en": "If that's how you want it...",
         "ru": "Если вы так хотите...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/565.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/565.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/647.wav"
     },
     {
         "id": "M5400_S0010_G0120_001_robosmallgold",
@@ -83,7 +85,8 @@
         "jp": "あれは……確か以前戦った……",
         "en": "Haven't I fought this thing before...?",
         "ru": "Разве раньше я уже не сражалась с этой штукой?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/935.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/935.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/936.wav"
     },
     {
         "id": "M5401_S0010_G0010_001_pod042",
@@ -108,7 +111,8 @@
         "jp": "あれ、前に戦ったロボットだよね。",
         "en": "Hey, I've fought this machine before, right?",
         "ru": "Эй, я ведь уже сражался с такой машиной, не так ли?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/205.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/205.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/287.wav"
     },
     {
         "id": "M5401_S0010_G0050_001_pod153",
@@ -167,21 +171,24 @@
         "jp": "迎撃する。",
         "en": "Engaging enemy.",
         "ru": "Вступаю в бой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/937.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/937.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/938.wav"
     },
     {
         "id": "M5401_S0020_G0010_001_a9s",
         "jp": "迎撃する。",
         "en": "Ready to engage.",
         "ru": "Готов вступить в бой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/207.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/207.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/938.wav"
     },
     {
         "id": "M5401_S0020_G0020_001_a2",
         "jp": "倒すぞ。",
         "en": "Time to die.",
         "ru": "Время умирать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/568.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/568.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/650.wav"
     },
     {
         "id": "M5401_S0020_G0030_001_robosmallgoldwoman",
@@ -206,21 +213,24 @@
         "jp": "兄様……他の個体もいるということ？",
         "en": "Brother? So there's another one?",
         "ru": "Брат? Так есть другие?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/938.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/938.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/939.wav"
     },
     {
         "id": "M5401_S0030_G0020_001_a9s",
         "jp": "兄様って……他にもいるのか？",
         "en": "Brother? Wait, there's more of these things?",
         "ru": "Брат? Подожди, так их больше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/208.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/208.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/290.wav"
     },
     {
         "id": "M5401_S0030_G0030_001_a2",
         "jp": "兄様……まさか他にも……？",
         "en": "Brother? So there's more of them?",
         "ru": "Брат? Так их больше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/569.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/569.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/651.wav"
     },
     {
         "id": "M5403_S0010_G0000_001_a2b",
@@ -239,7 +249,8 @@
         "id": "M5403_S0010_G0020_001_pod042",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0030_001_a2b",
@@ -264,7 +275,8 @@
         "id": "M5403_S0010_G0060_001_pod153",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0070_001_a9s",
@@ -288,14 +300,16 @@
         "id": "M5403_S0010_G0100_001_pod042",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0110_001_a2",
         "jp": "復讐、か……",
         "en": "Revenge, huh?",
         "ru": "Месть, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/653.wav"
     },
     {
         "id": "M5403_S0010_G0120_001_robolargegoldcchild",
@@ -327,7 +341,8 @@
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
         "ru": "Брат... Сестра...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/828.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
@@ -456,7 +471,8 @@
         "jp": "機械生命体が家族の復讐？……馬鹿げてる。",
         "en": "Machines wanting to avenge their families? That's absurd.",
         "ru": "Машины хотят отомстить за свою семью? Это нелепо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/293.wav"
     },
     {
         "id": "M5403_S0030_G0170_001_pod153",
@@ -474,7 +490,8 @@
         "id": "M5403_S0030_G0190_001_a9s",
         "jp": "でも……僕は……",
         "en": "And yet...I...",
-        "ru": "И всё же... я..."
+        "ru": "И всё же... я...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/294.wav"
     },
     {
         "id": "M5403_S0030_G0200_001_a2",

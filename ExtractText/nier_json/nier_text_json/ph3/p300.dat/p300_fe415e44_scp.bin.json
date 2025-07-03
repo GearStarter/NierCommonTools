@@ -43,7 +43,8 @@
         "jp": "視界が悪いですね……",
         "en": "Man, I can't see a thing...",
         "ru": "Блин, я совсем ничего не вижу...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1658.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1658.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1659.wav"
     },
     {
         "id": "M3000_S0200_G0082_001_pod153",
@@ -143,7 +144,8 @@
         "jp": "敵の攻撃に手を焼いている。",
         "en": "We're being worn down by a fierce enemy attack.",
         "ru": "Нас сильно потрепало после нападения противника.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1054.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1054.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1055.wav"
     },
     {
         "id": "M3000_S0200_G0050_300_a2b",
@@ -183,7 +185,8 @@
         "jp": "我々もそちらに同行し、援護しよう。",
         "en": "We'll join you and provide further backup.",
         "ru": "Мы присоединимся к вам и окажем дальнейшую поддержку.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1057.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1057.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1058.wav"
     },
     {
         "id": "M3000_S0200_G0392_300_telo",
@@ -228,7 +231,8 @@
         "jp": "全滅……間に合わなかった。",
         "en": "Damn it, we took too long. They're gone.",
         "ru": "Проклятие, мы слишком долго возились. Они погибли.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/733.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/733.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/734.wav"
     },
     {
         "id": "M3000_S0200_G0190_001_a9s",
@@ -249,7 +253,8 @@
         "jp": "他の地域の援護に向かう。",
         "en": "Heading out now to provide support elsewhere.",
         "ru": "Выдвигаемся для оказания поддержки другим отрядам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1076.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1076.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1077.wav"
     },
     {
         "id": "M3000_S0200_G0001_300_a9s",
@@ -262,7 +267,8 @@
         "jp": "一度ハッキングした機械生命体のようです！",
         "en": "This is a machine I've hacked into before!",
         "ru": "Это же машина, которую я уже взламывал ранее!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1650.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1650.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1651.wav"
     },
     {
         "id": "M3000_S0200_G0021_300_a9s",

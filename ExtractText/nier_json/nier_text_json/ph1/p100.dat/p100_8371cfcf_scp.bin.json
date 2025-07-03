@@ -32,7 +32,8 @@
         "jp": "侵入経路及び、脆弱性を発見。",
         "en": "Software vulnerabilities and penetration path detected.",
         "ru": "Обнаружена уязвимость ПО и пути для взлома.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/104.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/104.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/104.wav"
     },
     {
         "id": "M0010_S0740_G0050_021_pod153",
@@ -46,7 +47,8 @@
         "jp": "ハッキングして弱体化させる！",
         "en": "I'll hack this thing and weaken it!",
         "ru": "Я взломаю эту штуку и ослаблю её!",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/63.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/63.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/63.wav"
     },
     {
         "id": "M0010_S0740_G0070_001_telo",

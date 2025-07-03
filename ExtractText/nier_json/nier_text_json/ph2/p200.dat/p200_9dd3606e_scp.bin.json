@@ -17,7 +17,8 @@
         "jp": "ネットワークにぶら下がっている機械生命体が全部暴走したらしく……",
         "en": "It seems the machines on the network have gone berserk.",
         "ru": "По-видимому, машины в этой сети впали в безумие.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/475.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/475.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/537.wav"
     },
     {
         "id": "M1090_S0230_G0030_001_pascal",
@@ -38,14 +39,16 @@
         "jp": "まず、こいつを排除する。",
         "en": "Let's take these guys out first.",
         "ru": "Давай сначала прихватим тех ребят.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/701.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/701.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/702.wav"
     },
     {
         "id": "M1090_S0230_G0060_001_pascal",
         "jp": "ありがとうございます……助かりました。",
         "en": "You saved us! Oh, thank you so much...",
         "ru": "Ты спасла нас! Ох, огромное спасибо тебе...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/540.wav"
     },
     {
         "id": "M1090_S0230_G0070_001_a2b",
@@ -85,7 +88,8 @@
         "jp": "おそらく……",
         "en": "Most likely, yes...",
         "ru": "Скорее всего, да...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/543.wav"
     },
     {
         "id": "M1090_S0230_G0130_001_a2b",
@@ -113,14 +117,16 @@
         "jp": "パスカルは村を守ってて！",
         "en": "You just worry about keeping the village safe, okay?",
         "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1587.wav"
     },
     {
         "id": "M1090_S0230_G1060_001_pascal",
         "jp": "ありがとうございます……助かりました。",
         "en": "You saved us! Oh, thank you so much...",
         "ru": "Ты спасла нас! Ох, огромное спасибо тебе...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/540.wav"
     },
     {
         "id": "M1090_S0230_G0070_001_a2b",
@@ -160,7 +166,8 @@
         "jp": "おそらく……",
         "en": "Most likely, yes...",
         "ru": "Скорее всего, да...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/543.wav"
     },
     {
         "id": "M1090_S0230_G0130_001_a2b",
@@ -188,13 +195,15 @@
         "jp": "パスカルは村を守ってて！",
         "en": "You just worry about keeping the village safe, okay?",
         "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1587.wav"
     },
     {
         "id": "M1090_S0230_G0170_001_pascal",
         "jp": "お気をつけて！",
         "en": "Do be careful!",
         "ru": "Будьте осторожны!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/482.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/482.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/544.wav"
     }
 ]

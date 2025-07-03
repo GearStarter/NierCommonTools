@@ -10,13 +10,15 @@
         "jp": "はーい。聞こえますよー",
         "en": "I'm here.",
         "ru": "На связи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/127.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/127.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/209.wav"
     },
     {
         "id": "M5181_S0010_G0020_001_op210",
         "jp": "新たな情報収集の依頼をメールしましたので確認してください。",
         "en": "I've sent you a new data-retrieval request. Please read it.",
-        "ru": "Я отправила вам новый запрос на поиск данных. Пожалуйста, прочтите его."
+        "ru": "Я отправила вам новый запрос на поиск данных. Пожалуйста, прочтите его.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/274.wav"
     },
     {
         "id": "M5181_S0010_G0030_001_op210",
@@ -37,7 +39,8 @@
         "jp": "……断る間もなかったな。",
         "en": "She didn't even give me a chance to turn her down this time!",
         "ru": "В этот раз она мне даже шанса на отказ не оставила!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/129.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/129.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/211.wav"
     },
     {
         "id": "M5180_S0000_G0000_300_op210",
@@ -71,7 +74,8 @@
         "jp": "地球はこんなに広いのに。",
         "en": "How is that possible when there's so much of it out there?",
         "ru": "Как такое может быть, ведь здесь столько всего?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/132.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/132.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/214.wav"
     },
     {
         "id": "M5181_S0020_G0080_001_a9s",
@@ -96,7 +100,8 @@
         "jp": "よし。これくらいでいいか。",
         "en": "Okay, this should be enough. What do we have...?",
         "ru": "Хорошо, этого будет достаточно. Итак, что мы имеем?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/133.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/133.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/215.wav"
     },
     {
         "id": "M5181_S0030_G0010_001_a9s",
@@ -134,7 +139,8 @@
         "jp": "送信されたデータのダウンロードを完了しました。",
         "en": "I've received your data.",
         "ru": "Я получила данные, что вы отправили.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/215.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/215.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/277.wav"
     },
     {
         "id": "M5181_S0030_G0070_001_a9s",
@@ -148,7 +154,8 @@
         "jp": "情報が役立つかどうかは扱う側次第です。",
         "en": "That depends on what I do with it.",
         "ru": "Зависит от того, что я с ними сделаю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/216.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/216.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/278.wav"
     },
     {
         "id": "M5181_S0030_G0090_001_a9s",
@@ -161,7 +168,8 @@
         "jp": "しかし、これは興味深いですね……",
         "en": "It IS, however, fascinating.",
         "ru": "Однако они очень увлекательны.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/217.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/217.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/279.wav"
     },
     {
         "id": "M5181_S0030_G0110_001_op210",
@@ -175,7 +183,8 @@
         "jp": "これほど多様性のある暮らし方をしているとは思いませんでした。",
         "en": "But I did not know they coexisted in such a wide variety of ways.",
         "ru": "Но я даже не подозревала о том, насколько много было видов сосуществования.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/219.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/219.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/281.wav"
     },
     {
         "id": "M5181_S0030_G0130_001_op210",
@@ -188,14 +197,16 @@
         "id": "M5181_S0030_G0140_001_a9s",
         "jp": "家族？",
         "en": "Er...familial?",
-        "ru": "Эм... семейными?"
+        "ru": "Эм... семейными?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/221.wav"
     },
     {
         "id": "M5181_S0030_G0150_001_op210",
         "jp": "様々な制度で結ばれた一定人数のグループです。",
         "en": "A family is a group of people that share a connection by blood or social custom.",
         "ru": "Семья — это группа людей, связанных кровным родством или социальным статусом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/221.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/221.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/283.wav"
     },
     {
         "id": "M5181_S0030_G0160_001_op210",
@@ -229,7 +240,8 @@
         "jp": "仕事に戻ります。",
         "en": "I must return to my duties.",
         "ru": "Я должна вернуться к своим обязанностям.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/225.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/225.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/287.wav"
     },
     {
         "id": "M5181_S0030_G0210_001_a9s",
@@ -242,28 +254,32 @@
         "jp": "先ほどの補足があります。",
         "en": "I have additional information to relate.",
         "ru": "Да, у меня есть дополнительная информация.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/226.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/226.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/288.wav"
     },
     {
         "id": "M5181_S0030_G0230_001_op210",
         "jp": "特別報酬をメールしましたので、確認してください。",
         "en": "I've sent mail with a reward. Please read it.",
         "ru": "Я отправила письмо с наградой. Пожалуйста, прочтите его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/227.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/227.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/289.wav"
     },
     {
         "id": "M5181_S0030_G0240_001_op210",
         "jp": "……一連の情報収集に感謝します。",
         "en": "...And 9S? Thank you.",
         "ru": "...И ещё 9S... Спасибо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/228.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/228.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/290.wav"
     },
     {
         "id": "M5181_S0030_G0250_001_a9s",
         "jp": "……また切れた。",
         "en": "Man, she disconnected me AGAIN!",
         "ru": "Блин, она ВНОВЬ разъединила меня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/142.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/142.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/224.wav"
     },
     {
         "id": "M5181_S0030_G0260_001_a9s",
@@ -276,6 +292,7 @@
         "jp": "質問の意図が不明。",
         "en": "Purpose of question unknown.",
         "ru": "Цель вопроса неизвестна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/442.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/442.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/520.wav"
     }
 ]

@@ -38,7 +38,8 @@
         "id": "M1060_S0077_G0050_001_a4b",
         "jp": "ここは我々に任せろ。",
         "en": "Don't worry—we'll take it from here.",
-        "ru": "Не волнуйся, мы отвлечём его."
+        "ru": "Не волнуйся, мы отвлечём его.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1053.wav"
     },
     {
         "id": "M1060_S0077_G0060_001_a9s",
@@ -51,20 +52,23 @@
         "jp": "ここは増援部隊に任せましょう。",
         "en": "Let's leave this area to the reinforcements.",
         "ru": "Давай оставим эту зону подкреплению.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1440.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1440.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1441.wav"
     },
     {
         "id": "M1060_S0077_G0080_001_a9s",
         "jp": "僕に考えがあります……",
         "en": "I have an idea.",
         "ru": "У меня есть идея.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1441.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1441.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1442.wav"
     },
     {
         "id": "M1060_S0077_G0090_001_a9s",
         "jp": "場所をポイントしました！そこで合流しましょう。",
         "en": "You and I should meet up at the spot I just marked.",
         "ru": "Я оставил пометку на карте, встретимся там.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1442.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1442.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1443.wav"
     }
 ]

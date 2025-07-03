@@ -57,7 +57,8 @@
         "id": "M5680_S0010_G0090_001_sele",
         "jp": "手伝う……",
         "en": "Sure, I guess.",
-        "ru": "Конечно, наверное."
+        "ru": "Конечно, наверное.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M5680_S0010_G0100_001_sele",
@@ -234,7 +235,8 @@
         "jp": "助けてください！！",
         "en": "Please help!",
         "ru": "Помогите, пожалуйста!",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/10.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/10.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/53.wav"
     },
     {
         "id": "M5680_S0020_G0080_001_n02",

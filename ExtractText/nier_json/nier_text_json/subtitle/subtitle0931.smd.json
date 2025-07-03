@@ -9,7 +9,8 @@
         "id": "M3020_S0200_H0005_001_core",
         "jp": "助けて……助けて……",
         "en": "Help...me...",
-        "ru": "Помогите... мне..."
+        "ru": "Помогите... мне...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/773.wav"
     },
     {
         "id": "M3020_S0200_H0010_001_pod153",
@@ -22,6 +23,7 @@
         "jp": "発射。",
         "en": "Fire.",
         "ru": "Огонь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1459.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1459.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1460.wav"
     }
 ]

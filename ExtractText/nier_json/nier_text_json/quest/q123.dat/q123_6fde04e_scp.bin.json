@@ -77,7 +77,8 @@
         "jp": "戦闘時に発生するエネルギー反応を調べていくのはどうでしょう？",
         "en": "We could check out the energy reactions generated during battles.",
         "ru": "Мы можем проверить возмущения энергии, возникающие при сражениях.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/57.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/57.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/139.wav"
     },
     {
         "id": "M5123_S0010_G0130_001_a9s",
@@ -137,7 +138,8 @@
         "id": "M5123_S0010_G0210_001_a9s",
         "jp": "ん？何だろう",
         "en": "Hmm? What in the world...?",
-        "ru": "Хм? Что за?.."
+        "ru": "Хм? Что за?..",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/147.wav"
     },
     {
         "id": "M5123_S0010_G0220_001_a2b",
@@ -158,14 +160,16 @@
         "jp": "内容は？",
         "en": "What's the data?",
         "ru": "Какие в нём данные?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/860.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/860.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/861.wav"
     },
     {
         "id": "M5123_S0010_G0250_001_pod042",
         "jp": "破損部分が大きく、これ以上の解析は不可。",
         "en": "The data log has been irreparably damaged. Further analysis is impossible.",
         "ru": "Журналу данных нанесено непоправимое повреждение. Дальнейший анализ невозможен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/966.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/966.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/3.wav"
     },
     {
         "id": "M5123_S0010_G0260_001_a2b",
@@ -228,7 +232,8 @@
         "jp": "他にデータチップの反応はありませんね。これで最後のようです。",
         "en": "Okay, I think that's the last of the data chips.",
         "ru": "Хорошо, полагаю, что это последний из чипов с данными.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/67.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/67.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/149.wav"
     },
     {
         "id": "M5123_S0010_G0340_001_a2b",
@@ -403,14 +408,16 @@
         "jp": "長く戦っている兵士ならなおさら。",
         "en": "Especially for a soldier who's been fighting that long.",
         "ru": "Особенно для солдата, сражавшегося так долго.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/865.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/865.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/866.wav"
     },
     {
         "id": "M5123_S0030_G0210_001_a9s",
         "jp": "そうなんですね……",
         "en": "I guess so.",
         "ru": "Полагаю, что так.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/71.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/71.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/153.wav"
     },
     {
         "id": "M5123_S0030_G0220_001_a2b",

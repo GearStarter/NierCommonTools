@@ -31,14 +31,16 @@
         "jp": "現在、技術部の方で電波発信源の解析を進めているが、",
         "en": "Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.",
         "ru": "Наша команда разведки пытается определить источник сигнала, но пока что безуспешно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/60.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/60.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/103.wav"
     },
     {
         "id": "M1040_S0545_S0050_001_cmd",
         "jp": "情報が不足している。",
         "en": "We need more data.",
         "ru": "Нам нужно больше данных.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/61.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/61.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/104.wav"
     },
     {
         "id": "M1040_S0545_S0060_001_cmd",
@@ -71,7 +73,8 @@
         "jp": "でもこれ、地下の深めの場所みたいですけど……",
         "en": "But it seems to be underground. Like, way underground.",
         "ru": "Но, видимо, он под землёй. Глубоко под землёй.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1308.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1308.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1309.wav"
     },
     {
         "id": "M1040_S0550_G0020_001_a2b",
@@ -85,7 +88,8 @@
         "jp": "多分。",
         "en": "...If we're lucky.",
         "ru": "Если нам повезёт...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/533.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/533.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/533.wav"
     },
     {
         "id": "M1040_S0550_G0030_001_a9s",
@@ -111,7 +115,8 @@
         "jp": "こんな巨大な空洞が、どうして……",
         "en": "Why is there such a huge cavern beneath the city?",
         "ru": "Откуда под городом такая огромная пещера?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1304.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1304.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1305.wav"
     },
     {
         "id": "M1040_S0545_S0090_300_a9s",

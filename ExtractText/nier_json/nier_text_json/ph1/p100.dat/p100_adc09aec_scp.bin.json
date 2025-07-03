@@ -24,7 +24,8 @@
         "jp": "宇宙空間では資材も燃料もありませんから。",
         "en": "There are no spare parts or fuel in space, after all.",
         "ru": "Ведь в космосе нет ни запчастей, ни топлива.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1268.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1268.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1269.wav"
     },
     {
         "id": "M1030_S0400_G0290_001_a2b",
@@ -57,7 +58,8 @@
         "jp": "結論は出てないんですよね。",
         "en": "But no one knows for sure.",
         "ru": "Но никто не может сказать наверняка.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1270.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1270.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1271.wav"
     },
     {
         "id": "M1030_S0400_G0340_001_a9s",

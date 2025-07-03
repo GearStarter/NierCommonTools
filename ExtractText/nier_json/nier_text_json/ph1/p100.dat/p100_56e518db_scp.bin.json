@@ -17,41 +17,47 @@
         "jp": "こんな形の機械生命体、記録にありません！",
         "en": "Our records don't say anything about a machine like this!",
         "ru": "В наших архивах нет никакой информации о таких машинах!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1238.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1238.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1239.wav"
     },
     {
         "id": "M1030_S0210_G0010_101_a9s",
         "jp": "敵からのハッキングです！",
         "en": "It's trying to hack us!",
         "ru": "Она пытается нас взломать!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1239.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1239.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1240.wav"
     },
     {
         "id": "M1030_S0210_G0020_101_a9s",
         "jp": "電脳内でダメージを受けると機体に不具合が生じるから気をつけて！！",
         "en": "If we take hacking damage, it'll affect our bodies as well!",
         "ru": "Если мы получим урон от взлома, то это подействует и на наши тела!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1240.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1240.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1241.wav"
     },
     {
         "id": "M1030_S0230_G0000_101_a2b",
         "jp": "アンドロイドの死体を再利用して攻撃してきてる！？",
         "en": "Are we seriously being attacked with dead androids?",
         "ru": "Нас в самом деле атакуют тела мёртвых андроидов?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/506.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/506.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/506.wav"
     },
     {
         "id": "M1030_S0230_G0010_101_a9s",
         "jp": "いや……これは……",
         "en": "Wait. I don't think...",
         "ru": "Подожди. Я не думаю...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1241.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1241.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1242.wav"
     },
     {
         "id": "M1030_S0230_G0020_101_a9s",
         "jp": "ブラックボックス信号が確認されています！",
         "en": "2B! I'm detecting black box signals!",
-        "ru": "2B! Я обнаружил сигнал чёрных ящиков!"
+        "ru": "2B! Я обнаружил сигнал чёрных ящиков!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1243.wav"
     },
     {
         "id": "M1030_S0230_G0030_101_a9s",
@@ -63,21 +69,24 @@
         "id": "M1030_S0230_G0040_101_a2b",
         "jp": "……すぐに、終わらせる！！",
         "en": "All right. This ends now!",
-        "ru": "Хорошо. Разделаемся с ними!"
+        "ru": "Хорошо. Разделаемся с ними!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/507.wav"
     },
     {
         "id": "M1030_S0230_G0050_101_a9s",
         "jp": "敵のハッキングパターンの解析が進みました。",
         "en": "I've almost analyzed the enemy's hacking pattern.",
         "ru": "Я почти закончил анализ кода взлома противника.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1244.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1244.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1245.wav"
     },
     {
         "id": "M1030_S0230_G0060_101_a9s",
         "jp": "僕は相手に逆ハッキングを仕掛けます。",
         "en": "I'm going to try to hack it back.",
         "ru": "Попробую осуществить обратный взлом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1245.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1245.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1246.wav"
     },
     {
         "id": "M1030_S0230_G0070_101_a9s",

@@ -521,7 +521,8 @@
         "id": "M5090_S0010_G0060_001_a9s",
         "jp": "なんだ、ここ……？",
         "en": "What's this?",
-        "ru": "Что это?"
+        "ru": "Что это?",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/49.wav"
     },
     {
         "id": "M5090_S0010_G0070_001_roborece",

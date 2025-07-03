@@ -4,7 +4,8 @@
         "jp": "……以上が、エイリアンシップの報告です。",
         "en": "...That concludes our report on the events surrounding the alien wreckage.",
         "ru": "...На этом завершается доклад об инопланетных останках...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/544.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/544.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/544.wav"
     },
     {
         "id": "M1050_S0010_G0010_001_cmd",
@@ -18,7 +19,8 @@
         "jp": "……この情報は、人類会議で結論が出るまでは、",
         "en": "The Council of Humanity needs time to formulate a plan.",
         "ru": "Совету Человечества потребуется время на разработку плана.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/66.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/66.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/109.wav"
     },
     {
         "id": "M1050_S0010_G0030_001_cmd",
@@ -32,7 +34,8 @@
         "jp": "くれぐれも、他言のないように。",
         "en": "Speak of it to no one.",
         "ru": "Никому не сообщай о ней.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/68.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/68.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/111.wav"
     },
     {
         "id": "M1050_S0010_G0050_001_a2b",
@@ -60,7 +63,8 @@
         "jp": "月面の人類会議からの通達だ。",
         "en": "This order comes directly from the Council.",
         "ru": "Это прямой приказ Совета.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/70.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/70.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/113.wav"
     },
     {
         "id": "M1050_S0010_G0090_001_cmd",
@@ -87,7 +91,8 @@
         "jp": "しかも、行き先はまた廃墟都市ですか。",
         "en": "And now we have to go back to the city ruins.",
         "ru": "И теперь нам опять нужно возвращаться в руины города.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1343.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1343.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1344.wav"
     },
     {
         "id": "M1050_S0010_G0112_001_a9s",
@@ -100,7 +105,8 @@
         "jp": "気が向いたらね。",
         "en": "I'll rest if I feel like it.",
         "ru": "Если мне захочется, то обязательно отдохну.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/547.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/547.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/547.wav"
     },
     {
         "id": "M1050_S0010_G0120_001_a9s",
@@ -114,7 +120,8 @@
         "jp": "作戦に好き嫌いはない。",
         "en": "We don't get to choose our assignments.",
         "ru": "У нас нет права выбирать наше предназначение.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/548.wav"
     },
     {
         "id": "M1050_S0010_G0140_001_a2b",
@@ -134,7 +141,8 @@
         "jp": "そうは言っても、個体差があるから仕方ない気がします……",
         "en": "I think some of us are better at that than others...",
         "ru": "Я думаю, некоторые из нас в этом лучше, чем другие...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1347.wav"
     },
     {
         "id": "M1050_S0010_G0170_001_a9s",

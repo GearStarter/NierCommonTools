@@ -39,7 +39,8 @@
         "jp": "敵防空圏内に突入後、マニュアル攻撃形態に移行し、",
         "en": "Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...",
         "ru": "Принято. Достигнув радиуса поражения ПВО противника, примите боевой порядок...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/104.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/104.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/104.wav"
     },
     {
         "id": "M0010_S0005_S0130_101_op60",
@@ -81,7 +82,8 @@
         "jp": "長距離レーザー発射点を確認。",
         "en": "Origin point of long-range lasers confirmed.",
         "ru": "Местоположение дальнобойных лазеров установлено.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/2.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/2.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/2.wav"
     },
     {
         "id": "M0010_S0010_G0050_101_a1d",
@@ -109,14 +111,16 @@
         "jp": "全ての存在は滅びるようにデザインされている。",
         "en": "Everything that lives is designed to end.",
         "ru": "Всему живому предначертан конец.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/6.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/6.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/6.wav"
     },
     {
         "id": "M0010_S0005_S0010_101_a2b",
         "jp": "生と死を繰り返す螺旋に……",
         "en": "We are perpetually trapped...",
         "ru": "Мы навечно заперты...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/7.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/7.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/7.wav"
     },
     {
         "id": "M0010_S0005_S0020_101_a2b",
@@ -130,21 +134,24 @@
         "jp": "これは、呪いか。",
         "en": "Is this a curse?",
         "ru": "Это проклятие?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/9.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/9.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/9.wav"
     },
     {
         "id": "M0010_S0005_S0040_101_a2b",
         "jp": "それとも、罰か。",
         "en": "Or some kind of punishment?",
         "ru": "Или какое-то наказание?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/10.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/10.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/10.wav"
     },
     {
         "id": "M0010_S0005_S0050_101_a2b",
         "jp": "不可解なパズルを渡した神に",
         "en": "I often think about the god who blessed us with this cryptic puzzle...",
         "ru": "Что за бог ниспослал нам эту таинственную загадку...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/11.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/11.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/11.wav"
     },
     {
         "id": "M0010_S0005_S0060_101_a2b",

@@ -52,7 +52,8 @@
         "jp": "どこか他の道から進めないかな……",
         "en": "Maybe there's another way around.",
         "ru": "Возможно, есть другой путь внутрь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1226.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1226.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1227.wav"
     },
     {
         "id": "M1030_S0120_G0061_001_a9s",
@@ -66,7 +67,8 @@
         "jp": "別のルートで奥のエリアに行けるかもしれませんね。",
         "en": "Maybe there's another route that will take us deeper inside.",
         "ru": "Быть может, есть другой путь, который приведёт нас вглубь здания.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1221.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1221.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1222.wav"
     },
     {
         "id": "M1030_S0120_G0020_300_a9s",
@@ -79,28 +81,32 @@
         "id": "M1030_S0120_G0040_300_a9s",
         "jp": "どこかから奥に進めると思うんですけど……",
         "en": "There's got to be some way to proceed further in...",
-        "ru": "Должен быть другой способ попасть внутрь..."
+        "ru": "Должен быть другой способ попасть внутрь...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1223.wav"
     },
     {
         "id": "M1030_S0120_G0050_300_a9s",
         "jp": "あと、調査してない場所はここくらいでしょうか。",
         "en": "Pretty sure this is the last place we haven't searched.",
         "ru": "Уверен, это последнее место, где мы ещё не искали.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1224.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1224.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1225.wav"
     },
     {
         "id": "M1030_S0120_G0060_300_a9s",
         "jp": "レジスタンスの反応はあの建物の方向から発信されています。",
         "en": "We're getting Resistance signals from that building over there.",
         "ru": "Мы получаем сигналы членов Сопротивления прямиком из этого здания.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1227.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1227.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1228.wav"
     },
     {
         "id": "M1030_S0120_G0121_001_a2b",
         "jp": "ここから先に進むには……",
         "en": "We need a way through.",
         "ru": "Нам нужно попасть внутрь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/500.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/500.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/500.wav"
     },
     {
         "id": "M1030_S0120_G0122_001_a9s",
@@ -154,7 +160,8 @@
         "jp": "これだけ大型の武装した機械生命体……",
         "en": "These machines are heavily armed.",
         "ru": "Эта машина довольно тяжело вооружена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1233.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1233.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1234.wav"
     },
     {
         "id": "M1030_S0120_G0160_001_a9s",
@@ -167,7 +174,8 @@
         "jp": "あの戦車……放っておいていいんですか？",
         "en": "Do you really think it's a good idea to leave that tank behind?",
         "ru": "Ты действительно считаешь, что просто проигнорировать этот танк — хорошая идея?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1235.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1235.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1236.wav"
     },
     {
         "id": "M1030_S0120_G0180_001_a2b",
@@ -194,14 +202,16 @@
         "jp": "『絶叫マシン』とも呼ばれていた。",
         "en": "It was commonly referred to as a \"roller coaster.\"",
         "ru": "Подобное было принято называть \"американскими горками\".",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/622.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/622.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/684.wav"
     },
     {
         "id": "M1030_S0120_G0100_300_a9s",
         "jp": "人間って変な生き物なんだな……",
         "en": "Humans sure are strange creatures...",
         "ru": "Люди, определённо, странные создания...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1229.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1229.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1230.wav"
     },
     {
         "id": "M5920_S0060_G0000_001_a9s",
@@ -248,14 +258,16 @@
         "jp": "だから『ナインズ』って呼んでくれていいんですよ？",
         "en": "I mean, if you want to call me Nines, it's totally okay.",
         "ru": "Я имею в виду, если хочешь, то можешь запросто звать меня Девятым.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/343.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/343.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/425.wav"
     },
     {
         "id": "M5920_S0060_G0070_001_a2b",
         "jp": "まだ、いい。",
         "en": "I'm good.",
         "ru": "Меня и так всё устраивает.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1005.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1005.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1006.wav"
     },
     {
         "id": "M5920_S0060_G0080_001_a9s",

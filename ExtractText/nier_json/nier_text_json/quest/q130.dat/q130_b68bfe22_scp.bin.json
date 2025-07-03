@@ -286,7 +286,8 @@
         "id": "M5130_S0030_G0210_001_a2b",
         "jp": "美人だからとはいえ、サービスしすぎ。",
         "en": "All this help for no personal gain? I know she's pretty, but—",
-        "ru": "И вся эта помощь без личной выгоды? Я знаю, она красивая, но..."
+        "ru": "И вся эта помощь без личной выгоды? Я знаю, она красивая, но...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/870.wav"
     },
     {
         "id": "M5130_S0030_G0220_001_a9s",
@@ -305,7 +306,8 @@
         "id": "M5130_S0030_G0240_001_a2b",
         "jp": "どっちでもいい。",
         "en": "Whatever.",
-        "ru": "Как скажешь."
+        "ru": "Как скажешь.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/871.wav"
     },
     {
         "id": "M5130_S0120_G0000_001_a9s",
@@ -404,20 +406,23 @@
         "jp": "プレゼントなんて無意味な行為。",
         "en": "Gifts are such a useless ritual.",
         "ru": "Подарки — такой бесполезный ритуал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/871.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/871.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/872.wav"
     },
     {
         "id": "M5130_S0130_G0020_001_a9s",
         "jp": "ど、どうしたんですか！？急に。",
         "en": "Wow, okay. Where'd THAT come from?",
         "ru": "Воу, хорошо. И почему же?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/79.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/79.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/161.wav"
     },
     {
         "id": "M5130_S0130_G0030_001_a2b",
         "jp": "相手に聞かずに物を送るのは迷惑。",
         "en": "It's rude to give a person something without their permission.\\nWhat if they don't want it?",
-        "ru": "Грубо дарить кому-то что-либо без его разрешения.\\nА что, если они этого не хотят?"
+        "ru": "Грубо дарить кому-то что-либо без его разрешения.\\nА что, если они этого не хотят?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/873.wav"
     },
     {
         "id": "M5130_S0130_G0040_001_a9s",
@@ -430,7 +435,8 @@
         "jp": "気持ちとか感情を持つことは禁止されている。",
         "en": "Feelings are prohibited.",
         "ru": "Чувства под запретом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/873.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/873.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/874.wav"
     },
     {
         "id": "M5130_S0130_G0060_001_a9s",
@@ -442,7 +448,8 @@
         "id": "M5130_S0130_G0070_001_a2b",
         "jp": "ハイは一回。",
         "en": "One affirmation will suffice.",
-        "ru": "Одного подтверждения будет достаточно."
+        "ru": "Одного подтверждения будет достаточно.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/875.wav"
     },
     {
         "id": "M5130_S0130_G0080_001_a9s",
@@ -463,7 +470,8 @@
         "jp": "そいつが犯人の可能性もあるから、気をつけないと……",
         "en": "Stay alert. She could be our killer.",
         "ru": "Будь начеку. Она может оказаться убийцей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/875.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/875.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/876.wav"
     },
     {
         "id": "M5130_S0130_G0110_001_a9s",
@@ -477,14 +485,16 @@
         "jp": "あれ……？いないですね。",
         "en": "Hmm. I don't see her.",
         "ru": "Хм. Я не вижу её.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/85.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/85.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/167.wav"
     },
     {
         "id": "M5130_S0130_G0130_001_a2b",
         "jp": "あそこにいる人に聞いてみよう。",
         "en": "Let's ask that guy over there.",
         "ru": "Давай спросим у того парня.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/876.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/876.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/877.wav"
     },
     {
         "id": "M5130_S0130_G0140_001_resiman",
@@ -692,7 +702,8 @@
         "jp": "……とにかく、話してみよう。",
         "en": "Let's go talk to her.",
         "ru": "Давай-ка поговорим с ней.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/877.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/877.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/878.wav"
     },
     {
         "id": "M5130_S0140_G0040_001_resiwoman",
@@ -746,7 +757,8 @@
         "id": "M5130_S0140_G0120_001_a9s",
         "jp": "でも……",
         "en": "Listen, if you—",
-        "ru": "Послушайте, если вы..."
+        "ru": "Послушайте, если вы...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/337.wav"
     },
     {
         "id": "M5130_S0140_G0130_001_resiwoman2",
@@ -969,7 +981,8 @@
         "jp": "……知らなくていいことだって、ある。",
         "en": "Some things are better left unknown.",
         "ru": "Порой лучше не знать некоторых вещей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/879.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/879.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/880.wav"
     },
     {
         "id": "M5130_S0150_G0280_001_a9s",

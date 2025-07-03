@@ -4,14 +4,16 @@
         "jp": "ゲートの封鎖を確認。",
         "en": "Exit confirmed closed.",
         "ru": "Ворота были заблокированы.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/89.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/89.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/89.wav"
     },
     {
         "id": "M0010_S0220_G0080_111_a2b",
         "jp": "扉の解除。",
         "en": "So open it.",
         "ru": "Так открой их.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/8.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/8.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/8.wav"
     },
     {
         "id": "M0010_S0220_G0090_111_pod042",

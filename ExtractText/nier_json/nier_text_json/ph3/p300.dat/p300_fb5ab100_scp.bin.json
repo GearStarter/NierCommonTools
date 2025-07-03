@@ -32,13 +32,15 @@
         "jp": "……罠でも何でもいい。",
         "en": "I don't care.",
         "ru": "Плевать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1856.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1856.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1857.wav"
     },
     {
         "id": "M3060_S0036_G0130_001_a9s",
         "jp": "皆殺しにするだけだ。",
         "en": "I just have to kill them all.",
         "ru": "Я просто должен убить их всех.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1857.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1857.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1858.wav"
     }
 ]

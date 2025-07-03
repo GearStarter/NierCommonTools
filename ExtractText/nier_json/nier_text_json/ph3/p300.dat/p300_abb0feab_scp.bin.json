@@ -36,7 +36,8 @@
         "jp": "どうしたんだ！？",
         "en": "What happened!?",
         "ru": "Что произошло?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/433.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/433.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/515.wav"
     },
     {
         "id": "M3030_S0040_G0060_001_pascal",
@@ -56,7 +57,8 @@
         "jp": "仲間を襲い始めたのです。",
         "en": "They began attacking their friends.",
         "ru": "Они начали нападать на своих друзей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/503.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/503.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/565.wav"
     },
     {
         "id": "M3030_S0040_G0090_001_pascal",
@@ -70,14 +72,16 @@
         "jp": "他の村人は……",
         "en": "But I fear everyone else is...",
         "ru": "Но боюсь, все остальные здесь...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/505.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/505.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/567.wav"
     },
     {
         "id": "M3030_S0040_G0110_001_a2",
         "jp": "このままだとお前も食われるぞ！",
         "en": "You need to get out of here before you're next.",
         "ru": "Тебе нужно убираться отсюда, чтобы не стать следующим.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/434.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/434.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/516.wav"
     },
     {
         "id": "M3030_S0040_G0120_001_a2",
@@ -117,21 +121,24 @@
         "id": "M3030_S0040_G0170_001_a2",
         "jp": "これで、全部か……",
         "en": "Is that all of them?",
-        "ru": "Всё, наконец?"
+        "ru": "Всё, наконец?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/900.wav"
     },
     {
         "id": "M3030_S0040_G0180_001_a2",
         "jp": "生き残っている機械生命体は？",
         "en": "Pod, scan for survivors.",
         "ru": "Бот, просканируй наличие выживших.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/439.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/439.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/521.wav"
     },
     {
         "id": "M3030_S0040_G0190_001_pod042",
         "jp": "存在しない。全て機能停止している。",
         "en": "Scanning. No life signs detected.",
         "ru": "Сканирую. Выживших не обнаружено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/828.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/828.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/890.wav"
     },
     {
         "id": "M3030_S0040_G0200_001_a2",
@@ -144,7 +151,8 @@
         "id": "M3030_S0040_G0210_001_a2",
         "jp": "パスカル。聞こえるか？",
         "en": "Pascal, can you hear me?",
-        "ru": "Паскаль, ты меня слышишь?"
+        "ru": "Паскаль, ты меня слышишь?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/523.wav"
     },
     {
         "id": "M3030_S0040_G0220_001_pascal",
@@ -157,14 +165,16 @@
         "jp": "村は、村の皆はどうなりましたか？",
         "en": "How is my village? My people?",
         "ru": "Что с деревней? Как мой народ?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/509.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/509.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/571.wav"
     },
     {
         "id": "M3030_S0040_G0240_001_a2",
         "jp": "すまない……ダメだった。",
         "en": "I'm sorry. I couldn't help them.",
         "ru": "Сожалею. Я не смогла им помочь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/442.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/442.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/524.wav"
     },
     {
         "id": "M3030_S0040_G0250_001_pascal",
@@ -190,7 +200,8 @@
         "id": "M3030_S0040_G0280_001_a2",
         "jp": "わかった。ひとまずそっちに行く。",
         "en": "All right. I'm on my way.",
-        "ru": "Хорошо. Я уже в пути."
+        "ru": "Хорошо. Я уже в пути.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/526.wav"
     },
     {
         "id": "M3030_S0040_G0161_300_a2",

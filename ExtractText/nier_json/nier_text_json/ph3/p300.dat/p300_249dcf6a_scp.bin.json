@@ -16,14 +16,16 @@
         "jp": "今……",
         "en": "Don't worry...",
         "ru": "Не беспокойся...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1862.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1862.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1830.wav"
     },
     {
         "id": "M3060_S0070_G0030_001_a9s",
         "jp": "今、殺すから……！",
         "en": "I'm going to kill you now!",
         "ru": "Я убью тебя!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1863.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1863.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1864.wav"
     },
     {
         "id": "M3060_S0070_G0040_001_pod153",
@@ -37,6 +39,7 @@
         "jp": "死に損ないがいるのか……",
         "en": "Still a few stragglers, huh...",
         "ru": "Осталось ещё несколько...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1864.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1864.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1865.wav"
     }
 ]

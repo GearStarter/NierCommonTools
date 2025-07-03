@@ -11,21 +11,24 @@
         "jp": "どうして機械生命体は襲ってくるタイプとそうでないタイプがいるんだろう……",
         "en": "Why are some machines so aggressive, while others couldn't care less about us?",
         "ru": "Почему некоторые машины крайне агрессивны, в то время как другие попросту не обращают на нас внимания?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1418.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1418.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1419.wav"
     },
     {
         "id": "M1060_S0040_G0000_001_a9s",
         "jp": "このあたりは前回の大戦争の時に地盤が破壊されてしまって……",
         "en": "The bedrock here was bombed out in the last war.",
         "ru": "Коренные породы материка были разрушены бомбардировками в ходе последней войны.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1419.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1419.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1420.wav"
     },
     {
         "id": "M1060_S0040_G0010_001_a9s",
         "jp": "街全体が沈下しつつあるんですよね。",
         "en": "Looks like the whole city is starting to sink as a result.",
         "ru": "И с тех пор город начал уходить под воду.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1421.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1421.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1422.wav"
     },
     {
         "id": "M1060_S0040_G0011_001_pod042",
@@ -38,7 +41,8 @@
         "jp": "あれを守ればいいのか……",
         "en": "Is that what we need to protect?",
         "ru": "Это то, что нам нужно защитить?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/577.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/577.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/577.wav"
     },
     {
         "id": "M1060_S0040_G0020_001_a9s",
@@ -119,7 +123,8 @@
         "jp": "マップデータ及び飛行ユニットを転送する。",
         "en": "I'm sending flight units and coordinates now.",
         "ru": "Я высылаю полётные модули и координаты задания.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/88.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/88.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/131.wav"
     },
     {
         "id": "M1060_S0040_G0140_001_cmd",

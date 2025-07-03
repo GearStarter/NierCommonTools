@@ -4,7 +4,8 @@
         "jp": "あれは……確か以前戦った……",
         "en": "Haven't I fought this thing before...?",
         "ru": "Разве раньше я уже не сражалась с этой штукой?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/935.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/935.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/936.wav"
     },
     {
         "id": "M5401_S0010_G0010_001_pod042",
@@ -29,7 +30,8 @@
         "jp": "あれ、前に戦ったロボットだよね。",
         "en": "Hey, I've fought this machine before, right?",
         "ru": "Эй, я ведь уже сражался с такой машиной, не так ли?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/205.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/205.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/287.wav"
     },
     {
         "id": "M5401_S0010_G0050_001_pod153",
@@ -88,7 +90,8 @@
         "jp": "迎撃する。",
         "en": "Engaging enemy.",
         "ru": "Вступаю в бой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/937.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/937.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/938.wav"
     },
     {
         "id": "M5401_S0010_G0120_001_robosmallgoldwoman",
@@ -102,7 +105,8 @@
         "jp": "迎撃する。",
         "en": "Ready to engage.",
         "ru": "Готов вступить в бой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/207.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/207.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/938.wav"
     },
     {
         "id": "M5401_S0010_G0120_001_robosmallgoldwoman",
@@ -116,7 +120,8 @@
         "jp": "倒すぞ。",
         "en": "Time to die.",
         "ru": "Время умирать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/568.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/568.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/650.wav"
     },
     {
         "id": "M5401_S0020_G0030_001_robosmallgoldwoman",
@@ -153,20 +158,23 @@
         "jp": "兄様……他の個体もいるということ？",
         "en": "Brother? So there's another one?",
         "ru": "Брат? Так есть другие?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/938.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/938.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/939.wav"
     },
     {
         "id": "M5401_S0030_G0020_001_a9s",
         "jp": "兄様って……他にもいるのか？",
         "en": "Brother? Wait, there's more of these things?",
         "ru": "Брат? Подожди, так их больше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/208.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/208.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/290.wav"
     },
     {
         "id": "M5401_S0030_G0030_001_a2",
         "jp": "兄様……まさか他にも……？",
         "en": "Brother? So there's more of them?",
         "ru": "Брат? Так их больше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/569.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/569.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/651.wav"
     }
 ]

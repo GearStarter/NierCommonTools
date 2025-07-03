@@ -10,7 +10,8 @@
         "id": "M5920_S0110_G0000_001_pod153",
         "jp": "ヨルハ部隊飛行ユニットの残骸。",
         "en": "The remains of a YoRHa flight unit.",
-        "ru": "Останки полётного модуля YoRHa."
+        "ru": "Останки полётного модуля YoRHa.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/686.wav"
     },
     {
         "id": "M5920_S0110_G0010_001_pod153",
@@ -37,7 +38,8 @@
         "jp": "……再生。",
         "en": "Play it.",
         "ru": "Воспроизведи его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/374.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/374.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/456.wav"
     },
     {
         "id": "M5920_S0110_G0050_001_a2b",
@@ -64,7 +66,8 @@
         "jp": "私は……彼に……",
         "en": "I want him... I mean...",
         "ru": "Я хочу ему... в смысле...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1033.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1033.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1034.wav"
     },
     {
         "id": "M5920_S0110_G0090_001_a2b",
@@ -84,7 +87,8 @@
         "jp": "光のような思い出だった……",
         "en": "It was like memories of pure light...",
         "ru": "Было подобно лучу света в моей жизни...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1036.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1036.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1037.wav"
     },
     {
         "id": "M5920_S0110_G0120_001_a2b",
@@ -97,7 +101,8 @@
         "jp": "メッセージは以上。",
         "en": "End of message.",
         "ru": "Конец сообщения.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/611.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/611.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/689.wav"
     },
     {
         "id": "M5920_S0110_G0140_001_a9s",
@@ -110,7 +115,8 @@
         "id": "M5920_S0110_G0150_001_pod042",
         "jp": "ヨルハ部隊飛行ユニットの残骸。",
         "en": "The remains of a YoRHa flight unit.",
-        "ru": "Останки полётного модуля YoRHa."
+        "ru": "Останки полётного модуля YoRHa.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/686.wav"
     },
     {
         "id": "M5920_S0110_G0160_001_pod042",
@@ -136,7 +142,8 @@
         "jp": "……そのままにしておこう。",
         "en": "Leave it.",
         "ru": "Оставь его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/655.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/655.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/737.wav"
     },
     {
         "id": "M5920_S0110_G0200_001_a2",

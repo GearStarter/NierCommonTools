@@ -212,7 +212,8 @@
         "jp": "それでは、試練スタート！",
         "en": "Let the trial begin!",
         "ru": "Давайте начнём испытание!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/176.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/176.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/176.wav"
     },
     {
         "id": "M5092_S0030_G0100_001_robomaskmode",
@@ -268,7 +269,8 @@
         "id": "M5092_S0030_G0145_001_robomaskmode",
         "jp": "では始め！",
         "en": "Now...begin!",
-        "ru": "А теперь... начали!"
+        "ru": "А теперь... начали!",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/179.wav"
     },
     {
         "id": "M5092_S0030_G0150_001_robomaskmode",

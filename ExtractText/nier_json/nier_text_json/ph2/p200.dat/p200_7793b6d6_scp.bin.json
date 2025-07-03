@@ -55,7 +55,8 @@
         "jp": "死んでしまおう！",
         "en": "Yes, let us die now!",
         "ru": "Да, давайте же умрём!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/997.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/997.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1075.wav"
     },
     {
         "id": "M1080_S0070_G0700_300_n02",

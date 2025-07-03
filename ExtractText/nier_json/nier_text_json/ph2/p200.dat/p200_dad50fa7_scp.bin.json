@@ -61,7 +61,8 @@
         "jp": "パスカル！聞こえる！？",
         "en": "Pascal! Come in, Pascal!",
         "ru": "Паскаль! Приём, Паскаль!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1583.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1583.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1584.wav"
     },
     {
         "id": "M1090_S0220_G0060_001_a2b",

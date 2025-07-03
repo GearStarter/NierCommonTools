@@ -25,6 +25,7 @@
         "jp": "データベースに該当する情報はありませんね。",
         "en": "I don't know. There's nothing like it in the database.",
         "ru": "Я не знаю. В базе данных ничего подобного нет.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1316.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1316.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1317.wav"
     }
 ]

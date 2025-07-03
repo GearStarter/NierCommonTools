@@ -4,7 +4,8 @@
         "jp": "地形が陥没してる……",
         "en": "The ground is caved in...",
         "ru": "Земля обвалилась...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1311.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1311.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1312.wav"
     },
     {
         "id": "M1040_S0550_G0050_001_a9s",
@@ -18,6 +19,7 @@
         "jp": "ここの通路は昔からあるみたいですけど……",
         "en": "This hallway looks pretty old...",
         "ru": "Этот коридор выглядит довольно старым...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1313.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1313.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1314.wav"
     }
 ]

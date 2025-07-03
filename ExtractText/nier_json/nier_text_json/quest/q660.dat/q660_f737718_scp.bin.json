@@ -112,7 +112,8 @@
         "jp": "スタンプ……",
         "en": "You mean \"stamp it\"?",
         "ru": "В смысле \"проштамповать\"?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/978.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/978.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/979.wav"
     },
     {
         "id": "M5660_S0020_G0040_001_pod153",
@@ -137,7 +138,8 @@
         "jp": "真面目か……",
         "en": "You're taking this pretty seriously.",
         "ru": "А ты довольно серьезно к этому относишься.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/286.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/286.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/368.wav"
     },
     {
         "id": "M5660_S0055_G0040_001_robosmail",
@@ -252,7 +254,8 @@
         "jp": "って言われても……",
         "en": "Easy for you to say.",
         "ru": "Тебе легко говорить.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/979.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/979.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/980.wav"
     },
     {
         "id": "M5660_S0040_G0000_001_robozombie",
@@ -448,7 +451,8 @@
         "jp": "お足元にお気をつけてお帰りください。",
         "en": "Please watch your step as you exit.",
         "ru": "Пожалуйста, смотрите под ноги при выходе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1128.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1128.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/42.wav"
     },
     {
         "id": "M5660_S0050_G0230_001_reception",
@@ -462,7 +466,8 @@
         "jp": "はい、どうぞ。",
         "en": "Right then. Here you are.",
         "ru": "Порядок. Вот, возьмите.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/1.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/1.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/44.wav"
     },
     {
         "id": "M5660_S0050_G0250_001_reception",
@@ -535,7 +540,8 @@
         "jp": "豪華、景品……",
         "en": "Deluxe, huh?",
         "ru": "Шикарный, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/980.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/980.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/981.wav"
     },
     {
         "id": "M5660_S0060_G0030_001_pod153",

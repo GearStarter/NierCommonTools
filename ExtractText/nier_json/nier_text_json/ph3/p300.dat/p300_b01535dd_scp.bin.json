@@ -17,13 +17,15 @@
         "jp": "考えるのは後回しだ。",
         "en": "We can sort it out later.",
         "ru": "Обсудим это позже.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/460.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/460.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/542.wav"
     },
     {
         "id": "M3030_S0110_G0150_001_a2",
         "jp": "今はとりあえずこいつらを倒さないと！",
         "en": "Right now we have to take 'em down!",
-        "ru": "Сейчас нам нужно разобраться с ними!"
+        "ru": "Сейчас нам нужно разобраться с ними!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/543.wav"
     },
     {
         "id": "M3030_S0120_G0000_001_a2",
@@ -50,6 +52,7 @@
         "id": "M3030_S0120_G0030_001_a2",
         "jp": "こんな大型兵器まで……",
         "en": "Come on, Goliaths too...?",
-        "ru": "Да ладно, ещё и Голиафы?.."
+        "ru": "Да ладно, ещё и Голиафы?..",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/545.wav"
     }
 ]

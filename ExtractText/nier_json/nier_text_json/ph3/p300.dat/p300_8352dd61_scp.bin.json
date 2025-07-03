@@ -23,14 +23,16 @@
         "jp": "いや……違う",
         "en": "No... Oh no...",
         "ru": "Нет... О, нет...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1716.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1716.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1717.wav"
     },
     {
         "id": "M3000_S0500_G0040_001_a9s",
         "jp": "この反応は……！！",
         "en": "This signal, it's...",
         "ru": "Этот сигнал, это же...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1717.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1717.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1718.wav"
     },
     {
         "id": "M3000_S0500_G0050_001_a2b",
@@ -55,7 +57,8 @@
         "id": "M3000_S0500_G0080_001_a2b",
         "jp": "このままじゃ……",
         "en": "All right, enough of this shit...",
-        "ru": "Ладно, хватит с меня этого дерьма..."
+        "ru": "Ладно, хватит с меня этого дерьма...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/781.wav"
     },
     {
         "id": "M3000_S0500_G0090_001_a2b",
@@ -82,7 +85,8 @@
         "id": "M3000_S0500_G0120_001_a9s",
         "jp": "わ……わかった……",
         "en": "Um, o-okay...",
-        "ru": "Эм, х-хорошо..."
+        "ru": "Эм, х-хорошо...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1721.wav"
     },
     {
         "id": "M3000_S0500_G0130_001_pod153",
@@ -102,14 +106,16 @@
         "jp": "コース自動設定。",
         "en": "Setting automatic course.",
         "ru": "Задаю установку автоматического курса.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/727.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/727.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/789.wav"
     },
     {
         "id": "M3000_S0500_G0160_001_pod042",
         "jp": "戦線空域からの離脱ルートに入る。",
         "en": "Entering escape route from combat zone.",
         "ru": "Ввожу маршрут побега из зоны боевых действий.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/728.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/728.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/790.wav"
     },
     {
         "id": "M3000_S0500_G0170_001_a9s",
@@ -121,14 +127,16 @@
         "id": "M3000_S0500_G0180_001_a9s",
         "jp": "ダメだよ！",
         "en": "No!",
-        "ru": "Нет!"
+        "ru": "Нет!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1723.wav"
     },
     {
         "id": "M3000_S0500_G0190_001_a2b",
         "jp": "ステルス機能解除！",
         "en": "Stealth function released!",
         "ru": "Функция невидимости доступна!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/783.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/783.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/784.wav"
     },
     {
         "id": "M3000_S0500_G0200_001_pod042",
@@ -168,7 +176,8 @@
         "jp": "なんとか、地上に着陸しないと……",
         "en": "Gotta find a way to land this thing...",
         "ru": "Я должна найти способ посадить эту штуку...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/784.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/784.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/785.wav"
     },
     {
         "id": "M3000_S0500_G0260_001_pod042",

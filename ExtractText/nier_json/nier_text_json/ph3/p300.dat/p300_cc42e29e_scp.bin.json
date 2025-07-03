@@ -3,13 +3,15 @@
         "id": "M3060_S0032_G0000_001_a9s",
         "jp": "デボル……ポポル……",
         "en": "Devola? Popola?",
-        "ru": "Девола? Попола?"
+        "ru": "Девола? Попола?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1842.wav"
     },
     {
         "id": "M3060_S0032_G0010_001_a9s",
         "jp": "どうして……ここに！？",
         "en": "What are you doing here!?",
-        "ru": "Что вы здесь делаете?!"
+        "ru": "Что вы здесь делаете?!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1843.wav"
     },
     {
         "id": "M3060_S0032_G0020_001_dbl",
@@ -50,7 +52,8 @@
         "id": "M3060_S0032_G0070_001_a9s",
         "jp": "クソッ",
         "en": "Ugh!",
-        "ru": "Угх!"
+        "ru": "Угх!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3060_S0032_G0071_001_a9s",
@@ -111,14 +114,16 @@
         "id": "M3060_S0032_G0240_300_a9s",
         "jp": "彼女たちを残したままにはできない！早く戻らないと…！",
         "en": "I can't leave them alone... I've got to go back!",
-        "ru": "Я не могу их бросить... Я должен вернуться!"
+        "ru": "Я не могу их бросить... Я должен вернуться!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1850.wav"
     },
     {
         "id": "M3060_S0032_G0250_300_dbl",
         "jp": "くそ、ここまでか……",
         "en": "Damn... Looks like this is it.",
         "ru": "Чёрт... Похоже, что всё.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/953.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/953.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1035.wav"
     },
     {
         "id": "M3060_S0032_G0260_300_ppl",
@@ -138,7 +143,8 @@
         "jp": "ハッキングで『塔』のロックを解除してくれ！",
         "en": "You need to hack the Tower lock open!",
         "ru": "Ты должен взломать замок Башни!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/955.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/955.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1037.wav"
     },
     {
         "id": "M3060_S0032_G0290_300_ppl",

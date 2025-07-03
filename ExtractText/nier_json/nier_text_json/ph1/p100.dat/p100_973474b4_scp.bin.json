@@ -17,7 +17,8 @@
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
         "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1109.wav"
     },
     {
         "id": "M1010_S0030_G0030_001_a2b",
@@ -87,14 +88,16 @@
         "id": "M1010_S0030_G0070_001_a9s",
         "jp": "……あ、そうだ。",
         "en": "Oh, I almost forgot—",
-        "ru": "О, я совсем забыл..."
+        "ru": "О, я совсем забыл...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1119.wav"
     },
     {
         "id": "M1010_S0030_G0080_001_a9s",
         "jp": "司令官が呼んでたから一緒に行きましょう。",
         "en": "The Commander was calling for you.",
         "ru": "Командор вызывает вас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1121.wav"
     },
     {
         "id": "M1010_S0030_G0085_001_a9s",
@@ -120,7 +123,8 @@
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
         "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1109.wav"
     },
     {
         "id": "M1010_S0030_G0030_001_a2b",
@@ -190,14 +194,16 @@
         "id": "M1010_S0030_G0070_001_a9s",
         "jp": "……あ、そうだ。",
         "en": "Oh, I almost forgot—",
-        "ru": "О, я совсем забыл..."
+        "ru": "О, я совсем забыл...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1119.wav"
     },
     {
         "id": "M1010_S0030_G0080_001_a9s",
         "jp": "司令官が呼んでたから一緒に行きましょう。",
         "en": "The Commander was calling for you.",
         "ru": "Командор вызывает вас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1121.wav"
     },
     {
         "id": "M1010_S0030_G0085_001_a9s",
@@ -291,7 +297,8 @@
         "jp": "格納庫に行きましょう。",
         "en": "Better head for the hangar!",
         "ru": "Отправляемся в ангар!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1124.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1124.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1125.wav"
     },
     {
         "id": "M1010_S0030_G0230_001_a9s",
@@ -332,7 +339,8 @@
         "jp": "そこで補給してきたらどう？",
         "en": "What say we go stock up over there?",
         "ru": "Как насчёт того, чтобы сходить за припасами?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/466.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/466.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/466.wav"
     },
     {
         "id": "M1010_S0030_G0060_300_a9s",
@@ -353,7 +361,8 @@
         "jp": "何か忘れ物でもしたの？",
         "en": "Is there something you forgot?",
         "ru": "Ты что-то забыл здесь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/471.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/471.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/471.wav"
     },
     {
         "id": "M5920_S0040_G0000_001_a9s",
@@ -366,6 +375,7 @@
         "id": "M5920_S0040_G0010_001_a9s",
         "jp": "近距離マップで確認して、こまめにセーブしましょう。",
         "en": "You can see access points on the close-range map. Be sure to save often!",
-        "ru": "Все терминалы отображаются на мини-карте. Не забывай сохраняться!"
+        "ru": "Все терминалы отображаются на мини-карте. Не забывай сохраняться!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/420.wav"
     }
 ]

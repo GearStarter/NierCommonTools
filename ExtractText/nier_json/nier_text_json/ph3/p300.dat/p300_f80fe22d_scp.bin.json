@@ -4,7 +4,8 @@
         "jp": "指定されたアイテムを回収。",
         "en": "Recover designated items.",
         "ru": "Получите указанные предметы.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/712.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/712.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/774.wav"
     },
     {
         "id": "M1090_S0950_G0010_201_a9s",
@@ -18,7 +19,8 @@
         "jp": "これを渡しておく。",
         "en": "I needed to give you this.",
         "ru": "Я хотел дать тебе это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1609.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1609.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1610.wav"
     },
     {
         "id": "M1090_S0950_G0030_201_a9s",
@@ -45,7 +47,8 @@
         "jp": "予定されていた準備行動を完了。",
         "en": "Planning preparations complete.",
         "ru": "Плановые приготовления завершены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/713.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/713.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/775.wav"
     },
     {
         "id": "M1090_S0950_G0070_201_pod042",
@@ -78,14 +81,16 @@
         "jp": "だけど、僕はまだ知らなかった。",
         "en": "Still, at the time, I knew nothing.",
         "ru": "Тем не менее, в тот момент я ещё ничего не знал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1615.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1615.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1616.wav"
     },
     {
         "id": "M3000_S0030_S0030_001_a9s",
         "jp": "この戦いの結末と……",
         "en": "Not how the battle would end...",
         "ru": "Ни того, чем закончится эта битва...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1616.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1616.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1617.wav"
     },
     {
         "id": "M3000_S0030_S0040_001_a9s",

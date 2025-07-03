@@ -10,14 +10,16 @@
         "jp": "この塔は月面の人類サーバーを狙った巨大砲台だ。",
         "en": "This tower is a giant cannon that's aimed at the human server on the moon.",
         "ru": "Эта башня — гигантская пушка, нацеленная на сервер людей на Луне.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/535.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/535.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/617.wav"
     },
     {
         "id": "M3060_S0802_G0010_001_a2",
         "jp": "このままだと、人類の残存データが破壊されるだろう……",
         "en": "If we don't do something, all of humanity's remaining data will be destroyed.",
         "ru": "Если мы что-нибудь не предпримем, вся оставшаяся информация о людях будет уничтожена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/537.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/537.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/619.wav"
     },
     {
         "id": "M3060_S0802_G0020_001_a9s",
@@ -30,7 +32,8 @@
         "jp": "どうでもいい……",
         "en": "So what?",
         "ru": "И что с того?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1877.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1877.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/4.wav"
     },
     {
         "id": "M3060_S0802_G0040_001_a9s",
@@ -44,21 +47,24 @@
         "jp": "知ってた？",
         "en": "Or didn't you know?",
         "ru": "Или ты не знала?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1879.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1879.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/6.wav"
     },
     {
         "id": "M3060_S0802_G0060_001_a9s",
         "jp": "……僕らはこの世界に必要ないんだ。",
         "en": "We aren't required in this world anymore.",
         "ru": "Этот мир больше в нас не нуждается.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1880.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1880.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/7.wav"
     },
     {
         "id": "M3060_S0802_G0070_001_a9s",
         "jp": "人類はもう滅んでる。",
         "en": "Humanity is extinct.",
         "ru": "Человечество вымерло.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1881.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1881.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/8.wav"
     },
     {
         "id": "M3060_S0802_G0080_001_a9s",
@@ -86,7 +92,8 @@
         "jp": "バンカーに仕掛けられたバックドアは一定時間で起動。",
         "en": "They built a back door in the Bunker and programmed it to activate after a certain amount of time.",
         "ru": "Они создали лазейку в Бункер и запрограммировали её активацию через определённый временной промежуток.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1885.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1885.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/12.wav"
     },
     {
         "id": "M3060_S0802_G0120_001_a9s",

@@ -4,13 +4,15 @@
         "jp": "全ての存在は滅びるようにデザインされている。",
         "en": "Everything that lives is designed to end.",
         "ru": "Всему живому предначертан конец.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/6.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/6.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/6.wav"
     },
     {
         "id": "M3060_S8000_H0010_001_pod153",
         "jp": "生と死を繰り返す螺旋に……",
         "en": "They are perpetually trapped...",
-        "ru": "Они навечно заперты..."
+        "ru": "Они навечно заперты...",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/7.wav"
     },
     {
         "id": "M3060_S8000_H0020_001_pod153",
@@ -107,7 +109,8 @@
         "id": "M3060_S8000_H0170_001_pod042",
         "jp": "そうだ。",
         "en": "Yes.",
-        "ru": "Да."
+        "ru": "Да.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/778.wav"
     },
     {
         "id": "M3060_S8000_H0180_001_pod153",
@@ -119,7 +122,8 @@
         "id": "M3060_S8000_H0190_001_pod042",
         "jp": "そうだ。",
         "en": "Yes.",
-        "ru": "Да."
+        "ru": "Да.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/778.wav"
     },
     {
         "id": "M3060_S8000_H0200_001_pod153",

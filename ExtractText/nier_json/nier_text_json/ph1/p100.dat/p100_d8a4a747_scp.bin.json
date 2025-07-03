@@ -9,7 +9,8 @@
         "id": "M0010_S0120_G0010_201_a9s",
         "jp": "聞こえてますよー",
         "en": "9S here. Go ahead.",
-        "ru": "На связи 9S, продолжайте."
+        "ru": "На связи 9S, продолжайте.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1087.wav"
     },
     {
         "id": "M0010_S0120_G0020_201_op210",
@@ -23,7 +24,8 @@
         "jp": "速やかに敵拠点の防衛システムを解除してください。",
         "en": "Disable the enemy base's defense systems immediately.",
         "ru": "Произведите оперативное отключение системы защиты вражеской базы.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/100.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/100.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/162.wav"
     },
     {
         "id": "M0010_S0120_G0040_201_a9s",

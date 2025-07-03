@@ -15,7 +15,8 @@
         "id": "M5410_S0010_G0140_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5410_S0010_G0170_001_16d",
@@ -33,7 +34,8 @@
         "id": "M5410_S0010_G0140_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5410_S0010_G0000_001_16d",
@@ -187,7 +189,8 @@
         "jp": "ブラックボックス信号は？",
         "en": "Pod, can you access her black box?",
         "ru": "Бот, можешь получить доступ к её чёрному ящику.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/945.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/945.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/946.wav"
     },
     {
         "id": "M5410_S0010_G0260_001_pod042",
@@ -213,21 +216,24 @@
         "jp": "また、記憶領域内に断片的な記憶データを確認。",
         "en": "Fragmented data detected in memory region.",
         "ru": "Обнаружены фрагментированные данные в области памяти.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1010.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1010.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/47.wav"
     },
     {
         "id": "M5410_S0010_G0300_001_a2b",
         "jp": "脱走計画……",
         "en": "She was planning to go AWOL...",
         "ru": "Она планировала дезертировать...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/947.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/947.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/948.wav"
     },
     {
         "id": "M5410_S0010_G0320_001_pod042",
         "jp": "重大な規定違反。しかし当該機体の死亡により、処罰の実行は不可能。",
         "en": "Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible.",
         "ru": "Обнаружено нарушение устава. Однако из-за смерти данной единицы наказание невозможно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1011.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1011.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/48.wav"
     },
     {
         "id": "M5410_S0010_G0325_001_a2b",

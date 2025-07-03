@@ -9,7 +9,8 @@
         "id": "M6030_S0010_G0400_300_sp",
         "jp": "何か交換していくかい？",
         "en": "So then! What can I do ya for?",
-        "ru": "Итак! Что я могу для вас сделать?"
+        "ru": "Итак! Что я могу для вас сделать?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0410_300_sp",
@@ -21,7 +22,8 @@
         "id": "M6030_S0010_G0400_300_sp",
         "jp": "何か交換していくかい？",
         "en": "So then! What can I do ya for?",
-        "ru": "Итак! Что я могу для вас сделать?"
+        "ru": "Итак! Что я могу для вас сделать?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0410_300_sp",
@@ -39,7 +41,8 @@
         "id": "M6030_S0010_G0280_300_sp",
         "jp": "何か交換していくかい？",
         "en": "Wanna do business?",
-        "ru": "Хотите провести сделку?"
+        "ru": "Хотите провести сделку?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0290_300_sp",
@@ -51,7 +54,8 @@
         "id": "M6030_S0010_G0280_300_sp",
         "jp": "何か交換していくかい？",
         "en": "Wanna do business?",
-        "ru": "Хотите провести сделку?"
+        "ru": "Хотите провести сделку?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0290_300_sp",
@@ -90,7 +94,8 @@
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
         "ru": "Чем я могу помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0180_300_sp",
@@ -108,7 +113,8 @@
         "id": "M6030_S0010_G0170_300_sp",
         "jp": "何か交換していくかい？",
         "en": "Here to do a little business?",
-        "ru": "Прибыли, чтобы совершить небольшую сделку?"
+        "ru": "Прибыли, чтобы совершить небольшую сделку?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0180_300_sp",
@@ -120,7 +126,8 @@
         "id": "M6030_S0010_G0170_300_sp",
         "jp": "何か交換していくかい？",
         "en": "Here to do a little business?",
-        "ru": "Прибыли, чтобы совершить небольшую сделку?"
+        "ru": "Прибыли, чтобы совершить небольшую сделку?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M6030_S0010_G0180_300_sp",
@@ -153,28 +160,32 @@
         "jp": "何か必要だったらここで交換していった方がいいな。",
         "en": "If you need anything, best to take care of it here while you can.",
         "ru": "Если вам что-нибудь нужно, лучше позаботьтесь об этом здесь, пока можете.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/669.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/669.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/747.wav"
     },
     {
         "id": "M1020_S0010_G0300_001_resi",
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
         "ru": "Чем я могу помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M1020_S0010_G0300_001_resi",
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
         "ru": "Чем я могу помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M1020_S0010_G0120_001_resi",
         "jp": "最近、このあたりは物騒でね……",
         "en": "Things have been dangerous around here lately.",
         "ru": "В последнее время в округе стало опасно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/662.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/662.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/740.wav"
     },
     {
         "id": "M6033_S0013_G0414_300_js",
@@ -246,13 +257,15 @@
         "id": "M1020_S0010_G0250_001_resi",
         "jp": "……あんまり無理しないようにね。",
         "en": "Don't go trying to be a hero, all right?",
-        "ru": "И не пытайтесь геройствовать, хорошо?"
+        "ru": "И не пытайтесь геройствовать, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M1020_S0010_G0250_001_resi",
         "jp": "……あんまり無理しないようにね。",
         "en": "Don't go trying to be a hero, all right?",
-        "ru": "И не пытайтесь геройствовать, хорошо?"
+        "ru": "И не пытайтесь геройствовать, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M6030_S0010_G0261_300_js",
@@ -284,14 +297,16 @@
         "jp": "これからどうなるのか心配で……",
         "en": "Who knows what'll happen to us next?",
         "ru": "Кто знает, что с нами будет дальше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/664.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/664.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/742.wav"
     },
     {
         "id": "M1020_S0010_G0150_001_resi",
         "jp": "砂漠は足を取られやすいから、気をつけてね。",
         "en": "You jerks be careful in the desert, yeah? Folks die out there.",
         "ru": "Болваны, в пустыне нужно быть осторожнее, поняли? Там, между прочим, многие умирают.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/665.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/665.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/743.wav"
     },
     {
         "id": "M5150_S0030_G0080_001_ys",

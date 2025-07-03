@@ -31,13 +31,15 @@
         "jp": "ごゆっくりとお楽しみください！",
         "en": "You're going to LOVE IT!",
         "ru": "Вам оно обязательно ПОНРАВИТСЯ!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/824.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/824.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/906.wav"
     },
     {
         "id": "M3060_S0050_G0041_001_a9s",
         "jp": "皆殺しにしてやる……",
         "en": "I'm gonna kill you...",
         "ru": "Я убью тебя...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1859.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1859.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1860.wav"
     }
 ]

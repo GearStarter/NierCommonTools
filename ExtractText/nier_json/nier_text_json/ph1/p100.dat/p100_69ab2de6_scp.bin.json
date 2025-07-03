@@ -17,7 +17,8 @@
         "jp": "……命令に文句を言わない。",
         "en": "Orders are orders.",
         "ru": "Приказ есть приказ.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/475.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/475.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/475.wav"
     },
     {
         "id": "M1010_S0040_G0030_001_a9s",
@@ -37,7 +38,8 @@
         "jp": "使用方法を表示しますので確認してください。",
         "en": "I'll put up instructions for you. Make sure to commit them to memory!",
         "ru": "Я подготовила обучение для тебя. Постарайся хорошенько всё запомнить!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/253.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/253.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/315.wav"
     },
     {
         "id": "M1010_S0040_G0033_001_a2b",
@@ -57,14 +59,16 @@
         "jp": "飛行ユニットの降下地点を設定しました。",
         "en": "I've set a landing point for your flight units.",
         "ru": "Я установила точку высадки для ваших полётных модулей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/255.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/255.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/317.wav"
     },
     {
         "id": "M1010_S0040_G0060_001_op60",
         "jp": "レジスタンスのキャンプよりちょっと離れた場所なんですが……",
         "en": "You'll be touching down quite a ways from the Resistance camp, unfortunately.",
         "ru": "К сожалению, высадка пройдёт вдалеке от лагеря Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/256.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/256.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/318.wav"
     },
     {
         "id": "M1010_S0040_G0070_001_op60",

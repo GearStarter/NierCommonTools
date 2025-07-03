@@ -23,7 +23,8 @@
         "jp": "お手数ですが、よろしくお願いいたします。",
         "en": "Have a GREAT day!",
         "ru": "ОТЛИЧНОГО вам дня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3020_S0024_G0040_001_a9s",
@@ -68,7 +69,8 @@
         "jp": "お手数ですが、よろしくお願いいたします。",
         "en": "Have a GREAT day!",
         "ru": "ОТЛИЧНОГО вам дня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3020_S0024_G0000_001_announce",
@@ -94,7 +96,8 @@
         "jp": "お手数ですが、よろしくお願いいたします。",
         "en": "Have a GREAT day!",
         "ru": "ОТЛИЧНОГО вам дня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/789.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3020_S0024_G0070_001_announce",
@@ -121,19 +124,22 @@
         "jp": "その代わりとしまして……",
         "en": "However...",
         "ru": "Однако...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/793.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/793.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/875.wav"
     },
     {
         "id": "M3020_S0024_G0110_001_announce",
         "jp": "今回は初回アクセスをされた方に特別なサービスとして、",
         "en": "Today, we have a special gift for first-time visitors to this Tower:",
-        "ru": "Сегодня у нас есть особый подарок для тех, кто посещает Башню впервые."
+        "ru": "Сегодня у нас есть особый подарок для тех, кто посещает Башню впервые.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/876.wav"
     },
     {
         "id": "M3020_S0024_G0120_001_announce",
         "jp": "『資源回収ユニット』へのツアーにご招待いたします！",
         "en": "A tour of our brand-new resource-recovery units!",
-        "ru": "Тур по нашим абсолютно новым модулям добычи ресурсов!"
+        "ru": "Тур по нашим абсолютно новым модулям добычи ресурсов!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/877.wav"
     },
     {
         "id": "M3020_S0024_G0130_001_a9s",
@@ -166,14 +172,16 @@
         "id": "M3020_S0024_G0170_001_pod153",
         "jp": "『資源回収ユニット』と称する物体の場所を通知。",
         "en": "Said message relays the locations of objects known as \"resource-recovery units\".",
-        "ru": "В сообщении вам передали местоположение объектов, известных как \"модули добычи ресурсов\"."
+        "ru": "В сообщении вам передали местоположение объектов, известных как \"модули добычи ресурсов\".",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/348.wav"
     },
     {
         "id": "M3020_S0024_G0180_001_a9s",
         "jp": "ふざけやがって……",
         "en": "Now they're just messing with us...",
         "ru": "Теперь они попросту издеваются над нами...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1740.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1740.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1741.wav"
     },
     {
         "id": "M3020_S0024_G0190_001_announce",
@@ -199,7 +207,8 @@
         "jp": "お手数ですが、よろしくお願いいたします。",
         "en": "Have a WONDERFUL day!",
         "ru": "ЧУДЕСНОГО дня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/800.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/800.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3020_S0024_G0190_001_announce",
@@ -225,7 +234,8 @@
         "jp": "お手数ですが、よろしくお願いいたします。",
         "en": "Have a WONDERFUL day!",
         "ru": "ЧУДЕСНОГО дня!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/800.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/800.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3020_S0024_G0230_001_announce",
@@ -260,7 +270,8 @@
         "jp": "利用した『アクセス認証キー』を無効化します。",
         "en": "Your current authorization key will now be disabled.",
         "ru": "Текущий ключ авторизации более недействителен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/803.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/803.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/885.wav"
     },
     {
         "id": "M3020_S0024_G0260_001_a9s",
@@ -288,7 +299,8 @@
         "jp": "利用した『アクセス認証キー』を無効化します。",
         "en": "Your current authorization key will now be disabled.",
         "ru": "Текущий ключ авторизации более недействителен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/803.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/803.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/885.wav"
     },
     {
         "id": "M3060_S0020_G0160_001_announce",
@@ -309,14 +321,16 @@
         "jp": "ご来場、お待ちしております！",
         "en": "We look forward to serving you!",
         "ru": "Мы с нетерпением ждём возможности послужить вам!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/820.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/820.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/902.wav"
     },
     {
         "id": "M3060_S0020_G0190_001_pod153",
         "jp": "敵の警戒レベルが上昇中。",
         "en": "Alert: Enemy caution level rising.",
         "ru": "Внимание: степень боеготовности противника увеличивается.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/352.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/352.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/430.wav"
     },
     {
         "id": "M3060_S0020_G0200_001_pod153",

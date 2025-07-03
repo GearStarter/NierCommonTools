@@ -130,7 +130,8 @@
         "jp": "武器屋さんが言ってたのは、この辺りですが……",
         "en": "This is the place that weapons trader was talking about...",
         "ru": "Это место, о котором говорил торговец оружием...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/306.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/306.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/388.wav"
     },
     {
         "id": "M5770_S0020_G0010_001_a9s",
@@ -142,7 +143,8 @@
         "id": "M5770_S0020_G0020_001_pod042",
         "jp": "敵機械生命体の排除を確認。",
         "en": "Hostile machine lifeforms destroyed.",
-        "ru": "Враждебные машины уничтожены."
+        "ru": "Враждебные машины уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/122.wav"
     },
     {
         "id": "M5770_S0020_G0030_001_a9s",
@@ -161,7 +163,8 @@
         "id": "M5770_S0020_G0050_001_a9s",
         "jp": "これで全部かな。武器屋さんに見てもらいましょう。",
         "en": "That should be enough. Let's get these back to the trader.",
-        "ru": "Этого должно быть достаточно. Давай доставим их торговцу."
+        "ru": "Этого должно быть достаточно. Давай доставим их торговцу.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/392.wav"
     },
     {
         "id": "M5770_S0030_G0000_001_a9s",

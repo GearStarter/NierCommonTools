@@ -34,7 +34,8 @@
         "jp": "それは……",
         "en": "I...",
         "ru": "Я...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5562_S0010_G0042_001_dbl",
@@ -149,7 +150,8 @@
         "jp": "それは……",
         "en": "I...",
         "ru": "Я...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/125.wav"
     },
     {
         "id": "M5562_S0010_G0042_001_dbl",
@@ -279,7 +281,8 @@
         "jp": "『樹液』の採取可能な地域って……",
         "en": "Where the heck am I gonna find that?",
         "ru": "Где, чёрт возьми, я его найду?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/672.wav"
     },
     {
         "id": "M5562_S0020_G0050_001_pod042",
@@ -332,7 +335,8 @@
         "jp": "さっさと済ませるぞ。",
         "en": "Well, let's get it over with.",
         "ru": "Что ж, покончим с ними.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/592.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/592.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/674.wav"
     },
     {
         "id": "M5562_S0020_G0110_001_a9s",
@@ -387,7 +391,8 @@
         "jp": "『樹液』の採取可能な地域って……",
         "en": "Where the heck am I gonna find that?",
         "ru": "Где, чёрт возьми, я его найду?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/672.wav"
     },
     {
         "id": "M5562_S0020_G0050_001_pod042",

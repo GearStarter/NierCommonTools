@@ -17,7 +17,8 @@
         "jp": "どうやったら壊せるんだ！？",
         "en": "Well, how do I break it down!?",
         "ru": "Ну и как мне его взломать?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1850.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1850.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1851.wav"
     },
     {
         "id": "M3060_S0032_G0110_001_pod153",

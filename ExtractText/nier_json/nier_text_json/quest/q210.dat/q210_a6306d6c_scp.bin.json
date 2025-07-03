@@ -27,7 +27,8 @@
         "id": "M5210_S0010_G0030_001_sele",
         "jp": "破壊する。",
         "en": "Destroy the machine.",
-        "ru": "Уничтожить машину."
+        "ru": "Уничтожить машину.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/560.wav"
     },
     {
         "id": "M5210_S0010_G0050_001_n02",
@@ -106,7 +107,8 @@
         "jp": "無差別に攻撃する機械生命体……",
         "en": "Machines attacking indiscriminately...",
         "ru": "Машины, нападающие без разбора...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/915.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/915.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/916.wav"
     },
     {
         "id": "M5210_S0010_G0180_001_pod042",
@@ -132,20 +134,23 @@
         "jp": "機械生命体の死体……墓場でしょうか？",
         "en": "Look at all the corpses. Is this some kind of graveyard?",
         "ru": "Взгляни на все эти трупы. Это что, какое-то кладбище?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/144.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/144.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/226.wav"
     },
     {
         "id": "M5210_S0020_G0010_001_a2b",
         "jp": "気をつけて！まだ生きてる。",
         "en": "Watch out! They're still alive!",
         "ru": "Берегись! Они ещё живы!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/917.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/917.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/918.wav"
     },
     {
         "id": "M5210_S0020_G0020_001_a9s",
         "jp": "はいっ！",
         "en": "I'm on it!",
-        "ru": "Я разберусь!"
+        "ru": "Я разберусь!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/4.wav"
     },
     {
         "id": "M5210_S0020_G0030_001_a9s",
@@ -171,7 +176,8 @@
         "jp": "何か……言ってる。",
         "en": "What's it saying?",
         "ru": "Что он сказал?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/918.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/918.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/919.wav"
     },
     {
         "id": "M5210_S0020_G0070_001_a9s",
@@ -202,14 +208,16 @@
         "jp": "一体こいつは……",
         "en": "What was with that thing?",
         "ru": "Что это вообще такое было?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/919.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/919.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/920.wav"
     },
     {
         "id": "M5210_S0020_G0120_001_a9s",
         "jp": "喋っていましたね……",
         "en": "It was talking.",
         "ru": "Он разговаривал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/148.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/148.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/230.wav"
     },
     {
         "id": "M5210_S0020_G0130_001_a9s",
@@ -223,7 +231,8 @@
         "jp": "何か情報を知っているかもしれませんし。",
         "en": "We should try asking her.",
         "ru": "Надо попробовать расспросить её.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/150.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/150.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/232.wav"
     },
     {
         "id": "M5210_S0030_G0000_001_n02",
@@ -313,7 +322,8 @@
         "id": "M5210_S0030_G0140_001_a9s",
         "jp": "魂が天国に行けるように祈る……か。",
         "en": "Souls and heaven, huh?",
-        "ru": "Души и рай, что?"
+        "ru": "Души и рай, что?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/233.wav"
     },
     {
         "id": "M5210_S0030_G0150_001_a9s",

@@ -17,13 +17,15 @@
         "id": "M3060_S0500_G0020_001_announce",
         "jp": "ようこそ『塔』へ！",
         "en": "Welcome to the Tower!",
-        "ru": "Добро пожаловать в Башню!"
+        "ru": "Добро пожаловать в Башню!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/59.wav"
     },
     {
         "id": "M3060_S0500_G0030_001_girls",
         "jp": "ようこそ『塔』へ！",
         "en": "Welcome to the Tower!",
-        "ru": "Добро пожаловать в Башню!"
+        "ru": "Добро пожаловать в Башню!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/59.wav"
     },
     {
         "id": "M3060_S0500_G0040_001_a9s",
@@ -62,6 +64,7 @@
         "jp": "ならば約束通り見せてやろう。",
         "en": "Now let us show you what we promised.",
         "ru": "Теперь мы покажем тебе то, что обещали.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/10.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/10.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/72.wav"
     }
 ]

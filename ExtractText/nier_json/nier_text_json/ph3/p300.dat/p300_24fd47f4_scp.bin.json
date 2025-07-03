@@ -23,7 +23,8 @@
         "id": "M3060_S0150_G0030_001_pod042",
         "jp": "過去に人類文明が作り上げた情報保存施設。",
         "en": "A library is a data-storage facility constructed by past human civilizations.",
-        "ru": "Библиотека — огромный массив данных, оставленный человеческой цивилизацией."
+        "ru": "Библиотека — огромный массив данных, оставленный человеческой цивилизацией.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/922.wav"
     },
     {
         "id": "M3060_S0150_G0040_001_a2",
@@ -36,7 +37,8 @@
         "jp": "データを見るのにハッキングする必要があるのか。",
         "en": "I suppose we have to hack in to look at the data, yeah?",
         "ru": "Полагаю, для просмотра данных потребуется взлом, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/502.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/502.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/584.wav"
     },
     {
         "id": "M3060_S0150_G0060_001_a2",
@@ -68,28 +70,32 @@
         "id": "M3060_S0150_G0100_001_a2",
         "jp": "この『塔』は機械生命体にとっての情報収集装置みたいだな……",
         "en": "This Tower looks like a data-gathering system for the machines.",
-        "ru": "Эта Башня похожа на огромный сервер по сбору информации для машин."
+        "ru": "Эта Башня похожа на огромный сервер по сбору информации для машин.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/587.wav"
     },
     {
         "id": "M3060_S0150_G0110_001_a2",
         "jp": "月面の人類サーバーの記録……",
         "en": "These records are from the human server on the moon...",
         "ru": "Эти записи взяты с сервера человечества на Луне...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/506.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/506.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/588.wav"
     },
     {
         "id": "M3060_S0150_G0120_001_a2",
         "jp": "機械生命体はそんな場所まで侵入していたのか。",
         "en": "The machines hacked that deep into the system, huh?",
         "ru": "Машины взломали и проникли в систему?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/507.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/507.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/589.wav"
     },
     {
         "id": "M3060_S0150_G0150_001_a2",
         "jp": "過去の人間の記録か……",
         "en": "Some records on old humans...",
         "ru": "Какие-то записи о людях из прошлого...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/510.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/510.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/592.wav"
     },
     {
         "id": "M3060_S0150_G0160_001_a2",

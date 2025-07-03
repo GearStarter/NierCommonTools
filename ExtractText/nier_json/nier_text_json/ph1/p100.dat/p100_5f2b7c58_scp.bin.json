@@ -11,7 +11,8 @@
         "jp": "もしかしたら別の場所に移動しちゃったかもしれませんね。",
         "en": "Maybe they...I dunno. Moved it somewhere?",
         "ru": "Может они... ну не знаю, переместили его куда-нибудь?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/57.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/57.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/57.wav"
     },
     {
         "id": "M0010_S0700_G0031_101_a2b",
@@ -25,7 +26,8 @@
         "jp": "ああ、鳥ですか。",
         "en": "You mean the birds?",
         "ru": "Ты про птиц?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/54.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/54.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/54.wav"
     },
     {
         "id": "M0010_S0700_G0033_101_a9s",
@@ -39,14 +41,16 @@
         "jp": "その橋の先に別の施設があるはずです。",
         "en": "There should be another facility across that bridge.",
         "ru": "По ту сторону моста должен быть ещё один цех.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/58.wav"
     },
     {
         "id": "M0010_S0700_G0062_101_a9s",
         "jp": "ちょっと遠いですが、移動してみましょうか。",
         "en": "It's a bit of a hike, but should we check it out?",
         "ru": "Путь не близкий, но, может, осмотрим и его?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/59.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/59.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/59.wav"
     },
     {
         "id": "M0010_S0700_G0070_101_a9s",
@@ -67,6 +71,7 @@
         "jp": "どうかな……",
         "en": "I wouldn't bet on that.",
         "ru": "Я так не думаю.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/23.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/23.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/23.wav"
     }
 ]

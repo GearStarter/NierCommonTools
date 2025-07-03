@@ -16,14 +16,16 @@
         "jp": "この機械生命体、まだ生きてますね。",
         "en": "This machine is still alive.",
         "ru": "Эта машина всё ещё жива.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1920.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1920.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/47.wav"
     },
     {
         "id": "M5031_S0020_G0030_001_a2b",
         "jp": "じゃあ、破壊を……",
         "en": "So destroy it.",
         "ru": "Так уничтожь её.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/809.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/809.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/810.wav"
     },
     {
         "id": "M5031_S0020_G0040_001_a9s",
@@ -37,7 +39,8 @@
         "jp": "駆動部分が破壊されているので攻撃してくる心配はありません。",
         "en": "Its main drive has been trashed, so there's no way it can attack us.",
         "ru": "Её главный привод уничтожен, так что она не сможет атаковать нас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1924.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1924.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/51.wav"
     },
     {
         "id": "M5031_S0020_G0060_001_a9s",
@@ -106,7 +109,8 @@
         "jp": "でも、倒すべき機械生命体を修理するなんて……複雑な気分。",
         "en": "You know, I'm still not sure any of this is a good idea.",
         "ru": "Знаешь, я все ещё не уверена, что это хорошая идея.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/813.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/813.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/814.wav"
     },
     {
         "id": "M5031_S0020_G0140_001_a9s",
@@ -256,7 +260,8 @@
         "jp": "オペレーターさんに聞いてみましょうか",
         "en": "Maybe we should ask an Operator.",
         "ru": "Может, стоит спросить у оператора?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1919.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1919.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/46.wav"
     },
     {
         "id": "M5031_S0020_G0070_300_a2b",
@@ -282,27 +287,31 @@
         "id": "M5031_S0020_G0030_300_op210",
         "jp": "それなら、大型二足歩行の機械生命体から入手した記録が残っています。",
         "en": "According to our records, that material can be obtained from the bodies of large bipedal machine lifeforms.",
-        "ru": "Согласно нашим данным, этот материал может быть добыт из тел больших двуногих машин."
+        "ru": "Согласно нашим данным, этот материал может быть добыт из тел больших двуногих машин.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/252.wav"
     },
     {
         "id": "M5031_S0020_G0040_300_a9s",
         "jp": "助かります。",
         "en": "Thanks, Operator. 9S out.",
         "ru": "Спасибо, оператор. 9S — конец связи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1923.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1923.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/50.wav"
     },
     {
         "id": "M5031_S0020_G0050_300_a2b",
         "jp": "大型二足歩行……確か砂漠地帯にいた……",
         "en": "I remember seeing large two-legged machines in the desert...",
         "ru": "Я помню, что видела большие двуногие машины в пустыне...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/810.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/810.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/811.wav"
     },
     {
         "id": "M5031_S0020_G0060_300_a9s",
         "jp": "行きましょう",
         "en": "Let's go.",
-        "ru": "Идём."
+        "ru": "Идём.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/53.wav"
     },
     {
         "id": "M5031_S0020_G0100_300_a2b",

@@ -18,7 +18,8 @@
         "jp": "メンテナンスモード終了。",
         "en": "Maintenance mode complete.",
         "ru": "Техобслуживание завершено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/338.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/338.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/416.wav"
     },
     {
         "id": "M3060_S0010_S0030_001_pod153",
@@ -52,7 +53,8 @@
         "jp": "敵大型ユニット内部での戦闘時にユニット構造物が崩落。",
         "en": "Analysis: The enemy structural unit collapsed during battle.",
         "ru": "Анализ: вражеская структурная единица разрушена во время боя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/343.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/343.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/421.wav"
     },
     {
         "id": "M3060_S0020_G0020_001_pod153",
@@ -105,7 +107,8 @@
         "jp": "現状報告。",
         "en": "Situation report.",
         "ru": "Отчёт о ситуации.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1835.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1835.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1836.wav"
     },
     {
         "id": "M3060_S0020_G0100_001_pod153",
@@ -119,7 +122,8 @@
         "jp": "規定数のアクセス認証キーの入手を確認。",
         "en": "The required number of authentication keys have been acquired.",
         "ru": "Собрано необходимое число ключей авторизации.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/350.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/350.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/428.wav"
     },
     {
         "id": "M3060_S0020_G0120_001_pod153",

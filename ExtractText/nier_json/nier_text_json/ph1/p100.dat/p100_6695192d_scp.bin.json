@@ -11,7 +11,8 @@
         "jp": "作戦は、成功でしたね。",
         "en": "So...mission complete and all that, huh?",
         "ru": "Итак... задание выполнено и всё такое, да?",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/34.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/34.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/34.wav"
     },
     {
         "id": "M0010_S0950_G0020_101_a9s",
@@ -60,14 +61,16 @@
         "jp": "……ごめんなさい。その記憶を僕は持っていません。",
         "en": "Um, I did that? Sorry, I don't remember.",
         "ru": "Эм, это сделал я? Извините, я совсем не помню.",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/38.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/38.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/38.wav"
     },
     {
         "id": "M0010_S0950_G0080_101_a9s",
         "jp": "あの地域は通信帯域が細かったですから……",
         "en": "There wasn't a whole lot of bandwidth down there, you know?",
         "ru": "Из-за того, что в той области были проблемы со связью...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/39.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/39.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/39.wav"
     },
     {
         "id": "M0010_S0950_G0090_101_a9s",

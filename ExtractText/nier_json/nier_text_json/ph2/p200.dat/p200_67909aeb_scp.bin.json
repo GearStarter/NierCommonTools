@@ -4,14 +4,16 @@
         "jp": "敵本体にエネルギーシールドを確認。",
         "en": "Alert: Energy shield detected over enemy unit.",
         "ru": "Внимание: на вражеской единице присутствует энергетический барьер.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/684.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/684.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/746.wav"
     },
     {
         "id": "M1080_S0070_G0250_101_pod042",
         "jp": "物理防御シールドを確認",
         "en": "Physical defense shield detected.",
         "ru": "Обнаружен физический защитный барьер.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/685.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/685.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/747.wav"
     },
     {
         "id": "M1080_S0070_G0251_101_pod042",
@@ -24,14 +26,16 @@
         "jp": "どうすれば……",
         "en": "Oh, now what?",
         "ru": "Ох, и что теперь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/672.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/672.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/672.wav"
     },
     {
         "id": "M1080_S0070_G0270_101_pod042",
         "jp": "本工場から大量のエネルギー供給を確認。",
         "en": "Large energy supply detected within this factory.",
         "ru": "Обнаружен большой запас энергии.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/687.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/687.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/749.wav"
     },
     {
         "id": "M1080_S0070_G0280_101_pod042",
@@ -89,6 +93,7 @@
         "jp": "敵機械生命体のシールド解除を確認。",
         "en": "Enemy shield deactivated.",
         "ru": "Вражеский барьер отключен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/689.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/689.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/751.wav"
     }
 ]

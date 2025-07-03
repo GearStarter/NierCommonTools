@@ -16,13 +16,15 @@
         "jp": "ふざけんなよ、ジャッカス。お前の道楽に付き合ってられるか！",
         "en": "Leave me alone, Jackass! I can't deal with your weird hobbies anymore!",
         "ru": "Оставь меня в покое, Джекэсс! Я более не хочу иметь дел с твоими странными увлечениями!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/690.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/690.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/768.wav"
     },
     {
         "id": "M5150_S0010_G0010_001_jackas",
         "jp": "ふーんだ！ケチ！",
         "en": "Like I care what you think, jerk!",
-        "ru": "Да плевала я на то, что ты там себе думаешь, болван!"
+        "ru": "Да плевала я на то, что ты там себе думаешь, болван!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/119.wav"
     },
     {
         "id": "M5150_S0010_G0020_001_jackas",
@@ -95,7 +97,8 @@
         "jp": "じゃあ、ちょっとついてきてくれ。",
         "en": "Here. Follow me.",
         "ru": "Сюда. Следуйте за мной.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/58.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/58.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/120.wav"
     },
     {
         "id": "M5150_S0020_G0002_001_jackas",

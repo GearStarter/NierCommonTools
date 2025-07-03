@@ -4,7 +4,8 @@
         "jp": "文字……？",
         "en": "Is this writing?",
         "ru": "Это письмена?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1765.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1765.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1766.wav"
     },
     {
         "id": "M3020_S0110_G0010_001_a9s",
@@ -25,7 +26,8 @@
         "jp": "『肉の箱』という文章。",
         "en": "It reads \"meat box.\"",
         "ru": "Тут написано: \"ящик мяса\".",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/289.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/289.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/367.wav"
     },
     {
         "id": "M3020_S0110_G0040_001_a9s",
@@ -51,7 +53,8 @@
         "jp": "そうした部品が使用されている理由は不明。",
         "en": "The reason for using said parts is unknown.",
         "ru": "Причина использования данных деталей неизвестна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/287.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/287.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/365.wav"
     },
     {
         "id": "M3020_S0040_G0074_001_a9s",
@@ -122,7 +125,8 @@
         "jp": "機械生命体の部品が……",
         "en": "Machine parts...",
         "ru": "Части машин...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1771.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1771.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1772.wav"
     },
     {
         "id": "M3020_S0110_G0150_001_pod153",
@@ -136,7 +140,8 @@
         "jp": "武器……",
         "en": "Weapons, eh?",
         "ru": "Оружия, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1772.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1772.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1773.wav"
     },
     {
         "id": "M3020_S0110_G0170_001_core",
@@ -154,6 +159,7 @@
         "id": "M3020_S0110_G0190_001_core",
         "jp": "助けて……助けて……",
         "en": "Help...me...",
-        "ru": "Помогите мне..."
+        "ru": "Помогите мне...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/773.wav"
     }
 ]

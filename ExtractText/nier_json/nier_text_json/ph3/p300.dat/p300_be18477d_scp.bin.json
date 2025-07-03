@@ -4,7 +4,8 @@
         "jp": "さっきの子は！？",
         "en": "Where'd he go!?",
         "ru": "Куда он делся?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/487.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/487.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/569.wav"
     },
     {
         "id": "M3050_S0210_G0010_001_pod042",
@@ -74,6 +75,7 @@
         "jp": "許されるとでも思ってるのか！？",
         "en": "You think that's going to make me forget everything!?",
         "ru": "Считаешь, это заставит меня позабыть обо всём?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/491.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/491.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/573.wav"
     }
 ]

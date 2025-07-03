@@ -10,7 +10,8 @@
         "jp": "話すよりも実際の記録を見てもらった方が話が早いな……",
         "en": "It'll be faster if you just take a look at this recording.",
         "ru": "Будет быстрее, если ты посмотришь эту запись.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1411.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1411.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1412.wav"
     },
     {
         "id": "M1060_S0005_G0020_001_sele",
@@ -42,7 +43,8 @@
         "jp": "危険なアンドロイドとして認識していますが……",
         "en": "We all understand her to be rather dangerous.",
         "ru": "Мы все понимаем, что она очень опасна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/422.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/422.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/484.wav"
     },
     {
         "id": "M1060_S0005_G0070_001_pascal",
@@ -63,14 +65,16 @@
         "jp": "そう……ありがとう。",
         "en": "I see... All right, thanks.",
         "ru": "Понял... Ладно, спасибо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1412.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1412.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1413.wav"
     },
     {
         "id": "M1060_S0005_G0170_001_a2b",
         "jp": "各地を警戒しつつ、一度レジスタンスキャンプに戻ろう。",
         "en": "Let's stay sharp and head back to the Resistance camp.",
         "ru": "Не ослабляй бдительность, давай вернёмся в лагерь Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/574.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/574.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/574.wav"
     },
     {
         "id": "M1060_S0005_G0180_001_a2b",

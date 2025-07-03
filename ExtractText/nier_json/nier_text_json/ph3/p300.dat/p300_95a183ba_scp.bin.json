@@ -24,7 +24,8 @@
         "jp": "この構造物の目的は？",
         "en": "What's the purpose of this structure?",
         "ru": "Каково предназначение этой постройки?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/495.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/495.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/577.wav"
     },
     {
         "id": "M3060_S0130_G0010_001_pod042",
@@ -44,6 +45,7 @@
         "jp": "……だろうな。",
         "en": "Someday I need to teach you how to be helpful.",
         "ru": "Как-нибудь стоит преподать тебе урок о том, как быть полезным.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/496.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/496.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/578.wav"
     }
 ]

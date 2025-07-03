@@ -4,21 +4,24 @@
         "jp": "雨の日も、風の日も。",
         "en": "Whether in wind or rain...",
         "ru": "Будь то ветер или дождь...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1403.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1403.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1404.wav"
     },
     {
         "id": "M1050_S0500_S0010_201_a9s",
         "jp": "嵐の日も、雷の日も。",
         "en": "thunder or snow...",
         "ru": "Буря или же метель...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1404.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1404.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1405.wav"
     },
     {
         "id": "M1050_S0500_S0020_201_a9s",
         "jp": "燃え上がる戦場の炎の下でも。",
         "en": "or even amidst the rising flames of war...",
         "ru": "И даже посреди бушующего пламени войны...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1405.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1405.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1406.wav"
     },
     {
         "id": "M1050_S0500_S0030_201_a9s",

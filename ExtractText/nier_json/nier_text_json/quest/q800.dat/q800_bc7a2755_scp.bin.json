@@ -15,7 +15,8 @@
         "id": "M5800_S0010_G0080_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5800_S0010_G0100_001_robomother",
@@ -33,7 +34,8 @@
         "id": "M5800_S0010_G0080_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5800_S0010_G0000_001_robomother",
@@ -75,7 +77,8 @@
         "id": "M5800_S0010_G0110_001_a9s",
         "jp": "わかったわかった……",
         "en": "All right, all right! Sheesh...",
-        "ru": "Хорошо, хорошо! Боже..."
+        "ru": "Хорошо, хорошо! Боже...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1488.wav"
     },
     {
         "id": "M5800_S0010_G0120_001_a9s",

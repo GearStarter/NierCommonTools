@@ -136,7 +136,8 @@
         "id": "M1050_S0210_G0100_001_cmd",
         "jp": "お前たちの前にいるのは……敵だ。",
         "en": "What you see in front of you...is your enemy.",
-        "ru": "То, что стоит перед вами... ваш враг."
+        "ru": "То, что стоит перед вами... ваш враг.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/117.wav"
     },
     {
         "id": "M1050_S0210_G0110_001_a2b",
@@ -148,7 +149,8 @@
         "id": "M1050_S0210_G0120_001_a9s",
         "jp": "でも、あれは……！",
         "en": "But she's—",
-        "ru": "Но она..."
+        "ru": "Но она...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1388.wav"
     },
     {
         "id": "M1050_S0210_G0130_001_cmd",
@@ -175,7 +177,8 @@
         "jp": "逃げたか……",
         "en": "She's gone...",
         "ru": "Она ушла...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/567.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/567.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/567.wav"
     },
     {
         "id": "M1050_S0230_G0030_300_a9s",
@@ -195,7 +198,8 @@
         "id": "M1050_S0230_G0010_001_op210",
         "jp": "バンカー了解。司令官に接続します。",
         "en": "Roger that, 9S.",
-        "ru": "Принято, 9S."
+        "ru": "Принято, 9S.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/205.wav"
     },
     {
         "id": "M1050_S0230_G0020_001_a9s",
@@ -222,21 +226,24 @@
         "jp": "あれは非常に危険な個体だ。",
         "en": "That's an incredibly powerful unit you just faced.",
         "ru": "Вы только что столкнулись с невероятно сильным противником.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/79.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/79.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/122.wav"
     },
     {
         "id": "M1050_S0230_G0060_001_cmd",
         "jp": "うかつに近寄らない方がいい。",
         "en": "You should probably keep your distance in the future.",
         "ru": "В следующий раз вам следует соблюдать дистанцию.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/80.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/80.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/123.wav"
     },
     {
         "id": "M1050_S0230_G0070_001_a9s",
         "jp": "司令官……脱走って、一体何が……",
         "en": "Commander, why did A2 desert the force?",
         "ru": "Командор, почему A2 дезертировала?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1395.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1395.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1396.wav"
     },
     {
         "id": "M1050_S0230_G0080_001_cmd",
@@ -282,7 +289,8 @@
         "jp": "何か知ってるかもしれない……",
         "en": "He might know something.",
         "ru": "Он может что-то знать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1399.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1399.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1400.wav"
     },
     {
         "id": "M1050_S0230_G0150_001_a2b",
@@ -337,14 +345,16 @@
         "jp": "敵の侵入を防いでいたゲートを開けておきます。",
         "en": "I'll open the gate we built to deter enemy invaders.",
         "ru": "Я открою ворота, которые мы построили для защиты от врагов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/417.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/417.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/479.wav"
     },
     {
         "id": "M1050_S0230_G0230_001_pascal",
         "jp": "そちらから村に入れるように手配しますね。",
         "en": "You'll be able to reach the village through there.",
         "ru": "Через них вы сможете добраться до деревни.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/418.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/418.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/480.wav"
     },
     {
         "id": "M1050_S0230_G0020_300__pod042",
@@ -358,7 +368,8 @@
         "jp": "あそこがパスカルが開けてくれた門みたいですね。",
         "en": "That must be the gate Pascal opened for us.",
         "ru": "Должно быть это те ворота, которые Паскаль открыл для нас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1394.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1394.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1395.wav"
     },
     {
         "id": "M1050_S0230_G0060_300_n02",

@@ -11,7 +11,8 @@
         "jp": "ミサイル発射。",
         "en": "Firing missiles.",
         "ru": "Выпускаю ракеты.",
-        "en_voice": "stream/English(US)/vo_core_2_000/3.wav"
+        "en_voice": "stream/English(US)/vo_core_2_000/3.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1094.wav"
     },
     {
         "id": "M0010_S2000_H0020_001_a9s",

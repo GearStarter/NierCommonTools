@@ -4,7 +4,8 @@
         "jp": "……何の音だろう？",
         "en": "What's that noise?",
         "ru": "Что это было?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1284.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1284.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1285.wav"
     },
     {
         "id": "M1040_S0033_G0010_011_op60",
@@ -45,7 +46,8 @@
         "jp": "廃墟都市地帯に敵大型兵器の出現を確認。",
         "en": "We've detected a Goliath-class enemy inside the city ruins.",
         "ru": "Мы обнаружили противника класса Голиаф в руинах города.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/129.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/129.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/191.wav"
     },
     {
         "id": "M1040_S0033_G0070_021_op210",
@@ -64,7 +66,8 @@
         "jp": "大型兵器……！",
         "en": "A Goliath!?",
         "ru": "Голиаф?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1285.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1285.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1286.wav"
     },
     {
         "id": "M1040_S0033_G0100_001_a9s",
@@ -85,7 +88,8 @@
         "jp": "信じていただけないかもしれませんが……",
         "en": "I realize the odds of you believing me are strikingly low...",
         "ru": "Я понимаю, что вы не сильно-то доверяете мне...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/394.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/394.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/456.wav"
     },
     {
         "id": "M1040_S0033_G0130_001_pascal",
@@ -113,7 +117,8 @@
         "jp": "座標をポイントしたので、向かいましょう！",
         "en": "They just sent the coordinates, so let's get going.",
         "ru": "Они уже выслали координаты места посадки, поспешим.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1292.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1292.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1293.wav"
     },
     {
         "id": "M1040_S0033_G0280_001_a2b",
@@ -152,7 +157,8 @@
         "jp": "次は良いニュース。",
         "en": "Now the good news.",
         "ru": "Теперь к хорошей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/135.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/135.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/197.wav"
     },
     {
         "id": "M1040_S0033_G0190_021_op210",
@@ -166,7 +172,8 @@
         "jp": "弱点と思われる箇所の特定に成功しました。",
         "en": "And it seems we have identified a weakness.",
         "ru": "И, похоже, нам удалось обнаружить уязвимость.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/137.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/137.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/199.wav"
     },
     {
         "id": "M1040_S0033_G0210_021_op210",
@@ -180,20 +187,23 @@
         "jp": "搭載した飛行ユニットを配備します。",
         "en": "It's been installed on a pair of flight units that are heading your way.",
         "ru": "Его установили на два полётных модуля, которые уже отправлены к вам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/139.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/139.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/201.wav"
     },
     {
         "id": "M1040_S0033_G0230_021_a9s",
         "jp": "さすがはヨルハ開発部……",
         "en": "That's YoRHa R&D for you!",
-        "ru": "Инженеры YoRHa отлично поработали!"
+        "ru": "Инженеры YoRHa отлично поработали!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1290.wav"
     },
     {
         "id": "M1040_S0033_G0240_021_op210",
         "jp": "マップデータを確認してください。",
         "en": "Check your map data. Operator out.",
         "ru": "Проверьте данные на карте. Конец связи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/140.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/140.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/202.wav"
     },
     {
         "id": "M1040_S0033_G0250_021_a9s",
@@ -207,21 +217,24 @@
         "jp": "大型兵器の足元は危ないですね……",
         "en": "We probably shouldn't get near that guy's feet...",
         "ru": "Не стоит нам лезть под ноги к этому здоровяку...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1293.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1293.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1294.wav"
     },
     {
         "id": "M1040_S0035_G0010_001_a9s",
         "jp": "どこか別のルートを探した方がいい気がします。",
         "en": "Yeah, no. Let's find another route.",
         "ru": "Определённо, не стоит. Поищем другой путь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1294.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1294.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1295.wav"
     },
     {
         "id": "M1040_S0035_G0020_001_a9s",
         "jp": "飛行ユニットはこの先のビル屋上に配備されてますね……",
         "en": "The flight units should be on the roof of that building up ahead.",
         "ru": "Полётные модули должны приземлиться на крыше того здания впереди.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1295.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1295.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1296.wav"
     },
     {
         "id": "M1040_S0035_G0021_001_a9s",
@@ -235,7 +248,8 @@
         "jp": "気をつけていきましょう。",
         "en": "We should be careful.",
         "ru": "Нам следует быть осторожными.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1297.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1297.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1298.wav"
     },
     {
         "id": "M1040_S0040_G0000_300_ysA",
@@ -255,21 +269,24 @@
         "jp": "支援感謝する。",
         "en": "Thanks for the backup.",
         "ru": "Спасибо за помощь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/149.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/149.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/192.wav"
     },
     {
         "id": "M1040_S0040_G0030_300_ysB",
         "jp": "お、お前たち、すごいな……",
         "en": "You guys are amazing...",
         "ru": "Классные вы ребята...",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/150.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/150.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/193.wav"
     },
     {
         "id": "M1040_S0040_G0050_300_ysB",
         "jp": "助かった。ありがとう。",
         "en": "Thanks. We owe you one.",
         "ru": "Спасибо. За нами должок.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/151.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/151.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/194.wav"
     },
     {
         "id": "M1040_S0038_G0000_001_a9s",
@@ -294,14 +311,16 @@
         "jp": "配線が集中しているハブの情報を表示します！",
         "en": "Displaying data on central wiring hub!",
         "ru": "Вывожу данные на коммутационную панель!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1300.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1300.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1301.wav"
     },
     {
         "id": "M1040_S0038_G0040_001_a9s",
         "jp": "今のうちに飛行ユニットの場所まで移動しましょう！",
         "en": "Let's get to those flight units while we can!",
         "ru": "Запрыгиваем в полётные модули, пока у нас ещё есть шанс.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1301.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1301.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1302.wav"
     },
     {
         "id": "M1040_S0040_G0000_011_op60",
@@ -315,7 +334,8 @@
         "jp": "低空飛行で接近してください。",
         "en": "Make sure to approach at low altitude.",
         "ru": "Сближайтесь на малой высоте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/268.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/268.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/330.wav"
     },
     {
         "id": "M1040_S0040_G0020_011_a2b",
@@ -335,7 +355,8 @@
         "jp": "低空飛行での接近を推奨します。",
         "en": "A low-altitude approach is recommended.",
         "ru": "Рекомендуется полёт на малой высоте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/142.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/142.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/204.wav"
     },
     {
         "id": "M1040_S0040_G0050_021_a9s",

@@ -44,7 +44,8 @@
         "jp": "直接……そうか！",
         "en": "Direct...? Oh, right!",
         "ru": "Прямой? А, точно!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/590.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/590.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/590.wav"
     },
     {
         "id": "M1060_S0080_G0070_001_a9s",

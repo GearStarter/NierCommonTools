@@ -25,7 +25,8 @@
         "jp": "貴様の攻撃は無駄だ。",
         "en": "Your attack is meaningless.",
         "ru": "Твои атаки бессмысленны.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/14.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/14.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/76.wav"
     },
     {
         "id": "M3060_S0560_G0040_001_girls",

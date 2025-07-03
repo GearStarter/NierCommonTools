@@ -11,7 +11,8 @@
         "jp": "敵個体が接続されているネットワークは膨大",
         "en": "The enemy is connected to a vast network.",
         "ru": "Враг подключён к обширной сети.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/706.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/706.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/768.wav"
     },
     {
         "id": "M1090_S0280_G0020_101_pod042",
@@ -44,6 +45,7 @@
         "jp": "敵個体のネットワーク機能切断を確認。",
         "en": "Enemy unit cut off from network functionality.",
         "ru": "Вражеская единица отключена от функционала сети.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/709.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/709.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/771.wav"
     }
 ]

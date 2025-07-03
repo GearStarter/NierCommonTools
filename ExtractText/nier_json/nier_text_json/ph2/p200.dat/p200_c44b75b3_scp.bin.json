@@ -10,14 +10,16 @@
         "jp": "やはり私の予測は的中したようですね。",
         "en": "I was right. This IS shady!",
         "ru": "Я был прав. Здесь явно ЧТО-ТО нечисто!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/458.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/458.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/520.wav"
     },
     {
         "id": "M1080_S0070_G0020_101_pascal",
         "jp": "しかし興味深い……",
         "en": "Fascinating, though...",
         "ru": "Восхитительно, хотя...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/459.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/459.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/521.wav"
     },
     {
         "id": "M1080_S0070_G0030_101_pascal",
@@ -56,7 +58,8 @@
         "jp": "脱出ルートの確保を要請！",
         "en": "We need an immediate escape route.",
         "ru": "Нам нужно немедленно отступить.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/665.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/665.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/665.wav"
     },
     {
         "id": "M1080_S0070_G0090_101_op60",
@@ -69,7 +72,8 @@
         "jp": "通信環境が不安定。",
         "en": "Communications are currently unstable.",
         "ru": "Сигнал нестабилен.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/682.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/682.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/744.wav"
     },
     {
         "id": "M1080_S0070_G0110_101_a2b",
@@ -88,7 +92,8 @@
         "id": "M1080_S0070_G0130_101_a2b",
         "jp": "クソッ！",
         "en": "Damn it!",
-        "ru": "Чёрт!"
+        "ru": "Чёрт!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M1080_S0070_G0081_101_prst",
@@ -149,7 +154,8 @@
         "id": "M1080_S0070_G0160_101_pascal",
         "jp": "行ってみましょう。",
         "en": "Let's check it out.",
-        "ru": "Давайте проверим."
+        "ru": "Давайте проверим.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/526.wav"
     },
     {
         "id": "M1080_S0070_G0170_101_a2b",
@@ -181,13 +187,15 @@
         "jp": "バンカーからハッキングしてこの機械生命体をコントロールしています。",
         "en": "I hacked into this machine from the Bunker. I'm controlling it!",
         "ru": "Я взломал эту машину из Бункера. Она под моим контролем!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1521.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1521.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1522.wav"
     },
     {
         "id": "M1080_S0070_G0220_101_a9s",
         "jp": "これから工場のシステムに侵入し、お二人を脱出させます！",
         "en": "I'm gonna break into this factory's systems and get you outta here!",
-        "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!"
+        "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav"
     },
     {
         "id": "M1080_S0070_G0050_300_a9s",
@@ -200,6 +208,7 @@
         "jp": "わかった。お願い！",
         "en": "Appreciated.",
         "ru": "Весьма признательна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/671.wav"
     }
 ]

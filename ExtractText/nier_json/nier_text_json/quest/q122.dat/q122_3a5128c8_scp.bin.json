@@ -65,7 +65,8 @@
         "jp": "仕事に文句言わない。",
         "en": "No complaining about your work.",
         "ru": "Не жалуйся на свою работу.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1011.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1011.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1012.wav"
     },
     {
         "id": "M5920_S0060_G0240_001_a2b",
@@ -85,7 +86,8 @@
         "jp": "死ぬより、死なない方がいいに決まってる。",
         "en": "Not dying beats dying any day.",
         "ru": "Не умирать гораздо лучше, чем умирать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1014.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1014.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1015.wav"
     },
     {
         "id": "M5920_S0060_G0270_001_a9s",

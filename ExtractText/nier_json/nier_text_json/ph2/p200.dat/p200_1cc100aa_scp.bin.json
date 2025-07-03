@@ -11,20 +11,23 @@
         "jp": "愛や、家族……戦争や、宗教。",
         "en": "Love. Family. Religion. War.",
         "ru": "Любовь. Семья. Религия. Война.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/713.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/713.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/795.wav"
     },
     {
         "id": "M1070_S0160_G0020_101_adam",
         "jp": "人類の記録を読み解けば、他に例を見ない複雑さに魅了されるばかりだ。",
         "en": "The more human records I unearth, the more charmed I am by their complexity.",
         "ru": "Чем больше записей я изучаю, тем сильнее восхищаюсь людьми...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/714.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/714.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/796.wav"
     },
     {
         "id": "M1070_S0160_G0030_101_adam",
         "jp": "この街も、そうした人類への渇望が生み出した場所の一つ……",
         "en": "This city is one of many areas I created out of a desire to understand—to know—humans.",
-        "ru": "Этот город — лишь одно из множества мест, которые я воссоздал, желая понять,  познать человечество."
+        "ru": "Этот город — лишь одно из множества мест, которые я воссоздал, желая понять,  познать человечество.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/797.wav"
     },
     {
         "id": "M1070_S0160_G0040_101_adam",
@@ -51,7 +54,8 @@
         "jp": "……そして、私は気づいた。",
         "en": "Only then did I realize the truth...",
         "ru": "Только тогда я осознал правду...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/719.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/719.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/801.wav"
     },
     {
         "id": "M1070_S0160_G0080_101_adam",
@@ -64,7 +68,8 @@
         "jp": "戦い、奪い、殺し合う。それが人間だ！",
         "en": "They fight. Steal. Kill. THIS is humanity in its purest form!",
         "ru": "Они воюют, крадут, убивают. ЭТО и есть их настоящая суть!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/721.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/721.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/803.wav"
     },
     {
         "id": "M1070_S0160_G0100_101_a2b",
@@ -85,14 +90,16 @@
         "jp": "だが、それが真実だ。",
         "en": "The truth can be so painful.",
         "ru": "Правду не всегда легко принять.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/723.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/723.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/805.wav"
     },
     {
         "id": "M1070_S0160_G0130_101_adam",
         "jp": "私は……人類の本質に到達したい。",
         "en": "I strive to attain nothing less than the essence of humanity itself.",
         "ru": "Я стремлюсь постигнуть саму суть человечества.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/724.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/724.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/806.wav"
     },
     {
         "id": "M1070_S0160_G0140_101_adam",

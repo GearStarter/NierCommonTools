@@ -10,25 +10,29 @@
         "jp": "地下空間より出現した巨大構造物。",
         "en": "An enormous facility that appeared from an area beneath the ground.",
         "ru": "Гигантская постройка появилась из-под земли.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/296.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/296.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/374.wav"
     },
     {
         "id": "M3040_S0022_S0020_001_pod153",
         "jp": "機械生命体の手によるものと考えられるが、詳細は不明。",
         "en": "It would appear to be machine-related in origin. Further details unknown.",
-        "ru": "По-видимому, к этому причастны машины. Дальнейшие подробности неизвестны."
+        "ru": "По-видимому, к этому причастны машины. Дальнейшие подробности неизвестны.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/375.wav"
     },
     {
         "id": "M3040_S0022_S0030_001_pod153",
         "jp": "巨大構造物中央部から地上へ伸びている部分に移動構造物を確認。",
         "en": "Mobile transport platform detected in the section emerging from the facility's center.",
-        "ru": "В центре постройки обнаружена мобильная транспортная платформа."
+        "ru": "В центре постройки обнаружена мобильная транспортная платформа.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/376.wav"
     },
     {
         "id": "M3040_S0022_S0040_001_a9s",
         "jp": "エレベーターか……",
         "en": "So...an elevator?",
-        "ru": "То есть... лифт?.."
+        "ru": "То есть... лифт?..",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1780.wav"
     },
     {
         "id": "M3020_S0020_G0240_300_pod153",

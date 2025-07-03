@@ -4,21 +4,24 @@
         "jp": "また、何か書いてあるな……",
         "en": "There's something written here, too...",
         "ru": "Здесь тоже что-то написано...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1781.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1781.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1782.wav"
     },
     {
         "id": "M3040_S0100_G0010_001_pod153",
         "jp": "『魂の箱』と記載。",
         "en": "It reads \"soul box.\"",
         "ru": "Тут написано: \"ящик души\".",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/301.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/301.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/379.wav"
     },
     {
         "id": "M3040_S0100_G0020_001_a9s",
         "jp": "敵が……いない？",
         "en": "...No enemies?",
         "ru": "...Врагов нет?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1783.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1783.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1784.wav"
     },
     {
         "id": "M3040_S0100_G0030_001_a9s",
@@ -39,7 +42,8 @@
         "jp": "そういう仕組みか。",
         "en": "Huh. So that's how it works.",
         "ru": "Ага. Так вот как это работает.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1787.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1787.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1788.wav"
     },
     {
         "id": "M3040_S0100_G0060_001_a9s",
@@ -53,7 +57,8 @@
         "jp": "あれだけの施設……宇宙に向けて……",
         "en": "A structure that size could probably shoot something into space pretty easily.",
         "ru": "Такая махина могла бы с легкостью подорвать что-нибудь в космосе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1790.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1790.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1791.wav"
     },
     {
         "id": "M3040_S0100_G0080_001_a9s",
@@ -66,7 +71,8 @@
         "jp": "まさか、月面の人類サーバーを狙った……大砲？",
         "en": "So this is some kind of cannon aimed at the human server on the moon?",
         "ru": "Выходит, что это некое орудие, нацеленное на сервер людей на Луне?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1792.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1792.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1793.wav"
     },
     {
         "id": "M3040_S0100_G0100_001_pod153",
@@ -79,7 +85,8 @@
         "id": "M3040_S0100_G0110_001_a9s",
         "jp": "……クソッ！",
         "en": "Damn it!",
-        "ru": "Чёрт!"
+        "ru": "Чёрт!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3040_S0100_G0120_001_a9s",
@@ -92,14 +99,16 @@
         "jp": "機械生命体の、コアでできてる……！？",
         "en": "It's made from cores from the machines?",
         "ru": "Он создан из ядер машин?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1795.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1795.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1796.wav"
     },
     {
         "id": "M3040_S0100_G0140_001_a9s",
         "jp": "そんなバカな……",
         "en": "That's... No.",
         "ru": "Этого... Нет.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1796.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1796.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1797.wav"
     },
     {
         "id": "M3040_S0100_G0150_001_a9s",
@@ -230,6 +239,7 @@
         "jp": "ふざけやがって……",
         "en": "Now they're just messing with us...",
         "ru": "Теперь они попросту издеваются над нами...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1740.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1740.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1741.wav"
     }
 ]

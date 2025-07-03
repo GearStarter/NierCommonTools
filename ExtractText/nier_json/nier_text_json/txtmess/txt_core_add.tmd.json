@@ -718,7 +718,8 @@
         "jp": "私",
         "en": "I",
         "ru": "Я",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/967.wav"
     },
     {
         "id": "CORE_DYING_FIRST_003",
@@ -1499,7 +1500,8 @@
         "jp": "あそこ",
         "en": "over there",
         "ru": "вон там",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/826.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/826.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/827.wav"
     },
     {
         "id": "CORE_DYING_JUNCTION_064",
@@ -3105,7 +3107,8 @@
         "jp": "K",
         "en": "K",
         "ru": "K",
-        "en_voice": "stream/Japanese/vo_plffff_0_003/150.wav"
+        "en_voice": "stream/Japanese/vo_plffff_0_003/150.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/150.wav"
     },
     {
         "id": "CORE_END_12",
@@ -4257,7 +4260,8 @@
         "id": "CORE_ITEM_NAME_680",
         "jp": "水晶",
         "en": "Crystal",
-        "ru": "Кристалл"
+        "ru": "Кристалл",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/611.wav"
     },
     {
         "id": "CORE_ITEM_NAME_681",
@@ -4557,7 +4561,8 @@
         "id": "CORE_ITEM_NAME_833",
         "jp": "スタンプ",
         "en": "Stamp",
-        "ru": "Печать"
+        "ru": "Печать",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/979.wav"
     },
     {
         "id": "CORE_ITEM_NAME_834",

@@ -39,7 +39,8 @@
         "id": "M5530_S0010_G0050_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5530_S0010_G0080_001_resiitem",
@@ -75,7 +76,8 @@
         "id": "M5530_S0010_G0050_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M6080_S0010_G0020_300_sp",
@@ -100,7 +102,8 @@
         "jp": "さあ……私にはわからない。",
         "en": "Don't ask me.",
         "ru": "Не спрашивай меня.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/958.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/958.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/959.wav"
     },
     {
         "id": "M5530_S0020_G0020_001_pod153",

@@ -9,7 +9,8 @@
         "id": "M5640_S0010_G0010_001_resistance",
         "jp": "……そうだ。",
         "en": "Hmm...",
-        "ru": "Хм..."
+        "ru": "Хм...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/778.wav"
     },
     {
         "id": "M5640_S0010_G0020_001_resistance",
@@ -39,7 +40,8 @@
         "id": "M5640_S0010_G0060_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5640_S0010_G0090_001_resistance",
@@ -81,7 +83,8 @@
         "id": "M5640_S0010_G0060_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5640_S0010_G0120_001_resistance",
@@ -141,19 +144,22 @@
         "id": "M5640_S0020_G0060_001_pod042",
         "jp": "捜索中のプラグイン・チップを入手。",
         "en": "Requested plug-in chip obtained.",
-        "ru": "Получен требуемый чип."
+        "ru": "Получен требуемый чип.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/571.wav"
     },
     {
         "id": "M5640_S0020_G0070_001_pod153",
         "jp": "捜索中のプラグイン・チップを入手。",
         "en": "Requested plug-in chip obtained.",
-        "ru": "Получен требуемый чип."
+        "ru": "Получен требуемый чип.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/571.wav"
     },
     {
         "id": "M5640_S0020_G0080_001_pod042",
         "jp": "捜索中のプラグイン・チップを入手。",
         "en": "Requested plug-in chip obtained.",
-        "ru": "Получен требуемый чип."
+        "ru": "Получен требуемый чип.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/571.wav"
     },
     {
         "id": "M5640_S0020_G0090_001_pod042",
@@ -179,7 +185,8 @@
         "id": "M5640_S0020_G0120_001_pod042",
         "jp": "通常アンドロイドが要求するのは非合理的。",
         "en": "There is no reason for a non-YoRHa android to possess it.",
-        "ru": "Андроиды не из YoRHa не могут их использовать."
+        "ru": "Андроиды не из YoRHa не могут их использовать.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/575.wav"
     },
     {
         "id": "M5640_S0020_G0130_001_a2b",
@@ -191,7 +198,8 @@
         "id": "M5640_S0020_G0140_001_pod153",
         "jp": "捜索中のプラグイン・チップを入手。",
         "en": "Requested plug-in chip obtained.",
-        "ru": "Получен требуемый чип."
+        "ru": "Получен требуемый чип.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/571.wav"
     },
     {
         "id": "M5640_S0020_G0150_001_pod153",
@@ -218,7 +226,8 @@
         "id": "M5640_S0020_G0180_001_pod153",
         "jp": "通常アンドロイドが要求するのは非合理的。",
         "en": "There is no reason for a non-YoRHa android to possess it.",
-        "ru": "Андроиды не из YoRHa не могут их использовать."
+        "ru": "Андроиды не из YoRHa не могут их использовать.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/575.wav"
     },
     {
         "id": "M5640_S0020_G0190_001_a9s",
@@ -257,7 +266,8 @@
         "jp": "詳細な情報を収集するように。",
         "en": "I need you to seek out whatever intel you can regarding their current whereabouts and status.",
         "ru": "Мне нужно, чтобы вы нашли любые данные относительно их текущего местонахождения и состояния, которые сможете.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/145.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/145.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/188.wav"
     },
     {
         "id": "M5640_S0020_G0250_001_a2b",
@@ -275,7 +285,8 @@
         "id": "M5640_S0020_G0260_001_a2b",
         "jp": "機密情報の入ったチップ……",
         "en": "Chips with classified data, is it?",
-        "ru": "Чипы с секретными данными?"
+        "ru": "Чипы с секретными данными?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/978.wav"
     },
     {
         "id": "M5640_S0020_G0280_001_a9s",
@@ -444,13 +455,15 @@
         "id": "M5640_S0050_G0110_001_a2b",
         "jp": "家族？",
         "en": "Your...family?",
-        "ru": "В вашей... семье?"
+        "ru": "В вашей... семье?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/221.wav"
     },
     {
         "id": "M5640_S0050_G0120_001_a9s",
         "jp": "家族？",
         "en": "Your...family?",
-        "ru": "В вашей... семье?"
+        "ru": "В вашей... семье?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/221.wav"
     },
     {
         "id": "M5640_S0050_G0130_001_resistance",

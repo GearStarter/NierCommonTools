@@ -60,7 +60,8 @@
         "id": "M5160_S0020_G0020_001_op60",
         "jp": "必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』です。",
         "en": "You're going to need a rusty bolt, a small gear, and a broken key.",
-        "ru": "Вам потребуются: ржавый болт, маленькая шестерня и сломанный ключ."
+        "ru": "Вам потребуются: ржавый болт, маленькая шестерня и сломанный ключ.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/378.wav"
     },
     {
         "id": "M5160_S0020_G0021_001_op60",
@@ -111,7 +112,8 @@
         "id": "M5160_S0020_G0080_001_op60",
         "jp": "必要な資材は『錆びたボルト』、『小さな歯車』、『ゼンマイ』。",
         "en": "You need to acquire a rusty bolt, a small gear, and a broken key.",
-        "ru": "Вам необходимо добыть: ржавый болт, маленькую шестерню и сломанный ключ."
+        "ru": "Вам необходимо добыть: ржавый болт, маленькую шестерню и сломанный ключ.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/257.wav"
     },
     {
         "id": "M5160_S0020_G0081_001_op60",
@@ -131,13 +133,15 @@
         "jp": "了解でーす。",
         "en": "Gotcha.",
         "ru": "Ясно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/102.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/102.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/184.wav"
     },
     {
         "id": "M5160_S0020_G0110_001_op210",
         "jp": "語尾は伸ばす必要はありません。以上。",
         "en": "\"Gotcha\" is not an approved form of radio engagement, 9S. Operator 21O out.",
-        "ru": "\"Ясно\" не является уставной формой при радиосвязи, 9S. Оператор 21O — конец связи."
+        "ru": "\"Ясно\" не является уставной формой при радиосвязи, 9S. Оператор 21O — конец связи.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/260.wav"
     },
     {
         "id": "M5920_S0020_G0280_001_pod153",
@@ -163,7 +167,8 @@
         "jp": "収集した素材はアネモネさんに渡してください。それで任務は終了です。",
         "en": "You can conclude your mission by bringing everything over to Anemone.",
         "ru": "Вы можете завершить своё задание, передав материалы Анемоне.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/322.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/322.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/384.wav"
     },
     {
         "id": "M5160_S0030_G0030_001_op210",
@@ -182,7 +187,8 @@
         "id": "M5160_S0030_G0050_001_op60",
         "jp": "収集した素材はレジスタンスリーダーに渡してください。以上。",
         "en": "Take the materials to Anemone in the Resistance camp. Operator 21O out.",
-        "ru": "Отнесите эти материалы Анемоне в лагерь Сопротивления. Оператор 21O — конец связи."
+        "ru": "Отнесите эти материалы Анемоне в лагерь Сопротивления. Оператор 21O — конец связи.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/263.wav"
     },
     {
         "id": "M5160_S0040_G0000_001_ane",
@@ -254,7 +260,8 @@
         "jp": "司令官って、ああ見えて意外に大雑把なんです。",
         "en": "Totally serious! The Commander actually lets a lot of things slide on the side.",
         "ru": "На полном серьёзе! Вообще-то, Командор довольно многое упускает из виду.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/325.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/325.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/387.wav"
     },
     {
         "id": "M5160_S0040_G0100_001_op60",
@@ -294,13 +301,15 @@
         "id": "M5160_S0040_G0150_001_op60",
         "jp": "それでは。",
         "en": "Operator 6O out.",
-        "ru": "До связи!"
+        "ru": "До связи!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/392.wav"
     },
     {
         "id": "M5160_S0040_G0160_001_a9s",
         "jp": "秘密……",
         "en": "What the heck was all that about?",
         "ru": "Секрет...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/106.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/106.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/188.wav"
     }
 ]

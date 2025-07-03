@@ -18,7 +18,8 @@
         "jp": "援護に向かってもらえますか？",
         "en": "Can you get over there and provide support ASAP?",
         "ru": "Сможешь отправиться к ним и как можно скорее оказать поддержку?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/299.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/299.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/361.wav"
     },
     {
         "id": "M3000_S0200_G0250_001_a2b",
@@ -32,14 +33,16 @@
         "jp": "思ったより、苦戦していますね。",
         "en": "Man, this is tougher than I thought it would be.",
         "ru": "Блин, это куда сложнее, чем планировалось.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1664.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1664.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1665.wav"
     },
     {
         "id": "M3000_S0200_G0270_001_a2b",
         "jp": "……急がないと。",
         "en": "We need to hurry.",
         "ru": "Нам нужно поспешить.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/739.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/739.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/740.wav"
     },
     {
         "id": "M3000_S0200_G0280_001_a2b",
@@ -52,21 +55,24 @@
         "jp": "これより、部隊オメガを援護する。",
         "en": "We're in position to provide support for Attack Squadron Omega.",
         "ru": "Мы на позиции для оказания поддержки отряду Омега.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/741.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/741.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/742.wav"
     },
     {
         "id": "M3000_S0200_G0300_001_a8b",
         "jp": "援護感謝する。",
         "en": "Are we ever glad to see you!",
         "ru": "Как же мы рады вас видеть!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1077.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1077.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1078.wav"
     },
     {
         "id": "M3000_S0200_G0310_001_a8b",
         "jp": "いきなり囲まれて、苦戦していたところだ。",
         "en": "They came out of nowhere. We were fighting for our damn lives!",
         "ru": "Они появились из ниоткуда. И принудили нас к сражению!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1078.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1078.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1079.wav"
     },
     {
         "id": "M3000_S0200_G0320_001_a2b",
@@ -92,7 +98,8 @@
         "id": "M3000_S0200_G0350_001_a2b",
         "jp": "何……この音？",
         "en": "What was that?",
-        "ru": "Что это было?"
+        "ru": "Что это было?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/745.wav"
     },
     {
         "id": "M3000_S0260_G0000_001_a9s",
@@ -111,7 +118,8 @@
         "id": "M3000_S0260_G0020_001_a2b",
         "jp": "再起動……しないと。",
         "en": "I gotta...reboot...",
-        "ru": "Я должна... перезагрузиться..."
+        "ru": "Я должна... перезагрузиться...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/747.wav"
     },
     {
         "id": "M3000_S0260_G0030_001_a9s",
@@ -131,7 +139,8 @@
         "jp": "一体、何がどうなってるんだ！",
         "en": "What the hell's going on here!?",
         "ru": "Да что за чертовщина здесь творится?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1675.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1675.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1676.wav"
     },
     {
         "id": "M3000_S0260_G0060_001_a9s",
@@ -145,7 +154,8 @@
         "jp": "くそ！次から次へと……",
         "en": "Damn it! There's no end to them!",
         "ru": "Проклятие! Им нет конца!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1671.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1671.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1672.wav"
     },
     {
         "id": "M3000_S0260_G0010_300_a9s",
@@ -184,7 +194,8 @@
         "jp": "なんとかしないと！",
         "en": "I gotta do something...",
         "ru": "Я должен что-нибудь сделать...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1678.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1678.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1679.wav"
     },
     {
         "id": "M3000_S0300_G0020_001_a9s",
@@ -197,7 +208,8 @@
         "jp": "汚染されて……乗っ取られてる！？",
         "en": "They've been infected and taken over!",
         "ru": "Их заразили и взяли под контроль!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1682.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1682.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1683.wav"
     },
     {
         "id": "M3000_S0320_G0010_001_a2b",
@@ -216,7 +228,8 @@
         "jp": "攻撃機能が動かない……！",
         "en": "Attack functions aren't working!",
         "ru": "Атакующие функции не работают!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/751.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/751.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/752.wav"
     },
     {
         "id": "M3000_S0320_G0040_001_a9s",
@@ -249,7 +262,8 @@
         "id": "M3000_S0320_G0020_300_a9s",
         "jp": "はいっ！",
         "en": "Got it!",
-        "ru": "Понял!"
+        "ru": "Понял!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/4.wav"
     },
     {
         "id": "M5920_S0010_G0310_001_pod042",

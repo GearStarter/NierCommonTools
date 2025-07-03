@@ -4,7 +4,8 @@
         "jp": "あの巨大な機械生命体は、過去に廃棄された兵器です。",
         "en": "That enormous machine is an ancient weapon.",
         "ru": "Эта огромная машина — древнее оружие.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/425.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/425.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/487.wav"
     },
     {
         "id": "M1060_S0120_G0010_101_pascal",
@@ -66,7 +67,8 @@
         "jp": "ここで、怪獣を食い止めておいてください！",
         "en": "You keep that thing right where it is, okay!?",
         "ru": "Отвлеки эту штуковину, хорошо?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1451.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1451.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1452.wav"
     },
     {
         "id": "M1060_S0120_G0100_101_a2b",

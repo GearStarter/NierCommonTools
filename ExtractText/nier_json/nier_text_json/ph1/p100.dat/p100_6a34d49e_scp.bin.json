@@ -46,7 +46,8 @@
         "jp": "それと……",
         "en": "And another thing...",
         "ru": "И ещё кое-что...",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/12.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/12.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/12.wav"
     },
     {
         "id": "M0010_S0220_G0180_101_a2b",
@@ -81,28 +82,32 @@
         "jp": "広いな……この廃墟。",
         "en": "This place sure is big.",
         "ru": "Какой большой комплекс.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/15.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/15.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/15.wav"
     },
     {
         "id": "M0010_S0220_G0230_101_a9s",
         "jp": "ここは昔、人類の兵器工場だったらしいですよ。",
         "en": "I guess humans used to use it as a weapons factory.",
         "ru": "Думаю, люди использовали его как завод по производству оружия.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/47.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/47.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/47.wav"
     },
     {
         "id": "M0010_S0220_G0240_101_a9s",
         "jp": "今ではすっかり機械生命体だらけですが……",
         "en": "But now it's just crawling with machines.",
         "ru": "Но теперь он кишит машинами.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/48.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/48.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/48.wav"
     },
     {
         "id": "M0010_S0220_G0250_101_a9s",
         "jp": "敵はこの工場を再利用して、機械生命体を増産しているようです。",
         "en": "The enemy seems to have repurposed the facility to increase their overall machine production.",
         "ru": "Похоже, завод был переделан врагом под массовое производство всевозможных машин.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/49.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/49.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/49.wav"
     },
     {
         "id": "M0010_S0220_G0260_101_a2b",

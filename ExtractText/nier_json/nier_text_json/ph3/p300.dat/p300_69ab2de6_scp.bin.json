@@ -58,14 +58,16 @@
         "jp": "この勝利は地球奪還に向けての大きな一歩となろう。",
         "en": "This victory is a giant leap forward in our quest to reclaim Earth.",
         "ru": "Эта победа — огромный шаг к нашему возвращению на Землю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/70.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/70.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/132.wav"
     },
     {
         "id": "M5920_S0090_G0100_001_human",
         "jp": "我々月面の人類も喜びの声に満ちている。",
         "en": "The moon rings out with the cheers of the entire human race!",
         "ru": "На Луне раздались крики \"ура\" всего человечества!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/71.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/71.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/133.wav"
     },
     {
         "id": "M5920_S0090_G0110_001_human",

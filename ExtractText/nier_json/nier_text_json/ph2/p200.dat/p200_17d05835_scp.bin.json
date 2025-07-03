@@ -10,7 +10,8 @@
         "jp": "オペレーターさん！？何があったの？",
         "en": "Operator? What happened?",
         "ru": "Оператор? Что случилось?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1532.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1532.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1533.wav"
     },
     {
         "id": "M1080_S0080_G0020_201_op210",
@@ -29,7 +30,8 @@
         "id": "M1080_S0080_G0040_201_a9s",
         "jp": "わかった！こっちも大型ターミナルからアクセスしてみる。",
         "en": "All right. I'll try to gain access from the main terminal.",
-        "ru": "Хорошо. Я попробую получить доступ через главный терминал."
+        "ru": "Хорошо. Я попробую получить доступ через главный терминал.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1534.wav"
     },
     {
         "id": "M1080_S0080_G0000_300_pod153",

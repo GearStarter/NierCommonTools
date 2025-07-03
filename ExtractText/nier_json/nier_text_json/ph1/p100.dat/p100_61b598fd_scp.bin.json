@@ -11,7 +11,8 @@
         "jp": "レジスタンスリーダーより指定のあった場所の座標データを確認。",
         "en": "Coordinates confirmed for location specified by Resistance Leader.",
         "ru": "Подтверждаю координаты местоположения, указанного лидером Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/606.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/606.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/668.wav"
     },
     {
         "id": "M1020_S0010_G0020_011_op60",
@@ -25,7 +26,8 @@
         "jp": "目標地点にマーカーをポイント。",
         "en": "Placing marker on target.",
         "ru": "Размещаю маркер цели.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/260.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/260.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/322.wav"
     },
     {
         "id": "M1020_S0010_G0040_011_op60",
@@ -51,7 +53,8 @@
         "jp": "レジスタンスリーダーより指定のあった場所の座標データを転送します。",
         "en": "Transferring coordinate data for the location specified by Resistance Leader.",
         "ru": "Передаю координаты местоположения, указанного лидером Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/117.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/117.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/179.wav"
     },
     {
         "id": "M1020_S0010_G0080_021_a9s",
@@ -112,7 +115,8 @@
         "jp": "地球の奪還は、月面にいる数十万の人類の悲願なのだ。",
         "en": "Remember that several hundred thousand humans on the moon want nothing more than to return to Earth.",
         "ru": "Помните, что сотни тысяч людей на Луне желают вернуться на родную планету, на Землю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/66.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/66.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/128.wav"
     },
     {
         "id": "M5920_S0090_G0050_001_human",
@@ -132,13 +136,15 @@
         "jp": "リーダーから話は聞いてるよ。",
         "en": "Hey. Our leader told me all about you.",
         "ru": "Эй. Наш лидер сообщила мне о вас.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/670.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/670.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/748.wav"
     },
     {
         "id": "M1020_S0010_G0201_001_resi",
         "jp": "私の名前はジャッカス。よろしく。",
         "en": "Name's Jackass. Nice to meetcha.",
-        "ru": "Зовут меня Джекэсс. Рада знакомству."
+        "ru": "Зовут меня Джекэсс. Рада знакомству.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/749.wav"
     },
     {
         "id": "M1020_S0010_G0210_001_resi",
@@ -152,45 +158,52 @@
         "jp": "じゃあ、封鎖している入り口を開けなきゃね。",
         "en": "Guess that means we need to get that entrance open.",
         "ru": "Полагаю, это значит, что надо бы открыть проход.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/673.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/673.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/751.wav"
     },
     {
         "id": "M1020_S0010_G0212_001_a9s",
         "jp": "ええ……でも、どうしてこんな変な場所にいるんですか？",
         "en": "Looks like it. So, um, Jack...ass, was it?\\nWhat are you doing all the way out here?",
-        "ru": "Что-то вроде того. Так, а что вы делаете в таком странном месте?"
+        "ru": "Что-то вроде того. Так, а что вы делаете в таком странном месте?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1147.wav"
     },
     {
         "id": "M1020_S0010_G0213_001_resi",
         "jp": "ああ、これ？これはね……",
         "en": "Hmm? Oh, that. Well...",
-        "ru": "Хм? А, об этом. Ну..."
+        "ru": "Хм? А, об этом. Ну...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/752.wav"
     },
     {
         "id": "M1020_S0010_G0214_001_resi",
         "jp": "巻き込まれたら危ないよね？",
         "en": "Wouldn't want to have anyone getting tangled up in that, now, would we?",
         "ru": "Я не хотела, чтобы кто-нибудь пострадал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/675.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/675.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/753.wav"
     },
     {
         "id": "M1020_S0010_G0250_001_resi",
         "jp": "……あんまり無理しないようにね。",
         "en": "Don't go trying to be a hero, all right?",
-        "ru": "Не слишком геройствуйте там, хорошо?"
+        "ru": "Не слишком геройствуйте там, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M1020_S0010_G0250_001_resi",
         "jp": "……あんまり無理しないようにね。",
         "en": "Don't go trying to be a hero, all right?",
-        "ru": "Не слишком геройствуйте там, хорошо?"
+        "ru": "Не слишком геройствуйте там, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M1020_S0010_G0251_001_a9s",
         "jp": "封鎖しているゲートを爆発で開けるなんて……",
         "en": "Who opens a sealed gate with explosives?",
         "ru": "Да кто вообще открывает запертые ворота взрывчаткой?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1147.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1147.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1148.wav"
     },
     {
         "id": "M1020_S0010_G0252_001_a9s",

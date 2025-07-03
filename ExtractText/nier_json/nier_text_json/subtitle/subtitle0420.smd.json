@@ -4,14 +4,16 @@
         "jp": "その子は、大きな力を持っていました。",
         "en": "The child held sway over enormous strength.",
         "ru": "Ребенок обладал огромной силой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1462.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1462.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1463.wav"
     },
     {
         "id": "M1060_S0930_S0010_201_a9s",
         "jp": "でも、その子は、少し壊れていました。",
         "en": "But sadly, he was also a little bit broken...",
         "ru": "Но, к сожалению, он был несколько дефективным...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1463.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1463.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1464.wav"
     },
     {
         "id": "M1060_S0930_S0020_201_a9s",
@@ -46,14 +48,16 @@
         "jp": "その子は、深い海に捨てられました。",
         "en": "They abandoned him in the deep, dark ocean.",
         "ru": "Они бросили его во тьму пучины океана.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1468.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1468.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1469.wav"
     },
     {
         "id": "M1060_S0930_S0070_201_a9s",
         "jp": "深い海の中でその子は叫びます。",
         "en": "And from the cold at the bottom of the sea, he cried out...",
         "ru": "И от холода на дне океана из его уст вырвался крик...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1469.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1469.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1470.wav"
     },
     {
         "id": "M1060_S0930_S0080_201_a9s",

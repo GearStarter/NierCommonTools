@@ -3,13 +3,15 @@
         "id": "M1060_S0070_G0000_001_a2b",
         "jp": "これが……機械生命体！？",
         "en": "Is that...a machine?",
-        "ru": "Это что... машина?"
+        "ru": "Это что... машина?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/584.wav"
     },
     {
         "id": "M1060_S0070_G0010_001_a9s",
         "jp": "こんな大きいの……見たことない……",
         "en": "It's freakin' HUGE...",
-        "ru": "Да она просто ОГРОМЕННАЯ..."
+        "ru": "Да она просто ОГРОМЕННАЯ...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1434.wav"
     },
     {
         "id": "M1060_S0070_G0140_011_pod042",
@@ -22,7 +24,8 @@
         "jp": "情報を開封して。",
         "en": "Go ahead.",
         "ru": "Выкладывай.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/586.wav"
     },
     {
         "id": "M1060_S0070_G0160_011_pod042",
@@ -67,7 +70,8 @@
         "jp": "なんとか別の方法で攻撃しないと……",
         "en": "We've got to find another way to damage it.",
         "ru": "Нам нужно найти другой способ нанести ей урон.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1436.wav"
     },
     {
         "id": "M1060_S0070_G0090_021_op210",
@@ -100,7 +104,8 @@
         "jp": "具体的な座標をマップデータとして転送します。",
         "en": "Sending the coordinates to your map now.",
         "ru": "Отмечаю координаты на вашей карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/147.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/147.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/209.wav"
     },
     {
         "id": "M1060_S0070_G0131_011_pod042",

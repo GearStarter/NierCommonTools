@@ -10,7 +10,8 @@
         "jp": "状況を共有する。",
         "en": "Data exchange engaged.",
         "ru": "Задействован обмен данными.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/767.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/767.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/829.wav"
     },
     {
         "id": "M3005_S1010_S0020_001_pod042",
@@ -23,7 +24,8 @@
         "jp": "死亡を確認。",
         "en": "Death confirmed.",
         "ru": "Смерть подтверждена.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/769.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/769.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/831.wav"
     },
     {
         "id": "M3005_S1010_S0040_001_pod153",
@@ -36,7 +38,8 @@
         "jp": "再起動可能状態にある。",
         "en": "Unit is ready for reactivation.",
         "ru": "Единица готова к перезапуску.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/253.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/253.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/331.wav"
     },
     {
         "id": "M3005_S1010_S0060_001_pod042",
@@ -69,14 +72,16 @@
         "jp": "問題ない。",
         "en": "No problems detected.",
         "ru": "Проблем не выявлено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/256.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/256.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/334.wav"
     },
     {
         "id": "M3005_S1010_S0110_001_pod042",
         "jp": "ならば、残りの課題は一つ。",
         "en": "Only one issue remains.",
         "ru": "Остался последний вопрос.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/772.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/772.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/834.wav"
     },
     {
         "id": "M3005_S1010_S0120_001_pod042",

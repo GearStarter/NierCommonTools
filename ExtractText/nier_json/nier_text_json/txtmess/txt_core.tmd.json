@@ -273,7 +273,8 @@
         "id": "CORE_ITEM_NAME_680",
         "jp": "水晶",
         "en": "Crystal",
-        "ru": "Кристалл"
+        "ru": "Кристалл",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/611.wav"
     },
     {
         "id": "CORE_KEYCONFIG_01",

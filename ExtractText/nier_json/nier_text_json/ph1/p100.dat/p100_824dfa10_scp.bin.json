@@ -60,7 +60,8 @@
         "jp": "再生します。",
         "en": "Initiating playback.",
         "ru": "Начинаю воспроизведение.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/126.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/126.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/188.wav"
     },
     {
         "id": "M1030_S0010_G0130_001_cmd",
@@ -80,7 +81,8 @@
         "jp": "信号の発信されているポイントを絞り込んだので、",
         "en": "We've tracked the location of their signals,",
         "ru": "Мы отследили их местоположение,",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/54.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/54.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/97.wav"
     },
     {
         "id": "M1030_S0010_G0160_001_cmd",
@@ -92,21 +94,24 @@
         "id": "M1030_S0010_G0170_001_op210",
         "jp": "以上で、通信を終了します。",
         "en": "End transmission.",
-        "ru": "Конец сообщения."
+        "ru": "Конец сообщения.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/189.wav"
     },
     {
         "id": "M1030_S0010_G0180_001_a2b",
         "jp": "そういえば……レジスタンスキャンプでも同じような話を聞いた……",
         "en": "Hmm. I heard something about that back at the Resistance camp.",
         "ru": "Хм. В лагере Сопротивления ходят слухи об этом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/492.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/492.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/492.wav"
     },
     {
         "id": "M1030_S0010_G0190_001_a9s",
         "jp": "目標地点の情報をセットしました。",
         "en": "Target location confirmed.",
         "ru": "Местоположение цели подтверждено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1204.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1204.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1205.wav"
     },
     {
         "id": "M1030_S0010_G0200_001_a9s",
@@ -120,6 +125,7 @@
         "jp": "早めに行った方がいい気がします。",
         "en": "We should probably check this out as soon as possible.",
         "ru": "Нам стоит проверить всё это как можно скорее.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1206.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1206.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1207.wav"
     }
 ]

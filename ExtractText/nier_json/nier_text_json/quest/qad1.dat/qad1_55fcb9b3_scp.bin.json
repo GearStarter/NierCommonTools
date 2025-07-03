@@ -16,7 +16,8 @@
         "id": "M3010_S0080_G0020_001_a2",
         "jp": "じゃあ、これは私の記憶領域か……",
         "en": "Oh, so this is my memory area.",
-        "ru": "О, так это зона моей памяти."
+        "ru": "О, так это зона моей памяти.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/497.wav"
     },
     {
         "id": "M3010_S0080_G0030_001_a2",
@@ -43,7 +44,8 @@
         "id": "M3010_S0080_G0060_001_a2",
         "jp": "クッ……",
         "en": "Nnngh...",
-        "ru": "Нгх..."
+        "ru": "Нгх...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
     },
     {
         "id": "M3010_S0080_G0070_001_n02",
@@ -134,12 +136,14 @@
         "jp": "ママ……ママ……",
         "en": "Mama... Mama...",
         "ru": "Мама... мама...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1006.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1006.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1084.wav"
     },
     {
         "id": "M3010_S0080_G0210_001_n02",
         "jp": "ママ……",
         "en": "Mama...",
-        "ru": "Мама..."
+        "ru": "Мама...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1085.wav"
     }
 ]

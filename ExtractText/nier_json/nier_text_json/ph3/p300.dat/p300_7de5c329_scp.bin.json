@@ -29,7 +29,8 @@
         "id": "M3060_S9000_G0080_001_pod153",
         "jp": "何か言葉はあるか？",
         "en": "who are suffering because they cannot finish NieR:Automata?",
-        "ru": "которые страдают от того, что не могут пройти NieR:Automata?"
+        "ru": "которые страдают от того, что не могут пройти NieR:Automata?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/483.wav"
     },
     {
         "id": "M3060_S9000_G0090_001_select",
@@ -74,14 +75,16 @@
         "jp": "最後のゲームで何度も命を失った。",
         "en": "have lost your life multiple times to make it this far.",
         "ru": "потратили много времени, чтобы зайти так далеко.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/921.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/921.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/983.wav"
     },
     {
         "id": "M3060_S9000_G0170_001_pod042",
         "jp": "君は苦痛と苦難を知る者だ。",
         "en": "You have faced crushing hardship, and suffered greatly for it.",
         "ru": "Вы столкнулись с пугающими трудностями и сильно настрадались.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/922.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/922.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/984.wav"
     },
     {
         "id": "M3060_S9000_G0180_001_pod042",
@@ -146,26 +149,30 @@
         "jp": "だから、その相手は……",
         "en": "As a result, this person...",
         "ru": "Поэтому, этот человек...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/929.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/929.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/991.wav"
     },
     {
         "id": "M3060_S9000_G0250_001_pod042",
         "jp": "助けを求めている相手は、",
         "en": "who cries out for help even as we speak...",
         "ru": "...желающий помощи, прямо сейчас, во время нашего разговора...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/930.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/930.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/992.wav"
     },
     {
         "id": "M3060_S9000_G0260_001_pod042",
         "jp": "君の嫌いな人間かもしれない。",
         "en": "may be someone you intensely dislike.",
-        "ru": "...может оказаться совсем неприятным для вас."
+        "ru": "...может оказаться совсем неприятным для вас.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/993.wav"
     },
     {
         "id": "M3060_S9000_G0270_001_pod042",
         "jp": "それでも、その誰かを助けるか？",
         "en": "Do you still wish to help?",
-        "ru": "Вы всё ещё желаете помочь?"
+        "ru": "Вы всё ещё желаете помочь?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/994.wav"
     },
     {
         "id": "M4100_S0000_G0000_300_sele",
@@ -184,7 +191,8 @@
         "jp": "君が必死で解除したデバッグモードもチャプターセレクトも……",
         "en": "You worked so hard to unlock Debug Mode and Chapter Select...",
         "ru": "Вы приложили столько сил, чтобы открыть Режим отладки и Выбор глав...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/933.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/933.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/995.wav"
     },
     {
         "id": "M3060_S9000_G0290_001_pod042",
@@ -216,14 +224,16 @@
         "jp": "君が誰かを助けても、感謝されないかもしれない。",
         "en": "You may not receive thanks for your efforts.",
         "ru": "Скорее всего, вас даже никто не поблагодарит за это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/936.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/936.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/998.wav"
     },
     {
         "id": "M3060_S9000_G0320_001_pod042",
         "jp": "君の行いは、偽善と呼ばれるかもしれない。",
         "en": "Some may say that your efforts are purely for show.",
         "ru": "А некоторые и вовсе скажут, что вы просто делаете это напоказ.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/937.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/937.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/999.wav"
     },
     {
         "id": "M3060_S9000_G0330_001_pod042",
@@ -294,7 +304,8 @@
         "jp": "全データの削除、完了。",
         "en": "All of your data has been deleted.",
         "ru": "Все ваши сохранения удалены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/943.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/943.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/1005.wav"
     },
     {
         "id": "M3060_S9000_G0390_001_pod042",

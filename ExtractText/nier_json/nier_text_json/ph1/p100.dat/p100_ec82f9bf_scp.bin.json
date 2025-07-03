@@ -4,7 +4,8 @@
         "jp": "あそこに逃げ込んでます！",
         "en": "There it goes!",
         "ru": "Смотри!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1176.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1176.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1177.wav"
     },
     {
         "id": "M1020_S0040_G0060_300_n02",
@@ -25,21 +26,24 @@
         "jp": "この先に多数の機械生命体反応を確認。",
         "en": "Multiple machines detected ahead.",
         "ru": "Впереди обнаружено множество машин.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1171.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1171.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1172.wav"
     },
     {
         "id": "M1020_S0040_G0100_300_a9s",
         "jp": "でも、このアンドロイドの死体は一体……",
         "en": "But what's with these android bodies...?",
         "ru": "Но откуда здесь столько тел андроидов?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1172.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1172.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1173.wav"
     },
     {
         "id": "M1020_S0040_G0110_300_a2b",
         "jp": "注意して進もう。",
         "en": "Stay focused.",
         "ru": "Будь начеку.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/485.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/485.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/485.wav"
     },
     {
         "id": "M1020_S0040_G0250_001_n02",
@@ -100,7 +104,8 @@
         "jp": "破壊しましょう。",
         "en": "Let's take them out.",
         "ru": "Разберёмся с ними.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1180.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1180.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1181.wav"
     },
     {
         "id": "M1020_S0040_G0340_001_n02",

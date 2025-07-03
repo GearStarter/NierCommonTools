@@ -11,7 +11,8 @@
         "jp": "多分、もう部屋で待ってるだろうな。",
         "en": "She's probably waiting in her room now.",
         "ru": "Скорее всего, она сейчас находится в своей комнате.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1103.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1103.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1104.wav"
     },
     {
         "id": "M1010_S0015_G0740_300_a9s",

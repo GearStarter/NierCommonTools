@@ -18,14 +18,16 @@
         "jp": "目標の周囲には敵の反応がありますので、まず排除してください。",
         "en": "Be advised that hostiles have been detected around each target and must be defeated before continuing.",
         "ru": "Имейте в виду — для проведения взлома будет необходимо сначала зачистить область от врагов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/103.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/103.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/165.wav"
     },
     {
         "id": "M0010_S0140_G0030_201_op210",
         "jp": "目標へのアクセスが可能になりました。",
         "en": "The target is now accessible.",
         "ru": "Теперь цель доступна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/104.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/104.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/166.wav"
     },
     {
         "id": "M0010_S0140_G0040_201_a9s",
@@ -50,7 +52,8 @@
         "jp": "ハッキング完了。次の目標へ向かってください。",
         "en": "Hacking complete. Proceed to the next target.",
         "ru": "Взлом завершён. Переходите к следующей цели.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/106.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/106.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/168.wav"
     },
     {
         "id": "M0010_S0140_G0080_201_op210",
@@ -64,7 +67,8 @@
         "jp": "ハッキング完了。残り1箇所です。",
         "en": "Hacking complete. One target remains.",
         "ru": "Взлом завершён. Осталась одна цель.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/108.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/108.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/170.wav"
     },
     {
         "id": "M0010_S0140_G0100_201_a9s",
@@ -91,14 +95,16 @@
         "jp": "敵防衛システムのハッキングを完了しました。",
         "en": "Hacking of enemy defense system complete.",
         "ru": "Взлом систем защиты завершён.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/110.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/110.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/172.wav"
     },
     {
         "id": "M0010_S0140_G0140_201_op210",
         "jp": "これで攻撃部隊の侵入が可能になります。",
         "en": "Our attack squadron can now infiltrate the base.",
         "ru": "Теперь наша эскадрилья сможет приступить к проникновению на базу.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/111.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/111.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/173.wav"
     },
     {
         "id": "M0010_S0140_G0150_201_op210",

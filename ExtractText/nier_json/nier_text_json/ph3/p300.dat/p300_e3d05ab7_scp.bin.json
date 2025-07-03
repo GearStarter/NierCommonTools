@@ -18,7 +18,8 @@
         "jp": "早急な対処が必要だ。",
         "en": "Action must be taken immediately.",
         "ru": "Необходимо немедленно принять меры.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/312.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/312.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/390.wav"
     },
     {
         "id": "M3050_S0010_G0000_300_pod042",
@@ -38,14 +39,16 @@
         "id": "M3050_S0010_G0002_300_pod153",
         "jp": "それは調査が必要だな。",
         "en": "We'd better look into that.",
-        "ru": "Нам стоит это изучить."
+        "ru": "Нам стоит это изучить.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/391.wav"
     },
     {
         "id": "M3050_S0010_G0003_300_pod042",
         "jp": "データを共有するので、そちら側でも注意してほしい。",
         "en": "I'll share the data with you, so see what you can find out.",
         "ru": "Я поделюсь данными с вами, посмотрите, что может вам пригодиться.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/842.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/842.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/904.wav"
     },
     {
         "id": "M3050_S0010_G0004_300_pod153",
@@ -71,14 +74,16 @@
         "jp": "データを共有するが、心理状態の悪化がかなり深刻だ。",
         "en": "I'll share the data. His psychological state has deteriorated to a grave level.",
         "ru": "Я поделюсь данными. Его психологическое состояние ухудшилось до опасного уровня.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/316.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/316.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/394.wav"
     },
     {
         "id": "M3050_S0010_G0008_300_pod042",
         "jp": "こちらも……早急に対応が必要だ。",
         "en": "We'd better handle that quickly, too.",
         "ru": "Нам нужно справиться с этим поскорее.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/844.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/844.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/906.wav"
     },
     {
         "id": "M3050_S0010_G0009_300_pod153",
@@ -103,7 +108,8 @@
         "jp": "だが対処方法が不明。",
         "en": "Not sure what we should do, however.",
         "ru": "Однако, неясно, что мы должны делать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/319.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/319.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/397.wav"
     },
     {
         "id": "M3050_S0010_G0013_300_pod042",
@@ -129,6 +135,7 @@
         "jp": "では早速提案する。",
         "en": "I will make the suggestion immediately.",
         "ru": "Я предложу это незамедлительно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/321.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/321.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/399.wav"
     }
 ]

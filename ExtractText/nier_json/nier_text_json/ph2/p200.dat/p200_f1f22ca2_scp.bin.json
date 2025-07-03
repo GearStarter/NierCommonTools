@@ -4,7 +4,8 @@
         "jp": "同盟を結びたい機械生命体はこの奥にいるそうです。",
         "en": "The machines who seek to form an alliance with my village are hiding out here.",
         "ru": "Машины, которые хотят заключить мир с моей деревней, находятся где-то здесь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/444.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/444.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/506.wav"
     },
     {
         "id": "M1080_S0030_G0490_101_pascal",
@@ -17,7 +18,8 @@
         "id": "M1080_S0030_G0500_101_pascal",
         "jp": "我々機械生命体は危険ですから。",
         "en": "We machines can be rather...unpredictable.",
-        "ru": "Мы, машины, можем быть... непредсказуемы."
+        "ru": "Мы, машины, можем быть... непредсказуемы.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/508.wav"
     },
     {
         "id": "M1080_S0030_G0510_101_a2b",
@@ -31,7 +33,8 @@
         "jp": "ええ、客観的事実です。",
         "en": "In truth, yes.",
         "ru": "По правде говоря, да.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/447.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/447.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/509.wav"
     },
     {
         "id": "M1080_S0030_G0530_101_pascal",
@@ -45,14 +48,16 @@
         "jp": "言葉を交わしても、本心とは違うかもしれませんので。",
         "en": "We can speak, of course, but I find that language contains many ways to hide one's true intentions.",
         "ru": "Мы можем говорить, это само собой, но при разговоре есть много способов скрыть свои истинные намерения.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/511.wav"
     },
     {
         "id": "M1080_S0030_G0550_101_a2b",
         "jp": "……言葉、か。",
         "en": "It certainly does.",
         "ru": "Это так.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/657.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/657.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/657.wav"
     },
     {
         "id": "M1080_S0030_G0000_300_pascal",
@@ -65,7 +70,8 @@
         "jp": "ようこそ。神の宿る場所へ。",
         "en": "You enter the domain of God!",
         "ru": "Вы ступаете на землю Божью!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/945.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/945.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1023.wav"
     },
     {
         "id": "M1080_S0050_G0000_101_n02",
@@ -156,14 +162,16 @@
         "jp": "そんなに急いでも、教祖様は逃げませんよ。",
         "en": "You don't have to hurry so! His Grace won't run from you.",
         "ru": "Не спешите! Его Светлость никуда от вас не сбежит.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1036.wav"
     },
     {
         "id": "M1080_S0050_G0111_101_prst",
         "jp": "そんなに急いでも、教祖様は逃げませんよ。",
         "en": "You don't have to hurry so! His Grace won't run from you.",
         "ru": "Не спешите! Его Светлость никуда от вас не сбежит.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1036.wav"
     },
     {
         "id": "M1080_S0050_G0040_101_pascal",
@@ -191,20 +199,23 @@
         "jp": "責任を持って最後までお付き合いする必要がありますので。",
         "en": "It's my duty to see this through to the end.",
         "ru": "Довести это дело до конца — мой долг.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/453.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/453.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/515.wav"
     },
     {
         "id": "M1080_S0050_G0080_101_a2b",
         "jp": "……一応、感謝しておく。",
         "en": "...Appreciated.",
         "ru": "Весьма признательна...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/659.wav"
     },
     {
         "id": "M1080_S0050_G0100_300_pascal",
         "jp": "まずは彼らの話だけでも聞いてみましょう。",
         "en": "We should at least hear them out.",
         "ru": "По крайней мере, давай хотя бы выслушаем их.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/454.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/454.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/516.wav"
     }
 ]

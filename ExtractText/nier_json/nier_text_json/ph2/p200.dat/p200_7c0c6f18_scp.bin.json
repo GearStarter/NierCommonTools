@@ -31,7 +31,8 @@
         "jp": "まあ、そうなんですけど……",
         "en": "Well, yeah, but...",
         "ru": "Да, но...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/347.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/347.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/429.wav"
     },
     {
         "id": "M1050_S0010_G0120_001_a9s",
@@ -45,7 +46,8 @@
         "jp": "作戦に好き嫌いはない。",
         "en": "We don't get to choose our assignments.",
         "ru": "У нас нет права выбирать наше предназначение.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/548.wav"
     },
     {
         "id": "M1050_S0010_G0140_001_a2b",
@@ -65,6 +67,7 @@
         "jp": "そうは言っても、個体差があるから仕方ない気がします……",
         "en": "I think some of us are better at that than others...",
         "ru": "Я думаю, некоторые из нас в этом лучше, чем другие...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1347.wav"
     }
 ]

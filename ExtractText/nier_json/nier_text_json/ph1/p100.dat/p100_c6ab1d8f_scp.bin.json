@@ -32,7 +32,8 @@
         "jp": "隊長……私……",
         "en": "Captain, I think—",
         "ru": "Капитан, мне кажется...",
-        "en_voice": "stream/English(US)/vo_plffff_1_000/33.wav"
+        "en_voice": "stream/English(US)/vo_plffff_1_000/33.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_1_000/33.wav"
     },
     {
         "id": "M0010_S0010_G0150_101_a2b",

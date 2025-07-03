@@ -10,7 +10,8 @@
         "jp": "司令部に、報告を……！",
         "en": "We have to report back to Command.",
         "ru": "Мы должны доложить в Штаб.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/763.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/763.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/764.wav"
     },
     {
         "id": "M3000_S0420_S0000_001_a9s",
@@ -35,7 +36,8 @@
         "id": "M3000_S0424_G0020_001_cmd",
         "jp": "一体何をしてるんだ？",
         "en": "What are you doing here?",
-        "ru": "Что вы здесь делаете?"
+        "ru": "Что вы здесь делаете?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/160.wav"
     },
     {
         "id": "M3000_S0424_G0030_001_a9s",
@@ -62,14 +64,16 @@
         "jp": "地上からはそんな報告上がってないぞ？",
         "en": "None of our ground units reported anything about a virus.",
         "ru": "Ни одна из наземных единиц не доложила о заражении вирусом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/119.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/119.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/162.wav"
     },
     {
         "id": "M3000_S0424_G0070_001_a9s",
         "jp": "あれは偽装です！現在バンカーの通信は封鎖されていて……",
         "en": "That's because all communication with the Bunker has been severed.",
         "ru": "Это всё потому, что соединение с Бункером разорвано.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1703.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1703.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1704.wav"
     },
     {
         "id": "M3000_S0424_G0080_001_cmd",

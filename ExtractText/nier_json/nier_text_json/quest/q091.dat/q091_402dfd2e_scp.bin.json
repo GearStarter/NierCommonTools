@@ -179,13 +179,15 @@
         "id": "M5091_S0030_G0010_001_moderator",
         "jp": "最低ランクですが、決して気を抜かないように。",
         "en": "Don't let the low rank fool you—if you lower your guard, you'll be scrap.",
-        "ru": "Не позвольте низкому рангу одурачить вас. Зазеваешься, и ты — груда металлолома."
+        "ru": "Не позвольте низкому рангу одурачить вас. Зазеваешься, и ты — груда металлолома.",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/55.wav"
     },
     {
         "id": "M5091_S0030_G0020_001_moderator",
         "jp": "では、戦闘を開始してください！",
         "en": "Now...let the battle begin!",
-        "ru": "А сейчас... Да начнется бой!"
+        "ru": "А сейчас... Да начнется бой!",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/57.wav"
     },
     {
         "id": "M5091_S0030_G0040_001_moderator",
@@ -246,7 +248,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0040_001_moderator",
@@ -311,7 +314,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0120_001_moderator",
@@ -331,7 +335,8 @@
         "id": "M5091_S0030_G0180_001_moderator",
         "jp": "では、開始！",
         "en": "Now...fight!",
-        "ru": "А теперь... в бой!"
+        "ru": "А теперь... в бой!",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/65.wav"
     },
     {
         "id": "M5091_S0030_G0190_001_moderator",
@@ -381,7 +386,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0190_001_moderator",
@@ -407,13 +413,15 @@
         "id": "M5091_S0030_G0290_001_moderator",
         "jp": "今こそ理性を解放し本能のままに美しき闘争心を……あ、長いですか？",
         "en": "Let the fists fly! Let the feet kick! Let the pure passion of combat come forth in glorious... Er, sorry. I'm rambling again, aren't I?",
-        "ru": "Бей ногой! А теперь с ноги ударь! Выбей всю дурь в этой славной битве... Оу, извиняюсь. Я снова брежу, да?"
+        "ru": "Бей ногой! А теперь с ноги ударь! Выбей всю дурь в этой славной битве... Оу, извиняюсь. Я снова брежу, да?",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/69.wav"
     },
     {
         "id": "M5091_S0030_G0300_001_moderator",
         "jp": "じゃあ開始！",
         "en": "Fine then. Fiiight!",
-        "ru": "Ну ладно. Боооооой!"
+        "ru": "Ну ладно. Боооооой!",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/70.wav"
     },
     {
         "id": "M5091_S0030_G0310_001_moderator",
@@ -439,7 +447,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0310_001_moderator",
@@ -516,7 +525,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0370_001_moderator",
@@ -623,7 +633,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0010_300_moderator",
@@ -635,7 +646,8 @@
         "id": "M5091_S0060_G0000_001_moderator",
         "jp": "ついにここまで来てしまったようですね……",
         "en": "Hmmm. So you made it this far, huh?",
-        "ru": "Хм-м-м-м. И всё-таки вы смогли так далеко зайти, да?"
+        "ru": "Хм-м-м-м. И всё-таки вы смогли так далеко зайти, да?",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/81.wav"
     },
     {
         "id": "M5091_S0060_G0010_001_moderator",
@@ -649,7 +661,8 @@
         "jp": "常識外れの極限バトル……君は超えられるか！？",
         "en": "This is the ultimate, completely insane battle! Can you overcome the odds!?",
         "ru": "Это последняя, совершенно безумная битва! Сможете ли вы справиться?!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/84.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/84.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/84.wav"
     },
     {
         "id": "M5091_S0060_G0030_001_moderator",
@@ -681,7 +694,8 @@
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
         "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0060_G0040_001_moderator",
@@ -1006,7 +1020,8 @@
         "id": "M6110_S0500_G0030_001_unknown",
         "jp": "私とお手合わせ願いましょう。",
         "en": "Let's see what you're made of, shall we?",
-        "ru": "Давайте посмотрим, на что вы способны, хорошо?"
+        "ru": "Давайте посмотрим, на что вы способны, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/37.wav"
     },
     {
         "id": "M5091_S0070_G0120_001_secretary",
@@ -1036,7 +1051,8 @@
         "id": "M6110_S0500_G0050_001_unknown",
         "jp": "僕も混ぜてもらっていいですか？",
         "en": "Mind if I join in?",
-        "ru": "Не возражаете, если я присоединюсь?"
+        "ru": "Не возражаете, если я присоединюсь?",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/39.wav"
     },
     {
         "id": "M6110_S0500_G0060_001_unknown",
@@ -1261,7 +1277,8 @@
         "jp": "……僕にも、そういう面があるんだろうか。",
         "en": "I wonder if there's a side of me like that...",
         "ru": "Интересно, есть ли в моём характере такая же черта...",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/51.wav"
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/51.wav",
+        "jp_voice": "stream/Japanese/vo_plfffe_0_000/51.wav"
     },
     {
         "id": "M5091_S0040_G0260_001_pod042",

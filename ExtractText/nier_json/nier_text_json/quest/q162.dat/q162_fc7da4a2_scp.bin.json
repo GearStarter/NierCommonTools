@@ -23,7 +23,8 @@
         "jp": "位置情報を転送しますので、原因を調査してください。",
         "en": "I'm sending you the positional data. Please investigate the site as soon as possible.",
         "ru": "Я высылаю тебе его местоположение. Пожалуйста, осмотри место как можно скорее.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/333.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/333.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/395.wav"
     },
     {
         "id": "M5162_S0010_G0040_001_a2b",
@@ -36,27 +37,31 @@
         "jp": "機械生命体がいるな……",
         "en": "We've got company. Looks like machines.",
         "ru": "Здесь кто-то есть. Похоже, что это машины.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/107.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/107.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/189.wav"
     },
     {
         "id": "M5162_S0010_G0060_001_pod042",
         "jp": "敵個体の一部からジャミング電波を確認。",
         "en": "Alert: Jamming signals detected from enemy units.",
         "ru": "Внимание: от вражеских единиц исходят активные радиопомехи.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/973.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/973.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/10.wav"
     },
     {
         "id": "M5162_S0010_G0070_001_a2b",
         "jp": "ジャミング？",
         "en": "Yeah?",
-        "ru": "Да ладно?"
+        "ru": "Да ладно?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/893.wav"
     },
     {
         "id": "M5162_S0010_G0080_001_a9s",
         "jp": "……厄介ですね。",
         "en": "That's not good.",
         "ru": "Это нехорошо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/108.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/108.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/190.wav"
     },
     {
         "id": "M5162_S0010_G0090_001_pod042",
@@ -82,7 +87,8 @@
         "jp": "司令官、その件で報告があります。",
         "en": "I have some information about that, Commander.",
         "ru": "У меня есть информация касательно этого, Командор.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/893.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/893.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/894.wav"
     },
     {
         "id": "M5162_S0010_G0130_001_cmd",
@@ -117,7 +123,8 @@
         "jp": "多分……罠を張ってたんだと思います。",
         "en": "It's almost like they were trying to lay a trap.",
         "ru": "Выглядело так, будто бы они готовили нам ловушку.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/110.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/110.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/192.wav"
     },
     {
         "id": "M5162_S0010_G0180_001_cmd",
@@ -131,7 +138,8 @@
         "jp": "この件は月面の人類会議にも共有しておく。",
         "en": "Thank you. I'll be sure to share this with the Council of Humanity on the moon.",
         "ru": "Спасибо. Я обязательно доложу эту информацию на Луну Совету Человечества.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/142.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/142.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/185.wav"
     },
     {
         "id": "M5162_S0010_G0200_001_a2b",

@@ -31,13 +31,15 @@
         "jp": "地下の構造が不安定になっている模様。",
         "en": "Underground soil structure is no longer stable.",
         "ru": "Подземная структура поверхности нестабильна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/249.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/249.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/327.wav"
     },
     {
         "id": "M3000_S0730_G0050_001_pod153",
         "jp": "大規模地震の可能性を示唆。",
         "en": "Cause is likely a high-magnitude earthquake.",
-        "ru": "Причиной тому стало сильное землетрясение."
+        "ru": "Причиной тому стало сильное землетрясение.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/328.wav"
     },
     {
         "id": "M3000_S0730_G0060_001_pod153",

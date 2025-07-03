@@ -168,7 +168,8 @@
         "jp": "一旦退避しましょう！",
         "en": "We have to evacuate.",
         "ru": "Мы должны эвакуироваться.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/770.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/770.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/771.wav"
     },
     {
         "id": "M3000_S0430_G0290_001_cmd",
@@ -236,14 +237,16 @@
         "id": "M3000_S0430_G0260_001_cmd",
         "jp": "クソッ！！",
         "en": "Damn it!!",
-        "ru": "Чёрт!!!"
+        "ru": "Чёрт!!!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3000_S0430_G0340_001_a2b",
         "jp": "司令官！格納庫から飛行ユニットで脱出します！",
         "en": "Commander, we need to get some flight units from the hangar and get out of here.",
         "ru": "Командор, нам нужно взять полётные модули из ангара и убираться отсюда.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/772.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/772.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/773.wav"
     },
     {
         "id": "M3000_S0450_G0000_001_a2b",
@@ -255,7 +258,8 @@
         "id": "M3000_S0450_G0010_001_cmd",
         "jp": "私も……サーバーとデータ同期をしていたからな……",
         "en": "I, too, was synched up with the server...",
-        "ru": "Я тоже была синхронизирована с сервером..."
+        "ru": "Я тоже была синхронизирована с сервером...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/171.wav"
     },
     {
         "id": "M3000_S0450_G0020_001_a2b",
@@ -282,7 +286,8 @@
         "jp": "生き残る義務がある！",
         "en": "It's your duty to survive.",
         "ru": "Выжить — ваш долг.",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/131.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/131.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/174.wav"
     },
     {
         "id": "M3000_S0450_G0060_001_a9s",

@@ -4,7 +4,8 @@
         "jp": "目標地点を確認。マップにマーク。",
         "en": "Target location acquired. Marking on map.",
         "ru": "Установлено местоположение цели. Отмечаю на карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/601.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/601.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/663.wav"
     },
     {
         "id": "M1010_S0040_G0098_001_pod042",
@@ -25,7 +26,8 @@
         "jp": "最近、こういう敵が増えたみたいで。",
         "en": "We've been seeing more and more enemies like this lately.",
         "ru": "В последнее время мы встречаем всё больше и больше таких противников.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1132.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1132.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1133.wav"
     },
     {
         "id": "M1010_S0040_G0093_001_a9s",
@@ -52,6 +54,7 @@
         "id": "M1010_S0040_G0096_001_a9s",
         "jp": "あんまり無茶しないでくださいね。",
         "en": "Try not to act so recklessly, all right?",
-        "ru": "Постарайся не действовать столь безрассудно, хорошо?"
+        "ru": "Постарайся не действовать столь безрассудно, хорошо?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1137.wav"
     }
 ]

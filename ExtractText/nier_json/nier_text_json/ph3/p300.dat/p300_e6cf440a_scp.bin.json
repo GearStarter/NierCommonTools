@@ -4,7 +4,8 @@
         "jp": "機械生命体だらけ……",
         "en": "There's machines everywhere...",
         "ru": "Здесь кругом машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/634.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/634.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/716.wav"
     },
     {
         "id": "M5910_S0300_G0010_001_pod042",
@@ -16,7 +17,8 @@
         "id": "M5910_S0300_G0020_001_pod042",
         "jp": "機械生命体が多数存在するのは予測の範囲内。",
         "en": "It is logical for a large number of machine lifeforms to be present.",
-        "ru": "Это логично в условиях проживания здесь большого количества машин."
+        "ru": "Это логично в условиях проживания здесь большого количества машин.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/143.wav"
     },
     {
         "id": "M5910_S0300_G0030_001_pod042",
@@ -157,7 +159,8 @@
         "jp": "持ってきたぞ。",
         "en": "Here's your stuff.",
         "ru": "Вот необходимый материал.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/639.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/639.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/721.wav"
     },
     {
         "id": "M5910_S0310_G0070_001_pascal",
@@ -178,13 +181,15 @@
         "jp": "飛んだ……",
         "en": "He can fly?",
         "ru": "Он может летать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/640.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/640.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/722.wav"
     },
     {
         "id": "M5910_S0310_G0100_001_pod042",
         "jp": "パスカルの帰還を確認。",
         "en": "Alert: The machine lifeform Pascal has returned.",
-        "ru": "Внимание: машина Паскаль вернулась."
+        "ru": "Внимание: машина Паскаль вернулась.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/148.wav"
     },
     {
         "id": "M5910_S0310_G0110_001_a2",
@@ -203,7 +208,8 @@
         "id": "M5910_S0310_G0010_001_a2",
         "jp": "……クソッ。",
         "en": "Goddammit...",
-        "ru": "Проклятие..."
+        "ru": "Проклятие...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M5910_S0310_G0020_001_pod042",
@@ -222,7 +228,8 @@
         "id": "M5910_S0310_G0040_001_a2",
         "jp": "友好？……冗談じゃない。",
         "en": "You have GOT to be kidding me.",
-        "ru": "Да ты, верно, ШУТИШЬ."
+        "ru": "Да ты, верно, ШУТИШЬ.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/719.wav"
     },
     {
         "id": "M5910_S0310_G0050_001_a2",

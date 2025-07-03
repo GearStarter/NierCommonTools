@@ -55,7 +55,8 @@
         "id": "M3010_S0020_G0080_001_a2",
         "jp": "勝手にしろ……",
         "en": "Whatever.",
-        "ru": "Как скажешь."
+        "ru": "Как скажешь.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/473.wav"
     },
     {
         "id": "M3010_S0020_G0081_001_a2",
@@ -95,14 +96,16 @@
         "jp": "支援する上で必要な情報と判断。",
         "en": "In order to provide optimal support, Pods must be supplied with data relating to the activities of supported units.",
         "ru": "В целях оптимальной поддержки боты должны снабжаться данными о деятельности субъектов, за которыми закреплены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/783.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/783.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/845.wav"
     },
     {
         "id": "M3010_S0020_G0120_001_a2",
         "jp": "教える理由はない。",
         "en": "Not happening.",
         "ru": "Этому не бывать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/395.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/395.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/477.wav"
     },
     {
         "id": "M3010_S0020_G0130_001_pod042",
@@ -122,7 +125,8 @@
         "jp": "随行支援ユニットは対象支援機体の行動目的が開示されない場合、",
         "en": "If an attending support unit is not provided with data related to the activity of its target,",
         "ru": "Если субъект поддержки не предоставит данные о своей деятельности,",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/785.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/785.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/847.wav"
     },
     {
         "id": "M3010_S0020_G0160_001_pod042",
@@ -149,7 +153,8 @@
         "jp": "不必要に会話を繰り返すのはエネルギーの無駄と判断。",
         "en": "Needlessly repeating conversations on the same topic is a waste of energy resources.",
         "ru": "Бесполезное повторение диалогов на одну и ту же тему является тратой запасов энергии.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/788.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/788.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/850.wav"
     },
     {
         "id": "M3010_S0020_G0200_001_a2",
@@ -175,7 +180,8 @@
         "jp": "クソッ！",
         "en": "Damn it, stop!",
         "ru": "Чёрт, да заткнись ты уже!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/399.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/399.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/375.wav"
     },
     {
         "id": "M3010_S0020_G0240_001_a2",
@@ -193,7 +199,8 @@
         "id": "M3010_S0020_G0260_001_pod042",
         "jp": "付近の機械生命体のスキャン及び、マーク完了。",
         "en": "Scanning and marking of nearby machine lifeforms complete.",
-        "ru": "Сканирование и отметка машин поблизости завершена."
+        "ru": "Сканирование и отметка машин поблизости завершена.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/854.wav"
     },
     {
         "id": "M3010_S0020_G0270_001_pod042",
@@ -212,7 +219,8 @@
         "jp": "私に命令するな。",
         "en": "Don't tell me what to do.",
         "ru": "Не указывай, что мне делать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/401.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/401.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/483.wav"
     },
     {
         "id": "M3010_S0020_G0300_001_pod042",

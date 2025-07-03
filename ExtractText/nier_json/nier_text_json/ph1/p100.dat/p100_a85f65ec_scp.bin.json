@@ -11,13 +11,15 @@
         "jp": "遠距離通信応答なし。",
         "en": "No response from long-range communications.",
         "ru": "Потерян сигнал от систем дальней связи.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/92.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/92.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/92.wav"
     },
     {
         "id": "M0010_S0715_G0020_101_a2b",
         "jp": "倒せばいい。",
         "en": "Doesn't matter. I'll just take 'em out.",
         "ru": "Не важно. Обойдусь и без них.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/24.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/24.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/24.wav"
     }
 ]

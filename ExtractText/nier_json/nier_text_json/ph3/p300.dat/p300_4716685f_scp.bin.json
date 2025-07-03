@@ -49,7 +49,8 @@
         "jp": "砂漠での戦闘時に、微細な粒子が内部に入り込んだ模様。",
         "en": "Fine particulate matter seems to have entered the filter while fighting in the desert.",
         "ru": "По-видимому, во время битвы мелкие песчинки привели к засорению фильтра.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/56.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/56.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/134.wav"
     },
     {
         "id": "M5910_S0200_G0030_001_pod042",
@@ -62,14 +63,16 @@
         "jp": "交換って言われてもな……",
         "en": "You make it sound so easy.",
         "ru": "Говоришь, будто всё так просто.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/629.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/629.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/711.wav"
     },
     {
         "id": "M5910_S0200_G0050_001_pod042",
         "jp": "レジスタンスキャンプで使用された過去記録を発見。",
         "en": "Records indicate said part was once used at the Resistance camp.",
         "ru": "Записи указывают, что заявленная деталь использовалась в лагере Сопротивления.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/58.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/58.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/136.wav"
     },
     {
         "id": "M5910_S0200_G0060_001_a2",
@@ -89,7 +92,8 @@
         "jp": "いい……知ってる。",
         "en": "I know where it is.",
         "ru": "Я знаю где он.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/631.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/631.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/713.wav"
     },
     {
         "id": "M5910_S0200_G0271_001_toolshop",
@@ -217,7 +221,8 @@
         "jp": "……わかってるよ。",
         "en": "Yeah. I know.",
         "ru": "Ага. Я знаю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/632.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/632.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1630.wav"
     },
     {
         "id": "M5910_S0200_G0430_001_pod042",
@@ -230,13 +235,15 @@
         "jp": "マップにマーク完了。",
         "en": "Location marked on map.",
         "ru": "Местоположение отмечено на карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/63.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/63.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/141.wav"
     },
     {
         "id": "M5910_S0200_G0450_001_a2",
         "jp": "うるさいな……",
         "en": "You don't know when to shut up, do you...",
         "ru": "Ты явно не знаешь, когда тебе стоит заткнуться...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/633.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/633.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/715.wav"
     }
 ]

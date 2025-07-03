@@ -3,13 +3,15 @@
         "id": "M1060_S0070_G0000_001_a2b",
         "jp": "これが……機械生命体！？",
         "en": "Is that...a machine?",
-        "ru": "Это... машина?"
+        "ru": "Это... машина?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/584.wav"
     },
     {
         "id": "M1060_S0070_G0010_001_a9s",
         "jp": "こんな大きいの……見たことない……",
         "en": "It's freakin' HUGE...",
-        "ru": "Да он просто ОГРОМЕННЫЙ..."
+        "ru": "Да он просто ОГРОМЕННЫЙ...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1434.wav"
     },
     {
         "id": "M1060_S0070_G0140_011_pod042",
@@ -22,7 +24,8 @@
         "jp": "情報を開封して。",
         "en": "Go ahead.",
         "ru": "Выкладывай.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/586.wav"
     },
     {
         "id": "M1060_S0070_G0160_011_pod042",
@@ -67,7 +70,8 @@
         "jp": "なんとか別の方法で攻撃しないと……",
         "en": "We've got to find another way to damage it.",
         "ru": "Нам нужно найти другой способ нанести ему урон.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1436.wav"
     },
     {
         "id": "M1060_S0070_G0040_011_op60",
@@ -88,7 +92,8 @@
         "jp": "発生源を突き止めて、破壊してください！",
         "en": "We need you to find the emitter and take it out!",
         "ru": "Необходимо, чтобы вы нашли источник и уничтожили его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/274.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/274.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/336.wav"
     },
     {
         "id": "M1060_S0070_G0070_011_a2b",
@@ -122,7 +127,8 @@
         "jp": "妨害電磁波の消失を確認しました！",
         "en": "Electromagnetic interference eliminated!",
         "ru": "Электромагнитные помехи устранены!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/276.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/276.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/338.wav"
     },
     {
         "id": "M1060_S0070_G0220_011_op60",

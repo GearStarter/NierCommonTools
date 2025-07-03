@@ -57,7 +57,8 @@
         "jp": "ボディユニットのバイタル低下を確認。",
         "en": "Alert: Vital signs declining.",
         "ru": "Внимание: показатели функционирования снижаются.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/170.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/170.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/248.wav"
     },
     {
         "id": "M0010_S0785_G0090_201_pod153",
@@ -71,13 +72,15 @@
         "jp": "早急な回路修復が必要。",
         "en": "Urgent circuit repairs required.",
         "ru": "Срочно необходим ремонт схем.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/172.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/172.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/250.wav"
     },
     {
         "id": "M0010_S0785_G0110_201_pod153",
         "jp": "ブラックボックス信号停止。",
         "en": "Black-box signal ceased.",
-        "ru": "Сигнал чёрного ящика потерян."
+        "ru": "Сигнал чёрного ящика потерян.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/251.wav"
     },
     {
         "id": "M0010_S0785_G0120_201_pod153",

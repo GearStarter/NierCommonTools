@@ -184,7 +184,8 @@
         "jp": "これで安心ですよね？",
         "en": "We can rest easy now, huh?",
         "ru": "Теперь мы можем отдохнуть, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1236.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1236.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1237.wav"
     },
     {
         "id": "M1030_S0120_G0200_001_a2b",
@@ -217,7 +218,8 @@
         "jp": "植物細胞か……",
         "en": "A plant cell?",
         "ru": "Растительную клетку?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/504.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/504.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/504.wav"
     },
     {
         "id": "M4040_S0000_G0010_300_a2b",
@@ -238,13 +240,15 @@
         "jp": "……ただの置物みたいだな。",
         "en": "Guess it's just a statue.",
         "ru": "Полагаю, это просто статуя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/556.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/556.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/638.wav"
     },
     {
         "id": "M4040_S0000_G0030_300_a9s",
         "jp": "動かないな……",
         "en": "No response...",
-        "ru": "Не отвечает..."
+        "ru": "Не отвечает...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/32.wav"
     },
     {
         "id": "M4040_S0000_G0050_300_rabit",
@@ -257,13 +261,15 @@
         "jp": "こいつ、動く！？",
         "en": "It moved!",
         "ru": "Она двигается!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/800.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/800.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/801.wav"
     },
     {
         "id": "M4040_S0000_G0070_300_a9s",
         "jp": "うわっ！",
         "en": "Agh!",
-        "ru": "Агх!"
+        "ru": "Агх!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/364.wav"
     },
     {
         "id": "M4040_S0000_G0090_300_a2",

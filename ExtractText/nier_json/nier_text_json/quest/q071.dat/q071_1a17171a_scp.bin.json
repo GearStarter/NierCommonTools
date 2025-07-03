@@ -9,7 +9,8 @@
         "id": "M5071_S0010_G0010_001_a2b",
         "jp": "どうした？",
         "en": "What is it?",
-        "ru": "Что случилось?"
+        "ru": "Что случилось?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/336.wav"
     },
     {
         "id": "M5071_S0010_G0020_001_n02",
@@ -70,7 +71,8 @@
         "jp": "動物用の薬……ってどこで手に入れるの？",
         "en": "So we're vets now? That's new.",
         "ru": "Значит, мы теперь ветеринары? Это уже что-то новенькое.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/833.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/833.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/834.wav"
     },
     {
         "id": "M5071_S0010_G0100_001_a2b",
@@ -84,7 +86,8 @@
         "jp": "人間が使用していたレシピを集めて再現すれば……",
         "en": "We'll probably need to recreate old human recipes.",
         "ru": "Возможно, нам стоит воссоздать его по рецепту людей старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/7.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/7.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/89.wav"
     },
     {
         "id": "M5071_S0010_G0120_001_a9s",

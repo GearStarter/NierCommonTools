@@ -10,21 +10,24 @@
         "jp": "死んだ仲間は再生できないのか？",
         "en": "Can't you regenerate your dead villagers?",
         "ru": "Ты сможешь восстановить мёртвых жителей?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/447.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/447.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/529.wav"
     },
     {
         "id": "M3030_S0100_G0070_001_select",
         "jp": "この工場は安全か？",
         "en": "Is this factory safe?",
         "ru": "Эта фабрика безопасна?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/448.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/448.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/530.wav"
     },
     {
         "id": "M3030_S0100_G0080_001_select",
         "jp": "もう少し情報が欲しいな……",
         "en": "We really need more info...",
         "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M5910_S0100_G0155_001_pascal",
@@ -37,14 +40,16 @@
         "jp": "この工場は安全か？",
         "en": "Is this factory safe?",
         "ru": "Эта фабрика безопасна?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/448.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/448.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/530.wav"
     },
     {
         "id": "M3030_S0100_G0080_001_select",
         "jp": "もう少し情報が欲しいな……",
         "en": "We really need more info...",
         "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M5910_S0100_G0155_001_pascal",
@@ -57,7 +62,8 @@
         "jp": "もう少し情報が欲しいな……",
         "en": "We really need more info...",
         "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M5910_S0100_G0155_001_pascal",
@@ -70,14 +76,16 @@
         "jp": "死んだ仲間は再生できないのか？",
         "en": "Can't you regenerate your dead villagers?",
         "ru": "Ты сможешь восстановить мёртвых жителей?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/447.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/447.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/529.wav"
     },
     {
         "id": "M3030_S0100_G0080_001_select",
         "jp": "もう少し情報が欲しいな……",
         "en": "We really need more info...",
         "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M5910_S0100_G0155_001_pascal",
@@ -90,14 +98,16 @@
         "jp": "もう少し情報が欲しいな……",
         "en": "We really need more info...",
         "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M3030_S0100_G0000_001_a2",
         "jp": "大丈夫か！？パスカル。",
         "en": "Pascal! Are you okay?",
         "ru": "Паскаль! Ты в порядке?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/445.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/445.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/527.wav"
     },
     {
         "id": "M3030_S0100_G0010_001_pascal",
@@ -163,7 +173,8 @@
         "jp": "コアは普段は安全な場所に格納しておくのですが、",
         "en": "We usually store our cores in safe places,",
         "ru": "Обычно мы храним ядра в безопасном месте,",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/519.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/519.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/581.wav"
     },
     {
         "id": "M3030_S0100_G0140_001_pascal",
@@ -183,7 +194,8 @@
         "jp": "この工場は安全なのか？",
         "en": "So is this factory safe?",
         "ru": "Так эта фабрика безопасна?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/451.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/451.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/533.wav"
     },
     {
         "id": "M3030_S0100_G0170_001_pascal",
@@ -204,7 +216,8 @@
         "jp": "今は、安全なんです。",
         "en": "It is quite safe now.",
         "ru": "Теперь фабрика довольно безопасна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/523.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/523.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/585.wav"
     },
     {
         "id": "M3030_S0100_G0200_001_pascal",
@@ -238,13 +251,15 @@
         "jp": "そんなに急がせるな……",
         "en": "What's the hurry?",
         "ru": "К чему такая спешка?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/455.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/455.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/537.wav"
     },
     {
         "id": "M3030_S0110_G0030_001_pod042",
         "jp": "各地のポッドネットワークから情報を入手。",
         "en": "Haste is predicated on data obtained from the recently restored cross-regional Pod network.",
-        "ru": "Данная спешка основывается на данных, полученных из восстановленной межрегиональной сети Ботов."
+        "ru": "Данная спешка основывается на данных, полученных из восстановленной межрегиональной сети Ботов.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/894.wav"
     },
     {
         "id": "M3030_S0110_G0040_001_a2",
@@ -288,13 +303,15 @@
         "jp": "敵の増援部隊、本施設への侵入を開始。",
         "en": "Alert: Enemy reinforcements are infiltrating the facility.",
         "ru": "Внимание: вражеское подкрепление проникает на объект.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/835.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/835.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/897.wav"
     },
     {
         "id": "M3030_S0110_G0110_001_a2",
         "jp": "この部屋に入られる前に、叩き潰す！",
         "en": "I'll smash 'em before they can reach this room.",
-        "ru": "Я разберусь с ними ещё до того, как они достигнут этой комнаты."
+        "ru": "Я разберусь с ними ещё до того, как они достигнут этой комнаты.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/541.wav"
     },
     {
         "id": "M3030_S0110_G0120_001_pascal",
@@ -306,6 +323,7 @@
         "id": "M3030_S0110_G0121_001_pascal",
         "jp": "あいつらを叩き潰して、ぶっ殺します！",
         "en": "I will smash them up and kill them!",
-        "ru": "Я их всех разнесу!"
+        "ru": "Я их всех разнесу!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/591.wav"
     }
 ]

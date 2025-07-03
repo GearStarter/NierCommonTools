@@ -10,21 +10,24 @@
         "jp": "知識は人を豊かにするからな。",
         "en": "Knowledge expands horizons and enriches existence.",
         "ru": "Знания расширяют горизонты и обогащают наше существование.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/703.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/703.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/785.wav"
     },
     {
         "id": "M1050_S0115_S0020_201_eve",
         "jp": "データで転送すれば済むだけだろ？",
         "en": "But can't we just transfer all this data over instantly?",
         "ru": "Но мы ведь можем перенести все данные за раз?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1128.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1128.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/19.wav"
     },
     {
         "id": "M1050_S0115_S0030_201_adam",
         "jp": "自分で読まないと、心の中に入ってこないだろ。",
         "en": "Into your head, perhaps. But not to your heart.",
         "ru": "В наши головы, возможно. Но они не достигнут твоего сердца.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/704.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/704.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/786.wav"
     },
     {
         "id": "M1050_S0115_S0040_201_eve",
@@ -69,7 +72,8 @@
         "jp": "人間は名前を簡単に変えたりはしない。",
         "en": "Humans wouldn't change names so easily.",
         "ru": "Люди не будут так легко соглашаться на смену имени.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/706.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/706.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/788.wav"
     },
     {
         "id": "M1050_S0115_S0110_201_adam",
@@ -96,7 +100,8 @@
         "jp": "いい子だ。",
         "en": "Glad to hear it.",
         "ru": "Рад это слышать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/708.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/708.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/790.wav"
     },
     {
         "id": "M1050_S0115_S0150_201_eve",
@@ -123,7 +128,8 @@
         "jp": "きっと、すごく楽しいと思うんだ。",
         "en": "I'm sure it'll be TONS of fun!",
         "ru": "Я уверен, нас ждёт УЙМА веселья!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1139.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1139.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/30.wav"
     },
     {
         "id": "M1050_S0115_S0190_201_adam",
@@ -143,20 +149,23 @@
         "jp": "じゃあ、俺頑張って読むよ！",
         "en": "Then I'm gonna try extra hard to finish this!",
         "ru": "Тогда я приложу все усилия, чтобы закончить книгу!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1141.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1141.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/32.wav"
     },
     {
         "id": "M1050_S0115_S0220_201_eve",
         "jp": "頑張って読むからね！",
         "en": "Extra EXTRA hard!",
         "ru": "Буду ОЧЕНЬ стараться!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1142.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1142.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/33.wav"
     },
     {
         "id": "M1050_S0115_S0230_201_adam",
         "jp": "ああ……そうしろ。",
         "en": "You do that.",
         "ru": "Постарайся как следует.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/711.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/711.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/793.wav"
     }
 ]

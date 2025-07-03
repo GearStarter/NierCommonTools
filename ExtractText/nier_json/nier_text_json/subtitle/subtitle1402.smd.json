@@ -23,7 +23,8 @@
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
         "ru": "Это означает, что теперь я буду выполнять ваши регулярные проверки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1109.wav"
     },
     {
         "id": "M5920_S1000_H0040_001_a2b",
@@ -43,7 +44,8 @@
         "jp": "私は……彼に……",
         "en": "I want him... I mean...",
         "ru": "Я хочу его... в смысле...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1033.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1033.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1034.wav"
     },
     {
         "id": "M5920_S1000_H0070_001_adam",

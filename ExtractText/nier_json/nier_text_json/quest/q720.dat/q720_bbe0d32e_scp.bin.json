@@ -141,7 +141,8 @@
         "id": "M5720_S0020_G0000_300_resiman",
         "jp": "頼んだぞ。",
         "en": "I appreciate the help.",
-        "ru": "Я благодарен за помощь."
+        "ru": "Я благодарен за помощь.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/841.wav"
     },
     {
         "id": "M5720_S0030_G0000_001_resiman",
@@ -183,7 +184,8 @@
         "id": "M5720_S0030_G0060_001_a9s",
         "jp": "花？",
         "en": "Er, flowers?",
-        "ru": "Эм, цветы?"
+        "ru": "Эм, цветы?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1027.wav"
     },
     {
         "id": "M5720_S0030_G0070_001_resiman",
@@ -238,7 +240,8 @@
         "jp": "……死んでたんだな。",
         "en": "I was afraid we'd find this.",
         "ru": "Я боялся, что мы найдём это.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/289.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/289.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/371.wav"
     },
     {
         "id": "M5720_S0020_G0020_001_a9s",
@@ -259,7 +262,8 @@
         "jp": "最終送信元の座標解析終了。マップにマーク。",
         "en": "Analysis of final coordinates complete. Marking locations on map.",
         "ru": "Анализ последних координат завершён. Отмечаю местоположения на карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/514.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/514.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/592.wav"
     },
     {
         "id": "M5720_S0020_G0050_001_a9s",
@@ -278,7 +282,8 @@
         "id": "M5720_S0020_G0070_001_pod153",
         "jp": "生体反応なし。死亡を確認。",
         "en": "No vital signs detected. The unit is deceased.",
-        "ru": "Сигналов активности не обнаружено. Единица мертва."
+        "ru": "Сигналов активности не обнаружено. Единица мертва.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/594.wav"
     },
     {
         "id": "M5720_S0020_G0080_001_a9s",
@@ -291,7 +296,8 @@
         "jp": "辛かっただろうな……",
         "en": "Talk about a bad way to go...",
         "ru": "К слову о плохих путях для отступления...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/293.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/293.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/375.wav"
     },
     {
         "id": "M5720_S0020_G0100_001_pod153",
@@ -305,7 +311,8 @@
         "jp": "時間は？",
         "en": "When was it sent?",
         "ru": "Когда он был отправлен?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/294.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/294.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/376.wav"
     },
     {
         "id": "M5720_S0020_G0120_001_pod153",
@@ -424,7 +431,8 @@
         "jp": "機械生命体万歳！！",
         "en": "All hail the machines!",
         "ru": "Во славу машин!",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/29.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/29.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/72.wav"
     },
     {
         "id": "M5720_S0020_G0290_001_robosmall",
@@ -455,7 +463,8 @@
         "id": "M5720_S0020_G0320_001_pod153",
         "jp": "生体反応なし。死亡を確認。",
         "en": "No vital signs detected. The unit is deceased.",
-        "ru": "Сигналов активности не обнаружено. Единица мертва."
+        "ru": "Сигналов активности не обнаружено. Единица мертва.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/594.wav"
     },
     {
         "id": "M5720_S0020_G0330_001_a9s",
@@ -514,6 +523,7 @@
         "jp": "……僕も、すぐに行くから。",
         "en": "I'll be with you before long.",
         "ru": "Совсем скоро я присоединюсь к тебе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/305.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/305.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/387.wav"
     }
 ]

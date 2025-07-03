@@ -30,7 +30,8 @@
         "jp": "敵個体からエネルギーシールドを確認",
         "en": "Alert: Energy shields detected on multiple enemy fighters.",
         "ru": "Внимание: у вражеских единиц обнаружены энергетические щиты.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/698.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/698.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/760.wav"
     },
     {
         "id": "M1090_S0120_G0050_101_pod042",
@@ -50,7 +51,8 @@
         "id": "M1090_S0120_G0070_101_ane",
         "jp": "頼む！",
         "en": "Good luck!",
-        "ru": "Удачи!"
+        "ru": "Удачи!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/864.wav"
     },
     {
         "id": "M1090_S0120_G0080_101_ane",
@@ -82,6 +84,7 @@
         "jp": "キャンプの外から聞こえたぞ！",
         "en": "That was outside the camp!",
         "ru": "Это снаружи!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/785.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/785.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/867.wav"
     }
 ]

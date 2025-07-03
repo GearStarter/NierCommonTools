@@ -11,14 +11,16 @@
         "jp": "一体……あの機械生命体は……",
         "en": "What the hell just happened?",
         "ru": "Что это ещё за чертовщина?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/489.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/489.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/489.wav"
     },
     {
         "id": "M1020_S0950_G0020_001_a9s",
         "jp": "これまでに見たことのないタイプでした。",
         "en": "I know! I've never seen a machine like that before.",
         "ru": "Ага! Я никогда прежде не видел таких машин.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1184.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1184.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1185.wav"
     },
     {
         "id": "M1020_S0950_G0030_001_a9s",
@@ -78,7 +80,8 @@
         "jp": "残念ながら取り逃しましたが……",
         "en": "We weren't able to capture them...",
         "ru": "Нам не удалось их схватить...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1193.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1193.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1194.wav"
     },
     {
         "id": "M1030_S0010_G0060_001_a9s",
@@ -92,7 +95,8 @@
         "jp": "了解しました。転送を開始します。",
         "en": "Understood. Ready to receive.",
         "ru": "Поняла. К приёму данных готова.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/121.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/121.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/183.wav"
     },
     {
         "id": "M1030_S0010_G0080_001_a9s",
@@ -105,7 +109,8 @@
         "id": "M1020_S0950_G0031_001_pod042",
         "jp": "流量の多い箇所の移動は困難。",
         "en": "Alert: High-flow areas may impede movement.",
-        "ru": "Внимание: передача данных будет затруднена зоной оврага."
+        "ru": "Внимание: передача данных будет затруднена зоной оврага.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/675.wav"
     },
     {
         "id": "M1020_S0950_G0032_001_pod042",
@@ -133,14 +138,16 @@
         "jp": "さっきの機械生命体との戦闘で受けたダメージが心配です。",
         "en": "I'm worried about the damage we took in that last battle with the machines.",
         "ru": "Меня беспокоят повреждения, полученные в последней битве с машинами.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1198.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1198.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1199.wav"
     },
     {
         "id": "M1030_S0010_G0084_001_a9s",
         "jp": "一度レジスタンスキャンプに戻って補給やメンテナンスをしますか？",
         "en": "Maybe we should return to the Resistance camp to resupply and conduct maintenance?",
         "ru": "Быть может, нам стоит вернуться в лагерь Сопротивления, чтобы провести ремонт?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1199.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1199.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1200.wav"
     },
     {
         "id": "M1030_S0010_G0085_001_sele",
@@ -171,7 +178,8 @@
         "jp": "いや、このまま継続して機械生命体を排除しよう。",
         "en": "No. We should keep fighting.",
         "ru": "Нет. Мы должны продолжать сражаться.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/491.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/491.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/491.wav"
     },
     {
         "id": "M1030_S0010_G0091_001_a9s",
@@ -205,7 +213,8 @@
         "jp": "再生します。",
         "en": "Initiating playback.",
         "ru": "Начинаю воспроизведение.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/126.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/126.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/188.wav"
     },
     {
         "id": "M1030_S0010_G0130_001_cmd",
@@ -225,7 +234,8 @@
         "jp": "信号の発信されているポイントを絞り込んだので、",
         "en": "We've tracked the location of their signals,",
         "ru": "Мы отследили их местоположение,",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/54.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_004/54.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_004/97.wav"
     },
     {
         "id": "M1030_S0010_G0160_001_cmd",
@@ -237,21 +247,24 @@
         "id": "M1030_S0010_G0170_001_op210",
         "jp": "以上で、通信を終了します。",
         "en": "End transmission.",
-        "ru": "Конец сообщения."
+        "ru": "Конец сообщения.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/189.wav"
     },
     {
         "id": "M1030_S0010_G0180_001_a2b",
         "jp": "そういえば……レジスタンスキャンプでも同じような話を聞いた……",
         "en": "Hmm. I heard something about that back at the Resistance camp.",
         "ru": "Хм. В лагере Сопротивления ходят слухи об этом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/492.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/492.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/492.wav"
     },
     {
         "id": "M1030_S0010_G0190_001_a9s",
         "jp": "目標地点の情報をセットしました。",
         "en": "Target location confirmed.",
         "ru": "Местоположение цели подтверждено.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1204.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1204.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1205.wav"
     },
     {
         "id": "M1030_S0010_G0200_001_a9s",
@@ -265,21 +278,24 @@
         "jp": "早めに行った方がいい気がします。",
         "en": "We should probably check this out as soon as possible.",
         "ru": "Нам стоит проверить всё это как можно скорее.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1206.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1206.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1207.wav"
     },
     {
         "id": "M1030_S0050_G0071_001_a9s",
         "jp": "地上からのルートは封鎖されているみたいですね……",
         "en": "Looks like our surface route's been cut off.",
         "ru": "Похоже, что нам отрезали путь по поверхности.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1212.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1212.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1213.wav"
     },
     {
         "id": "M1030_S0050_G0072_001_a9s",
         "jp": "地下から行けないか調べてみましょう。",
         "en": "Maybe we can get through from underground.",
         "ru": "Возможно, мы сможем пройти под землёй.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1213.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1213.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1214.wav"
     },
     {
         "id": "M1030_S0050_G0000_001_a9s",
@@ -291,7 +307,8 @@
         "id": "M1030_S0050_G0010_001_a9s",
         "jp": "砂漠にいた機械生命体、見た目は完全にアンドロイドと同じでしたね。",
         "en": "Those machines out in the desert looked just like androids, right?",
-        "ru": "Те машины, в пустыне, были похожи на андроидов, не так ли?"
+        "ru": "Те машины, в пустыне, были похожи на андроидов, не так ли?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1209.wav"
     },
     {
         "id": "M1030_S0050_G0020_001_a2b",
@@ -311,7 +328,8 @@
         "jp": "機械生命体はどうして僕らの姿を真似するんでしょうか？",
         "en": "So why would machines try to look like us?",
         "ru": "Зачем машинам пытаться быть похожими на нас?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1210.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1210.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1211.wav"
     },
     {
         "id": "M1030_S0050_G0050_001_a2b",

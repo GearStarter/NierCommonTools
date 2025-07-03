@@ -39,21 +39,24 @@
         "id": "M5920_S0070_G0000_001_pod042",
         "jp": "バンカーよりマップデータを入手。",
         "en": "Map data obtained from Bunker.",
-        "ru": "Картографические данные получены из Бункера."
+        "ru": "Картографические данные получены из Бункера.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/223.wav"
     },
     {
         "id": "M5920_S0070_G0010_001_pod042",
         "jp": "システムメニュー上で表示可能。",
         "en": "Data may be displayed from the system menu.",
         "ru": "С данными можно ознакомиться через системное меню.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/146.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/146.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/224.wav"
     },
     {
         "id": "M5920_S0070_G0030_001_a9s",
         "jp": "マップデータですか……",
         "en": "Map data, huh?",
         "ru": "Картографические данные?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/357.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/357.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/439.wav"
     },
     {
         "id": "M5920_S0070_G0040_001_a9s",
@@ -66,7 +69,8 @@
         "jp": "新しい衛星が配備されるといいんですけど。",
         "en": "Hopefully they deploy some new satellites soon.",
         "ru": "Надеюсь, в скором времени они запустят парочку новых спутников.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/359.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/359.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/441.wav"
     },
     {
         "id": "M5920_S0070_G0060_001_a2b",
@@ -93,6 +97,7 @@
         "id": "M5920_S0060_G0290_001_a9s",
         "jp": "旧世界の情報か……",
         "en": "Old-world data, huh?",
-        "ru": "Информация из старого мира, да?"
+        "ru": "Информация из старого мира, да?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/438.wav"
     }
 ]

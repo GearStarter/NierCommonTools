@@ -16,7 +16,8 @@
         "jp": "私の名前はアダム。",
         "en": "My name is Adam.",
         "ru": "Меня зовут Адам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/760.wav"
     },
     {
         "id": "M1040_S0570_G0090_001_adam",
@@ -30,7 +31,8 @@
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
         "ru": "Они были уничтожены уже несколько веков назад.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/762.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
@@ -44,7 +46,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -71,7 +74,8 @@
         "jp": "まだ話は終わっていない。",
         "en": "We're still negotiating here.",
         "ru": "Мы все ещё на стадии переговоров.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/677.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/677.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/759.wav"
     },
     {
         "id": "M1040_S0570_G0070_001_eve",
@@ -90,14 +94,16 @@
         "jp": "ゆっくり話を聞いてもらいたいね。",
         "en": "Perhaps we can discuss our current situation.",
         "ru": "Возможно, мы сумеем обсудить текущее положение дел.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/675.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/675.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/757.wav"
     },
     {
         "id": "M1040_S0570_G0080_001_adam",
         "jp": "私の名前はアダム。",
         "en": "My name is Adam.",
         "ru": "Меня зовут Адам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/760.wav"
     },
     {
         "id": "M1040_S0570_G0090_001_adam",
@@ -111,7 +117,8 @@
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
         "ru": "Они были уничтожены уже несколько веков назад.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/762.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
@@ -125,7 +132,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -146,7 +154,8 @@
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
         "ru": "Они были уничтожены уже несколько веков назад.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/762.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
@@ -160,7 +169,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -174,7 +184,8 @@
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
         "ru": "Они были уничтожены уже несколько веков назад.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/762.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
@@ -188,7 +199,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -209,7 +221,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -223,7 +236,8 @@
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
         "ru": "Уничтожены?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
@@ -257,7 +271,8 @@
         "jp": "大して時間は必要としなかった。",
         "en": "You'd probably be surprised at how quickly it happened.",
         "ru": "Вы, должно быть, удивлены, насколько быстро мы достигли таких результатов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/685.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/685.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/767.wav"
     },
     {
         "id": "M1040_S0570_G0170_001_a9s",
@@ -271,7 +286,8 @@
         "jp": "いいんだよ、こんな奴ら。",
         "en": "Oh, there's no need to fret about them.",
         "ru": "О, не нужно о них беспокоиться.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/686.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/686.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/768.wav"
     },
     {
         "id": "M1040_S0570_G0190_001_adam",
@@ -298,7 +314,8 @@
         "jp": "人類！？",
         "en": "Why them?",
         "ru": "Почему они?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/537.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/537.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/537.wav"
     },
     {
         "id": "M1040_S0570_G0230_001_adam",
@@ -312,7 +329,8 @@
         "jp": "記録によると、同じ種族で大量に殺しあったり、愛しあったり……",
         "en": "They killed uncountable numbers of their own kind, and yet loved in equal measure!",
         "ru": "Они убивали бессчётное количество себе подобных, и, при этом, способны любить в той же мере!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/691.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/691.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/773.wav"
     },
     {
         "id": "M1040_S0570_G0250_001_adam",
@@ -333,7 +351,8 @@
         "jp": "……だから、その模倣作品であるアンドロイドの諸君には、",
         "en": "And now we will allow you to assist us.",
         "ru": "И теперь мы позволим вам помочь нам.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/694.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/694.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/776.wav"
     },
     {
         "id": "M1040_S0570_G0280_001_adam",
@@ -347,14 +366,16 @@
         "jp": "手伝う？",
         "en": "Assist you with what?",
         "ru": "Помочь вам с чем?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/538.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/538.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M1040_S0570_G0300_001_adam",
         "jp": "そうだ。",
         "en": "It's simple...",
         "ru": "Всё просто...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/696.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/696.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/778.wav"
     },
     {
         "id": "M1040_S0570_G0310_001_adam",
@@ -368,7 +389,8 @@
         "jp": "生きたまま分解して、分析して、その秘密の全てを暴くんだよ！",
         "en": "We will then dissect and analyze them in order to drag their secrets forth into the light!",
         "ru": "Затем мы вскроем и изучим их, чтобы раскрыть все их тайны!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/698.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/698.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/780.wav"
     },
     {
         "id": "M1040_S0570_G0330_001_adam",
@@ -409,6 +431,7 @@
         "jp": "ここにいる退屈な、宇宙人同様に。",
         "en": "The same way we destroyed these pathetic little aliens.",
         "ru": "Тем же способом, каким мы уничтожили жалких ничтожных инопланетян.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/702.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/702.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/784.wav"
     }
 ]

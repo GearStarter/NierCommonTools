@@ -46,6 +46,7 @@
         "jp": "次の状況交換までに、記録調整を行っておく。",
         "en": "Records will be organized in time for the next situational exchange.",
         "ru": "Записи будут упорядочены и переданы при следующем контакте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/191.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/191.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/269.wav"
     }
 ]

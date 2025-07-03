@@ -4,14 +4,16 @@
         "jp": "中央エリアはかなり植物の侵食が進んでるな……",
         "en": "Plant life has claimed most of the central area...",
         "ru": "Растительность заняла большую часть центральной зоны...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1900.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1900.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/27.wav"
     },
     {
         "id": "M4020_S0000_G0010_300_a9s",
         "jp": "サイズもかなり大きい。",
         "en": "Big plants, too.",
         "ru": "И растения довольно большие.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1901.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1901.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/28.wav"
     },
     {
         "id": "M4020_S0000_G0020_300_pod153",
@@ -37,6 +39,7 @@
         "jp": "その箱を動かせば、廃墟都市に出られますね。",
         "en": "We can get into the city ruins if we move that box.",
         "ru": "Если сдвинем этот ящик, сможем попасть в руины города.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1287.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1287.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1288.wav"
     }
 ]

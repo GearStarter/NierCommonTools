@@ -15,7 +15,8 @@
         "id": "M5095_S0020_G0020_001_pod042",
         "jp": "マップにマーク。",
         "en": "Marking it on the map.",
-        "ru": "Отмечаю её на карте."
+        "ru": "Отмечаю её на карте.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/60.wav"
     },
     {
         "id": "M5095_S0020_G0030_001_a2b",
@@ -39,7 +40,8 @@
         "id": "M5095_S0020_G0060_001_pod153",
         "jp": "マップにマーク。",
         "en": "Marking it on the map.",
-        "ru": "Отмечаю её на карте."
+        "ru": "Отмечаю её на карте.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/60.wav"
     },
     {
         "id": "M5095_S0020_G0070_001_a9s",
@@ -63,7 +65,8 @@
         "id": "M5095_S0020_G0100_001_pod042",
         "jp": "マップにマーク。",
         "en": "Marking it on the map.",
-        "ru": "Отмечаю её на карте."
+        "ru": "Отмечаю её на карте.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/60.wav"
     },
     {
         "id": "M5095_S0020_G0110_001_a2",

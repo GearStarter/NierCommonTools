@@ -23,19 +23,22 @@
         "jp": "膨大なエネルギー反応を確認。",
         "en": "Alert: Massive energy signature detected.",
         "ru": "Внимание: обнаружен всплеск энергии.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/704.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/704.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/766.wav"
     },
     {
         "id": "M1090_S0260_G0040_001_a9s",
         "jp": "何それ！？",
         "en": "What is it?",
-        "ru": "Что это?"
+        "ru": "Что это?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1592.wav"
     },
     {
         "id": "M1090_S0260_G0050_001_pod042",
         "jp": "多数の機械生命体からのエネルギー供給と推測。",
         "en": "The energy seems to be coming from a large number of linked machine lifeforms.",
-        "ru": "Вероятно, энергия исходит от большого числа соединённых сетью машин."
+        "ru": "Вероятно, энергия исходит от большого числа соединённых сетью машин.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/767.wav"
     },
     {
         "id": "M1090_S0260_G0060_001_a2b",

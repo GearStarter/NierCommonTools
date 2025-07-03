@@ -731,7 +731,8 @@
         "id": "M5020_S0020_G0170_001_robogirl",
         "jp": "あっ！",
         "en": "Ack!",
-        "ru": "Ияй!"
+        "ru": "Ияй!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/592.wav"
     },
     {
         "id": "M5020_S0020_G0180_001_a9s",
@@ -785,7 +786,8 @@
         "id": "M5020_S0020_G0260_001_robogirl",
         "jp": "あ、そうだ。",
         "en": "Ah, right.",
-        "ru": "Ах, да."
+        "ru": "Ах, да.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1119.wav"
     },
     {
         "id": "M5020_S0020_G0270_001_robogirl",
@@ -840,7 +842,8 @@
         "jp": "なんだか、疲れましたね……",
         "en": "This is exhausting.",
         "ru": "Это так утомительно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1911.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1911.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/38.wav"
     },
     {
         "id": "M5020_S0070_G0010_001_a9s",
@@ -853,14 +856,16 @@
         "jp": "相手は勝手に幻想を押し付けて、盲信する……",
         "en": "And yet his followers just keep talking about how great he is!",
         "ru": "А его последователи продолжают твердить о том, насколько он великий!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1913.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1913.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/40.wav"
     },
     {
         "id": "M5020_S0070_G0030_001_a9s",
         "jp": "この関係に、一体、どんな意味があるんでしょうか？",
         "en": "What's the point of all this? And what's he even getting out of it?",
         "ru": "Где здесь вообще смысл? И что он вообще вытворяет?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1914.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1914.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/41.wav"
     },
     {
         "id": "M5020_S0070_G0040_001_a2b",
@@ -879,7 +884,8 @@
         "jp": "最後まで意味不明の人でしたね……",
         "en": "Well, he's nothing if not consistent. A weirdo right to the very end...",
         "ru": "Ну, он довольно стабильно себя ведёт. Чудак до самого конца...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1915.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1915.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/42.wav"
     },
     {
         "id": "M5020_S0070_G0130_001_a9s",
@@ -918,7 +924,8 @@
         "jp": "確かに……かなり……ね。",
         "en": "That's certainly one way to put it...",
         "ru": "Пожалуй... наверное...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/803.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/803.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/804.wav"
     },
     {
         "id": "M5020_S0050_G0000_001_a9s",

@@ -21,7 +21,8 @@
         "id": "M6010_S0100_G0110_300_op",
         "jp": "……頼んだぞ。",
         "en": "Oh, and good luck. We're all counting on you.",
-        "ru": "О, и удачи вам. Мы все рассчитываем на вас."
+        "ru": "О, и удачи вам. Мы все рассчитываем на вас.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/841.wav"
     },
     {
         "id": "M6010_S0090_G0120_300_op",
@@ -237,7 +238,8 @@
         "id": "M6010_S0100_G0290_300_op",
         "jp": "頑張ってくださいね！",
         "en": "Oh, but good luck!",
-        "ru": "Ох, но удачи вам!"
+        "ru": "Ох, но удачи вам!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/320.wav"
     },
     {
         "id": "M6010_S0090_G0300_300_op",

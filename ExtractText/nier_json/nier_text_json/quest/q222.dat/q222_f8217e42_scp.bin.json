@@ -94,7 +94,8 @@
         "id": "M5222_S0010_G0150_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5222_S0010_G0190_001_pascal",
@@ -136,7 +137,8 @@
         "id": "M5222_S0010_G0150_001_sele",
         "jp": "断る。",
         "en": "Refuse.",
-        "ru": "Отказаться."
+        "ru": "Отказаться.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5222_S0010_G0210_001_pascal",
@@ -162,7 +164,8 @@
         "jp": "これがパスカルの欲しがっていた記憶素子の素材か。",
         "en": "So this is the part Pascal wanted?",
         "ru": "Значит, вот эта деталь нужна Паскалю?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/560.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/560.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/642.wav"
     },
     {
         "id": "M5222_S0020_G0020_001_a2",

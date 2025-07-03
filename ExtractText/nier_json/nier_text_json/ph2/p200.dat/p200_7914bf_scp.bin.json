@@ -164,7 +164,8 @@
         "jp": "これからどうやって生きていけばいいの……",
         "en": "How am I supposed to live now...?",
         "ru": "И как же мне жить дальше?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/971.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/971.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/1049.wav"
     },
     {
         "id": "M1080_S0070_G0400_300_n02",

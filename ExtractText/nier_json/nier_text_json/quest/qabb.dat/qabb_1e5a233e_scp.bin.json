@@ -11,12 +11,14 @@
         "jp": "通常通信は不調……",
         "en": "These comms are all messed up...",
         "ru": "Среди всех этих коммуникаций такой беспорядок...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1535.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1535.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1536.wav"
     },
     {
         "id": "M1080_S0080_G0070_201_a9s",
         "jp": "向こうに直接侵入して操作するしかない。",
         "en": "Guess I'll have to break in to the other side and take control.",
-        "ru": "Полагаю, я смогу пробиться с другой стороны и взять всё под контроль."
+        "ru": "Полагаю, я смогу пробиться с другой стороны и взять всё под контроль.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1537.wav"
     }
 ]

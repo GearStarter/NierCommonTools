@@ -10,28 +10,32 @@
         "jp": "聞こえてる。",
         "en": "I read you, Operator. Go ahead.",
         "ru": "Приём, оператор. Продолжайте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/896.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/896.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/897.wav"
     },
     {
         "id": "M5170_S0010_G0020_001_op60",
         "jp": "廃墟都市に設置してある転送装置が故障したみたいです。",
         "en": "It looks like the transporter we installed in the city ruins has gone offline.",
         "ru": "Похоже, что транспортёр, который мы установили в руинах города, отключился.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/335.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/335.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/397.wav"
     },
     {
         "id": "M5170_S0010_G0030_001_op60",
         "jp": "このままだと地上活動に不具合があるので、",
         "en": "Our surface activity is going to be severely limited until we get it fixed.",
         "ru": "Наша зона покрытия будет ограничена до тех пор, пока мы не починим его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/336.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/336.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/398.wav"
     },
     {
         "id": "M5170_S0010_G0040_001_op60",
         "jp": "時間がある時にでも、修復をお願いします。",
         "en": "Can you head over there and get it working again when you have a sec?",
         "ru": "Не могла бы ты отправиться туда и починить его, когда выдастся свободная минутка?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/337.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/337.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/399.wav"
     },
     {
         "id": "M5170_S0010_G0050_001_a2b",
@@ -102,21 +106,24 @@
         "id": "M5170_S0030_G0000_001_a2b",
         "jp": "これで、全部か。",
         "en": "Is that all of them?",
-        "ru": "С ними покончено?"
+        "ru": "С ними покончено?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/900.wav"
     },
     {
         "id": "M5170_S0030_G0010_001_a2b",
         "jp": "一応、転送装置本体も調べてみよう。",
         "en": "Let's check this thing out.",
         "ru": "Давай проверим эту штуковину.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/900.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/900.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/901.wav"
     },
     {
         "id": "M5170_S0030_G0020_001_a2b",
         "jp": "機能に問題ないみたい。",
         "en": "I don't see any damage.",
         "ru": "Я не вижу никаких повреждений.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/901.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/901.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/902.wav"
     },
     {
         "id": "M5170_S0030_G0021_001_pod042",
@@ -147,21 +154,24 @@
         "id": "M5170_S0030_G0060_001_op60",
         "jp": "了解しました！ありがとうございます。",
         "en": "Looks green on my end, 2B. Nice work!",
-        "ru": "С моей стороны тоже всё заработало, 2B. Отличная работа!"
+        "ru": "С моей стороны тоже всё заработало, 2B. Отличная работа!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/402.wav"
     },
     {
         "id": "M5170_S0030_G0070_001_op60",
         "jp": "司令部内で情報共有しておきますね！",
         "en": "I'll let Command know right away.",
         "ru": "Я сейчас же доложу в Штаб.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/341.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/341.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/403.wav"
     },
     {
         "id": "M5170_S0030_G0080_001_op60",
         "jp": "あと、特別報酬のデータをメールします。",
         "en": "I'll also be sending over a little reward for all your hard work.",
         "ru": "И ещё, я вышлю тебе небольшую награду за усердный труд.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/342.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/342.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/404.wav"
     },
     {
         "id": "M5170_S0030_G0090_001_a2b",
@@ -180,7 +190,8 @@
         "id": "M5170_S0030_G0110_001_op60",
         "jp": "い、いや戦闘任務は大変だと思います！",
         "en": "Don't get me wrong—I know all this fighting isn't easy for you.",
-        "ru": "Не пойми меня неправильно, я знаю, твои сражения — дело непростое."
+        "ru": "Не пойми меня неправильно, я знаю, твои сражения — дело непростое.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/406.wav"
     },
     {
         "id": "M5170_S0030_G0120_001_op60",
@@ -205,12 +216,14 @@
         "id": "M5170_S0030_G0150_001_op60",
         "jp": "無駄話しちゃいましたね。ごめんなさい！",
         "en": "Er, right. Apologies for the unnecessary chatter.",
-        "ru": "Эм, так. Извиняюсь за излишнюю болтовню."
+        "ru": "Эм, так. Извиняюсь за излишнюю болтовню.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/409.wav"
     },
     {
         "id": "M5170_S0030_G0160_001_op60",
         "jp": "それじゃ失礼します！",
         "en": "Anyway. Operator 6O out!",
-        "ru": "Как бы то ни было. Оператор 6O — конец связи."
+        "ru": "Как бы то ни было. Оператор 6O — конец связи.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/410.wav"
     }
 ]

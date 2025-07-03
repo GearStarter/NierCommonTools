@@ -17,20 +17,23 @@
         "id": "M3040_S0200_G0020_001_a9s",
         "jp": "これは……僕の記憶……",
         "en": "Those are...my memories.",
-        "ru": "Это же... мои воспоминания."
+        "ru": "Это же... мои воспоминания.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1801.wav"
     },
     {
         "id": "M3040_S0200_G0030_001_a9s",
         "jp": "どうして……",
         "en": "But why?",
-        "ru": "Но почему?"
+        "ru": "Но почему?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1556.wav"
     },
     {
         "id": "M3040_S0510_G0000_001_a9s",
         "jp": "僕の記憶に……",
         "en": "Stay the hell out...",
         "ru": "Не смейте трогать...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1802.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1802.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1803.wav"
     },
     {
         "id": "M3040_S0510_G0010_001_a9s",

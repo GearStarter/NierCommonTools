@@ -24,7 +24,8 @@
         "jp": "……うん……ごめんなさい。",
         "en": "Yeah, I know. I'm sorry.",
         "ru": "Да, я в курсе. Извини.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1414.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1414.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1415.wav"
     },
     {
         "id": "M1060_S0005_G0140_001_a2b",
@@ -77,7 +78,8 @@
         "jp": "花？",
         "en": "Flowers?",
         "ru": "Цветами?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1026.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1026.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1027.wav"
     },
     {
         "id": "M5920_S0100_G0240_001_op60",
@@ -115,7 +117,8 @@
         "id": "M5920_S0100_G0290_001_a2b",
         "jp": "そんな情報必要な……",
         "en": "I don't need to hear about—",
-        "ru": "Мне это ни к чему..."
+        "ru": "Мне это ни к чему...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1029.wav"
     },
     {
         "id": "M5920_S0100_G0300_001_op60",
@@ -174,7 +177,8 @@
         "jp": "お世辞は不要です。",
         "en": "Flattery is unnecessary.",
         "ru": "Не стоит льстить.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/250.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_002/250.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/312.wav"
     },
     {
         "id": "M5920_S0100_G0540_001_op210",
@@ -201,21 +205,24 @@
         "jp": "実は我々アンドロイド軍が太平洋に展開している空母があるんだが……",
         "en": "Our android forces currently have a carrier deployed in the Pacific Ocean.",
         "ru": "В данный момент наша ударная группа находится на авианосце, расположенном в Тихом океане.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/751.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/751.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/833.wav"
     },
     {
         "id": "M1060_S0010_G0020_001_ane",
         "jp": "近々、補給に戻ってくる。",
         "en": "It should be back here to resupply before too long.",
         "ru": "Он скоро прибудет сюда для пополнения запасов.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/752.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/752.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/834.wav"
     },
     {
         "id": "M1060_S0010_G0030_001_ane",
         "jp": "我々レジスタンスも補給作戦をアシストする。",
         "en": "The Resistance is assisting with the mission...",
         "ru": "Сопротивление окажет поддержку в этой операции...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/753.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/753.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/835.wav"
     },
     {
         "id": "M1060_S0010_G0040_001_ane",
@@ -257,6 +264,7 @@
         "jp": "頼んだぞ。",
         "en": "Anyway, thanks in advance.",
         "ru": "В любом случае, заранее благодарю.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/759.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/759.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/841.wav"
     }
 ]

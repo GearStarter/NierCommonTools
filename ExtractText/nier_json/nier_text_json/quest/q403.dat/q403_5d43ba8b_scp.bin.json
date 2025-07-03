@@ -16,7 +16,8 @@
         "id": "M5403_S0010_G0020_001_pod042",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0030_001_a2b",
@@ -41,7 +42,8 @@
         "id": "M5403_S0010_G0060_001_pod153",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0070_001_a9s",
@@ -65,14 +67,16 @@
         "id": "M5403_S0010_G0100_001_pod042",
         "jp": "当該機械生命体は、アンドロイドを復讐の対象としている。",
         "en": "It should be dispatched immediately.",
-        "ru": "Они должны быть немедленно уничтожены."
+        "ru": "Они должны быть немедленно уничтожены.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/526.wav"
     },
     {
         "id": "M5403_S0010_G0110_001_a2",
         "jp": "復讐、か……",
         "en": "Revenge, huh?",
         "ru": "Месть, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/653.wav"
     },
     {
         "id": "M5403_S0010_G0120_001_robolargegoldcchild",
@@ -104,7 +108,8 @@
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
         "ru": "Брат... Сестра...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/828.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
@@ -213,7 +218,8 @@
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
         "ru": "Брат... Сестра...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/828.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
@@ -335,7 +341,8 @@
         "jp": "機械生命体が家族の復讐？……馬鹿げてる。",
         "en": "Machines wanting to avenge their families? That's absurd.",
         "ru": "Машины хотят отомстить за свою семью? Это нелепо.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/293.wav"
     },
     {
         "id": "M5403_S0030_G0170_001_pod153",
@@ -353,7 +360,8 @@
         "id": "M5403_S0030_G0190_001_a9s",
         "jp": "でも……僕は……",
         "en": "And yet...I...",
-        "ru": "И всё же... я..."
+        "ru": "И всё же... я...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/294.wav"
     },
     {
         "id": "M5403_S0030_G0200_001_a2",

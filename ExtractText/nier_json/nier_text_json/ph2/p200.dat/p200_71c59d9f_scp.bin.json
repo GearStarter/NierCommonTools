@@ -23,7 +23,8 @@
         "jp": "どうやったら大きくなる？",
         "en": "How can we make him bigger?",
         "ru": "И как же нам сделать его больше?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/911.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/911.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/989.wav"
     },
     {
         "id": "M1050_S0195_S0040_201_smallrobot",
@@ -56,14 +57,16 @@
         "id": "M1050_S0195_S0080_201_smallrobot",
         "jp": "守ってやんなきゃな……",
         "en": "We'd better keep him safe.",
-        "ru": "Мы должны позаботиться о нём."
+        "ru": "Мы должны позаботиться о нём.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/994.wav"
     },
     {
         "id": "M1050_S0195_S0090_201_smallrobot",
         "jp": "ああ……この森の国には、誰もいれちゃなんね……",
         "en": "Right. Can't let anyone into the forest kingdom...",
         "ru": "Верно. Никто не должен проникнуть в лесное королевство...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/917.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/917.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/995.wav"
     },
     {
         "id": "M1050_S0195_S0100_201_smallrobot",

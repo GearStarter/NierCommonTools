@@ -2335,7 +2335,8 @@
         "id": "SUPPORT_WORD_02_031",
         "jp": "そして、",
         "en": "Then",
-        "ru": "Тогда,"
+        "ru": "Тогда,",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1756.wav"
     },
     {
         "id": "SUPPORT_WORD_02_032",
@@ -2395,7 +2396,8 @@
         "id": "SUPPORT_WORD_02_041",
         "jp": "それでは、",
         "en": "Because of that,",
-        "ru": "Из-за этого,"
+        "ru": "Из-за этого,",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/392.wav"
     },
     {
         "id": "SUPPORT_WORD_02_042",
@@ -2485,7 +2487,8 @@
         "id": "SUPPORT_WORD_02_056",
         "jp": "だから、",
         "en": "So",
-        "ru": "Поэтому"
+        "ru": "Поэтому",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1024.wav"
     },
     {
         "id": "SUPPORT_WORD_02_057",
@@ -2606,7 +2609,8 @@
         "id": "SUPPORT_WORD_02_076",
         "jp": "でも、",
         "en": "But, even so,",
-        "ru": "Но даже так,"
+        "ru": "Но даже так,",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/337.wav"
     },
     {
         "id": "SUPPORT_WORD_02_077",

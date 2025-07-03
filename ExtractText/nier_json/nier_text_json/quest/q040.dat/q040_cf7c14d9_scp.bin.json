@@ -122,7 +122,8 @@
         "jp": "機械生命体が家族という組織を形成しているなんて、驚きですね。",
         "en": "It's surprising to see them form familial units like that.",
         "ru": "Довольно удивительно видеть, что они создают семейные ячейки, подобные этой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1945.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1945.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/72.wav"
     },
     {
         "id": "M5040_S0010_G0170_001_a9s",
@@ -143,7 +144,8 @@
         "jp": "冗談ですよ、冗談。",
         "en": "Joking! I'm joking! ...Mostly.",
         "ru": "Шутка! Я просто шучу! ...В основном.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1947.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1947.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/74.wav"
     },
     {
         "id": "M5040_S0020_G0000_001_robochild",
@@ -162,13 +164,15 @@
         "jp": "あそこ。",
         "en": "Over there.",
         "ru": "Туда.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/826.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/826.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/827.wav"
     },
     {
         "id": "M5040_S0020_G0030_001_a9s",
         "jp": "怖かった？もう大丈夫だよ。",
         "en": "Easy there, little guy. It's all right. You weren't scared, were you?",
-        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?"
+        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/76.wav"
     },
     {
         "id": "M5040_S0020_G0040_001_robochild",
@@ -275,7 +279,8 @@
         "jp": "……気は済んだ？",
         "en": "Are you finished?",
         "ru": "Ты закончил?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1953.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1953.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/80.wav"
     },
     {
         "id": "M5040_S0020_G0200_001_robochild",
@@ -307,7 +312,8 @@
         "id": "M5040_S0020_G0240_001_a2b",
         "jp": "あの小さい機械生命体が……",
         "en": "Oh. That's...unfortunate.",
-        "ru": "Ох. Как... неудачно вышло."
+        "ru": "Ох. Как... неудачно вышло.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/832.wav"
     },
     {
         "id": "M5040_S0020_G0250_001_a9s",
@@ -326,7 +332,8 @@
         "id": "M5040_S0020_G0030_001_a9s",
         "jp": "怖かった？もう大丈夫だよ。",
         "en": "Easy there, little guy. It's all right. You weren't scared, were you?",
-        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?"
+        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/76.wav"
     },
     {
         "id": "M5040_S0020_G0220_001_a9s",
@@ -353,7 +360,8 @@
         "jp": "どこかではぐれたのか……",
         "en": "We must have lost him somewhere.",
         "ru": "Должно быть, мы где-то потеряли его.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/830.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/830.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/831.wav"
     },
     {
         "id": "M5040_S0020_G0233_001_a9s",
@@ -365,7 +373,8 @@
         "id": "M5040_S0020_G0240_001_a2b",
         "jp": "あの小さい機械生命体が……",
         "en": "Oh. That's...unfortunate.",
-        "ru": "Ох. Как... неудачно вышло."
+        "ru": "Ох. Как... неудачно вышло.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/832.wav"
     },
     {
         "id": "M5040_S0020_G0250_001_a9s",

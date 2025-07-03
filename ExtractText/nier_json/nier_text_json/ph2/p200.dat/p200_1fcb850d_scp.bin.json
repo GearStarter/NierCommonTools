@@ -24,7 +24,8 @@
         "jp": "停止したロボットの残骸……",
         "en": "Look at all these broken machines...",
         "ru": "Только посмотрите на все эти сломанные машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1548.wav"
     },
     {
         "id": "M1080_S0080_G0300_300_a9s",
@@ -68,19 +69,22 @@
         "jp": "バンカーからハッキングしてこの機械生命体をコントロールしています。",
         "en": "I hacked into this machine from the Bunker. I'm controlling it!",
         "ru": "Я взломал эту машину из Бункера. Она под моим контролем!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1521.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1521.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1522.wav"
     },
     {
         "id": "M1080_S0070_G0220_101_a9s",
         "jp": "これから工場のシステムに侵入し、お二人を脱出させます！",
         "en": "I'm gonna break into this factory's systems and get you outta here!",
-        "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!"
+        "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav"
     },
     {
         "id": "M1080_S0070_G0230_101_a2b",
         "jp": "わかった。お願い！",
         "en": "Appreciated.",
         "ru": "Весьма признательна.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/671.wav"
     }
 ]

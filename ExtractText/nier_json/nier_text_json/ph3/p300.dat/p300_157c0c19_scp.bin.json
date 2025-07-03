@@ -120,7 +120,8 @@
         "jp": "孤独……冷たく、寒い。",
         "en": "Lonely... So very cold...",
         "ru": "Одиноко... Очень холодно...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/886.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/886.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/968.wav"
     },
     {
         "id": "M3060_S0640_G0250_001_a9s",

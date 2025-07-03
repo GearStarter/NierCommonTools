@@ -3,7 +3,8 @@
         "id": "M1090_S0020_G0000_201_a9s",
         "jp": "人類が……もういない……",
         "en": "The human race is...gone.",
-        "ru": "Человечества... больше нет."
+        "ru": "Человечества... больше нет.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1569.wav"
     },
     {
         "id": "M1090_S0020_G0010_201_a9s",
@@ -48,7 +49,8 @@
         "id": "M1090_S0020_G0070_201_a9s",
         "jp": "戦闘配置……行かなきゃ！",
         "en": "Combat stations? I'd better get a move on.",
-        "ru": "На боевых постах? Мне лучше поспешить."
+        "ru": "На боевых постах? Мне лучше поспешить.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1572.wav"
     },
     {
         "id": "M1090_S0020_G0080_201_pod153",
@@ -69,13 +71,15 @@
         "jp": "詳細状況！",
         "en": "Any details?",
         "ru": "А поподробнее?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1572.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1572.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1573.wav"
     },
     {
         "id": "M1090_S0020_G0110_201_pod153",
         "jp": "廃墟都市エリア全体に暴走した機械生命体が大量に出現。",
         "en": "Large numbers of machine lifeforms are rampaging through the city ruins.",
-        "ru": "Множество машин свирепствует в руинах города."
+        "ru": "Множество машин свирепствует в руинах города.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/302.wav"
     },
     {
         "id": "M1090_S0020_G0120_201_a9s",
@@ -88,7 +92,8 @@
         "id": "M1090_S0020_G0130_201_pod153",
         "jp": "原因は不明。",
         "en": "Cause unknown.",
-        "ru": "Причина неизвестна."
+        "ru": "Причина неизвестна.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/303.wav"
     },
     {
         "id": "M1090_S0020_G0140_201_pod153",
@@ -124,7 +129,8 @@
         "id": "M6010_S0060_G0040_300_op60",
         "jp": "お気をつけて……！",
         "en": "Be careful!",
-        "ru": "Будьте осторожны!"
+        "ru": "Будьте осторожны!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_002/544.wav"
     },
     {
         "id": "M6010_S0060_G0050_300_op210",
@@ -136,7 +142,8 @@
         "id": "M6010_S0060_G0060_300_op210",
         "jp": "……気をつけて。",
         "en": "Be careful.",
-        "ru": "Будьте осторожны!"
+        "ru": "Будьте осторожны!",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/1142.wav"
     },
     {
         "id": "M1090_S0020_G0005_300_op",

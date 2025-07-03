@@ -3,7 +3,8 @@
         "id": "M1090_S0050_G0000_201_pod153",
         "jp": "大型兵器の反応を確認。",
         "en": "Goliath-class enemy sighted.",
-        "ru": "Замечен враг класса Голиаф."
+        "ru": "Замечен враг класса Голиаф.",
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/306.wav"
     },
     {
         "id": "M1090_S0050_G0010_201_a9s",
@@ -41,6 +42,7 @@
         "id": "M1090_S0040_G0020_201_a9s",
         "jp": "急がなきゃ……！",
         "en": "We'd better hurry...",
-        "ru": "Нам стоит поторопиться..."
+        "ru": "Нам стоит поторопиться...",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1576.wav"
     }
 ]

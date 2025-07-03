@@ -18,28 +18,32 @@
         "jp": "通信応答なし。",
         "en": "No response to communications.",
         "ru": "Не удалось установить соединение.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/96.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/96.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/96.wav"
     },
     {
         "id": "M0010_S0770_G0030_101_a2b",
         "jp": "救助する！",
         "en": "I'm going after him!",
         "ru": "Я иду за ним!",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/27.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/27.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/27.wav"
     },
     {
         "id": "M0010_S0780_G0000_101_a2b",
         "jp": "司令部への応援要請！",
         "en": "Send a support request to Command!",
         "ru": "Запроси помощи у Штаба!",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/28.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/28.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/28.wav"
     },
     {
         "id": "M0010_S0780_G0010_101_pod042",
         "jp": "妨害電波によって通信は不可能。",
         "en": "Negative. Communications have been jammed.",
         "ru": "Отрицательно. Связь глушится противником.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/97.wav"
+        "en_voice": "stream/English(US)/vo_plffff_2_000/97.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_2_000/97.wav"
     },
     {
         "id": "M0010_S0782_H0002_101_a2b",

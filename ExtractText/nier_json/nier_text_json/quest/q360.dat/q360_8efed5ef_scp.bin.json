@@ -4,7 +4,8 @@
         "jp": "あのロボット……何か様子がおかしいな？",
         "en": "That machine... I think something's wrong with it.",
         "ru": "Эта машина... Я думаю, с неё что-то не так.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/199.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/199.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/281.wav"
     },
     {
         "id": "M5360_S0010_G0010_001_n02",
@@ -242,7 +243,8 @@
         "jp": "だから……",
         "en": "There is only one solution...",
         "ru": "Есть только один выход...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1081.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1081.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1024.wav"
     },
     {
         "id": "M5360_S0040_G0180_001_a9s",
@@ -268,6 +270,7 @@
         "jp": "あの機械生命体が落ちた場所……",
         "en": "This is where that machine fell...",
         "ru": "Это место падения машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/202.wav"
+        "en_voice": "stream/English(US)/vo_plffff_0_001/202.wav",
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/284.wav"
     }
 ]
