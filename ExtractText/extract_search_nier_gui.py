@@ -203,6 +203,9 @@ class SearchWindow(QMainWindow):
         self.resize(800, 600)
         self.move(QGuiApplication.primaryScreen().geometry().center() - self.rect().center())
         
+        # Инициализация edit_data
+        self.edit_data = []  # Добавляем инициализацию edit_data
+        
         # Central widget and layout
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
@@ -243,8 +246,13 @@ class SearchWindow(QMainWindow):
         button_layout.addWidget(self.clear_button)
         layout.addLayout(button_layout)
 
-        self.folder_path = ""
-        self.edit_data = []
+        # Установка папки по умолчанию (nier_json)
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        self.folder_path = os.path.join(script_dir, "nier_json").replace('\\', '/')
+        if os.path.exists(self.folder_path):
+            self.folder_label.setText(f"Folder: {self.folder_path}")
+        else:
+            self.folder_label.setText(f"Folder: nier_json not found")
 
     def choose_folder(self):
         folder = QFileDialog.getExistingDirectory(self, "Select Folder", "")
