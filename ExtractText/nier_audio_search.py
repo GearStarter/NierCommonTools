@@ -223,6 +223,7 @@ class SearchWindow(QMainWindow):
         # Phrase input
         phrase_layout = QHBoxLayout()
         self.phrase_input = QLineEdit()
+        self.phrase_input.returnPressed.connect(self.search)  # Подключаем Enter к поиску
         self.search_button = QPushButton("Search")
         self.search_button.clicked.connect(self.search)
         phrase_layout.addWidget(QLabel("Phrase:"))
