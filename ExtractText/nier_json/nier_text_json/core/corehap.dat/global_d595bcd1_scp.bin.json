@@ -87,7 +87,8 @@
         "id": "M3030_S0110_G0121_001_pascal",
         "jp": "あいつらを叩き潰して、ぶっ殺します！",
         "en": "I will smash them up and kill them!",
-        "ru": "Я их всех уничтожу!"
+        "ru": "Я их всех уничтожу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/529.wav"
     },
     {
         "id": "M6020_S0010_G0060_300_pascal",
@@ -99,7 +100,8 @@
         "id": "M6020_S0010_G0070_300_pascal",
         "jp": "頼りにしています。",
         "en": "I'm counting on you.",
-        "ru": "Я рассчитываю на тебя."
+        "ru": "Я рассчитываю на тебя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/980.wav"
     },
     {
         "id": "M6020_S0010_G0080_300_pascal",
@@ -111,175 +113,204 @@
         "id": "M5920_S0010_G0610_001_pod042",
         "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
         "en": "Report: Your affinity with this pod has reached its maximum level.",
-        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/133.wav"
     },
     {
         "id": "M5920_S0010_G0620_001_pod042",
         "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
         "en": "Please note that excessive care is not necessary for combat-based activity.",
-        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/134.wav"
     },
     {
         "id": "M5920_S0010_G0630_001_pod042",
         "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
         "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
-        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/135.wav"
     },
     {
         "id": "M5920_S0010_G0640_001_pod042",
         "jp": "今後、いかなる時もポッド０４２はヨルハ機体２Ｂを守ると誓おう。",
         "en": "Pod 042 promises to protect YoRHa unit 2B in any situation.",
-        "ru": "Бот 042 обещает защищать единицу YoRHa 2B при любых обстоятельствах."
+        "ru": "Бот 042 обещает защищать единицу YoRHa 2B при любых обстоятельствах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/136.wav"
     },
     {
         "id": "M5920_S0010_G0660_001_pod042",
         "jp": "以上。",
         "en": "End report.",
-        "ru": "Конец отчёта."
+        "ru": "Конец отчёта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/138.wav"
     },
     {
         "id": "M5920_S0010_G0610_001_pod042",
         "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
         "en": "Report: Your affinity with this pod has reached its maximum level.",
-        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/133.wav"
     },
     {
         "id": "M5920_S0010_G0620_001_pod042",
         "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
         "en": "Please note that excessive care is not necessary for combat-based activity.",
-        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/134.wav"
     },
     {
         "id": "M5920_S0010_G0630_001_pod042",
         "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
         "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
-        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/135.wav"
     },
     {
         "id": "M5920_S0010_G0650_001_pod042",
         "jp": "今後、いかなる時もポッド０４２はヨルハ機体Ａ２を守ると誓おう。",
         "en": "Pod 042 promises to protect YoRHa unit A2 in any situation.",
-        "ru": "Бот 042 обещает защищать единицу YoRHa A2 при любых обстоятельствах."
+        "ru": "Бот 042 обещает защищать единицу YoRHa A2 при любых обстоятельствах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/137.wav"
     },
     {
         "id": "M5920_S0010_G0660_001_pod042",
         "jp": "以上。",
         "en": "End report.",
-        "ru": "Конец отчёта."
+        "ru": "Конец отчёта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/138.wav"
     },
     {
         "id": "M5920_S0020_G0610_001_pod153",
         "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
         "en": "Report: Your affinity with this pod has reached its maximum level.",
-        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня."
+        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/588.wav"
     },
     {
         "id": "M5920_S0020_G0620_001_pod153",
         "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
         "en": "Please note that excessive care is not necessary for combat-based activity.",
-        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется."
+        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/589.wav"
     },
     {
         "id": "M5920_S0020_G0630_001_pod153",
         "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
         "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
-        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя."
+        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/590.wav"
     },
     {
         "id": "M5920_S0020_G0640_001_pod153",
         "jp": "今後、いかなる時もポッド１５３はヨルハ機体９Ｓを守ると誓おう。",
         "en": "Pod 153 promises to protect YoRHa unit 9S in any situation.",
-        "ru": "Бот 153 обещает защищать единицу YoRHa 9S в любой ситуации."
+        "ru": "Бот 153 обещает защищать единицу YoRHa 9S в любой ситуации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/591.wav"
     },
     {
         "id": "M5920_S0020_G0650_001_pod153",
         "jp": "以上。",
         "en": "End report.",
-        "ru": "Конец отчёта."
+        "ru": "Конец отчёта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/592.wav"
     },
     {
         "id": "M5920_S0150_G0000_001_a9s",
         "jp": "でも、大きな商業施設を作るなんて、\\n旧世界の人類は余裕があったんですね〜",
         "en": "I can't believe the size of the commercial facility. The people of the old world must have led pretty good lives.",
-        "ru": "До чего же большое торговое здание. Люди старого мира, должно быть, недурственно поживали."
+        "ru": "До чего же большое торговое здание. Люди старого мира, должно быть, недурственно поживали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/378.wav"
     },
     {
         "id": "M5920_S0150_G0010_001_a9s",
         "jp": "沢山の商品を前に買い物できたら、楽しいでしょうね〜",
         "en": "I bet it was fun to shop back when you had so many choices.",
-        "ru": "Я уверен, было весело ходить за покупками при такой большой свободе выбора."
+        "ru": "Я уверен, было весело ходить за покупками при такой большой свободе выбора.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/379.wav"
     },
     {
         "id": "M5920_S0150_G0020_001_a2b",
         "jp": "私達には必要ない。",
         "en": "We don't need such things.",
-        "ru": "Мы не нуждаемся в подобном."
+        "ru": "Мы не нуждаемся в подобном.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1040.wav"
     },
     {
         "id": "M5920_S0150_G0030_001_a9s",
         "jp": "いや、そんな事もないですよ？",
         "en": "Don't be so sure about that!",
-        "ru": "Не будь так в этом уверена!"
+        "ru": "Не будь так в этом уверена!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/380.wav"
     },
     {
         "id": "M5920_S0150_G0040_001_a9s",
         "jp": "機械生命体を殲滅させたら、僕達兵士はやることがなくなります。",
         "en": "Once we eradicate the machine lifeforms, us soldiers won't have anything left to do.",
-        "ru": "Как только мы одолеем машины, нам, солдатам, будет совсем нечем заняться."
+        "ru": "Как только мы одолеем машины, нам, солдатам, будет совсем нечем заняться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/381.wav"
     },
     {
         "id": "M5920_S0150_G0050_001_a9s",
         "jp": "そうしたら、平和に暮らす日がきっと来るはずです。",
         "en": "We'll enter a new age of peace.",
-        "ru": "Мы вступаем в новую эпоху мироздания."
+        "ru": "Мы вступаем в новую эпоху мироздания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/382.wav"
     },
     {
         "id": "M5920_S0150_G0060_001_a9s",
         "jp": "そうだ。平和になったら、一緒に買い物に行きましょうよ。",
         "en": "And when that happens, we should go shopping together!",
-        "ru": "И когда это случится, нам обязательно надо будет сходить за покупками вместе!"
+        "ru": "И когда это случится, нам обязательно надо будет сходить за покупками вместе!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/383.wav"
     },
     {
         "id": "M5920_S0150_G0070_001_a9s",
         "jp": "２Ｂにお似合いのＴシャツとか買ってあげます。",
         "en": "I could buy you...I dunno. A T-shirt, maybe? Something that looks good on you.",
-        "ru": "Я мог бы купить тебе... ну не знаю. Быть может, футболку? На тебе бы она неплохо смотрелась."
+        "ru": "Я мог бы купить тебе... ну не знаю. Быть может, футболку? На тебе бы она неплохо смотрелась.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/384.wav"
     },
     {
         "id": "M5920_S0150_G0080_001_a2b",
         "jp": "Ｔシャツ……",
         "en": "A T-shirt?",
-        "ru": "Футболка?"
+        "ru": "Футболка?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1041.wav"
     },
     {
         "id": "M5920_S0150_G0090_001_a9s",
         "jp": "あれ？要らないですか？",
         "en": "What? Not interested?",
-        "ru": "Чего? Совсем такое не интересует?"
+        "ru": "Чего? Совсем такое не интересует?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/385.wav"
     },
     {
         "id": "M5920_S0150_G0100_001_a2b",
         "jp": "いや……",
         "en": "Hmm...",
-        "ru": "Хм..."
+        "ru": "Хм...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1042.wav"
     },
     {
         "id": "M5920_S0150_G0110_001_a2b",
         "jp": "その日が来たら、いつか行こう。",
         "en": "When that day comes...I'm all for it.",
-        "ru": "Если этот день наступит... то я только за."
+        "ru": "Если этот день наступит... то я только за.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1043.wav"
     },
     {
         "id": "M5920_S0150_G0120_001_a9s",
         "jp": "本当ですか？約束ですからね？",
         "en": "That's a promise, right?",
-        "ru": "Обещаешь?"
+        "ru": "Обещаешь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/386.wav"
     },
     {
         "id": "M5920_S0150_G0130_001_a2b",
         "jp": "ああ。",
         "en": "Yep.",
-        "ru": "Ага."
+        "ru": "Ага.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1044.wav"
     },
     {
         "id": "M5920_S0030_G0000_001_a2b",
