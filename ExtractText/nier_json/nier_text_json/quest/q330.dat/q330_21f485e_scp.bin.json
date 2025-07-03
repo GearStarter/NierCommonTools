@@ -33,7 +33,8 @@
         "id": "M5330_S0020_G0010_001_a9s",
         "jp": "エミールさんに知らせましょう。",
         "en": "We'd better let Emil know.",
-        "ru": "Нам стоит рассказать Эмилю."
+        "ru": "Нам стоит рассказать Эмилю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/160.wav"
     },
     {
         "id": "M5330_S0020_G0020_001_eml",
@@ -51,7 +52,8 @@
         "id": "M5330_S0020_G0040_001_eml",
         "jp": "今すぐ行きます！そこに居てくださいッ！",
         "en": "STAY RIGHT THERE! I'm coming!",
-        "ru": "ОСТАВАЙТЕСЬ ТАМ! Я иду!"
+        "ru": "ОСТАВАЙТЕСЬ ТАМ! Я иду!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/983.wav"
     },
     {
         "id": "M5330_S0020_G0050_001_a9s",
@@ -75,49 +77,57 @@
         "id": "M5330_S0020_G0080_001_eml",
         "jp": "ああ……そうだ。そういえば、ここは……",
         "en": "Oh, hey... Now that I think about it, this whole area was once...",
-        "ru": "О, эй... Теперь, когда я подумал об этом, однажды всё это место было..."
+        "ru": "О, эй... Теперь, когда я подумал об этом, однажды всё это место было...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/985.wav"
     },
     {
         "id": "M5330_S0020_G0090_001_a2b",
         "jp": "何か思いだしたの？",
         "en": "Are you remembering something?",
-        "ru": "Ты что-то вспоминаешь?"
+        "ru": "Ты что-то вспоминаешь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/923.wav"
     },
     {
         "id": "M5330_S0020_G0100_001_eml",
         "jp": "ずっと昔……この花を保護していた記憶が断片的に残っています……",
         "en": "It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago...",
-        "ru": "Всё довольно размыто, но, кажется, очень давно я ухаживал за такими цветами..."
+        "ru": "Всё довольно размыто, но, кажется, очень давно я ухаживал за такими цветами...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/986.wav"
     },
     {
         "id": "M5330_S0020_G0110_001_eml",
         "jp": "でも、どんどん砂が侵食してきて……花も、どんどん枯れていって。",
         "en": "But the sand kept expanding, and the flowers gradually wilted.",
-        "ru": "Но песок продолжал распространяться и цветы постепенно увяли."
+        "ru": "Но песок продолжал распространяться и цветы постепенно увяли.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/987.wav"
     },
     {
         "id": "M5330_S0020_G0120_001_eml",
         "jp": "そういえば……そのころから人を見かけなくなった気がします……",
         "en": "Now that I think about it, that was around the same time I stopped seeing people.",
-        "ru": "Теперь, когда я подумал об этом, я понял, что это произошло примерно тогда же, когда я перестал видеть людей."
+        "ru": "Теперь, когда я подумал об этом, я понял, что это произошло примерно тогда же, когда я перестал видеть людей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/988.wav"
     },
     {
         "id": "M5330_S0020_G0130_001_a9s",
         "jp": "……人間を？",
         "en": "You mean humans?",
-        "ru": "Ты имеешь в виду человечество?"
+        "ru": "Ты имеешь в виду человечество?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/164.wav"
     },
     {
         "id": "M5330_S0020_G0140_001_eml",
         "jp": "探してくれて、ありがとうございます。",
         "en": "Thanks a bunch for finding this. Really.",
-        "ru": "Большое спасибо, что нашли его. Правда."
+        "ru": "Большое спасибо, что нашли его. Правда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/989.wav"
     },
     {
         "id": "M5330_S0020_G0150_001_eml",
         "jp": "別の場所を見つけたら、また教えてください。",
         "en": "Oh, and let me know if you find any more, okay?",
-        "ru": "О, и дайте мне знать, если найдёте ещё, хорошо?"
+        "ru": "О, и дайте мне знать, если найдёте ещё, хорошо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/990.wav"
     },
     {
         "id": "M5330_S0020_G0160_001_eml",
@@ -141,7 +151,8 @@
         "id": "M5330_S0030_G0010_001_eml",
         "jp": "はい、何でしょう。",
         "en": "Hey there! What's going on?",
-        "ru": "Привет! Что такое?"
+        "ru": "Привет! Что такое?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/993.wav"
     },
     {
         "id": "M5330_S0030_G0020_001_a9s",
@@ -153,7 +164,8 @@
         "id": "M5330_S0030_G0030_001_eml",
         "jp": "今すぐ行きます！そこに居てくださいッ！",
         "en": "DON'T MOVE AN INCH! I'm coming!",
-        "ru": "НЕ ДВИГАЙТЕСЬ НИ НА ДЮЙМ! Я уже в пути!"
+        "ru": "НЕ ДВИГАЙТЕСЬ НИ НА ДЮЙМ! Я уже в пути!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/994.wav"
     },
     {
         "id": "M5330_S0030_G0040_001_a9s",
@@ -171,7 +183,8 @@
         "id": "M5330_S0030_G0060_001_a9s",
         "jp": "やっぱり早ッ！？",
         "en": "Damn, you're fast!",
-        "ru": "Чёрт, а ты быстрый!"
+        "ru": "Чёрт, а ты быстрый!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/168.wav"
     },
     {
         "id": "M5330_S0030_G0070_001_eml",
@@ -183,19 +196,22 @@
         "id": "M5330_S0030_G0080_001_eml",
         "jp": "ああ、そうか。ここは……",
         "en": "That's it. I remember now...",
-        "ru": "Точно. Теперь я вспомнил..."
+        "ru": "Точно. Теперь я вспомнил...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/997.wav"
     },
     {
         "id": "M5330_S0030_G0090_001_eml",
         "jp": "昔、エイリアンが襲来してきた時の事です。",
         "en": "Back when the aliens first invaded...",
-        "ru": "Когда инопланетяне появились впервые..."
+        "ru": "Когда инопланетяне появились впервые...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/998.wav"
     },
     {
         "id": "M5330_S0030_G0100_001_eml",
         "jp": "僕はここで、地球を守る為に必死になって戦いました。",
         "en": "I fought as hard as I could to save Earth.",
-        "ru": "Я боролся изо всех сил, чтобы спасти Землю."
+        "ru": "Я боролся изо всех сил, чтобы спасти Землю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/999.wav"
     },
     {
         "id": "M5330_S0030_G0110_001_a9s",
@@ -213,7 +229,8 @@
         "id": "M5330_S0030_G0130_001_eml",
         "jp": "でも、それが何かは判らない……",
         "en": "But I don't know what it was.",
-        "ru": "Но я не знаю, что это было."
+        "ru": "Но я не знаю, что это было.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1001.wav"
     },
     {
         "id": "M5330_S0030_G0140_001_a2b",
@@ -261,7 +278,8 @@
         "id": "M5330_S0040_G0010_001_eml",
         "jp": "はい、何でしょう。",
         "en": "Hey there! What's up?",
-        "ru": "Привет! Что случилось?"
+        "ru": "Привет! Что случилось?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1007.wav"
     },
     {
         "id": "M5330_S0040_G0020_001_a9s",
@@ -285,7 +303,8 @@
         "id": "M5330_S0040_G0050_001_a9s",
         "jp": "さすが……早いですね。",
         "en": "As speedy as always, I see.",
-        "ru": "Вижу, ты как всегда быстр."
+        "ru": "Вижу, ты как всегда быстр.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/172.wav"
     },
     {
         "id": "M5330_S0040_G0060_001_eml",
@@ -297,13 +316,15 @@
         "id": "M5330_S0040_G0070_001_eml",
         "jp": "ああ、そうか……",
         "en": "Oh. That's right.",
-        "ru": "О. Верно."
+        "ru": "О. Верно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1011.wav"
     },
     {
         "id": "M5330_S0040_G0080_001_a9s",
         "jp": "ここでは、何があったんですか？",
         "en": "What happened here, Emil?",
-        "ru": "Эмиль, что здесь произошло?"
+        "ru": "Эмиль, что здесь произошло?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/173.wav"
     },
     {
         "id": "M5330_S0040_G0090_001_eml",
@@ -315,19 +336,22 @@
         "id": "M5330_S0040_G0100_001_eml",
         "jp": "僕は、戦闘に勝利する為に自己増殖したんです。",
         "en": "So I decided to create multiple versions of myself to help with the fight.",
-        "ru": "Поэтому я решил создать множество копий себя, чтобы помочь в битве."
+        "ru": "Поэтому я решил создать множество копий себя, чтобы помочь в битве.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1013.wav"
     },
     {
         "id": "M5330_S0040_G0110_001_eml",
         "jp": "でも、敵の数もどんどん増えて……",
         "en": "But the aliens just kept coming.",
-        "ru": "Но инопланетяне продолжали прибывать."
+        "ru": "Но инопланетяне продолжали прибывать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1014.wav"
     },
     {
         "id": "M5330_S0040_G0120_001_eml",
         "jp": "沢山の仲間が命を落としました……もう随分昔の事です。",
         "en": "I lost so many friends that day... It was a long time ago, but still.",
-        "ru": "Я потерял много друзей в тот день... Это было очень давно, но всё же."
+        "ru": "Я потерял много друзей в тот день... Это было очень давно, но всё же.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1015.wav"
     },
     {
         "id": "M5330_S0040_G0130_001_a9s",
@@ -339,13 +363,15 @@
         "id": "M5330_S0040_G0140_001_a9s",
         "jp": "エミールさんて、いつから生きてるんですか。",
         "en": "How old are you, anyway?",
-        "ru": "Сколько же, всё-таки, тебе лет?"
+        "ru": "Сколько же, всё-таки, тебе лет?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/175.wav"
     },
     {
         "id": "M5330_S0040_G0150_001_eml",
         "jp": "よく、わかりません。戦うのに、必要のない記憶だったから……",
         "en": "I'm not sure. I didn't need that memory to fight.",
-        "ru": "Не уверен. Мне не нужно это помнить, чтобы сражаться."
+        "ru": "Не уверен. Мне не нужно это помнить, чтобы сражаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1016.wav"
     },
     {
         "id": "M5330_S0040_G0160_001_eml",
@@ -393,7 +419,8 @@
         "id": "M5330_S0050_G0020_001_a9s",
         "jp": "まだ伝えてすらいないのに……",
         "en": "I didn't even contact you yet!",
-        "ru": "Я ещё даже не связывался с тобой!"
+        "ru": "Я ещё даже не связывался с тобой!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/177.wav"
     },
     {
         "id": "M5330_S0050_G0030_001_eml",
@@ -411,19 +438,22 @@
         "id": "M5330_S0050_G0040_001_a9s",
         "jp": "エミールさん？大丈夫ですか？",
         "en": "Emil? Are you okay?",
-        "ru": "Эмиль? Ты в порядке?"
+        "ru": "Эмиль? Ты в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/178.wav"
     },
     {
         "id": "M5330_S0050_G0050_001_eml",
         "jp": "今……思い出しました……",
         "en": "I just remembered...",
-        "ru": "Я просто вспомнил..."
+        "ru": "Я просто вспомнил...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1024.wav"
     },
     {
         "id": "M5330_S0050_G0060_001_eml",
         "jp": "僕は……",
         "en": "I...",
-        "ru": "Я..."
+        "ru": "Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "M5330_S0050_G0070_001_a9s",
@@ -447,7 +477,8 @@
         "id": "M5330_S0050_G0100_001_eml",
         "jp": "別の場所を見つけたら、また教えてください。",
         "en": "Let me know if you find any more.",
-        "ru": "Дайте знать, если найдёте ещё."
+        "ru": "Дайте знать, если найдёте ещё.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1028.wav"
     },
     {
         "id": "M5330_S0050_G0110_001_eml",
@@ -471,7 +502,8 @@
         "id": "M5330_S0070_G0000_001_eml",
         "jp": "ありがとうございます。おかげで、大事な場所を思い出す事が出来ました。",
         "en": "Thank you again. You've helped me remember an important place.",
-        "ru": "Ещё раз спасибо. Вы помогли мне вспомнить важное место."
+        "ru": "Ещё раз спасибо. Вы помогли мне вспомнить важное место.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1032.wav"
     },
     {
         "id": "M5330_S0070_G0010_001_a9s",
@@ -483,37 +515,43 @@
         "id": "M5330_S0070_G0020_001_eml",
         "jp": "はい。それは『彼』にとって、とても大事な場所……",
         "en": "A place very special to him...",
-        "ru": "Очень важное для него место..."
+        "ru": "Очень важное для него место...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1033.wav"
     },
     {
         "id": "M5330_S0070_G0030_001_eml",
         "jp": "お礼に、案内します。この鍵を使ってください。",
         "en": "In thanks, I'll tell you how to visit it. Please take this key.",
-        "ru": "В благодарность, я расскажу, как посетить его. Пожалуйста, возьми этот ключ."
+        "ru": "В благодарность, я расскажу, как посетить его. Пожалуйста, возьми этот ключ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1034.wav"
     },
     {
         "id": "M5330_S0070_G0040_001_a9s",
         "jp": "これは……",
         "en": "What's it for?",
-        "ru": "Для чего он?"
+        "ru": "Для чего он?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/181.wav"
     },
     {
         "id": "M5330_S0070_G0050_001_eml",
         "jp": "ショッピングモールにあるエレベーターの鍵です。",
         "en": "It'll let you access the elevator in the shopping mall.",
-        "ru": "Он даст вам доступ к лифту в торговом центре."
+        "ru": "Он даст вам доступ к лифту в торговом центре.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1035.wav"
     },
     {
         "id": "M5330_S0070_G0060_001_eml",
         "jp": "後でこの場所に来てください。",
         "en": "You should head there whenever you have the time.",
-        "ru": "Вам следует прийти туда, когда будет время."
+        "ru": "Вам следует прийти туда, когда будет время.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1036.wav"
     },
     {
         "id": "M5330_S0070_G0070_001_eml",
         "jp": "すみません、先に向かってください。僕はもう少しここにいます。",
         "en": "I'm sorry. I need to stay here for a while. You go on ahead.",
-        "ru": "Простите. Мне нужно остаться здесь на время. А вы идите."
+        "ru": "Простите. Мне нужно остаться здесь на время. А вы идите.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1037.wav"
     },
     {
         "id": "M5330_S0020_G0170_001_eml",

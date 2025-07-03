@@ -3,13 +3,15 @@
         "id": "M3060_S0500_G0000_001_announce",
         "jp": "ヨルハ機体９Ｓ！",
         "en": "YoRHa unit 9S!",
-        "ru": "Единица YoRHa 9S!"
+        "ru": "Единица YoRHa 9S!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1162.wav"
     },
     {
         "id": "M3060_S0500_G0010_001_girls",
         "jp": "ヨルハ機体９Ｓ！",
         "en": "YoRHa unit 9S!",
-        "ru": "Единица YoRHa 9S!"
+        "ru": "Единица YoRHa 9S!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1162.wav"
     },
     {
         "id": "M3060_S0500_G0020_001_announce",
@@ -27,7 +29,8 @@
         "id": "M3060_S0500_G0040_001_a9s",
         "jp": "貴様ら……ッ！！",
         "en": "You bastards...!",
-        "ru": "Вы, ублюдки!.."
+        "ru": "Вы, ублюдки!..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1867.wav"
     },
     {
         "id": "M3060_S0500_G0050_001_announce",
@@ -45,7 +48,8 @@
         "id": "M3060_S0500_G0070_001_girls",
         "jp": "この場に居る機械生命体を全て破壊したら教えよう。",
         "en": "We'll reveal it once you destroy all the machine lifeforms here.",
-        "ru": "И мы раскроем его тебе, как только ты уничтожишь здесь все машины."
+        "ru": "И мы раскроем его тебе, как только ты уничтожишь здесь все машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/7.wav"
     },
     {
         "id": "M3060_S0500_G0080_001_girls",
@@ -63,37 +67,43 @@
         "id": "M3060_S0500_G0100_001_girls",
         "jp": "ならば約束通り見せてやろう。",
         "en": "Now let us show you what we promised.",
-        "ru": "Теперь мы покажем тебе то, что обещали."
+        "ru": "Теперь мы покажем тебе то, что обещали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/10.wav"
     },
     {
         "id": "M3060_S0560_G0000_001_girls",
         "jp": "私達は機械生命体のネットワークから生まれた概念人格。",
         "en": "We are conceptual human personalities created within the machine network.",
-        "ru": "Мы — концепции человеческих личностей, созданные в сети машин."
+        "ru": "Мы — концепции человеческих личностей, созданные в сети машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/11.wav"
     },
     {
         "id": "M3060_S0560_G0010_001_girls",
         "jp": "破壊する事は不可能。",
         "en": "We cannot be destroyed.",
-        "ru": "Нас нельзя уничтожить."
+        "ru": "Нас нельзя уничтожить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/12.wav"
     },
     {
         "id": "M3060_S0560_G0020_001_girls",
         "jp": "ヨルハ機体９Ｓ。",
         "en": "YoRHa unit 9S...",
-        "ru": "Единица YoRHa 9S..."
+        "ru": "Единица YoRHa 9S...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1162.wav"
     },
     {
         "id": "M3060_S0560_G0030_001_girls",
         "jp": "貴様の攻撃は無駄だ。",
         "en": "Your attack is meaningless.",
-        "ru": "Твои атаки бессмысленны."
+        "ru": "Твои атаки бессмысленны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/14.wav"
     },
     {
         "id": "M3060_S0560_G0040_001_girls",
         "jp": "貴様の存在は無意味だ。",
         "en": "Your existence is meaningless.",
-        "ru": "Твоё существование бессмысленно."
+        "ru": "Твоё существование бессмысленно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/15.wav"
     },
     {
         "id": "M3060_S0560_G0050_001_a9s",
@@ -111,7 +121,8 @@
         "id": "M3060_S0560_G0070_001_a9s",
         "jp": "全部壊す……",
         "en": "I'll destroy them all...",
-        "ru": "Я всех их уничтожу..."
+        "ru": "Я всех их уничтожу...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1870.wav"
     },
     {
         "id": "M3060_S0560_G0080_001_a9s",

@@ -3,25 +3,29 @@
         "id": "M1090_S0950_G0000_201_pod042",
         "jp": "指定されたアイテムを回収。",
         "en": "Recover designated items.",
-        "ru": "Получите указанные предметы."
+        "ru": "Получите указанные предметы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/712.wav"
     },
     {
         "id": "M1090_S0950_G0010_201_a9s",
         "jp": "ああ、２Ｂ……待ってたよ。",
         "en": "Hey, 2B. I was waiting for you.",
-        "ru": "Эй, 2B. Я ждал тебя."
+        "ru": "Эй, 2B. Я ждал тебя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1608.wav"
     },
     {
         "id": "M1090_S0950_G0020_201_a9s",
         "jp": "これを渡しておく。",
         "en": "I needed to give you this.",
-        "ru": "Я хотел дать тебе это."
+        "ru": "Я хотел дать тебе это.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1609.wav"
     },
     {
         "id": "M1090_S0950_G0030_201_a9s",
         "jp": "２Ｂ……",
         "en": "Say, 2B?",
-        "ru": "Скажи, 2B?"
+        "ru": "Скажи, 2B?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1610.wav"
     },
     {
         "id": "M1090_S0950_G0040_201_a9s",
@@ -33,19 +37,22 @@
         "id": "M1090_S0950_G0050_201_a9s",
         "jp": "いや、何でもない……気をつけて。",
         "en": "No, never mind. Just be careful.",
-        "ru": "Нет, забудь. Будь осторожна."
+        "ru": "Нет, забудь. Будь осторожна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1612.wav"
     },
     {
         "id": "M1090_S0950_G0060_201_pod042",
         "jp": "予定されていた準備行動を完了。",
         "en": "Planning preparations complete.",
-        "ru": "Плановые приготовления завершены."
+        "ru": "Плановые приготовления завершены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/713.wav"
     },
     {
         "id": "M1090_S0950_G0070_201_pod042",
         "jp": "最終確認：自室に配備された装備。",
         "en": "Confirm equipment delivered to quarters.",
-        "ru": "Подтвердите доставку оборудования в жилой отсек."
+        "ru": "Подтвердите доставку оборудования в жилой отсек.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/714.wav"
     },
     {
         "id": "M1090_S0950_G0040_201_a9s",
@@ -63,24 +70,28 @@
         "id": "M3000_S0030_S0010_001_a9s",
         "jp": "最後の大規模侵攻作戦が開始された。",
         "en": "our final major operation had begun.",
-        "ru": "началась наша заключительная операция."
+        "ru": "началась наша заключительная операция.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1614.wav"
     },
     {
         "id": "M3000_S0030_S0020_001_a9s",
         "jp": "だけど、僕はまだ知らなかった。",
         "en": "Still, at the time, I knew nothing.",
-        "ru": "Тем не менее, в тот момент я ещё ничего не знал."
+        "ru": "Тем не менее, в тот момент я ещё ничего не знал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1615.wav"
     },
     {
         "id": "M3000_S0030_S0030_001_a9s",
         "jp": "この戦いの結末と……",
         "en": "Not how the battle would end...",
-        "ru": "Ни того, чем закончится эта битва..."
+        "ru": "Ни того, чем закончится эта битва...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1616.wav"
     },
     {
         "id": "M3000_S0030_S0040_001_a9s",
         "jp": "僕達の運命を。",
         "en": "Nor what fate stood in wait for us.",
-        "ru": "Ни того, какая судьба нам уготована."
+        "ru": "Ни того, какая судьба нам уготована.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1617.wav"
     }
 ]

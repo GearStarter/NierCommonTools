@@ -3,7 +3,8 @@
         "id": "M3060_S0640_G0060_001_spider",
         "jp": "ボく達は……悪い…‥機カイじゃナ……",
         "en": "We are not bad machines...",
-        "ru": "Мы не плохие машины..."
+        "ru": "Мы не плохие машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/871.wav"
     },
     {
         "id": "M3060_S0640_G0070_001_spider",
@@ -15,25 +16,29 @@
         "id": "M3060_S0640_G0080_001_a9s",
         "jp": "何だこれ？",
         "en": "What's going on?",
-        "ru": "Что происходит?"
+        "ru": "Что происходит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1872.wav"
     },
     {
         "id": "M3060_S0640_G0090_001_pod153",
         "jp": "報告：敵ＡＩの崩壊を確認。",
         "en": "Analysis: Enemy AI destroyed.",
-        "ru": "Анализ: вражеский ИИ уничтожен."
+        "ru": "Анализ: вражеский ИИ уничтожен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/376.wav"
     },
     {
         "id": "M3060_S0640_G0100_001_spider",
         "jp": "ボボ……ワたシ……",
         "en": "I... I... I... I... I...",
-        "ru": "Я... Я... Я... Я..."
+        "ru": "Я... Я... Я... Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/873.wav"
     },
     {
         "id": "M3060_S0640_G0110_001_a9s",
         "jp": "あの赤いＡ．Ｉ．が……死んだ？",
         "en": "So those red AIs are dead?",
-        "ru": "Выходит, те красные ИИ мертвы?"
+        "ru": "Выходит, те красные ИИ мертвы?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1873.wav"
     },
     {
         "id": "M3060_S0640_G0120_001_spider",
@@ -51,7 +56,8 @@
         "id": "M3060_S0640_G0140_001_spider",
         "jp": "アダム……",
         "en": "Adam...",
-        "ru": "Адам..."
+        "ru": "Адам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/876.wav"
     },
     {
         "id": "M3060_S0640_G0150_001_spider",
@@ -63,7 +69,8 @@
         "id": "M3060_S0640_G0160_001_spider",
         "jp": "遊ビ……歌……歌オウ",
         "en": "Play... song... sing...",
-        "ru": "Играть... песня... петь..."
+        "ru": "Играть... песня... петь...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/878.wav"
     },
     {
         "id": "M3060_S0640_G0170_001_spider",
@@ -81,7 +88,8 @@
         "id": "M3060_S0640_G0190_001_spider",
         "jp": "創造主……星……渡ル",
         "en": "Creator... star... traveler...",
-        "ru": "Создатель... звезда... путешественник..."
+        "ru": "Создатель... звезда... путешественник...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/881.wav"
     },
     {
         "id": "M3060_S0640_G0200_001_spider",
@@ -111,13 +119,15 @@
         "id": "M3060_S0640_G0240_001_spider",
         "jp": "孤独……冷たく、寒い。",
         "en": "Lonely... So very cold...",
-        "ru": "Одиноко... Очень холодно..."
+        "ru": "Одиноко... Очень холодно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/886.wav"
     },
     {
         "id": "M3060_S0640_G0250_001_a9s",
         "jp": "機械の癖に……",
         "en": "Goddamn machine...",
-        "ru": "Проклятые машины..."
+        "ru": "Проклятые машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1874.wav"
     },
     {
         "id": "M3060_S0640_G0260_001_a9s",

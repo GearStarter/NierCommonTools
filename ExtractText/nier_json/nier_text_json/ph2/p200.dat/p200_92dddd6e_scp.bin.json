@@ -3,24 +3,28 @@
         "id": "M1040_S0550_G0070_001_a9s",
         "jp": "機械生命体達の残骸が……",
         "en": "Look at all these dead machines...",
-        "ru": "Только взгляни на все эти мёртвые машины..."
+        "ru": "Только взгляни на все эти мёртвые машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1314.wav"
     },
     {
         "id": "M1040_S0550_G0080_001_a9s",
         "jp": "でもこれ、随分昔からここにあるような感じですね。",
         "en": "Seems like they've been here for a long time.",
-        "ru": "Похоже, что они здесь с давних пор."
+        "ru": "Похоже, что они здесь с давних пор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1315.wav"
     },
     {
         "id": "M1040_S0550_G0090_001_a2b",
         "jp": "この場所は……",
         "en": "What is this place?",
-        "ru": "Что это за место?"
+        "ru": "Что это за место?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/534.wav"
     },
     {
         "id": "M1040_S0550_G0100_001_a9s",
         "jp": "データベースに該当する情報はありませんね。",
         "en": "I don't know. There's nothing like it in the database.",
-        "ru": "Я не знаю. В базе данных ничего подобного нет."
+        "ru": "Я не знаю. В базе данных ничего подобного нет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1316.wav"
     }
 ]

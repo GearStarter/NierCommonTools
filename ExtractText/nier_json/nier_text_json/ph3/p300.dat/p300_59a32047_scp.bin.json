@@ -3,25 +3,29 @@
         "id": "M3020_S0110_G0000_001_a9s",
         "jp": "文字……？",
         "en": "Is this writing?",
-        "ru": "Это письмена?"
+        "ru": "Это письмена?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1765.wav"
     },
     {
         "id": "M3020_S0110_G0010_001_a9s",
         "jp": "何て書いてあるんだ？",
         "en": "I can't read it.",
-        "ru": "Я не могу прочитать их."
+        "ru": "Я не могу прочитать их.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1766.wav"
     },
     {
         "id": "M3020_S0110_G0020_001_pod153",
         "jp": "『天使文字』と呼ばれる旧時代の特殊な文字。",
         "en": "Analysis: Writing is an ancient language known as Angelic.",
-        "ru": "Анализ: письмена написаны на древнем языке, известном как Ангельский."
+        "ru": "Анализ: письмена написаны на древнем языке, известном как Ангельский.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/288.wav"
     },
     {
         "id": "M3020_S0110_G0030_001_pod153",
         "jp": "『肉の箱』という文章。",
         "en": "It reads \"meat box.\"",
-        "ru": "Тут написано: \"ящик мяса\"."
+        "ru": "Тут написано: \"ящик мяса\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/289.wav"
     },
     {
         "id": "M3020_S0110_G0040_001_a9s",
@@ -33,7 +37,8 @@
         "id": "M3020_S0040_G0071_001_a9s",
         "jp": "この建物全体、内部まで機械で出来てるのか……",
         "en": "Is this entire building made of machines, even on the inside?",
-        "ru": "Это здание сделано целиком из машин, даже внутри?"
+        "ru": "Это здание сделано целиком из машин, даже внутри?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1760.wav"
     },
     {
         "id": "M3020_S0040_G0072_001_pod153",
@@ -45,13 +50,15 @@
         "id": "M3020_S0040_G0073_001_pod153",
         "jp": "そうした部品が使用されている理由は不明。",
         "en": "The reason for using said parts is unknown.",
-        "ru": "Причина использования данных деталей неизвестна."
+        "ru": "Причина использования данных деталей неизвестна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/287.wav"
     },
     {
         "id": "M3020_S0040_G0074_001_a9s",
         "jp": "奴らのやることに意味なんて無い。",
         "en": "There's no meaning to anything they do.",
-        "ru": "В их действиях нет никакого смысла."
+        "ru": "В их действиях нет никакого смысла.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1761.wav"
     },
     {
         "id": "M3020_S0110_G0050_001_n02",
@@ -75,13 +82,15 @@
         "id": "M3020_S0110_G0080_001_n02",
         "jp": "イタイッ！イタイ！痛いイタイ！",
         "en": "Pain! So much pain!",
-        "ru": "Больно! Очень больно!"
+        "ru": "Больно! Очень больно!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1015.wav"
     },
     {
         "id": "M3020_S0110_G0090_001_n02",
         "jp": "苦しい……クルシ……苦シ",
         "en": "Pain pain pain...",
-        "ru": "Больно, больно, больно..."
+        "ru": "Больно, больно, больно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1016.wav"
     },
     {
         "id": "M3020_S0110_G0100_001_n02",
@@ -93,7 +102,8 @@
         "id": "M3020_S0110_G0110_001_a9s",
         "jp": "機械が苦しい訳ないだろ……",
         "en": "Machines can't feel pain.",
-        "ru": "Машины не способны чувствовать боль."
+        "ru": "Машины не способны чувствовать боль.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1768.wav"
     },
     {
         "id": "M3020_S0110_G0120_001_a9s",
@@ -111,19 +121,22 @@
         "id": "M3020_S0110_G0140_001_a9s",
         "jp": "機械生命体の部品が……",
         "en": "Machine parts...",
-        "ru": "Части машин..."
+        "ru": "Части машин...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1771.wav"
     },
     {
         "id": "M3020_S0110_G0150_001_pod153",
         "jp": "推測：構造物自体の資材。もしくは、武器を製作する為の資源。",
         "en": "Speculation: Perhaps these are raw materials from the structure itself. Possibly useful for creating weapons.",
-        "ru": "Предположение: возможно, что эти части являются материалом постройки. Его можно использовать для создания оружия."
+        "ru": "Предположение: возможно, что эти части являются материалом постройки. Его можно использовать для создания оружия.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/290.wav"
     },
     {
         "id": "M3020_S0110_G0160_001_a9s",
         "jp": "武器……",
         "en": "Weapons, eh?",
-        "ru": "Оружия, да?"
+        "ru": "Оружия, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1772.wav"
     },
     {
         "id": "M3020_S0110_G0170_001_core",

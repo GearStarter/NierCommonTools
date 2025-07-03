@@ -45,12 +45,14 @@
         "id": "M5090_S0010_G0000_001_roboGK",
         "jp": "イイ加減ニ、シロ！",
         "en": "Stop this foolishness!",
-        "ru": "Прекратите эту глупость!"
+        "ru": "Прекратите эту глупость!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/93.wav"
     },
     {
         "id": "M5090_S0010_G0010_001_roboGK",
         "jp": "モノゴトニハ、限度ガ、アル！",
         "en": "Even I have my limits!",
-        "ru": "Даже у меня есть предел!"
+        "ru": "Даже у меня есть предел!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/94.wav"
     }
 ]

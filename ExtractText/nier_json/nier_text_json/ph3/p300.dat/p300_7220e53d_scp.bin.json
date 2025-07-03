@@ -3,13 +3,15 @@
         "id": "M3050_S0230_G0000_001_smachine",
         "jp": "ニイちゃんだけ……",
         "en": "Please... Big brother...",
-        "ru": "Пожалуйста... Старший брат..."
+        "ru": "Пожалуйста... Старший брат...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1029.wav"
     },
     {
         "id": "M3050_S0230_G0010_001_smachine",
         "jp": "助けて……",
         "en": "Spare him...",
-        "ru": "Пощади его..."
+        "ru": "Пощади его...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1030.wav"
     },
     {
         "id": "M3050_S0230_G0020_001_smachine",
@@ -21,7 +23,8 @@
         "id": "M3050_S0230_G0030_001_smachine",
         "jp": "……でも。にいちゃんダケでも……",
         "en": "Spare our big brother...",
-        "ru": "Пощади нашего старшего брата..."
+        "ru": "Пощади нашего старшего брата...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1032.wav"
     },
     {
         "id": "M3050_S0230_G0040_001_lmachine",

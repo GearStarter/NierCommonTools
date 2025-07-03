@@ -3,19 +3,22 @@
         "id": "M5400_S0010_G0000_001_a2b",
         "jp": "……あのタイプ、見た事が無い。",
         "en": "...Huh. That's new.",
-        "ru": "Ха... что-то новенькое."
+        "ru": "Ха... что-то новенькое.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/933.wav"
     },
     {
         "id": "M5400_S0010_G0010_001_a9s",
         "jp": "……あのタイプ、データにあったかな？",
         "en": "...Have we seen these things before?",
-        "ru": "...Мы ведь уже видели нечто подобное раньше?"
+        "ru": "...Мы ведь уже видели нечто подобное раньше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/203.wav"
     },
     {
         "id": "M5400_S0010_G0020_001_a2",
         "jp": "……見た事ないタイプだ。",
         "en": "...Never seen these guys before.",
-        "ru": "...Никогда раньше не видела этих ребят."
+        "ru": "...Никогда раньше не видела этих ребят.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/564.wav"
     },
     {
         "id": "M5400_S0010_G0030_001_robolargegold",
@@ -33,19 +36,22 @@
         "id": "M5400_S0010_G0050_001_a2b",
         "jp": "迎撃する。ポッド、解析を進めて。",
         "en": "Engaging. Pod, analyze the enemy.",
-        "ru": "Нападают. Бот, проанализируй противника."
+        "ru": "Нападают. Бот, проанализируй противника.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/934.wav"
     },
     {
         "id": "M5400_S0010_G0060_001_a9s",
         "jp": "うわっ！なんか言ってる。",
         "en": "Whoa! They're speaking.",
-        "ru": "Вау! Они могут говорить."
+        "ru": "Вау! Они могут говорить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/204.wav"
     },
     {
         "id": "M5400_S0010_G0070_001_a2",
         "jp": "そっちがその気なら……",
         "en": "If that's how you want it...",
-        "ru": "Если вы так хотите..."
+        "ru": "Если вы так хотите...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/565.wav"
     },
     {
         "id": "M5400_S0010_G0120_001_robosmallgold",
@@ -57,7 +63,8 @@
         "id": "M5400_S0010_G0130_001_robosmallgold",
         "jp": "貴様！よくも我が部下を……死して償えッ！",
         "en": "You dare defeat my faithful servant? You will pay with your life!",
-        "ru": "Вы осмелились победить моего верного слугу? За это вы заплатите своими жизнями!"
+        "ru": "Вы осмелились победить моего верного слугу? За это вы заплатите своими жизнями!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1085.wav"
     },
     {
         "id": "M5400_S0010_G0140_001_robosmallgold",
@@ -75,7 +82,8 @@
         "id": "M5401_S0010_G0000_001_a2b",
         "jp": "あれは……確か以前戦った……",
         "en": "Haven't I fought this thing before...?",
-        "ru": "Разве раньше я уже не сражалась с этой штукой?.."
+        "ru": "Разве раньше я уже не сражалась с этой штукой?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/935.wav"
     },
     {
         "id": "M5401_S0010_G0010_001_pod042",
@@ -99,7 +107,8 @@
         "id": "M5401_S0010_G0040_001_a9s",
         "jp": "あれ、前に戦ったロボットだよね。",
         "en": "Hey, I've fought this machine before, right?",
-        "ru": "Эй, я ведь уже сражался с такой машиной, не так ли?"
+        "ru": "Эй, я ведь уже сражался с такой машиной, не так ли?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/205.wav"
     },
     {
         "id": "M5401_S0010_G0050_001_pod153",
@@ -117,13 +126,15 @@
         "id": "M5401_S0010_G0070_001_a9s",
         "jp": "了解。",
         "en": "If you say so.",
-        "ru": "Как скажешь."
+        "ru": "Как скажешь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/206.wav"
     },
     {
         "id": "M5401_S0010_G0080_001_a2",
         "jp": "あれは確か、前に戦った奴……",
         "en": "Wait. Haven't I fought this thing already?",
-        "ru": "Подождите. Разве я уже не сражалась с этой штукой?"
+        "ru": "Подождите. Разве я уже не сражалась с этой штукой?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/566.wav"
     },
     {
         "id": "M5401_S0010_G0090_001_pod042",
@@ -141,31 +152,36 @@
         "id": "M5401_S0010_G0110_001_a2",
         "jp": "言われなくても。",
         "en": "Don't have to tell me twice.",
-        "ru": "Не нужно повторять дважды."
+        "ru": "Не нужно повторять дважды.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/567.wav"
     },
     {
         "id": "M5401_S0010_G0120_001_robosmallgoldwoman",
         "jp": "見つけた。兄の仇……諸悪の根源め！覚悟！",
         "en": "You killed my brother. You are the true evil. You must die!",
-        "ru": "Ты убила моего брата. Ты — настоящее зло. Умри!"
+        "ru": "Ты убила моего брата. Ты — настоящее зло. Умри!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1088.wav"
     },
     {
         "id": "M5401_S0020_G0000_001_a2b",
         "jp": "迎撃する。",
         "en": "Engaging enemy.",
-        "ru": "Вступаю в бой."
+        "ru": "Вступаю в бой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/937.wav"
     },
     {
         "id": "M5401_S0020_G0010_001_a9s",
         "jp": "迎撃する。",
         "en": "Ready to engage.",
-        "ru": "Готов вступить в бой."
+        "ru": "Готов вступить в бой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/207.wav"
     },
     {
         "id": "M5401_S0020_G0020_001_a2",
         "jp": "倒すぞ。",
         "en": "Time to die.",
-        "ru": "Время умирать."
+        "ru": "Время умирать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/568.wav"
     },
     {
         "id": "M5401_S0020_G0030_001_robosmallgoldwoman",
@@ -189,25 +205,29 @@
         "id": "M5401_S0030_G0010_001_a2b",
         "jp": "兄様……他の個体もいるということ？",
         "en": "Brother? So there's another one?",
-        "ru": "Брат? Так есть другие?"
+        "ru": "Брат? Так есть другие?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/938.wav"
     },
     {
         "id": "M5401_S0030_G0020_001_a9s",
         "jp": "兄様って……他にもいるのか？",
         "en": "Brother? Wait, there's more of these things?",
-        "ru": "Брат? Подожди, так их больше?"
+        "ru": "Брат? Подожди, так их больше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/208.wav"
     },
     {
         "id": "M5401_S0030_G0030_001_a2",
         "jp": "兄様……まさか他にも……？",
         "en": "Brother? So there's more of them?",
-        "ru": "Брат? Так их больше?"
+        "ru": "Брат? Так их больше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/569.wav"
     },
     {
         "id": "M5403_S0010_G0000_001_a2b",
         "jp": "あれは……例のロボット……",
         "en": "There's another one of those strange machines.",
-        "ru": "Вот и ещё одна из тех странных машин."
+        "ru": "Вот и ещё одна из тех странных машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/939.wav"
     },
     {
         "id": "M5403_S0010_G0010_001_pod042",
@@ -231,7 +251,8 @@
         "id": "M5403_S0010_G0040_001_a9s",
         "jp": "あのタイプは……多分、襲ってくるよね。",
         "en": "There's another of those machines... I suppose it's going to attack me, right?",
-        "ru": "Ещё одна из тех машин... Я думаю, она нападёт на меня, верно?"
+        "ru": "Ещё одна из тех машин... Я думаю, она нападёт на меня, верно?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/209.wav"
     },
     {
         "id": "M5403_S0010_G0050_001_pod153",
@@ -273,13 +294,15 @@
         "id": "M5403_S0010_G0110_001_a2",
         "jp": "復讐、か……",
         "en": "Revenge, huh?",
-        "ru": "Месть, да?"
+        "ru": "Месть, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav"
     },
     {
         "id": "M5403_S0010_G0120_001_robolargegoldcchild",
         "jp": "家族、一族を全て殺された。",
         "en": "My family... My brethren... All have been killed.",
-        "ru": "Моя семья... Мои собратья... Все были убиты."
+        "ru": "Моя семья... Мои собратья... Все были убиты.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/746.wav"
     },
     {
         "id": "M5403_S0010_G0130_001_robolargegoldcchild",
@@ -303,37 +326,43 @@
         "id": "M5403_S0020_G0010_001_robolargegoldcchild",
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
-        "ru": "Брат... Сестра..."
+        "ru": "Брат... Сестра...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
         "jp": "みんな……ごめん、なさい……",
         "en": "I'm so sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/751.wav"
     },
     {
         "id": "M5403_S0020_G0030_001_robosmallgoldwoman",
         "jp": "殺すッ！必ずこいつを倒すッ！",
         "en": "I'll kill you... I swear on my life to kill you!",
-        "ru": "Я убью тебя... Клянусь своей жизнью, что убью тебя!"
+        "ru": "Я убью тебя... Клянусь своей жизнью, что убью тебя!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1092.wav"
     },
     {
         "id": "M5403_S0030_G0000_001_robolargegoldcchild",
         "jp": "……殺せよ。",
         "en": "...Go on. Finish me.",
-        "ru": "...Давай же. Прикончи меня."
+        "ru": "...Давай же. Прикончи меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/752.wav"
     },
     {
         "id": "M5403_S0030_G0010_001_robolargegoldcchild",
         "jp": "どうせ、仇討ち出来たら、死のうと思ってたんだ。",
         "en": "Even if I'd achieved my revenge, I was planning to die regardless.",
-        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть."
+        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/753.wav"
     },
     {
         "id": "M5403_S0030_G0020_001_robolargegoldcchild",
         "jp": "家族も、友達も、みんな死んだ。",
         "en": "My friends are dead. My family is dead.",
-        "ru": "Мои друзья погибли. Моя семья мертва."
+        "ru": "Мои друзья погибли. Моя семья мертва.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/754.wav"
     },
     {
         "id": "M5403_S0030_G0030_001_robolargegoldcchild",
@@ -345,7 +374,8 @@
         "id": "M5403_S0030_G0040_001_robolargegoldcchild",
         "jp": "１人になった僕に……もう、生きる気力なんて無いんだ……",
         "en": "I don't have the strength to continue.",
-        "ru": "У меня нет сил, чтобы жить."
+        "ru": "У меня нет сил, чтобы жить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M5403_S0030_G0050_001_robolargegoldcchild",
@@ -357,43 +387,50 @@
         "id": "M5403_S0030_G0060_001_robolargegoldcchild",
         "jp": "……ゴメン……みんな……",
         "en": "I'm sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/758.wav"
     },
     {
         "id": "M5403_S0030_G0070_001_robolargegoldcchild",
         "jp": "仇を討てなかった……",
         "en": "I couldn't avenge you...",
-        "ru": "Я не смог отомстить за вас..."
+        "ru": "Я не смог отомстить за вас...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/759.wav"
     },
     {
         "id": "M5403_S0030_G0080_001_robolargegoldcchild",
         "jp": "アンドロイドめ……どこまで……僕達を愚弄すれば気が済むんだ！",
         "en": "Accursed androids... How much longer will you torment us!?",
-        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!"
+        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/760.wav"
     },
     {
         "id": "M5403_S0030_G0090_001_robolargegoldcchild",
         "jp": "この悪魔がッ！！",
         "en": "You damn monsters!",
-        "ru": "Вы чёртовы монстры!"
+        "ru": "Вы чёртовы монстры!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M5403_S0030_G0100_001_robolargegoldcchild",
         "jp": "……バンザイ。",
         "en": "Glory to us...",
-        "ru": "Слава нам..."
+        "ru": "Слава нам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/762.wav"
     },
     {
         "id": "M5403_S0030_G0110_001_robolargegoldcchild",
         "jp": "家族バンザアアアアアアアイ！！！！",
         "en": "Glory to my family!",
-        "ru": "Слава моей семье!"
+        "ru": "Слава моей семье!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/763.wav"
     },
     {
         "id": "M5403_S0030_G0120_001_a2b",
         "jp": "機械生命体が家族の復讐……",
         "en": "A machine seeking revenge for its family?",
-        "ru": "Машина желает отомстить за свою семью?"
+        "ru": "Машина желает отомстить за свою семью?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/941.wav"
     },
     {
         "id": "M5403_S0030_G0130_001_pod042",
@@ -411,13 +448,15 @@
         "id": "M5403_S0030_G0150_001_a2b",
         "jp": "……馬鹿げてる。",
         "en": "...How absurd.",
-        "ru": "...Как нелепо."
+        "ru": "...Как нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/942.wav"
     },
     {
         "id": "M5403_S0030_G0160_001_a9s",
         "jp": "機械生命体が家族の復讐？……馬鹿げてる。",
         "en": "Machines wanting to avenge their families? That's absurd.",
-        "ru": "Машины хотят отомстить за свою семью? Это нелепо."
+        "ru": "Машины хотят отомстить за свою семью? Это нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav"
     },
     {
         "id": "M5403_S0030_G0170_001_pod153",
@@ -441,7 +480,8 @@
         "id": "M5403_S0030_G0200_001_a2",
         "jp": "機械生命体が家族の復讐……",
         "en": "What kind of machine tries to avenge its family?",
-        "ru": "Что же это за машина такая, что пытается мстить за свою семью?"
+        "ru": "Что же это за машина такая, что пытается мстить за свою семью?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/572.wav"
     },
     {
         "id": "M5403_S0030_G0210_001_pod042",
@@ -459,6 +499,7 @@
         "id": "M5403_S0030_G0230_001_a2",
         "jp": "……馬鹿げてる。",
         "en": "...Ridiculous.",
-        "ru": "...Нелепо."
+        "ru": "...Нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/573.wav"
     }
 ]

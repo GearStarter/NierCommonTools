@@ -9,31 +9,36 @@
         "id": "M3010_S0040_G0010_001_pod042",
         "jp": "推奨：敵機械生命体の破壊。",
         "en": "Proposal: Destroy the enemy machine.",
-        "ru": "Предложение: уничтожьте машину."
+        "ru": "Предложение: уничтожьте машину.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/805.wav"
     },
     {
         "id": "M3010_S0040_G0020_001_a2",
         "jp": "言われなくても！",
         "en": "Yeah, that's REAL helpful!",
-        "ru": "Ага, это ДЕЙСТВИТЕЛЬНО полезный совет!"
+        "ru": "Ага, это ДЕЙСТВИТЕЛЬНО полезный совет!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/409.wav"
     },
     {
         "id": "M3010_S0040_G0030_001_a2",
         "jp": "クソッ……固いな。",
         "en": "Damn! He's tough.",
-        "ru": "Чёрт! А она крепкая."
+        "ru": "Чёрт! А она крепкая.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/410.wav"
     },
     {
         "id": "M3010_S0040_G0040_001_a2",
         "jp": "Ｂモードで倒すか……",
         "en": "Time to bust out B-Mode.",
-        "ru": "Пора воспользоваться B-режимом."
+        "ru": "Пора воспользоваться B-режимом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/411.wav"
     },
     {
         "id": "M3010_S0040_G0050_001_pod042",
         "jp": "警告：核融合ユニットの出力を増大させるＢモードは危険。",
         "en": "Alert: The use of B-Mode to increase nuclear fusion output carries unacceptable levels of risk.",
-        "ru": "Внимание: использование B-режима увеличивает мощность термоядерного синтеза и несёт за собой неприемлемый риск."
+        "ru": "Внимание: использование B-режима увеличивает мощность термоядерного синтеза и несёт за собой неприемлемый риск.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/806.wav"
     },
     {
         "id": "M3010_S0040_G0060_001_pod",
@@ -45,30 +50,35 @@
         "id": "M3010_S0040_G0070_001_pod",
         "jp": "その証として、最新型のモデルからは機能削除されている。",
         "en": "The feature was removed from newer models for this reason.",
-        "ru": "По этой причине данный режим был удалён из более поздних моделей."
+        "ru": "По этой причине данный режим был удалён из более поздних моделей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/808.wav"
     },
     {
         "id": "M3010_S0040_G0080_001_a2",
         "jp": "旧型モデルで悪かったな。",
         "en": "Guess it's too bad I'm not a newer model.",
-        "ru": "Полагаю, это хорошо, что я не новая модель."
+        "ru": "Полагаю, это хорошо, что я не новая модель.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/412.wav"
     },
     {
         "id": "M3010_S0040_G0090_001_pod042",
         "jp": "ヨルハ機体Ａ２のような旧型のアタッカーモデルには射撃機能はない。",
         "en": "Older attacker models such as the YoRHa A2 are not equipped with ranged weaponry.",
-        "ru": "Более старые модели, такие как YoRHa A2, не оснащены оружием дальнего боя."
+        "ru": "Более старые модели, такие как YoRHa A2, не оснащены оружием дальнего боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/809.wav"
     },
     {
         "id": "M3010_S0040_G0100_001_pod042",
         "jp": "推奨：遠距離攻撃手段を持つ本随行支援ユニットに対する感謝の提示。",
         "en": "Proposal: Unit A2 should take advantage of her support Pod, which is equipped with helpful long-range attack features.",
-        "ru": "Предложение: единице A2 следует использовать своего бота, оснащённого атакующими функциями для дальнего боя."
+        "ru": "Предложение: единице A2 следует использовать своего бота, оснащённого атакующими функциями для дальнего боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/810.wav"
     },
     {
         "id": "M3010_S0040_G0110_001_a2",
         "jp": "恩着せがましい……",
         "en": "Don't patronize me.",
-        "ru": "Хватит уже поучать меня."
+        "ru": "Хватит уже поучать меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/413.wav"
     }
 ]

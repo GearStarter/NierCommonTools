@@ -3,13 +3,15 @@
         "id": "M1030_S0120_G0000_001_a2b",
         "jp": "何……こいつら？",
         "en": "What are those?",
-        "ru": "А это ещё кто?"
+        "ru": "А это ещё кто?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/496.wav"
     },
     {
         "id": "M1030_S0120_G0010_001_n02",
         "jp": "タのしイネ！楽しイネ！",
         "en": "Oh, wHat fUN! Oh, whaT FUn!",
-        "ru": "Ох, кАк же весЕЛО! Ох, кАк же весЕЛО!"
+        "ru": "Ох, кАк же весЕЛО! Ох, кАк же весЕЛО!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/831.wav"
     },
     {
         "id": "M1030_S0120_G0011_001_a2b",
@@ -21,49 +23,57 @@
         "id": "M1030_S0120_G0012_001_a9s",
         "jp": "なんていうか、異様な雰囲気ですね……",
         "en": "Well, this is weird.",
-        "ru": "Что ж, это довольно странно."
+        "ru": "Что ж, это довольно странно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1219.wav"
     },
     {
         "id": "M1030_S0120_G0020_001_n02",
         "jp": "喜ビヲ！分かち合オウ！",
         "en": "LeT's bE haPPy toGETHer!",
-        "ru": "Давайте веСелиТЬся вМЕСте!"
+        "ru": "Давайте веСелиТЬся вМЕСте!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/832.wav"
     },
     {
         "id": "M1030_S0120_G0030_001_n02",
         "jp": "アオウ！",
         "en": "TOgetHer! ToGethER!",
-        "ru": "ВМесТе! ВмЕсТЕ!"
+        "ru": "ВМесТе! ВмЕсТЕ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/833.wav"
     },
     {
         "id": "M1030_S0120_G0050_001_a9s",
         "jp": "ここのゲートは……開かないみたいですね。",
         "en": "This gate isn't going to open.",
-        "ru": "Вряд ли эти ворота откроются сами по себе."
+        "ru": "Вряд ли эти ворота откроются сами по себе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1223.wav"
     },
     {
         "id": "M1030_S0120_G0060_001_a9s",
         "jp": "どこか他の道から進めないかな……",
         "en": "Maybe there's another way around.",
-        "ru": "Возможно, есть другой путь внутрь."
+        "ru": "Возможно, есть другой путь внутрь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1226.wav"
     },
     {
         "id": "M1030_S0120_G0061_001_a9s",
         "jp": "どこか行けるルートが無いか探してみましょう。",
         "en": "Let's see if we can't find another route.",
-        "ru": "Давай поищем другой путь внутрь."
+        "ru": "Давай поищем другой путь внутрь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1228.wav"
     },
     {
         "id": "M1030_S0120_G0030_300_a9s",
         "jp": "別のルートで奥のエリアに行けるかもしれませんね。",
         "en": "Maybe there's another route that will take us deeper inside.",
-        "ru": "Быть может, есть другой путь, который приведёт нас вглубь здания."
+        "ru": "Быть может, есть другой путь, который приведёт нас вглубь здания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1221.wav"
     },
     {
         "id": "M1030_S0120_G0020_300_a9s",
         "jp": "この通路はどこに繋がっているんだろう……",
         "en": "Where does this corridor lead?",
-        "ru": "Куда ведёт этот коридор?"
+        "ru": "Куда ведёт этот коридор?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1220.wav"
     },
     {
         "id": "M1030_S0120_G0040_300_a9s",
@@ -75,31 +85,36 @@
         "id": "M1030_S0120_G0050_300_a9s",
         "jp": "あと、調査してない場所はここくらいでしょうか。",
         "en": "Pretty sure this is the last place we haven't searched.",
-        "ru": "Уверен, это последнее место, где мы ещё не искали."
+        "ru": "Уверен, это последнее место, где мы ещё не искали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1224.wav"
     },
     {
         "id": "M1030_S0120_G0060_300_a9s",
         "jp": "レジスタンスの反応はあの建物の方向から発信されています。",
         "en": "We're getting Resistance signals from that building over there.",
-        "ru": "Мы получаем сигналы членов Сопротивления прямиком из этого здания."
+        "ru": "Мы получаем сигналы членов Сопротивления прямиком из этого здания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1227.wav"
     },
     {
         "id": "M1030_S0120_G0121_001_a2b",
         "jp": "ここから先に進むには……",
         "en": "We need a way through.",
-        "ru": "Нам нужно попасть внутрь."
+        "ru": "Нам нужно попасть внутрь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/500.wav"
     },
     {
         "id": "M1030_S0120_G0122_001_a9s",
         "jp": "進めるルートが無いか、調べてみましょう。",
         "en": "Let's look around for a route we can take.",
-        "ru": "Давай осмотримся и поищем путь."
+        "ru": "Давай осмотримся и поищем путь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1230.wav"
     },
     {
         "id": "M1030_S0120_G0070_001_n02",
         "jp": "踊ロウ　オドロウ！",
         "en": "Let's dance! Let's dance!",
-        "ru": "Давайте танцевать! Давайте танцевать!"
+        "ru": "Давайте танцевать! Давайте танцевать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/834.wav"
     },
     {
         "id": "M1030_S0120_G0080_001_n02",
@@ -111,19 +126,22 @@
         "id": "M1030_S0120_G0090_001_n02",
         "jp": "アソボウ！　遊ボウ！",
         "en": "Play! Play! Let's play!",
-        "ru": "Играть! Играть! Давайте играть!"
+        "ru": "Играть! Играть! Давайте играть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/836.wav"
     },
     {
         "id": "M1030_S0120_G0100_001_n02",
         "jp": "歌おう　ウタオウ！",
         "en": "Let's sing! Let's sing!",
-        "ru": "Давайте споём! Давайте споём!"
+        "ru": "Давайте споём! Давайте споём!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/837.wav"
     },
     {
         "id": "M1030_S0120_G0110_001_n02",
         "jp": "あそボウ！　アソボウ！",
         "en": "Let's play! Play! Play!",
-        "ru": "Давайте играть! Играть! Играть!"
+        "ru": "Давайте играть! Играть! Играть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/838.wav"
     },
     {
         "id": "M1030_S0120_G0120_001_n02",
@@ -135,7 +153,8 @@
         "id": "M1030_S0120_G0150_001_a9s",
         "jp": "これだけ大型の武装した機械生命体……",
         "en": "These machines are heavily armed.",
-        "ru": "Эта машина довольно тяжело вооружена."
+        "ru": "Эта машина довольно тяжело вооружена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1233.wav"
     },
     {
         "id": "M1030_S0120_G0160_001_a9s",
@@ -147,13 +166,15 @@
         "id": "M1030_S0120_G0170_001_a9s",
         "jp": "あの戦車……放っておいていいんですか？",
         "en": "Do you really think it's a good idea to leave that tank behind?",
-        "ru": "Ты действительно считаешь, что просто проигнорировать этот танк — хорошая идея?"
+        "ru": "Ты действительно считаешь, что просто проигнорировать этот танк — хорошая идея?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1235.wav"
     },
     {
         "id": "M1030_S0120_G0180_001_a2b",
         "jp": "害が無いなら、戦うのは時間の無駄。",
         "en": "If they aren't hostile, fighting them is a waste of time.",
-        "ru": "Если они не враждебны, битва с ними — трата времени."
+        "ru": "Если они не враждебны, битва с ними — трата времени.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/501.wav"
     },
     {
         "id": "M1030_S0120_G0070_300_a2b",
@@ -165,25 +186,29 @@
         "id": "M1030_S0120_G0080_300_pod042",
         "jp": "回答：人類が建造した遊具。\\nレール上を高速で移動し、スリルを体感するもの。",
         "en": "Analysis: It is a device that propels humans on rails at high speeds for the purposes of amusement.",
-        "ru": "Анализ: это устройство перевозит людей по рельсам на высокой скорости в развлекательных целях."
+        "ru": "Анализ: это устройство перевозит людей по рельсам на высокой скорости в развлекательных целях.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/621.wav"
     },
     {
         "id": "M1030_S0120_G0090_300_pod042",
         "jp": "『絶叫マシン』とも呼ばれていた。",
         "en": "It was commonly referred to as a \"roller coaster.\"",
-        "ru": "Подобное было принято называть \"американскими горками\"."
+        "ru": "Подобное было принято называть \"американскими горками\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/622.wav"
     },
     {
         "id": "M1030_S0120_G0100_300_a9s",
         "jp": "人間って変な生き物なんだな……",
         "en": "Humans sure are strange creatures...",
-        "ru": "Люди, определённо, странные создания..."
+        "ru": "Люди, определённо, странные создания...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1229.wav"
     },
     {
         "id": "M5920_S0060_G0000_001_a9s",
         "jp": "……ところで、２Ｂ。",
         "en": "Hey, 2B?",
-        "ru": "Кстати, 2B..."
+        "ru": "Кстати, 2B...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/340.wav"
     },
     {
         "id": "M5920_S0060_G0010_001_a2b",
@@ -195,7 +220,8 @@
         "id": "M5920_S0060_G0020_001_a9s",
         "jp": "僕の事をよく知る親しい人は、僕の事を『ナインズ』って呼ぶんですけど……",
         "en": "People who know me well usually call me \"Nines,\" so...",
-        "ru": "Мои знакомые обычно зовут меня Девятым, так что..."
+        "ru": "Мои знакомые обычно зовут меня Девятым, так что...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/341.wav"
     },
     {
         "id": "M5920_S0060_G0030_001_a2b",
@@ -207,25 +233,29 @@
         "id": "M5920_S0060_G0040_001_a9s",
         "jp": "そろそろ２Ｂもどうですか？",
         "en": "So what do you think?",
-        "ru": "Ну, так что?"
+        "ru": "Ну, так что?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/342.wav"
     },
     {
         "id": "M5920_S0060_G0050_001_a2b",
         "jp": "何が？",
         "en": "Of?",
-        "ru": "Что?"
+        "ru": "Что?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1004.wav"
     },
     {
         "id": "M5920_S0060_G0060_001_a9s",
         "jp": "だから『ナインズ』って呼んでくれていいんですよ？",
         "en": "I mean, if you want to call me Nines, it's totally okay.",
-        "ru": "Я имею в виду, если хочешь, то можешь запросто звать меня Девятым."
+        "ru": "Я имею в виду, если хочешь, то можешь запросто звать меня Девятым.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/343.wav"
     },
     {
         "id": "M5920_S0060_G0070_001_a2b",
         "jp": "まだ、いい。",
         "en": "I'm good.",
-        "ru": "Меня и так всё устраивает."
+        "ru": "Меня и так всё устраивает.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1005.wav"
     },
     {
         "id": "M5920_S0060_G0080_001_a9s",

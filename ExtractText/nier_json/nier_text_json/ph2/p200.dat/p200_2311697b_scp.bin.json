@@ -3,7 +3,8 @@
         "id": "M1090_S0260_G0000_001_eve",
         "jp": "どうしてニイチゃんを殺しタッ！！",
         "en": "Why did you kill my brother!?",
-        "ru": "Зачем вы убили моего брата?!"
+        "ru": "Зачем вы убили моего брата?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1147.wav"
     },
     {
         "id": "M1090_S0260_G0010_001_eve",
@@ -21,7 +22,8 @@
         "id": "M1090_S0260_G0030_001_pod042",
         "jp": "膨大なエネルギー反応を確認。",
         "en": "Alert: Massive energy signature detected.",
-        "ru": "Внимание: обнаружен всплеск энергии."
+        "ru": "Внимание: обнаружен всплеск энергии.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/704.wav"
     },
     {
         "id": "M1090_S0260_G0040_001_a9s",
@@ -45,19 +47,22 @@
         "id": "M1090_S0260_G0070_001_a9s",
         "jp": "このままじゃ埒が明かない！",
         "en": "Damn it! We'll never get anywhere like this.",
-        "ru": "Чёрт! Нам такое никогда и ни за что не одолеть."
+        "ru": "Чёрт! Нам такое никогда и ни за что не одолеть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1592.wav"
     },
     {
         "id": "M1090_S0260_G0080_001_a9s",
         "jp": "イヴにハッキングして停止させてみる！",
         "en": "I'm going to try hacking into Eve and shutting him down!",
-        "ru": "Я собираюсь взломать Еву и отрубить его от сети!"
+        "ru": "Я собираюсь взломать Еву и отрубить его от сети!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1593.wav"
     },
     {
         "id": "M1090_S0260_G0090_001_a9s",
         "jp": "２Ｂ！援護して！",
         "en": "Back me up, 2B!",
-        "ru": "Прикрой меня, 2B!"
+        "ru": "Прикрой меня, 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1594.wav"
     },
     {
         "id": "M1090_S0260_G0100_001_a2b",

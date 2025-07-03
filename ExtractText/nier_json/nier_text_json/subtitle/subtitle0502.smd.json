@@ -3,37 +3,43 @@
         "id": "M1070_S1000_H0000_001_a9s",
         "jp": "機械達はそれぞれのタカラモノを大事にしていました。",
         "en": "Each of the machines treated their treasures with great care.",
-        "ru": "Каждая машина относилась к своим сокровищам с большой заботой."
+        "ru": "Каждая машина относилась к своим сокровищам с большой заботой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1475.wav"
     },
     {
         "id": "M1070_S1000_H0010_001_a9s",
         "jp": "ある機械にとってのタカラモノは『家族』でした。",
         "en": "One treasured family above all else.",
-        "ru": "Одна превыше всего дорожила семьёй."
+        "ru": "Одна превыше всего дорожила семьёй.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1476.wav"
     },
     {
         "id": "M1070_S1000_H0020_001_a9s",
         "jp": "ある機械にとってのタカラモノは『兄弟』でした。",
         "en": "Another treasured its older sibling.",
-        "ru": "Другая дорожила старшим братом."
+        "ru": "Другая дорожила старшим братом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1477.wav"
     },
     {
         "id": "M1070_S1000_H0030_001_a9s",
         "jp": "ある機械にとってのタカラモノは『美しさ』でした。",
         "en": "Another treasured its own beauty.",
-        "ru": "А третья дорожила своей красотой."
+        "ru": "А третья дорожила своей красотой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1478.wav"
     },
     {
         "id": "M1070_S1000_H0040_001_a9s",
         "jp": "そして、ある機械にとってのタカラモノは……",
         "en": "But one more machine treasured something unique above all else...",
-        "ru": "Но ещё одна машина превыше всего дорожила кое-чем уникальным..."
+        "ru": "Но ещё одна машина превыше всего дорожила кое-чем уникальным...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1479.wav"
     },
     {
         "id": "M1070_S1000_H0050_001_a9s",
         "jp": "『憎悪』でした。",
         "en": "Hate.",
-        "ru": "Ненавистью."
+        "ru": "Ненавистью.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1480.wav"
     },
     {
         "id": "M1070_S1000_H0060_001_adam",

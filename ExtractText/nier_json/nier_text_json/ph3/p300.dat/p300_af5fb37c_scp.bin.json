@@ -3,37 +3,43 @@
         "id": "M3050_S0038_G0000_001_ppl",
         "jp": "どうしたの！？その傷……",
         "en": "Oh dear. What happened to you?",
-        "ru": "Ох, дорогуша. Что с тобой случилось?"
+        "ru": "Ох, дорогуша. Что с тобой случилось?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/649.wav"
     },
     {
         "id": "M3050_S0038_G0010_001_pod153",
         "jp": "戦闘により負傷。ＮＦＣＳが機能していない。",
         "en": "Wounded in battle. NFCS not functioning.",
-        "ru": "Ранен в битве. МОББ перестал функционировать."
+        "ru": "Ранен в битве. МОББ перестал функционировать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/327.wav"
     },
     {
         "id": "M3050_S0038_G0020_001_dbl",
         "jp": "よくそんな状態でここまで来られたな……",
         "en": "I'm amazed you were even able to drag yourself here.",
-        "ru": "Я удивлена, как ты только смог самостоятельно прийти сюда."
+        "ru": "Я удивлена, как ты только смог самостоятельно прийти сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/947.wav"
     },
     {
         "id": "M3050_S0038_G0040_001_dbl",
         "jp": "調整に時間がかかる。ちょっと待っててくれ。",
         "en": "This is gonna take a bit, so just hang tight.",
-        "ru": "Это займёт немного времени, так что потерпи."
+        "ru": "Это займёт немного времени, так что потерпи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/948.wav"
     },
     {
         "id": "M3050_S0038_G0050_001_ppl",
         "jp": "酷い……運動野が虫食いだらけになってる。",
         "en": "This is terrible! Your motor cortex is full of holes.",
-        "ru": "Ужас! В моторном кортексе сплошные дыры."
+        "ru": "Ужас! В моторном кортексе сплошные дыры.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/651.wav"
     },
     {
         "id": "M3050_S0038_G0060_001_ppl",
         "jp": "これじゃあ、歩くのも大変だったでしょう。",
         "en": "I can't believe you even managed to walk here.",
-        "ru": "Поверить не могу, что ты смог прийти сюда."
+        "ru": "Поверить не могу, что ты смог прийти сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/652.wav"
     },
     {
         "id": "M3050_S0038_G0075_001_system",

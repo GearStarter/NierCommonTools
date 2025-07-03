@@ -3,7 +3,8 @@
         "id": "M5910_S0300_G0000_001_a2",
         "jp": "機械生命体だらけ……",
         "en": "There's machines everywhere...",
-        "ru": "Здесь кругом машины..."
+        "ru": "Здесь кругом машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/634.wav"
     },
     {
         "id": "M5910_S0300_G0010_001_pod042",
@@ -21,13 +22,15 @@
         "id": "M5910_S0300_G0030_001_pod042",
         "jp": "疑問：ヨルハ機体Ａ２の予測能力。",
         "en": "This Pod has concerns regarding YoRHa unit A2's predictive skills.",
-        "ru": "У данного Бота есть опасения, касательно предсказуемости единицы YoRHa A2."
+        "ru": "У данного Бота есть опасения, касательно предсказуемости единицы YoRHa A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/66.wav"
     },
     {
         "id": "M5910_S0300_G0040_001_a2",
         "jp": "そのうち、ブッ壊す……",
         "en": "I'd be more concerned about me smashing your face if I were you.",
-        "ru": "Будь я тобой, больше бы переживала о возможности того, что я тебе вмажу."
+        "ru": "Будь я тобой, больше бы переживала о возможности того, что я тебе вмажу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/635.wav"
     },
     {
         "id": "M5910_S0300_G0050_001_pascal",
@@ -153,25 +156,29 @@
         "id": "M5910_S0310_G0060_001_a2",
         "jp": "持ってきたぞ。",
         "en": "Here's your stuff.",
-        "ru": "Вот необходимый материал."
+        "ru": "Вот необходимый материал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/639.wav"
     },
     {
         "id": "M5910_S0310_G0070_001_pascal",
         "jp": "ああ、Ａ２さん。ありがとうございます。",
         "en": "Ah! Thank you so much.",
-        "ru": "Ах! Большое спасибо."
+        "ru": "Ах! Большое спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/591.wav"
     },
     {
         "id": "M5910_S0310_G0080_001_pascal",
         "jp": "今からフィルターを作って来ますので、待っててください！",
         "en": "I'll make a filter right away. Please just give me one moment.",
-        "ru": "Я сейчас же соберу фильтр. Дайте мне немного времени."
+        "ru": "Я сейчас же соберу фильтр. Дайте мне немного времени.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/592.wav"
     },
     {
         "id": "M5910_S0310_G0090_001_a2",
         "jp": "飛んだ……",
         "en": "He can fly?",
-        "ru": "Он может летать?"
+        "ru": "Он может летать?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/640.wav"
     },
     {
         "id": "M5910_S0310_G0100_001_pod042",
@@ -189,7 +196,8 @@
         "id": "M5910_S0310_G0000_001_pod042",
         "jp": "『剛性植物の樹皮』の採取可能な場所をマーク。",
         "en": "Areas where rigid tree bark is available marked on map.",
-        "ru": "Места с твёрдой древесной корой отмечены на карте."
+        "ru": "Места с твёрдой древесной корой отмечены на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/67.wav"
     },
     {
         "id": "M5910_S0310_G0010_001_a2",
@@ -207,7 +215,8 @@
         "id": "M5910_S0310_G0030_001_pod042",
         "jp": "推奨：早急な友好関係の締結。",
         "en": "Proposal: Form a friendly relationship immediately.",
-        "ru": "Предложение: немедленно выстройте дружеские отношения."
+        "ru": "Предложение: немедленно выстройте дружеские отношения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/69.wav"
     },
     {
         "id": "M5910_S0310_G0040_001_a2",
@@ -219,6 +228,7 @@
         "id": "M5910_S0310_G0050_001_a2",
         "jp": "あの機械生命体の所に行くか……",
         "en": "Guess I'll go back to that machine...",
-        "ru": "Полагаю, мне стоит вернуться к той машине..."
+        "ru": "Полагаю, мне стоит вернуться к той машине...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/638.wav"
     }
 ]

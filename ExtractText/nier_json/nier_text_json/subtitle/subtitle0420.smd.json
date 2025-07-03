@@ -3,49 +3,57 @@
         "id": "M1060_S0930_S0000_201_a9s",
         "jp": "その子は、大きな力を持っていました。",
         "en": "The child held sway over enormous strength.",
-        "ru": "Ребенок обладал огромной силой."
+        "ru": "Ребенок обладал огромной силой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1462.wav"
     },
     {
         "id": "M1060_S0930_S0010_201_a9s",
         "jp": "でも、その子は、少し壊れていました。",
         "en": "But sadly, he was also a little bit broken...",
-        "ru": "Но, к сожалению, он был несколько дефективным..."
+        "ru": "Но, к сожалению, он был несколько дефективным...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1463.wav"
     },
     {
         "id": "M1060_S0930_S0020_201_a9s",
         "jp": "まわりの人を傷つけてばかりいました。",
         "en": "He spent his long days hurting those around him.",
-        "ru": "Он проводил свои долгие дни, причиняя боль окружающим."
+        "ru": "Он проводил свои долгие дни, причиняя боль окружающим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1464.wav"
     },
     {
         "id": "M1060_S0930_S0030_201_a9s",
         "jp": "その子は、いい子になろうとがんばりました。",
         "en": "He tried his best to be good and kind.",
-        "ru": "Он изо всех сил старался быть добрым и хорошим."
+        "ru": "Он изо всех сил старался быть добрым и хорошим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1465.wav"
     },
     {
         "id": "M1060_S0930_S0040_201_a9s",
         "jp": "でも、その子は、上手くいい子にはなれませんでした。",
         "en": "But despite his efforts, things never seemed to turn out.",
-        "ru": "Но, несмотря на его усилия, ничего хорошего из этого никогда не выходило."
+        "ru": "Но, несмотря на его усилия, ничего хорошего из этого никогда не выходило.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1466.wav"
     },
     {
         "id": "M1060_S0930_S0050_201_a9s",
         "jp": "その子は、要らない子だと言われました。",
         "en": "They told him he was unwanted.",
-        "ru": "Они сказали ему, что он им не нужен."
+        "ru": "Они сказали ему, что он им не нужен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1467.wav"
     },
     {
         "id": "M1060_S0930_S0060_201_a9s",
         "jp": "その子は、深い海に捨てられました。",
         "en": "They abandoned him in the deep, dark ocean.",
-        "ru": "Они бросили его во тьму пучины океана."
+        "ru": "Они бросили его во тьму пучины океана.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1468.wav"
     },
     {
         "id": "M1060_S0930_S0070_201_a9s",
         "jp": "深い海の中でその子は叫びます。",
         "en": "And from the cold at the bottom of the sea, he cried out...",
-        "ru": "И от холода на дне океана из его уст вырвался крик..."
+        "ru": "И от холода на дне океана из его уст вырвался крик...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1469.wav"
     },
     {
         "id": "M1060_S0930_S0080_201_a9s",
@@ -75,6 +83,7 @@
         "id": "M1060_S0930_S0120_201_a9s",
         "jp": "その子の声が、おかあさんに届く事はありませんでした。",
         "en": "But his voice never reached his mother.",
-        "ru": "Но его голос так и не достиг матери."
+        "ru": "Но его голос так и не достиг матери.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1474.wav"
     }
 ]

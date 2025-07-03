@@ -15,31 +15,36 @@
         "id": "M1050_S0185_S0020_201_smallrobot",
         "jp": "ワシらにエネルギーを、くれた王様が……",
         "en": "The king who gave all for us...",
-        "ru": "Король, который сделал всё для нас..."
+        "ru": "Король, который сделал всё для нас...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/872.wav"
     },
     {
         "id": "M1050_S0185_S0030_201_smallrobot",
         "jp": "優しい王様が、死んじまったべ。",
         "en": "So benevolent and kind... And now he's dead.",
-        "ru": "Великодушный и добрый... Теперь его не стало."
+        "ru": "Великодушный и добрый... Теперь его не стало.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/873.wav"
     },
     {
         "id": "M1050_S0185_S0040_201_smallrobot",
         "jp": "悲しいなあ。",
         "en": "This sure is sad.",
-        "ru": "Это очень печально."
+        "ru": "Это очень печально.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/874.wav"
     },
     {
         "id": "M1050_S0185_S0050_201_smallrobot",
         "jp": "んだ……悲しいなあ。",
         "en": "It sure is.",
-        "ru": "Это точно."
+        "ru": "Это точно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/875.wav"
     },
     {
         "id": "M1050_S0185_S0060_201_smallrobot",
         "jp": "でも、ワシら王国騎士団にはやることがある。",
         "en": "But we Royal Knights still have a mission.",
-        "ru": "Но у Королевских Рыцарей все ещё есть задание."
+        "ru": "Но у Королевских Рыцарей все ещё есть задание.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/876.wav"
     },
     {
         "id": "M1050_S0185_S0070_201_smallrobot",
@@ -51,18 +56,21 @@
         "id": "M1050_S0185_S0080_201_smallrobot",
         "jp": "この子を次の王様に育てる、だーいじな任務だべ。",
         "en": "And now we must raise this child so he might one day be our new king.",
-        "ru": "Мы должны взрастить это дитя, дабы однажды он стал новым королем."
+        "ru": "Мы должны взрастить это дитя, дабы однажды он стал новым королем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/878.wav"
     },
     {
         "id": "M1050_S0185_S0090_201_smallrobot",
         "jp": "ちゃんと、育ててやらねばなあ……",
         "en": "He deserves a royal upbringing...",
-        "ru": "Он заслуживает королевского воспитания..."
+        "ru": "Он заслуживает королевского воспитания...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/879.wav"
     },
     {
         "id": "M1050_S0185_S0100_201_smallrobot",
         "jp": "ちゃんと、守ってやらねばなあ……",
         "en": "He deserves protection...",
-        "ru": "Он заслуживает защиты..."
+        "ru": "Он заслуживает защиты...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/880.wav"
     }
 ]

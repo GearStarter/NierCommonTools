@@ -9,7 +9,8 @@
         "id": "M3010_S0080_G0010_001_pod042",
         "jp": "EMP攻撃の衝撃によってＡ２のメモリ空間にハッキング被害が生じた模様。",
         "en": "The EMP attack appears to have caused hacking damage to unit A2's memory modules.",
-        "ru": "ЭМИ атака при взломе вызвала повреждения модуля памяти единицы A2."
+        "ru": "ЭМИ атака при взломе вызвала повреждения модуля памяти единицы A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/811.wav"
     },
     {
         "id": "M3010_S0080_G0020_001_a2",
@@ -21,19 +22,22 @@
         "id": "M3010_S0080_G0030_001_a2",
         "jp": "てか、何でお前がここにいるんだ？",
         "en": "But why are YOU here?",
-        "ru": "Но почему ТЫ здесь?"
+        "ru": "Но почему ТЫ здесь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/416.wav"
     },
     {
         "id": "M3010_S0080_G0040_001_pod042",
         "jp": "随行支援ユニットは支援対象機に不具合があった場合、\\n内部モニタリングの義務がある為。",
         "en": "Support units are required to monitor our targets' internal systems in case of breakdown.",
-        "ru": "Единицам поддержки необходимо следить за внутренними системами сопровождаемых единиц в случае поломки."
+        "ru": "Единицам поддержки необходимо следить за внутренними системами сопровождаемых единиц в случае поломки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/812.wav"
     },
     {
         "id": "M3010_S0080_G0050_001_a2",
         "jp": "勝手に人の頭に入ってくるな……",
         "en": "Next time ask me before you go poking around in my head.",
-        "ru": "В следующий раз предупреди меня, прежде чем сунешься в мою голову."
+        "ru": "В следующий раз предупреди меня, прежде чем сунешься в мою голову.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/417.wav"
     },
     {
         "id": "M3010_S0080_G0060_001_a2",
@@ -57,13 +61,15 @@
         "id": "M3010_S0080_G0090_001_a2",
         "jp": "何だ？……これは。",
         "en": "What's all this about?",
-        "ru": "Что всё это значит?"
+        "ru": "Что всё это значит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/419.wav"
     },
     {
         "id": "M3010_S0080_G0100_001_pod042",
         "jp": "敵機体からのハッキングにより、\\n敵のメモリ空間との強制融合が為されている。",
         "en": "The hacking has caused the enemy's memories to merge with your own.",
-        "ru": "Взлом вызвал слияние воспоминаний врага с вашими."
+        "ru": "Взлом вызвал слияние воспоминаний врага с вашими.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/813.wav"
     },
     {
         "id": "M3010_S0080_G0110_001_cmd",
@@ -81,13 +87,15 @@
         "id": "M3010_S0080_G0130_001_pod042",
         "jp": "本データは２Ｂの記憶データの断片。",
         "en": "This is a fragment of unit 2B's memory data.",
-        "ru": "Это фрагмент данных памяти 2B."
+        "ru": "Это фрагмент данных памяти 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/814.wav"
     },
     {
         "id": "M3010_S0080_G0140_001_pod042",
         "jp": "生存時にヨルハ部隊司令官より受けていた命令。",
         "en": "It is an order she received from the YoRHa Commander when she was still alive.",
-        "ru": "Это приказ, полученный ею от Командора YoRHa, когда она была ещё жива."
+        "ru": "Это приказ, полученный ею от Командора YoRHa, когда она была ещё жива.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/815.wav"
     },
     {
         "id": "M3010_S0080_G0150_001_n4",
@@ -111,19 +119,22 @@
         "id": "M3010_S0080_G0180_001_pod042",
         "jp": "当該データはヨルハ機体Ａ２自身の記憶と認定。",
         "en": "Memory data recognized as belonging to YoRHa unit A2 herself.",
-        "ru": "Данный блок памяти принадлежит самой единице YoRHa A2."
+        "ru": "Данный блок памяти принадлежит самой единице YoRHa A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/816.wav"
     },
     {
         "id": "M3010_S0080_G0190_001_a2",
         "jp": "うるさいっ！さっさと接続を切れッ！！",
         "en": "Shut up and get out of my head already!",
-        "ru": "Заткнись и убирайся уже из моей головы!"
+        "ru": "Заткнись и убирайся уже из моей головы!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/421.wav"
     },
     {
         "id": "M3010_S0080_G0200_001_n02",
         "jp": "ママ……ママ……",
         "en": "Mama... Mama...",
-        "ru": "Мама... мама..."
+        "ru": "Мама... мама...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1006.wav"
     },
     {
         "id": "M3010_S0080_G0210_001_n02",

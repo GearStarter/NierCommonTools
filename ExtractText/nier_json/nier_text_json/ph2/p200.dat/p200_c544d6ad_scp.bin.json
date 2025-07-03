@@ -9,7 +9,8 @@
         "id": "M1050_S0020_G0010_001_pascal",
         "jp": "ああ、９Ｓさんと２Ｂさん。",
         "en": "Oh! It's 9S and 2B, yes?",
-        "ru": "О! Это же 9S и 2B, да?"
+        "ru": "О! Это же 9S и 2B, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/396.wav"
     },
     {
         "id": "M1050_S0020_G0020_001_pascal",
@@ -21,13 +22,15 @@
         "id": "M1050_S0020_G0030_001_a2b",
         "jp": "いくつか貴方に聞きたい事がある。",
         "en": "We need to talk.",
-        "ru": "Нам нужно поговорить."
+        "ru": "Нам нужно поговорить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/552.wav"
     },
     {
         "id": "M1050_S0020_G0040_001_pascal",
         "jp": "はい。私に回答出来る事でしたら、なんなりと。",
         "en": "Of course. I'll help however I can.",
-        "ru": "Конечно. Помогу, чем смогу."
+        "ru": "Конечно. Помогу, чем смогу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/398.wav"
     },
     {
         "id": "M1050_S0020_G0050_001_sele",
@@ -165,7 +168,8 @@
         "id": "M1050_S0040_G0100_001_a2b",
         "jp": "この村以外に、ネットワークから切り離された機械生命体はいるの？",
         "en": "Aside from this village, are there any other machines that are cut off from the network?",
-        "ru": "Интересно, есть ли другие машины помимо этой деревни, которые отключены от сети?"
+        "ru": "Интересно, есть ли другие машины помимо этой деревни, которые отключены от сети?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/554.wav"
     },
     {
         "id": "M1050_S0040_G0110_001_pascal",
@@ -177,13 +181,15 @@
         "id": "M1050_S0040_G0120_001_pascal",
         "jp": "先日、お二人に倒していただいた遊園地の歌姫がそうでしたね。",
         "en": "I suppose that unpleasant songstress you so kindly defeated in the amusement park wasn't part of the network.",
-        "ru": "Полагаю, что та певица, которую ты уничтожила в парке развлечений, тоже была вне сети."
+        "ru": "Полагаю, что та певица, которую ты уничтожила в парке развлечений, тоже была вне сети.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/406.wav"
     },
     {
         "id": "M1050_S0040_G0130_001_a9s",
         "jp": "歌姫……あれが？",
         "en": "You mean that singing thing?",
-        "ru": "Ты имеешь в виду ту поющую жестянку?"
+        "ru": "Ты имеешь в виду ту поющую жестянку?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1354.wav"
     },
     {
         "id": "M1050_S0040_G0140_001_pascal",
@@ -195,49 +201,57 @@
         "id": "M1050_S0040_G0150_001_a2b",
         "jp": "森の国？",
         "en": "Forest kingdom?",
-        "ru": "Лесное королевство?"
+        "ru": "Лесное королевство?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/555.wav"
     },
     {
         "id": "M1050_S0040_G0160_001_pascal",
         "jp": "ええ。この近くに広い森があるのですが、",
         "en": "Yes. It's a vast woodland area not far from here.",
-        "ru": "Да. Это место в лесу, неподалёку отсюда."
+        "ru": "Да. Это место в лесу, неподалёку отсюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/408.wav"
     },
     {
         "id": "M1050_S0040_G0170_001_pascal",
         "jp": "そこに機械生命体達が集まって国を作っているのです。",
         "en": "There's a group of machines there attempting to build a nation of sorts.",
-        "ru": "Там обитает группа машин, которая основала своё королевство."
+        "ru": "Там обитает группа машин, которая основала своё королевство.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/409.wav"
     },
     {
         "id": "M1050_S0040_G0180_001_pascal",
         "jp": "とても排他的なグループで、我々が近づく事も出来ません……",
         "en": "They're quite hostile to outsiders, however. We can't so much as go near the place.",
-        "ru": "Однако они очень враждебны к чужакам. Мы не сможем подойти слишком близко."
+        "ru": "Однако они очень враждебны к чужакам. Мы не сможем подойти слишком близко.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/410.wav"
     },
     {
         "id": "M1050_S0040_G0190_001_a2b",
         "jp": "場所は？",
         "en": "Where is it?",
-        "ru": "Где оно находится?"
+        "ru": "Где оно находится?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/556.wav"
     },
     {
         "id": "M1050_S0040_G0200_001_pascal",
         "jp": "廃墟都市の北東にあります。",
         "en": "Northeast of the city ruins.",
-        "ru": "На северо-востоке от руин города."
+        "ru": "На северо-востоке от руин города.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/411.wav"
     },
     {
         "id": "M1050_S0040_G0210_001_pascal",
         "jp": "大きな商業施設の廃墟から行けるはずですが……",
         "en": "You should be able to reach it by passing through the ruins of the commercial facility.",
-        "ru": "Вы сможете добраться до него, если проберётесь через торговый центр."
+        "ru": "Вы сможете добраться до него, если проберётесь через торговый центр.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/412.wav"
     },
     {
         "id": "M1050_S0040_G0220_001_pascal",
         "jp": "あのあたりは最近物騒なので、お気をつけください。",
         "en": "If you go, however, be careful. Things have been rather rough there lately.",
-        "ru": "Если отправишься туда, то будь очень осторожна. В последнее время там очень опасно."
+        "ru": "Если отправишься туда, то будь очень осторожна. В последнее время там очень опасно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/413.wav"
     },
     {
         "id": "M1050_S0040_G0230_001_a9s",

@@ -33,7 +33,8 @@
         "id": "M6050_S0010_G1320_300_villager",
         "jp": "大丈夫でしたカ？",
         "en": "Are you okay?",
-        "ru": "Вы в порядке?"
+        "ru": "Вы в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1670.wav"
     },
     {
         "id": "M6050_S0010_G1330_300_villager",
@@ -441,30 +442,35 @@
         "id": "M1040_S0030_G0020_001_n02",
         "jp": "ヤメテ！殺さなイデ！",
         "en": "Stop! Do not kill!",
-        "ru": "Стой! Не убивай!"
+        "ru": "Стой! Не убивай!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/846.wav"
     },
     {
         "id": "M1040_S0030_G0030_001_n02",
         "jp": "戦わない！戦ワナい！",
         "en": "No fighting! No fighting!",
-        "ru": "Не дерись! Не дерись!"
+        "ru": "Не дерись! Не дерись!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/847.wav"
     },
     {
         "id": "M1040_S0030_G0040_001_n02",
         "jp": "殺さナイデ！殺さナイで！",
         "en": "Don't kill! Don't kill!",
-        "ru": "Не убивай! Не убивай!"
+        "ru": "Не убивай! Не убивай!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/848.wav"
     },
     {
         "id": "M1040_S0030_G0050_001_n02",
         "jp": "悪イコトしてない……！",
         "en": "We have done nothing bad!",
-        "ru": "Мы не делали ничего плохого!"
+        "ru": "Мы не делали ничего плохого!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/849.wav"
     },
     {
         "id": "M1040_S0030_G0060_001_n02",
         "jp": "ごメンナさい！ゴメンなさい！",
         "en": "I'm sorry! I'm sorry!",
-        "ru": "Прости! Прости!"
+        "ru": "Прости! Прости!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/850.wav"
     }
 ]

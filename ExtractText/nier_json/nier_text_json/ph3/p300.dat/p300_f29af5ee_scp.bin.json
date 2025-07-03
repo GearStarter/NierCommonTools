@@ -3,19 +3,22 @@
         "id": "M3020_S0026_G0000_001_a9s",
         "jp": "ポッド。",
         "en": "Hey, Pod.",
-        "ru": "Эй, Бот."
+        "ru": "Эй, Бот.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1743.wav"
     },
     {
         "id": "M3020_S0026_G0010_001_a9s",
         "jp": "僕が寝てた間の状況報告。",
         "en": "Give me a rundown on what happened while I was resting.",
-        "ru": "Расскажи мне что случилось, пока я был в отключке."
+        "ru": "Расскажи мне что случилось, пока я был в отключке.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1744.wav"
     },
     {
         "id": "M3020_S0026_G0020_001_pod153",
         "jp": "報告：先ほどアクセスした巨大構造物について。",
         "en": "Affirmative. Relevant data concerns the massive facility you just accessed.",
-        "ru": "Подтверждаю. Данные будут о массивной постройке, к которой вы только что обращались."
+        "ru": "Подтверждаю. Данные будут о массивной постройке, к которой вы только что обращались.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/272.wav"
     },
     {
         "id": "M3020_S0026_G0030_001_pod153",
@@ -27,13 +30,15 @@
         "id": "M3020_S0026_G0040_001_pod153",
         "jp": "また、構造物から射出された大型ユニットが\\n数カ所にある事が判明している。",
         "en": "Additionally, the large structural units launched from the facility have been detected in multiple areas.",
-        "ru": "Кроме того, из постройки были запущены гигантские модули, их обнаружили в нескольких зонах."
+        "ru": "Кроме того, из постройки были запущены гигантские модули, их обнаружили в нескольких зонах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/274.wav"
     },
     {
         "id": "M3020_S0026_G0050_001_a9s",
         "jp": "大型ユニット？",
         "en": "Large structural units?",
-        "ru": "Гигантские модули?"
+        "ru": "Гигантские модули?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1746.wav"
     },
     {
         "id": "M3020_S0026_G0060_001_pod153",
@@ -45,7 +50,8 @@
         "id": "M3020_S0026_G0070_001_a9s",
         "jp": "ユニットの目的は？",
         "en": "What do these units do?",
-        "ru": "Каково предназначение этих модулей?"
+        "ru": "Каково предназначение этих модулей?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1747.wav"
     },
     {
         "id": "M3020_S0026_G0080_001_pod153",
@@ -57,13 +63,15 @@
         "id": "M3020_S0026_G0090_001_a9s",
         "jp": "……Ａ２は？",
         "en": "Where's A2?",
-        "ru": "Где A2?"
+        "ru": "Где A2?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1748.wav"
     },
     {
         "id": "M3020_S0026_G0100_001_pod153",
         "jp": "現在位置・生死共に不明。",
         "en": "Unit A2's position and current status are unknown.",
-        "ru": "Позиция единицы A2 и её статус неизвестны."
+        "ru": "Позиция единицы A2 и её статус неизвестны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/277.wav"
     },
     {
         "id": "M3020_S0026_G0110_001_a9s",
@@ -81,13 +89,15 @@
         "id": "M3020_S0026_G0130_001_pod153",
         "jp": "目的の提示。",
         "en": "Proposal: Unit 9S should state his intentions.",
-        "ru": "Предложение: единице 9S следует изложить свои намерения."
+        "ru": "Предложение: единице 9S следует изложить свои намерения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/278.wav"
     },
     {
         "id": "M3020_S0026_G0140_001_a9s",
         "jp": "機械生命体の殲滅。",
         "en": "I'm going to wipe out the machines.",
-        "ru": "Я собираюсь прикончить машины."
+        "ru": "Я собираюсь прикончить машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1751.wav"
     },
     {
         "id": "M3020_S0026_G0150_001_pod153",
@@ -99,43 +109,50 @@
         "id": "M3020_S0026_G0160_001_pod153",
         "jp": "推奨：レジスタンス部隊への合流と、命令系統の再確認。",
         "en": "Proposal: Rendezvous with Resistance forces and confirm chain of command.",
-        "ru": "Предложение: объединитесь с силами Сопротивления и соблюдайте субординацию."
+        "ru": "Предложение: объединитесь с силами Сопротивления и соблюдайте субординацию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/280.wav"
     },
     {
         "id": "M3020_S0026_G0170_001_a9s",
         "jp": "……命令だからやるんじゃない。",
         "en": "I don't care about chain of command.",
-        "ru": "Плевал я на эту субординацию."
+        "ru": "Плевал я на эту субординацию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1752.wav"
     },
     {
         "id": "M3020_S0026_G0180_001_a9s",
         "jp": "僕が、決めたんだ。",
         "en": "I have one goal now.",
-        "ru": "Теперь у меня своя цель."
+        "ru": "Теперь у меня своя цель.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1753.wav"
     },
     {
         "id": "M3020_S0026_G0190_001_a9s",
         "jp": "機械生命体は殲滅する。",
         "en": "I'm going to kill every last machine.",
-        "ru": "Я собираюсь убить все машины."
+        "ru": "Я собираюсь убить все машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1754.wav"
     },
     {
         "id": "M3020_S0026_G0200_001_a9s",
         "jp": "そして……",
         "en": "And then...",
-        "ru": "А затем..."
+        "ru": "А затем...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1755.wav"
     },
     {
         "id": "M3020_S0026_G0210_001_a9s",
         "jp": "Ａ２を、殺す。",
         "en": "I'm going to kill A2.",
-        "ru": "Я убью и A2."
+        "ru": "Я убью и A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1756.wav"
     },
     {
         "id": "M3020_S0040_G0000_001_a9s",
         "jp": "あれが……その大型ユニット？",
         "en": "Is that one of our large units?",
-        "ru": "Это один из тех гигантских модулей?"
+        "ru": "Это один из тех гигантских модулей?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1757.wav"
     },
     {
         "id": "M3020_S0040_G0010_001_pod153",
@@ -147,19 +164,22 @@
         "id": "M3020_S0040_G0020_001_pod153",
         "jp": "巨大構造物に対し、何かを送出している様子。",
         "en": "Said unit appears to be delivering something to the giant facility.",
-        "ru": "Возможно, этот модуль доставляет что-то в основное строение."
+        "ru": "Возможно, этот модуль доставляет что-то в основное строение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/282.wav"
     },
     {
         "id": "M3020_S0040_G0030_001_pod153",
         "jp": "推測：何らかの資源を巨大構造物に送り出している施設。",
         "en": "Hypothesis: This facility may be designed to transport some kind of resource.",
-        "ru": "Предположение: эта постройка может быть предназначена для транспортировки некого ресурса."
+        "ru": "Предположение: эта постройка может быть предназначена для транспортировки некого ресурса.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/283.wav"
     },
     {
         "id": "M3020_S0040_G0040_001_a9s",
         "jp": "送り出す……何を？",
         "en": "What's the resource it's transporting?",
-        "ru": "Что за ресурс они перевозят?"
+        "ru": "Что за ресурс они перевозят?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1758.wav"
     },
     {
         "id": "M3020_S0040_G0050_001_pod153",
@@ -171,7 +191,8 @@
         "id": "M3020_S0040_G0060_001_a9s",
         "jp": "何の為に？",
         "en": "For what purpose?",
-        "ru": "И с какой целью?"
+        "ru": "И с какой целью?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1759.wav"
     },
     {
         "id": "M3020_S0040_G0070_001_pod153",
@@ -183,19 +204,22 @@
         "id": "M5920_S0130_G0000_001_a9s",
         "jp": "霧が……",
         "en": "Huh? Fog?",
-        "ru": "Чего? Туман?"
+        "ru": "Чего? Туман?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/376.wav"
     },
     {
         "id": "M5920_S0130_G0010_001_pod153",
         "jp": "報告：敵大型ユニットからの大量の蒸気発生を確認。",
         "en": "Analysis: The fog is actually steam emitted by a large enemy structural unit.",
-        "ru": "Анализ: туман — пар, испускаемый крупным модулем противника."
+        "ru": "Анализ: туман — пар, испускаемый крупным модулем противника.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/612.wav"
     },
     {
         "id": "M5920_S0130_G0020_001_a9s",
         "jp": "蒸気？……一体、何の為に……",
         "en": "Steam? For what purpose?",
-        "ru": "Пар? Зачем он им?"
+        "ru": "Пар? Зачем он им?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/377.wav"
     },
     {
         "id": "M5920_S0130_G0030_001_pod153",
@@ -207,7 +231,8 @@
         "id": "M3020_S0026_G0220_300_pod153",
         "jp": "推奨：マークされた資源回収ユニットの調査。",
         "en": "Proposal: Investigate the marked resource recovery units.",
-        "ru": "Предложение: исследуйте отмеченные модули добычи ресурсов."
+        "ru": "Предложение: исследуйте отмеченные модули добычи ресурсов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/271.wav"
     },
     {
         "id": "M3020_S0026_G0230_300_a9s",

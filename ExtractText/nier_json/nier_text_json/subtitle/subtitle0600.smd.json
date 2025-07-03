@@ -3,19 +3,22 @@
         "id": "M1080_S0850_H0000_201_cmd",
         "jp": "理由なく戦える者などいない。",
         "en": "No one fights without a reason.",
-        "ru": "Никто не сражается без причины."
+        "ru": "Никто не сражается без причины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/114.wav"
     },
     {
         "id": "M1080_S0850_H0010_201_cmd",
         "jp": "我々には命を捧げるに値する神が必要なのだ。",
         "en": "And we need a god worth dying for.",
-        "ru": "И нам нужен бог, за которого стоит умереть."
+        "ru": "И нам нужен бог, за которого стоит умереть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/115.wav"
     },
     {
         "id": "M1080_S0850_H0020_201_cmd",
         "jp": "自分で決めるんだな……これから、どうするか。",
         "en": "What path will you take? It's up to you to decide.",
-        "ru": "Какой путь ты изберёшь? Этот выбор за тобой."
+        "ru": "Какой путь ты изберёшь? Этот выбор за тобой.",
+        "en_voice": "stream/English(US)/vo_core_0_001/12.wav"
     },
     {
         "id": "M1080_S0850_H0030_201_a9s",

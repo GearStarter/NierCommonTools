@@ -33,7 +33,8 @@
         "id": "M5562_S0010_G0041_001_dbl",
         "jp": "それは……",
         "en": "I...",
-        "ru": "Я..."
+        "ru": "Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "M5562_S0010_G0042_001_dbl",
@@ -147,7 +148,8 @@
         "id": "M5562_S0010_G0041_001_dbl",
         "jp": "それは……",
         "en": "I...",
-        "ru": "Я..."
+        "ru": "Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "M5562_S0010_G0042_001_dbl",
@@ -249,19 +251,22 @@
         "id": "M5562_S0020_G0000_001_a9s",
         "jp": "あ……デボルに頼まれた『樹液』、場所を聞くのを忘れたな。",
         "en": "Oh shoot! I forgot to ask Devola where to find that tree sap she wanted.",
-        "ru": "Вот блин! Я забыл спросить Деволу, где искать этот древесный сок, который им нужен."
+        "ru": "Вот блин! Я забыл спросить Деволу, где искать этот древесный сок, который им нужен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/263.wav"
     },
     {
         "id": "M5562_S0020_G0010_001_a9s",
         "jp": "ポッド。『樹液』の採取可能な地域を検索。",
         "en": "Pod, search for regions where I might be able to obtain tree sap.",
-        "ru": "Бот, найди области, где я смог бы добыть древесный сок."
+        "ru": "Бот, найди области, где я смог бы добыть древесный сок.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/264.wav"
     },
     {
         "id": "M5562_S0020_G0020_001_pod153",
         "jp": "既に検索完了。当該資材『樹液』がある区域を地図にマーク。",
         "en": "Search already performed. Regions rich in tree sap marked on map.",
-        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте."
+        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/4.wav"
     },
     {
         "id": "M5562_S0020_G0030_001_a2",
@@ -273,19 +278,22 @@
         "id": "M5562_S0020_G0040_001_a2",
         "jp": "『樹液』の採取可能な地域って……",
         "en": "Where the heck am I gonna find that?",
-        "ru": "Где, чёрт возьми, я его найду?"
+        "ru": "Где, чёрт возьми, я его найду?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav"
     },
     {
         "id": "M5562_S0020_G0050_001_pod042",
         "jp": "既に検索完了。当該資材『樹液』がある区域を地図にマーク。",
         "en": "Search already performed. Regions rich in tree sap marked on map.",
-        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте."
+        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/4.wav"
     },
     {
         "id": "M5562_S0020_G0060_001_a2",
         "jp": "……気が利くハコだな。",
         "en": "Well, aren't YOU a helpful little box?",
-        "ru": "Ну, выходит, ты не такой уж и бесполезный?"
+        "ru": "Ну, выходит, ты не такой уж и бесполезный?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/591.wav"
     },
     {
         "id": "M5562_S0020_G0070_001_pod153",
@@ -297,13 +305,15 @@
         "id": "M5562_S0020_G0080_001_a9s",
         "jp": "デボル達が言ってた敵か……",
         "en": "The ones Devola mentioned, maybe?",
-        "ru": "Возможно, одни из тех, что упоминала Девола?"
+        "ru": "Возможно, одни из тех, что упоминала Девола?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/265.wav"
     },
     {
         "id": "M5562_S0020_G0081_001_a9s",
         "jp": "しかし、何だあの形？",
         "en": "What's with the crazy shape?",
-        "ru": "Что за безумный вид?"
+        "ru": "Что за безумный вид?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/266.wav"
     },
     {
         "id": "M5562_S0020_G0090_001_pod042",
@@ -321,25 +331,29 @@
         "id": "M5562_S0020_G0100_001_a2",
         "jp": "さっさと済ませるぞ。",
         "en": "Well, let's get it over with.",
-        "ru": "Что ж, покончим с ними."
+        "ru": "Что ж, покончим с ними.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/592.wav"
     },
     {
         "id": "M5562_S0020_G0110_001_a9s",
         "jp": "後は『樹液』を集めればいいな。",
         "en": "Now I just need to collect some tree sap.",
-        "ru": "Теперь нужно собрать древесный сок."
+        "ru": "Теперь нужно собрать древесный сок.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/267.wav"
     },
     {
         "id": "M5562_S0020_G0120_001_a2",
         "jp": "邪魔者は倒したな。後は『樹液』集めか。",
         "en": "Now that the fun's over, it's time to collect some tree sap.",
-        "ru": "Что ж, веселье закончилось, пришло время собрать древесный сок."
+        "ru": "Что ж, веселье закончилось, пришло время собрать древесный сок.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/594.wav"
     },
     {
         "id": "M5562_S0020_G0130_001_a9s",
         "jp": "『樹液』はこのくらいでいいか。",
         "en": "Hopefully this is enough sap.",
-        "ru": "Надеюсь, этого сока достаточно."
+        "ru": "Надеюсь, этого сока достаточно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/268.wav"
     },
     {
         "id": "M5562_S0020_G0140_001_a2",
@@ -351,37 +365,43 @@
         "id": "M5562_S0020_G0010_001_a9s",
         "jp": "ポッド。『樹液』の採取可能な地域を検索。",
         "en": "Pod, search for regions where I might be able to obtain tree sap.",
-        "ru": "Бот, найди области, где я смог бы добыть древесный сок."
+        "ru": "Бот, найди области, где я смог бы добыть древесный сок.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/264.wav"
     },
     {
         "id": "M5562_S0020_G0020_001_pod153",
         "jp": "既に検索完了。当該資材『樹液』がある区域を地図にマーク。",
         "en": "Search already performed. Regions rich in tree sap marked on map.",
-        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте."
+        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/4.wav"
     },
     {
         "id": "M5562_S0020_G0130_001_a9s",
         "jp": "『樹液』はこのくらいでいいか。",
         "en": "Hopefully this is enough sap.",
-        "ru": "Надеюсь, этого сока достаточно."
+        "ru": "Надеюсь, этого сока достаточно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/268.wav"
     },
     {
         "id": "M5562_S0020_G0040_001_a2",
         "jp": "『樹液』の採取可能な地域って……",
         "en": "Where the heck am I gonna find that?",
-        "ru": "Где, чёрт возьми, я его найду?"
+        "ru": "Где, чёрт возьми, я его найду?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/590.wav"
     },
     {
         "id": "M5562_S0020_G0050_001_pod042",
         "jp": "既に検索完了。当該資材『樹液』がある区域を地図にマーク。",
         "en": "Search already performed. Regions rich in tree sap marked on map.",
-        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте."
+        "ru": "Поиск выполнен. Области, богатые древесным соком, отмечены на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/4.wav"
     },
     {
         "id": "M5562_S0020_G0060_001_a2",
         "jp": "……気が利くハコだな。",
         "en": "Well, aren't YOU a helpful little box?",
-        "ru": "Ну, выходит, ты не такой уж и бесполезный?"
+        "ru": "Ну, выходит, ты не такой уж и бесполезный?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/591.wav"
     },
     {
         "id": "M5562_S0020_G0140_001_a2",

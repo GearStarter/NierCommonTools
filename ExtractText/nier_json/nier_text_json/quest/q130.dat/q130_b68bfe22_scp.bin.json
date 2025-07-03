@@ -273,7 +273,8 @@
         "id": "M5130_S0030_G0190_001_a2b",
         "jp": "お人好し。",
         "en": "Well. Aren't we generous?",
-        "ru": "Ну. Разве мы не благородны?"
+        "ru": "Ну. Разве мы не благородны?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/868.wav"
     },
     {
         "id": "M5130_S0030_G0200_001_a9s",
@@ -297,7 +298,8 @@
         "id": "M5130_S0030_G0230_001_a9s",
         "jp": "いや、不美人っていう訳じゃなくて……",
         "en": "I mean, she IS pretty, but that's... It's not...",
-        "ru": "Я имею в виду, да, она красивая, но... Это тут ни при чём..."
+        "ru": "Я имею в виду, да, она красивая, но... Это тут ни при чём...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/76.wav"
     },
     {
         "id": "M5130_S0030_G0240_001_a2b",
@@ -309,7 +311,8 @@
         "id": "M5130_S0120_G0000_001_a9s",
         "jp": "そういえば、赤色のフードを付けているって言ってたよな……",
         "en": "We need to find someone wearing a red hood.",
-        "ru": "Мы должны найти кого-то, кто носит красный капюшон."
+        "ru": "Мы должны найти кого-то, кто носит красный капюшон.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/77.wav"
     },
     {
         "id": "M5130_S0120_G0010_001_a9s",
@@ -393,19 +396,22 @@
         "id": "M5130_S0130_G0000_001_a9s",
         "jp": "赤いフードの服はプレゼントされた物だったんだ……",
         "en": "Sounds like that red hood was a gift of some sort.",
-        "ru": "Похоже, что красный капюшон был чем-то вроде подарка."
+        "ru": "Похоже, что красный капюшон был чем-то вроде подарка.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/78.wav"
     },
     {
         "id": "M5130_S0130_G0010_001_a2b",
         "jp": "プレゼントなんて無意味な行為。",
         "en": "Gifts are such a useless ritual.",
-        "ru": "Подарки — такой бесполезный ритуал."
+        "ru": "Подарки — такой бесполезный ритуал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/871.wav"
     },
     {
         "id": "M5130_S0130_G0020_001_a9s",
         "jp": "ど、どうしたんですか！？急に。",
         "en": "Wow, okay. Where'd THAT come from?",
-        "ru": "Воу, хорошо. И почему же?"
+        "ru": "Воу, хорошо. И почему же?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/79.wav"
     },
     {
         "id": "M5130_S0130_G0030_001_a2b",
@@ -423,7 +429,8 @@
         "id": "M5130_S0130_G0050_001_a2b",
         "jp": "気持ちとか感情を持つことは禁止されている。",
         "en": "Feelings are prohibited.",
-        "ru": "Чувства под запретом."
+        "ru": "Чувства под запретом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/873.wav"
     },
     {
         "id": "M5130_S0130_G0060_001_a9s",
@@ -441,37 +448,43 @@
         "id": "M5130_S0130_G0080_001_a9s",
         "jp": "はーい。",
         "en": "Oh, for the love of... Fine. \"Yeah.\"",
-        "ru": "Ох, ради всего... Ладно. \"Да\"."
+        "ru": "Ох, ради всего... Ладно. \"Да\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/82.wav"
     },
     {
         "id": "M5130_S0130_G0090_001_a9s",
         "jp": "赤いフードを贈った女性レジスタンスが砂漠に居るはずです。",
         "en": "Our red-hooded target should be in the desert.",
-        "ru": "Наша цель с красным капюшоном должна быть в пустыне."
+        "ru": "Наша цель с красным капюшоном должна быть в пустыне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/83.wav"
     },
     {
         "id": "M5130_S0130_G0100_001_a2b",
         "jp": "そいつが犯人の可能性もあるから、気をつけないと……",
         "en": "Stay alert. She could be our killer.",
-        "ru": "Будь начеку. Она может оказаться убийцей."
+        "ru": "Будь начеку. Она может оказаться убийцей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/875.wav"
     },
     {
         "id": "M5130_S0130_G0110_001_a9s",
         "jp": "でも、砂漠の駐留地には女性レジスタンスは一人しかいないですよ……",
         "en": "But there's only one female resistance member at the desert station...",
-        "ru": "Здесь, на пустынной базе, должна быть только одна женщина из Сопротивления..."
+        "ru": "Здесь, на пустынной базе, должна быть только одна женщина из Сопротивления...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/84.wav"
     },
     {
         "id": "M5130_S0130_G0120_001_a9s",
         "jp": "あれ……？いないですね。",
         "en": "Hmm. I don't see her.",
-        "ru": "Хм. Я не вижу её."
+        "ru": "Хм. Я не вижу её.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/85.wav"
     },
     {
         "id": "M5130_S0130_G0130_001_a2b",
         "jp": "あそこにいる人に聞いてみよう。",
         "en": "Let's ask that guy over there.",
-        "ru": "Давай спросим у того парня."
+        "ru": "Давай спросим у того парня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/876.wav"
     },
     {
         "id": "M5130_S0130_G0140_001_resiman",
@@ -657,25 +670,29 @@
         "id": "M5130_S0140_G0000_001_pod153",
         "jp": "報告：赤い頭髪は依頼人である女性型レジスタンスと特徴が一致。",
         "en": "Alert: The description of a female Resistance member with red hair matches that of our client.",
-        "ru": "Внимание: описание рыжеволосой женщины из Сопротивления полностью совпадает с внешностью нашего клиента."
+        "ru": "Внимание: описание рыжеволосой женщины из Сопротивления полностью совпадает с внешностью нашего клиента.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/431.wav"
     },
     {
         "id": "M5130_S0140_G0010_001_a9s",
         "jp": "仮に本人だとして、友人を殺した犯人のフードを、何で彼女が……",
         "en": "But if it's the same person, why would she have had the killer's hood?",
-        "ru": "Но если это одна и та же личность, то откуда у неё капюшон убийцы?"
+        "ru": "Но если это одна и та же личность, то откуда у неё капюшон убийцы?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/86.wav"
     },
     {
         "id": "M5130_S0140_G0020_001_pod153",
         "jp": "推測：女性型レジスタンスが当該犯人であるか、\\nまたはその関係者である状態。",
         "en": "Hypothesis: The red-haired Resistance member is either the killer or an accomplice.",
-        "ru": "Предположение: член Сопротивления с рыжими волосами является убийцей или сообщником."
+        "ru": "Предположение: член Сопротивления с рыжими волосами является убийцей или сообщником.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/432.wav"
     },
     {
         "id": "M5130_S0140_G0030_001_a2b",
         "jp": "……とにかく、話してみよう。",
         "en": "Let's go talk to her.",
-        "ru": "Давай-ка поговорим с ней."
+        "ru": "Давай-ка поговорим с ней.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/877.wav"
     },
     {
         "id": "M5130_S0140_G0040_001_resiwoman",
@@ -951,12 +968,14 @@
         "id": "M5130_S0150_G0270_001_a2b",
         "jp": "……知らなくていいことだって、ある。",
         "en": "Some things are better left unknown.",
-        "ru": "Порой лучше не знать некоторых вещей."
+        "ru": "Порой лучше не знать некоторых вещей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/879.wav"
     },
     {
         "id": "M5130_S0150_G0280_001_a9s",
         "jp": "そうかも、しれませんね……",
         "en": "...Yeah. I suppose so.",
-        "ru": "...Угу. Полагаю, что так."
+        "ru": "...Угу. Полагаю, что так.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/90.wav"
     }
 ]

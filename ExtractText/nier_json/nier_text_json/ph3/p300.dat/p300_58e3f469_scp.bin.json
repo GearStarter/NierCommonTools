@@ -9,7 +9,8 @@
         "id": "M3020_S0020_G0010_001_ppl",
         "jp": "貴方、二週間も眠りっぱなしだったのよ？",
         "en": "That's right. You've been unconscious for nearly two weeks.",
-        "ru": "Всё верно. Ты пробыл без сознания две недели."
+        "ru": "Всё верно. Ты пробыл без сознания две недели.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/643.wav"
     },
     {
         "id": "M3020_S0020_G0020_001_dbl",
@@ -33,7 +34,8 @@
         "id": "M3020_S0020_G0050_001_dbl",
         "jp": "お前の方が……良く知ってるだろ？",
         "en": "You know that better than anyone, no?",
-        "ru": "Ты должен знать об этом лучше, чем кто-либо, разве нет?"
+        "ru": "Ты должен знать об этом лучше, чем кто-либо, разве нет?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/939.wav"
     },
     {
         "id": "M3020_S0020_G0060_001_dbl",
@@ -51,19 +53,22 @@
         "id": "M3020_S0020_G0080_001_pod153",
         "jp": "デボル・ポポルタイプのアンドロイドは治療・メンテナンスに特化した\\n希少なモデル。",
         "en": "Devola and Popola are rare android models designed for medical treatment and maintenance.",
-        "ru": "Девола и Попола — редкие модели андроидов, созданные специально для ремонта и техобслуживания."
+        "ru": "Девола и Попола — редкие модели андроидов, созданные специально для ремонта и техобслуживания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/264.wav"
     },
     {
         "id": "M3020_S0020_G0090_001_pod153",
         "jp": "バンカーなき今、彼女達が居なければ９Ｓの修理・補修は厳しいと予測。",
         "en": "Without the Bunker, they are the only remaining way for unit 9S to initiate repairs.",
-        "ru": "Без Бункера они — единственный вариант для ремонта единицы 9S."
+        "ru": "Без Бункера они — единственный вариант для ремонта единицы 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/265.wav"
     },
     {
         "id": "M3020_S0020_G0100_001_pod153",
         "jp": "推奨：感謝の言葉。",
         "en": "Proposal: A word of appreciation is appropriate.",
-        "ru": "Предложение: стоит проявить благодарность."
+        "ru": "Предложение: стоит проявить благодарность.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/266.wav"
     },
     {
         "id": "M3020_S0020_G0101_001_a9s",
@@ -81,25 +86,29 @@
         "id": "M3020_S0020_G0120_001_dbl",
         "jp": "私達のタイプは、昔は大勢いたんだ。",
         "en": "Yeah, there used to be lots of our models around.",
-        "ru": "Ага, раньше было много моделей нашего типа."
+        "ru": "Ага, раньше было много моделей нашего типа.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/941.wav"
     },
     {
         "id": "M3020_S0020_G0130_001_dbl",
         "jp": "何でも大規模システムの管理を任されていたらしい。",
         "en": "Apparently, we were put here to oversee some kind of large-scale system that was in place.",
-        "ru": "Судя по всему, нас оставили здесь для наблюдения за какой-то огромной системой."
+        "ru": "Судя по всему, нас оставили здесь для наблюдения за какой-то огромной системой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/942.wav"
     },
     {
         "id": "M3020_S0020_G0140_001_a9s",
         "jp": "『らしい』って……どういう事？",
         "en": "Apparently? What does that mean?",
-        "ru": "Судя по всему? Что ты имеешь в виду?"
+        "ru": "Судя по всему? Что ты имеешь в виду?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1733.wav"
     },
     {
         "id": "M3020_S0020_G0150_001_dbl",
         "jp": "当時の記録は消去されてるから、何があったか判らない。",
         "en": "It means we don't know. All the records from that era have been deleted.",
-        "ru": "Это означает, что мы не знаем. Все записи той эпохи были удалены."
+        "ru": "Это означает, что мы не знаем. Все записи той эпохи были удалены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/943.wav"
     },
     {
         "id": "M3020_S0020_G0160_001_dbl",
@@ -111,31 +120,36 @@
         "id": "M3020_S0020_G0170_001_ppl",
         "jp": "同形機は事故後にほとんど処理された。",
         "en": "Most of our kind were disposed of after that.",
-        "ru": "И от большинства пришлось избавиться."
+        "ru": "И от большинства пришлось избавиться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/645.wav"
     },
     {
         "id": "M3020_S0020_G0180_001_ppl",
         "jp": "私達が処分されていないのは……",
         "en": "But we were spared.",
-        "ru": "Но нас пощадили."
+        "ru": "Но нас пощадили.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/646.wav"
     },
     {
         "id": "M3020_S0020_G0190_001_ppl",
         "jp": "再び暴走しないようにサンプルとして監視される為なの。",
         "en": "They used us as a sort of control group in order to ensure such a thing couldn't happen again.",
-        "ru": "Они использовали нас как группу контроля, в целях предотвратить повторение чего-то подобного."
+        "ru": "Они использовали нас как группу контроля, в целях предотвратить повторение чего-то подобного.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/647.wav"
     },
     {
         "id": "M3020_S0020_G0200_001_dbl",
         "jp": "でも、おかげでこうやって仲間を助ける事が出来る。",
         "en": "So yeah, we're lab rats. But at least we get to be here helping out friends.",
-        "ru": "Так что, да, мы — лабораторные крысы. Поэтому меньшее, что мы можем сделать, это помогать нашим друзьям."
+        "ru": "Так что, да, мы — лабораторные крысы. Поэтому меньшее, что мы можем сделать, это помогать нашим друзьям.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/945.wav"
     },
     {
         "id": "M3020_S0020_G0210_001_dbl",
         "jp": "それが……私達が犯した罪への償いだと思ってる。",
         "en": "I'd like to think that we're atoning in some way for our past sins.",
-        "ru": "Хотелось бы думать, что этим мы искупаем грехи нашего прошлого."
+        "ru": "Хотелось бы думать, что этим мы искупаем грехи нашего прошлого.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/946.wav"
     },
     {
         "id": "M3020_S0020_G0220_001_a9s",
@@ -147,7 +161,8 @@
         "id": "M3020_S0020_G0230_001_ppl",
         "jp": "あまり無理しないでね……９Ｓ。",
         "en": "Try not to overdo it, 9S.",
-        "ru": "Не перегружай себя, 9S."
+        "ru": "Не перегружай себя, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/648.wav"
     },
     {
         "id": "M3020_S0020_G0020_001_dbl",
@@ -159,6 +174,7 @@
         "id": "M3020_S0020_G0230_001_ppl",
         "jp": "あまり無理しないでね……９Ｓ。",
         "en": "Try not to overdo it, 9S.",
-        "ru": "Не перегружай себя, 9S."
+        "ru": "Не перегружай себя, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/648.wav"
     }
 ]

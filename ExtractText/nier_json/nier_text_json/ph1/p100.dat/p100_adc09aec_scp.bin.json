@@ -10,7 +10,8 @@
         "id": "M1030_S0400_G0260_001_a9s",
         "jp": "ああ、２Ｂは見たことなかったんですね。",
         "en": "Oh, right. You wouldn't have seen that before.",
-        "ru": "О, верно. Ты же никогда не видела этого прежде."
+        "ru": "О, верно. Ты же никогда не видела этого прежде.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1265.wav"
     },
     {
         "id": "M1030_S0400_G0270_001_a9s",
@@ -22,7 +23,8 @@
         "id": "M1030_S0400_G0280_001_a9s",
         "jp": "宇宙空間では資材も燃料もありませんから。",
         "en": "There are no spare parts or fuel in space, after all.",
-        "ru": "Ведь в космосе нет ни запчастей, ни топлива."
+        "ru": "Ведь в космосе нет ни запчастей, ни топлива.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1268.wav"
     },
     {
         "id": "M1030_S0400_G0290_001_a2b",
@@ -40,24 +42,28 @@
         "id": "M1030_S0400_G0310_001_a2b",
         "jp": "元々、宇宙から来てる筈なのに……",
         "en": "They originally came here from outer space, right?",
-        "ru": "Они изначально прибыли из космоса, так ведь?"
+        "ru": "Они изначально прибыли из космоса, так ведь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/521.wav"
     },
     {
         "id": "M1030_S0400_G0320_001_a9s",
         "jp": "その原因については色んな議論がされているんですけど、",
         "en": "Well, there are a few theories about that...",
-        "ru": "Существует несколько теорий..."
+        "ru": "Существует несколько теорий...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1269.wav"
     },
     {
         "id": "M1030_S0400_G0330_001_a9s",
         "jp": "結論は出てないんですよね。",
         "en": "But no one knows for sure.",
-        "ru": "Но никто не может сказать наверняка."
+        "ru": "Но никто не может сказать наверняка.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1270.wav"
     },
     {
         "id": "M1030_S0400_G0340_001_a9s",
         "jp": "宇宙人の考える事は、よく判らないです。",
         "en": "Hard to tell what an alien is thinking, you know?",
-        "ru": "Трудно же сказать о чём думают инопланетяне, как думаешь?"
+        "ru": "Трудно же сказать о чём думают инопланетяне, как думаешь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1271.wav"
     }
 ]

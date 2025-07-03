@@ -9,25 +9,29 @@
         "id": "M1050_S0195_S0135_201_n02",
         "jp": "王をお守りするのだ！その為なら命など惜しくはない！",
         "en": "We will protect the king with our very lives!",
-        "ru": "Мы защитим Короля даже ценой жизни!"
+        "ru": "Мы защитим Короля даже ценой жизни!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/925.wav"
     },
     {
         "id": "M1050_S0195_S0136_201_n02",
         "jp": "絶対に通すなっ！！",
         "en": "Don't give them a single inch!",
-        "ru": "Не дайте им продвинуться ни на дюйм!"
+        "ru": "Не дайте им продвинуться ни на дюйм!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/926.wav"
     },
     {
         "id": "M1050_S0195_S0137_201_n02",
         "jp": "王様バンザーイ！",
         "en": "All hail the king!",
-        "ru": "Да здравствует Король!"
+        "ru": "Да здравствует Король!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/927.wav"
     },
     {
         "id": "M1050_S0195_S0138_201_n02",
         "jp": "ここは我らの国だ！我らの愛する場所なのだ！",
         "en": "This is our beloved nation!",
-        "ru": "Вот он, наш любимый народ!"
+        "ru": "Вот он, наш любимый народ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/928.wav"
     },
     {
         "id": "M1050_S0195_S0134_201_n02",
@@ -39,25 +43,29 @@
         "id": "M1050_S0195_S0135_201_n02",
         "jp": "王をお守りするのだ！その為なら命など惜しくはない！",
         "en": "We will protect the king with our very lives!",
-        "ru": "Мы защитим Короля даже ценой жизни!"
+        "ru": "Мы защитим Короля даже ценой жизни!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/925.wav"
     },
     {
         "id": "M1050_S0195_S0136_201_n02",
         "jp": "絶対に通すなっ！！",
         "en": "Don't give them a single inch!",
-        "ru": "Не дайте им продвинуться ни на дюйм!"
+        "ru": "Не дайте им продвинуться ни на дюйм!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/926.wav"
     },
     {
         "id": "M1050_S0195_S0137_201_n02",
         "jp": "王様バンザーイ！",
         "en": "All hail the king!",
-        "ru": "Да здравствует Король!"
+        "ru": "Да здравствует Король!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/927.wav"
     },
     {
         "id": "M1050_S0195_S0138_201_n02",
         "jp": "ここは我らの国だ！我らの愛する場所なのだ！",
         "en": "This is our beloved nation!",
-        "ru": "Вот он, наш любимый народ!"
+        "ru": "Вот он, наш любимый народ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/928.wav"
     },
     {
         "id": "M1050_S0210_G0000_001_a9s",
@@ -69,7 +77,8 @@
         "id": "M1050_S0210_G0010_001_a9s",
         "jp": "しかも、あれは……ヨルハタイプじゃないか！",
         "en": "A YoRHa-type android!",
-        "ru": "Андроид YoRHa!"
+        "ru": "Андроид YoRHa!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1384.wav"
     },
     {
         "id": "M1050_S0210_G0020_011_pod042",
@@ -87,13 +96,15 @@
         "id": "M1050_S0210_G0040_001_a9s",
         "jp": "破壊？どうしてっ！？",
         "en": "Annihilation? But why!?",
-        "ru": "Уничтожение? Но почему?!"
+        "ru": "Уничтожение? Но почему?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1385.wav"
     },
     {
         "id": "M1050_S0210_G0050_001_a2b",
         "jp": "９Ｓ……いくよ。",
         "en": "Let's go, 9S.",
-        "ru": "Нападаем, 9S."
+        "ru": "Нападаем, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/565.wav"
     },
     {
         "id": "M1050_S0210_G0060_001_a9s",
@@ -111,13 +122,15 @@
         "id": "M1050_S0210_G0080_001_cmd",
         "jp": "バンカーより、２Ｂ・９Ｓへ。",
         "en": "Bunker to 2B and 9S.",
-        "ru": "Бункер вызывает 2B и 9S."
+        "ru": "Бункер вызывает 2B и 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/72.wav"
     },
     {
         "id": "M1050_S0210_G0090_001_cmd",
         "jp": "指名手配中である『Ａ２』のブラックボックス信号をこちらで探知した。",
         "en": "We've picked up a signal from the black box of a fugitive known as A2.",
-        "ru": "Мы зафиксировали сигнал чёрного ящика дезертира, известного как A2."
+        "ru": "Мы зафиксировали сигнал чёрного ящика дезертира, известного как A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/73.wav"
     },
     {
         "id": "M1050_S0210_G0100_001_cmd",
@@ -141,13 +154,15 @@
         "id": "M1050_S0210_G0130_001_cmd",
         "jp": "奴は脱走兵だ。何体もの追撃部隊を破壊している！",
         "en": "She deserted us. She's destroyed multiple pursuit androids.",
-        "ru": "Она дезертировала. И уничтожила множество преследовавших её андроидов."
+        "ru": "Она дезертировала. И уничтожила множество преследовавших её андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/75.wav"
     },
     {
         "id": "M1050_S0210_G0140_001_cmd",
         "jp": "うかうかしていると、殺されるぞっ！",
         "en": "Now kill her before she kills you!",
-        "ru": "Убейте ее, пока она не убила вас!"
+        "ru": "Убейте ее, пока она не убила вас!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/76.wav"
     },
     {
         "id": "M1050_S0230_G0001_001_a9s",
@@ -159,19 +174,22 @@
         "id": "M1050_S0230_G0003_001_a2b",
         "jp": "逃げたか……",
         "en": "She's gone...",
-        "ru": "Она ушла..."
+        "ru": "Она ушла...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/567.wav"
     },
     {
         "id": "M1050_S0230_G0030_300_a9s",
         "jp": "くそっ……逃げられたか。",
         "en": "Damn! She got away.",
-        "ru": "Чёрт! Она сбежала."
+        "ru": "Чёрт! Она сбежала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1393.wav"
     },
     {
         "id": "M1050_S0230_G0000_001_a9s",
         "jp": "バンカー。こちら９Ｓ。司令官につないでください。",
         "en": "Operator, this is 9S. Patch me through to the Commander.",
-        "ru": "Оператор, на связи 9S. Соедините меня с Командором."
+        "ru": "Оператор, на связи 9S. Соедините меня с Командором.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1388.wav"
     },
     {
         "id": "M1050_S0230_G0010_001_op210",
@@ -183,7 +201,8 @@
         "id": "M1050_S0230_G0020_001_a9s",
         "jp": "司令官。ターゲットＡ２の破壊は……失敗しました。",
         "en": "I'm sorry, Commander. We failed to defeat the fugitive.",
-        "ru": "Я извиняюсь, Командор. Мы не смогли победить дезертира."
+        "ru": "Я извиняюсь, Командор. Мы не смогли победить дезертира.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1392.wav"
     },
     {
         "id": "M1050_S0230_G0030_001_cmd",
@@ -195,25 +214,29 @@
         "id": "M1050_S0230_G0040_001_cmd",
         "jp": "しかし二人が無事で良かった。",
         "en": "Well, at least you're both safe.",
-        "ru": "Ну, по крайней мере, вы оба целы."
+        "ru": "Ну, по крайней мере, вы оба целы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/78.wav"
     },
     {
         "id": "M1050_S0230_G0050_001_cmd",
         "jp": "あれは非常に危険な個体だ。",
         "en": "That's an incredibly powerful unit you just faced.",
-        "ru": "Вы только что столкнулись с невероятно сильным противником."
+        "ru": "Вы только что столкнулись с невероятно сильным противником.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/79.wav"
     },
     {
         "id": "M1050_S0230_G0060_001_cmd",
         "jp": "うかつに近寄らない方がいい。",
         "en": "You should probably keep your distance in the future.",
-        "ru": "В следующий раз вам следует соблюдать дистанцию."
+        "ru": "В следующий раз вам следует соблюдать дистанцию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/80.wav"
     },
     {
         "id": "M1050_S0230_G0070_001_a9s",
         "jp": "司令官……脱走って、一体何が……",
         "en": "Commander, why did A2 desert the force?",
-        "ru": "Командор, почему A2 дезертировала?"
+        "ru": "Командор, почему A2 дезертировала?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1395.wav"
     },
     {
         "id": "M1050_S0230_G0080_001_cmd",
@@ -225,13 +248,15 @@
         "id": "M1050_S0230_G0090_001_cmd",
         "jp": "その情報は機密事項になっている。教えられない。",
         "en": "I'm afraid that's classified.",
-        "ru": "Боюсь, что это секретно."
+        "ru": "Боюсь, что это секретно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/82.wav"
     },
     {
         "id": "M1050_S0230_G0100_001_a9s",
         "jp": "……そうですか。",
         "en": "Oh? Huh.",
-        "ru": "О? Ясно."
+        "ru": "О? Ясно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1396.wav"
     },
     {
         "id": "M1050_S0230_G0110_001_a9s",
@@ -249,13 +274,15 @@
         "id": "M1050_S0230_G0130_001_a9s",
         "jp": "パスカルの所にＡ２の情報を聞きにいこう。",
         "en": "Let's go ask Pascal about A2.",
-        "ru": "Давай спросим Паскаля об A2."
+        "ru": "Давай спросим Паскаля об A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1398.wav"
     },
     {
         "id": "M1050_S0230_G0140_001_a9s",
         "jp": "何か知ってるかもしれない……",
         "en": "He might know something.",
-        "ru": "Он может что-то знать."
+        "ru": "Он может что-то знать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1399.wav"
     },
     {
         "id": "M1050_S0230_G0150_001_a2b",
@@ -267,73 +294,85 @@
         "id": "M1050_S0230_G0160_001_a9s",
         "jp": "パスカル……こちら９Ｓ。",
         "en": "Um, Pascal? This is 9S.",
-        "ru": "Эм, Паскаль? На связи 9S."
+        "ru": "Эм, Паскаль? На связи 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1400.wav"
     },
     {
         "id": "M1050_S0230_G0170_001_pascal",
         "jp": "おお、ご無事でしたか？",
         "en": "Oh! You survived! How wonderful.",
-        "ru": "Ох! Вы целы! Как замечательно."
+        "ru": "Ох! Вы целы! Как замечательно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/414.wav"
     },
     {
         "id": "M1050_S0230_G0180_001_a9s",
         "jp": "うん……それより君に聞きたい事があるんだ。",
         "en": "Yeah, we're fine. But there's something we want to ask you about.",
-        "ru": "Да, мы в порядке, но мы хотели бы у тебя кое-что спросить."
+        "ru": "Да, мы в порядке, но мы хотели бы у тебя кое-что спросить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1401.wav"
     },
     {
         "id": "M1050_S0230_G0190_001_pascal",
         "jp": "聞きたい事？何でしょう？",
         "en": "Of course! Anything.",
-        "ru": "Конечно! Что угодно."
+        "ru": "Конечно! Что угодно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/415.wav"
     },
     {
         "id": "M1050_S0230_G0200_001_a9s",
         "jp": "通信はダメだ。直接聞きに行く。",
         "en": "Actually, it needs to be in person.",
-        "ru": "Это не телефонный разговор. Встретимся лично."
+        "ru": "Это не телефонный разговор. Встретимся лично.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1402.wav"
     },
     {
         "id": "M1050_S0230_G0210_001_pascal",
         "jp": "……わかりました。",
         "en": "Hmm. Understood.",
-        "ru": "Хм. Понимаю."
+        "ru": "Хм. Понимаю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/416.wav"
     },
     {
         "id": "M1050_S0230_G0220_001_pascal",
         "jp": "敵の侵入を防いでいたゲートを開けておきます。",
         "en": "I'll open the gate we built to deter enemy invaders.",
-        "ru": "Я открою ворота, которые мы построили для защиты от врагов."
+        "ru": "Я открою ворота, которые мы построили для защиты от врагов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/417.wav"
     },
     {
         "id": "M1050_S0230_G0230_001_pascal",
         "jp": "そちらから村に入れるように手配しますね。",
         "en": "You'll be able to reach the village through there.",
-        "ru": "Через них вы сможете добраться до деревни."
+        "ru": "Через них вы сможете добраться до деревни.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/418.wav"
     },
     {
         "id": "M1050_S0230_G0020_300__pod042",
         "jp": "推奨：脱走兵『Ａ２』の追跡。",
         "en": "Proposal: Pursue the deserter A2.",
-        "ru": "Предложение: преследуйте дезертира A2."
+        "ru": "Предложение: преследуйте дезертира A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/640.wav"
     },
     {
         "id": "M1050_S0230_G0050_300_a9s",
         "jp": "あそこがパスカルが開けてくれた門みたいですね。",
         "en": "That must be the gate Pascal opened for us.",
-        "ru": "Должно быть это те ворота, которые Паскаль открыл для нас."
+        "ru": "Должно быть это те ворота, которые Паскаль открыл для нас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1394.wav"
     },
     {
         "id": "M1050_S0230_G0060_300_n02",
         "jp": "オマチシテオリマシタ。",
         "en": "We have been expecting you.",
-        "ru": "Мы ждали вас."
+        "ru": "Мы ждали вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/940.wav"
     },
     {
         "id": "M1050_S0230_G0070_300_n02",
         "jp": "ハナシハ、パスカルカラキイテイマス。",
         "en": "Pascal told us about you.",
-        "ru": "Паскаль сообщил нам о вас."
+        "ru": "Паскаль сообщил нам о вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/941.wav"
     },
     {
         "id": "M1050_S0230_G0080_300_n02",
@@ -345,18 +384,21 @@
         "id": "M1050_S0230_G0090_300_n02",
         "jp": "ドウゾ、オトウリクダサイ。",
         "en": "Please pass through.",
-        "ru": "Прошу, проходите."
+        "ru": "Прошу, проходите.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/943.wav"
     },
     {
         "id": "M1050_S0230_G0100_300_n02",
         "jp": "ワタシハココデミハリヲツヅケマス。",
         "en": "We will continue to stand guard.",
-        "ru": "Мы продолжим охранять вход."
+        "ru": "Мы продолжим охранять вход.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/944.wav"
     },
     {
         "id": "M1050_S0230_G0100_300_n02",
         "jp": "ワタシハココデミハリヲツヅケマス。",
         "en": "We will continue to stand guard.",
-        "ru": "Мы продолжим охранять вход."
+        "ru": "Мы продолжим охранять вход.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/944.wav"
     }
 ]

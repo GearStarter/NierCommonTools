@@ -21,7 +21,8 @@
         "id": "M5540_S0010_G0000_001_a9s",
         "jp": "そんな……ヨルハ部隊員が脱走？\\nそれに、レジスタンスキャンプを襲ったなんて……",
         "en": "YoRHa members deserting? And attacking the Resistance, no less...?",
-        "ru": "Члены YoRHa дезертировали? К тому же напали на Сопротивление?.."
+        "ru": "Члены YoRHa дезертировали? К тому же напали на Сопротивление?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/237.wav"
     },
     {
         "id": "M5540_S0010_G0010_001_a2b",
@@ -33,13 +34,15 @@
         "id": "M5540_S0010_G0020_001_pod042",
         "jp": "提案：被害を抑える為に、早期の捜索と当該ヨルハ部隊員の捕縛。",
         "en": "Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.",
-        "ru": "Предложение: дезертиры YoRHa должны быть арестованы и заключены под стражу, чтобы свести сопутствующий урон к минимуму."
+        "ru": "Предложение: дезертиры YoRHa должны быть арестованы и заключены под стражу, чтобы свести сопутствующий урон к минимуму.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1036.wav"
     },
     {
         "id": "M5540_S0010_G0030_001_a9s",
         "jp": "捕縛って言ったって……",
         "en": "Detained? Easy for you to say.",
-        "ru": "Арестованы? Тебе легко говорить."
+        "ru": "Арестованы? Тебе легко говорить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/238.wav"
     },
     {
         "id": "M5540_S0000_G0010_001_op210",
@@ -57,13 +60,15 @@
         "id": "M5540_S0000_G0030_001_op210",
         "jp": "９Ｓ……あまり無理しないように。",
         "en": "And 9S? ...Be careful.",
-        "ru": "И, 9S? ...Будь осторожен."
+        "ru": "И, 9S? ...Будь осторожен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/231.wav"
     },
     {
         "id": "M5540_S0010_G0000_001_a9s",
         "jp": "そんな……ヨルハ部隊員が脱走？\\nそれに、レジスタンスキャンプを襲ったなんて……",
         "en": "YoRHa members deserting? And attacking the Resistance, no less...?",
-        "ru": "Члены YoRHa дезертировали? К тому же напали на Сопротивление?.."
+        "ru": "Члены YoRHa дезертировали? К тому же напали на Сопротивление?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/237.wav"
     },
     {
         "id": "M5540_S0010_G0010_001_a2b",
@@ -75,13 +80,15 @@
         "id": "M5540_S0010_G0020_001_pod042",
         "jp": "提案：被害を抑える為に、早期の捜索と当該ヨルハ部隊員の捕縛。",
         "en": "Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.",
-        "ru": "Предложение: дезертиры YoRHa должны быть арестованы и заключены под стражу, чтобы свести сопутствующий урон к минимуму."
+        "ru": "Предложение: дезертиры YoRHa должны быть арестованы и заключены под стражу, чтобы свести сопутствующий урон к минимуму.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1036.wav"
     },
     {
         "id": "M5540_S0010_G0030_001_a9s",
         "jp": "捕縛って言ったって……",
         "en": "Detained? Easy for you to say.",
-        "ru": "Арестованы? Тебе легко говорить."
+        "ru": "Арестованы? Тебе легко говорить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/238.wav"
     },
     {
         "id": "M5540_S0030_G0000_001_a2b",
@@ -117,19 +124,22 @@
         "id": "M5540_S0030_G0060_001_a2b",
         "jp": "貴方達には任務放棄の罪で司令部から捕縛命令が下っている。\\n大人しくして。",
         "en": "You're both currently wanted by Command for desertion. Disengage and surrender immediately.",
-        "ru": "Вы обе находитесь в розыске и отмечены Штабом как дезертиры. Немедленно отключитесь и сдайтесь."
+        "ru": "Вы обе находитесь в розыске и отмечены Штабом как дезертиры. Немедленно отключитесь и сдайтесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/962.wav"
     },
     {
         "id": "M5540_S0030_G0070_001_64b",
         "jp": "うるせえっ！！",
         "en": "Shut your trap!",
-        "ru": "Закрой свой рот!"
+        "ru": "Закрой свой рот!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1063.wav"
     },
     {
         "id": "M5540_S0030_G0080_001_22b",
         "jp": "隊長からの通信！撤退命令です！",
         "en": "Hold up! The captain is ordering a retreat!",
-        "ru": "Остановись! Капитан приказала отступить!"
+        "ru": "Остановись! Капитан приказала отступить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/460.wav"
     },
     {
         "id": "M5540_S0030_G0090_001_64b",
@@ -141,7 +151,8 @@
         "id": "M5540_S0030_G0100_001_a9s",
         "jp": "逃げられた……",
         "en": "They got away...",
-        "ru": "Они сбежали..."
+        "ru": "Они сбежали...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/239.wav"
     },
     {
         "id": "M5540_S0030_G0010_001_pod042",
@@ -153,13 +164,15 @@
         "id": "M5540_S0030_G0050_001_64b",
         "jp": "クソッ……殺ってやる！！",
         "en": "Damn it... I'll kill you!",
-        "ru": "Проклятие... Я убью тебя!"
+        "ru": "Проклятие... Я убью тебя!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1062.wav"
     },
     {
         "id": "M5540_S0030_G0110_001_22b",
         "jp": "よくも……よくも仲間をッ！！！",
         "en": "No... How could you!?",
-        "ru": "Нет... Как ты могла?!"
+        "ru": "Нет... Как ты могла?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/461.wav"
     },
     {
         "id": "M5540_S0030_G0120_001_64b",
@@ -171,7 +184,8 @@
         "id": "M5540_S0030_G0110_001_22b",
         "jp": "よくも……よくも仲間をッ！！！",
         "en": "No... How could you!?",
-        "ru": "Нет... Как ты могла?!"
+        "ru": "Нет... Как ты могла?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/461.wav"
     },
     {
         "id": "M5540_S0030_G0120_001_64b",
@@ -183,7 +197,8 @@
         "id": "M5540_S0030_G0110_001_22b",
         "jp": "よくも……よくも仲間をッ！！！",
         "en": "No... How could you!?",
-        "ru": "Нет... Как ты могла?!"
+        "ru": "Нет... Как ты могла?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/461.wav"
     },
     {
         "id": "M5540_S0030_G0120_001_64b",
@@ -195,37 +210,43 @@
         "id": "M5540_S0030_G0130_001_a8b",
         "jp": "一体、これは……２２Ｂ……６４Ｂ……",
         "en": "22B? 64B? What the hell...?",
-        "ru": "22B? 64В? Какого чёрта?.."
+        "ru": "22B? 64В? Какого чёрта?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1079.wav"
     },
     {
         "id": "M5540_S0030_G0140_001_pod042",
         "jp": "確認：逃亡ヨルハ機体の元隊長８Ｂ。",
         "en": "Alert: Target is former YoRHa captain 8B, currently wanted for desertion.",
-        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство."
+        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1038.wav"
     },
     {
         "id": "M5540_S0030_G0150_001_pod042",
         "jp": "推奨：捕縛。",
         "en": "Proposal: Disable and detain at once.",
-        "ru": "Предложение: отключить и арестовать."
+        "ru": "Предложение: отключить и арестовать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1039.wav"
     },
     {
         "id": "M5540_S0030_G0160_001_a8b",
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
-        "ru": "Вы... Вы сделали это!"
+        "ru": "Вы... Вы сделали это!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
         "jp": "お願いっ！抵抗しないでください！",
         "en": "Please! You have to stop fighting!",
-        "ru": "Пожалуйста! Ты должна прекратить сражаться!"
+        "ru": "Пожалуйста! Ты должна прекратить сражаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/240.wav"
     },
     {
         "id": "M5540_S0030_G0180_001_a8b",
         "jp": "うるさいっ！何も……何も知らない癖に！！",
         "en": "Shut up! You don't know anything!",
-        "ru": "Заткнись! Ты ничего не знаешь!"
+        "ru": "Заткнись! Ты ничего не знаешь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0190_001_a2b",
@@ -243,49 +264,57 @@
         "id": "M5540_S0030_G0210_001_pod042",
         "jp": "推奨：遠距離攻撃による破壊。",
         "en": "Proposal: Destroy enemy with long-range attacks.",
-        "ru": "Предложение: уничтожьте противника атаками дальнего боя."
+        "ru": "Предложение: уничтожьте противника атаками дальнего боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/0.wav"
     },
     {
         "id": "M5540_S0030_G0220_001_a9s",
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
-        "ru": "...Уничтожить? Почему не арестовать?"
+        "ru": "...Уничтожить? Почему не арестовать?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
     },
     {
         "id": "M5540_S0030_G0130_001_a8b",
         "jp": "一体、これは……２２Ｂ……６４Ｂ……",
         "en": "22B? 64B? What the hell...?",
-        "ru": "22B? 64В? Какого чёрта?.."
+        "ru": "22B? 64В? Какого чёрта?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1079.wav"
     },
     {
         "id": "M5540_S0030_G0140_001_pod042",
         "jp": "確認：逃亡ヨルハ機体の元隊長８Ｂ。",
         "en": "Alert: Target is former YoRHa captain 8B, currently wanted for desertion.",
-        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство."
+        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1038.wav"
     },
     {
         "id": "M5540_S0030_G0150_001_pod042",
         "jp": "推奨：捕縛。",
         "en": "Proposal: Disable and detain at once.",
-        "ru": "Предложение: отключить и арестовать."
+        "ru": "Предложение: отключить и арестовать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1039.wav"
     },
     {
         "id": "M5540_S0030_G0160_001_a8b",
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
-        "ru": "Вы... Вы сделали это!"
+        "ru": "Вы... Вы сделали это!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
         "jp": "お願いっ！抵抗しないでください！",
         "en": "Please! You have to stop fighting!",
-        "ru": "Пожалуйста! Ты должна прекратить сражаться!"
+        "ru": "Пожалуйста! Ты должна прекратить сражаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/240.wav"
     },
     {
         "id": "M5540_S0030_G0180_001_a8b",
         "jp": "うるさいっ！何も……何も知らない癖に！！",
         "en": "Shut up! You don't know anything!",
-        "ru": "Заткнись! Ты ничего не знаешь!"
+        "ru": "Заткнись! Ты ничего не знаешь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0190_001_a2b",
@@ -303,49 +332,57 @@
         "id": "M5540_S0030_G0210_001_pod042",
         "jp": "推奨：遠距離攻撃による破壊。",
         "en": "Proposal: Destroy enemy with long-range attacks.",
-        "ru": "Предложение: уничтожьте противника атаками дальнего боя."
+        "ru": "Предложение: уничтожьте противника атаками дальнего боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/0.wav"
     },
     {
         "id": "M5540_S0030_G0220_001_a9s",
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
-        "ru": "...Уничтожить? Почему не арестовать?"
+        "ru": "...Уничтожить? Почему не арестовать?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
     },
     {
         "id": "M5540_S0030_G0130_001_a8b",
         "jp": "一体、これは……２２Ｂ……６４Ｂ……",
         "en": "22B? 64B? What the hell...?",
-        "ru": "22B? 64В? Какого чёрта?.."
+        "ru": "22B? 64В? Какого чёрта?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1079.wav"
     },
     {
         "id": "M5540_S0030_G0140_001_pod042",
         "jp": "確認：逃亡ヨルハ機体の元隊長８Ｂ。",
         "en": "Alert: Target is former YoRHa captain 8B, currently wanted for desertion.",
-        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство."
+        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1038.wav"
     },
     {
         "id": "M5540_S0030_G0150_001_pod042",
         "jp": "推奨：捕縛。",
         "en": "Proposal: Disable and detain at once.",
-        "ru": "Предложение: отключить и арестовать."
+        "ru": "Предложение: отключить и арестовать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1039.wav"
     },
     {
         "id": "M5540_S0030_G0160_001_a8b",
         "jp": "お前たちがやったのか！！",
         "en": "You... You did this!",
-        "ru": "Вы... Вы сделали это!"
+        "ru": "Вы... Вы сделали это!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav"
     },
     {
         "id": "M5540_S0030_G0170_001_a9s",
         "jp": "お願いっ！抵抗しないでください！",
         "en": "Please! You have to stop fighting!",
-        "ru": "Пожалуйста! Ты должна прекратить сражаться!"
+        "ru": "Пожалуйста! Ты должна прекратить сражаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/240.wav"
     },
     {
         "id": "M5540_S0030_G0180_001_a8b",
         "jp": "うるさいっ！何も……何も知らない癖に！！",
         "en": "Shut up! You don't know anything!",
-        "ru": "Заткнись! Ты ничего не знаешь!"
+        "ru": "Заткнись! Ты ничего не знаешь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1081.wav"
     },
     {
         "id": "M5540_S0030_G0190_001_a2b",
@@ -363,25 +400,29 @@
         "id": "M5540_S0030_G0210_001_pod042",
         "jp": "推奨：遠距離攻撃による破壊。",
         "en": "Proposal: Destroy enemy with long-range attacks.",
-        "ru": "Предложение: уничтожьте противника атаками дальнего боя."
+        "ru": "Предложение: уничтожьте противника атаками дальнего боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/0.wav"
     },
     {
         "id": "M5540_S0030_G0220_001_a9s",
         "jp": "破壊……破壊って……",
         "en": "...Destroy? What happened to detain?",
-        "ru": "...Уничтожить? Почему не арестовать?"
+        "ru": "...Уничтожить? Почему не арестовать?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav"
     },
     {
         "id": "M5540_S0030_G0230_001_pod042",
         "jp": "全ての機体を破壊。ブラックボックス信号停止を確認。",
         "en": "All units destroyed. Black box signals confirmed offline.",
-        "ru": "Все враги уничтожены. Подтверждена деактивация чёрных ящиков."
+        "ru": "Все враги уничтожены. Подтверждена деактивация чёрных ящиков.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1.wav"
     },
     {
         "id": "M5540_S0030_G0240_001_pod042",
         "jp": "任務完了。",
         "en": "Mission complete.",
-        "ru": "Задание выполнено."
+        "ru": "Задание выполнено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/2.wav"
     },
     {
         "id": "M5540_S0030_G0250_001_a9s",
@@ -399,7 +440,8 @@
         "id": "M5540_S0030_G0270_001_a9s",
         "jp": "どうして、この人達はレジスタンスキャンプから物資を盗んだりしたんだろう……",
         "en": "Why the hell did they steal from the Resistance in the first place?",
-        "ru": "Почему, чёрт возьми, они начали воровать у Сопротивления?"
+        "ru": "Почему, чёрт возьми, они начали воровать у Сопротивления?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/243.wav"
     },
     {
         "id": "M5540_S0030_G0280_001_a9s",
@@ -411,7 +453,8 @@
         "id": "M5540_S0030_G0290_001_a2b",
         "jp": "……わかった。",
         "en": "Let's find out.",
-        "ru": "Давай выясним."
+        "ru": "Давай выясним.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/965.wav"
     },
     {
         "id": "M5540_S0030_G0300_001_ane",
@@ -471,7 +514,8 @@
         "id": "M5540_S0030_G0390_001_a9s",
         "jp": "司令部に通信。こちら９Ｓ応答せよ。",
         "en": "9S to Command, come in.",
-        "ru": "9S вызывает Штаб, приём."
+        "ru": "9S вызывает Штаб, приём.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/247.wav"
     },
     {
         "id": "M5540_S0030_G0400_001_op210",
@@ -483,31 +527,36 @@
         "id": "M5540_S0030_G0410_001_a9s",
         "jp": "実は、逃亡したヨルハ部隊についてなのですが……",
         "en": "It's about the YoRHa soldiers who deserted.",
-        "ru": "Это насчет солдат YoRHa, которые дезертировали."
+        "ru": "Это насчет солдат YoRHa, которые дезертировали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/248.wav"
     },
     {
         "id": "M5540_S0030_G0420_001_op210",
         "jp": "はい。こちらでもその情報は確認しました。",
         "en": "Copy that, 9S. We've confirmed their status on this end.",
-        "ru": "Поняла, 9S. Мы подтверждаем их статус в качестве уничтоженных."
+        "ru": "Поняла, 9S. Мы подтверждаем их статус в качестве уничтоженных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/233.wav"
     },
     {
         "id": "M5540_S0030_G0430_001_a9s",
         "jp": "しかし、司令官から言われているような盗難事件はレジスタンスキャンプでは\\n発生していませんでした。",
         "en": "No, but I mean... The Resistance says that none of their supplies are actually missing.",
-        "ru": "Нет, я имею в виду... В Сопротивлении сказали, что у них не пропадали припасы."
+        "ru": "Нет, я имею в виду... В Сопротивлении сказали, что у них не пропадали припасы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/249.wav"
     },
     {
         "id": "M5540_S0030_G0440_001_a9s",
         "jp": "一体……これって……",
         "en": "So what's going on here?",
-        "ru": "Что здесь происходит?"
+        "ru": "Что здесь происходит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/250.wav"
     },
     {
         "id": "M5540_S0030_G0450_001_op210",
         "jp": "……当該案件へのアクセスは出来ません。",
         "en": "...I lack access to the data concerning this mission.",
-        "ru": "...У меня нет доступа к данным касательно этого задания."
+        "ru": "...У меня нет доступа к данным касательно этого задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/234.wav"
     },
     {
         "id": "M5540_S0030_G0460_001_a9s",
@@ -519,7 +568,8 @@
         "id": "M5540_S0030_G0470_001_op210",
         "jp": "司令官命令によるものです。",
         "en": "The order came from the Commander herself.",
-        "ru": "Приказ поступил лично от Командора."
+        "ru": "Приказ поступил лично от Командора.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/235.wav"
     },
     {
         "id": "M5540_S0030_G0480_001_a9s",
@@ -531,19 +581,22 @@
         "id": "M5540_S0030_G0490_001_op210",
         "jp": "９Ｓ……気をつけて。",
         "en": "Be careful, 9S.",
-        "ru": "Будь осторожен, 9S."
+        "ru": "Будь осторожен, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/236.wav"
     },
     {
         "id": "M5540_S0030_G0500_001_op210",
         "jp": "私からの情報は以上です。",
         "en": "I have no further information.",
-        "ru": "У меня нет дополнительной информации."
+        "ru": "У меня нет дополнительной информации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/237.wav"
     },
     {
         "id": "M5540_S0030_G0510_001_a9s",
         "jp": "あれっ？オペレーターさん！？",
         "en": "Huh? Operator? ...Operator?",
-        "ru": "А? Оператор? ...Оператор?"
+        "ru": "А? Оператор? ...Оператор?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/253.wav"
     },
     {
         "id": "M5540_S0030_G0520_001_a9s",
@@ -567,6 +620,7 @@
         "id": "M5540_S0030_G0550_001_a2b",
         "jp": "私達は……戦うだけだ。",
         "en": "We're here to fight. That's all.",
-        "ru": "Мы здесь, чтобы сражаться. Вот и всё."
+        "ru": "Мы здесь, чтобы сражаться. Вот и всё.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/967.wav"
     }
 ]

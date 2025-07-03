@@ -159,7 +159,8 @@
         "id": "M5640_S0020_G0090_001_pod042",
         "jp": "疑問：当該プラグイン・チップの仕様について。",
         "en": "Alert: The specifications of this plug-in chip are unusual.",
-        "ru": "Внимание: содержимое этих чипов необычно."
+        "ru": "Внимание: содержимое этих чипов необычно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/495.wav"
     },
     {
         "id": "M5640_S0020_G0100_001_a2b",
@@ -171,7 +172,8 @@
         "id": "M5640_S0020_G0110_001_pod042",
         "jp": "報告：本プラグイン・チップはヨルハ部隊員専用モデル。",
         "en": "This chip is a model used exclusively by YoRHa units.",
-        "ru": "Чип этой модели используют только YoRHa."
+        "ru": "Чип этой модели используют только YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/496.wav"
     },
     {
         "id": "M5640_S0020_G0120_001_pod042",
@@ -195,19 +197,22 @@
         "id": "M5640_S0020_G0150_001_pod153",
         "jp": "疑問：当該プラグイン・チップの仕様について。",
         "en": "Alert: The specifications of this plug-in chip are unusual.",
-        "ru": "Внимание: содержимое этих чипов необычно."
+        "ru": "Внимание: содержимое этих чипов необычно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/495.wav"
     },
     {
         "id": "M5640_S0020_G0160_001_a9s",
         "jp": "仕様？",
         "en": "How so?",
-        "ru": "Что это значит?"
+        "ru": "Что это значит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/275.wav"
     },
     {
         "id": "M5640_S0020_G0170_001_pod153",
         "jp": "報告：本プラグイン・チップはヨルハ部隊員専用モデル。",
         "en": "This chip is a model used exclusively by YoRHa units.",
-        "ru": "Чип этой модели используют только YoRHa."
+        "ru": "Чип этой модели используют только YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/496.wav"
     },
     {
         "id": "M5640_S0020_G0180_001_pod153",
@@ -237,19 +242,22 @@
         "id": "M5640_S0020_G0220_001_cmd",
         "jp": "警戒連絡。現在、廃墟都市地区で、ヨルハ部隊員が行方不明になった。",
         "en": "All units, be on the lookout for a missing YoRHa in the city ruins.",
-        "ru": "Всем подразделениям: отыщите пропавших единиц YoRHa в руинах города."
+        "ru": "Всем подразделениям: отыщите пропавших единиц YoRHa в руинах города.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/143.wav"
     },
     {
         "id": "M5640_S0020_G0230_001_cmd",
         "jp": "機密情報が入ったプラグイン・チップを持っている為、捜索している。",
         "en": "This unit was in possession of several plug-in chips that contain classified information.",
-        "ru": "Эти единицы обладали несколькими чипами, которые содержат секретную информацию."
+        "ru": "Эти единицы обладали несколькими чипами, которые содержат секретную информацию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/144.wav"
     },
     {
         "id": "M5640_S0020_G0240_001_cmd",
         "jp": "詳細な情報を収集するように。",
         "en": "I need you to seek out whatever intel you can regarding their current whereabouts and status.",
-        "ru": "Мне нужно, чтобы вы нашли любые данные относительно их текущего местонахождения и состояния, которые сможете."
+        "ru": "Мне нужно, чтобы вы нашли любые данные относительно их текущего местонахождения и состояния, которые сможете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/145.wav"
     },
     {
         "id": "M5640_S0020_G0250_001_a2b",
@@ -273,7 +281,8 @@
         "id": "M5640_S0020_G0280_001_a9s",
         "jp": "機密情報の入ったチップか……",
         "en": "Chips with classified data, huh?",
-        "ru": "Чипы с секретными данными?"
+        "ru": "Чипы с секретными данными?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/278.wav"
     },
     {
         "id": "M5640_S0050_G0000_001_resistance",

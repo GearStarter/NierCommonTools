@@ -75,31 +75,36 @@
         "id": "M5110_S0010_G0080_001_a9s",
         "jp": "妹想いのお姉さん……",
         "en": "She sure cares about her little sister, huh?",
-        "ru": "Она на самом деле заботится о младшей сестре, да?"
+        "ru": "Она на самом деле заботится о младшей сестре, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/24.wav"
     },
     {
         "id": "M5110_S0010_G0090_001_a9s",
         "jp": "っていうか、機械生命体の姉妹って変な話ですね。",
         "en": "Still, it's pretty funny to hear machines talk about siblings.",
-        "ru": "Хотя довольно забавно слышать о том, как машины говорят о своих братьях и сёстрах."
+        "ru": "Хотя довольно забавно слышать о том, как машины говорят о своих братьях и сёстрах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/25.wav"
     },
     {
         "id": "M5110_S0010_G0100_001_a9s",
         "jp": "同じ工場で作られた、とかでしょうか？",
         "en": "Do you think she just means they were built at the same factory or something?",
-        "ru": "Ты, случаем, не думала, что их попросту изготовили на одной и той же фабрике или что-то вроде того?"
+        "ru": "Ты, случаем, не думала, что их попросту изготовили на одной и той же фабрике или что-то вроде того?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/26.wav"
     },
     {
         "id": "M5110_S0010_G0110_001_a2b",
         "jp": "さあ……",
         "en": "Maybe.",
-        "ru": "Возможно."
+        "ru": "Возможно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/844.wav"
     },
     {
         "id": "M5110_S0020_G0000_001_pascal",
         "jp": "２Ｂさん、９Ｓさん。",
         "en": "Um, hello there! Hello? Testing testing?",
-        "ru": "Эм, привет! Здравствуйте? Приём-приём?"
+        "ru": "Эм, привет! Здравствуйте? Приём-приём?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/573.wav"
     },
     {
         "id": "M5110_S0020_G0010_001_a9s",
@@ -117,31 +122,36 @@
         "id": "M5110_S0020_G0030_001_pascal",
         "jp": "話は聞きました。迷子を捜してくださっているそうですね。",
         "en": "I heard that you were searching for the missing child, yes?",
-        "ru": "Я слышал, что вы ищете пропавшего ребёнка, так ведь?"
+        "ru": "Я слышал, что вы ищете пропавшего ребёнка, так ведь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/575.wav"
     },
     {
         "id": "M5110_S0020_G0040_001_pascal",
         "jp": "私からもお願いします。どうか、早く見つけてやってください。",
         "en": "Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!",
-        "ru": "Если это так, прошу, рассматривайте это как мою личную просьбу. Ступайте и отыщите ребёнка как можно быстрее!"
+        "ru": "Если это так, прошу, рассматривайте это как мою личную просьбу. Ступайте и отыщите ребёнка как можно быстрее!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/576.wav"
     },
     {
         "id": "M5110_S0020_G0050_001_pascal",
         "jp": "あれは姉思いのいい子なんです。",
         "en": "She's such a good little girl, and so fond of her sister!",
-        "ru": "Она такая хорошая девочка, и она так сильно любит свою сестру!"
+        "ru": "Она такая хорошая девочка, и она так сильно любит свою сестру!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/577.wav"
     },
     {
         "id": "M5110_S0020_G0060_001_pascal",
         "jp": "恐らく、あの子は砂漠地帯にいるかと思います。",
         "en": "She's probably somewhere around the desert at the moment.",
-        "ru": "Возможно, что сейчас она находится где-то в пустыне."
+        "ru": "Возможно, что сейчас она находится где-то в пустыне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/578.wav"
     },
     {
         "id": "M5110_S0020_G0070_001_pascal",
         "jp": "その付近に、あの子の姉が必要としているパーツ\\n『凹んだ金属板』があるので……",
         "en": "That's where she's likely to find the dented plate her sister needs.",
-        "ru": "Скорее всего, она будет искать погнутую пластину для своей сестры вот здесь."
+        "ru": "Скорее всего, она будет искать погнутую пластину для своей сестры вот здесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/579.wav"
     },
     {
         "id": "M5110_S0020_G0080_001_a2b",
@@ -213,19 +223,22 @@
         "id": "M5110_S0030_G0080_001_a2b",
         "jp": "じゃあ、あとはこの子をパスカルの村まで連れて行くだけ……",
         "en": "Right. Let's get her back to Pascal's village.",
-        "ru": "Хорошо. Давай отведём её в деревню Паскаля."
+        "ru": "Хорошо. Давай отведём её в деревню Паскаля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/846.wav"
     },
     {
         "id": "M5110_S0030_G0090_001_a9s",
         "jp": "でも、どうしてこんなところをさ迷ってたの？",
         "en": "How'd you get lost out here, anyway?",
-        "ru": "И как же ты умудрилась здесь потеряться?"
+        "ru": "И как же ты умудрилась здесь потеряться?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/30.wav"
     },
     {
         "id": "M5110_S0030_G0110_001_roboimouto",
         "jp": "おねえサンのパーツ……探してたら……",
         "en": "I was looking for my sister's part...",
-        "ru": "Я искала деталь для своей сестры..."
+        "ru": "Я искала деталь для своей сестры...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/731.wav"
     },
     {
         "id": "M5110_S0030_G0120_001_roboimouto",
@@ -237,13 +250,15 @@
         "id": "M5110_S0030_G0130_001_a9s",
         "jp": "ああ、泣かないで。",
         "en": "Aw, come on now, don't cry!",
-        "ru": "О, ну же, не плачь!"
+        "ru": "О, ну же, не плачь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/31.wav"
     },
     {
         "id": "M5110_S0030_G0140_001_a9s",
         "jp": "それで？パーツは見つかったの？",
         "en": "Did you at least find what you needed?",
-        "ru": "Ты ведь нашла то, за чем пришла?"
+        "ru": "Ты ведь нашла то, за чем пришла?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/32.wav"
     },
     {
         "id": "M5110_S0030_G0150_001_roboimouto",
@@ -255,7 +270,8 @@
         "id": "M5110_S0030_G0160_001_a9s",
         "jp": "そうだね。けど君が無事に戻ったら、もっと喜ぶと思うよ。",
         "en": "I'm sure she will. But I bet she'll be even happier to see you back home safe and sound.",
-        "ru": "Уверен, что будет. Но, держу пари, она будет ещё счастливее увидеть тебя в целости и сохранности дома."
+        "ru": "Уверен, что будет. Но, держу пари, она будет ещё счастливее увидеть тебя в целости и сохранности дома.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/33.wav"
     },
     {
         "id": "M5110_S0030_G0170_001_roboimouto",
@@ -273,7 +289,8 @@
         "id": "M5110_S0030_G0260_001_a9s",
         "jp": "えーっと……降水量の減少のせいで植生が失われて、",
         "en": "No one \"made\" the desert. It's just an area that lost all its vegetation due to a lack of precipitation.",
-        "ru": "Никто её не \"создавал\". Это обычная зона, откуда исчезла растительность ввиду недостатка осадков."
+        "ru": "Никто её не \"создавал\". Это обычная зона, откуда исчезла растительность ввиду недостатка осадков.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/37.wav"
     },
     {
         "id": "M5110_S0030_G0270_001_a9s",
@@ -291,7 +308,8 @@
         "id": "M5110_S0030_G0290_001_a9s",
         "jp": "ああ、土壌っていうのは地面にある土の事だよ。",
         "en": "Soil? Uh, it's dirt. Ground. The stuff we're walking on?",
-        "ru": "Почва? Эм, это земля. Штука, по которой мы ходим."
+        "ru": "Почва? Эм, это земля. Штука, по которой мы ходим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/39.wav"
     },
     {
         "id": "M5110_S0030_G0300_001_roboimouto",
@@ -309,13 +327,15 @@
         "id": "M5110_S0030_G0320_001_a9s",
         "jp": "それは気温や気圧の変化が……",
         "en": "Wind is just a force caused by changes in temperature and atmospheric pressure and...",
-        "ru": "Ветер — сила, вызванная изменениями температуры и атмосферного давления и..."
+        "ru": "Ветер — сила, вызванная изменениями температуры и атмосферного давления и...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/40.wav"
     },
     {
         "id": "M5110_S0030_G0330_001_a9s",
         "jp": "っていうか、確かに風ってどこから吹いてくるんでしょうか。",
         "en": "Huh. That's actually a hard question, now that I think about it.",
-        "ru": "Хм. Теперь, когда я задумался над этим, мне кажется, что это довольно сложный вопрос."
+        "ru": "Хм. Теперь, когда я задумался над этим, мне кажется, что это довольно сложный вопрос.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/41.wav"
     },
     {
         "id": "M5110_S0030_G0340_001_a9s",
@@ -327,13 +347,15 @@
         "id": "M5110_S0030_G0350_001_a2b",
         "jp": "私に聞かない。",
         "en": "Don't know. Don't care.",
-        "ru": "Меня это не касается."
+        "ru": "Меня это не касается.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/848.wav"
     },
     {
         "id": "M5110_S0030_G0360_001_roboimouto",
         "jp": "ねえ、こどもはどうやってうまれルノ？",
         "en": "Hey, mister? How do you make children?",
-        "ru": "Эй, дяденька? А откуда берутся дети?"
+        "ru": "Эй, дяденька? А откуда берутся дети?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/739.wav"
     },
     {
         "id": "M5110_S0030_G0370_001_a9s",
@@ -345,7 +367,8 @@
         "id": "M5110_S0030_G0380_001_a9s",
         "jp": "いや、機械生命体もアンドロイドも子供は作る事は出来なくて……",
         "en": "Well, machines can't really make children. Neither can androids, now that I think about it.",
-        "ru": "Ну, вообще-то, машины не могут делать детей. И андроиды тоже не могут, если задуматься."
+        "ru": "Ну, вообще-то, машины не могут делать детей. И андроиды тоже не могут, если задуматься.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/44.wav"
     },
     {
         "id": "M5110_S0030_G0390_001_roboimouto",
@@ -357,13 +380,15 @@
         "id": "M5110_S0030_G0400_001_a9s",
         "jp": "２Ｂ……",
         "en": "Uh, 2B? Little help here?",
-        "ru": "Эм, 2B? Не поможешь мне тут?"
+        "ru": "Эм, 2B? Не поможешь мне тут?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/45.wav"
     },
     {
         "id": "M5110_S0030_G0410_001_a2b",
         "jp": "そ、そんな声で言われても、私は助けられない。",
         "en": "Huh? You're the chatty one. Work it out.",
-        "ru": "Чего? Ты уже у нас болтун. Вот и расхлёбывай сам."
+        "ru": "Чего? Ты уже у нас болтун. Вот и расхлёбывай сам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/849.wav"
     },
     {
         "id": "M5110_S0030_G0420_001_a9s",
@@ -381,7 +406,8 @@
         "id": "M5110_S0030_G0440_001_a9s",
         "jp": "早く行こう！ほら、おねえサン待ってるよ！",
         "en": "Wow, it's getting late! Let's get you home already!",
-        "ru": "Вау, уже так поздно! Надо бы поскорее отвести тебя домой!"
+        "ru": "Вау, уже так поздно! Надо бы поскорее отвести тебя домой!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/47.wav"
     },
     {
         "id": "M5110_S0030_G0000_001_roboimouto",
@@ -429,7 +455,8 @@
         "id": "M5110_S0040_G0060_001_a9s",
         "jp": "何だか……どっと疲れました。",
         "en": "Well, that was exhausting.",
-        "ru": "Что ж, это было утомительно."
+        "ru": "Что ж, это было утомительно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/49.wav"
     },
     {
         "id": "M5110_S0040_G0070_001_a2b",
@@ -483,25 +510,29 @@
         "id": "M5110_S0030_G0180_001_a2b",
         "jp": "９Ｓ……あの迷子だった子が見当たらない。",
         "en": "9S? Where's the girl?",
-        "ru": "9S? Где девочка?"
+        "ru": "9S? Где девочка?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/847.wav"
     },
     {
         "id": "M5110_S0030_G0190_001_a9s",
         "jp": "ええっ！？……本当だ。",
         "en": "Huh? Oh, hell!",
-        "ru": "А? Вот чёрт!"
+        "ru": "А? Вот чёрт!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/34.wav"
     },
     {
         "id": "M5110_S0030_G0200_001_a9s",
         "jp": "どこではぐれちゃったんだろう……",
         "en": "We must have gotten separated somehow.",
-        "ru": "Должно быть, мы где-то разошлись."
+        "ru": "Должно быть, мы где-то разошлись.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/35.wav"
     },
     {
         "id": "M5110_S0030_G0210_001_a9s",
         "jp": "あの子を見つけた場所に戻ってみましょうか。",
         "en": "Let's go back to where we first found her. I bet she's waiting there.",
-        "ru": "Давай вернёмся к месту, где впервые нашли её. Уверен, она ждёт нас именно там."
+        "ru": "Давай вернёмся к месту, где впервые нашли её. Уверен, она ждёт нас именно там.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/36.wav"
     },
     {
         "id": "M5110_S0030_G0220_001_roboimouto",

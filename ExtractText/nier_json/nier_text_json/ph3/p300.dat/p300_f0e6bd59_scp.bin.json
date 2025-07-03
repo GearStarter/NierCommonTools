@@ -3,7 +3,8 @@
         "id": "M3060_S0095_G0000_001_pod042",
         "jp": "報告：大型構造物、通称『塔』ゲートの開放を確認。",
         "en": "Alert: The structure known as the Tower has opened its gate.",
-        "ru": "Внимание: сооружение, именуемое Башней, открыло врата."
+        "ru": "Внимание: сооружение, именуемое Башней, открыло врата.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/854.wav"
     },
     {
         "id": "M3060_S0095_G0010_001_a2",
@@ -27,7 +28,8 @@
         "id": "M3060_S0110_G0020_001_dbl",
         "jp": "９Ｓが、先に行ってる……",
         "en": "9S is already inside.",
-        "ru": "9S уже внутри."
+        "ru": "9S уже внутри.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/959.wav"
     },
     {
         "id": "M3060_S0110_G0030_001_a2",
@@ -45,7 +47,8 @@
         "id": "M3060_S0120_S0010_001_dbl",
         "jp": "私達は……",
         "en": "Did we...",
-        "ru": "Мы..."
+        "ru": "Мы...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/961.wav"
     },
     {
         "id": "M3060_S0120_S0020_001_dbl",

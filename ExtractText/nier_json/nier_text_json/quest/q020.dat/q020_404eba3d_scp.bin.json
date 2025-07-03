@@ -273,7 +273,8 @@
         "id": "M5020_S0040_G0270_001_a9s",
         "jp": "はあ……",
         "en": "Okay then.",
-        "ru": "Как скажете."
+        "ru": "Как скажете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1767.wav"
     },
     {
         "id": "M5020_S0040_G0280_001_a2b",
@@ -333,7 +334,8 @@
         "id": "M5020_S0040_G0270_001_a9s",
         "jp": "はあ……",
         "en": "Okay then.",
-        "ru": "Как скажете."
+        "ru": "Как скажете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1767.wav"
     },
     {
         "id": "M5020_S0040_G0280_001_a2b",
@@ -837,7 +839,8 @@
         "id": "M5020_S0070_G0000_001_a9s",
         "jp": "なんだか、疲れましたね……",
         "en": "This is exhausting.",
-        "ru": "Это так утомительно."
+        "ru": "Это так утомительно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1911.wav"
     },
     {
         "id": "M5020_S0070_G0010_001_a9s",
@@ -849,13 +852,15 @@
         "id": "M5020_S0070_G0020_001_a9s",
         "jp": "相手は勝手に幻想を押し付けて、盲信する……",
         "en": "And yet his followers just keep talking about how great he is!",
-        "ru": "А его последователи продолжают твердить о том, насколько он великий!"
+        "ru": "А его последователи продолжают твердить о том, насколько он великий!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1913.wav"
     },
     {
         "id": "M5020_S0070_G0030_001_a9s",
         "jp": "この関係に、一体、どんな意味があるんでしょうか？",
         "en": "What's the point of all this? And what's he even getting out of it?",
-        "ru": "Где здесь вообще смысл? И что он вообще вытворяет?"
+        "ru": "Где здесь вообще смысл? И что он вообще вытворяет?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1914.wav"
     },
     {
         "id": "M5020_S0070_G0040_001_a2b",
@@ -873,19 +878,22 @@
         "id": "M5020_S0070_G0120_001_a9s",
         "jp": "最後まで意味不明の人でしたね……",
         "en": "Well, he's nothing if not consistent. A weirdo right to the very end...",
-        "ru": "Ну, он довольно стабильно себя ведёт. Чудак до самого конца..."
+        "ru": "Ну, он довольно стабильно себя ведёт. Чудак до самого конца...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1915.wav"
     },
     {
         "id": "M5020_S0070_G0130_001_a9s",
         "jp": "人類も、男と女っていうのはこんな不思議な関係だったんでしょうか。",
         "en": "I wonder if all his followers being female had something to do with his weirdness. Did the human sexes interact with each other like this?",
-        "ru": "Интересно, все ли его женщины-последователи имеют такое отношение к его странностям. Неужели люди разных полов взаимодействовали так же?"
+        "ru": "Интересно, все ли его женщины-последователи имеют такое отношение к его странностям. Неужели люди разных полов взаимодействовали так же?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1916.wav"
     },
     {
         "id": "M5020_S0070_G0140_001_a2b",
         "jp": "……さあ。",
         "en": "Who knows...",
-        "ru": "Как знать..."
+        "ru": "Как знать...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/805.wav"
     },
     {
         "id": "M5020_S0030_G0000_001_a9s",
@@ -909,7 +917,8 @@
         "id": "M5020_S0030_G0030_001_a2b",
         "jp": "確かに……かなり……ね。",
         "en": "That's certainly one way to put it...",
-        "ru": "Пожалуй... наверное..."
+        "ru": "Пожалуй... наверное...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/803.wav"
     },
     {
         "id": "M5020_S0050_G0000_001_a9s",

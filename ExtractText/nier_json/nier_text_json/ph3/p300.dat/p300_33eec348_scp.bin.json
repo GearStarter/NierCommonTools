@@ -21,7 +21,8 @@
         "id": "M3030_S0100_G0030_300_n02",
         "jp": "ダイジョウブ？",
         "en": "Are you okay?",
-        "ru": "Ты в порядке?"
+        "ru": "Ты в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1670.wav"
     },
     {
         "id": "M3030_S0100_G0040_300_n02",
@@ -111,18 +112,21 @@
         "id": "M3030_S0100_G0170_300_n02",
         "jp": "ダレカ、タスケテ……",
         "en": "Somebody help us...",
-        "ru": "Кто-нибудь, помогите нам..."
+        "ru": "Кто-нибудь, помогите нам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/984.wav"
     },
     {
         "id": "M3030_S0100_G0200_300__pascal",
         "jp": "Ａ２さん！？\\nやめてください！！",
         "en": "A2!? Stop that at once!",
-        "ru": "A2?! Прекрати это!"
+        "ru": "A2?! Прекрати это!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/525.wav"
     },
     {
         "id": "M3030_S0100_G0210_300__pascal",
         "jp": "今破壊されると私達は元に戻れないのです！！\\n冗談はやめて下さい！！",
         "en": "If we're destroyed now, we can't be restored! This isn't funny!",
-        "ru": "Если нас уничтожат, то мы не сможем восстановиться. Это уже не смешно!"
+        "ru": "Если нас уничтожат, то мы не сможем восстановиться. Это уже не смешно!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/526.wav"
     }
 ]

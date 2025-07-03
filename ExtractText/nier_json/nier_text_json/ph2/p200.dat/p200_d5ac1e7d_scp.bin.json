@@ -9,19 +9,22 @@
         "id": "M1070_S0120_G0010_101_pod042",
         "jp": "検知：ケイ素と炭素が含まれる結晶状の物質。",
         "en": "Analysis: This area is composed of crystallized silicon and carbon.",
-        "ru": "Анализ: эта область состоит из кристаллов кремния и углерода."
+        "ru": "Анализ: эта область состоит из кристаллов кремния и углерода.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/674.wav"
     },
     {
         "id": "M1070_S0120_G0020_101_pod042",
         "jp": "詳細についてはデータ不足の為不明。",
         "en": "Further details unknown.",
-        "ru": "Другие подробности неизвестны."
+        "ru": "Другие подробности неизвестны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/675.wav"
     },
     {
         "id": "M1070_S0120_G0030_101_a2b",
         "jp": "誰がこんな物を？",
         "en": "Who built it?",
-        "ru": "Кто это построил?"
+        "ru": "Кто это построил?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/628.wav"
     },
     {
         "id": "M1070_S0120_G0040_101_pod042",
@@ -33,30 +36,35 @@
         "id": "M1070_S0120_G0050_101_a2b",
         "jp": "どうして死体が……",
         "en": "What's with the corpses?",
-        "ru": "Что с трупами?"
+        "ru": "Что с трупами?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/629.wav"
     },
     {
         "id": "M1070_S0120_G0060_101_pod042",
         "jp": "ヨルハ部隊員が自力で侵入した可能性は低い。",
         "en": "It is unlikely the YoRHa units came this far on their own.",
-        "ru": "Не похоже, что единицы YoRHa сами пришли сюда."
+        "ru": "Не похоже, что единицы YoRHa сами пришли сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/677.wav"
     },
     {
         "id": "M1070_S0120_G0070_101_pod042",
         "jp": "予測：意図的に敵によって配置されている。",
         "en": "Hypothesis: The enemy must have placed them here deliberately.",
-        "ru": "Предположение: противник оставил их здесь не случайно."
+        "ru": "Предположение: противник оставил их здесь не случайно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/678.wav"
     },
     {
         "id": "M1070_S0040_G0281_300_pod042",
         "jp": "推奨：９Ｓの捜索を優先。",
         "en": "Proposal: Prioritize search for 9S.",
-        "ru": "Предложение: поиск 9S имеет высший приоритет."
+        "ru": "Предложение: поиск 9S имеет высший приоритет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/673.wav"
     },
     {
         "id": "M1070_S0040_G0282_300_a2b",
         "jp": "分かってる、急ごう。",
         "en": "I know. Let's move.",
-        "ru": "Я в курсе. Выдвигаемся."
+        "ru": "Я в курсе. Выдвигаемся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/627.wav"
     }
 ]

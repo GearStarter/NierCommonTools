@@ -3,13 +3,15 @@
         "id": "M1050_S0005_G0001_001_a9s",
         "jp": "また、この道を戻るんですか……めんどくさいですね。",
         "en": "Back this way again? What a pain.",
-        "ru": "Опять возвращаться этим же путём? Что за фигня."
+        "ru": "Опять возвращаться этим же путём? Что за фигня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1330.wav"
     },
     {
         "id": "M1050_S0005_G0002_001_a2b",
         "jp": "文句言わない。９Ｓ。",
         "en": "Stop complaining.",
-        "ru": "Хватит жаловаться."
+        "ru": "Хватит жаловаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/540.wav"
     },
     {
         "id": "M1050_S0005_G0003_001_a9s",
@@ -27,43 +29,50 @@
         "id": "M1050_S0005_G0010_001_op60",
         "jp": "廃墟都市の転送装置の配備と稼働を確認しました。",
         "en": "We now have an operational transporter in the city ruins.",
-        "ru": "Теперь у нас есть рабочий транспортёр в руинах города."
+        "ru": "Теперь у нас есть рабочий транспортёр в руинах города.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/270.wav"
     },
     {
         "id": "M1050_S0005_G0020_001_op60",
         "jp": "他のポイントも準備中です。",
         "en": "We're attempting to deploy them at other points as well.",
-        "ru": "Мы пытаемся развернуть их и на других точках."
+        "ru": "Мы пытаемся развернуть их и на других точках.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/271.wav"
     },
     {
         "id": "M1050_S0005_G0030_001_a9s",
         "jp": "ようやく、転送装置が使えるんですね。",
         "en": "About time we had access to those!",
-        "ru": "У нас будет доступ!"
+        "ru": "У нас будет доступ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1332.wav"
     },
     {
         "id": "M1050_S0005_G0040_001_a2b",
         "jp": "転送装置？",
         "en": "Care to fill me in?",
-        "ru": "Не просветишь?"
+        "ru": "Не просветишь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/541.wav"
     },
     {
         "id": "M1050_S0005_G0050_001_a9s",
         "jp": "ええ……地上にボディを残したまま、\\nバンカーの仮ボディに自我データを転送する装置です。",
         "en": "Transporters? They let you transfer your consciousness to a temporary body back in the Bunker.",
-        "ru": "О транспортёрах? Они позволяют переносить твоё сознание во временное тело в Бункере."
+        "ru": "О транспортёрах? Они позволяют переносить твоё сознание во временное тело в Бункере.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1333.wav"
     },
     {
         "id": "M1050_S0005_G0060_001_a9s",
         "jp": "技術部の人から話を聞いてたんですが、ようやく実用化されたんですね。",
         "en": "I heard some tech guys talking about it a while ago, but I didn't know they'd finally got it working.",
-        "ru": "Я слышал, что техники когда-то поговаривали об этом, но не думал, что они наконец-то заработали."
+        "ru": "Я слышал, что техники когда-то поговаривали об этом, но не думал, что они наконец-то заработали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1334.wav"
     },
     {
         "id": "M1050_S0005_G0070_001_a9s",
         "jp": "マップに位置データをポイントしますね。",
         "en": "Anyway, I'll mark the positional data on the map.",
-        "ru": "В любом случае я буду ставить отметки на карте."
+        "ru": "В любом случае я буду ставить отметки на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1335.wav"
     },
     {
         "id": "M1050_S0005_G0071_001_jackas",
@@ -87,13 +96,15 @@
         "id": "M1050_S0005_G0074_001_jackas",
         "jp": "転送装置も動かせるようにしておいたから。",
         "en": "Oh, and I got the stupid transporter up and running too.",
-        "ru": "А, и ещё я заставила работать этот тупой транспортёр."
+        "ru": "А, и ещё я заставила работать этот тупой транспортёр.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/54.wav"
     },
     {
         "id": "M1050_S0005_G0075_001_a9s",
         "jp": "あ、ありがとうございます。",
         "en": "Um, thank you?",
-        "ru": "Эм... спасибо?"
+        "ru": "Эм... спасибо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1336.wav"
     },
     {
         "id": "M1050_S0005_G0076_001_jackas",
@@ -105,7 +116,8 @@
         "id": "M1050_S0005_G0077_001_jackas",
         "jp": "今度会ったら文句言っといてよ。",
         "en": "Next time you see her, give her some lip for me, will ya?",
-        "ru": "В следующий раз чмокни её за меня, лады?"
+        "ru": "В следующий раз чмокни её за меня, лады?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/56.wav"
     },
     {
         "id": "M1050_S0005_G0010_300_jackas",
@@ -147,13 +159,15 @@
         "id": "M1050_S0005_G0074_001_jackas",
         "jp": "転送装置も動かせるようにしておいたから。",
         "en": "Oh, and I got the stupid transporter up and running too.",
-        "ru": "А, и ещё я заставила работать этот тупой транспортёр."
+        "ru": "А, и ещё я заставила работать этот тупой транспортёр.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/54.wav"
     },
     {
         "id": "M1050_S0005_G0075_001_a9s",
         "jp": "あ、ありがとうございます。",
         "en": "Um, thank you?",
-        "ru": "Эм... спасибо?"
+        "ru": "Эм... спасибо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1336.wav"
     },
     {
         "id": "M1050_S0005_G0076_001_jackas",
@@ -165,19 +179,22 @@
         "id": "M1050_S0005_G0077_001_jackas",
         "jp": "今度会ったら文句言っといてよ。",
         "en": "Next time you see her, give her some lip for me, will ya?",
-        "ru": "В следующий раз чмокни её за меня, лады?"
+        "ru": "В следующий раз чмокни её за меня, лады?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/56.wav"
     },
     {
         "id": "M1050_S0005_G0080_001_a2b",
         "jp": "これが転送装置……",
         "en": "So this has a transporter now, huh?",
-        "ru": "Итак, теперь у нас есть транспортёр, да?"
+        "ru": "Итак, теперь у нас есть транспортёр, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/543.wav"
     },
     {
         "id": "M1050_S0005_G0100_001_a9s",
         "jp": "でも、転送装置があれば……",
         "en": "Still, transporters ARE pretty handy!",
-        "ru": "Всё же транспортёры довольно удобны!"
+        "ru": "Всё же транспортёры довольно удобны!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1338.wav"
     },
     {
         "id": "M1050_S0005_G0110_001_a9s",
@@ -189,6 +206,7 @@
         "id": "M1050_S0005_G0120_001_a9s",
         "jp": "飛行ユニットは運用コストが高いですし、攻撃される危険もありますしね。",
         "en": "Flight units also leave us open to attack, and they're expensive to operate, too.",
-        "ru": "Полётные модули также делают нас уязвимыми для атак, и они очень дорогие в эксплуатации."
+        "ru": "Полётные модули также делают нас уязвимыми для атак, и они очень дорогие в эксплуатации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1340.wav"
     }
 ]

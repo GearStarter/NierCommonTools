@@ -9,7 +9,8 @@
         "id": "M5095_S0300_G0010_001_n02",
         "jp": "毎日残業、残業、残業、残業、残業デ死にソウだよ。",
         "en": "I'm busting my can doing overtime every single day.",
-        "ru": "Я каждый день старался, работал сверхурочно."
+        "ru": "Я каждый день старался, работал сверхурочно.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/30.wav"
     },
     {
         "id": "M5095_S0300_G0100_001_n02",
@@ -27,13 +28,15 @@
         "id": "M5095_S0300_G0120_001_n02",
         "jp": "サーバールームで記録整理カ。",
         "en": "Oh yeah, the server room.",
-        "ru": "Ах да, в серверную."
+        "ru": "Ах да, в серверную.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/199.wav"
     },
     {
         "id": "M5095_S0300_G0130_001_n02",
         "jp": "ハァ、アソコノ部屋は空気が淀んデて嫌いナンダヨナ。",
         "en": "That place is so stuffy. I hate it there.",
-        "ru": "Там так душно. Ненавижу её."
+        "ru": "Там так душно. Ненавижу её.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/200.wav"
     },
     {
         "id": "M5095_S0300_G0140_001_n02",
@@ -57,7 +60,8 @@
         "id": "M5095_S0300_G0030_001_n02",
         "jp": "アア、暴走した、あの個体ね……",
         "en": "Oh yeah, I remember. That's the guy who went haywire.",
-        "ru": "О да, помню. Паренёк, который в итоге сошёл с ума."
+        "ru": "О да, помню. Паренёк, который в итоге сошёл с ума.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/32.wav"
     },
     {
         "id": "M6150_S0145_G0000_001_juniorR",

@@ -45,19 +45,22 @@
         "id": "M1030_S0010_G0112_001_a9s",
         "jp": "はい。こちら９Ｓ。",
         "en": "This is 9S. Go ahead.",
-        "ru": "9S на связи, продолжайте."
+        "ru": "9S на связи, продолжайте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1203.wav"
     },
     {
         "id": "M1030_S0010_G0113_001_op210",
         "jp": "司令官から２Ｂ・９Ｓ両名へのメッセージがあります。",
         "en": "I have an incoming message for 2B and 9S from the Commander.",
-        "ru": "У меня есть сообщение от Командора для 2B и 9S."
+        "ru": "У меня есть сообщение от Командора для 2B и 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/125.wav"
     },
     {
         "id": "M1030_S0010_G0120_001_op210",
         "jp": "再生します。",
         "en": "Initiating playback.",
-        "ru": "Начинаю воспроизведение."
+        "ru": "Начинаю воспроизведение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/126.wav"
     },
     {
         "id": "M1030_S0010_G0130_001_cmd",
@@ -69,13 +72,15 @@
         "id": "M1030_S0010_G0140_001_cmd",
         "jp": "現在もブラックボックス信号が確認されている事から、\\n死亡はしていないと推定される。",
         "en": "Their black boxes are online, so we presume they're still alive.",
-        "ru": "Но их чёрные ящики активны, поэтому мы полагаем, что они всё ещё живы."
+        "ru": "Но их чёрные ящики активны, поэтому мы полагаем, что они всё ещё живы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/53.wav"
     },
     {
         "id": "M1030_S0010_G0150_001_cmd",
         "jp": "信号の発信されているポイントを絞り込んだので、",
         "en": "We've tracked the location of their signals,",
-        "ru": "Мы отследили их местоположение,"
+        "ru": "Мы отследили их местоположение,",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/54.wav"
     },
     {
         "id": "M1030_S0010_G0160_001_cmd",
@@ -93,24 +98,28 @@
         "id": "M1030_S0010_G0180_001_a2b",
         "jp": "そういえば……レジスタンスキャンプでも同じような話を聞いた……",
         "en": "Hmm. I heard something about that back at the Resistance camp.",
-        "ru": "Хм. В лагере Сопротивления ходят слухи об этом."
+        "ru": "Хм. В лагере Сопротивления ходят слухи об этом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/492.wav"
     },
     {
         "id": "M1030_S0010_G0190_001_a9s",
         "jp": "目標地点の情報をセットしました。",
         "en": "Target location confirmed.",
-        "ru": "Местоположение цели подтверждено."
+        "ru": "Местоположение цели подтверждено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1204.wav"
     },
     {
         "id": "M1030_S0010_G0200_001_a9s",
         "jp": "他のアンドロイドの人達が心配ですね……",
         "en": "I'm worried about the other androids...",
-        "ru": "Я беспокоюсь за тех андроидов..."
+        "ru": "Я беспокоюсь за тех андроидов...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1205.wav"
     },
     {
         "id": "M1030_S0010_G0210_001_a9s",
         "jp": "早めに行った方がいい気がします。",
         "en": "We should probably check this out as soon as possible.",
-        "ru": "Нам стоит проверить всё это как можно скорее."
+        "ru": "Нам стоит проверить всё это как можно скорее.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1206.wav"
     }
 ]

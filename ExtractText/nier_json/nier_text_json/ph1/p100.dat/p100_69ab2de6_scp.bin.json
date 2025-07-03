@@ -9,13 +9,15 @@
         "id": "M1010_S0040_G0010_001_a9s",
         "jp": "現地調査なら僕達スキャナーモデルだけで十分なのに。",
         "en": "If all they want is intel, we Scanner models are built for that kind of thing.",
-        "ru": "Если им нужны лишь данные, то это дело как раз для нас, сканеров."
+        "ru": "Если им нужны лишь данные, то это дело как раз для нас, сканеров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1129.wav"
     },
     {
         "id": "M1010_S0040_G0020_001_a2b",
         "jp": "……命令に文句を言わない。",
         "en": "Orders are orders.",
-        "ru": "Приказ есть приказ."
+        "ru": "Приказ есть приказ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/475.wav"
     },
     {
         "id": "M1010_S0040_G0030_001_a9s",
@@ -27,13 +29,15 @@
         "id": "M1010_S0040_G0031_001_op60",
         "jp": "２Ｂさん。今回から新装備が搭載されています。",
         "en": "2B, you're going to have some new weaponry installed from here on out.",
-        "ru": "2B, недавно мы установили тебе новое вооружение."
+        "ru": "2B, недавно мы установили тебе новое вооружение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/252.wav"
     },
     {
         "id": "M1010_S0040_G0032_001_op60",
         "jp": "使用方法を表示しますので確認してください。",
         "en": "I'll put up instructions for you. Make sure to commit them to memory!",
-        "ru": "Я подготовила обучение для тебя. Постарайся хорошенько всё запомнить!"
+        "ru": "Я подготовила обучение для тебя. Постарайся хорошенько всё запомнить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/253.wav"
     },
     {
         "id": "M1010_S0040_G0033_001_a2b",
@@ -45,25 +49,29 @@
         "id": "M1010_S0040_G0040_001_op60",
         "jp": "バンカーより２Ｂさんへ。",
         "en": "Bunker to 2B, come in.",
-        "ru": "Бункер вызывает 2B, приём."
+        "ru": "Бункер вызывает 2B, приём.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/254.wav"
     },
     {
         "id": "M1010_S0040_G0050_001_op60",
         "jp": "飛行ユニットの降下地点を設定しました。",
         "en": "I've set a landing point for your flight units.",
-        "ru": "Я установила точку высадки для ваших полётных модулей."
+        "ru": "Я установила точку высадки для ваших полётных модулей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/255.wav"
     },
     {
         "id": "M1010_S0040_G0060_001_op60",
         "jp": "レジスタンスのキャンプよりちょっと離れた場所なんですが……",
         "en": "You'll be touching down quite a ways from the Resistance camp, unfortunately.",
-        "ru": "К сожалению, высадка пройдёт вдалеке от лагеря Сопротивления."
+        "ru": "К сожалению, высадка пройдёт вдалеке от лагеря Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/256.wav"
     },
     {
         "id": "M1010_S0040_G0070_001_op60",
         "jp": "敵への情報漏洩を防止する為なので我慢してください。",
         "en": "Sorry for the trouble, but we can't risk the enemy discovering their position.",
-        "ru": "Прошу прощения за неудобства, но мы не можем позволить врагу раскрыть нашу позицию."
+        "ru": "Прошу прощения за неудобства, но мы не можем позволить врагу раскрыть нашу позицию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/257.wav"
     },
     {
         "id": "M1010_S0040_G0080_001_a2b",
@@ -75,6 +83,7 @@
         "id": "M1010_S0040_G0090_001_op60",
         "jp": "がんばってくださいね！",
         "en": "Good luck down there!",
-        "ru": "Удачи на поверхности!"
+        "ru": "Удачи на поверхности!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/258.wav"
     }
 ]

@@ -21,19 +21,22 @@
         "id": "M1090_S0240_G0030_001_a9s",
         "jp": "広範囲に強制通信を撒き散らしているみたいです……",
         "en": "Looks like he's bombarding the area with forced connections...",
-        "ru": "Похоже, он посылает принудительные подключения в широком диапазоне..."
+        "ru": "Похоже, он посылает принудительные подключения в широком диапазоне...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1587.wav"
     },
     {
         "id": "M1090_S0240_G0031_001_a9s",
         "jp": "おそらく、この強力な通信が敵の機械生命体を\\n凶暴にさせているんだと思います。",
         "en": "I think all these transmissions are making the machines go haywire.",
-        "ru": "Думаю, из-за этого здешние машины и вышли из-под контроля."
+        "ru": "Думаю, из-за этого здешние машины и вышли из-под контроля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1588.wav"
     },
     {
         "id": "M1090_S0240_G0032_001_a9s",
         "jp": "『イヴ』を探しだして、破壊しましょう！",
         "en": "We have to find Eve and destroy him!",
-        "ru": "Мы должны найти Еву и уничтожить его!"
+        "ru": "Мы должны найти Еву и уничтожить его!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1589.wav"
     },
     {
         "id": "M1090_S0240_G0033_001_a2b",
@@ -45,6 +48,7 @@
         "id": "M1090_S0240_G0050_001_a9s",
         "jp": "一体……何が……",
         "en": "Now what?",
-        "ru": "И что теперь?"
+        "ru": "И что теперь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1590.wav"
     }
 ]

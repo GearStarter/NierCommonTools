@@ -9,7 +9,8 @@
         "id": "M1060_S0005_G0010_001_a9s",
         "jp": "話すよりも実際の記録を見てもらった方が話が早いな……",
         "en": "It'll be faster if you just take a look at this recording.",
-        "ru": "Будет быстрее, если ты посмотришь эту запись."
+        "ru": "Будет быстрее, если ты посмотришь эту запись.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1411.wav"
     },
     {
         "id": "M1060_S0005_G0020_001_sele",
@@ -33,42 +34,49 @@
         "id": "M1060_S0005_G0050_001_pascal",
         "jp": "この『Ａ２』というアンドロイドですが、私達の過去記録にもあります。",
         "en": "Information about this A2 android is indeed contained within our archives.",
-        "ru": "Информация про андроида A2 есть в наших архивах."
+        "ru": "Информация про андроида A2 есть в наших архивах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/421.wav"
     },
     {
         "id": "M1060_S0005_G0060_001_pascal",
         "jp": "危険なアンドロイドとして認識していますが……",
         "en": "We all understand her to be rather dangerous.",
-        "ru": "Мы все понимаем, что она очень опасна."
+        "ru": "Мы все понимаем, что она очень опасна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/422.wav"
     },
     {
         "id": "M1060_S0005_G0070_001_pascal",
         "jp": "この村に直接来る事はありませんね。",
         "en": "However, she's never visited our village in person.",
-        "ru": "Однако она не посещала нашу деревню."
+        "ru": "Однако она не посещала нашу деревню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/423.wav"
     },
     {
         "id": "M1060_S0005_G0080_001_pascal",
         "jp": "すみません。私の知っている情報はこのくらいです。",
         "en": "My apologies. That's all the information I have.",
-        "ru": "Извиняюсь, но это вся информация, которая у меня есть."
+        "ru": "Извиняюсь, но это вся информация, которая у меня есть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/424.wav"
     },
     {
         "id": "M1060_S0005_G0090_001_a9s",
         "jp": "そう……ありがとう。",
         "en": "I see... All right, thanks.",
-        "ru": "Понял... Ладно, спасибо."
+        "ru": "Понял... Ладно, спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1412.wav"
     },
     {
         "id": "M1060_S0005_G0170_001_a2b",
         "jp": "各地を警戒しつつ、一度レジスタンスキャンプに戻ろう。",
         "en": "Let's stay sharp and head back to the Resistance camp.",
-        "ru": "Не ослабляй бдительность, давай вернёмся в лагерь Сопротивления."
+        "ru": "Не ослабляй бдительность, давай вернёмся в лагерь Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/574.wav"
     },
     {
         "id": "M1060_S0005_G0180_001_a2b",
         "jp": "自我データのチェックと、補給が必要だから。",
         "en": "We should run a check on our consciousness data and resupply.",
-        "ru": "Нам нужно проверить данные нашего сознания и пополнить запасы."
+        "ru": "Нам нужно проверить данные нашего сознания и пополнить запасы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/575.wav"
     }
 ]

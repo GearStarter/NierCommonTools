@@ -9,13 +9,15 @@
         "id": "M1080_S0080_G0110_201_a9s",
         "jp": "よし。最初のゲート解除！",
         "en": "There we go. First door unlocked!",
-        "ru": "Вот так. Первая дверь открыта!"
+        "ru": "Вот так. Первая дверь открыта!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1541.wav"
     },
     {
         "id": "M1080_S0080_G1120_201_a9s",
         "jp": "２Ｂ！そのまま、まっすぐ進んでください！",
         "en": "2B! Keep going straight!",
-        "ru": "2B! Продолжай двигаться!"
+        "ru": "2B! Продолжай двигаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1543.wav"
     },
     {
         "id": "M1080_S0080_G1130_201_a2b",
@@ -33,7 +35,8 @@
         "id": "M1080_S0080_G1150_201_a9s",
         "jp": "ゲートのロックを解除しました！先に進んでください！",
         "en": "The door's open! Keep moving!",
-        "ru": "Дверь открыта! Продолжай движение!"
+        "ru": "Дверь открыта! Продолжай движение!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1546.wav"
     },
     {
         "id": "M1080_S0080_G1160_201_a2b",
@@ -45,13 +48,15 @@
         "id": "M1080_S0080_G0170_201_a9s",
         "jp": "解放したぞ。",
         "en": "It's open.",
-        "ru": "Дверь открыта."
+        "ru": "Дверь открыта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1549.wav"
     },
     {
         "id": "M1080_S0080_G1180_201_a9s",
         "jp": "出口までのルートを確保完了です！",
         "en": "Exit route secured!",
-        "ru": "Путь отхода безопасен!"
+        "ru": "Путь отхода безопасен!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1550.wav"
     },
     {
         "id": "M1080_S0080_G1190_201_a2b",
@@ -69,13 +74,15 @@
         "id": "M1080_S0080_G0210_201_pod153",
         "jp": "大型機械生命体は工場施設より電力供給を受けている事を確認。",
         "en": "Said machine is drawing electrical power from the factory itself.",
-        "ru": "Указанная машина поддерживает своё питание от сети фабрики."
+        "ru": "Указанная машина поддерживает своё питание от сети фабрики.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/219.wav"
     },
     {
         "id": "M1080_S0080_G0220_201_pod153",
         "jp": "推奨：工場施設のメインフレームに侵入し電力停止を敢行。",
         "en": "Proposal: Infiltrate the factory's mainframe and shut off the power.",
-        "ru": "Предложение: проникните в главный сервер фабрики и отключите питание."
+        "ru": "Предложение: проникните в главный сервер фабрики и отключите питание.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/220.wav"
     },
     {
         "id": "M1080_S0070_G1290_101_a2b",
@@ -93,7 +100,8 @@
         "id": "M1080_S0070_G1310_101_a9s",
         "jp": "大丈夫です！モニターしてました。工場の電力を落とします！",
         "en": "I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!",
-        "ru": "Понял! Я слежу за ситуацией. Сейчас отключу питание фабрики!"
+        "ru": "Понял! Я слежу за ситуацией. Сейчас отключу питание фабрики!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1523.wav"
     },
     {
         "id": "M1080_S0070_G1320_101_a2b",
@@ -129,6 +137,7 @@
         "id": "M1080_S0070_G1330_101_a9s",
         "jp": "電源供給を停止させました！２Ｂ！",
         "en": "2B! I just shut down the electrical grid!",
-        "ru": "2B! Я отключил энергоснабжение!"
+        "ru": "2B! Я отключил энергоснабжение!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1527.wav"
     }
 ]

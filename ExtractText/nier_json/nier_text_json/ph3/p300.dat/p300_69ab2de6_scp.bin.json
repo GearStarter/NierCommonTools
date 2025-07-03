@@ -3,13 +3,15 @@
         "id": "M3000_S0060_G0000_001_op60",
         "jp": "２Ｂさんの作戦開始地点は廃墟都市の南西にあります。",
         "en": "2B, the operation will begin at a point southwest of the city ruins.",
-        "ru": "2B, операция началась в юго-западной точке руин города."
+        "ru": "2B, операция началась в юго-западной точке руин города.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/293.wav"
     },
     {
         "id": "M3000_S0060_G0010_001_op60",
         "jp": "飛行ユニットで向かい、現地で９Ｓさんと合流してください。",
         "en": "Use your flight unit to travel there and meet up with 9S.",
-        "ru": "Используй свой полётный модуль, чтобы отправиться туда и встретиться с 9S."
+        "ru": "Используй свой полётный модуль, чтобы отправиться туда и встретиться с 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/294.wav"
     },
     {
         "id": "M3000_S0060_G0020_001_a2b",
@@ -21,19 +23,22 @@
         "id": "M3000_S0060_G0021_001_op60",
         "jp": "先日のイヴ戦で破損した武器も修復して搭載しておきました。",
         "en": "We've repaired and reinstalled the weapons damaged in the fight against Eve.",
-        "ru": "Мы отремонтировали и переустановили оружие, повреждённое в бою с Евой."
+        "ru": "Мы отремонтировали и переустановили оружие, повреждённое в бою с Евой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/295.wav"
     },
     {
         "id": "M3000_S0060_G0030_001_op60",
         "jp": "到着時には既に全体の作戦が始まっていますので、気をつけてくださいね。",
         "en": "Be careful, okay? The mission will be in full swing by the time you get there.",
-        "ru": "Будь осторожна, хорошо? Ты прибудешь в самый разгар задания."
+        "ru": "Будь осторожна, хорошо? Ты прибудешь в самый разгар задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/296.wav"
     },
     {
         "id": "M3000_S0060_G0040_001_a2b",
         "jp": "……ありがとう。",
         "en": "I will... And thanks.",
-        "ru": "Хорошо... и спасибо."
+        "ru": "Хорошо... и спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/720.wav"
     },
     {
         "id": "M5920_S0090_G0070_001_human",
@@ -45,25 +50,29 @@
         "id": "M5920_S0090_G0080_001_human",
         "jp": "我らが誇る精鋭ヨルハ部隊が、敵ネットワークユニット、\\nアダム及びイヴを撃破した。",
         "en": "Our elite YoRHa forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve.",
-        "ru": "Наши элитные единицы YoRHa, гордость человечества, уничтожили две единицы вражеской сети, именуемых как Адам и Ева."
+        "ru": "Наши элитные единицы YoRHa, гордость человечества, уничтожили две единицы вражеской сети, именуемых как Адам и Ева.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/69.wav"
     },
     {
         "id": "M5920_S0090_G0090_001_human",
         "jp": "この勝利は地球奪還に向けての大きな一歩となろう。",
         "en": "This victory is a giant leap forward in our quest to reclaim Earth.",
-        "ru": "Эта победа — огромный шаг к нашему возвращению на Землю."
+        "ru": "Эта победа — огромный шаг к нашему возвращению на Землю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/70.wav"
     },
     {
         "id": "M5920_S0090_G0100_001_human",
         "jp": "我々月面の人類も喜びの声に満ちている。",
         "en": "The moon rings out with the cheers of the entire human race!",
-        "ru": "На Луне раздались крики \"ура\" всего человечества!"
+        "ru": "На Луне раздались крики \"ура\" всего человечества!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/71.wav"
     },
     {
         "id": "M5920_S0090_G0110_001_human",
         "jp": "今後のさらなる諸君らの健闘に期待する。",
         "en": "We look forward to your continued combat exploits.",
-        "ru": "Мы будем с нетерпением ждать ваших новых боевых подвигов."
+        "ru": "Мы будем с нетерпением ждать ваших новых боевых подвигов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/72.wav"
     },
     {
         "id": "M5920_S0090_G0120_001_human",

@@ -3,7 +3,8 @@
         "id": "M3060_S1000_G0000_001_pod042",
         "jp": "警告：ハッキングにより機能低下。",
         "en": "Alert: Functionality reduced due to hacking activity.",
-        "ru": "Внимание: функциональность снижена из-за взлома."
+        "ru": "Внимание: функциональность снижена из-за взлома.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/885.wav"
     },
     {
         "id": "M3060_S1000_G0010_001_pod042",

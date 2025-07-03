@@ -165,7 +165,8 @@
         "id": "M5140_S0050_G0110_001_resiwoman",
         "jp": "そんな……そんな……！",
         "en": "No... Oh no...",
-        "ru": "Нет... О, нет..."
+        "ru": "Нет... О, нет...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1716.wav"
     },
     {
         "id": "M5140_S0050_G0120_001_a9s",
@@ -249,7 +250,8 @@
         "id": "M5140_S0050_G0250_001_resiwoman",
         "jp": "でも……",
         "en": "But...",
-        "ru": "Но..."
+        "ru": "Но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "M5140_S0050_G0260_001_resiwoman",
@@ -393,7 +395,8 @@
         "id": "M5140_S0030_G0010_001_a9s",
         "jp": "この辺りになるはずなんですが……",
         "en": "Yeah. We're pretty much standing right on top of whatever they're pointing to.",
-        "ru": "Ага. Мы стоим ровно на том месте, куда они указывают."
+        "ru": "Ага. Мы стоим ровно на том месте, куда они указывают.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/92.wav"
     },
     {
         "id": "M5140_S0030_G0020_001_a2b",
@@ -411,7 +414,8 @@
         "id": "M5140_S0030_G0040_001_n02",
         "jp": "カタキ……コロス……",
         "en": "AVENGE... KILL...",
-        "ru": "ОТОМСТИТЬ... УБИТЬ..."
+        "ru": "ОТОМСТИТЬ... УБИТЬ...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1048.wav"
     },
     {
         "id": "M5140_S0030_G0050_001_n02",
@@ -429,13 +433,15 @@
         "id": "M5140_S0030_G0070_001_n02",
         "jp": "ミンナ、ミンナ、ミンナミンナミンナ",
         "en": "ALL OF YOU YOU YOU YOU YOU...",
-        "ru": "ВСЕХ ВАС, ВАС, ВАС, ВАС, ВАС..."
+        "ru": "ВСЕХ ВАС, ВАС, ВАС, ВАС, ВАС...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1051.wav"
     },
     {
         "id": "M5140_S0030_G0080_001_n02",
         "jp": "ミンミンミンコロコロコロコロコロコロ、",
         "en": "KILL. ALL KILL. ALL OF YOU KILL KILL KILL KILL KILL...",
-        "ru": "УБИТЬ. ВСЕХ УБИТЬ. ВСЕХ ВАС УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ..."
+        "ru": "УБИТЬ. ВСЕХ УБИТЬ. ВСЕХ ВАС УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ, УБИТЬ...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1052.wav"
     },
     {
         "id": "M5140_S0030_G0090_001_n02",
@@ -447,19 +453,22 @@
         "id": "M5140_S0040_G0000_001_a2b",
         "jp": "ポッド、この機械生命体の解析を。",
         "en": "Pod, analyze this machine.",
-        "ru": "Бот, проанализируй эту машину."
+        "ru": "Бот, проанализируй эту машину.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/881.wav"
     },
     {
         "id": "M5140_S0040_G0010_001_a9s",
         "jp": "え？どうしてですか？",
         "en": "Huh? What for?",
-        "ru": "А? Но зачем?"
+        "ru": "А? Но зачем?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/93.wav"
     },
     {
         "id": "M5140_S0040_G0020_001_a2b",
         "jp": "ちょっと気になる事を言ってたから……",
         "en": "Call it professional curiosity.",
-        "ru": "Назовём это профессиональным любопытством."
+        "ru": "Назовём это профессиональным любопытством.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/882.wav"
     },
     {
         "id": "M5140_S0040_G0030_001_pod042",
@@ -471,49 +480,57 @@
         "id": "M5140_S0040_G0040_001_pod042",
         "jp": "その怨恨を理由に、レジスタンスの男性をここに呼び出し",
         "en": "Driven by that grudge, it lured a Resistance member to this location.",
-        "ru": "Движимая злобой, она заманила члена Сопротивления в это место."
+        "ru": "Движимая злобой, она заманила члена Сопротивления в это место.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/971.wav"
     },
     {
         "id": "M5140_S0040_G0050_001_pod042",
         "jp": "最終的に、破壊した模様。",
         "en": "It then proceeded to destroy him.",
-        "ru": "А затем уничтожила его."
+        "ru": "А затем уничтожила его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/972.wav"
     },
     {
         "id": "M5140_S0040_G0060_001_a2b",
         "jp": "機械生命体が……復讐した？",
         "en": "Are you saying this thing wanted revenge?",
-        "ru": "Хочешь сказать, эта штуковина хочет мести?"
+        "ru": "Хочешь сказать, эта штуковина хочет мести?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/883.wav"
     },
     {
         "id": "M5140_S0040_G0070_001_a9s",
         "jp": "そんな複雑な概念を持っているなんて、ちょっと考えづらいですが……",
         "en": "Aw, come on, now. That concept is far too complex for a machine!",
-        "ru": "О, да ну брось. Это понятие слишком сложное для машины!"
+        "ru": "О, да ну брось. Это понятие слишком сложное для машины!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/94.wav"
     },
     {
         "id": "M5140_S0040_G0080_001_a9s",
         "jp": "この遺体は……レジスタンスキャンプで依頼された探し人でしょうか？",
         "en": "This corpse... I wonder if it's the Resistance member we're looking for.",
-        "ru": "Этот труп... Уж не тот ли это член Сопротивления, которого мы ищем."
+        "ru": "Этот труп... Уж не тот ли это член Сопротивления, которого мы ищем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/95.wav"
     },
     {
         "id": "M5140_S0040_G0090_001_a9s",
         "jp": "メモリを調べてみましょう。",
         "en": "Let's check his memory.",
-        "ru": "Давай проверим его память."
+        "ru": "Давай проверим его память.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/96.wav"
     },
     {
         "id": "M5140_S0040_G0100_001_a9s",
         "jp": "この人も、復讐の為にここに来たんですね。",
         "en": "Seems this one came here looking for revenge as well.",
-        "ru": "По-видимому, он тоже пришёл сюда с целью отомстить."
+        "ru": "По-видимому, он тоже пришёл сюда с целью отомстить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/97.wav"
     },
     {
         "id": "M5140_S0040_G0110_001_a2b",
         "jp": "……そして、弱い方が殺された。",
         "en": "I guess the weaker one lost.",
-        "ru": "И, полагаю, слабейший из них потерпел неудачу."
+        "ru": "И, полагаю, слабейший из них потерпел неудачу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/884.wav"
     },
     {
         "id": "M5140_S0040_G0120_001_a9s",
@@ -525,25 +542,29 @@
         "id": "M5140_S0050_G0000_001_a9s",
         "jp": "今回の件……",
         "en": "I really hate this.",
-        "ru": "Я действительно ненавижу это."
+        "ru": "Я действительно ненавижу это.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/99.wav"
     },
     {
         "id": "M5140_S0050_G0010_001_a9s",
         "jp": "依頼人の女性に報告するの、気が重いですね。",
         "en": "I'm going to feel terrible telling that woman what happened to her friend.",
-        "ru": "Я буду чувствовать себя ужасно, рассказывая той женщине о том, что случилось с её другом."
+        "ru": "Я буду чувствовать себя ужасно, рассказывая той женщине о том, что случилось с её другом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/100.wav"
     },
     {
         "id": "M5140_S0050_G0020_001_a2b",
         "jp": "真実を知ったからには、言わないと。",
         "en": "It's the truth. She has to know.",
-        "ru": "Такова правда. Она должна узнать."
+        "ru": "Такова правда. Она должна узнать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/885.wav"
     },
     {
         "id": "M5140_S0050_G0030_001_a9s",
         "jp": "それが、どんな真実でも？",
         "en": "No matter what that truth actually is?",
-        "ru": "Не взирая на то, какова эта правда?"
+        "ru": "Не взирая на то, какова эта правда?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/101.wav"
     },
     {
         "id": "M5140_S0050_G0040_001_a2b",

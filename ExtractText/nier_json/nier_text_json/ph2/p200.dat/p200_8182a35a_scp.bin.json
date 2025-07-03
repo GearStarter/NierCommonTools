@@ -3,18 +3,21 @@
         "id": "M1060_S0040_G0150_001_a9s",
         "jp": "司令官って、本当に人使いが荒いですよね……！",
         "en": "You see? Total slave driver.",
-        "ru": "Видишь? Абсолютный диктатор."
+        "ru": "Видишь? Абсолютный диктатор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1426.wav"
     },
     {
         "id": "M1060_S0040_G0160_001_a2b",
         "jp": "……そういう事が出来る人じゃないと、リーダーは務まらない。",
         "en": "If she didn't order others around, what kind of leader would she be?",
-        "ru": "Если бы она не отдавала приказы, то какой тогда из неё лидер?"
+        "ru": "Если бы она не отдавала приказы, то какой тогда из неё лидер?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/580.wav"
     },
     {
         "id": "M1060_S0040_G0170_001_a9s",
         "jp": "……なるほど。",
         "en": "Hmm... If you say so.",
-        "ru": "Хм... Раз ты так говоришь."
+        "ru": "Хм... Раз ты так говоришь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1427.wav"
     }
 ]

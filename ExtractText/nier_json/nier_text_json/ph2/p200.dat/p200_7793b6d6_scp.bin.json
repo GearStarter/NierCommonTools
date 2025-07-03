@@ -27,19 +27,22 @@
         "id": "M1080_S0080_G0191_201_prst",
         "jp": "どうしてこんな事に……",
         "en": "Why did this happen...?",
-        "ru": "Как мы это допустили?.."
+        "ru": "Как мы это допустили?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/993.wav"
     },
     {
         "id": "M1080_S0080_G0192_201_prst",
         "jp": "もう、死ぬしか方法はないのか……",
         "en": "The only option left is to die...",
-        "ru": "Остаётся только умереть..."
+        "ru": "Остаётся только умереть...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/994.wav"
     },
     {
         "id": "M1080_S0080_G0193_201_prst",
         "jp": "怖いよぉ。怖いよぉ。",
         "en": "I'm scared... I'm so scared...",
-        "ru": "Мне страшно... Мне так страшно..."
+        "ru": "Мне страшно... Мне так страшно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/995.wav"
     },
     {
         "id": "M1080_S0080_G0194_201_prst",
@@ -51,13 +54,15 @@
         "id": "M1080_S0080_G0195_201_prst",
         "jp": "死んでしまおう！",
         "en": "Yes, let us die now!",
-        "ru": "Да, давайте же умрём!"
+        "ru": "Да, давайте же умрём!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/997.wav"
     },
     {
         "id": "M1080_S0070_G0700_300_n02",
         "jp": "サヨウナラ！！サヨウナラ！！",
         "en": "Farewell! Farewell!",
-        "ru": "Прощайте! Прощайте!"
+        "ru": "Прощайте! Прощайте!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/989.wav"
     },
     {
         "id": "M1080_S0070_G0710_300_n02",
@@ -87,7 +92,8 @@
         "id": "M1080_S0070_G0700_300_n02",
         "jp": "サヨウナラ！！サヨウナラ！！",
         "en": "Farewell! Farewell!",
-        "ru": "Прощайте! Прощайте!"
+        "ru": "Прощайте! Прощайте!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/989.wav"
     },
     {
         "id": "M1080_S0070_G0730_300_n02",

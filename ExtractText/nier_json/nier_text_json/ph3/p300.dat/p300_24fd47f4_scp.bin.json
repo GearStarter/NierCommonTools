@@ -3,13 +3,15 @@
         "id": "M3060_S0150_G0000_001_a2",
         "jp": "何だ……この部屋……",
         "en": "What's up with this place?",
-        "ru": "Что это за место такое?"
+        "ru": "Что это за место такое?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/499.wav"
     },
     {
         "id": "M3060_S0150_G0010_001_pod042",
         "jp": "予測：図書館を模した施設。",
         "en": "Hypothesis: It is a representation of a library.",
-        "ru": "Предположение: возможно, это библиотека."
+        "ru": "Предположение: возможно, это библиотека.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/859.wav"
     },
     {
         "id": "M3060_S0150_G0020_001_a2",
@@ -33,13 +35,15 @@
         "id": "M3060_S0150_G0050_001_a2",
         "jp": "データを見るのにハッキングする必要があるのか。",
         "en": "I suppose we have to hack in to look at the data, yeah?",
-        "ru": "Полагаю, для просмотра данных потребуется взлом, да?"
+        "ru": "Полагаю, для просмотра данных потребуется взлом, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/502.wav"
     },
     {
         "id": "M3060_S0150_G0060_001_a2",
         "jp": "ポッド。頼む。",
         "en": "Help me out, Pod.",
-        "ru": "Бот, помоги мне."
+        "ru": "Бот, помоги мне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/503.wav"
     },
     {
         "id": "M3060_S0150_G0070_001_pod042",
@@ -57,7 +61,8 @@
         "id": "M3060_S0150_G0090_001_a2",
         "jp": "良し……",
         "en": "Peachy.",
-        "ru": "Отлично!"
+        "ru": "Отлично!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/504.wav"
     },
     {
         "id": "M3060_S0150_G0100_001_a2",
@@ -69,25 +74,29 @@
         "id": "M3060_S0150_G0110_001_a2",
         "jp": "月面の人類サーバーの記録……",
         "en": "These records are from the human server on the moon...",
-        "ru": "Эти записи взяты с сервера человечества на Луне..."
+        "ru": "Эти записи взяты с сервера человечества на Луне...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/506.wav"
     },
     {
         "id": "M3060_S0150_G0120_001_a2",
         "jp": "機械生命体はそんな場所まで侵入していたのか。",
         "en": "The machines hacked that deep into the system, huh?",
-        "ru": "Машины взломали и проникли в систему?"
+        "ru": "Машины взломали и проникли в систему?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/507.wav"
     },
     {
         "id": "M3060_S0150_G0150_001_a2",
         "jp": "過去の人間の記録か……",
         "en": "Some records on old humans...",
-        "ru": "Какие-то записи о людях из прошлого..."
+        "ru": "Какие-то записи о людях из прошлого...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/510.wav"
     },
     {
         "id": "M3060_S0150_G0160_001_a2",
         "jp": "数が多すぎて埒が明かないな……",
         "en": "Damn it, this is useless. There's too many of them.",
-        "ru": "Чёрт, бесполезно. Их слишком много."
+        "ru": "Чёрт, бесполезно. Их слишком много.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/511.wav"
     },
     {
         "id": "M3060_S0150_G0170_001_a2",
@@ -99,6 +108,7 @@
         "id": "M3060_S0150_G0180_001_a2",
         "jp": "『ヨルハ計画に於ける二号モデル運用概略』……？",
         "en": "\"Operational Summary of Model Number Two in Project YoRHa.\"",
-        "ru": "\"Оперативная сводка по модели Номер 2 в проекте YoRHa\"."
+        "ru": "\"Оперативная сводка по модели Номер 2 в проекте YoRHa\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/513.wav"
     }
 ]

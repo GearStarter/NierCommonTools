@@ -3,13 +3,15 @@
         "id": "M0010_S0140_G0160_201_op210",
         "jp": "ヨルハ攻撃部隊の侵入を確認しました。",
         "en": "YoRHa has entered the base.",
-        "ru": "Проникновение YoRHa на базу завершено."
+        "ru": "Проникновение YoRHa на базу завершено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/113.wav"
     },
     {
         "id": "M0010_S0140_G0170_201_op210",
         "jp": "しかし、残存機体は一機のみ。",
         "en": "However, there is only one unit remaining.",
-        "ru": "Однако добралась лишь одна единица."
+        "ru": "Однако добралась лишь одна единица.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/114.wav"
     },
     {
         "id": "M0010_S0140_G0180_201_a9s",
@@ -21,6 +23,7 @@
         "id": "M0010_S0140_G0190_201_op210",
         "jp": "敵防衛兵器によって苦戦しているようです。",
         "en": "The enemy's defensive weapon is making things more difficult than we estimated.",
-        "ru": "Оборонительное вооружение противника оказалось мощнее, чем мы ожидали."
+        "ru": "Оборонительное вооружение противника оказалось мощнее, чем мы ожидали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/115.wav"
     }
 ]

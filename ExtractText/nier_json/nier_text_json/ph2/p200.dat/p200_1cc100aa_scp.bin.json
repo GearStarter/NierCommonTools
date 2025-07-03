@@ -10,7 +10,8 @@
         "id": "M1070_S0160_G0010_101_adam",
         "jp": "愛や、家族……戦争や、宗教。",
         "en": "Love. Family. Religion. War.",
-        "ru": "Любовь. Семья. Религия. Война."
+        "ru": "Любовь. Семья. Религия. Война.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/713.wav"
     },
     {
         "id": "M1070_S0160_G0020_101_adam",
@@ -35,19 +36,22 @@
         "id": "M1070_S0160_G0050_101_adam",
         "jp": "私達は人類の特徴を学び！模倣する！",
         "en": "I seek to learn and adopt all facets of humanity!",
-        "ru": "Я хочу познать человечество в каждом его проявлении!"
+        "ru": "Я хочу познать человечество в каждом его проявлении!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/717.wav"
     },
     {
         "id": "M1070_S0160_G0060_101_adam",
         "jp": "ある物は、愛を！そしてある者は、家族を！",
         "en": "Some desired love! Others family!",
-        "ru": "Одни желают любви! А другие семьи!"
+        "ru": "Одни желают любви! А другие семьи!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/718.wav"
     },
     {
         "id": "M1070_S0160_G0070_101_adam",
         "jp": "……そして、私は気づいた。",
         "en": "Only then did I realize the truth...",
-        "ru": "Только тогда я осознал правду..."
+        "ru": "Только тогда я осознал правду...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/719.wav"
     },
     {
         "id": "M1070_S0160_G0080_101_adam",
@@ -59,43 +63,50 @@
         "id": "M1070_S0160_G0090_101_adam",
         "jp": "戦い、奪い、殺し合う。それが人間だ！",
         "en": "They fight. Steal. Kill. THIS is humanity in its purest form!",
-        "ru": "Они воюют, крадут, убивают. ЭТО и есть их настоящая суть!"
+        "ru": "Они воюют, крадут, убивают. ЭТО и есть их настоящая суть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/721.wav"
     },
     {
         "id": "M1070_S0160_G0100_101_a2b",
         "jp": "その口で……人類を語るなッ",
         "en": "You know nothing about humanity.",
-        "ru": "Ты ничего не знаешь о людях."
+        "ru": "Ты ничего не знаешь о людях.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/630.wav"
     },
     {
         "id": "M1070_S0160_G0110_101_adam",
         "jp": "クックック……崇拝する人間達の事を悪く言われて気を悪くしたか？",
         "en": "Have I offended you, little android? Did I speak ill of your beloved humans?",
-        "ru": "Я чем-то обидел тебя, мой маленький андроид? Я сказал что-то плохое о твоём любимом человечестве?"
+        "ru": "Я чем-то обидел тебя, мой маленький андроид? Я сказал что-то плохое о твоём любимом человечестве?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/722.wav"
     },
     {
         "id": "M1070_S0160_G0120_101_adam",
         "jp": "だが、それが真実だ。",
         "en": "The truth can be so painful.",
-        "ru": "Правду не всегда легко принять."
+        "ru": "Правду не всегда легко принять.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/723.wav"
     },
     {
         "id": "M1070_S0160_G0130_101_adam",
         "jp": "私は……人類の本質に到達したい。",
         "en": "I strive to attain nothing less than the essence of humanity itself.",
-        "ru": "Я стремлюсь постигнуть саму суть человечества."
+        "ru": "Я стремлюсь постигнуть саму суть человечества.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/724.wav"
     },
     {
         "id": "M1070_S0160_G0140_101_adam",
         "jp": "ネットワークに繋がれた私達機械生命体は……無敵。",
         "en": "We machines exist in a connected network. We are immortal. Invincible.",
-        "ru": "Мы, машины, всегда подключены к сети. Мы бессмертны. Непобедимы."
+        "ru": "Мы, машины, всегда подключены к сети. Мы бессмертны. Непобедимы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/725.wav"
     },
     {
         "id": "M1070_S0160_G0150_101_adam",
         "jp": "だが、無限に続くデータに、生の実感はない。",
         "en": "And yet, within all those infinite bits of data, there exists not even the merest flicker of being. Of life.",
-        "ru": "И всё же, во всех этих бесконечных битах данных нет даже намёка на бытие... жизнь."
+        "ru": "И всё же, во всех этих бесконечных битах данных нет даже намёка на бытие... жизнь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/726.wav"
     },
     {
         "id": "M1070_S0160_G0160_101_adam",
@@ -107,31 +118,36 @@
         "id": "M1070_S0166_G0000_101_adam",
         "jp": "その程度か！２Ｂ！",
         "en": "Is that all you've got, little android!?",
-        "ru": "Это всё, чего ты хочешь, малыш-андроид?"
+        "ru": "Это всё, чего ты хочешь, малыш-андроид?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/728.wav"
     },
     {
         "id": "M1070_S0166_G0010_101_adam",
         "jp": "もっと、もっと俺を憎め！",
         "en": "Hate me! Despise me!",
-        "ru": "Ненавидьте меня! Презирайте меня!"
+        "ru": "Ненавидьте меня! Презирайте меня!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/729.wav"
     },
     {
         "id": "M1070_S0166_G0020_101_adam",
         "jp": "その為に、お前たちの仲間の死体を飾っておいただろう？",
         "en": "Did I not festoon this area with the corpses of your friends?",
-        "ru": "Разве я не украсил это место трупами твоих друзей?"
+        "ru": "Разве я не украсил это место трупами твоих друзей?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/730.wav"
     },
     {
         "id": "M1070_S0166_G0030_101_a2b",
         "jp": "貴様ッ！",
         "en": "Bastard...",
-        "ru": "Ублюдок..."
+        "ru": "Ублюдок...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/631.wav"
     },
     {
         "id": "M1070_S0166_G0040_101_pod042",
         "jp": "警告：バイタル反応上昇。敵の挑発に注意。",
         "en": "Alert: Enemy provocation detected. Emotional turmoil rising.",
-        "ru": "Внимание: обнаружена вражеская провокация. Рост эмоциональной нестабильности."
+        "ru": "Внимание: обнаружена вражеская провокация. Рост эмоциональной нестабильности.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/679.wav"
     },
     {
         "id": "M1070_S0166_G0050_101_a2b",
@@ -143,7 +159,8 @@
         "id": "M1070_S0166_G0060_101_a2b",
         "jp": "お前なんかに関わってるヒマはない……",
         "en": "I don't have time for you...",
-        "ru": "У меня нет времени на тебя..."
+        "ru": "У меня нет времени на тебя...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/633.wav"
     },
     {
         "id": "M1070_S0166_G0070_101_a2b",
@@ -179,7 +196,8 @@
         "id": "M1070_S0200_G0010_101_adam",
         "jp": "機械生命体と、アンドロイドは同類と言えるなあ？",
         "en": "Perhaps we're not so different after all.",
-        "ru": "Возможно, мы не такие уж и разные."
+        "ru": "Возможно, мы не такие уж и разные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/735.wav"
     },
     {
         "id": "M1070_S0200_G0020_101_adam",
@@ -191,13 +209,15 @@
         "id": "M1070_S0200_G0030_101_adam",
         "jp": "だが、全ては無駄だった。",
         "en": "But alas, it was all in vain.",
-        "ru": "Но, увы, всё было напрасно."
+        "ru": "Но, увы, всё было напрасно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/737.wav"
     },
     {
         "id": "M1070_S0200_G0040_101_adam",
         "jp": "君も気づいているんだろう？",
         "en": "I'm sure you've realized it by now.",
-        "ru": "Я уверен, что вы это уже поняли."
+        "ru": "Я уверен, что вы это уже поняли.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/738.wav"
     },
     {
         "id": "M1070_S0200_G0050_101_a2b",
@@ -221,13 +241,15 @@
         "id": "M1070_S0200_G0080_101_pod042",
         "jp": "警告：敵の偽装情報。",
         "en": "Alert: Enemy deception detected.",
-        "ru": "Внимание: противник вас провоцирует."
+        "ru": "Внимание: противник вас провоцирует.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/680.wav"
     },
     {
         "id": "M1070_S0200_G0090_101_a2b",
         "jp": "黙れッ！",
         "en": "You shut up too!",
-        "ru": "И ты тоже заткнись!"
+        "ru": "И ты тоже заткнись!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/637.wav"
     },
     {
         "id": "M1070_S0200_G0100_101_adam",

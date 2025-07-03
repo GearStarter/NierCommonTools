@@ -3,31 +3,36 @@
         "id": "M5910_S0100_G0000_001_pascal",
         "jp": "ひいいいっ！助けて……助けてください！！",
         "en": "Help! Help me!",
-        "ru": "Помогите! Помогите!"
+        "ru": "Помогите! Помогите!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/581.wav"
     },
     {
         "id": "M5910_S0100_G0010_001_a2",
         "jp": "機械生命体同士の……争い？",
         "en": "Are those machines fighting each other?",
-        "ru": "Эти машин сражаются друг с другом?"
+        "ru": "Эти машин сражаются друг с другом?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/620.wav"
     },
     {
         "id": "M5910_S0100_G0020_001_pascal",
         "jp": "大変ありがとうございました。",
         "en": "Thank you so much for saving me.",
-        "ru": "Спасибо большое, что спасли меня."
+        "ru": "Спасибо большое, что спасли меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/582.wav"
     },
     {
         "id": "M5910_S0100_G0030_001_a2",
         "jp": "貴様も機械生命体だろう……",
         "en": "You're a machine too...",
-        "ru": "Ты тоже машина..."
+        "ru": "Ты тоже машина...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/621.wav"
     },
     {
         "id": "M5910_S0100_G0040_001_pascal",
         "jp": "いいえ！貴方と戦うつもりはありません！",
         "en": "Wait, please! I have no intention of harming you!",
-        "ru": "Подождите, пожалуйста! У меня нет намерений вредить вам!"
+        "ru": "Подождите, пожалуйста! У меня нет намерений вредить вам!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/583.wav"
     },
     {
         "id": "M5910_S0100_G0050_001_pascal",
@@ -45,7 +50,8 @@
         "id": "M5910_S0100_G0070_001_a2",
         "jp": "機械生命体に魂なんか無い。ただの殺戮機械だ。",
         "en": "Machines don't have souls. They're just murder bots with a fancy name.",
-        "ru": "У машин нет души. Они просто убийцы с воображаемыми именами."
+        "ru": "У машин нет души. Они просто убийцы с воображаемыми именами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/623.wav"
     },
     {
         "id": "M5910_S0100_G0080_001_a2",
@@ -63,7 +69,8 @@
         "id": "M5910_S0100_G0100_001_pascal",
         "jp": "それで、貴方が……救われるのなら。",
         "en": "If that will save your soul, then so be it.",
-        "ru": "Если это спасёт вашу душу, так тому и быть."
+        "ru": "Если это спасёт вашу душу, так тому и быть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/586.wav"
     },
     {
         "id": "M5910_S0100_G0120_001_sele",
@@ -93,7 +100,8 @@
         "id": "M5910_S0100_G0100_001_pascal",
         "jp": "それで、貴方が……救われるのなら。",
         "en": "If that will save your soul, then so be it.",
-        "ru": "Если это спасёт вашу душу, так тому и быть."
+        "ru": "Если это спасёт вашу душу, так тому и быть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/586.wav"
     },
     {
         "id": "M5910_S0100_G0120_001_sele",
@@ -117,7 +125,8 @@
         "id": "M5910_S0100_G0140_001_a2",
         "jp": "うるさい……気が変わらない内にどこかに行け。",
         "en": "Just shut up and leave before I change my mind.",
-        "ru": "Просто заткнись и проваливай, пока я не передумала."
+        "ru": "Просто заткнись и проваливай, пока я не передумала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/625.wav"
     },
     {
         "id": "M5910_S0100_G0150_001_pascal",
@@ -135,13 +144,15 @@
         "id": "M5910_S0100_G0160_001_pascal",
         "jp": "……いえ、何でもありません。",
         "en": "No. Never mind.",
-        "ru": "Нет. Не важно."
+        "ru": "Нет. Не важно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/589.wav"
     },
     {
         "id": "M5910_S0100_G0170_001_pascal",
         "jp": "ありがとうございました。",
         "en": "You have my thanks.",
-        "ru": "Благодарю."
+        "ru": "Благодарю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/590.wav"
     },
     {
         "id": "M5910_S0010_G0000_001_kj",

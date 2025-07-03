@@ -15,31 +15,36 @@
         "id": "M1090_S0120_G0020_101_ane",
         "jp": "急に奴らがキャンプになだれ込んできて……",
         "en": "They came out of nowhere. Overran the entire camp.",
-        "ru": "Они появились из ниоткуда. Весь лагерь кишит ими."
+        "ru": "Они появились из ниоткуда. Весь лагерь кишит ими.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/780.wav"
     },
     {
         "id": "M1090_S0120_G0030_101_ane",
         "jp": "応戦したんだが、銃が効かないんだ！",
         "en": "We tried to fight back, but our shots have no effect!",
-        "ru": "Мы пытались отбиться, но стрельба по ним была неэффективна!"
+        "ru": "Мы пытались отбиться, но стрельба по ним была неэффективна!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/781.wav"
     },
     {
         "id": "M1090_S0120_G0040_101_pod042",
         "jp": "敵個体からエネルギーシールドを確認",
         "en": "Alert: Energy shields detected on multiple enemy fighters.",
-        "ru": "Внимание: у вражеских единиц обнаружены энергетические щиты."
+        "ru": "Внимание: у вражеских единиц обнаружены энергетические щиты.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/698.wav"
     },
     {
         "id": "M1090_S0120_G0050_101_pod042",
         "jp": "推奨：近接物理攻撃。",
         "en": "Physical attacks recommended.",
-        "ru": "Рекомендуется ближний бой."
+        "ru": "Рекомендуется ближний бой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/699.wav"
     },
     {
         "id": "M1090_S0120_G0060_101_a2b",
         "jp": "わかった！貴方は他のアンドロイドを退避させて！",
         "en": "Got it. You get the other androids out of here!",
-        "ru": "Поняла. Тебе нужно вывести андроидов отсюда!"
+        "ru": "Поняла. Тебе нужно вывести андроидов отсюда!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/691.wav"
     },
     {
         "id": "M1090_S0120_G0070_101_ane",
@@ -57,7 +62,8 @@
         "id": "M1090_S0120_G0090_101_a2b",
         "jp": "一体、何が？",
         "en": "What's going on here?",
-        "ru": "Что здесь происходит?"
+        "ru": "Что здесь происходит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/692.wav"
     },
     {
         "id": "M1090_S0120_G0100_101_ane",
@@ -75,6 +81,7 @@
         "id": "M1090_S0120_G0120_101_ane",
         "jp": "キャンプの外から聞こえたぞ！",
         "en": "That was outside the camp!",
-        "ru": "Это снаружи!"
+        "ru": "Это снаружи!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/785.wav"
     }
 ]

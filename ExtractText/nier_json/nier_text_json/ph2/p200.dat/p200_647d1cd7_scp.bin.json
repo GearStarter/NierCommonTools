@@ -9,7 +9,8 @@
         "id": "M1050_S0130_S0010_201_largerobot",
         "jp": "我らが配備されたこの森……",
         "en": "This forest we are stationed in...",
-        "ru": "Лес, в котором мы обосновались..."
+        "ru": "Лес, в котором мы обосновались...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/854.wav"
     },
     {
         "id": "M1050_S0130_S0020_201_largerobot",
@@ -21,7 +22,8 @@
         "id": "M1050_S0130_S0030_201_largerobot",
         "jp": "あまりと言えば、あまりな境遇。",
         "en": "None should have to live in such a place.",
-        "ru": "Никому не пожелаешь жить в подобном месте."
+        "ru": "Никому не пожелаешь жить в подобном месте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/856.wav"
     },
     {
         "id": "M1050_S0130_S0040_201_largerobot",
@@ -33,13 +35,15 @@
         "id": "M1050_S0130_S0050_201_largerobot",
         "jp": "……我は決意した。",
         "en": "I have decided.",
-        "ru": "Я решил."
+        "ru": "Я решил.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/858.wav"
     },
     {
         "id": "M1050_S0130_S0060_201_largerobot",
         "jp": "この地を我らの王国とし、独立を宣言する！",
         "en": "I shall make this our kingdom and declare our independence!",
-        "ru": "Я создам королевство и объявлю о нашей независимости!"
+        "ru": "Я создам королевство и объявлю о нашей независимости!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/859.wav"
     },
     {
         "id": "M1050_S0130_S0070_201_smallrobot",
@@ -51,19 +55,22 @@
         "id": "M1050_S0130_S0080_201_smallrobot",
         "jp": "オウコク……って何ダベさ？",
         "en": "What's a kingdom?",
-        "ru": "Что такое королевство?"
+        "ru": "Что такое королевство?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/861.wav"
     },
     {
         "id": "M1050_S0130_S0090_201_largerobot",
         "jp": "王国とは、大きな家のようなモノだ。",
         "en": "Well, it's sort of like a large house.",
-        "ru": "Это нечто вроде большого дома."
+        "ru": "Это нечто вроде большого дома.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/862.wav"
     },
     {
         "id": "M1050_S0130_S0100_201_largerobot",
         "jp": "そして国民とは、家族のようなモノだ。",
         "en": "And inside this house, all our people live together as family.",
-        "ru": "И все люди живут в этом доме как одна большая семья."
+        "ru": "И все люди живут в этом доме как одна большая семья.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/863.wav"
     },
     {
         "id": "M1050_S0130_S0110_201_smallrobot",
@@ -81,6 +88,7 @@
         "id": "M1050_S0130_S0130_201_smallrobot",
         "jp": "んだんだ……良いかもしんねぇな！",
         "en": "Yeah! Families are good!",
-        "ru": "Да! Семья — это хорошо!"
+        "ru": "Да! Семья — это хорошо!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/866.wav"
     }
 ]

@@ -9,7 +9,8 @@
         "id": "M5095_S0080_G0010_001_announce",
         "jp": "起動を許可シマス。",
         "en": "Activation approved.",
-        "ru": "Активация разрешена."
+        "ru": "Активация разрешена.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/4.wav"
     },
     {
         "id": "M5095_S0080_G0020_001_announce",

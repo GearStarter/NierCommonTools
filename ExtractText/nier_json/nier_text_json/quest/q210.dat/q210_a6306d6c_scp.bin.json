@@ -105,13 +105,15 @@
         "id": "M5210_S0010_G0170_001_a2b",
         "jp": "無差別に攻撃する機械生命体……",
         "en": "Machines attacking indiscriminately...",
-        "ru": "Машины, нападающие без разбора..."
+        "ru": "Машины, нападающие без разбора...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/915.wav"
     },
     {
         "id": "M5210_S0010_G0180_001_pod042",
         "jp": "推奨：敵性機械生命体の排除。",
         "en": "Proposal: Unit 2B should eliminate the hostile machines.",
-        "ru": "Предложение: единице 2B следует устранить враждебные машины."
+        "ru": "Предложение: единице 2B следует устранить враждебные машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/990.wav"
     },
     {
         "id": "M5210_S0010_G0150_001_n02",
@@ -129,13 +131,15 @@
         "id": "M5210_S0020_G0000_001_a9s",
         "jp": "機械生命体の死体……墓場でしょうか？",
         "en": "Look at all the corpses. Is this some kind of graveyard?",
-        "ru": "Взгляни на все эти трупы. Это что, какое-то кладбище?"
+        "ru": "Взгляни на все эти трупы. Это что, какое-то кладбище?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/144.wav"
     },
     {
         "id": "M5210_S0020_G0010_001_a2b",
         "jp": "気をつけて！まだ生きてる。",
         "en": "Watch out! They're still alive!",
-        "ru": "Берегись! Они ещё живы!"
+        "ru": "Берегись! Они ещё живы!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/917.wav"
     },
     {
         "id": "M5210_S0020_G0020_001_a9s",
@@ -147,7 +151,8 @@
         "id": "M5210_S0020_G0030_001_a9s",
         "jp": "まだ居ます！",
         "en": "There's more!",
-        "ru": "Их всё больше!"
+        "ru": "Их всё больше!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/146.wav"
     },
     {
         "id": "M5210_S0020_G0040_001_n02",
@@ -165,7 +170,8 @@
         "id": "M5210_S0020_G0060_001_a2b",
         "jp": "何か……言ってる。",
         "en": "What's it saying?",
-        "ru": "Что он сказал?"
+        "ru": "Что он сказал?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/918.wav"
     },
     {
         "id": "M5210_S0020_G0070_001_a9s",
@@ -195,25 +201,29 @@
         "id": "M5210_S0020_G0110_001_a2b",
         "jp": "一体こいつは……",
         "en": "What was with that thing?",
-        "ru": "Что это вообще такое было?"
+        "ru": "Что это вообще такое было?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/919.wav"
     },
     {
         "id": "M5210_S0020_G0120_001_a9s",
         "jp": "喋っていましたね……",
         "en": "It was talking.",
-        "ru": "Он разговаривал."
+        "ru": "Он разговаривал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/148.wav"
     },
     {
         "id": "M5210_S0020_G0130_001_a9s",
         "jp": "この場所を言ってた機械生命体に聞いてみましょうか。",
         "en": "Maybe that machine who sent us here knows something about this.",
-        "ru": "Быть может, та машина, что отправила нас сюда, знает что-нибудь об этом."
+        "ru": "Быть может, та машина, что отправила нас сюда, знает что-нибудь об этом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/149.wav"
     },
     {
         "id": "M5210_S0020_G0140_001_a9s",
         "jp": "何か情報を知っているかもしれませんし。",
         "en": "We should try asking her.",
-        "ru": "Надо попробовать расспросить её."
+        "ru": "Надо попробовать расспросить её.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/150.wav"
     },
     {
         "id": "M5210_S0030_G0000_001_n02",
@@ -309,24 +319,28 @@
         "id": "M5210_S0030_G0150_001_a9s",
         "jp": "そんな物ってあるのかな？",
         "en": "Do either of those things exist?",
-        "ru": "Разве хоть одно из этого существует?"
+        "ru": "Разве хоть одно из этого существует?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/152.wav"
     },
     {
         "id": "M5210_S0030_G0160_001_a2b",
         "jp": "……きっと、この世界から消滅する時に判る。",
         "en": "They'll find out in the end.",
-        "ru": "Они узнают это в конце пути."
+        "ru": "Они узнают это в конце пути.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/920.wav"
     },
     {
         "id": "M5210_S0030_G0170_001_a2b",
         "jp": "私達にも。",
         "en": "And so will we.",
-        "ru": "И мы тоже."
+        "ru": "И мы тоже.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/921.wav"
     },
     {
         "id": "M5210_S0030_G0180_001_a9s",
         "jp": "……そうですね。",
         "en": "Okay, that's grim.",
-        "ru": "Ладно, но это мрачновато."
+        "ru": "Ладно, но это мрачновато.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/153.wav"
     }
 ]

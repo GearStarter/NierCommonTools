@@ -3,13 +3,15 @@
         "id": "M1080_S0070_G0240_101_pod042",
         "jp": "敵本体にエネルギーシールドを確認。",
         "en": "Alert: Energy shield detected over enemy unit.",
-        "ru": "Внимание: на вражеской единице присутствует энергетический барьер."
+        "ru": "Внимание: на вражеской единице присутствует энергетический барьер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/684.wav"
     },
     {
         "id": "M1080_S0070_G0250_101_pod042",
         "jp": "物理防御シールドを確認",
         "en": "Physical defense shield detected.",
-        "ru": "Обнаружен физический защитный барьер."
+        "ru": "Обнаружен физический защитный барьер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/685.wav"
     },
     {
         "id": "M1080_S0070_G0251_101_pod042",
@@ -21,19 +23,22 @@
         "id": "M1080_S0070_G0260_101_a2b",
         "jp": "どうすれば……",
         "en": "Oh, now what?",
-        "ru": "Ох, и что теперь?"
+        "ru": "Ох, и что теперь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/672.wav"
     },
     {
         "id": "M1080_S0070_G0270_101_pod042",
         "jp": "本工場から大量のエネルギー供給を確認。",
         "en": "Large energy supply detected within this factory.",
-        "ru": "Обнаружен большой запас энергии."
+        "ru": "Обнаружен большой запас энергии.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/687.wav"
     },
     {
         "id": "M1080_S0070_G0280_101_pod042",
         "jp": "推奨：エネルギー供給源の破壊。",
         "en": "Proposal: Energy source should be destroyed.",
-        "ru": "Предложение: нужно уничтожить источник энергии."
+        "ru": "Предложение: нужно уничтожить источник энергии.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/688.wav"
     },
     {
         "id": "M1080_S0070_G0290_101_a2b",
@@ -51,7 +56,8 @@
         "id": "M1080_S0070_G0310_101_a9s",
         "jp": "大丈夫です！モニターしてました。工場の電力を落とします！",
         "en": "I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!",
-        "ru": "Понял! Я слежу за ситуацией. Сейчас отключу питание фабрики!"
+        "ru": "Понял! Я слежу за ситуацией. Сейчас отключу питание фабрики!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1523.wav"
     },
     {
         "id": "M1080_S0070_G0320_101_a2b",
@@ -75,12 +81,14 @@
         "id": "M1080_S0070_G0330_101_a9s",
         "jp": "電源供給を停止させました！２Ｂ！",
         "en": "2B! I just shut down the electrical grid!",
-        "ru": "2B! Я отключил энергоснабжение!"
+        "ru": "2B! Я отключил энергоснабжение!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1527.wav"
     },
     {
         "id": "M1080_S0070_G0340_101_pod042",
         "jp": "敵機械生命体のシールド解除を確認。",
         "en": "Enemy shield deactivated.",
-        "ru": "Вражеский барьер отключен."
+        "ru": "Вражеский барьер отключен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/689.wav"
     }
 ]

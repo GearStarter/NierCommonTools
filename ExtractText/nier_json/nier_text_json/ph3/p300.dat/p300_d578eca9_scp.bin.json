@@ -9,7 +9,8 @@
         "id": "M3000_S0410_G0010_001_a2b",
         "jp": "司令部に、報告を……！",
         "en": "We have to report back to Command.",
-        "ru": "Мы должны доложить в Штаб."
+        "ru": "Мы должны доложить в Штаб.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/763.wav"
     },
     {
         "id": "M3000_S0420_S0000_001_a9s",
@@ -27,7 +28,8 @@
         "id": "M3000_S0424_G0010_001_cmd",
         "jp": "２Ｂ……９Ｓも！？",
         "en": "2B? 9S?",
-        "ru": "2B? 9S?"
+        "ru": "2B? 9S?",
+        "en_voice": "stream/Japanese/vo_plffff_0_004/126.wav"
     },
     {
         "id": "M3000_S0424_G0020_001_cmd",
@@ -39,13 +41,15 @@
         "id": "M3000_S0424_G0030_001_a9s",
         "jp": "地上のヨルハ部隊が、ウィルスによって乗っ取られたんです！",
         "en": "The YoRHa units on the ground were infected by a virus.",
-        "ru": "Единицы YoRHa на поверхности были заражены вирусом."
+        "ru": "Единицы YoRHa на поверхности были заражены вирусом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1701.wav"
     },
     {
         "id": "M3000_S0424_G0040_001_a9s",
         "jp": "僕達は暴走したヨルハ部隊をブラックボックス反応で……",
         "en": "We had to detonate our black boxes in order to stop them.",
-        "ru": "Нам пришлось подорвать наши чёрные ящики, чтобы остановить их."
+        "ru": "Нам пришлось подорвать наши чёрные ящики, чтобы остановить их.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1702.wav"
     },
     {
         "id": "M3000_S0424_G0050_001_cmd",
@@ -57,25 +61,29 @@
         "id": "M3000_S0424_G0060_001_cmd",
         "jp": "地上からはそんな報告上がってないぞ？",
         "en": "None of our ground units reported anything about a virus.",
-        "ru": "Ни одна из наземных единиц не доложила о заражении вирусом."
+        "ru": "Ни одна из наземных единиц не доложила о заражении вирусом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/119.wav"
     },
     {
         "id": "M3000_S0424_G0070_001_a9s",
         "jp": "あれは偽装です！現在バンカーの通信は封鎖されていて……",
         "en": "That's because all communication with the Bunker has been severed.",
-        "ru": "Это всё потому, что соединение с Бункером разорвано."
+        "ru": "Это всё потому, что соединение с Бункером разорвано.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1703.wav"
     },
     {
         "id": "M3000_S0424_G0080_001_cmd",
         "jp": "……そもそも、命令もなく戦場から何故戻った？",
         "en": "And why did you leave the battlefield anyway? I didn't order a retreat.",
-        "ru": "И почему это вы сбежали с поле боя? Я не отдавала приказов об отступлении."
+        "ru": "И почему это вы сбежали с поле боя? Я не отдавала приказов об отступлении.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/120.wav"
     },
     {
         "id": "M3000_S0424_G0090_001_a2b",
         "jp": "だから、ヨルハ部隊が暴走して！",
         "en": "We're telling you, YoRHa has gone berserk!",
-        "ru": "Я вам говорю, YoRHa на Земле обезумели."
+        "ru": "Я вам говорю, YoRHa на Земле обезумели.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/765.wav"
     },
     {
         "id": "M3000_S0424_G0100_001_cmd",
@@ -93,12 +101,14 @@
         "id": "M3000_S0424_G0120_001_cmd",
         "jp": "汚染されているのは……お前達じゃないのか？",
         "en": "If anyone is acting infected here, it's you.",
-        "ru": "Если уж кто и ведёт себя как заражённые, так это вы."
+        "ru": "Если уж кто и ведёт себя как заражённые, так это вы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/123.wav"
     },
     {
         "id": "M3000_S0424_G0130_001_a9s",
         "jp": "違うんですッ！",
         "en": "Are you NUTS!?",
-        "ru": "Вы С УМА сошли?!"
+        "ru": "Вы С УМА сошли?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1704.wav"
     }
 ]

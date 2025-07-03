@@ -87,7 +87,8 @@
         "id": "M5920_S0140_G0020_001_n02",
         "jp": "３",
         "en": "Three...",
-        "ru": "Три..."
+        "ru": "Три...",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/32.wav"
     },
     {
         "id": "M5920_S0140_G0030_001_n02",
@@ -105,7 +106,8 @@
         "id": "M5920_S0140_G0050_001_n02",
         "jp": "スタート！",
         "en": "Go!",
-        "ru": "Вперёд!"
+        "ru": "Вперёд!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/35.wav"
     },
     {
         "id": "M5300_S0010_G0080_001_robobusy",
@@ -273,7 +275,8 @@
         "id": "M5920_S0140_G0020_001_n02",
         "jp": "３",
         "en": "Three...",
-        "ru": "Три..."
+        "ru": "Три...",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/32.wav"
     },
     {
         "id": "M5920_S0140_G0030_001_n02",
@@ -291,7 +294,8 @@
         "id": "M5920_S0140_G0050_001_n02",
         "jp": "スタート！",
         "en": "Go!",
-        "ru": "Вперёд!"
+        "ru": "Вперёд!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/35.wav"
     },
     {
         "id": "M5300_S0020_G0080_001_robobusy",
@@ -459,7 +463,8 @@
         "id": "M5920_S0140_G0020_001_n02",
         "jp": "３",
         "en": "Three...",
-        "ru": "Три..."
+        "ru": "Три...",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/32.wav"
     },
     {
         "id": "M5920_S0140_G0030_001_n02",
@@ -477,7 +482,8 @@
         "id": "M5920_S0140_G0050_001_n02",
         "jp": "スタート！",
         "en": "Go!",
-        "ru": "Вперёд!"
+        "ru": "Вперёд!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/35.wav"
     },
     {
         "id": "M5300_S0030_G0080_001_robobusy",
@@ -627,19 +633,22 @@
         "id": "M5300_S0010_G0020_300_speedstar",
         "jp": "レースに集中するんだ！",
         "en": "Focus on the race!",
-        "ru": "Сосредоточьтесь на гонке!"
+        "ru": "Сосредоточьтесь на гонке!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1061.wav"
     },
     {
         "id": "M5300_S0010_G0030_300_speedstar",
         "jp": "無駄な体力を使っている余裕があるのかい！？",
         "en": "Do you think you can win if you waste your energy that way!?",
-        "ru": "Думаете, у вас появится шанс на победу, если тратить свою энергию вот так?!"
+        "ru": "Думаете, у вас появится шанс на победу, если тратить свою энергию вот так?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1062.wav"
     },
     {
         "id": "M5300_S0010_G0040_300_speedstar",
         "jp": "そんなもの私には通用しない！",
         "en": "That isn't going to work on me!",
-        "ru": "Со мной такое не пройдёт!"
+        "ru": "Со мной такое не пройдёт!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1063.wav"
     },
     {
         "id": "M5300_S0010_G0000_001_robobusy",

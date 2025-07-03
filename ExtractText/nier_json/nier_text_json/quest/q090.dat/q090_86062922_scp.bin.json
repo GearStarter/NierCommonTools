@@ -51,7 +51,8 @@
         "id": "M5090_S0060_G0060_001_robomode",
         "jp": "勝負アリ！",
         "en": "We have a winner!",
-        "ru": "У нас есть победитель!"
+        "ru": "У нас есть победитель!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/123.wav"
     },
     {
         "id": "M5090_S0040_G0050_001_roborece",
@@ -93,7 +94,8 @@
         "id": "M5090_S0060_G0070_001_robomode",
         "jp": "戦闘ハ常に非情で無情ナリ……",
         "en": "There is no compassion or sympathy in combat...",
-        "ru": "В бою нет места состраданию или сочувствию..."
+        "ru": "В бою нет места состраданию или сочувствию...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/124.wav"
     },
     {
         "id": "M5090_S0060_G0110_001_roborece",
@@ -609,7 +611,8 @@
         "id": "M5090_S0020_G0020_001_sele",
         "jp": "ヤラナイ。",
         "en": "No thanks.",
-        "ru": "Нет, спасибо."
+        "ru": "Нет, спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/679.wav"
     },
     {
         "id": "M5090_S0020_G0030_001_roborece",
@@ -765,7 +768,8 @@
         "id": "M5090_S0030_G0000_001_robomode",
         "jp": "それデハ、今カラ、試合ヲ始めルヨ？",
         "en": "Excellent. Shall we begin, then?",
-        "ru": "Прекрасно. Тогда начнём?"
+        "ru": "Прекрасно. Тогда начнём?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/95.wav"
     },
     {
         "id": "M5090_S0030_G0010_001_robomode",
@@ -795,7 +799,8 @@
         "id": "M5090_S0030_G0000_001_robomode",
         "jp": "それデハ、今カラ、試合ヲ始めルヨ？",
         "en": "Excellent. Shall we begin, then?",
-        "ru": "Прекрасно. Тогда начнём?"
+        "ru": "Прекрасно. Тогда начнём?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/95.wav"
     },
     {
         "id": "M5090_S0030_G0010_001_robomode",
@@ -813,7 +818,8 @@
         "id": "M5090_S0030_G0060_001_robomode",
         "jp": "今カラ、試合を始めマス。",
         "en": "The battle will commence at once.",
-        "ru": "Битва скоро начнётся."
+        "ru": "Битва скоро начнётся.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/100.wav"
     },
     {
         "id": "M5090_S0030_G0070_001_robomode",
@@ -843,7 +849,8 @@
         "id": "M5090_S0030_G0060_001_robomode",
         "jp": "今カラ、試合を始めマス。",
         "en": "The battle will commence at once.",
-        "ru": "Битва скоро начнётся."
+        "ru": "Битва скоро начнётся.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/100.wav"
     },
     {
         "id": "M5090_S0030_G0070_001_robomode",
@@ -951,13 +958,15 @@
         "id": "M5090_S0030_G0230_001_robomode",
         "jp": "ハーイ、ミンナー、元気カナー？",
         "en": "Hello, everyone! Are you ready to rattle!?",
-        "ru": "Всем привет! Готовы немного пошуметь?"
+        "ru": "Всем привет! Готовы немного пошуметь?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/109.wav"
     },
     {
         "id": "M5090_S0030_G0240_001_robomode",
         "jp": "では血沸き肉……じゃなカッタ、歯車が踊る戦イヲ——開始！",
         "en": "The oil will spew! The gears will fly! Now let's get it on!",
-        "ru": "Брызги масла! Разлетающиеся механизмы! Да начнётся битва!"
+        "ru": "Брызги масла! Разлетающиеся механизмы! Да начнётся битва!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/110.wav"
     },
     {
         "id": "M5090_S0030_G0260_001_roborece",
@@ -981,13 +990,15 @@
         "id": "M5090_S0030_G0230_001_robomode",
         "jp": "ハーイ、ミンナー、元気カナー？",
         "en": "Hello, everyone! Are you ready to rattle!?",
-        "ru": "Всем привет! Готовы немного пошуметь?"
+        "ru": "Всем привет! Готовы немного пошуметь?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/109.wav"
     },
     {
         "id": "M5090_S0030_G0240_001_robomode",
         "jp": "では血沸き肉……じゃなカッタ、歯車が踊る戦イヲ——開始！",
         "en": "The oil will spew! The gears will fly! Now let's get it on!",
-        "ru": "Брызги масла! Разлетающиеся механизмы! Да начнётся битва!"
+        "ru": "Брызги масла! Разлетающиеся механизмы! Да начнётся битва!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/110.wav"
     },
     {
         "id": "M5090_S0030_G0220_001_roborece",
@@ -1005,13 +1016,15 @@
         "id": "M5090_S0030_G0300_001_robomode",
         "jp": "ココマデ上り詰めた方々にお聞きシマス。",
         "en": "But first, consider this: both competitors have fought long and hard to make it here...",
-        "ru": "Но первым делом стоит учесть: оба соперника прошли долгий и сложный путь, чтобы оказаться здесь..."
+        "ru": "Но первым делом стоит учесть: оба соперника прошли долгий и сложный путь, чтобы оказаться здесь...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/113.wav"
     },
     {
         "id": "M5090_S0030_G0310_001_robomode",
         "jp": "なぜ、あなた方は戦うのデショウ？",
         "en": "So why do they keep fighting?",
-        "ru": "Так почему они продолжают сражаться?"
+        "ru": "Так почему они продолжают сражаться?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/114.wav"
     },
     {
         "id": "M5090_S0030_G0320_001_robomode",
@@ -1119,19 +1132,22 @@
         "id": "M5090_S0060_G0005_001_robomode",
         "jp": "ここに揃うは究極の猛者達のみ……",
         "en": "The world's strongest fighters have gathered here...",
-        "ru": "Здесь собрались сильнейшие бойцы в мире..."
+        "ru": "Здесь собрались сильнейшие бойцы в мире...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/117.wav"
     },
     {
         "id": "M5090_S0060_G0010_001_robomode",
         "jp": "そして、最後の敵は究極の勇者……「正宗」が登場ダ！",
         "en": "And at the end, you will face the ultimate hero... Masamune!",
-        "ru": "И в конце вы лицом к лицу встретитесь в великим героем... Масамунэ!"
+        "ru": "И в конце вы лицом к лицу встретитесь в великим героем... Масамунэ!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/118.wav"
     },
     {
         "id": "M5090_S0060_G0020_001_robomode",
         "jp": "思う存分タタカウベシ！",
         "en": "Fight as if your life depends on it!",
-        "ru": "Боритесь так, будто от этого зависит ваша жизнь!"
+        "ru": "Боритесь так, будто от этого зависит ваша жизнь!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/119.wav"
     },
     {
         "id": "M5090_S0080_G0000_001_roborece",
@@ -1173,19 +1189,22 @@
         "id": "M5090_S0060_G0005_001_robomode",
         "jp": "ここに揃うは究極の猛者達のみ……",
         "en": "The world's strongest fighters have gathered here...",
-        "ru": "Здесь собрались сильнейшие бойцы в мире..."
+        "ru": "Здесь собрались сильнейшие бойцы в мире...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/117.wav"
     },
     {
         "id": "M5090_S0060_G0010_001_robomode",
         "jp": "そして、最後の敵は究極の勇者……「正宗」が登場ダ！",
         "en": "And at the end, you will face the ultimate hero... Masamune!",
-        "ru": "И в конце вы лицом к лицу встретитесь в великим героем... Масамунэ!"
+        "ru": "И в конце вы лицом к лицу встретитесь в великим героем... Масамунэ!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/118.wav"
     },
     {
         "id": "M5090_S0060_G0020_001_robomode",
         "jp": "思う存分タタカウベシ！",
         "en": "Fight as if your life depends on it!",
-        "ru": "Боритесь так, будто от этого зависит ваша жизнь!"
+        "ru": "Боритесь так, будто от этого зависит ваша жизнь!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/119.wav"
     },
     {
         "id": "M5090_S0080_G0000_001_roborece",
@@ -1209,19 +1228,22 @@
         "id": "M5090_S0030_G0030_001_robomode",
         "jp": "そこマデッ！試合終ー了ー！",
         "en": "Enough! The match has ended!",
-        "ru": "Достаточно! Матч окончен!"
+        "ru": "Достаточно! Матч окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/99.wav"
     },
     {
         "id": "M5090_S0030_G0080_001_robomode",
         "jp": "武器ヲ納めてクダサイ。試合終了デス！",
         "en": "Hold your weapons! The match is over!",
-        "ru": "Попридержи своё оружие! Матч окончен!"
+        "ru": "Попридержи своё оружие! Матч окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/102.wav"
     },
     {
         "id": "M5090_S0030_G0140_001_robomode",
         "jp": "決マッター！試合、終ー了ーッ！",
         "en": "That's it! This match is OVER!",
-        "ru": "Это всё! Матч ОКОНЧЕН!"
+        "ru": "Это всё! Матч ОКОНЧЕН!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/105.wav"
     },
     {
         "id": "M5090_S0030_G0210_001_robomode",
@@ -1233,25 +1255,29 @@
         "id": "M5090_S0030_G0250_001_robomode",
         "jp": "ハイハーイ、そこまで。試合終了デース！",
         "en": "That's all she wrote, folks! This match is OVER!",
-        "ru": "Она пишет свою историю, ребята! Этот матч ОКОНЧЕН!"
+        "ru": "Она пишет свою историю, ребята! Этот матч ОКОНЧЕН!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/111.wav"
     },
     {
         "id": "M5090_S0030_G0330_001_robomode",
         "jp": "これニテ、試合を終了とスル！",
         "en": "Enough! I declare this match OVER!",
-        "ru": "Хватит! Я объявляю, матч ОКОНЧЕН!"
+        "ru": "Хватит! Я объявляю, матч ОКОНЧЕН!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/116.wav"
     },
     {
         "id": "M5090_S0060_G0060_001_robomode",
         "jp": "勝負アリ！",
         "en": "We have a winner!",
-        "ru": "У нас есть победитель!"
+        "ru": "У нас есть победитель!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/123.wav"
     },
     {
         "id": "M5090_S0060_G0070_001_robomode",
         "jp": "戦闘ハ常に非情で無情ナリ……",
         "en": "There is no compassion or sympathy in combat...",
-        "ru": "В бою нет места состраданию или сочувствию..."
+        "ru": "В бою нет места состраданию или сочувствию...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/124.wav"
     },
     {
         "id": "M5090_S0020_G0000_300_roborece",
@@ -1341,6 +1367,7 @@
         "id": "M5090_S0060_G0050_001_masamune",
         "jp": "いざ、尋常に勝負スルベシ！",
         "en": "Let us fight with honor!",
-        "ru": "Сразимся же с честью!"
+        "ru": "Сразимся же с честью!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/122.wav"
     }
 ]

@@ -195,7 +195,8 @@
         "id": "M5680_S0020_G0010_001_robos",
         "jp": "タタカイをやめよう！！",
         "en": "No more fighting!",
-        "ru": "Больше не сражайтесь!"
+        "ru": "Больше не сражайтесь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/4.wav"
     },
     {
         "id": "M5680_S0020_G0020_001_robos",
@@ -225,19 +226,22 @@
         "id": "M5680_S0020_G0060_001_n02",
         "jp": "私達は戦いに来たのではありません！",
         "en": "We did not come here to fight!",
-        "ru": "Мы пришли сюда не для сражения!"
+        "ru": "Мы пришли сюда не для сражения!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/9.wav"
     },
     {
         "id": "M5680_S0020_G0070_001_n02",
         "jp": "助けてください！！",
         "en": "Please help!",
-        "ru": "Помогите, пожалуйста!"
+        "ru": "Помогите, пожалуйста!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/10.wav"
     },
     {
         "id": "M5680_S0020_G0080_001_n02",
         "jp": "アイが必要です！！",
         "en": "All we need is love!",
-        "ru": "Нам всем нужна любовь!"
+        "ru": "Нам всем нужна любовь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/11.wav"
     },
     {
         "id": "M5680_S0020_G0090_001_n02",
@@ -255,7 +259,8 @@
         "id": "M5680_S0020_G0110_001_n02",
         "jp": "戦うのはイヤです！",
         "en": "I don't want to fight!",
-        "ru": "Я не желаю сражаться!"
+        "ru": "Я не желаю сражаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/14.wav"
     },
     {
         "id": "M5680_S0020_G0120_001_n02",
@@ -309,7 +314,8 @@
         "id": "M5680_S0020_G0130_001_n02",
         "jp": "ありがとうございました。",
         "en": "Thank you very much.",
-        "ru": "Огромное спасибо."
+        "ru": "Огромное спасибо.",
+        "en_voice": "stream/Japanese/vo_plffff_0_001/996.wav"
     },
     {
         "id": "M5680_S0020_G0140_001_n02",

@@ -69,13 +69,15 @@
         "id": "M5123_S0010_G0110_001_a2b",
         "jp": "Ａ２の情報、といっても、どこを探せばいいのか……",
         "en": "She wants intel on A2, does she? Where should we start?",
-        "ru": "Ей нужна информация об A2, так ведь? И с чего нам начать поиск?"
+        "ru": "Ей нужна информация об A2, так ведь? И с чего нам начать поиск?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/857.wav"
     },
     {
         "id": "M5123_S0010_G0120_001_a9s",
         "jp": "戦闘時に発生するエネルギー反応を調べていくのはどうでしょう？",
         "en": "We could check out the energy reactions generated during battles.",
-        "ru": "Мы можем проверить возмущения энергии, возникающие при сражениях."
+        "ru": "Мы можем проверить возмущения энергии, возникающие при сражениях.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/57.wav"
     },
     {
         "id": "M5123_S0010_G0130_001_a9s",
@@ -93,37 +95,43 @@
         "id": "M5123_S0010_G0150_001_a9s",
         "jp": "現在、このエリアで戦闘任務に入っているのは僕らだけの筈ですから……",
         "en": "We're the only units doing any combat missions in this area, right?",
-        "ru": "Мы ведь единственные единицы, ведущие боевые действия в этой области?"
+        "ru": "Мы ведь единственные единицы, ведущие боевые действия в этой области?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/60.wav"
     },
     {
         "id": "M5123_S0010_G0160_001_a9s",
         "jp": "エネルギー反応があった場所にＡ２がいる可能性は高い気がします。",
         "en": "So if we detect any stray energy reactions, it probably means A2 is involved.",
-        "ru": "Так что если мы обнаружим любые энергетические всплески, возможно, к ним будет причастна A2."
+        "ru": "Так что если мы обнаружим любые энергетические всплески, возможно, к ним будет причастна A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/61.wav"
     },
     {
         "id": "M5123_S0010_G0170_001_a9s",
         "jp": "廃工場跡地に集中しています……マップにポイントしておきますね。",
         "en": "...Yeah, okay. We've got some readings around the abandoned factory. I'll put it on the map.",
-        "ru": "...Ага, хорошо. Я получаю показания о всплесках вблизи заброшенной фабрики."
+        "ru": "...Ага, хорошо. Я получаю показания о всплесках вблизи заброшенной фабрики.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/62.wav"
     },
     {
         "id": "M5123_S0010_G0180_001_a2b",
         "jp": "これは……",
         "en": "Look.",
-        "ru": "Смотри."
+        "ru": "Смотри.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/858.wav"
     },
     {
         "id": "M5123_S0010_G0190_001_a9s",
         "jp": "Ａ２の戦闘の跡でしょうか。",
         "en": "That's A2's handiwork, I bet.",
-        "ru": "Бьюсь об заклад, здесь поработала A2."
+        "ru": "Бьюсь об заклад, здесь поработала A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/63.wav"
     },
     {
         "id": "M5123_S0010_G0200_001_a9s",
         "jp": "肝心のＡ２の反応は……ないみたいですね。",
         "en": "But I'm not picking up any sign of A2 herself.",
-        "ru": "Но я не могу засечь никаких признаков самой A2."
+        "ru": "Но я не могу засечь никаких признаков самой A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/64.wav"
     },
     {
         "id": "M5123_S0010_G0210_001_a9s",
@@ -135,37 +143,43 @@
         "id": "M5123_S0010_G0220_001_a2b",
         "jp": "ポッド、解析をお願い。",
         "en": "Pod, help me out here.",
-        "ru": "Бот, помоги мне с этим."
+        "ru": "Бот, помоги мне с этим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/859.wav"
     },
     {
         "id": "M5123_S0010_G0230_001_pod042",
         "jp": "解析結果：ヨルハ特殊指定機体、Ａ２に関するデータログと推測。",
         "en": "Analysis: It is believed to be a data log related to YoRHa unit A2.",
-        "ru": "Анализ: возможно, что этот журнал данных имеет отношение к единице YoRHa A2."
+        "ru": "Анализ: возможно, что этот журнал данных имеет отношение к единице YoRHa A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/965.wav"
     },
     {
         "id": "M5123_S0010_G0240_001_a2b",
         "jp": "内容は？",
         "en": "What's the data?",
-        "ru": "Какие в нём данные?"
+        "ru": "Какие в нём данные?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/860.wav"
     },
     {
         "id": "M5123_S0010_G0250_001_pod042",
         "jp": "破損部分が大きく、これ以上の解析は不可。",
         "en": "The data log has been irreparably damaged. Further analysis is impossible.",
-        "ru": "Журналу данных нанесено непоправимое повреждение. Дальнейший анализ невозможен."
+        "ru": "Журналу данных нанесено непоправимое повреждение. Дальнейший анализ невозможен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/966.wav"
     },
     {
         "id": "M5123_S0010_G0260_001_a2b",
         "jp": "どうして……機械生命体がＡ２の情報を……",
         "en": "Why do a bunch of machines have A2's data?",
-        "ru": "Откуда у кучки машин оказались данные A2?"
+        "ru": "Откуда у кучки машин оказались данные A2?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/861.wav"
     },
     {
         "id": "M5123_S0010_G0270_001_a9s",
         "jp": "他にも反応があります。行ってみましょう。",
         "en": "Hey, 2B? I'm picking up other reactions. We should check them out.",
-        "ru": "Эй, 2B? Регистрирую новые всплески. Нам стоит их проверить."
+        "ru": "Эй, 2B? Регистрирую новые всплески. Нам стоит их проверить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/66.wav"
     },
     {
         "id": "M5123_S0010_G0280_001_ane",
@@ -213,19 +227,22 @@
         "id": "M5123_S0010_G0330_001_a9s",
         "jp": "他にデータチップの反応はありませんね。これで最後のようです。",
         "en": "Okay, I think that's the last of the data chips.",
-        "ru": "Хорошо, полагаю, что это последний из чипов с данными."
+        "ru": "Хорошо, полагаю, что это последний из чипов с данными.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/67.wav"
     },
     {
         "id": "M5123_S0010_G0340_001_a2b",
         "jp": "ポッド。回収したデータチップを解析後、各チップと照合して。",
         "en": "Pod, analyze and collate the information from those chips.",
-        "ru": "Бот, проанализируй и выгрузи информацию из этих чипов."
+        "ru": "Бот, проанализируй и выгрузи информацию из этих чипов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/862.wav"
     },
     {
         "id": "M5123_S0010_G0350_001_pod042",
         "jp": "解析完了：Ａ２に関するデータを含むデータ群。",
         "en": "Analysis complete: Data set contains information about YoRHa unit A2.",
-        "ru": "Анализ завершён: массив данных содержит в себе информацию о единице YoRHa A2."
+        "ru": "Анализ завершён: массив данных содержит в себе информацию о единице YoRHa A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/967.wav"
     },
     {
         "id": "M5123_S0010_G0360_001_pod042",
@@ -249,13 +266,15 @@
         "id": "M5123_S0010_G0390_001_a9s",
         "jp": "僕達の前世代……旧型ヨルハで遂行された作戦ですね。",
         "en": "That operation was carried out by the YoRHa generation that came before us, right?",
-        "ru": "Эта операция проводилась предыдущим поколением YoRHa, так ведь?"
+        "ru": "Эта операция проводилась предыдущим поколением YoRHa, так ведь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/68.wav"
     },
     {
         "id": "M5123_S0010_G0400_001_a9s",
         "jp": "とりあえず、目的は達しました。レジスタンスキャンプへ戻りましょう。",
         "en": "Anyway, mission complete, I suppose. Let's get back to the Resistance camp.",
-        "ru": "Как бы то ни было, я полагаю, задание выполнено. Давай возвращаться в лагерь Сопротивления."
+        "ru": "Как бы то ни было, я полагаю, задание выполнено. Давай возвращаться в лагерь Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/69.wav"
     },
     {
         "id": "M5123_S0030_G0000_001_a9s",
@@ -363,7 +382,8 @@
         "id": "M5123_S0030_G0170_001_a2b",
         "jp": "……９Ｓ、行こう。",
         "en": "Let's go, 9S.",
-        "ru": "Идём, 9S."
+        "ru": "Идём, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/565.wav"
     },
     {
         "id": "M5123_S0030_G0180_001_a9s",
@@ -375,25 +395,29 @@
         "id": "M5123_S0030_G0190_001_a2b",
         "jp": "……語るには時間が必要な事もある。",
         "en": "Some things just aren't easy to talk about.",
-        "ru": "О некоторых вещах говорить довольно непросто."
+        "ru": "О некоторых вещах говорить довольно непросто.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/864.wav"
     },
     {
         "id": "M5123_S0030_G0200_001_a2b",
         "jp": "長く戦っている兵士ならなおさら。",
         "en": "Especially for a soldier who's been fighting that long.",
-        "ru": "Особенно для солдата, сражавшегося так долго."
+        "ru": "Особенно для солдата, сражавшегося так долго.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/865.wav"
     },
     {
         "id": "M5123_S0030_G0210_001_a9s",
         "jp": "そうなんですね……",
         "en": "I guess so.",
-        "ru": "Полагаю, что так."
+        "ru": "Полагаю, что так.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/71.wav"
     },
     {
         "id": "M5123_S0030_G0220_001_a2b",
         "jp": "９Ｓ、あなたも……",
         "en": "9S, you...",
-        "ru": "9S, ты..."
+        "ru": "9S, ты...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/866.wav"
     },
     {
         "id": "M5123_S0030_G0230_001_a9s",
@@ -405,7 +429,8 @@
         "id": "M5123_S0030_G0240_001_a2b",
         "jp": "……あなたにも、いつか判る日が来るかもしれない。",
         "en": "...You might understand yourself someday.",
-        "ru": "...Когда-нибудь ты и сам всё поймёшь."
+        "ru": "...Когда-нибудь ты и сам всё поймёшь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/867.wav"
     },
     {
         "id": "M5123_S0030_G0250_001_a9s",

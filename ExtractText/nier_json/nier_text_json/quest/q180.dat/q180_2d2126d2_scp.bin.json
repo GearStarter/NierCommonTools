@@ -153,55 +153,64 @@
         "id": "M5180_S0020_G0000_001_a9s",
         "jp": "この工場、機械生命体の巣みたいになってるな。",
         "en": "This whole place is like a giant machine's nest.",
-        "ru": "Это место похоже на гигантское гнездо машин."
+        "ru": "Это место похоже на гигантское гнездо машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/111.wav"
     },
     {
         "id": "M5180_S0020_G0010_001_a9s",
         "jp": "以前はどんな場所だったんだろう……",
         "en": "I wonder what it used to be like?",
-        "ru": "Интересно, для чего его раньше использовали?"
+        "ru": "Интересно, для чего его раньше использовали?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/112.wav"
     },
     {
         "id": "M5180_S0020_G0020_001_pod153",
         "jp": "参照結果：人類文明が健在だった頃の兵器生産工場。",
         "en": "Accessing historical records...",
-        "ru": "Подключаюсь к историческому архиву..."
+        "ru": "Подключаюсь к историческому архиву...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/433.wav"
     },
     {
         "id": "M5180_S0020_G0030_001_pod153",
         "jp": "兵器生産と実験を行っていた。",
         "en": "Analysis: This location was once used for weapons production and experimentation.",
-        "ru": "Анализ: Это место использовалось для создания и испытания оружия."
+        "ru": "Анализ: Это место использовалось для создания и испытания оружия.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/434.wav"
     },
     {
         "id": "M5180_S0020_G0040_001_a9s",
         "jp": "へぇ……どんな武器を作っていたの？",
         "en": "No kidding? What kind of weapons?",
-        "ru": "Серьёзно? И какого оружия?"
+        "ru": "Серьёзно? И какого оружия?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/113.wav"
     },
     {
         "id": "M5180_S0020_G0050_001_pod153",
         "jp": "主に人型兵器を製造。代表モデル名はＰ−２２、Ｐ−３３。",
         "en": "Humanoid combat robots. Common examples include the P-22 and P-33 models.",
-        "ru": "Гуманоидные боевые машины. Например, такие, как модели P-22 и P-33."
+        "ru": "Гуманоидные боевые машины. Например, такие, как модели P-22 и P-33.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/435.wav"
     },
     {
         "id": "M5180_S0020_G0060_001_a9s",
         "jp": "人型の兵器かぁ。飛行ユニットみたいな感じかなぁ。",
         "en": "Human-shaped weapons, huh? Wonder if they worked like flight units.",
-        "ru": "Человекоподобное оружие, да? Наверное, они работали, как полётные модули."
+        "ru": "Человекоподобное оружие, да? Наверное, они работали, как полётные модули.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/114.wav"
     },
     {
         "id": "M5180_S0020_G0070_001_pod153",
         "jp": "当該兵器の写真資料は現存せず。",
         "en": "Unknown. No image-based information exists.",
-        "ru": "Неизвестно. В базе данных отсутствует их изображение."
+        "ru": "Неизвестно. В базе данных отсутствует их изображение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/436.wav"
     },
     {
         "id": "M5180_S0030_G0000_001_a9s",
         "jp": "あそこからデータにアクセスできるみたいだな……",
         "en": "I think I can access the data over there...",
-        "ru": "Думаю, я смогу получить доступ к данным вон там..."
+        "ru": "Думаю, я смогу получить доступ к данным вон там...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/115.wav"
     },
     {
         "id": "M5180_S0030_G0010_001_a9s",
@@ -213,19 +222,22 @@
         "id": "M5180_S0030_G0020_001_a9s",
         "jp": "あとは、このデータを送信すればいいな。",
         "en": "Now I just have to send it to her.",
-        "ru": "Теперь мне нужно просто отправить их ей."
+        "ru": "Теперь мне нужно просто отправить их ей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/117.wav"
     },
     {
         "id": "M5180_S0030_G0030_001_pod153",
         "jp": "報告：本場所は電波強度が不十分。",
         "en": "Alert: Poor reception in this area is preventing data upload.",
-        "ru": "Внимание: отправка данных невозможна ввиду плохого приёма сигнала."
+        "ru": "Внимание: отправка данных невозможна ввиду плохого приёма сигнала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/437.wav"
     },
     {
         "id": "M5180_S0030_G0040_001_pod153",
         "jp": "推奨：通信環境の良い場所への移動。",
         "en": "Proposal: Unit 9S should move to an area with better reception.",
-        "ru": "Предложение: единице 9S следует переместиться в область с лучшим приёмом сигнала."
+        "ru": "Предложение: единице 9S следует переместиться в область с лучшим приёмом сигнала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/438.wav"
     },
     {
         "id": "M5180_S0030_G0050_001_a9s",
@@ -237,7 +249,8 @@
         "id": "M5180_S0030_G0060_001_a9s",
         "jp": "ここなら通信可能だな……",
         "en": "This should be good enough...",
-        "ru": "Теперь всё должно пройти хорошо..."
+        "ru": "Теперь всё должно пройти хорошо...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/119.wav"
     },
     {
         "id": "M5180_S0030_G0070_001_a9s",
@@ -261,13 +274,15 @@
         "id": "M5180_S0030_G0100_001_a9s",
         "jp": "はい。こちら９Ｓ。",
         "en": "This is 9S.",
-        "ru": "9S на связи."
+        "ru": "9S на связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/121.wav"
     },
     {
         "id": "M5180_S0030_G0110_001_op210",
         "jp": "データの受領を確認しました。",
         "en": "I received the data you sent.",
-        "ru": "Я получила данные, что вы отправили."
+        "ru": "Я получила данные, что вы отправили.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/203.wav"
     },
     {
         "id": "M5180_S0030_G0120_001_op210",
@@ -279,19 +294,22 @@
         "id": "M5180_S0030_G0130_001_op210",
         "jp": "このデータは過去に工場で働いていた人類の日記のようです。",
         "en": "It appears to be the journal of a human who once worked in the factory.",
-        "ru": "По-видимому, это журнал человека, работавшего на фабрике."
+        "ru": "По-видимому, это журнал человека, работавшего на фабрике.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/205.wav"
     },
     {
         "id": "M5180_S0030_G0140_001_a9s",
         "jp": "日記？",
         "en": "What, like a diary?",
-        "ru": "Что-то вроде дневника?"
+        "ru": "Что-то вроде дневника?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/122.wav"
     },
     {
         "id": "M5180_S0030_G0150_001_op210",
         "jp": "その日記によると、毎日長時間工場で労働していたのですが、",
         "en": "Yes. According to this, the man worked long hours on an almost daily basis.",
-        "ru": "Да. Согласно ему, человек работал почти каждый день по многу часов."
+        "ru": "Да. Согласно ему, человек работал почти каждый день по многу часов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/206.wav"
     },
     {
         "id": "M5180_S0030_G0160_001_op210",
@@ -303,13 +321,15 @@
         "id": "M5180_S0030_G0170_001_op210",
         "jp": "機械のようになりながら、工場で機械を作る……\\n人類は不思議ですね。",
         "en": "Working like a machine to build a machine? Humans truly were strange creatures.",
-        "ru": "Работать, как машина, чтобы создать машину? Люди были поистине странными созданиями."
+        "ru": "Работать, как машина, чтобы создать машину? Люди были поистине странными созданиями.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/208.wav"
     },
     {
         "id": "M5180_S0030_G0180_001_a9s",
         "jp": "なるほど……",
         "en": "Sounds like it.",
-        "ru": "Похоже на то."
+        "ru": "Похоже на то.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/123.wav"
     },
     {
         "id": "M5180_S0030_G0190_001_op210",
@@ -321,13 +341,15 @@
         "id": "M5180_S0030_G0200_001_a9s",
         "jp": "報酬？報酬がもらえるんですか？",
         "en": "Wait, I can get rewarded for doing this?",
-        "ru": "Погодите, меня вознаградят за это?"
+        "ru": "Погодите, меня вознаградят за это?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/124.wav"
     },
     {
         "id": "M5180_S0030_G0210_001_op210",
         "jp": "報酬を渡さないとは一言も言っていません。",
         "en": "I didn't say you would not get a reward.",
-        "ru": "Я ведь не говорила, что награды не будет."
+        "ru": "Я ведь не говорила, что награды не будет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/210.wav"
     },
     {
         "id": "M5180_S0030_G0220_001_a9s",
@@ -345,6 +367,7 @@
         "id": "M5920_S0020_G0180_001_pod153",
         "jp": "報告：アクセスポイントからメール受信の連絡。",
         "en": "Report: Mail notification received from access point.",
-        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/545.wav"
     }
 ]

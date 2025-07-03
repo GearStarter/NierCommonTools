@@ -21,13 +21,15 @@
         "id": "M3030_S0020_G0030_001_pascal",
         "jp": "どうもこのニーチェという人間の考えは深いですね。",
         "en": "It seems this Nietzsche was quite the profound thinker.",
-        "ru": "Кажется, этот Ницше был довольно глубоким мыслителем."
+        "ru": "Кажется, этот Ницше был довольно глубоким мыслителем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/486.wav"
     },
     {
         "id": "M3030_S0020_G0040_001_pascal",
         "jp": "深すぎて、私にはまだ変人にしか見えませんが……",
         "en": "Or perhaps he skipped right past profound and went straight to crazy instead.",
-        "ru": "Или, возможно, он пропустил всю глубину сей мысли и просто обезумел."
+        "ru": "Или, возможно, он пропустил всю глубину сей мысли и просто обезумел.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/487.wav"
     },
     {
         "id": "M3030_S0020_G0050_001_pascal",
@@ -39,7 +41,8 @@
         "id": "M3030_S0020_G0060_001_pascal",
         "jp": "本だけではなく、私もこの世界を見て回らないといけませんね……",
         "en": "I'd best go see the world for myself instead of burying my head in books.",
-        "ru": "Пожалуй, лучше выйти в свет, чем сидеть с головой в книгах."
+        "ru": "Пожалуй, лучше выйти в свет, чем сидеть с головой в книгах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/489.wav"
     },
     {
         "id": "M3030_S0020_G0070_001_child",
@@ -57,19 +60,22 @@
         "id": "M3030_S0020_G0090_001_pascal",
         "jp": "おやおや。ずいぶん言葉が上手になりましたね。",
         "en": "Well, look at you! Your speaking has improved so much.",
-        "ru": "Только взгляните на себя! Ваша речь стала на порядок лучше!"
+        "ru": "Только взгляните на себя! Ваша речь стала на порядок лучше!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/490.wav"
     },
     {
         "id": "M3030_S0020_G0100_001_pascal",
         "jp": "でも、まだ勉強が終わっていないじゃないですか。",
         "en": "But I fear you still haven't finished your studies, have you?",
-        "ru": "Но я боюсь, что вы ещё не закончили со своей учёбой, не так ли?"
+        "ru": "Но я боюсь, что вы ещё не закончили со своей учёбой, не так ли?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/491.wav"
     },
     {
         "id": "M3030_S0020_G0110_001_pascal",
         "jp": "今日は植物の図鑑を読んで覚える、って約束でしたよね？",
         "en": "You promised to read and memorize that botanical field guide, remember?",
-        "ru": "Вы обещали прочитать и запомнить это руководство по ботанике, помните?"
+        "ru": "Вы обещали прочитать и запомнить это руководство по ботанике, помните?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/492.wav"
     },
     {
         "id": "M3030_S0020_G0120_001_child",
@@ -87,19 +93,22 @@
         "id": "M3030_S0020_G0140_001_pascal",
         "jp": "もちろん遊びますよ。",
         "en": "Of course I will! You have my word.",
-        "ru": "Конечно же! Даю слово."
+        "ru": "Конечно же! Даю слово.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/493.wav"
     },
     {
         "id": "M3030_S0020_G0150_001_pascal",
         "jp": "パスカルおじちゃんは、ウソをつきませんからね。",
         "en": "And Uncle Pascal would never lie and break his word.",
-        "ru": "И дядя Паскаль никогда не соврёт и не нарушит своё обещание."
+        "ru": "И дядя Паскаль никогда не соврёт и не нарушит своё обещание.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/494.wav"
     },
     {
         "id": "M3030_S0020_G0160_001_pascal",
         "jp": "ウソをつく子は、悪い機械生命体になっちゃいますよ？",
         "en": "Because children who lie grow up to be mean, evil machines!",
-        "ru": "Потому что дети, которые лгут, становятся очень-очень злыми машинами!"
+        "ru": "Потому что дети, которые лгут, становятся очень-очень злыми машинами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/495.wav"
     },
     {
         "id": "M3030_S0020_G0170_001_child",

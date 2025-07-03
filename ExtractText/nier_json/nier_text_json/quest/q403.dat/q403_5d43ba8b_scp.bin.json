@@ -3,7 +3,8 @@
         "id": "M5403_S0010_G0000_001_a2b",
         "jp": "あれは……例のロボット……",
         "en": "There's another one of those strange machines.",
-        "ru": "Вот и ещё одна из тех странных машин."
+        "ru": "Вот и ещё одна из тех странных машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/939.wav"
     },
     {
         "id": "M5403_S0010_G0010_001_pod042",
@@ -27,7 +28,8 @@
         "id": "M5403_S0010_G0040_001_a9s",
         "jp": "あのタイプは……多分、襲ってくるよね。",
         "en": "There's another of those machines... I suppose it's going to attack me, right?",
-        "ru": "Ещё одна из тех машин... Я думаю, она нападёт на меня, верно?"
+        "ru": "Ещё одна из тех машин... Я думаю, она нападёт на меня, верно?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/209.wav"
     },
     {
         "id": "M5403_S0010_G0050_001_pod153",
@@ -69,13 +71,15 @@
         "id": "M5403_S0010_G0110_001_a2",
         "jp": "復讐、か……",
         "en": "Revenge, huh?",
-        "ru": "Месть, да?"
+        "ru": "Месть, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/571.wav"
     },
     {
         "id": "M5403_S0010_G0120_001_robolargegoldcchild",
         "jp": "家族、一族を全て殺された。",
         "en": "My family... My brethren... All have been killed.",
-        "ru": "Моя семья... Мои собратья... Все были убиты."
+        "ru": "Моя семья... Мои собратья... Все были убиты.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/746.wav"
     },
     {
         "id": "M5403_S0010_G0130_001_robolargegoldcchild",
@@ -99,37 +103,43 @@
         "id": "M5403_S0020_G0010_001_robolargegoldcchild",
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
-        "ru": "Брат... Сестра..."
+        "ru": "Брат... Сестра...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
         "jp": "みんな……ごめん、なさい……",
         "en": "I'm so sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/751.wav"
     },
     {
         "id": "M5403_S0020_G0030_001_robosmallgoldwoman",
         "jp": "殺すッ！必ずこいつを倒すッ！",
         "en": "I'll kill you... I swear on my life to kill you!",
-        "ru": "Я убью тебя... Клянусь своей жизнью, что убью тебя!"
+        "ru": "Я убью тебя... Клянусь своей жизнью, что убью тебя!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1092.wav"
     },
     {
         "id": "M5403_S0030_G0000_001_robolargegoldcchild",
         "jp": "……殺せよ。",
         "en": "...Go on. Finish me.",
-        "ru": "...Давай же. Прикончи меня."
+        "ru": "...Давай же. Прикончи меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/752.wav"
     },
     {
         "id": "M5403_S0030_G0010_001_robolargegoldcchild",
         "jp": "どうせ、仇討ち出来たら、死のうと思ってたんだ。",
         "en": "Even if I'd achieved my revenge, I was planning to die regardless.",
-        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть."
+        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/753.wav"
     },
     {
         "id": "M5403_S0030_G0020_001_robolargegoldcchild",
         "jp": "家族も、友達も、みんな死んだ。",
         "en": "My friends are dead. My family is dead.",
-        "ru": "Мои друзья погибли. Моя семья мертва."
+        "ru": "Мои друзья погибли. Моя семья мертва.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/754.wav"
     },
     {
         "id": "M5403_S0030_G0030_001_robolargegoldcchild",
@@ -141,7 +151,8 @@
         "id": "M5403_S0030_G0040_001_robolargegoldcchild",
         "jp": "１人になった僕に……もう、生きる気力なんて無いんだ……",
         "en": "I don't have the strength to continue.",
-        "ru": "У меня нет сил, чтобы жить."
+        "ru": "У меня нет сил, чтобы жить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M5403_S0030_G0050_001_robolargegoldcchild",
@@ -153,37 +164,43 @@
         "id": "M5403_S0030_G0060_001_robolargegoldcchild",
         "jp": "……ゴメン……みんな……",
         "en": "I'm sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/758.wav"
     },
     {
         "id": "M5403_S0030_G0070_001_robolargegoldcchild",
         "jp": "仇を討てなかった……",
         "en": "I couldn't avenge you...",
-        "ru": "Я не смог отомстить за вас..."
+        "ru": "Я не смог отомстить за вас...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/759.wav"
     },
     {
         "id": "M5403_S0030_G0080_001_robolargegoldcchild",
         "jp": "アンドロイドめ……どこまで……僕達を愚弄すれば気が済むんだ！",
         "en": "Accursed androids... How much longer will you torment us!?",
-        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!"
+        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/760.wav"
     },
     {
         "id": "M5403_S0030_G0090_001_robolargegoldcchild",
         "jp": "この悪魔がッ！！",
         "en": "You damn monsters!",
-        "ru": "Вы чёртовы монстры!"
+        "ru": "Вы чёртовы монстры!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M5403_S0030_G0100_001_robolargegoldcchild",
         "jp": "……バンザイ。",
         "en": "Glory to us...",
-        "ru": "Слава нам..."
+        "ru": "Слава нам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/762.wav"
     },
     {
         "id": "M5403_S0030_G0110_001_robolargegoldcchild",
         "jp": "家族バンザアアアアアアアイ！！！！",
         "en": "Glory to my family!",
-        "ru": "Слава моей семье!"
+        "ru": "Слава моей семье!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/763.wav"
     },
     {
         "id": "M5403_S0020_G0000_001_robolargegoldcchild",
@@ -195,31 +212,36 @@
         "id": "M5403_S0020_G0010_001_robolargegoldcchild",
         "jp": "兄ちゃん……姉ちゃん……",
         "en": "Brother... Sister...",
-        "ru": "Брат... Сестра..."
+        "ru": "Брат... Сестра...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/750.wav"
     },
     {
         "id": "M5403_S0020_G0020_001_robolargegoldcchild",
         "jp": "みんな……ごめん、なさい……",
         "en": "I'm so sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/751.wav"
     },
     {
         "id": "M5403_S0030_G0000_001_robolargegoldcchild",
         "jp": "……殺せよ。",
         "en": "...Go on. Finish me.",
-        "ru": "...Давай же. Прикончи меня."
+        "ru": "...Давай же. Прикончи меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/752.wav"
     },
     {
         "id": "M5403_S0030_G0010_001_robolargegoldcchild",
         "jp": "どうせ、仇討ち出来たら、死のうと思ってたんだ。",
         "en": "Even if I'd achieved my revenge, I was planning to die regardless.",
-        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть."
+        "ru": "Даже если бы я добился своей мести, я всё равно планировал умереть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/753.wav"
     },
     {
         "id": "M5403_S0030_G0020_001_robolargegoldcchild",
         "jp": "家族も、友達も、みんな死んだ。",
         "en": "My friends are dead. My family is dead.",
-        "ru": "Мои друзья погибли. Моя семья мертва."
+        "ru": "Мои друзья погибли. Моя семья мертва.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/754.wav"
     },
     {
         "id": "M5403_S0030_G0030_001_robolargegoldcchild",
@@ -231,7 +253,8 @@
         "id": "M5403_S0030_G0040_001_robolargegoldcchild",
         "jp": "１人になった僕に……もう、生きる気力なんて無いんだ……",
         "en": "I don't have the strength to continue.",
-        "ru": "У меня нет сил, чтобы жить."
+        "ru": "У меня нет сил, чтобы жить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M5403_S0030_G0050_001_robolargegoldcchild",
@@ -243,43 +266,50 @@
         "id": "M5403_S0030_G0060_001_robolargegoldcchild",
         "jp": "……ゴメン……みんな……",
         "en": "I'm sorry, everyone...",
-        "ru": "Простите меня..."
+        "ru": "Простите меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/758.wav"
     },
     {
         "id": "M5403_S0030_G0070_001_robolargegoldcchild",
         "jp": "仇を討てなかった……",
         "en": "I couldn't avenge you...",
-        "ru": "Я не смог отомстить за вас..."
+        "ru": "Я не смог отомстить за вас...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/759.wav"
     },
     {
         "id": "M5403_S0030_G0080_001_robolargegoldcchild",
         "jp": "アンドロイドめ……どこまで……僕達を愚弄すれば気が済むんだ！",
         "en": "Accursed androids... How much longer will you torment us!?",
-        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!"
+        "ru": "Проклятые андроиды... как долго вы будете нас мучить?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/760.wav"
     },
     {
         "id": "M5403_S0030_G0090_001_robolargegoldcchild",
         "jp": "この悪魔がッ！！",
         "en": "You damn monsters!",
-        "ru": "Вы чёртовы монстры!"
+        "ru": "Вы чёртовы монстры!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M5403_S0030_G0100_001_robolargegoldcchild",
         "jp": "……バンザイ。",
         "en": "Glory to us...",
-        "ru": "Слава нам..."
+        "ru": "Слава нам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/762.wav"
     },
     {
         "id": "M5403_S0030_G0110_001_robolargegoldcchild",
         "jp": "家族バンザアアアアアアアイ！！！！",
         "en": "Glory to my family!",
-        "ru": "Слава моей семье!"
+        "ru": "Слава моей семье!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/763.wav"
     },
     {
         "id": "M5403_S0030_G0120_001_a2b",
         "jp": "機械生命体が家族の復讐……",
         "en": "A machine seeking revenge for its family?",
-        "ru": "Машина желает отомстить за свою семью?"
+        "ru": "Машина желает отомстить за свою семью?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/941.wav"
     },
     {
         "id": "M5403_S0030_G0130_001_pod042",
@@ -297,13 +327,15 @@
         "id": "M5403_S0030_G0150_001_a2b",
         "jp": "……馬鹿げてる。",
         "en": "...How absurd.",
-        "ru": "...Как нелепо."
+        "ru": "...Как нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/942.wav"
     },
     {
         "id": "M5403_S0030_G0160_001_a9s",
         "jp": "機械生命体が家族の復讐？……馬鹿げてる。",
         "en": "Machines wanting to avenge their families? That's absurd.",
-        "ru": "Машины хотят отомстить за свою семью? Это нелепо."
+        "ru": "Машины хотят отомстить за свою семью? Это нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/211.wav"
     },
     {
         "id": "M5403_S0030_G0170_001_pod153",
@@ -327,7 +359,8 @@
         "id": "M5403_S0030_G0200_001_a2",
         "jp": "機械生命体が家族の復讐……",
         "en": "What kind of machine tries to avenge its family?",
-        "ru": "Что же это за машина такая, что пытается мстить за свою семью?"
+        "ru": "Что же это за машина такая, что пытается мстить за свою семью?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/572.wav"
     },
     {
         "id": "M5403_S0030_G0210_001_pod042",
@@ -345,6 +378,7 @@
         "id": "M5403_S0030_G0230_001_a2",
         "jp": "……馬鹿げてる。",
         "en": "...Ridiculous.",
-        "ru": "...Нелепо."
+        "ru": "...Нелепо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/573.wav"
     }
 ]

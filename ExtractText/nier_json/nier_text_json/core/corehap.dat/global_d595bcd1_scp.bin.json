@@ -328,13 +328,15 @@
         "id": "M5920_S0030_G0060_001_a2b",
         "jp": "どんな事情で捨てたんだろう……",
         "en": "Why was it abandoned...?",
-        "ru": "Почему его здесь бросили?.."
+        "ru": "Почему его здесь бросили?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/998.wav"
     },
     {
         "id": "M5920_S0030_G0070_001_a2b",
         "jp": "再起動して、使えるようだったら私を管理者に上書きできるか試してみて。",
         "en": "Pod, reactivate it for me. If it's usable, try to overwrite the original owner with my ID.",
-        "ru": "Бот, запусти его. Если он работает, перепиши ID предыдущего владельца на мой."
+        "ru": "Бот, запусти его. Если он работает, перепиши ID предыдущего владельца на мой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/999.wav"
     },
     {
         "id": "M5920_S0030_G0140_001_pod042",
@@ -364,13 +366,15 @@
         "id": "M5920_S0030_G0080_001_a2",
         "jp": "どんな事情で捨てたんだか……",
         "en": "Wonder why it was abandoned...",
-        "ru": "Интересно, почему его здесь бросили..."
+        "ru": "Интересно, почему его здесь бросили...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/647.wav"
     },
     {
         "id": "M5920_S0030_G0090_001_a2",
         "jp": "そいつ、まだ生きてる？",
         "en": "Is that thing still functioning?",
-        "ru": "Эта штуковина ещё работает?"
+        "ru": "Эта штуковина ещё работает?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/648.wav"
     },
     {
         "id": "M5920_S0030_G0140_001_pod042",
@@ -400,13 +404,15 @@
         "id": "M5920_S0030_G0100_001_a9s",
         "jp": "これを持っていたヨルハはどこに……",
         "en": "What happened to the YoRHa unit this belonged to?",
-        "ru": "Что случилось с бойцом YoRHa, которому он принадлежал?"
+        "ru": "Что случилось с бойцом YoRHa, которому он принадлежал?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/329.wav"
     },
     {
         "id": "M5920_S0030_G0110_001_a9s",
         "jp": "そのポッド、まだ生きてる？生きてたら僕を管理者に上書きできるか\\n試してみて。",
         "en": "Is this pod still online? If it is, see if you can overwrite the original owner with my ID.",
-        "ru": "Этот бот ещё функционирует? Если да, проверь, можно ли переписать ID предыдущего владельца на мой."
+        "ru": "Этот бот ещё функционирует? Если да, проверь, можно ли переписать ID предыдущего владельца на мой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/330.wav"
     },
     {
         "id": "M5920_S0030_G0160_001_pod153",
@@ -424,7 +430,8 @@
         "id": "M5920_S0030_G0030_001_a9s",
         "jp": "これは……ポッド？",
         "en": "Seriously? A pod?",
-        "ru": "Серьёзно? Бот?"
+        "ru": "Серьёзно? Бот?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/328.wav"
     },
     {
         "id": "M5920_S0030_G0050_001_pod153",
@@ -436,13 +443,15 @@
         "id": "M5920_S0030_G0120_001_a9s",
         "jp": "棄てられたポッドか……",
         "en": "Abandoned pod, huh?",
-        "ru": "Бесхозный бот, да?"
+        "ru": "Бесхозный бот, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/331.wav"
     },
     {
         "id": "M5920_S0030_G0130_001_a9s",
         "jp": "再起動と所有権の上書き確認。",
         "en": "Pod, reactivate this and try to overwrite the original owner ID.",
-        "ru": "Бот, перезапусти его и перепиши ID предыдущего хозяина."
+        "ru": "Бот, перезапусти его и перепиши ID предыдущего хозяина.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/332.wav"
     },
     {
         "id": "M5920_S0030_G0160_001_pod153",
@@ -460,7 +469,8 @@
         "id": "M5920_S0030_G0180_001_a2b",
         "jp": "ポッドが釣れた……",
         "en": "I caught a pod?",
-        "ru": "Я поймала бота?"
+        "ru": "Я поймала бота?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1000.wav"
     },
     {
         "id": "M5920_S0030_G0220_001_pod042",
@@ -472,7 +482,8 @@
         "id": "M5920_S0030_G0240_001_a2b",
         "jp": "再起動と所有権の上書き確認を。",
         "en": "Pod, reset it and try to overwrite the original owner ID.",
-        "ru": "Бот, перезагрузи его и перепиши ID предыдущего владельца."
+        "ru": "Бот, перезагрузи его и перепиши ID предыдущего владельца.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1001.wav"
     },
     {
         "id": "M5920_S0030_G0280_001_pod042",
@@ -490,7 +501,8 @@
         "id": "M5920_S0030_G0190_001_a2",
         "jp": "何でポッドが釣れるんだ……",
         "en": "Um, did I really just catch a pod?",
-        "ru": "Эм, я что, серьёзно поймала бота?"
+        "ru": "Эм, я что, серьёзно поймала бота?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/652.wav"
     },
     {
         "id": "M5920_S0030_G0220_001_pod042",
@@ -502,7 +514,8 @@
         "id": "M5920_S0030_G0250_001_a2",
         "jp": "それ、使えないかチェックしてみて。",
         "en": "Check and see if I can use it.",
-        "ru": "Проверь, смогу ли я его использовать."
+        "ru": "Проверь, смогу ли я его использовать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/653.wav"
     },
     {
         "id": "M5920_S0030_G0280_001_pod042",
@@ -520,7 +533,8 @@
         "id": "M5920_S0030_G0200_001_a9s",
         "jp": "わ。これって、もしかしてポッド？",
         "en": "Whoa, is this a pod?",
-        "ru": "Ого, это ведь бот?"
+        "ru": "Ого, это ведь бот?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/333.wav"
     },
     {
         "id": "M5920_S0030_G0230_001_pod153",
@@ -532,7 +546,8 @@
         "id": "M5920_S0030_G0260_001_a9s",
         "jp": "使えるのかな……再起動と所有権の確認をしてみて。",
         "en": "I wonder if we can use it? Pod, reset this and check the original owner ID.",
-        "ru": "Интересно, смогу ли я его использовать? Бот, перезагрузи его и перепиши ID предыдущего владельца."
+        "ru": "Интересно, смогу ли я его использовать? Бот, перезагрузи его и перепиши ID предыдущего владельца.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/335.wav"
     },
     {
         "id": "M5920_S0030_G0300_001_pod153",
@@ -550,7 +565,8 @@
         "id": "M5920_S0030_G0210_001_a9s",
         "jp": "ポッドが釣れた？",
         "en": "A pod?",
-        "ru": "Бот?"
+        "ru": "Бот?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/334.wav"
     },
     {
         "id": "M5920_S0030_G0230_001_pod153",
@@ -562,7 +578,8 @@
         "id": "M5920_S0030_G0270_001_a9s",
         "jp": "再起動と所有権の上書き確認。",
         "en": "Pod, reset this thing and try to overwrite the original owner ID.",
-        "ru": "Бот, перезагрузи эту штуковину и перезапиши ID предыдущего владельца."
+        "ru": "Бот, перезагрузи эту штуковину и перезапиши ID предыдущего владельца.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/336.wav"
     },
     {
         "id": "M5920_S0030_G0300_001_pod153",
@@ -580,12 +597,14 @@
         "id": "M5920_S0010_G0180_001_pod042",
         "jp": "報告：アクセスポイントからメール受信の連絡。",
         "en": "Report: Mail notification received from access point.",
-        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/545.wav"
     },
     {
         "id": "M5920_S0020_G0180_001_pod153",
         "jp": "報告：アクセスポイントからメール受信の連絡。",
         "en": "Report: Mail notification received from access point.",
-        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении."
+        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/545.wav"
     }
 ]

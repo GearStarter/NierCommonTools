@@ -15,7 +15,8 @@
         "id": "M5171_S0010_G0020_001_a2b",
         "jp": "……まだ何も言ってない。",
         "en": "I didn't say anything yet.",
-        "ru": "Я ещё ничего не сказала."
+        "ru": "Я ещё ничего не сказала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/907.wav"
     },
     {
         "id": "M5171_S0010_G0030_001_pod042",
@@ -33,37 +34,43 @@
         "id": "M5171_S0010_G0050_001_a2b",
         "jp": "……その通り。",
         "en": "...That's right.",
-        "ru": "...Ты прав."
+        "ru": "...Ты прав.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/908.wav"
     },
     {
         "id": "M5171_S0010_G0060_001_pod042",
         "jp": "提案：希少な花の写真。",
         "en": "Proposal: The gift should be a photograph of a rare flower.",
-        "ru": "Предложение: в качестве подарка следует отправить фотографию редкого цветка."
+        "ru": "Предложение: в качестве подарка следует отправить фотографию редкого цветка.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/984.wav"
     },
     {
         "id": "M5171_S0010_G0070_001_a2b",
         "jp": "花の写真？",
         "en": "You think?",
-        "ru": "Ты так считаешь?"
+        "ru": "Ты так считаешь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/909.wav"
     },
     {
         "id": "M5171_S0010_G0080_001_pod042",
         "jp": "報告：過去の記録によると、\\n女性の過半数が植物の生殖器である花を好む。",
         "en": "Analysis of historical data indicates that human females enjoyed viewing the reproductive organs of flowering plants.",
-        "ru": "Анализ исторических сведений показал, что женские особи людей наслаждались созерцанием репродуктивных органов цветковых растений."
+        "ru": "Анализ исторических сведений показал, что женские особи людей наслаждались созерцанием репродуктивных органов цветковых растений.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/985.wav"
     },
     {
         "id": "M5171_S0010_G0090_001_pod042",
         "jp": "画像データであれば、通信のみでバンカーに伝える事が可能。",
         "en": "If unit 2B can procure appropriate image data, it could be uploaded to the Bunker.",
-        "ru": "Если единица 2B сможет заполучить соответствующее изображение, его можно будет отправить в Бункер."
+        "ru": "Если единица 2B сможет заполучить соответствующее изображение, его можно будет отправить в Бункер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/986.wav"
     },
     {
         "id": "M5171_S0010_G0100_001_pod042",
         "jp": "推奨：砂漠に生息する『砂漠のバラ』の画像データを撮影し、送信する。",
         "en": "Proposal: Unit 2B should obtain an image of the plant known as the \"desert rose.\"",
-        "ru": "Предложение: единице 2B следует раздобыть фотографию растения, называемого \"пустынная роза\"."
+        "ru": "Предложение: единице 2B следует раздобыть фотографию растения, называемого \"пустынная роза\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/987.wav"
     },
     {
         "id": "M5171_S0010_G0110_001_a2b",
@@ -87,7 +94,8 @@
         "id": "M5171_S0010_G0140_001_pod042",
         "jp": "……画像データの送信を完了。",
         "en": "Image data transfer complete.",
-        "ru": "Передача изображения завершена."
+        "ru": "Передача изображения завершена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/989.wav"
     },
     {
         "id": "M5171_S0030_G0000_001_op60",
@@ -105,43 +113,50 @@
         "id": "M5171_S0030_G0020_001_op60",
         "jp": "先ほど、写真データを受け取りました。ありがとうございます！",
         "en": "Thank you so much for the picture!",
-        "ru": "Большое спасибо за фотографию!"
+        "ru": "Большое спасибо за фотографию!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/350.wav"
     },
     {
         "id": "M5171_S0030_G0030_001_op60",
         "jp": "これが、砂漠のバラなんですね……なんだか神秘的な形してます。",
         "en": "So this is a desert rose, huh? It seems almost...mystical.",
-        "ru": "Это и есть пустынная роза, да? Выглядит так... таинственно."
+        "ru": "Это и есть пустынная роза, да? Выглядит так... таинственно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/351.wav"
     },
     {
         "id": "M5171_S0030_G0040_001_op60",
         "jp": "地球には、こんな豊かな自然があるんですね。",
         "en": "There must just be a bounty of nature down there, huh?",
-        "ru": "Должно быть, там внизу большое разнообразие природы, да?"
+        "ru": "Должно быть, там внизу большое разнообразие природы, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/352.wav"
     },
     {
         "id": "M5171_S0030_G0050_001_a2b",
         "jp": "……バラの他にも、沢山ある。ユリやサクラにスズラン、ツキノナミダ。",
         "en": "Some, yes. I've seen lilies, cherry blossoms, daffodils, and even lunar tears.",
-        "ru": "В некотором роде, да. Я видела лилии, цветущие сакуры, нарциссы и даже Лунные слёзы."
+        "ru": "В некотором роде, да. Я видела лилии, цветущие сакуры, нарциссы и даже Лунные слёзы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/913.wav"
     },
     {
         "id": "M5171_S0030_G0060_001_a2b",
         "jp": "機会があれば、また送る。",
         "en": "I'll try to send more if I can.",
-        "ru": "Я постараюсь прислать ещё фото, если будет время."
+        "ru": "Я постараюсь прислать ещё фото, если будет время.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/914.wav"
     },
     {
         "id": "M5171_S0030_G0070_001_op60",
         "jp": "ありがとうございます！",
         "en": "Oh, 2B...",
-        "ru": "Ох, 2B..."
+        "ru": "Ох, 2B...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/353.wav"
     },
     {
         "id": "M5171_S0030_G0080_001_op60",
         "jp": "この写真……宝物にします！",
         "en": "I'm going to treasure this forever!",
-        "ru": "Я буду вечно дорожить ими!"
+        "ru": "Я буду вечно дорожить ими!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/354.wav"
     },
     {
         "id": "M5171_S0030_G0090_001_op60",

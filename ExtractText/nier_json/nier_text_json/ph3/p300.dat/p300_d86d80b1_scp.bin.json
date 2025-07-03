@@ -75,7 +75,8 @@
         "id": "M3060_S0036_G0000_001_pod153",
         "jp": "……以上が、旧時代に管理者と呼ばれた彼女達の個人記録だ。",
         "en": "That is all that remains from their personal record during the era in which they were referred to as administrators.",
-        "ru": "Это всё, что осталось от записей эры, в которой их называли администраторами."
+        "ru": "Это всё, что осталось от записей эры, в которой их называли администраторами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/362.wav"
     },
     {
         "id": "M3060_S0036_G0010_001_a9s",
@@ -87,19 +88,22 @@
         "id": "M3060_S0036_G0020_001_pod153",
         "jp": "疑問：何故、アンドロイド・デボル及びポポルは常に同時に死を選ぶのか？",
         "en": "Query: Why do the androids Devola and Popola seem to prefer death over surviving alone?",
-        "ru": "Вопрос: почему андроиды Девола и Попола предпочли совместно умереть вместо того, чтобы  одна из них уцелела?"
+        "ru": "Вопрос: почему андроиды Девола и Попола предпочли совместно умереть вместо того, чтобы  одна из них уцелела?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/363.wav"
     },
     {
         "id": "M3060_S0036_G0030_001_pod153",
         "jp": "当該状況からの単独離脱は可能であり……",
         "en": "There was a very high probability that at least one could have escaped.",
-        "ru": "Была очень высокая вероятность выживания хотя бы одной из единиц."
+        "ru": "Была очень высокая вероятность выживания хотя бы одной из единиц.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/364.wav"
     },
     {
         "id": "M3060_S0036_G0040_001_a9s",
         "jp": "僕には……",
         "en": "I...",
-        "ru": "Я..."
+        "ru": "Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "M3060_S0036_G0050_001_a9s",
@@ -111,7 +115,8 @@
         "id": "M3060_S0036_G0060_001_a9s",
         "jp": "……君に、理解出来ない事を祈る。",
         "en": "I hope you never have to understand.",
-        "ru": "Ты никогда этого не поймёшь."
+        "ru": "Ты никогда этого не поймёшь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1855.wav"
     },
     {
         "id": "M3060_S0036_G0070_001_pod153",

@@ -3,13 +3,15 @@
         "id": "M3000_S0430_G0000_001_a9s",
         "jp": "くそっ……扉が！",
         "en": "Damn! The doors!",
-        "ru": "Чёрт! Двери!"
+        "ru": "Чёрт! Двери!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1705.wav"
     },
     {
         "id": "M3000_S0430_G0010_001_a9s",
         "jp": "バンカー内部までウィルスが入ってるのか！？",
         "en": "Did the virus infiltrate the Bunker itself?",
-        "ru": "Вирус самостоятельно проник в Бункер?"
+        "ru": "Вирус самостоятельно проник в Бункер?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1706.wav"
     },
     {
         "id": "M3000_S0430_G0020_001_op60",
@@ -39,25 +41,29 @@
         "id": "M3000_S0430_G0060_001_op60",
         "jp": "ネットワークとウィルスを通じ話しかけている。",
         "en": "We speak to you through the network and the virus.",
-        "ru": "Мы говорим с вами через сеть и вирус."
+        "ru": "Мы говорим с вами через сеть и вирус.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/304.wav"
     },
     {
         "id": "M3000_S0430_G0070_001_cmd",
         "jp": "そんな、そんな事が！？",
         "en": "How is that even possible!?",
-        "ru": "Как такое возможно?!"
+        "ru": "Как такое возможно?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/124.wav"
     },
     {
         "id": "M3000_S0430_G0080_001_op60",
         "jp": "ずいぶん楽しませてもらったけど……",
         "en": "We've had a great deal of fun watching you squirm.",
-        "ru": "Было забавно наблюдать за вашими потугами."
+        "ru": "Было забавно наблюдать за вашими потугами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/305.wav"
     },
     {
         "id": "M3000_S0430_G0090_001_op60",
         "jp": "もう、この基地は終わりだね。",
         "en": "But I'm afraid the end has come for this outpost.",
-        "ru": "Но, боюсь, что этому аванпосту пришёл конец."
+        "ru": "Но, боюсь, что этому аванпосту пришёл конец.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/306.wav"
     },
     {
         "id": "M3000_S0430_G0100_001_op60",
@@ -141,7 +147,8 @@
         "id": "M3000_S0430_G0193_001_op60",
         "jp": "砂漠のバラハはキデスネ……アリガトウアリガ……いつか、私……",
         "en": "Desert FLOWErs are BEAUTIF, arEN't thEY... Th-Th-thank You... SoMEdAy I...",
-        "ru": "Пустынные ЦВеТЫ ТаК ПРекрАСнЫ... С-с-спасибо тебе... КоГДа-нИБУдЬ я..."
+        "ru": "Пустынные ЦВеТЫ ТаК ПРекрАСнЫ... С-с-спасибо тебе... КоГДа-нИБУдЬ я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/311.wav"
     },
     {
         "id": "M3000_S0430_G0194_001_a2b",
@@ -153,13 +160,15 @@
         "id": "M3000_S0430_G0270_001_a2b",
         "jp": "司令官！この基地はもうだめです。",
         "en": "Commander, the Bunker is lost.",
-        "ru": "Командор, Бункер потерян."
+        "ru": "Командор, Бункер потерян.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/769.wav"
     },
     {
         "id": "M3000_S0430_G0280_001_a2b",
         "jp": "一旦退避しましょう！",
         "en": "We have to evacuate.",
-        "ru": "Мы должны эвакуироваться."
+        "ru": "Мы должны эвакуироваться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/770.wav"
     },
     {
         "id": "M3000_S0430_G0290_001_cmd",
@@ -177,7 +186,8 @@
         "id": "M3000_S0430_G0310_001_a9s",
         "jp": "いえ……おそらく、僕がデータ同期を保留していたからです。",
         "en": "It's probably because I deferred our data sync.",
-        "ru": "Скорее всего из-за того, что я приостановил синхронизацию данных."
+        "ru": "Скорее всего из-за того, что я приостановил синхронизацию данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1712.wav"
     },
     {
         "id": "M3000_S0430_G0320_001_a9s",
@@ -207,7 +217,8 @@
         "id": "M3000_S0430_G0211_001_a9s",
         "jp": "アクセスユニットは汚染されています。\\n格納庫に行って飛行ユニットを奪いましょう！",
         "en": "The transport terminal is corrupted. We need to get to the hangar and get some flight units!",
-        "ru": "Транспортный терминал повреждён. Нам нужно добраться до ангара и воспользоваться полётными модулями!"
+        "ru": "Транспортный терминал повреждён. Нам нужно добраться до ангара и воспользоваться полётными модулями!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1711.wav"
     },
     {
         "id": "M3000_S0430_G0240_001_pollutions",
@@ -231,7 +242,8 @@
         "id": "M3000_S0430_G0340_001_a2b",
         "jp": "司令官！格納庫から飛行ユニットで脱出します！",
         "en": "Commander, we need to get some flight units from the hangar and get out of here.",
-        "ru": "Командор, нам нужно взять полётные модули из ангара и убираться отсюда."
+        "ru": "Командор, нам нужно взять полётные модули из ангара и убираться отсюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/772.wav"
     },
     {
         "id": "M3000_S0450_G0000_001_a2b",
@@ -255,37 +267,43 @@
         "id": "M3000_S0450_G0030_001_cmd",
         "jp": "そんな時間はないッ！！",
         "en": "There's no time!",
-        "ru": "На это нет времени!"
+        "ru": "На это нет времени!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/129.wav"
     },
     {
         "id": "M3000_S0450_G0040_001_cmd",
         "jp": "お前達二人は、最後のヨルハ部隊なんだ！",
         "en": "You two are the last remaining members of YoRHa.",
-        "ru": "Вы двое — последние оставшиеся члены YoRHa."
+        "ru": "Вы двое — последние оставшиеся члены YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/130.wav"
     },
     {
         "id": "M3000_S0450_G0050_001_cmd",
         "jp": "生き残る義務がある！",
         "en": "It's your duty to survive.",
-        "ru": "Выжить — ваш долг."
+        "ru": "Выжить — ваш долг.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/131.wav"
     },
     {
         "id": "M3000_S0450_G0060_001_a9s",
         "jp": "司令官……",
         "en": "But Commander...",
-        "ru": "Но Командор..."
+        "ru": "Но Командор...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1714.wav"
     },
     {
         "id": "M3000_S0450_G0070_001_cmd",
         "jp": "それに、私はこの基地の司令官だ。",
         "en": "Besides, this is my command.",
-        "ru": "Это приказ."
+        "ru": "Это приказ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/132.wav"
     },
     {
         "id": "M3000_S0450_G0080_001_cmd",
         "jp": "せめて最後まで上官らしく、いさせてくれ……",
         "en": "Let me at least fulfill my duty here to the end...",
-        "ru": "Позвольте мне выполнить свой долг до конца..."
+        "ru": "Позвольте мне выполнить свой долг до конца...",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/133.wav"
     },
     {
         "id": "M3000_S0460_H0000_001_a9s",

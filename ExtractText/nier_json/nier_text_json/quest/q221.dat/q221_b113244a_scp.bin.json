@@ -81,7 +81,8 @@
         "id": "M5221_S0010_G0130_001_a2",
         "jp": "何で私が……",
         "en": "Seriously...?",
-        "ru": "Серьёзно?.."
+        "ru": "Серьёзно?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/576.wav"
     },
     {
         "id": "M5221_S0010_G0140_001_robochild",
@@ -165,7 +166,8 @@
         "id": "M5221_S0010_G0230_001_robotoolshop",
         "jp": "イラッシャイ。",
         "en": "Welcome!",
-        "ru": "Добро пожаловать!"
+        "ru": "Добро пожаловать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/17.wav"
     },
     {
         "id": "M5221_S0010_G0240_001_robotoolshop",
@@ -453,19 +455,22 @@
         "id": "M5221_S0030_G0221_001_pascal",
         "jp": "平和的な機械生命体……か。",
         "en": "A group of pacifist machines, huh?",
-        "ru": "Группа машин-пацифистов, да?"
+        "ru": "Группа машин-пацифистов, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/558.wav"
     },
     {
         "id": "M5221_S0030_G0222_001_pascal",
         "jp": "推測：パスカル達と友好関係を結ぶ事でさらなる資材入手が可能。",
         "en": "Hypothesis: Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials.",
-        "ru": "Предположение: формирование дружеских отношений с Паскалем и поселенцами может помочь единице A2 добыть больше материалов."
+        "ru": "Предположение: формирование дружеских отношений с Паскалем и поселенцами может помочь единице A2 добыть больше материалов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/992.wav"
     },
     {
         "id": "M5221_S0030_G0223_001_pascal",
         "jp": "推奨：パスカル村の調査。",
         "en": "Proposal: Investigate the village.",
-        "ru": "Предложение: исследовать деревню."
+        "ru": "Предложение: исследовать деревню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/993.wav"
     },
     {
         "id": "M5221_S0030_G0224_001_pascal",

@@ -3,7 +3,8 @@
         "id": "M3060_S9000_G0040_001_pod153",
         "jp": "ポッド１５３よりプレイヤーへ。",
         "en": "Pod 153 to player.",
-        "ru": "Бот 153 вызывает игрока."
+        "ru": "Бот 153 вызывает игрока.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/401.wav"
     },
     {
         "id": "M3060_S9000_G0050_001_pod153",
@@ -21,7 +22,8 @@
         "id": "M3060_S9000_G0070_001_pod153",
         "jp": "『NieR:Automata』をクリア出来ずに苦しんでいる者達に対して、",
         "en": "have anything you would like to say to other players",
-        "ru": "желаете ли вы сказать что-нибудь другим игрокам,"
+        "ru": "желаете ли вы сказать что-нибудь другим игрокам,",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/404.wav"
     },
     {
         "id": "M3060_S9000_G0080_001_pod153",
@@ -45,13 +47,15 @@
         "id": "M3060_S9000_G0190_001_pod042",
         "jp": "了解：タイトルに戻る。",
         "en": "Understood. Returning to title screen.",
-        "ru": "Принято. Перемещаю в главное меню."
+        "ru": "Принято. Перемещаю в главное меню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/924.wav"
     },
     {
         "id": "M3060_S9000_G0130_001_pod153",
         "jp": "ポッド０４２よりプレイヤーへ。",
         "en": "Pod 042 to player.",
-        "ru": "Бот 042 вызывает игрока."
+        "ru": "Бот 042 вызывает игрока.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/918.wav"
     },
     {
         "id": "M3060_S9000_G0140_001_pod153",
@@ -69,19 +73,22 @@
         "id": "M3060_S9000_G0160_001_pod042",
         "jp": "最後のゲームで何度も命を失った。",
         "en": "have lost your life multiple times to make it this far.",
-        "ru": "потратили много времени, чтобы зайти так далеко."
+        "ru": "потратили много времени, чтобы зайти так далеко.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/921.wav"
     },
     {
         "id": "M3060_S9000_G0170_001_pod042",
         "jp": "君は苦痛と苦難を知る者だ。",
         "en": "You have faced crushing hardship, and suffered greatly for it.",
-        "ru": "Вы столкнулись с пугающими трудностями и сильно настрадались."
+        "ru": "Вы столкнулись с пугающими трудностями и сильно настрадались.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/922.wav"
     },
     {
         "id": "M3060_S9000_G0180_001_pod042",
         "jp": "君に……弱き者達を助ける意思はあるか？",
         "en": "Do you have any interest in helping the weak?",
-        "ru": "Желаете ли вы помочь слабым?"
+        "ru": "Желаете ли вы помочь слабым?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/923.wav"
     },
     {
         "id": "M4100_S0000_G0000_300_sele",
@@ -99,13 +106,15 @@
         "id": "M3060_S9000_G0200_001_pod042",
         "jp": "この選択肢を選ぶと、君は世界の誰かを救う事が出来る。",
         "en": "Selecting this option enables you to save someone somewhere in the world.",
-        "ru": "Выбор этого пункта позволит вам появиться в мире другого игрока."
+        "ru": "Выбор этого пункта позволит вам появиться в мире другого игрока.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/925.wav"
     },
     {
         "id": "M3060_S9000_G0210_001_pod042",
         "jp": "だが、代償として全てのセーブデータを失うだろう。",
         "en": "However, in exchange, you will lose all of your save data.",
-        "ru": "Однако в обмен на это все ваши сохранения будут удалены."
+        "ru": "Однако в обмен на это все ваши сохранения будут удалены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/926.wav"
     },
     {
         "id": "M3060_S9000_G0220_001_pod042",
@@ -129,19 +138,22 @@
         "id": "M3060_S9000_G0230_001_pod042",
         "jp": "助ける相手はランダムで選ばれる。",
         "en": "The person you save will be selected at random.",
-        "ru": "Человек, которому вы поможете, будет выбран случайно."
+        "ru": "Человек, которому вы поможете, будет выбран случайно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/928.wav"
     },
     {
         "id": "M3060_S9000_G0240_001_pod042",
         "jp": "だから、その相手は……",
         "en": "As a result, this person...",
-        "ru": "Поэтому, этот человек..."
+        "ru": "Поэтому, этот человек...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/929.wav"
     },
     {
         "id": "M3060_S9000_G0250_001_pod042",
         "jp": "助けを求めている相手は、",
         "en": "who cries out for help even as we speak...",
-        "ru": "...желающий помощи, прямо сейчас, во время нашего разговора..."
+        "ru": "...желающий помощи, прямо сейчас, во время нашего разговора...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/930.wav"
     },
     {
         "id": "M3060_S9000_G0260_001_pod042",
@@ -171,13 +183,15 @@
         "id": "M3060_S9000_G0280_001_pod042",
         "jp": "君が必死で解除したデバッグモードもチャプターセレクトも……",
         "en": "You worked so hard to unlock Debug Mode and Chapter Select...",
-        "ru": "Вы приложили столько сил, чтобы открыть Режим отладки и Выбор глав..."
+        "ru": "Вы приложили столько сил, чтобы открыть Режим отладки и Выбор глав...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/933.wav"
     },
     {
         "id": "M3060_S9000_G0290_001_pod042",
         "jp": "使用出来なくなる。",
         "en": "But they will no longer be available to you.",
-        "ru": "И теперь они будут вам недоступны."
+        "ru": "И теперь они будут вам недоступны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/934.wav"
     },
     {
         "id": "M3060_S9000_G0300_001_pod042",
@@ -201,13 +215,15 @@
         "id": "M3060_S9000_G0310_001_pod042",
         "jp": "君が誰かを助けても、感謝されないかもしれない。",
         "en": "You may not receive thanks for your efforts.",
-        "ru": "Скорее всего, вас даже никто не поблагодарит за это."
+        "ru": "Скорее всего, вас даже никто не поблагодарит за это.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/936.wav"
     },
     {
         "id": "M3060_S9000_G0320_001_pod042",
         "jp": "君の行いは、偽善と呼ばれるかもしれない。",
         "en": "Some may say that your efforts are purely for show.",
-        "ru": "А некоторые и вовсе скажут, что вы просто делаете это напоказ."
+        "ru": "А некоторые и вовсе скажут, что вы просто делаете это напоказ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/937.wav"
     },
     {
         "id": "M3060_S9000_G0330_001_pod042",
@@ -249,31 +265,36 @@
         "id": "M3060_S9000_G0350_001_pod042",
         "jp": "……わかった。",
         "en": "...Very well.",
-        "ru": "...Очень хорошо."
+        "ru": "...Очень хорошо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/940.wav"
     },
     {
         "id": "M3060_S9000_G0360_001_pod042",
         "jp": "全てのデータを代償として……",
         "en": "In exchange for all of your data...",
-        "ru": "В обмен на все ваши сохранения..."
+        "ru": "В обмен на все ваши сохранения...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/941.wav"
     },
     {
         "id": "M3060_S9000_G0370_001_pod042",
         "jp": "君の意思をこの世界に伝えよう。",
         "en": "I will convey your will to this world.",
-        "ru": "Я исполню ваше желание в этом мире."
+        "ru": "Я исполню ваше желание в этом мире.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/942.wav"
     },
     {
         "id": "M3060_S9000_G0190_001_pod042",
         "jp": "了解：タイトルに戻る。",
         "en": "Understood. Returning to title screen.",
-        "ru": "Принято. Перемещаю в главное меню."
+        "ru": "Принято. Перемещаю в главное меню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/924.wav"
     },
     {
         "id": "M3060_S9000_G0380_001_pod042",
         "jp": "全データの削除、完了。",
         "en": "All of your data has been deleted.",
-        "ru": "Все ваши сохранения удалены."
+        "ru": "Все ваши сохранения удалены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/943.wav"
     },
     {
         "id": "M3060_S9000_G0390_001_pod042",
@@ -333,6 +354,7 @@
         "id": "M3060_S9000_G0190_001_pod042",
         "jp": "了解：タイトルに戻る。",
         "en": "Understood. Returning to title screen.",
-        "ru": "Принято. Перемещаю в главное меню."
+        "ru": "Принято. Перемещаю в главное меню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/924.wav"
     }
 ]

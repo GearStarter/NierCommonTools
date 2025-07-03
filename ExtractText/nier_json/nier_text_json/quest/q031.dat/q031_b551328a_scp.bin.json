@@ -15,31 +15,36 @@
         "id": "M5031_S0020_G0020_001_a9s",
         "jp": "この機械生命体、まだ生きてますね。",
         "en": "This machine is still alive.",
-        "ru": "Эта машина всё ещё жива."
+        "ru": "Эта машина всё ещё жива.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1920.wav"
     },
     {
         "id": "M5031_S0020_G0030_001_a2b",
         "jp": "じゃあ、破壊を……",
         "en": "So destroy it.",
-        "ru": "Так уничтожь её."
+        "ru": "Так уничтожь её.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/809.wav"
     },
     {
         "id": "M5031_S0020_G0040_001_a9s",
         "jp": "いえ、その必要は無いと思います。",
         "en": "Maybe we should hold off.",
-        "ru": "Возможно, нам стоит повременить с этим."
+        "ru": "Возможно, нам стоит повременить с этим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1922.wav"
     },
     {
         "id": "M5031_S0020_G0050_001_a9s",
         "jp": "駆動部分が破壊されているので攻撃してくる心配はありません。",
         "en": "Its main drive has been trashed, so there's no way it can attack us.",
-        "ru": "Её главный привод уничтожен, так что она не сможет атаковать нас."
+        "ru": "Её главный привод уничтожен, так что она не сможет атаковать нас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1924.wav"
     },
     {
         "id": "M5031_S0020_G0060_001_a9s",
         "jp": "調べてみると何か面白い物が出てくるかもしれません。",
         "en": "And we might be able to learn something interesting if we study it.",
-        "ru": "Если мы её изучим, то сможем узнать что-нибудь интересное."
+        "ru": "Если мы её изучим, то сможем узнать что-нибудь интересное.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1925.wav"
     },
     {
         "id": "M5031_S0020_G0070_001_a9s",
@@ -63,7 +68,8 @@
         "id": "M5031_S0020_G0100_001_a2b",
         "jp": "わかった。９Ｓがそう言うのなら。",
         "en": "If you say so.",
-        "ru": "Ну ладно, я согласна."
+        "ru": "Ну ладно, я согласна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/206.wav"
     },
     {
         "id": "M5031_S0020_G0110_001_a9s",
@@ -99,19 +105,22 @@
         "id": "M5031_S0020_G0130_001_a2b",
         "jp": "でも、倒すべき機械生命体を修理するなんて……複雑な気分。",
         "en": "You know, I'm still not sure any of this is a good idea.",
-        "ru": "Знаешь, я все ещё не уверена, что это хорошая идея."
+        "ru": "Знаешь, я все ещё не уверена, что это хорошая идея.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/813.wav"
     },
     {
         "id": "M5031_S0020_G0140_001_a9s",
         "jp": "情報はあればあるに越したことはないですよ。２Ｂ。",
         "en": "The more data we have, the better, right?",
-        "ru": "Чем больше у нас данных, тем лучше, так ведь?"
+        "ru": "Чем больше у нас данных, тем лучше, так ведь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1928.wav"
     },
     {
         "id": "M5031_S0030_G0000_001_a9s",
         "jp": "このネジがあれば、あの大きな機械生命体を修理出来ますね。",
         "en": "We can use this screw to repair that big machine.",
-        "ru": "Мы сможем использовать этот винт для ремонта того здоровяка."
+        "ru": "Мы сможем использовать этот винт для ремонта того здоровяка.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1929.wav"
     },
     {
         "id": "M5031_S0030_G0005_001_telo",
@@ -123,7 +132,8 @@
         "id": "M5031_S0020_G0070_300_a2b",
         "jp": "……中々素材が集まらない。",
         "en": "Finding this stuff is proving tougher than I'd hoped.",
-        "ru": "Найти этот материал оказалось сложнее, чем я представлял."
+        "ru": "Найти этот материал оказалось сложнее, чем я представлял.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/811.wav"
     },
     {
         "id": "M5031_S0030_G0010_001_a9s",
@@ -219,7 +229,8 @@
         "id": "M5031_S0030_G0200_001_a2b",
         "jp": "わかった。",
         "en": "Fair enough.",
-        "ru": "Ясно."
+        "ru": "Ясно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/526.wav"
     },
     {
         "id": "M5920_S0010_G0280_001_pod042",
@@ -237,19 +248,22 @@
         "id": "M5031_S0020_G0000_300_a2b",
         "jp": "中々素材が集まらない……",
         "en": "We can't seem to locate the required material.",
-        "ru": "Мы не можем найти необходимый материал."
+        "ru": "Мы не можем найти необходимый материал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/807.wav"
     },
     {
         "id": "M5031_S0020_G0010_300_a9s",
         "jp": "オペレーターさんに聞いてみましょうか",
         "en": "Maybe we should ask an Operator.",
-        "ru": "Может, стоит спросить у оператора?"
+        "ru": "Может, стоит спросить у оператора?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1919.wav"
     },
     {
         "id": "M5031_S0020_G0070_300_a2b",
         "jp": "……中々素材が集まらない。",
         "en": "Finding this stuff is proving tougher than I'd hoped.",
-        "ru": "Найти этот материал оказалось сложнее, чем я представлял."
+        "ru": "Найти этот материал оказалось сложнее, чем я представлял.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/811.wav"
     },
     {
         "id": "M5540_S0030_G0400_001_op210",
@@ -261,7 +275,8 @@
         "id": "M5031_S0020_G0020_300_a9s",
         "jp": "オペレーターさん、ちょっと聞きたいことがあるんですけど\\n僕達『新品のネジ』を探していて、どこで入手できそうかわかりませんか？",
         "en": "9S to Operator. Quick question: Do you know where we might find a pristine screw?",
-        "ru": "9S вызывает оператора. Небольшой вопрос: вы не знаете, где бы нам достать новенький винт?"
+        "ru": "9S вызывает оператора. Небольшой вопрос: вы не знаете, где бы нам достать новенький винт?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1921.wav"
     },
     {
         "id": "M5031_S0020_G0030_300_op210",
@@ -273,13 +288,15 @@
         "id": "M5031_S0020_G0040_300_a9s",
         "jp": "助かります。",
         "en": "Thanks, Operator. 9S out.",
-        "ru": "Спасибо, оператор. 9S — конец связи."
+        "ru": "Спасибо, оператор. 9S — конец связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1923.wav"
     },
     {
         "id": "M5031_S0020_G0050_300_a2b",
         "jp": "大型二足歩行……確か砂漠地帯にいた……",
         "en": "I remember seeing large two-legged machines in the desert...",
-        "ru": "Я помню, что видела большие двуногие машины в пустыне..."
+        "ru": "Я помню, что видела большие двуногие машины в пустыне...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/810.wav"
     },
     {
         "id": "M5031_S0020_G0060_300_a9s",

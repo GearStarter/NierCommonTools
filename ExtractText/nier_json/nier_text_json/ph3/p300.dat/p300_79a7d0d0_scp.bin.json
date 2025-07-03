@@ -3,25 +3,29 @@
         "id": "M3060_S0010_S0000_001_pod153",
         "jp": "ボディユニットチェック完了。",
         "en": "Physical check complete.",
-        "ru": "Физическая проверка завершена."
+        "ru": "Физическая проверка завершена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/336.wav"
     },
     {
         "id": "M3060_S0010_S0010_001_pod153",
         "jp": "メモリーユニットチェック完了。",
         "en": "Memory check complete.",
-        "ru": "Проверка памяти завершена."
+        "ru": "Проверка памяти завершена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/337.wav"
     },
     {
         "id": "M3060_S0010_S0020_001_pod153",
         "jp": "メンテナンスモード終了。",
         "en": "Maintenance mode complete.",
-        "ru": "Техобслуживание завершено."
+        "ru": "Техобслуживание завершено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/338.wav"
     },
     {
         "id": "M3060_S0010_S0030_001_pod153",
         "jp": "ヨルハ機体９Ｓ。起動。",
         "en": "YoRHa unit 9S... Activate.",
-        "ru": "Единица YoRHa 9S... Запуск."
+        "ru": "Единица YoRHa 9S... Запуск.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/339.wav"
     },
     {
         "id": "M3060_S0010_S0040_001_a9s",
@@ -33,37 +37,43 @@
         "id": "M3060_S0010_S0050_001_pod153",
         "jp": "おはようございます。９Ｓ。",
         "en": "Good morning, 9S.",
-        "ru": "Доброе утро, 9S."
+        "ru": "Доброе утро, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/340.wav"
     },
     {
         "id": "M3060_S0020_G0000_001_a9s",
         "jp": "僕は……",
         "en": "Am I...?",
-        "ru": "Я?.."
+        "ru": "Я?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1832.wav"
     },
     {
         "id": "M3060_S0020_G0010_001_pod153",
         "jp": "敵大型ユニット内部での戦闘時にユニット構造物が崩落。",
         "en": "Analysis: The enemy structural unit collapsed during battle.",
-        "ru": "Анализ: вражеская структурная единица разрушена во время боя."
+        "ru": "Анализ: вражеская структурная единица разрушена во время боя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/343.wav"
     },
     {
         "id": "M3060_S0020_G0020_001_pod153",
         "jp": "落下したヨルハ機体９Ｓはダメージを受けた為、\\n緊急サスペンドモードに移行。",
         "en": "Unit 9S suffered damage from the fall and was placed in emergency suspend mode.",
-        "ru": "Единица 9S была сильно повреждена после падения и помещена в режим экстренного энергосбережения."
+        "ru": "Единица 9S была сильно повреждена после падения и помещена в режим экстренного энергосбережения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/344.wav"
     },
     {
         "id": "M3060_S0020_G0030_001_pod153",
         "jp": "墜落地点付近は危険と判断し、現地点まで搬送。",
         "en": "Fall location was deemed too dangerous, thus said unit was transported to current location.",
-        "ru": "Место падения было слишком опасным, в связи с этим единица была перемещена."
+        "ru": "Место падения было слишком опасным, в связи с этим единица была перемещена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/345.wav"
     },
     {
         "id": "M3060_S0020_G0040_001_pod153",
         "jp": "現段階で、全てのチェック及び再起動を完了。",
         "en": "All system checks and reactivation complete.",
-        "ru": "Все системные проверки и перезапуск успешно завершены."
+        "ru": "Все системные проверки и перезапуск успешно завершены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/346.wav"
     },
     {
         "id": "M3060_S0020_G0050_001_a9s",
@@ -81,7 +91,8 @@
         "id": "M3060_S0020_G0070_001_pod153",
         "jp": "ブラックボックス信号も停止。",
         "en": "Black box signal not found.",
-        "ru": "Сигнал чёрного ящика не обнаружен."
+        "ru": "Сигнал чёрного ящика не обнаружен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/348.wav"
     },
     {
         "id": "M3060_S0020_G0080_001_a9s",
@@ -93,25 +104,29 @@
         "id": "M3060_S0020_G0090_001_a9s",
         "jp": "現状報告。",
         "en": "Situation report.",
-        "ru": "Отчёт о ситуации."
+        "ru": "Отчёт о ситуации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1835.wav"
     },
     {
         "id": "M3060_S0020_G0100_001_pod153",
         "jp": "『塔』にアクセスする為の認証キーを入手。",
         "en": "Tower access authentication key acquired.",
-        "ru": "Получен ключ авторизации от Башни."
+        "ru": "Получен ключ авторизации от Башни.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/349.wav"
     },
     {
         "id": "M3060_S0020_G0110_001_pod153",
         "jp": "規定数のアクセス認証キーの入手を確認。",
         "en": "The required number of authentication keys have been acquired.",
-        "ru": "Собрано необходимое число ключей авторизации."
+        "ru": "Собрано необходимое число ключей авторизации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/350.wav"
     },
     {
         "id": "M3060_S0020_G0120_001_pod153",
         "jp": "『塔』の調査が可能な状態。",
         "en": "The Tower is now open for investigation.",
-        "ru": "Теперь Башня доступна для исследования."
+        "ru": "Теперь Башня доступна для исследования.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/351.wav"
     },
     {
         "id": "M3060_S0020_G0130_001_a9s",

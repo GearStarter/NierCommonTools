@@ -207,37 +207,43 @@
         "id": "M5121_S0010_G0260_001_a9s",
         "jp": "あの資材置き場の担当者が言ってたオルゴールってこれかな？",
         "en": "Is this the \"music box\" she was looking for?",
-        "ru": "Это и есть \"музыкальная шкатулка\", которую мы ищем?"
+        "ru": "Это и есть \"музыкальная шкатулка\", которую мы ищем?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/53.wav"
     },
     {
         "id": "M5121_S0010_G0270_001_a9s",
         "jp": "かなり錆びてるけど。",
         "en": "Man, this thing is all rusted over...",
-        "ru": "Ну и ну, эта штука такая ржавая..."
+        "ru": "Ну и ну, эта штука такая ржавая...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/54.wav"
     },
     {
         "id": "M5121_S0010_G0280_001_a2b",
         "jp": "死体……",
         "en": "Look. A corpse.",
-        "ru": "Труп..."
+        "ru": "Труп...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/855.wav"
     },
     {
         "id": "M5121_S0010_G0290_001_a9s",
         "jp": "持ち主は……このアンドロイドでしょうか？",
         "en": "You think the box belonged to her?",
-        "ru": "Ты думаешь, шкатулка принадлежала ей?"
+        "ru": "Ты думаешь, шкатулка принадлежала ей?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/55.wav"
     },
     {
         "id": "M5121_S0010_G0300_001_a9s",
         "jp": "様子からして、大分前に亡くなったみたいですけど。",
         "en": "Poor girl died a long time ago, by the looks of it.",
-        "ru": "Бедняжка, похоже, она умерла уже очень давно."
+        "ru": "Бедняжка, похоже, она умерла уже очень давно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/56.wav"
     },
     {
         "id": "M5121_S0010_G0310_001_a2b",
         "jp": "……とにかく、この箱を担当者に届けよう。",
         "en": "Let's bring this back to her friend.",
-        "ru": "Давай вернём это её подруге."
+        "ru": "Давай вернём это её подруге.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/856.wav"
     },
     {
         "id": "M5121_S0030_G0000_001_a9s",
@@ -285,7 +291,8 @@
         "id": "M5121_S0030_G0070_001_a9s",
         "jp": "ええ、もちろんです。",
         "en": "Of course.",
-        "ru": "Конечно."
+        "ru": "Конечно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/545.wav"
     },
     {
         "id": "M5121_S0030_G0080_001_manager",

@@ -111,7 +111,8 @@
         "id": "M5660_S0020_G0030_001_a2b",
         "jp": "スタンプ……",
         "en": "You mean \"stamp it\"?",
-        "ru": "В смысле \"проштамповать\"?"
+        "ru": "В смысле \"проштамповать\"?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/978.wav"
     },
     {
         "id": "M5660_S0020_G0040_001_pod153",
@@ -135,7 +136,8 @@
         "id": "M5660_S0020_G0070_001_a9s",
         "jp": "真面目か……",
         "en": "You're taking this pretty seriously.",
-        "ru": "А ты довольно серьезно к этому относишься."
+        "ru": "А ты довольно серьезно к этому относишься.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/286.wav"
     },
     {
         "id": "M5660_S0055_G0040_001_robosmail",
@@ -249,7 +251,8 @@
         "id": "M5660_S0040_G0030_001_a2b",
         "jp": "って言われても……",
         "en": "Easy for you to say.",
-        "ru": "Тебе легко говорить."
+        "ru": "Тебе легко говорить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/979.wav"
     },
     {
         "id": "M5660_S0040_G0000_001_robozombie",
@@ -273,7 +276,8 @@
         "id": "M5660_S0040_G0060_001_a9s",
         "jp": "何でそんな所に……",
         "en": "Why the heck is there a stamp INSIDE a machine?",
-        "ru": "Почему, чёрт возьми, эта печать ВНУТРИ машины?"
+        "ru": "Почему, чёрт возьми, эта печать ВНУТРИ машины?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/287.wav"
     },
     {
         "id": "M5660_S0040_G0070_001_robozombie",
@@ -285,7 +289,8 @@
         "id": "M5660_S0040_G0080_001_robozombie",
         "jp": "アソボ……",
         "en": "Play...",
-        "ru": "Поиграй..."
+        "ru": "Поиграй...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1103.wav"
     },
     {
         "id": "M5660_S0040_G0090_001_robozombie",
@@ -309,7 +314,8 @@
         "id": "M5660_S0050_G0010_001_romi1",
         "jp": "アア！ジュリエット！ジュリエット！貴方は何故ジュリエットナノ？",
         "en": "Ah, Juliet, Juliet, wherefore art thou, Juliet?",
-        "ru": "Ах, Джульетта, Джульетта, зачем же ты Джульетта?"
+        "ru": "Ах, Джульетта, Джульетта, зачем же ты Джульетта?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1107.wav"
     },
     {
         "id": "M5660_S0050_G0020_001_jyuri2",
@@ -339,19 +345,22 @@
         "id": "M5660_S0050_G0060_001_jyuri1",
         "jp": "死ねイ！ロミオ！このクソ野郎！",
         "en": "Die, Romeo! Thou stupid asshole!",
-        "ru": "Умри, Ромео! Тупой ты сударь!"
+        "ru": "Умри, Ромео! Тупой ты сударь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1112.wav"
     },
     {
         "id": "M5660_S0050_G0070_001_romi1",
         "jp": "生まレタ事を後悔サセテヤル！来いッ！",
         "en": "I shall make thee regret the day of thy birth!",
-        "ru": "Я заставлю тебя пожалеть о том, что ты родилась!"
+        "ru": "Я заставлю тебя пожалеть о том, что ты родилась!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1113.wav"
     },
     {
         "id": "M5660_S0050_G0080_001_jyuri2",
         "jp": "貴様ニ土の味を味アワセテやる！",
         "en": "I shall make thee taste dirt!",
-        "ru": "Я заставлю тебя отведать грязи!"
+        "ru": "Я заставлю тебя отведать грязи!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1114.wav"
     },
     {
         "id": "M5660_S0050_G0090_001_romi2",
@@ -375,7 +384,8 @@
         "id": "M5660_S0050_G0120_001_jyuri1",
         "jp": "殺ス！",
         "en": "I'll kill thee!",
-        "ru": "Я убью тебя!"
+        "ru": "Я убью тебя!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1118.wav"
     },
     {
         "id": "M5660_S0050_G0130_001_jyuri2",
@@ -393,13 +403,15 @@
         "id": "M5660_S0050_G0150_001_romi1",
         "jp": "破壊スル！",
         "en": "Destroy!",
-        "ru": "Крушить!"
+        "ru": "Крушить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1121.wav"
     },
     {
         "id": "M5660_S0050_G0160_001_romi2",
         "jp": "シネシネエ！！！！",
         "en": "Die die die!",
-        "ru": "Умри умри умри!"
+        "ru": "Умри умри умри!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1122.wav"
     },
     {
         "id": "M5660_S0050_G0170_001_romi3",
@@ -435,19 +447,22 @@
         "id": "M5660_S0050_G0220_001_reception",
         "jp": "お足元にお気をつけてお帰りください。",
         "en": "Please watch your step as you exit.",
-        "ru": "Пожалуйста, смотрите под ноги при выходе."
+        "ru": "Пожалуйста, смотрите под ноги при выходе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1128.wav"
     },
     {
         "id": "M5660_S0050_G0230_001_reception",
         "jp": "スタンプをご希望の方は、どうぞコチラまで。",
         "en": "If you'd like to have your card stamped, please come this way.",
-        "ru": "Если хотите получить печать на карту, пожалуйста, подходите сюда."
+        "ru": "Если хотите получить печать на карту, пожалуйста, подходите сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/0.wav"
     },
     {
         "id": "M5660_S0050_G0240_001_reception",
         "jp": "はい、どうぞ。",
         "en": "Right then. Here you are.",
-        "ru": "Порядок. Вот, возьмите."
+        "ru": "Порядок. Вот, возьмите.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/1.wav"
     },
     {
         "id": "M5660_S0050_G0250_001_reception",
@@ -519,7 +534,8 @@
         "id": "M5660_S0060_G0020_001_a2b",
         "jp": "豪華、景品……",
         "en": "Deluxe, huh?",
-        "ru": "Шикарный, да?"
+        "ru": "Шикарный, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/980.wav"
     },
     {
         "id": "M5660_S0060_G0030_001_pod153",
@@ -537,7 +553,8 @@
         "id": "M5660_S0060_G0050_001_a9s",
         "jp": "豪華、景品ねぇ……",
         "en": "Deluxe? We'll see...",
-        "ru": "Шикарный? Ну-с, поглядим..."
+        "ru": "Шикарный? Ну-с, поглядим...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/288.wav"
     },
     {
         "id": "M5660_S0060_G0060_001_roborece",

@@ -9,7 +9,8 @@
         "id": "M0010_S0798_G0030_201_pod153",
         "jp": "警告：機体９Ｓのデータパッケージが未更新。",
         "en": "Alert: Memory data for unit 9S has not yet been updated.",
-        "ru": "Внимание: блок памяти единицы 9S не был обновлён."
+        "ru": "Внимание: блок памяти единицы 9S не был обновлён.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/179.wav"
     },
     {
         "id": "M0010_S0798_G0040_201_a9s",
@@ -27,12 +28,14 @@
         "id": "M0010_S0798_G0000_201_pod153",
         "jp": "２Ｂ、敵ユニットの奪取に成功。",
         "en": "2B has successfully commandeered the enemy unit.",
-        "ru": "2B успешно осуществила захват вражеского узла."
+        "ru": "2B успешно осуществила захват вражеского узла.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/178.wav"
     },
     {
         "id": "M0010_S0798_G0010_201_a9s",
         "jp": "……引き続き、防衛継続。",
         "en": "...Continuing support.",
-        "ru": "...Продолжаю оказывать поддержку."
+        "ru": "...Продолжаю оказывать поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1098.wav"
     }
 ]

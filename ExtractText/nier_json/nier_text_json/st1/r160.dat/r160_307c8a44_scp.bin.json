@@ -3,37 +3,43 @@
         "id": "M1050_S0197_G0000_300_n02",
         "jp": "これ以上の侵入を許すな！",
         "en": "Don't let them go any further!",
-        "ru": "Не дайте им пройти!"
+        "ru": "Не дайте им пройти!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/929.wav"
     },
     {
         "id": "M1050_S0197_G0010_300_n02",
         "jp": "恐れるな！進めー！",
         "en": "Stand strong! Move!",
-        "ru": "Держать строй! Вперёд!"
+        "ru": "Держать строй! Вперёд!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/930.wav"
     },
     {
         "id": "M1050_S0197_G0010_300_n02",
         "jp": "恐れるな！進めー！",
         "en": "Stand strong! Move!",
-        "ru": "Держать строй! Вперёд!"
+        "ru": "Держать строй! Вперёд!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/930.wav"
     },
     {
         "id": "M1050_S0197_G0040_300_n02",
         "jp": "許さんぞ侵略者め！",
         "en": "You'll pay for this, invaders!",
-        "ru": "Вы заплатите за это, захватчики!"
+        "ru": "Вы заплатите за это, захватчики!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/931.wav"
     },
     {
         "id": "M1050_S0197_G0050_300_n02",
         "jp": "これ以上貴様らに何も奪わせはしない！",
         "en": "Don't let them take anything else from us!",
-        "ru": "Не дайте им ничего забрать!"
+        "ru": "Не дайте им ничего забрать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/932.wav"
     },
     {
         "id": "M1050_S0197_G0060_300_n02",
         "jp": "この国から出て行けー！",
         "en": "Leave our kingdom!",
-        "ru": "Покиньте наше королевство!"
+        "ru": "Покиньте наше королевство!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/933.wav"
     },
     {
         "id": "M1050_S0197_G0080_300_n02",
@@ -57,13 +63,15 @@
         "id": "M1050_S0197_G0110_300_n02",
         "jp": "我らが森の王の為に。",
         "en": "For the sake of our forest king.",
-        "ru": "За честь лесного короля."
+        "ru": "За честь лесного короля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/937.wav"
     },
     {
         "id": "M1050_S0197_G0120_300_n02",
         "jp": "森の王の為に。",
         "en": "For the sake of our king.",
-        "ru": "Ради нашего короля."
+        "ru": "Ради нашего короля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/938.wav"
     },
     {
         "id": "M1050_S0197_G0130_300_n02",

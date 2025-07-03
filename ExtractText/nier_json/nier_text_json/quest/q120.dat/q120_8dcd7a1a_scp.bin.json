@@ -183,31 +183,36 @@
         "id": "M5120_S0020_G0000_001_a9s",
         "jp": "よし、これで道具屋さんに頼まれたものは全て集まりましたね。",
         "en": "Okay, that's everything the supply trader asked for.",
-        "ru": "Хорошо, это всё, что просил торговец припасами."
+        "ru": "Хорошо, это всё, что просил торговец припасами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/50.wav"
     },
     {
         "id": "M5120_S0020_G0010_001_a9s",
         "jp": "雑用って大変ですね～",
         "en": "Man, these chores are a real pain in the butt, huh?",
-        "ru": "Блин, все эти хлопоты — такая морока, да?"
+        "ru": "Блин, все эти хлопоты — такая морока, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/51.wav"
     },
     {
         "id": "M5120_S0020_G0020_001_a2b",
         "jp": "地上のレジスタンスはヨルハ部隊にとっても大事な同胞。",
         "en": "The Resistance is a valuable ally to YoRHa.",
-        "ru": "Сопротивление — ценный союзник YoRHa."
+        "ru": "Сопротивление — ценный союзник YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/852.wav"
     },
     {
         "id": "M5120_S0020_G0030_001_a2b",
         "jp": "彼等の手助けをするのも、私達の重要な任務。",
         "en": "By helping them, we also help ourselves.",
-        "ru": "Помогая им, ты помогаешь и нам."
+        "ru": "Помогая им, ты помогаешь и нам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/853.wav"
     },
     {
         "id": "M5120_S0020_G0040_001_a2b",
         "jp": "だから、文句を言わない。",
         "en": "So no. I don't think they're a pain.",
-        "ru": "Так что нет. Я не считаю, что это морока."
+        "ru": "Так что нет. Я не считаю, что это морока.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/854.wav"
     },
     {
         "id": "M5120_S0020_G0050_001_a9s",

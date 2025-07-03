@@ -717,61 +717,71 @@
         "id": "CORE_DYING_FIRST_002",
         "jp": "私",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_003",
         "jp": "ワタシ",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_004",
         "jp": "わたし",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_005",
         "jp": "アタシ",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_006",
         "jp": "俺",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_007",
         "jp": "オレ",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_008",
         "jp": "僕",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_009",
         "jp": "ぼく",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_010",
         "jp": "ボク",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_011",
         "jp": "我",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_012",
@@ -1095,19 +1105,22 @@
         "id": "CORE_DYING_FIRST_065",
         "jp": "あたち",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_066",
         "jp": "ぼくちゃん",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_FIRST_067",
         "jp": "俺様",
         "en": "I",
-        "ru": "Я"
+        "ru": "Я",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_DYING_JUNCTION_001",
@@ -1485,13 +1498,15 @@
         "id": "CORE_DYING_JUNCTION_063",
         "jp": "あそこ",
         "en": "over there",
-        "ru": "вон там"
+        "ru": "вон там",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/826.wav"
     },
     {
         "id": "CORE_DYING_JUNCTION_064",
         "jp": "そこ",
         "en": "there",
-        "ru": "там"
+        "ru": "там",
+        "en_voice": "stream/Japanese/vo_plffff_0_000/341.wav"
     },
     {
         "id": "CORE_DYING_JUNCTION_065",
@@ -3027,7 +3042,8 @@
         "id": "CORE_END_01",
         "jp": "A",
         "en": "A",
-        "ru": "A"
+        "ru": "A",
+        "en_voice": "stream/English(US)/vo_core_0_003/34.wav"
     },
     {
         "id": "CORE_END_02",
@@ -3075,7 +3091,8 @@
         "id": "CORE_END_09",
         "jp": "I",
         "en": "I",
-        "ru": "I"
+        "ru": "I",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "CORE_END_10",
@@ -3087,7 +3104,8 @@
         "id": "CORE_END_11",
         "jp": "K",
         "en": "K",
-        "ru": "K"
+        "ru": "K",
+        "en_voice": "stream/Japanese/vo_plffff_0_003/150.wav"
     },
     {
         "id": "CORE_END_12",
@@ -5805,7 +5823,8 @@
         "id": "CORE_PSV_SKILL_CTG_01",
         "jp": "攻撃",
         "en": "Attack",
-        "ru": "Атака"
+        "ru": "Атака",
+        "en_voice": "stream/Japanese/vo_plffff_0_003/1122.wav"
     },
     {
         "id": "CORE_PSV_SKILL_CTG_02",

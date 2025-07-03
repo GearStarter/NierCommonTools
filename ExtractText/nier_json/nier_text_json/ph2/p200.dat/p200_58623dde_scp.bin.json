@@ -15,13 +15,15 @@
         "id": "M1070_S0020_G0020_101_a2b",
         "jp": "現在ボディチェック中。基本機能に問題は見られず。",
         "en": "Running system diagnostics... Core functionality appears intact.",
-        "ru": "Запускаю систему диагностики... Ядро работает в штатном режиме."
+        "ru": "Запускаю систему диагностики... Ядро работает в штатном режиме.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/597.wav"
     },
     {
         "id": "M1070_S0020_G0030_101_op60",
         "jp": "良かった……",
         "en": "Thank goodness!",
-        "ru": "Слава богу!"
+        "ru": "Слава богу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/279.wav"
     },
     {
         "id": "M1070_S0020_G0040_101_a2b",
@@ -39,13 +41,15 @@
         "id": "M1070_S0020_G0060_101_op60",
         "jp": "海岸に襲来していた超巨大機械生命体ですが、",
         "en": "In regards to the giant machine that attacked the shore,",
-        "ru": "На счёт огромной машины, атаковавшей побережье:"
+        "ru": "На счёт огромной машины, атаковавшей побережье:",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/281.wav"
     },
     {
         "id": "M1070_S0020_G0070_101_op60",
         "jp": "８時間前の、２Ｂさん達による攻撃によって停止しました。",
         "en": "it ceased its resistance eight hours ago following your missile strike.",
-        "ru": "она прекратила сопротивление спустя 8 часов после ракетного удара."
+        "ru": "она прекратила сопротивление спустя 8 часов после ракетного удара.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/282.wav"
     },
     {
         "id": "M1070_S0020_G0080_101_a2b",
@@ -57,25 +61,29 @@
         "id": "M1070_S0020_G0090_101_op60",
         "jp": "各地の通信施設が、ＥＭＰ攻撃の影響で使えなくて……",
         "en": "However, its EMP strikes knocked out comms all across the region.",
-        "ru": "Однако, её атака вывела из строя средства связи по всему региону."
+        "ru": "Однако, её атака вывела из строя средства связи по всему региону.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/283.wav"
     },
     {
         "id": "M1070_S0020_G0100_101_op60",
         "jp": "現在、復旧が遅れている状態です。",
         "en": "We're having trouble getting them back online.",
-        "ru": "И у нас проблемы с их перезапуском."
+        "ru": "И у нас проблемы с их перезапуском.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/284.wav"
     },
     {
         "id": "M1070_S0020_G0110_101_op60",
         "jp": "データアップロードが出来なくなっているエリアもありますので\\n注意してください。",
         "en": "Which means data uploading is currently unavailable in some areas.",
-        "ru": "На некоторых участках загрузка данных невозможна."
+        "ru": "На некоторых участках загрузка данных невозможна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/285.wav"
     },
     {
         "id": "M1070_S0020_G0120_101_a2b",
         "jp": "９Ｓは……どこに？",
         "en": "Where's 9S?",
-        "ru": "Где 9S?"
+        "ru": "Где 9S?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/600.wav"
     },
     {
         "id": "M1070_S0020_G0130_101_op60",
@@ -87,19 +95,22 @@
         "id": "M1070_S0020_G0140_101_op60",
         "jp": "かすかなブラックボックス反応はあるのですが、\\n現在位置を特定できていません。",
         "en": "We picked up a faint black box reading, but it wasn't strong enough to lock down his position.",
-        "ru": "Мы получили сигнал чёрного ящика, но он слишком слаб, чтобы определить его точное местоположение."
+        "ru": "Мы получили сигнал чёрного ящика, но он слишком слаб, чтобы определить его точное местоположение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/287.wav"
     },
     {
         "id": "M1070_S0020_G0150_101_a2b",
         "jp": "ブラックボックス反応があるのなら、生きてる筈。",
         "en": "If you found something, that means he must be alive.",
-        "ru": "Если вы что-то нашли, то, скорее всего, он ещё жив."
+        "ru": "Если вы что-то нашли, то, скорее всего, он ещё жив.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/601.wav"
     },
     {
         "id": "M1070_S0020_G0160_101_a2b",
         "jp": "９Ｓの捜索を開始する。司令官に許諾申請を。",
         "en": "Put in a request to the Commander for immediate approval to begin a search.",
-        "ru": "Немедленно запроси у Командора разрешение на одобрение начала поисковой операции."
+        "ru": "Немедленно запроси у Командора разрешение на одобрение начала поисковой операции.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/602.wav"
     },
     {
         "id": "M1070_S0020_G0170_101_op60",
@@ -135,7 +146,8 @@
         "id": "M1070_S0020_G0220_101_pod042",
         "jp": "ブラックボックス信号検知出来ず。",
         "en": "Scanning complete. No signals detected.",
-        "ru": "Сканирование завершено. Сигнал не обнаружен."
+        "ru": "Сканирование завершено. Сигнал не обнаружен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/653.wav"
     },
     {
         "id": "M1070_S0020_G0230_101_pod042",
@@ -147,7 +159,8 @@
         "id": "M1070_S0020_G0240_101_a2b",
         "jp": "特殊なスキャナー？",
         "en": "Never heard of it.",
-        "ru": "Никогда не слышала про него."
+        "ru": "Никогда не слышала про него.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/605.wav"
     },
     {
         "id": "M1070_S0020_G0250_101_pod042",
@@ -159,7 +172,8 @@
         "id": "M1070_S0020_G0260_101_pod042",
         "jp": "推奨：レジスタンスリーダーからの情報入手。",
         "en": "Proposal: Further information should be obtained from the Resistance leader.",
-        "ru": "Предложение: необходимо запросить дополнительную информацию у лидера Сопротивления."
+        "ru": "Предложение: необходимо запросить дополнительную информацию у лидера Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/657.wav"
     },
     {
         "id": "M1070_S0020_G0270_101_a2b",
@@ -183,7 +197,8 @@
         "id": "M1070_S0040_G0151_101_pod042",
         "jp": "我々は同行していたヨルハ機体９Sを捜索している。",
         "en": "We are currently searching for a missing YoRHa unit, designation 9S.",
-        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S."
+        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/665.wav"
     },
     {
         "id": "M1070_S0040_G0161_101_pod042",
@@ -237,7 +252,8 @@
         "id": "M1070_S0040_G0152_101_pod042",
         "jp": "我々は同行していたヨルハ機体９Sを捜索している。",
         "en": "We are currently searching for a missing YoRHa unit, designation 9S.",
-        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S."
+        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/665.wav"
     },
     {
         "id": "M1070_S0040_G0162_101_pod042",
@@ -417,7 +433,8 @@
         "id": "M5920_S0120_G0040_001_op60",
         "jp": "もし、移動中に壊れたアクセスポイントがあったら修復をお願いします。",
         "en": "If you encounter any offline access points, please repair them for us.",
-        "ru": "Если ты наткнёшься на любой повреждённый терминал, пожалуйста, отремонтируй его."
+        "ru": "Если ты наткнёшься на любой повреждённый терминал, пожалуйста, отремонтируй его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/380.wav"
     },
     {
         "id": "M5920_S0120_G0050_001_a2b",
@@ -429,7 +446,8 @@
         "id": "M5920_S0120_G0060_001_pod042",
         "jp": "アクセスポイントの修復完了。",
         "en": "Access point repairs complete.",
-        "ru": "Восстановление терминала завершено."
+        "ru": "Восстановление терминала завершено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/154.wav"
     },
     {
         "id": "M1070_S0020_G0280_101_ane",
@@ -447,19 +465,22 @@
         "id": "M1070_S0020_G0300_101_ane",
         "jp": "特殊なスキャナー……ああ、奴らが作っていた機械か。",
         "en": "A dynamic...? Oh, you must mean the one the twins built.",
-        "ru": "Динамический?.. А, ты имеешь в виду тот, который смастерили близнецы?"
+        "ru": "Динамический?.. А, ты имеешь в виду тот, который смастерили близнецы?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/761.wav"
     },
     {
         "id": "M1070_S0020_G0310_101_ane",
         "jp": "丁度、遠征から戻ってきているな……",
         "en": "I think they're just back from an expedition, actually.",
-        "ru": "Думаю, что они уже вернулись из экспедиции."
+        "ru": "Думаю, что они уже вернулись из экспедиции.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/762.wav"
     },
     {
         "id": "M1070_S0020_G0321_101_ane",
         "jp": "そのあたりに赤い髪のアンドロイドがいるから、そいつに聞いてみろ。",
         "en": "You should see some red-haired androids over there. Try talking to them.",
-        "ru": "Тебе следует обратиться к тем красноволосым близняшкам. Попробуй узнать у них."
+        "ru": "Тебе следует обратиться к тем красноволосым близняшкам. Попробуй узнать у них.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/764.wav"
     },
     {
         "id": "M1070_S0020_G0330_101_ane",
@@ -471,7 +492,8 @@
         "id": "M1070_S0020_G0340_101_ane",
         "jp": "赤い髪のアンドロイドは……",
         "en": "Those twins, they...",
-        "ru": "Эти близнецы, они..."
+        "ru": "Эти близнецы, они...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/766.wav"
     },
     {
         "id": "M1070_S0020_G0350_101_a2b",
@@ -483,7 +505,8 @@
         "id": "M1070_S0020_G0360_101_ane",
         "jp": "いや、何でもない。",
         "en": "Actually, never mind.",
-        "ru": "Не важно."
+        "ru": "Не важно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/767.wav"
     },
     {
         "id": "M1070_S0020_G0280_101_ane",
@@ -513,7 +536,8 @@
         "id": "M1070_S0020_G0370_101_dbl",
         "jp": "……何だオマエ？",
         "en": "What do you want?",
-        "ru": "Чего тебе?"
+        "ru": "Чего тебе?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/932.wav"
     },
     {
         "id": "M1070_S0020_G0380_101_ppl",
@@ -525,13 +549,15 @@
         "id": "M1070_S0020_G0390_101_dbl",
         "jp": "ポポルは不用心過ぎるんだよ……",
         "en": "And you don't have to trust every idiot that wanders by!",
-        "ru": "А тебе не следует доверять каждому проходимцу!"
+        "ru": "А тебе не следует доверять каждому проходимцу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/933.wav"
     },
     {
         "id": "M1070_S0020_G0400_101_ppl",
         "jp": "ごめんなさいね。何か御用でも？",
         "en": "...I'm sorry about that. Can we help you?",
-        "ru": "Прошу прощения за это... Можем мы чем-то помочь?"
+        "ru": "Прошу прощения за это... Можем мы чем-то помочь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/636.wav"
     },
     {
         "id": "M1070_S0020_G0410_101_sele",
@@ -543,13 +569,15 @@
         "id": "M1070_S0020_G0420_101_sele",
         "jp": "いや……特にない。",
         "en": "No, not really.",
-        "ru": "Нет, не совсем."
+        "ru": "Нет, не совсем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/610.wav"
     },
     {
         "id": "M1070_S0020_G0400_101_ppl",
         "jp": "ごめんなさいね。何か御用でも？",
         "en": "...I'm sorry about that. Can we help you?",
-        "ru": "Прошу прощения за это... Можем мы чем-то помочь?"
+        "ru": "Прошу прощения за это... Можем мы чем-то помочь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/636.wav"
     },
     {
         "id": "M1070_S0020_G0410_101_sele",
@@ -561,31 +589,36 @@
         "id": "M1070_S0020_G0420_101_sele",
         "jp": "いや……特にない。",
         "en": "No, not really.",
-        "ru": "Нет, не совсем."
+        "ru": "Нет, не совсем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/610.wav"
     },
     {
         "id": "M1070_S0020_G0421_101_a2b",
         "jp": "微弱なブラックボックス信号を検知出来るスキャナーを探している。",
         "en": "I need a scanner that can detect faint black box signals.",
-        "ru": "Мне нужен сканер для поиска слабого сигнала чёрного ящика."
+        "ru": "Мне нужен сканер для поиска слабого сигнала чёрного ящика.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/609.wav"
     },
     {
         "id": "M1070_S0020_G0430_101_dbl",
         "jp": "ああ……そういえば、前にそんなのを作ったな。",
         "en": "Ah. Yeah, I was tinkering with something like that a little while back.",
-        "ru": "Да, я недавно возилась с чем-то подобным."
+        "ru": "Да, я недавно возилась с чем-то подобным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/934.wav"
     },
     {
         "id": "M1070_S0020_G0440_101_dbl",
         "jp": "こんなのでよければやるよ。",
         "en": "Here. If you want it, it's all yours.",
-        "ru": "Вот, если он тебе нужен, забирай."
+        "ru": "Вот, если он тебе нужен, забирай.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/935.wav"
     },
     {
         "id": "M1070_S0020_G0460_101_ppl",
         "jp": "そのチップをセットすれば、捜索の手助けになるわ。",
         "en": "That chip should help with your search, once you install it.",
-        "ru": "После установки этот чип поможет тебе с поиском."
+        "ru": "После установки этот чип поможет тебе с поиском.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/637.wav"
     },
     {
         "id": "M1070_S0020_G0470_101_ppl",
@@ -597,37 +630,43 @@
         "id": "M1070_S0020_G0480_101_ppl",
         "jp": "他にも貴重な資源とか……そういうモノに反応して音を出してくれるから。",
         "en": "You'll hear a sound whenever it finds something.",
-        "ru": "Он будет издавать звук, если что-то найдет."
+        "ru": "Он будет издавать звук, если что-то найдет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/640.wav"
     },
     {
         "id": "M1070_S0020_G0490_101_dbl",
         "jp": "まあ、うざったい時は外しちまえ。",
         "en": "And if it ever bugs you too much, you can always pop it back out.",
-        "ru": "Если он будет тебя раздражать, то просто отключи его."
+        "ru": "Если он будет тебя раздражать, то просто отключи его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/936.wav"
     },
     {
         "id": "M1070_S0020_G0500_101_ppl",
         "jp": "他にも必要なモノがあれば、聞きにきてね。",
         "en": "Let us know if there's anything else you need from us, okay?",
-        "ru": "Можешь дать нам знать, если потребуется что-то ещё, хорошо?"
+        "ru": "Можешь дать нам знать, если потребуется что-то ещё, хорошо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/641.wav"
     },
     {
         "id": "M1070_S0020_G0510_101_dbl",
         "jp": "あんまり私達と仲良くしない方がいいけどな……",
         "en": "And don't think this makes us friends.",
-        "ru": "Но не думай, что это делает нас друзьями."
+        "ru": "Но не думай, что это делает нас друзьями.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/937.wav"
     },
     {
         "id": "M1070_S0020_G0520_101_ppl",
         "jp": "デボル……",
         "en": "Oh, Devola...",
-        "ru": "Ой, Девола..."
+        "ru": "Ой, Девола...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/642.wav"
     },
     {
         "id": "M1070_S0020_G0422_101_a2b",
         "jp": "いや……特にない。",
         "en": "No, not really.",
-        "ru": "Нет, не совсем."
+        "ru": "Нет, не совсем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/610.wav"
     },
     {
         "id": "M1070_S0020_G0030_300_resiman",
@@ -639,25 +678,29 @@
         "id": "M1070_S0040_G0000_101_a2b",
         "jp": "さっそくスキャナーにブラックボックス反応があるな……",
         "en": "I've picked up a response on the scanner.",
-        "ru": "Я получила сигнал со сканера."
+        "ru": "Я получила сигнал со сканера.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/611.wav"
     },
     {
         "id": "M1070_S0040_G0010_101_a2b",
         "jp": "なるほど。これは便利かもしれない……",
         "en": "Huh. This might be useful...",
-        "ru": "Ага. Это может быть полезным..."
+        "ru": "Ага. Это может быть полезным...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/612.wav"
     },
     {
         "id": "M1070_S0040_G0020_101_pod042",
         "jp": "捜索機体の９Ｓは海上で巨大爆発に巻き込まれた。",
         "en": "Search target 9S was caught in a large explosion over the water.",
-        "ru": "Сигнал искомого объекта, 9S, был получен в области большого взрыва над водой."
+        "ru": "Сигнал искомого объекта, 9S, был получен в области большого взрыва над водой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/660.wav"
     },
     {
         "id": "M1070_S0040_G0030_101_pod042",
         "jp": "提案：水没地帯での９Ｓ捜索。",
         "en": "Proposal: The search for 9S should commence in the flooded region.",
-        "ru": "Предложение: поиск 9S следует начать в затопленной области."
+        "ru": "Предложение: поиск 9S следует начать в затопленной области.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/661.wav"
     },
     {
         "id": "M1070_S0040_G0040_101_a2b",
@@ -669,37 +712,43 @@
         "id": "M1070_S0040_G0050_101_a2b",
         "jp": "それにしても……",
         "en": "It's funny...",
-        "ru": "Забавно..."
+        "ru": "Забавно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/614.wav"
     },
     {
         "id": "M1070_S0040_G0060_101_a2b",
         "jp": "何だか今日のポッドは良く喋る。",
         "en": "You're oddly chatty today.",
-        "ru": "Ты сегодня довольно болтлив."
+        "ru": "Ты сегодня довольно болтлив.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/615.wav"
     },
     {
         "id": "M1070_S0040_G0070_101_pod042",
         "jp": "肯定：私は支援ユニット。必要に応じて会話を行う。",
         "en": "Affirmative. As a support unit, I am capable of engaging in conversation as necessary.",
-        "ru": "Подтверждаю. Я, как единица поддержки, могу участвовать в разговоре, когда это необходимо."
+        "ru": "Подтверждаю. Я, как единица поддержки, могу участвовать в разговоре, когда это необходимо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/662.wav"
     },
     {
         "id": "M1070_S0040_G0080_101_pod042",
         "jp": "提案：２Ｂの自発的会話を増やす事。",
         "en": "Proposal: 2B should initiate conversation more frequently.",
-        "ru": "Предложение: 2B стоит чаще вступать в разговор."
+        "ru": "Предложение: 2B стоит чаще вступать в разговор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/663.wav"
     },
     {
         "id": "M1070_S0040_G0090_101_a2b",
         "jp": "……否定する。",
         "en": "...Proposal denied.",
-        "ru": "...Предложение отклонено."
+        "ru": "...Предложение отклонено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/616.wav"
     },
     {
         "id": "M1070_S0040_G0100_101_pod042",
         "jp": "ブラックボックス信号健在。生命活動の継続を確認。",
         "en": "Black box signal detected. Life functions operational.",
-        "ru": "Обнаружен сигнал чёрного ящика. Функционал исправен."
+        "ru": "Обнаружен сигнал чёрного ящика. Функционал исправен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/664.wav"
     },
     {
         "id": "M1070_S0040_G0110_101_a2b",
@@ -717,7 +766,8 @@
         "id": "M1070_S0040_G0130_101_a2b",
         "jp": "信号はバンカーに送ったから、救援はすぐに来ると思う。",
         "en": "Easy. I've contacted the Bunker. They should be here soon.",
-        "ru": "Полегче. Я связалась с Бункером. Они скоро прибудут."
+        "ru": "Полегче. Я связалась с Бункером. Они скоро прибудут.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/618.wav"
     },
     {
         "id": "M1070_S0040_G0140_101_ys",
@@ -729,7 +779,8 @@
         "id": "M1070_S0040_G0150_101_pod042",
         "jp": "我々は同行していたヨルハ機体９Ｓを捜索している。",
         "en": "We are currently searching for a missing YoRHa unit, designation 9S.",
-        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S."
+        "ru": "Мы ведём поиск пропавшей единицы YoRHa, наименование 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/665.wav"
     },
     {
         "id": "M1070_S0040_G0160_101_pod042",
@@ -741,37 +792,43 @@
         "id": "M1070_S0040_G0170_101_a2b",
         "jp": "どんな情報でもいい……お願い。",
         "en": "Please. Anything will help.",
-        "ru": "Пожалуйста. Любая информация может помочь."
+        "ru": "Пожалуйста. Любая информация может помочь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/619.wav"
     },
     {
         "id": "M1070_S0040_G0180_101_ys",
         "jp": "９Ｓ……ああ、貴女と一緒にいた男の子……",
         "en": "9S... That's that kid who was with you, right?",
-        "ru": "9S... Это тот парень, который был с тобой, да?"
+        "ru": "9S... Это тот парень, который был с тобой, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/154.wav"
     },
     {
         "id": "M1070_S0040_G0190_101_ys",
         "jp": "あの子なら……たしか爆発時に飛ばされてた……",
         "en": "I saw him, all right. That explosion sent him flying...",
-        "ru": "Да, я видела его. Его отбросило взрывом..."
+        "ru": "Да, я видела его. Его отбросило взрывом...",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/155.wav"
     },
     {
         "id": "M1070_S0040_G0200_101_pod042",
         "jp": "方角は？",
         "en": "Which direction?",
-        "ru": "В каком направлении?"
+        "ru": "В каком направлении?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/667.wav"
     },
     {
         "id": "M1070_S0040_G0210_101_ys",
         "jp": "落下予測地点のデータを……渡す。",
         "en": "Hard to say... I'll take my best guess at a landing spot and transfer the data to you.",
-        "ru": "Сложно сказать... Я сделаю всё возможное, чтобы уточнить координаты и передать их тебе."
+        "ru": "Сложно сказать... Я сделаю всё возможное, чтобы уточнить координаты и передать их тебе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/156.wav"
     },
     {
         "id": "M1070_S0040_G0220_101_a2b",
         "jp": "ありがとう……救援部隊が来るまで安静にしていて。",
         "en": "Thank you. You should stay here until the rescue team arrives.",
-        "ru": "Спасибо. Оставайся здесь до прибытия спасательной команды."
+        "ru": "Спасибо. Оставайся здесь до прибытия спасательной команды.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/620.wav"
     },
     {
         "id": "M5920_S0010_G0281_001_pod042",
@@ -789,60 +846,70 @@
         "id": "M1070_S0040_G0230_101_a2b",
         "jp": "ここが……９Ｓの落下予測地点？",
         "en": "9S should have landed around here...",
-        "ru": "9S должен был приземлиться где-то здесь..."
+        "ru": "9S должен был приземлиться где-то здесь...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/621.wav"
     },
     {
         "id": "M1070_S0040_G0240_101_pod042",
         "jp": "微弱なブラックボックス信号を検知。",
         "en": "Alert: Faint black box signal detected.",
-        "ru": "Внимание: обнаружен слабый сигнал чёрного ящика."
+        "ru": "Внимание: обнаружен слабый сигнал чёрного ящика.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/668.wav"
     },
     {
         "id": "M1070_S0040_G0250_101_pod042",
         "jp": "地下洞窟内方向からの受信。",
         "en": "The transmission seems to be coming from an underground cave network.",
-        "ru": "Похоже, передача идёт из подземной сети пещер."
+        "ru": "Похоже, передача идёт из подземной сети пещер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/669.wav"
     },
     {
         "id": "M1070_S0040_G0260_101_a2b",
         "jp": "こんな奥まで９Ｓが入って来てるのか？",
         "en": "Would 9S have made it this far inside?",
-        "ru": "Как 9S смог так далеко забраться?"
+        "ru": "Как 9S смог так далеко забраться?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/623.wav"
     },
     {
         "id": "M1070_S0040_G0270_101_pod042",
         "jp": "警告：敵の罠の可能性。",
         "en": "Alert: Possible enemy ambush ahead.",
-        "ru": "Внимание: угроза вражеской засады."
+        "ru": "Внимание: угроза вражеской засады.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/671.wav"
     },
     {
         "id": "M1070_S0040_G0280_101_a2b",
         "jp": "……罠でも構わない。",
         "en": "Don't care.",
-        "ru": "Плевать."
+        "ru": "Плевать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/624.wav"
     },
     {
         "id": "M1070_S0040_G0290_101_a2b",
         "jp": "こんな所に、アンドロイドの遺体……",
         "en": "Why are there dead androids here?",
-        "ru": "Откуда здесь мёртвые андроиды?"
+        "ru": "Откуда здесь мёртвые андроиды?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/625.wav"
     },
     {
         "id": "M1070_S0040_G0300_101_pod042",
         "jp": "ブラックボックス信号は検知出来ず。",
         "en": "No black box signals detected.",
-        "ru": "Сигнал чёрного ящика не обнаружен."
+        "ru": "Сигнал чёрного ящика не обнаружен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/672.wav"
     },
     {
         "id": "M1070_S0040_G0251_101_pod042",
         "jp": "報告：９Ｓの信号が発信されている位置から遠ざかっている。",
         "en": "Alert: You are moving away from the last known position of unit 9S.",
-        "ru": "Внимание: вы удаляетесь от последней известной позиции объекта 9S."
+        "ru": "Внимание: вы удаляетесь от последней известной позиции объекта 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/670.wav"
     },
     {
         "id": "M1070_S0040_G0252_101_a2b",
         "jp": "道を間違えたか……戻って別のルートが無いか調べよう。",
         "en": "Wrong route. Better go back and see if there's another one.",
-        "ru": "Неверный маршрут. Лучше вернуться назад и посмотреть, если ли другой."
+        "ru": "Неверный маршрут. Лучше вернуться назад и посмотреть, если ли другой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/622.wav"
     }
 ]

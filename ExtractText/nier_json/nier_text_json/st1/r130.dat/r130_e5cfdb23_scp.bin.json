@@ -15,19 +15,22 @@
         "id": "M6040_S0010_G0070_300_n02",
         "jp": "楽しイネ！！タのしイネ！！",
         "en": "Oh, what fun! Oh, what fun!",
-        "ru": "О, как весело! О, как весело!"
+        "ru": "О, как весело! О, как весело!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/831.wav"
     },
     {
         "id": "M6040_S0010_G0100_300_n02",
         "jp": "いラッしゃイマせ！",
         "en": "Welcome!",
-        "ru": "Добро пожаловать!"
+        "ru": "Добро пожаловать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/17.wav"
     },
     {
         "id": "M6040_S0010_G0110_300_n02",
         "jp": "ヨウコソ！",
         "en": "Welcome!",
-        "ru": "Добро пожаловать!"
+        "ru": "Добро пожаловать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/17.wav"
     },
     {
         "id": "M6040_S0010_G0040_300_n02",
@@ -87,19 +90,22 @@
         "id": "M6040_S0010_G0060_300_n02",
         "jp": "タのしイネ！楽しイネ！",
         "en": "Oh, what fun! Oh, what fun!",
-        "ru": "О, как весело! О, как весело!"
+        "ru": "О, как весело! О, как весело!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/831.wav"
     },
     {
         "id": "M6040_S0010_G0000_300_n02",
         "jp": "喜ビヲ！分かち合オウ！",
         "en": "Let's be happy together!",
-        "ru": "Давайте веселиться вместе!"
+        "ru": "Давайте веселиться вместе!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/832.wav"
     },
     {
         "id": "M6040_S0010_G0010_300_n02",
         "jp": "アオウ！",
         "en": "Together! Together!",
-        "ru": "Вместе! Вместе!"
+        "ru": "Вместе! Вместе!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/833.wav"
     },
     {
         "id": "M6040_S0010_G0150_300_n02",
@@ -177,7 +183,8 @@
         "id": "M1030_S0120_G0190_001_a9s",
         "jp": "これで安心ですよね？",
         "en": "We can rest easy now, huh?",
-        "ru": "Теперь мы можем отдохнуть, да?"
+        "ru": "Теперь мы можем отдохнуть, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1236.wav"
     },
     {
         "id": "M1030_S0120_G0200_001_a2b",
@@ -189,7 +196,8 @@
         "id": "M1030_S0120_G0210_001_a2b",
         "jp": "これは……結晶？",
         "en": "What's this? Some kind of crystal?",
-        "ru": "Что это? Какой-то кристалл?"
+        "ru": "Что это? Какой-то кристалл?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/503.wav"
     },
     {
         "id": "M1030_S0120_G0220_001_pod042",
@@ -201,31 +209,36 @@
         "id": "M1030_S0120_G0230_001_pod042",
         "jp": "構造的に植物細胞に近似。",
         "en": "It is similar in structure to a plant cell.",
-        "ru": "Структурно оно похоже на растительную клетку."
+        "ru": "Структурно оно похоже на растительную клетку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/624.wav"
     },
     {
         "id": "M1030_S0120_G0240_001_a2b",
         "jp": "植物細胞か……",
         "en": "A plant cell?",
-        "ru": "Растительную клетку?"
+        "ru": "Растительную клетку?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/504.wav"
     },
     {
         "id": "M4040_S0000_G0010_300_a2b",
         "jp": "……ただの置物か。",
         "en": "It's just a statue.",
-        "ru": "Это просто статуя."
+        "ru": "Это просто статуя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/799.wav"
     },
     {
         "id": "M4040_S0000_G0020_300_a9s",
         "jp": "動かない……ただの置物かな？",
         "en": "It's not moving. Maybe just a statue?",
-        "ru": "Не двигается. Может просто статуя?"
+        "ru": "Не двигается. Может просто статуя?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1904.wav"
     },
     {
         "id": "M4040_S0000_G0040_300_a2",
         "jp": "……ただの置物みたいだな。",
         "en": "Guess it's just a statue.",
-        "ru": "Полагаю, это просто статуя."
+        "ru": "Полагаю, это просто статуя.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/556.wav"
     },
     {
         "id": "M4040_S0000_G0030_300_a9s",
@@ -243,7 +256,8 @@
         "id": "M4040_S0000_G0060_300_a2b",
         "jp": "こいつ、動く！？",
         "en": "It moved!",
-        "ru": "Она двигается!"
+        "ru": "Она двигается!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/800.wav"
     },
     {
         "id": "M4040_S0000_G0070_300_a9s",
@@ -255,7 +269,8 @@
         "id": "M4040_S0000_G0090_300_a2",
         "jp": "こいつ……っ！",
         "en": "You little...!",
-        "ru": "Ах ты, маленький!.."
+        "ru": "Ах ты, маленький!..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/557.wav"
     },
     {
         "id": "M4040_S0000_G0100_300_pod042",

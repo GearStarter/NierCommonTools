@@ -3,19 +3,22 @@
         "id": "M3010_S0020_G0380_001_a2",
         "jp": "この場所に入るのは……止めておこう。",
         "en": "No. Let's not go in here.",
-        "ru": "Нет. Давай не пойдём сюда."
+        "ru": "Нет. Давай не пойдём сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/404.wav"
     },
     {
         "id": "M3010_S0020_G0390_001_pod042",
         "jp": "ヨルハ機体２Ｂの記録によると、",
         "en": "According to the memory data of unit 2B,",
-        "ru": "Согласно данным памяти единицы 2B,"
+        "ru": "Согласно данным памяти единицы 2B,",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/801.wav"
     },
     {
         "id": "M3010_S0020_G0400_001_pod042",
         "jp": "この村の住人は平和主義者であり安全と判断されている。",
         "en": "the residents of this village have been determined to be safe.",
-        "ru": "жители этой деревни определены как неопасные."
+        "ru": "жители этой деревни определены как неопасные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/802.wav"
     },
     {
         "id": "M3010_S0020_G0410_001_a2",

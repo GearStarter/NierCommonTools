@@ -33,7 +33,8 @@
         "id": "M5160_S0010_G0050_001_a9s",
         "jp": "了解しました。",
         "en": "Yes, Commander.",
-        "ru": "Так точно, Командор."
+        "ru": "Так точно, Командор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/472.wav"
     },
     {
         "id": "M5160_S0000_G0000_300_cmd",
@@ -45,13 +46,15 @@
         "id": "M5160_S0020_G0000_001_op60",
         "jp": "オペレーターより２Ｂさんへ。",
         "en": "Operator to 2B. Come in, 2B.",
-        "ru": "Оператор вызывает 2B. Приём, 2B."
+        "ru": "Оператор вызывает 2B. Приём, 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/314.wav"
     },
     {
         "id": "M5160_S0020_G0010_001_op60",
         "jp": "通信環境改善の為に必要な資材を収集してください。",
         "en": "We need you to collect the materials required to improve the network environment.",
-        "ru": "Вам нужно собрать необходимые материалы в целях улучшения сети коммуникаций."
+        "ru": "Вам нужно собрать необходимые материалы в целях улучшения сети коммуникаций.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/315.wav"
     },
     {
         "id": "M5160_S0020_G0020_001_op60",
@@ -69,7 +72,8 @@
         "id": "M5160_S0020_G0030_001_op60",
         "jp": "資材が集まったらレジスタンスキャンプのリーダー、\\nアネモネさんに渡してくださいね。",
         "en": "Once you have everything, please take it to the Resistance leader, Anemone.",
-        "ru": "Как соберёте всё необходимое, передайте их лидеру Сопротивления, Анемоне."
+        "ru": "Как соберёте всё необходимое, передайте их лидеру Сопротивления, Анемоне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/318.wav"
     },
     {
         "id": "M5160_S0020_G0040_001_a2b",
@@ -81,7 +85,8 @@
         "id": "M5160_S0020_G0050_001_op60",
         "jp": "少し大変ですけど、頑張ってくださいね、２Ｂさん！",
         "en": "I know it's a bit of a pain, but good luck!",
-        "ru": "Я знаю, это немного неудобно, но удачи вам!"
+        "ru": "Я знаю, это немного неудобно, но удачи вам!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/319.wav"
     },
     {
         "id": "M5920_S0010_G0280_001_pod042",
@@ -99,7 +104,8 @@
         "id": "M5160_S0020_G0070_001_op60",
         "jp": "通信環境改善の為に必要な資材を伝えます。",
         "en": "I will now relay the materials necessary to improve the network environment.",
-        "ru": "Сейчас я сообщу вам список материалов, необходимых для улучшения сети коммуникаций."
+        "ru": "Сейчас я сообщу вам список материалов, необходимых для улучшения сети коммуникаций.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/194.wav"
     },
     {
         "id": "M5160_S0020_G0080_001_op60",
@@ -117,13 +123,15 @@
         "id": "M5160_S0020_G0090_001_op60",
         "jp": "資材が集まったらレジスタンスキャンプのアネモネリーダーに\\n資材を渡すように。",
         "en": "Once you have the materials, bring them to Anemone, the leader of the Resistance.",
-        "ru": "Как раздобудете материалы, отнесите их Анемоне, лидеру Сопротивления."
+        "ru": "Как раздобудете материалы, отнесите их Анемоне, лидеру Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/197.wav"
     },
     {
         "id": "M5160_S0020_G0100_001_a9s",
         "jp": "了解でーす。",
         "en": "Gotcha.",
-        "ru": "Ясно."
+        "ru": "Ясно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/102.wav"
     },
     {
         "id": "M5160_S0020_G0110_001_op210",
@@ -147,13 +155,15 @@
         "id": "M5160_S0030_G0010_001_op60",
         "jp": "通信環境改善に必要な素材が全て手に入ったようですね。",
         "en": "Looks like you found all the necessary parts to improve our network environment. Nice work!",
-        "ru": "Похоже, что вы собрали все необходимые детали для улучшения сети коммуникаций. Отличная работа!"
+        "ru": "Похоже, что вы собрали все необходимые детали для улучшения сети коммуникаций. Отличная работа!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/321.wav"
     },
     {
         "id": "M5160_S0030_G0020_001_op60",
         "jp": "収集した素材はアネモネさんに渡してください。それで任務は終了です。",
         "en": "You can conclude your mission by bringing everything over to Anemone.",
-        "ru": "Вы можете завершить своё задание, передав материалы Анемоне."
+        "ru": "Вы можете завершить своё задание, передав материалы Анемоне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/322.wav"
     },
     {
         "id": "M5160_S0030_G0030_001_op210",
@@ -165,7 +175,8 @@
         "id": "M5160_S0030_G0040_001_op60",
         "jp": "通信環境改善に必要な素材が揃った事を確認しました。",
         "en": "I've confirmed that you have the necessary parts to improve our network environment.",
-        "ru": "Подтверждаю наличие всех необходимых для улучшения коммуникаций материалов."
+        "ru": "Подтверждаю наличие всех необходимых для улучшения коммуникаций материалов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/200.wav"
     },
     {
         "id": "M5160_S0030_G0050_001_op60",
@@ -207,61 +218,71 @@
         "id": "M5160_S0040_G0040_001_op60",
         "jp": "了解です。おつかれ様でした！",
         "en": "Copy that. Good work!",
-        "ru": "Принято. Хорошая работа!"
+        "ru": "Принято. Хорошая работа!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/323.wav"
     },
     {
         "id": "M5160_S0040_G0050_001_a9s",
         "jp": "……全く、相変わらず司令官は人使いが荒いですよね。",
         "en": "I see the Commander's as much of a slave driver as ever.",
-        "ru": "Командор, как и всегда, похожа на тирана."
+        "ru": "Командор, как и всегда, похожа на тирана.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/103.wav"
     },
     {
         "id": "M5160_S0040_G0060_001_a9s",
         "jp": "ルールにも厳しいし、効率優先のロボットみたいな\\n生活を送ってるんでしょうね。",
         "en": "It's like she was built to be as efficient and hard-assed as possible.",
-        "ru": "Похоже, что её специально создали, чтобы достичь максимальной эффективности и усердия."
+        "ru": "Похоже, что её специально создали, чтобы достичь максимальной эффективности и усердия.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/104.wav"
     },
     {
         "id": "M5160_S0040_G0070_001_op60",
         "jp": "司令官はそんなにお固くないですよ？",
         "en": "Aw, she's not so bad.",
-        "ru": "О, да не такая уж она и плохая."
+        "ru": "О, да не такая уж она и плохая.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/324.wav"
     },
     {
         "id": "M5160_S0040_G0080_001_a9s",
         "jp": "え？どういうコトですか？",
         "en": "Are you serious?",
-        "ru": "Вы это серьёзно?"
+        "ru": "Вы это серьёзно?",
+        "en_voice": "stream/English(US)/vo_plffff_1_000/88.wav"
     },
     {
         "id": "M5160_S0040_G0090_001_op60",
         "jp": "司令官って、ああ見えて意外に大雑把なんです。",
         "en": "Totally serious! The Commander actually lets a lot of things slide on the side.",
-        "ru": "На полном серьёзе! Вообще-то, Командор довольно многое упускает из виду."
+        "ru": "На полном серьёзе! Вообще-то, Командор довольно многое упускает из виду.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/325.wav"
     },
     {
         "id": "M5160_S0040_G0100_001_op60",
         "jp": "服なんて脱いだら脱ぎっぱなしの溜めっぱなしなので、\\nよく洗濯班が嘆いてるんですよ。",
         "en": "Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is SO sick of it.",
-        "ru": "К примеру, вы знали, что она повсюду разбрасывает одежду?\\nКоманда уборщиков ТАК устала от этого."
+        "ru": "К примеру, вы знали, что она повсюду разбрасывает одежду?\\nКоманда уборщиков ТАК устала от этого.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/326.wav"
     },
     {
         "id": "M5160_S0040_G0110_001_op60",
         "jp": "それに、自分のボディのメンテナンスチェックとか\\n全然実行しないんですよね。",
         "en": "Oh, and she never performs regular maintenance on herself.",
-        "ru": "О, и она никогда не проводит самостоятельно своё регулярное техобслуживание."
+        "ru": "О, и она никогда не проводит самостоятельно своё регулярное техобслуживание.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/327.wav"
     },
     {
         "id": "M5160_S0040_G0120_001_op60",
         "jp": "そういう雑な所を人に見せないのが司令官らしいんですけど。",
         "en": "A lot of the \"hard-ass\" nature you mention is just for show.",
-        "ru": "Вся эта природная \"бескомпромиссность\" только для виду."
+        "ru": "Вся эта природная \"бескомпромиссность\" только для виду.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/328.wav"
     },
     {
         "id": "M5160_S0040_G0130_001_a2b",
         "jp": "貴方はどうしてそれを知ってるの？",
         "en": "How do you know all this?",
-        "ru": "И откуда вы всё это узнали?"
+        "ru": "И откуда вы всё это узнали?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/889.wav"
     },
     {
         "id": "M5160_S0040_G0140_001_op60",
@@ -279,6 +300,7 @@
         "id": "M5160_S0040_G0160_001_a9s",
         "jp": "秘密……",
         "en": "What the heck was all that about?",
-        "ru": "Секрет..."
+        "ru": "Секрет...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/106.wav"
     }
 ]

@@ -9,7 +9,8 @@
         "id": "M3050_S0045_G0010_001_a2",
         "jp": "機械生命体が、どうして同じ種族のパスカル達を襲ったんだ？",
         "en": "Why did the machines attack Pascal's village? Aren't they all the same?",
-        "ru": "Почему машины напали на деревню Паскаля? Разве они не все одинаковы?"
+        "ru": "Почему машины напали на деревню Паскаля? Разве они не все одинаковы?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/480.wav"
     },
     {
         "id": "M3050_S0045_G0020_001_pod042",
@@ -21,7 +22,8 @@
         "id": "M3050_S0045_G0030_001_a2",
         "jp": "使えないな……",
         "en": "Well, aren't you helpful.",
-        "ru": "Ты как всегда полезен."
+        "ru": "Ты как всегда полезен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/481.wav"
     },
     {
         "id": "M3050_S0045_G0040_001_pod042",
@@ -45,7 +47,8 @@
         "id": "M3050_S0045_G0070_001_announce",
         "jp": "本日は皆様に耳寄りな情報があります！",
         "en": "We've got some VERY exciting news for everyone today!",
-        "ru": "У нас есть ОЧЕНЬ интересные новости!"
+        "ru": "У нас есть ОЧЕНЬ интересные новости!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/813.wav"
     },
     {
         "id": "M3050_S0045_G0080_001_announce",
@@ -87,13 +90,15 @@
         "id": "M3050_S0045_G0140_001_a2",
         "jp": "大型ユニット？",
         "en": "A large what now?",
-        "ru": "Что дальше?"
+        "ru": "Что дальше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/484.wav"
     },
     {
         "id": "M3050_S0045_G0150_001_a2",
         "jp": "一体……何が起きてるんだ？",
         "en": "What the heck is going on around here?",
-        "ru": "Что, чёрт возьми, здесь происходит?"
+        "ru": "Что, чёрт возьми, здесь происходит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/485.wav"
     },
     {
         "id": "M3050_S0045_G0160_001_pod153",
@@ -105,6 +110,7 @@
         "id": "M3050_S0045_G0170_001_a2",
         "jp": "その『大型ユニット』って所に行くぞ。",
         "en": "Well, let's go check out this \"large structural unit.\"",
-        "ru": "Давай наведаемся к этой \"большой структурной единице\"."
+        "ru": "Давай наведаемся к этой \"большой структурной единице\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/486.wav"
     }
 ]

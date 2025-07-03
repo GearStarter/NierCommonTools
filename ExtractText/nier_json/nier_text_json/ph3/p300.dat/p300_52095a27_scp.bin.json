@@ -3,7 +3,8 @@
         "id": "M5920_S0030_G0040_001_a2",
         "jp": "何だ……これは。",
         "en": "Whoa. What's that?",
-        "ru": "Ого! Что это?"
+        "ru": "Ого! Что это?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/645.wav"
     },
     {
         "id": "M3010_S0020_G0082_001_pod042",
@@ -15,6 +16,7 @@
         "id": "M5920_S0030_G0110_001_a2",
         "jp": "使えないな。",
         "en": "You're useless.",
-        "ru": "Ты бесполезен."
+        "ru": "Ты бесполезен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/650.wav"
     }
 ]

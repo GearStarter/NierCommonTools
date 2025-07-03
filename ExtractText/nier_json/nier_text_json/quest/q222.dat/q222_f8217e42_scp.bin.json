@@ -45,7 +45,8 @@
         "id": "M5222_S0010_G0070_001_pascal",
         "jp": "私は、そう信じているんです。でも……",
         "en": "However...",
-        "ru": "Однако..."
+        "ru": "Однако...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/793.wav"
     },
     {
         "id": "M5222_S0010_G0080_001_pascal",
@@ -153,19 +154,22 @@
         "id": "M5222_S0020_G0000_001_pod042",
         "jp": "敵性機械生命体の破壊を確認。",
         "en": "Enemy machines destroyed.",
-        "ru": "Противники уничтожены."
+        "ru": "Противники уничтожены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/994.wav"
     },
     {
         "id": "M5222_S0020_G0010_001_a2",
         "jp": "これがパスカルの欲しがっていた記憶素子の素材か。",
         "en": "So this is the part Pascal wanted?",
-        "ru": "Значит, вот эта деталь нужна Паскалю?"
+        "ru": "Значит, вот эта деталь нужна Паскалю?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/560.wav"
     },
     {
         "id": "M5222_S0020_G0020_001_a2",
         "jp": "機械生命体の子供を守る為に、別の機械生命体を殺す……",
         "en": "Can't believe I'm killing machines to save a machine.",
-        "ru": "Поверить не могу, что убиваю машины, чтобы спасти машину."
+        "ru": "Поверить не могу, что убиваю машины, чтобы спасти машину.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/561.wav"
     },
     {
         "id": "M5222_S0020_G0030_001_a2",

@@ -15,7 +15,8 @@
         "id": "M1080_S0090_G0020_201_a9s",
         "jp": "今のは……月面サーバーで聞いた言葉。",
         "en": "Those were the words I heard in the moon server.",
-        "ru": "Эти слова я уже слышал на Лунном сервере."
+        "ru": "Эти слова я уже слышал на Лунном сервере.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1554.wav"
     },
     {
         "id": "M1080_S0090_G0030_201_a9s",
@@ -39,7 +40,8 @@
         "id": "M1080_S0090_G0060_201_a9s",
         "jp": "わかった。",
         "en": "Okay, good.",
-        "ru": "Вот и славно."
+        "ru": "Вот и славно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1557.wav"
     },
     {
         "id": "M1080_S0090_G0070_201_cmd",
@@ -57,7 +59,8 @@
         "id": "M1080_S0090_G0090_201_cmd",
         "jp": "……すまないが司令部まで来てくれ。",
         "en": "I'm sorry. You're needed back at Command.",
-        "ru": "Извини. Тебе нужно прибыть в Штаб."
+        "ru": "Извини. Тебе нужно прибыть в Штаб.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/99.wav"
     },
     {
         "id": "M1080_S0090_G0100_201_a9s",
@@ -75,13 +78,15 @@
         "id": "M1080_S0800_G0010_201_cmd",
         "jp": "……君がメインサーバーにアクセスしていた痕跡が残っていた。",
         "en": "You left quite a trail when you accessed the main server.",
-        "ru": "Ты наследил, когда заходил на главный сервер."
+        "ru": "Ты наследил, когда заходил на главный сервер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/101.wav"
     },
     {
         "id": "M1080_S0800_G0020_201_a9s",
         "jp": "……その事で聞きたい事があります。司令官。",
         "en": "That's what I wanted to speak with you about, Commander.",
-        "ru": "Командор, я бы хотел обсудить это с вами."
+        "ru": "Командор, я бы хотел обсудить это с вами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1560.wav"
     },
     {
         "id": "M1080_S0800_G0030_201_cmd",
@@ -93,19 +98,22 @@
         "id": "M1080_S0800_G0040_201_a9s",
         "jp": "ヨルハ計画の中に月面人類会議の設立記録がありました。",
         "en": "I found records stating that the Council of Humanity was established as part of Project YoRHa.",
-        "ru": "Я нашёл документы, указывающие на то, что Совет Человечества был создан в рамках проекта YoRHa."
+        "ru": "Я нашёл документы, указывающие на то, что Совет Человечества был создан в рамках проекта YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1561.wav"
     },
     {
         "id": "M1080_S0800_G0050_201_a9s",
         "jp": "これじゃあ、順番が逆です。",
         "en": "But I'd always heard it was the other way around.",
-        "ru": "Но я везде слышал, что было с точностью наоборот."
+        "ru": "Но я везде слышал, что было с точностью наоборот.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1562.wav"
     },
     {
         "id": "M1080_S0800_G0060_201_a9s",
         "jp": "まるで、僕達ヨルハ部隊が人類会議を作ったかのような……",
         "en": "So did YoRHa actually create the Council of Humanity?",
-        "ru": "Значит, на самом деле YoRHa создала Совет Человечества?"
+        "ru": "Значит, на самом деле YoRHa создала Совет Человечества?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1563.wav"
     },
     {
         "id": "M1080_S0800_G0070_201_cmd",
@@ -129,13 +137,15 @@
         "id": "M1080_S0800_G0100_201_a9s",
         "jp": "じゃあ……",
         "en": "But that means...",
-        "ru": "Но это значит, что..."
+        "ru": "Но это значит, что...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1564.wav"
     },
     {
         "id": "M1080_S0800_G0110_201_cmd",
         "jp": "人類はもういない。",
         "en": "Mankind no longer exists.",
-        "ru": "Человечества больше не существует."
+        "ru": "Человечества больше не существует.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/106.wav"
     },
     {
         "id": "M1080_S0800_G0120_201_a9s",
@@ -147,19 +157,22 @@
         "id": "M1080_S0800_G0130_201_cmd",
         "jp": "正確に言えば、人類は月には行っていない。",
         "en": "In truth, humans never went to the moon at all.",
-        "ru": "Точнее, людей никогда не было на Луне."
+        "ru": "Точнее, людей никогда не было на Луне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/107.wav"
     },
     {
         "id": "M1080_S0800_G0140_201_cmd",
         "jp": "月からの通信はプログラムで用意されたダミーに過ぎない。",
         "en": "Any transmissions received from the moon are just dummy signals we set up in advance.",
-        "ru": "Любые передачи, получаемые с Луны — это фальшивые сигналы, которые мы устанавливаем заранее."
+        "ru": "Любые передачи, получаемые с Луны — это фальшивые сигналы, которые мы устанавливаем заранее.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/108.wav"
     },
     {
         "id": "M1080_S0800_G0150_201_cmd",
         "jp": "月に残っているのは、僅かな人類の遺伝子情報だけだ。",
         "en": "The only thing there is a small bit of data relating to the human genome.",
-        "ru": "От человечества осталось лишь немного данных о геноме человека."
+        "ru": "От человечества осталось лишь немного данных о геноме человека.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/109.wav"
     },
     {
         "id": "M1080_S0800_G0160_201_a9s",
@@ -171,25 +184,29 @@
         "id": "M1080_S0800_G0170_201_cmd",
         "jp": "……異星人が襲来した時には既に人類は滅亡してしまっていた。",
         "en": "Humans were already extinct when the aliens attacked.",
-        "ru": "Когда напали пришельцы, человечество уже вымерло."
+        "ru": "Когда напали пришельцы, человечество уже вымерло.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/110.wav"
     },
     {
         "id": "M1080_S0800_G0180_201_cmd",
         "jp": "このチップに、全ての記録を保存してある。",
         "en": "All the details are stored on this memory chip.",
-        "ru": "Все подробности хранятся на этом чипе памяти."
+        "ru": "Все подробности хранятся на этом чипе памяти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/111.wav"
     },
     {
         "id": "M1080_S0800_G0190_201_cmd",
         "jp": "興味があるなら見てみればいい。",
         "en": "If you want to look at it, I won't stop you.",
-        "ru": "Если захочешь посмотреть, я не стану тебе запрещать."
+        "ru": "Если захочешь посмотреть, я не стану тебе запрещать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/112.wav"
     },
     {
         "id": "M1080_S0800_G0200_201_a9s",
         "jp": "どうして、これを僕に……",
         "en": "Wait, you're just giving me this? But why?",
-        "ru": "Подождите, вы просто отдадите его мне? Но почему?"
+        "ru": "Подождите, вы просто отдадите его мне? Но почему?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1567.wav"
     },
     {
         "id": "M1080_S0800_G0210_201_cmd",
@@ -201,12 +218,14 @@
         "id": "M1080_S0850_H0000_201_cmd",
         "jp": "理由なく戦える者などいない。",
         "en": "No one fights without a reason.",
-        "ru": "Никто не сражается без причины."
+        "ru": "Никто не сражается без причины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/114.wav"
     },
     {
         "id": "M1080_S0850_H0010_201_cmd",
         "jp": "我々には命を捧げるに値する神が必要なのだ。",
         "en": "And we need a god worth dying for.",
-        "ru": "И нам нужен бог, за которого стоит умереть."
+        "ru": "И нам нужен бог, за которого стоит умереть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/115.wav"
     }
 ]

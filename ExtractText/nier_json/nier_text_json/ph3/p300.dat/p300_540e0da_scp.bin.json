@@ -3,18 +3,21 @@
         "id": "M3040_S1500_G0000_001_pod042",
         "jp": "そうか……９Ｓがそんな状態に。",
         "en": "This is the current status of unit 9S?",
-        "ru": "Таков текущий статус единицы 9S?"
+        "ru": "Таков текущий статус единицы 9S?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/839.wav"
     },
     {
         "id": "M3040_S1500_G0010_001_pod153",
         "jp": "９Ｓの精神状態は危険な状態に達しつつある。",
         "en": "Affirmative. His mental state has become dangerously unstable.",
-        "ru": "Подтверждаю. Его психическое состояние стало опасно нестабильным."
+        "ru": "Подтверждаю. Его психическое состояние стало опасно нестабильным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/311.wav"
     },
     {
         "id": "M3040_S1500_G0020_001_pod153",
         "jp": "早急な対処が必要だ。",
         "en": "Action must be taken immediately.",
-        "ru": "Необходимо немедленно принять меры."
+        "ru": "Необходимо немедленно принять меры.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/312.wav"
     }
 ]

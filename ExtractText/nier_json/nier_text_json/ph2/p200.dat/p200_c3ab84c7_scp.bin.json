@@ -15,13 +15,15 @@
         "id": "M1090_S0050_G0020_201_pod153",
         "jp": "付近に機体２Ｂのブラックボックス感知。",
         "en": "2B's black box signal detected nearby.",
-        "ru": "Поблизости обнаружен сигнал чёрного ящика 2B."
+        "ru": "Поблизости обнаружен сигнал чёрного ящика 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/229.wav"
     },
     {
         "id": "M1090_S0050_G0030_201_pod153",
         "jp": "交戦中と予測。",
         "en": "She is likely engaged in combat.",
-        "ru": "По-видимому, она уже вступила в бой."
+        "ru": "По-видимому, она уже вступила в бой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/230.wav"
     },
     {
         "id": "M1090_S0040_G0000_201_a9s",

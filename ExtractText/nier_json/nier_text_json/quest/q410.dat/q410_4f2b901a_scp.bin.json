@@ -165,25 +165,29 @@
         "id": "M5410_S0010_G0220_001_a2b",
         "jp": "ヨルハの遺体……",
         "en": "That's a YoRHa unit...",
-        "ru": "Это единица YoRHa..."
+        "ru": "Это единица YoRHa...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/943.wav"
     },
     {
         "id": "M5410_S0010_G0230_001_pod042",
         "jp": "確認：ヨルハＢ型。捜索中の１１Ｂの義体。",
         "en": "Analysis: YoRHa type B body confirmed. It belongs to the missing unit known as 11B.",
-        "ru": "Анализ: подтверждаю, тело модели YoRHa типа B. Оно принадлежит пропавшей единице, известной как 11В."
+        "ru": "Анализ: подтверждаю, тело модели YoRHa типа B. Оно принадлежит пропавшей единице, известной как 11В.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1007.wav"
     },
     {
         "id": "M5410_S0010_G0240_001_a2b",
         "jp": "こんなところに落ちていたのか。１１Ｂ……",
         "en": "So this is where you landed...",
-        "ru": "Так вот где ты приземлилась..."
+        "ru": "Так вот где ты приземлилась...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/944.wav"
     },
     {
         "id": "M5410_S0010_G0250_001_a2b",
         "jp": "ブラックボックス信号は？",
         "en": "Pod, can you access her black box?",
-        "ru": "Бот, можешь получить доступ к её чёрному ящику."
+        "ru": "Бот, можешь получить доступ к её чёрному ящику.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/945.wav"
     },
     {
         "id": "M5410_S0010_G0260_001_pod042",
@@ -201,25 +205,29 @@
         "id": "M5410_S0010_G0280_001_pod042",
         "jp": "推奨：使用可能な武器を回収。",
         "en": "Proposal: Unit 2B should recover any usable weapons.",
-        "ru": "Предложение: 2B стоит восстановить уцелевшее оружие."
+        "ru": "Предложение: 2B стоит восстановить уцелевшее оружие.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1009.wav"
     },
     {
         "id": "M5410_S0010_G0290_001_pod042",
         "jp": "また、記憶領域内に断片的な記憶データを確認。",
         "en": "Fragmented data detected in memory region.",
-        "ru": "Обнаружены фрагментированные данные в области памяти."
+        "ru": "Обнаружены фрагментированные данные в области памяти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1010.wav"
     },
     {
         "id": "M5410_S0010_G0300_001_a2b",
         "jp": "脱走計画……",
         "en": "She was planning to go AWOL...",
-        "ru": "Она планировала дезертировать..."
+        "ru": "Она планировала дезертировать...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/947.wav"
     },
     {
         "id": "M5410_S0010_G0320_001_pod042",
         "jp": "重大な規定違反。しかし当該機体の死亡により、処罰の実行は不可能。",
         "en": "Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible.",
-        "ru": "Обнаружено нарушение устава. Однако из-за смерти данной единицы наказание невозможно."
+        "ru": "Обнаружено нарушение устава. Однако из-за смерти данной единицы наказание невозможно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/1011.wav"
     },
     {
         "id": "M5410_S0010_G0325_001_a2b",
@@ -231,7 +239,8 @@
         "id": "M5410_S0010_G0330_001_a2b",
         "jp": "武器は、バンカーにいる１６Ｄに渡そう。",
         "en": "I'll bring this weapon back to 16D in the Bunker.",
-        "ru": "Отнесу это оружие 16D в Бункер."
+        "ru": "Отнесу это оружие 16D в Бункер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/948.wav"
     },
     {
         "id": "M5410_S0010_G0325_001_a2b",
@@ -315,7 +324,8 @@
         "id": "M5410_S0020_G0110_001_16d",
         "jp": "くっ……",
         "en": "Heh...",
-        "ru": "Хех..."
+        "ru": "Хех...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/562.wav"
     },
     {
         "id": "M5410_S0020_G0120_001_16d",

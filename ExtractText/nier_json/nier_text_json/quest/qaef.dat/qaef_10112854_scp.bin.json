@@ -9,7 +9,8 @@
         "id": "M3060_S1020_G0010_001_a2",
         "jp": "９Ｓの論理回路を修復する。",
         "en": "We're going to repair 9S's logic circuits.",
-        "ru": "Мы отремонтируем логические схемы 9S."
+        "ru": "Мы отремонтируем логические схемы 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/552.wav"
     },
     {
         "id": "M3060_S1020_G0020_001_pod042",
@@ -21,7 +22,8 @@
         "id": "M3060_S1020_G0030_001_a2",
         "jp": "９Ｓを汚染しているウィルスの場所を教えてくれ。",
         "en": "Tell me where to find the virus corrupting 9S.",
-        "ru": "Скажи, где мне найти вирус, повредивший 9S."
+        "ru": "Скажи, где мне найти вирус, повредивший 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/553.wav"
     },
     {
         "id": "M3060_S1020_G0040_001_pod042",
@@ -39,37 +41,43 @@
         "id": "M3060_S1020_G0060_001_pod042",
         "jp": "この先に９Ｓのコアデータが格納されている。",
         "en": "Core data for 9S is stored ahead.",
-        "ru": "Главное ядро 9S расположено впереди."
+        "ru": "Главное ядро 9S расположено впереди.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/892.wav"
     },
     {
         "id": "M3060_S1020_G0070_001_pod042",
         "jp": "報告：ウィルス汚染が深刻で除去は困難。",
         "en": "Alert: Severe virus corruption. Probability of successful deletion extremely low.",
-        "ru": "Внимание: серьёзное повреждение вирусом. Вероятность успешного удаления крайне мала."
+        "ru": "Внимание: серьёзное повреждение вирусом. Вероятность успешного удаления крайне мала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/893.wav"
     },
     {
         "id": "M3060_S1020_G0080_001_a2",
         "jp": "……いや、一つだけ方法がある筈だ。",
         "en": "I think I know a way...",
-        "ru": "Полагаю, я знаю способ..."
+        "ru": "Полагаю, я знаю способ...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/554.wav"
     },
     {
         "id": "M3060_S1020_G0090_001_pod042",
         "jp": "……その方法は推奨出来ない。",
         "en": "The idea under consideration is not recommended.",
-        "ru": "Рассматриваемая идея не рекомендуется."
+        "ru": "Рассматриваемая идея не рекомендуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/894.wav"
     },
     {
         "id": "M3060_S1020_G0100_001_pod042",
         "jp": "私はヨルハ部隊支援随行ユニット。",
         "en": "This Pod is a YoRHa Tactical Support Unit.",
-        "ru": "Бот — единица тактической поддержки YoRHa."
+        "ru": "Бот — единица тактической поддержки YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/895.wav"
     },
     {
         "id": "M3060_S1020_G0110_001_pod042",
         "jp": "支援しているヨルハ機体Ａ２に害をなす行動には賛同出来ない。",
         "en": "As such, it cannot approve of actions that would damage its supported unit.",
-        "ru": "Поэтому он не может одобрить действия, которые навредят поддерживаемой единице."
+        "ru": "Поэтому он не может одобрить действия, которые навредят поддерживаемой единице.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/896.wav"
     },
     {
         "id": "M3060_S1020_G0120_001_a2",

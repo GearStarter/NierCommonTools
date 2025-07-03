@@ -153,31 +153,36 @@
         "id": "M5520_S0020_G0050_001_a9s",
         "jp": "旧世界の情報だ……けど、これ、内容が……",
         "en": "It's data from the old world, but it's...",
-        "ru": "Это данные из старого мира, но..."
+        "ru": "Это данные из старого мира, но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/228.wav"
     },
     {
         "id": "M5520_S0020_G0060_001_pod153",
         "jp": "核分裂を用いた兵器の生成に関する情報。",
         "en": "This data is related to the creation of nuclear fission weapons.",
-        "ru": "Эти данные описывают создание оружия на основе ядерного распада."
+        "ru": "Эти данные описывают создание оружия на основе ядерного распада.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/470.wav"
     },
     {
         "id": "M5520_S0020_G0070_001_a9s",
         "jp": "……これ、パスカルに渡してもいいんだろうか。",
         "en": "Oh, geez. I wonder if we should really hand this over to Pascal...",
-        "ru": "Ох, блин. Интересно, стоит ли нам передавать такие данные Паскалю..."
+        "ru": "Ох, блин. Интересно, стоит ли нам передавать такие данные Паскалю...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/229.wav"
     },
     {
         "id": "M5520_S0020_G0080_001_a9s",
         "jp": "それとも司令官に……",
         "en": "I mean, the Commander might want it, right?",
-        "ru": "В смысле, Командору могут быть полезны эти данные, верно?"
+        "ru": "В смысле, Командору могут быть полезны эти данные, верно?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/230.wav"
     },
     {
         "id": "M5520_S0020_G0090_001_pod153",
         "jp": "判断をするのは９Ｓ。",
         "en": "Only unit 9S is qualified to make that decision.",
-        "ru": "Только единица 9S ответственна за принятие этого решения."
+        "ru": "Только единица 9S ответственна за принятие этого решения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/471.wav"
     },
     {
         "id": "M5520_S0020_G0100_001_pascal",

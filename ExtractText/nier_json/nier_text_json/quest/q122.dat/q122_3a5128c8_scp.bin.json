@@ -51,7 +51,8 @@
         "id": "M5920_S0060_G0210_001_a9s",
         "jp": "仕事とは言え、レジスタンスの皆さんのお手伝いが多いですよね。",
         "en": "I know it's our job and all, but these Resistance types sure do use and abuse us, don't they?",
-        "ru": "Я знаю, что это наша работа, но все эти члены Сопротивления откровенно используют нас, не думаешь?"
+        "ru": "Я знаю, что это наша работа, но все эти члены Сопротивления откровенно используют нас, не думаешь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/352.wav"
     },
     {
         "id": "M5920_S0060_G0220_001_a9s",
@@ -63,13 +64,15 @@
         "id": "M5920_S0060_G0230_001_a2b",
         "jp": "仕事に文句言わない。",
         "en": "No complaining about your work.",
-        "ru": "Не жалуйся на свою работу."
+        "ru": "Не жалуйся на свою работу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1011.wav"
     },
     {
         "id": "M5920_S0060_G0240_001_a2b",
         "jp": "レジスタンスと情報交換するのは重要な任務。",
         "en": "Exchanging information with the Resistance is a vital part of our mission.",
-        "ru": "Обмен информацией с Сопротивлением — важная часть нашего задания."
+        "ru": "Обмен информацией с Сопротивлением — важная часть нашего задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1012.wav"
     },
     {
         "id": "M5920_S0060_G0250_001_a2b",
@@ -81,13 +84,15 @@
         "id": "M5920_S0060_G0260_001_a2b",
         "jp": "死ぬより、死なない方がいいに決まってる。",
         "en": "Not dying beats dying any day.",
-        "ru": "Не умирать гораздо лучше, чем умирать."
+        "ru": "Не умирать гораздо лучше, чем умирать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1014.wav"
     },
     {
         "id": "M5920_S0060_G0270_001_a9s",
         "jp": "そう……ですね。",
         "en": "Yeah, that's true.",
-        "ru": "Ага, твоя правда."
+        "ru": "Ага, твоя правда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/354.wav"
     },
     {
         "id": "M5122_S0010_G0120_001_a9s",

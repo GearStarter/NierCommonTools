@@ -3,7 +3,8 @@
         "id": "M5920_S0060_G0090_001_a9s",
         "jp": "あのー……２Ｂ？",
         "en": "Say, 2B?",
-        "ru": "Скажи, 2B?"
+        "ru": "Скажи, 2B?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1610.wav"
     },
     {
         "id": "M5920_S0060_G0100_001_a2b",
@@ -15,37 +16,43 @@
         "id": "M5920_S0060_G0110_001_a9s",
         "jp": "いつになったら『ナインズ』って呼んでくれるんですか？",
         "en": "When do you think you'll be willing to call me \"Nines\"?",
-        "ru": "Когда ты уже сможешь называть меня Девятым?"
+        "ru": "Когда ты уже сможешь называть меня Девятым?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/346.wav"
     },
     {
         "id": "M5920_S0060_G0120_001_a2b",
         "jp": "９Ｓ、で十分伝わる。",
         "en": "9S works just fine.",
-        "ru": "9S итак звучит нормально."
+        "ru": "9S итак звучит нормально.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1007.wav"
     },
     {
         "id": "M5920_S0060_G0130_001_a9s",
         "jp": "まあ、そうなんですけど……",
         "en": "Well, yeah, but...",
-        "ru": "Да, но..."
+        "ru": "Да, но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/347.wav"
     },
     {
         "id": "M1050_S0010_G0120_001_a9s",
         "jp": "でも、仕事って大変ですよね～",
         "en": "Man, this job can be pretty rough sometimes, huh?",
-        "ru": "Эта работёнка временами может быть довольно тяжёлой, да?"
+        "ru": "Эта работёнка временами может быть довольно тяжёлой, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1345.wav"
     },
     {
         "id": "M1050_S0010_G0130_001_a2b",
         "jp": "作戦に好き嫌いはない。",
         "en": "We don't get to choose our assignments.",
-        "ru": "У нас нет права выбирать наше предназначение."
+        "ru": "У нас нет права выбирать наше предназначение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav"
     },
     {
         "id": "M1050_S0010_G0140_001_a2b",
         "jp": "９Ｓ、貴方は感情を出し過ぎ。",
         "en": "And you should work on keeping your opinions in check.",
-        "ru": "И ты должен работать, держа своё мнение при себе."
+        "ru": "И ты должен работать, держа своё мнение при себе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/549.wav"
     },
     {
         "id": "M1050_S0010_G0150_001_a2b",
@@ -57,6 +64,7 @@
         "id": "M1050_S0010_G0160_001_a9s",
         "jp": "そうは言っても、個体差があるから仕方ない気がします……",
         "en": "I think some of us are better at that than others...",
-        "ru": "Я думаю, некоторые из нас в этом лучше, чем другие..."
+        "ru": "Я думаю, некоторые из нас в этом лучше, чем другие...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav"
     }
 ]

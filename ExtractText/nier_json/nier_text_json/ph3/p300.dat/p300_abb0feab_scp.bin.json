@@ -15,13 +15,15 @@
         "id": "M3030_S0040_G0020_001_a2",
         "jp": "ポッド！パスカルは！？",
         "en": "Pod, where's Pascal!?",
-        "ru": "Бот, где Паскаль?"
+        "ru": "Бот, где Паскаль?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/431.wav"
     },
     {
         "id": "M3030_S0040_G0030_001_pod042",
         "jp": "通信不能の為、確認できず。",
         "en": "Unknown. Cannot establish connection.",
-        "ru": "Неизвестно. Не могу установить соединение."
+        "ru": "Неизвестно. Не могу установить соединение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/827.wav"
     },
     {
         "id": "M3030_S0040_G0040_001_pascal",
@@ -33,7 +35,8 @@
         "id": "M3030_S0040_G0050_001_a2",
         "jp": "どうしたんだ！？",
         "en": "What happened!?",
-        "ru": "Что произошло?!"
+        "ru": "Что произошло?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/433.wav"
     },
     {
         "id": "M3030_S0040_G0060_001_pascal",
@@ -45,55 +48,64 @@
         "id": "M3030_S0040_G0070_001_pascal",
         "jp": "いきなり一部の村人達が暴走して……",
         "en": "Some of the villagers suddenly went mad.",
-        "ru": "Несколько жителей внезапно сошли с ума."
+        "ru": "Несколько жителей внезапно сошли с ума.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/502.wav"
     },
     {
         "id": "M3030_S0040_G0080_001_pascal",
         "jp": "仲間を襲い始めたのです。",
         "en": "They began attacking their friends.",
-        "ru": "Они начали нападать на своих друзей."
+        "ru": "Они начали нападать на своих друзей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/503.wav"
     },
     {
         "id": "M3030_S0040_G0090_001_pascal",
         "jp": "子供達だけは別の場所に逃がしたのですが、",
         "en": "I managed to help the children flee to safety.",
-        "ru": "Мне удалось перевезти детей в безопасное место."
+        "ru": "Мне удалось перевезти детей в безопасное место.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/504.wav"
     },
     {
         "id": "M3030_S0040_G0100_001_pascal",
         "jp": "他の村人は……",
         "en": "But I fear everyone else is...",
-        "ru": "Но боюсь, все остальные здесь..."
+        "ru": "Но боюсь, все остальные здесь...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/505.wav"
     },
     {
         "id": "M3030_S0040_G0110_001_a2",
         "jp": "このままだとお前も食われるぞ！",
         "en": "You need to get out of here before you're next.",
-        "ru": "Тебе нужно убираться отсюда, чтобы не стать следующим."
+        "ru": "Тебе нужно убираться отсюда, чтобы не стать следующим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/434.wav"
     },
     {
         "id": "M3030_S0040_G0120_001_a2",
         "jp": "ここはなんとかするから、先に逃げろッ！",
         "en": "Just go. Run! I'll figure out how to handle this!",
-        "ru": "Уходи. Иди же! Я постараюсь разобраться с этим!"
+        "ru": "Уходи. Иди же! Я постараюсь разобраться с этим!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/435.wav"
     },
     {
         "id": "M3030_S0040_G0130_001_pascal",
         "jp": "Ａ２さんは！？",
         "en": "But what about you?",
-        "ru": "А как же ты?"
+        "ru": "А как же ты?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/506.wav"
     },
     {
         "id": "M3030_S0040_G0140_001_a2",
         "jp": "こんな雑魚共にやられる訳ないだろう！",
         "en": "These guys can't touch me.",
-        "ru": "Им со мной не справиться."
+        "ru": "Им со мной не справиться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/436.wav"
     },
     {
         "id": "M3030_S0040_G0150_001_a2",
         "jp": "さっさと行けッ！！",
         "en": "Now move your ass!",
-        "ru": "А теперь вали уже!"
+        "ru": "А теперь вали уже!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/437.wav"
     },
     {
         "id": "M3030_S0040_G0160_001_pascal",
@@ -111,19 +123,22 @@
         "id": "M3030_S0040_G0180_001_a2",
         "jp": "生き残っている機械生命体は？",
         "en": "Pod, scan for survivors.",
-        "ru": "Бот, просканируй наличие выживших."
+        "ru": "Бот, просканируй наличие выживших.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/439.wav"
     },
     {
         "id": "M3030_S0040_G0190_001_pod042",
         "jp": "存在しない。全て機能停止している。",
         "en": "Scanning. No life signs detected.",
-        "ru": "Сканирую. Выживших не обнаружено."
+        "ru": "Сканирую. Выживших не обнаружено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/828.wav"
     },
     {
         "id": "M3030_S0040_G0200_001_a2",
         "jp": "そうか……",
         "en": "None, huh...?",
-        "ru": "Ни одного, да?.."
+        "ru": "Ни одного, да?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/440.wav"
     },
     {
         "id": "M3030_S0040_G0210_001_a2",
@@ -141,13 +156,15 @@
         "id": "M3030_S0040_G0230_001_pascal",
         "jp": "村は、村の皆はどうなりましたか？",
         "en": "How is my village? My people?",
-        "ru": "Что с деревней? Как мой народ?"
+        "ru": "Что с деревней? Как мой народ?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/509.wav"
     },
     {
         "id": "M3030_S0040_G0240_001_a2",
         "jp": "すまない……ダメだった。",
         "en": "I'm sorry. I couldn't help them.",
-        "ru": "Сожалею. Я не смогла им помочь."
+        "ru": "Сожалею. Я не смогла им помочь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/442.wav"
     },
     {
         "id": "M3030_S0040_G0250_001_pascal",
@@ -159,13 +176,15 @@
         "id": "M3030_S0040_G0260_001_a2",
         "jp": "子供達は、大丈夫か？",
         "en": "Are the children all right?",
-        "ru": "Дети в порядке?"
+        "ru": "Дети в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/443.wav"
     },
     {
         "id": "M3030_S0040_G0270_001_pascal",
         "jp": "廃工場跡地に避難させています。",
         "en": "I've taken them to the abandoned factory.",
-        "ru": "Я забрал их на заброшенную фабрику."
+        "ru": "Я забрал их на заброшенную фабрику.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/511.wav"
     },
     {
         "id": "M3030_S0040_G0280_001_a2",
@@ -177,18 +196,21 @@
         "id": "M3030_S0040_G0161_300_a2",
         "jp": "ここを放っておく訳にはいかない……",
         "en": "I can't leave this village to fend for itself.",
-        "ru": "Я не могу оставить деревню на произвол судьбы."
+        "ru": "Я не могу оставить деревню на произвол судьбы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/429.wav"
     },
     {
         "id": "M3030_S0040_G0161_300_a2",
         "jp": "ここを放っておく訳にはいかない……",
         "en": "I can't leave this village to fend for itself.",
-        "ru": "Я не могу оставить деревню на произвол судьбы."
+        "ru": "Я не могу оставить деревню на произвол судьбы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/429.wav"
     },
     {
         "id": "M3030_S0040_G0161_300_a2",
         "jp": "ここを放っておく訳にはいかない……",
         "en": "I can't leave this village to fend for itself.",
-        "ru": "Я не могу оставить деревню на произвол судьбы."
+        "ru": "Я не могу оставить деревню на произвол судьбы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/429.wav"
     }
 ]

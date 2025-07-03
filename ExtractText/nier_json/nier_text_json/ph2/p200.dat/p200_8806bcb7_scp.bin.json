@@ -9,19 +9,22 @@
         "id": "M1080_S0070_G0310_300_n02",
         "jp": "君達もカミになるのだー！",
         "en": "You shall also become gods!",
-        "ru": "Вы тоже должны стать богами!"
+        "ru": "Вы тоже должны стать богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/973.wav"
     },
     {
         "id": "M1080_S0070_G0320_300_n02",
         "jp": "皆で死んで、カミになる！",
         "en": "Everyone shall die and become gods!",
-        "ru": "Все должны умереть и стать богами!"
+        "ru": "Все должны умереть и стать богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/974.wav"
     },
     {
         "id": "M1080_S0070_G0330_300_n02",
         "jp": "カミ！カミ！カミ！カミ！カミ！カミ！",
         "en": "Gods! Gods! Gods! Gods! Gods!",
-        "ru": "Богами! Богами! Богами! Богами! Богами!"
+        "ru": "Богами! Богами! Богами! Богами! Богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/975.wav"
     },
     {
         "id": "M1080_S0070_G0340_300_n02",
@@ -33,7 +36,8 @@
         "id": "M1080_S0070_G0350_300_n02",
         "jp": "機械！人！アンドロイド！皆まとめてカミになるのだー！",
         "en": "Machines! People! Androids! Every one of them, a god!",
-        "ru": "Машины! Люди! Андроиды! Каждый из них бог!"
+        "ru": "Машины! Люди! Андроиды! Каждый из них бог!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/977.wav"
     },
     {
         "id": "M1080_S0070_G0360_300_n02",
@@ -45,7 +49,8 @@
         "id": "M1080_S0070_G0370_300_n02",
         "jp": "カミになれるというのに！",
         "en": "Don't you see? You can become gods now!",
-        "ru": "Разве вы не понимаете? Теперь и вы сможете стать богами!"
+        "ru": "Разве вы не понимаете? Теперь и вы сможете стать богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/979.wav"
     },
     {
         "id": "M1080_S0070_G0380_300_n02",
@@ -57,25 +62,29 @@
         "id": "M1080_S0070_G0400_300_n02",
         "jp": "嫌だ、お願いだどうか殺さないでくれ……",
         "en": "No! Please don't kill me!",
-        "ru": "Нет! Пожалуйста, не убивайте меня!"
+        "ru": "Нет! Пожалуйста, не убивайте меня!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/981.wav"
     },
     {
         "id": "M1080_S0070_G0410_300_n02",
         "jp": "喜べ！君達は選ばれた！",
         "en": "Rejoice! You have all been chosen!",
-        "ru": "Возрадуйтесь! Вы все были избраны!"
+        "ru": "Возрадуйтесь! Вы все были избраны!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/982.wav"
     },
     {
         "id": "M1080_S0070_G0420_300_n02",
         "jp": "死んでカミになれるのだ！",
         "en": "With your death, you will become gods!",
-        "ru": "Умерев, вы станете богами!"
+        "ru": "Умерев, вы станете богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/983.wav"
     },
     {
         "id": "M1080_S0070_G0430_300_n02",
         "jp": "誰か、誰か助けて……",
         "en": "Somebody help us!",
-        "ru": "Кто-нибудь, помогите нам!"
+        "ru": "Кто-нибудь, помогите нам!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/984.wav"
     },
     {
         "id": "M1080_S0070_G0450_300_osoware",

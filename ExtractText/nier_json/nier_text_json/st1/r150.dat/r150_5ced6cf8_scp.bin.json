@@ -63,7 +63,8 @@
         "id": "M1020_S0010_G0260_001_resi",
         "jp": "ああ、君達か。",
         "en": "Hey, welcome back!",
-        "ru": "Эй, с возвращением!"
+        "ru": "Эй, с возвращением!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/679.wav"
     },
     {
         "id": "M1020_S0010_G0270_001_resi",
@@ -75,7 +76,8 @@
         "id": "M1020_S0010_G0280_001_resi",
         "jp": "つまらないモノだけど、これをお礼に取っておいてくれ。",
         "en": "I know it isn't much, but please take this. It's the least I can do.",
-        "ru": "Я знаю, что это не много, но прошу, возьмите. Это меньшее, что я могу сделать."
+        "ru": "Я знаю, что это не много, но прошу, возьмите. Это меньшее, что я могу сделать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/681.wav"
     },
     {
         "id": "M1020_S0010_G0290_001_resi",
@@ -87,7 +89,8 @@
         "id": "M1020_S0010_G0300_001_resi",
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
-        "ru": "Чем я могу помочь?"
+        "ru": "Чем я могу помочь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
     },
     {
         "id": "M6030_S0010_G0180_300_sp",
@@ -129,7 +132,8 @@
         "id": "M1020_S0010_G0160_001_resi",
         "jp": "ああ、君達がヨルハか。話は聞いてるよ。",
         "en": "You're from YoRHa, right? I've heard about you guys.",
-        "ru": "Вы из YoRHa, верно? Я слышал о вас, ребята."
+        "ru": "Вы из YoRHa, верно? Я слышал о вас, ребята.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/666.wav"
     },
     {
         "id": "M1020_S0010_G0170_001_resi",
@@ -141,31 +145,36 @@
         "id": "M1020_S0010_G0180_001_resi",
         "jp": "ただ、砂漠地帯には補給する場所が無い。",
         "en": "Just remember that there's nowhere to resupply out there.",
-        "ru": "Просто запомните, что там негде пополнить запасы."
+        "ru": "Просто запомните, что там негде пополнить запасы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/668.wav"
     },
     {
         "id": "M1020_S0010_G0190_001_resi",
         "jp": "何か必要だったらここで交換していった方がいいな。",
         "en": "If you need anything, best to take care of it here while you can.",
-        "ru": "Если вам что-нибудь нужно, лучше позаботьтесь об этом здесь, пока можете."
+        "ru": "Если вам что-нибудь нужно, лучше позаботьтесь об этом здесь, пока можете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/669.wav"
     },
     {
         "id": "M1020_S0010_G0300_001_resi",
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
-        "ru": "Чем я могу помочь?"
+        "ru": "Чем я могу помочь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
     },
     {
         "id": "M1020_S0010_G0300_001_resi",
         "jp": "何か交換していくかい？",
         "en": "What can I help you with?",
-        "ru": "Чем я могу помочь?"
+        "ru": "Чем я могу помочь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav"
     },
     {
         "id": "M1020_S0010_G0120_001_resi",
         "jp": "最近、このあたりは物騒でね……",
         "en": "Things have been dangerous around here lately.",
-        "ru": "В последнее время в округе стало опасно."
+        "ru": "В последнее время в округе стало опасно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/662.wav"
     },
     {
         "id": "M6033_S0013_G0414_300_js",
@@ -267,19 +276,22 @@
         "id": "M1020_S0010_G0130_001_resi",
         "jp": "この前も私達の仲間が敵に襲われた。",
         "en": "One of our teams came under attack just the other day.",
-        "ru": "На днях одна из наших групп подверглась нападению."
+        "ru": "На днях одна из наших групп подверглась нападению.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/663.wav"
     },
     {
         "id": "M1020_S0010_G0140_001_resi",
         "jp": "これからどうなるのか心配で……",
         "en": "Who knows what'll happen to us next?",
-        "ru": "Кто знает, что с нами будет дальше?"
+        "ru": "Кто знает, что с нами будет дальше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/664.wav"
     },
     {
         "id": "M1020_S0010_G0150_001_resi",
         "jp": "砂漠は足を取られやすいから、気をつけてね。",
         "en": "You jerks be careful in the desert, yeah? Folks die out there.",
-        "ru": "Болваны, в пустыне нужно быть осторожнее, поняли? Там, между прочим, многие умирают."
+        "ru": "Болваны, в пустыне нужно быть осторожнее, поняли? Там, между прочим, многие умирают.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/665.wav"
     },
     {
         "id": "M5150_S0030_G0080_001_ys",

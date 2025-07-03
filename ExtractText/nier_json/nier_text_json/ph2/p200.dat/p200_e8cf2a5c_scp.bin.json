@@ -9,18 +9,21 @@
         "id": "M1060_S0150_G0010_201_pod153",
         "jp": "警告：障害物に注意。",
         "en": "Alert: Obstacle ahead.",
-        "ru": "Внимание: впереди препятствие."
+        "ru": "Внимание: впереди препятствие.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/196.wav"
     },
     {
         "id": "M1060_S0150_G0020_201_pod153",
         "jp": "接触すると重大な事故に繋がる恐れ。",
         "en": "A collision at this speed is not recommended.",
-        "ru": "На такой скорости столкновение не рекомендуется."
+        "ru": "На такой скорости столкновение не рекомендуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/197.wav"
     },
     {
         "id": "M1060_S0150_G0030_201_a9s",
         "jp": "判ってるって！",
         "en": "Well aware, thank you!",
-        "ru": "Это и так понятно, огромное спасибо!"
+        "ru": "Это и так понятно, огромное спасибо!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1461.wav"
     }
 ]

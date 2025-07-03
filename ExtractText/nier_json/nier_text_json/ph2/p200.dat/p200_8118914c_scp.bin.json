@@ -3,19 +3,22 @@
         "id": "M1090_S0280_G0000_101_a2b",
         "jp": "ハッキング中の９Ｓ本体を防衛するっ！",
         "en": "Protecting unit 9S while he hacks the system!",
-        "ru": "Защищаю единицу 9S, пока он взламывает систему!"
+        "ru": "Защищаю единицу 9S, пока он взламывает систему!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/711.wav"
     },
     {
         "id": "M1090_S0280_G0010_101_pod042",
         "jp": "敵個体が接続されているネットワークは膨大",
         "en": "The enemy is connected to a vast network.",
-        "ru": "Враг подключён к обширной сети."
+        "ru": "Враг подключён к обширной сети.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/706.wav"
     },
     {
         "id": "M1090_S0280_G0020_101_pod042",
         "jp": "予測：９Ｓのハッキング成功確率は低い。",
         "en": "Analysis: The actions of unit 9S have an unacceptably low probability of success.",
-        "ru": "Анализ: действия единицы 9S имеют неприемлемо низкую вероятность успеха."
+        "ru": "Анализ: действия единицы 9S имеют неприемлемо низкую вероятность успеха.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/707.wav"
     },
     {
         "id": "M1090_S0280_G0030_101_pod042",
@@ -33,12 +36,14 @@
         "id": "M1090_S0280_G0050_101_a2b",
         "jp": "９Ｓがやれるって言ったら……やれるんだ！",
         "en": "If 9S says he can do it, then he will!",
-        "ru": "Если 9S сказал, что сможет, значит он справится!"
+        "ru": "Если 9S сказал, что сможет, значит он справится!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/713.wav"
     },
     {
         "id": "M1090_S0280_G0060_101_pod042",
         "jp": "敵個体のネットワーク機能切断を確認。",
         "en": "Enemy unit cut off from network functionality.",
-        "ru": "Вражеская единица отключена от функционала сети."
+        "ru": "Вражеская единица отключена от функционала сети.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/709.wav"
     }
 ]

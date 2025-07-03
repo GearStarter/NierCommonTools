@@ -51,7 +51,8 @@
         "id": "M5092_S0020_G0070_001_robomaskrece",
         "jp": "よしわかった。",
         "en": "Very well.",
-        "ru": "Очень хорошо."
+        "ru": "Очень хорошо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/940.wav"
     },
     {
         "id": "M5092_S0020_G0075_001_robomaskrece",
@@ -135,7 +136,8 @@
         "id": "M5092_S0030_G0000_001_robomaskmode",
         "jp": "掟６１２８４に従い「自らの力のみで」切り抜けよ！",
         "en": "Know that you must \"rely on your own strength\", as is demanded by Rule 61,284.",
-        "ru": "Знайте, что вы должны \"полагаться на свою силу\", как требует правило 61284."
+        "ru": "Знайте, что вы должны \"полагаться на свою силу\", как требует правило 61284.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/167.wav"
     },
     {
         "id": "M5092_S0030_G0005_001_robomaskmode",
@@ -177,7 +179,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -201,19 +204,22 @@
         "id": "M5092_S0030_G0091_001_robomaskmode",
         "jp": "そうだ、「逃ゲル事ナク闘ウベシ！」",
         "en": "Oh yes! \"Fight without evading!\"",
-        "ru": "О да! \"Сражение без уклонений\"!"
+        "ru": "О да! \"Сражение без уклонений\"!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/175.wav"
     },
     {
         "id": "M5092_S0030_G0095_001_robomaskmode",
         "jp": "それでは、試練スタート！",
         "en": "Let the trial begin!",
-        "ru": "Давайте начнём испытание!"
+        "ru": "Давайте начнём испытание!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/176.wav"
     },
     {
         "id": "M5092_S0030_G0100_001_robomaskmode",
         "jp": "試練２ヲ見事突破シタ事ヲ認メマス！",
         "en": "I hereby declare you victorious over the second trial.",
-        "ru": "Таким образом, я объявляю вашу победу во втором испытании."
+        "ru": "Таким образом, я объявляю вашу победу во втором испытании.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/177.wav"
     },
     {
         "id": "M5092_S0030_G0110_001_robomaskrece",
@@ -237,7 +243,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -267,13 +274,15 @@
         "id": "M5092_S0030_G0150_001_robomaskmode",
         "jp": "見事デス！",
         "en": "Most impressive!",
-        "ru": "Довольно впечатляюще!"
+        "ru": "Довольно впечатляюще!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/180.wav"
     },
     {
         "id": "M5092_S0030_G0151_001_robomaskmode",
         "jp": "掟６１５１２に従い、試練３を突破したと認メマス！",
         "en": "In accordance with Rule 61,512, I hereby declare you victorious over the third trial!",
-        "ru": "Таким образом, в соответствии с правилом 61512, я объявляю вашу победу на третьем испытании."
+        "ru": "Таким образом, в соответствии с правилом 61512, я объявляю вашу победу на третьем испытании.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/181.wav"
     },
     {
         "id": "M5092_S0030_G0160_001_robomaskrece",
@@ -297,7 +306,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -321,7 +331,8 @@
         "id": "M5092_S0030_G0191_001_robomaskmode",
         "jp": "気を抜カズニ……では、始メ！",
         "en": "Whether in or out of the arena, you must not let your guard down. Now begin!",
-        "ru": "Входя на арену или уходя с неё, вы не должны ослаблять бдительность. А теперь, начали!"
+        "ru": "Входя на арену или уходя с неё, вы не должны ослаблять бдительность. А теперь, начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/183.wav"
     },
     {
         "id": "M5092_S0030_G0200_001_robomaskmode",
@@ -357,7 +368,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -381,7 +393,8 @@
         "id": "M5092_S0030_G0251_001_robomaskmode",
         "jp": "この掟は理不尽ダナ……でも、始メ！",
         "en": "A bit of an unfair rule, I'd say... But BEGIN!",
-        "ru": "Немного несправедливое правило, я считаю... НАЧАЛИ!"
+        "ru": "Немного несправедливое правило, я считаю... НАЧАЛИ!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/186.wav"
     },
     {
         "id": "M5092_S0030_G0270_001_robomaskmode",
@@ -411,7 +424,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -435,19 +449,22 @@
         "id": "M5092_S0030_G0311_001_robomaskmode",
         "jp": "ここは難関……どうか、ご武運を！",
         "en": "Good fighting to you!",
-        "ru": "Хорошее сражение!"
+        "ru": "Хорошее сражение!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/191.wav"
     },
     {
         "id": "M5092_S0030_G0320_001_robomaskmode",
         "jp": "なんと、突破するとは！",
         "en": "Magnificent! The trial is complete!",
-        "ru": "Изумительно! Испытание завершено!"
+        "ru": "Изумительно! Испытание завершено!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/192.wav"
     },
     {
         "id": "M5092_S0030_G0321_001_robomaskmode",
         "jp": "掟６５１２３により汝を最終試練の勝者とシマス！",
         "en": "As per the stipulations of Rule 65,123, I declare you victorious over the final trial!",
-        "ru": "В соответствии с правилом 65123, я объявляю вашу победу в финальном испытании."
+        "ru": "В соответствии с правилом 65123, я объявляю вашу победу в финальном испытании.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/193.wav"
     },
     {
         "id": "M5092_S0040_G0000_001_robomaskrece",
@@ -525,7 +542,8 @@
         "id": "M5092_S0030_G0070_001_robomaskmode",
         "jp": "始めッ！",
         "en": "Begin!",
-        "ru": "Начали!"
+        "ru": "Начали!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
     },
     {
         "id": "M5092_S0030_G0080_001_robomaskmode",
@@ -675,7 +693,8 @@
         "id": "M5092_S0030_G0010_300_robomaskmode",
         "jp": "掟６１４４６に従い、試練失敗とする。",
         "en": "In accordance with Rule 61,446, I hereby declare you to have failed the trial.",
-        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание."
+        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/170.wav"
     },
     {
         "id": "M5092_S0030_G0020_300_robomaskrece",
@@ -687,7 +706,8 @@
         "id": "M5092_S0030_G0010_300_robomaskmode",
         "jp": "掟６１４４６に従い、試練失敗とする。",
         "en": "In accordance with Rule 61,446, I hereby declare you to have failed the trial.",
-        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание."
+        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/170.wav"
     },
     {
         "id": "M5092_S0060_G0025_001_robomaskrece",

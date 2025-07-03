@@ -3,19 +3,22 @@
         "id": "M3000_S0730_G0000_001_a9s",
         "jp": "２Ｂのブラックボックス信号を検索！",
         "en": "Where the hell is 2B!?",
-        "ru": "Где, чёрт возьми, 2B?!"
+        "ru": "Где, чёрт возьми, 2B?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1725.wav"
     },
     {
         "id": "M3000_S0730_G0010_001_pod153",
         "jp": "２Ｂのブラックボックス信号を検知。",
         "en": "Scanning. Black box signal located.",
-        "ru": "Сканирую. Обнаружен сигнал чёрного ящика."
+        "ru": "Сканирую. Обнаружен сигнал чёрного ящика.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/245.wav"
     },
     {
         "id": "M3000_S0730_G0020_001_a9s",
         "jp": "地図にマーク！",
         "en": "Put it on the map!",
-        "ru": "Отметь на карте!"
+        "ru": "Отметь на карте!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1726.wav"
     },
     {
         "id": "M3000_S0730_G0030_001_pod153",
@@ -27,7 +30,8 @@
         "id": "M3000_S0730_G0040_001_pod153",
         "jp": "地下の構造が不安定になっている模様。",
         "en": "Underground soil structure is no longer stable.",
-        "ru": "Подземная структура поверхности нестабильна."
+        "ru": "Подземная структура поверхности нестабильна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/249.wav"
     },
     {
         "id": "M3000_S0730_G0050_001_pod153",
@@ -39,19 +43,22 @@
         "id": "M3000_S0730_G0060_001_pod153",
         "jp": "推奨：早急な離脱。",
         "en": "Proposal: Evacuate immediately.",
-        "ru": "Предложение: немедленно эвакуируйтесь."
+        "ru": "Предложение: немедленно эвакуируйтесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/251.wav"
     },
     {
         "id": "M3000_S0730_G0070_001_a9s",
         "jp": "離脱なんかする訳ないだろうッ！",
         "en": "I'm not going anywhere!",
-        "ru": "Я никуда не уйду!"
+        "ru": "Я никуда не уйду!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1727.wav"
     },
     {
         "id": "M3000_S0730_G0025_300_pod153",
         "jp": "推奨：２Ｂとの合流地点へ移動。",
         "en": "Proposal: Proceed to rendezvous point with 2B.",
-        "ru": "Предложение: следуйте к месту встречи с 2B."
+        "ru": "Предложение: следуйте к месту встречи с 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/246.wav"
     },
     {
         "id": "M3000_S0730_G0026_300_pod153",

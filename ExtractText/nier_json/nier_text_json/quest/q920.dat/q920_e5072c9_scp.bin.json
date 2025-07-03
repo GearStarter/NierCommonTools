@@ -45,19 +45,22 @@
         "id": "M5920_S0080_G0150_001_eml",
         "jp": "……ドロボウさんは、アナタだったんですね！",
         "en": "...So you were the bandit all along!?",
-        "ru": "...Так всё это время вы были бандитами?!"
+        "ru": "...Так всё это время вы были бандитами?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1085.wav"
     },
     {
         "id": "M5920_S0080_G0160_001_eml",
         "jp": "親しき仲にも礼儀アリ……オシオキします！",
         "en": "You may be a cherished companion of mine, but you still must be punished!",
-        "ru": "Может вы и дорогие мне товарищи, но вы всё равно должны быть наказаны."
+        "ru": "Может вы и дорогие мне товарищи, но вы всё равно должны быть наказаны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1086.wav"
     },
     {
         "id": "M5920_S0080_G0200_001_eml",
         "jp": "僕の負けです……残酷な実力社会です……",
         "en": "I lost... I guess power's the only thing that counts in this world anymore, huh?",
-        "ru": "Я проиграл... Полагаю, сила — единственная вещь, с которой считаются в этом мире, да?"
+        "ru": "Я проиграл... Полагаю, сила — единственная вещь, с которой считаются в этом мире, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1090.wav"
     },
     {
         "id": "M5920_S0080_G0210_001_eml",
@@ -81,13 +84,15 @@
         "id": "M5920_S0080_G0190_001_eml",
         "jp": "いいでしょう。ケシズミに変えてあげます！",
         "en": "So be it. You'll be a pile of ash by the time I'm done with you!",
-        "ru": "Так и быть. Вы обратитесь в пепел, после того как я с вами закончу!"
+        "ru": "Так и быть. Вы обратитесь в пепел, после того как я с вами закончу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1089.wav"
     },
     {
         "id": "M5920_S0080_G0200_001_eml",
         "jp": "僕の負けです……残酷な実力社会です……",
         "en": "I lost... I guess power's the only thing that counts in this world anymore, huh?",
-        "ru": "Я проиграл... Полагаю, сила — единственная вещь, с которой считаются в этом мире, да?"
+        "ru": "Я проиграл... Полагаю, сила — единственная вещь, с которой считаются в этом мире, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1090.wav"
     },
     {
         "id": "M5920_S0080_G0210_001_eml",

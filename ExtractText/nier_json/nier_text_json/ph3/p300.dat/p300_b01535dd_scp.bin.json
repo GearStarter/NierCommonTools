@@ -9,13 +9,15 @@
         "id": "M3030_S0110_G0130_001_pascal",
         "jp": "一体、どうして私達が狙われるんでしょう……",
         "en": "Why are they coming after us? Why!?",
-        "ru": "Почему они преследуют нас? Почему?!"
+        "ru": "Почему они преследуют нас? Почему?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/530.wav"
     },
     {
         "id": "M3030_S0110_G0140_001_a2",
         "jp": "考えるのは後回しだ。",
         "en": "We can sort it out later.",
-        "ru": "Обсудим это позже."
+        "ru": "Обсудим это позже.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/460.wav"
     },
     {
         "id": "M3030_S0110_G0150_001_a2",
@@ -27,19 +29,22 @@
         "id": "M3030_S0120_G0000_001_a2",
         "jp": "これじゃあ……キリがないぞ！",
         "en": "These bastards won't stop!",
-        "ru": "Эти ублюдки всё прут и прут!"
+        "ru": "Эти ублюдки всё прут и прут!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/462.wav"
     },
     {
         "id": "M3030_S0120_G0010_001_pascal",
         "jp": "……Ａ２さん、私に考えがあります。",
         "en": "...A2? I have an idea.",
-        "ru": "...A2? У меня есть идея."
+        "ru": "...A2? У меня есть идея.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/531.wav"
     },
     {
         "id": "M3030_S0120_G0020_001_pascal",
         "jp": "しばらく時間を稼いでいてください！",
         "en": "Please buy me a bit of time!",
-        "ru": "Выиграй мне немного времени!"
+        "ru": "Выиграй мне немного времени!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/532.wav"
     },
     {
         "id": "M3030_S0120_G0030_001_a2",

@@ -15,37 +15,43 @@
         "id": "M1040_S0570_G0080_001_adam",
         "jp": "私の名前はアダム。",
         "en": "My name is Adam.",
-        "ru": "Меня зовут Адам."
+        "ru": "Меня зовут Адам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav"
     },
     {
         "id": "M1040_S0570_G0090_001_adam",
         "jp": "君達アンドロイドが探しているエイリアンは、もういない。",
         "en": "The aliens you seek are no longer here.",
-        "ru": "Пришельцев, которых вы ищете, здесь больше нет."
+        "ru": "Пришельцев, которых вы ищете, здесь больше нет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/679.wav"
     },
     {
         "id": "M1040_S0570_G0100_001_adam",
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
-        "ru": "Они были уничтожены уже несколько веков назад."
+        "ru": "Они были уничтожены уже несколько веков назад.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
         "jp": "私達、機械生命体が絶滅させた。",
         "en": "...By us. The machines.",
-        "ru": "...Нами. Машинами."
+        "ru": "...Нами. Машинами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/681.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0040_001_eve",
@@ -57,13 +63,15 @@
         "id": "M1040_S0570_G0050_001_adam",
         "jp": "イヴ。落ち着け。",
         "en": "Relax, Eve.",
-        "ru": "Спокойней, Ева."
+        "ru": "Спокойней, Ева.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/676.wav"
     },
     {
         "id": "M1040_S0570_G0060_001_adam",
         "jp": "まだ話は終わっていない。",
         "en": "We're still negotiating here.",
-        "ru": "Мы все ещё на стадии переговоров."
+        "ru": "Мы все ещё на стадии переговоров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/677.wav"
     },
     {
         "id": "M1040_S0570_G0070_001_eve",
@@ -81,133 +89,155 @@
         "id": "M1040_S0570_G0030_001_adam",
         "jp": "ゆっくり話を聞いてもらいたいね。",
         "en": "Perhaps we can discuss our current situation.",
-        "ru": "Возможно, мы сумеем обсудить текущее положение дел."
+        "ru": "Возможно, мы сумеем обсудить текущее положение дел.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/675.wav"
     },
     {
         "id": "M1040_S0570_G0080_001_adam",
         "jp": "私の名前はアダム。",
         "en": "My name is Adam.",
-        "ru": "Меня зовут Адам."
+        "ru": "Меня зовут Адам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/678.wav"
     },
     {
         "id": "M1040_S0570_G0090_001_adam",
         "jp": "君達アンドロイドが探しているエイリアンは、もういない。",
         "en": "The aliens you seek are no longer here.",
-        "ru": "Пришельцев, которых вы ищете, здесь больше нет."
+        "ru": "Пришельцев, которых вы ищете, здесь больше нет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/679.wav"
     },
     {
         "id": "M1040_S0570_G0100_001_adam",
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
-        "ru": "Они были уничтожены уже несколько веков назад."
+        "ru": "Они были уничтожены уже несколько веков назад.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
         "jp": "私達、機械生命体が絶滅させた。",
         "en": "...By us. The machines.",
-        "ru": "...Нами. Машинами."
+        "ru": "...Нами. Машинами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/681.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0090_001_adam",
         "jp": "君達アンドロイドが探しているエイリアンは、もういない。",
         "en": "The aliens you seek are no longer here.",
-        "ru": "Пришельцев, которых вы ищете, здесь больше нет."
+        "ru": "Пришельцев, которых вы ищете, здесь больше нет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/679.wav"
     },
     {
         "id": "M1040_S0570_G0100_001_adam",
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
-        "ru": "Они были уничтожены уже несколько веков назад."
+        "ru": "Они были уничтожены уже несколько веков назад.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
         "jp": "私達、機械生命体が絶滅させた。",
         "en": "...By us. The machines.",
-        "ru": "...Нами. Машинами."
+        "ru": "...Нами. Машинами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/681.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0100_001_adam",
         "jp": "何百年も前にこいつらは……",
         "en": "They were wiped out centuries ago.",
-        "ru": "Они были уничтожены уже несколько веков назад."
+        "ru": "Они были уничтожены уже несколько веков назад.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/680.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
         "jp": "私達、機械生命体が絶滅させた。",
         "en": "...By us. The machines.",
-        "ru": "...Нами. Машинами."
+        "ru": "...Нами. Машинами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/681.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0110_001_adam",
         "jp": "私達、機械生命体が絶滅させた。",
         "en": "...By us. The machines.",
-        "ru": "...Нами. Машинами."
+        "ru": "...Нами. Машинами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/681.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0120_001_a2b",
         "jp": "絶滅……させた？",
         "en": "Wiped out?",
-        "ru": "Уничтожены?"
+        "ru": "Уничтожены?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/536.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0130_001_adam",
         "jp": "今度絶滅するのは……君達アンドロイドかな……？",
         "en": "And who knows? Perhaps we'll wipe out the androids next.",
-        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов."
+        "ru": "И как знать? Быть может, следующими мы уничтожим андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/682.wav"
     },
     {
         "id": "M1040_S0570_G0140_001_adam",
@@ -219,25 +249,29 @@
         "id": "M1040_S0570_G0150_001_adam",
         "jp": "ネットワークの上に芽生えた知性が、創造主のそれを凌駕するのに、",
         "en": "Eventually, the intelligence within our network began to surpass that of our creators.",
-        "ru": "В итоге, интеллект, который скапливался в нашей сети, стал превосходить интеллект наших создателей."
+        "ru": "В итоге, интеллект, который скапливался в нашей сети, стал превосходить интеллект наших создателей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/684.wav"
     },
     {
         "id": "M1040_S0570_G0160_001_adam",
         "jp": "大して時間は必要としなかった。",
         "en": "You'd probably be surprised at how quickly it happened.",
-        "ru": "Вы, должно быть, удивлены, насколько быстро мы достигли таких результатов."
+        "ru": "Вы, должно быть, удивлены, насколько быстро мы достигли таких результатов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/685.wav"
     },
     {
         "id": "M1040_S0570_G0170_001_a9s",
         "jp": "自分達の創造主を倒すなんて……",
         "en": "You destroyed your own creators!?",
-        "ru": "Вы уничтожили своих создателей?!"
+        "ru": "Вы уничтожили своих создателей?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1319.wav"
     },
     {
         "id": "M1040_S0570_G0180_001_adam",
         "jp": "いいんだよ、こんな奴ら。",
         "en": "Oh, there's no need to fret about them.",
-        "ru": "О, не нужно о них беспокоиться."
+        "ru": "О, не нужно о них беспокоиться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/686.wav"
     },
     {
         "id": "M1040_S0570_G0190_001_adam",
@@ -249,103 +283,120 @@
         "id": "M1040_S0570_G0200_001_adam",
         "jp": "価値なんか無い。",
         "en": "They held no value to us.",
-        "ru": "Они были бесполезны для нас."
+        "ru": "Они были бесполезны для нас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/688.wav"
     },
     {
         "id": "M1040_S0570_G0210_001_adam",
         "jp": "私達が興味あるのは……月にいる人類。",
         "en": "But the humans on the moon? Now THEY are interesting.",
-        "ru": "Но вот люди на Луне? ОНИ очень интересные."
+        "ru": "Но вот люди на Луне? ОНИ очень интересные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/689.wav"
     },
     {
         "id": "M1040_S0570_G0220_001_a2b",
         "jp": "人類！？",
         "en": "Why them?",
-        "ru": "Почему они?"
+        "ru": "Почему они?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/537.wav"
     },
     {
         "id": "M1040_S0570_G0230_001_adam",
         "jp": "そうだ……人間は魅力的だ……理解不能だよ。",
         "en": "Because they are an enigma!",
-        "ru": "Потому, что они загадочны!"
+        "ru": "Потому, что они загадочны!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/690.wav"
     },
     {
         "id": "M1040_S0570_G0240_001_adam",
         "jp": "記録によると、同じ種族で大量に殺しあったり、愛しあったり……",
         "en": "They killed uncountable numbers of their own kind, and yet loved in equal measure!",
-        "ru": "Они убивали бессчётное количество себе подобных, и, при этом, способны любить в той же мере!"
+        "ru": "Они убивали бессчётное количество себе подобных, и, при этом, способны любить в той же мере!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/691.wav"
     },
     {
         "id": "M1040_S0570_G0250_001_adam",
         "jp": "その行動原理は目を見張る不可解さだ。",
         "en": "It's fascinating, don't you think? What could possibly drive such behavior?",
-        "ru": "Согласитесь, ну разве это не потрясающе? Как можно понять такое?"
+        "ru": "Согласитесь, ну разве это не потрясающе? Как можно понять такое?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/692.wav"
     },
     {
         "id": "M1040_S0570_G0260_001_adam",
         "jp": "私達は、その神秘に迫りたいんだよ。",
         "en": "We have dedicated ourselves to unraveling this riddle of humanity...",
-        "ru": "Мы посвятили себя поиску разгадки этой тайны человечества..."
+        "ru": "Мы посвятили себя поиску разгадки этой тайны человечества...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/693.wav"
     },
     {
         "id": "M1040_S0570_G0270_001_adam",
         "jp": "……だから、その模倣作品であるアンドロイドの諸君には、",
         "en": "And now we will allow you to assist us.",
-        "ru": "И теперь мы позволим вам помочь нам."
+        "ru": "И теперь мы позволим вам помочь нам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/694.wav"
     },
     {
         "id": "M1040_S0570_G0280_001_adam",
         "jp": "調査を手伝ってもらいたいと思ってる。",
         "en": "You were made in their image, after all.",
-        "ru": "Всё-таки, вы были созданы по их образу и подобию."
+        "ru": "Всё-таки, вы были созданы по их образу и подобию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/695.wav"
     },
     {
         "id": "M1040_S0570_G0290_001_a2b",
         "jp": "手伝う？",
         "en": "Assist you with what?",
-        "ru": "Помочь вам с чем?"
+        "ru": "Помочь вам с чем?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/538.wav"
     },
     {
         "id": "M1040_S0570_G0300_001_adam",
         "jp": "そうだ。",
         "en": "It's simple...",
-        "ru": "Всё просто..."
+        "ru": "Всё просто...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/696.wav"
     },
     {
         "id": "M1040_S0570_G0310_001_adam",
         "jp": "月にいる人類を引きずり下ろして……",
         "en": "We need you to locate the humans on the moon and bring them to us.",
-        "ru": "Нам нужно, чтобы вы нашли людей на Луне и привели их к нам."
+        "ru": "Нам нужно, чтобы вы нашли людей на Луне и привели их к нам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/697.wav"
     },
     {
         "id": "M1040_S0570_G0320_001_adam",
         "jp": "生きたまま分解して、分析して、その秘密の全てを暴くんだよ！",
         "en": "We will then dissect and analyze them in order to drag their secrets forth into the light!",
-        "ru": "Затем мы вскроем и изучим их, чтобы раскрыть все их тайны!"
+        "ru": "Затем мы вскроем и изучим их, чтобы раскрыть все их тайны!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/698.wav"
     },
     {
         "id": "M1040_S0570_G0330_001_adam",
         "jp": "こんな素敵な事、他にはないよねぇ？",
         "en": "Surely you see the attraction in this.",
-        "ru": "Уверен, и вы тоже извлечёте из этого пользу."
+        "ru": "Уверен, и вы тоже извлечёте из этого пользу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/699.wav"
     },
     {
         "id": "M1040_S0570_G0340_001_a9s",
         "jp": "そんな事、やらせる訳ないだろうッ！！",
         "en": "Are you insane!? We'd never do that!",
-        "ru": "Ты псих?! Мы никогда не сделаем этого!"
+        "ru": "Ты псих?! Мы никогда не сделаем этого!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1320.wav"
     },
     {
         "id": "M1040_S0570_G0350_001_a9s",
         "jp": "２B、こんな奴らに惑わされちゃダメだッ！",
         "en": "Can you believe this, 2B? This guy's bonkers!",
-        "ru": "Только послушай его, 2B? Этот парень чокнутый!"
+        "ru": "Только послушай его, 2B? Этот парень чокнутый!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1321.wav"
     },
     {
         "id": "M1040_S0570_G0360_001_adam",
         "jp": "ああ……じゃあ、交渉は決裂という訳だ。",
         "en": "Well. I suppose this concludes negotiations.",
-        "ru": "Что ж. Я полагаю, вот и завершение переговоров."
+        "ru": "Что ж. Я полагаю, вот и завершение переговоров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/700.wav"
     },
     {
         "id": "M1040_S0570_G0370_001_adam",
@@ -357,6 +408,7 @@
         "id": "M1040_S0570_G0380_001_adam",
         "jp": "ここにいる退屈な、宇宙人同様に。",
         "en": "The same way we destroyed these pathetic little aliens.",
-        "ru": "Тем же способом, каким мы уничтожили жалких ничтожных инопланетян."
+        "ru": "Тем же способом, каким мы уничтожили жалких ничтожных инопланетян.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/702.wav"
     }
 ]

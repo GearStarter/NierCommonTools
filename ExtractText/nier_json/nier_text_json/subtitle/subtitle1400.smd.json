@@ -15,19 +15,22 @@
         "id": "M5920_S1000_H0020_001_a9s",
         "jp": "司令官からの命令で、\\n２Ｂさんのメンテナンスを担当する事になったんです。",
         "en": "The Commander's put me in charge of your maintenance, ma'am.",
-        "ru": "Командор поручила мне заботиться о вашем обслуживании, мэм."
+        "ru": "Командор поручила мне заботиться о вашем обслуживании, мэм.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1106.wav"
     },
     {
         "id": "M5920_S1000_H0030_001_a9s",
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
-        "ru": "Это означает, что теперь я буду выполнять ваши регулярные проверки."
+        "ru": "Это означает, что теперь я буду выполнять ваши регулярные проверки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
     },
     {
         "id": "M5920_S1000_H0040_001_a2b",
         "jp": "この記録を聞いた者がいたら、伝えて欲しい……事がある……",
         "en": "If anyone is listening to this, there's something I need you to do.",
-        "ru": "Если кто-нибудь слушает это, я хочу, чтобы вы кое-что сделали."
+        "ru": "Если кто-нибудь слушает это, я хочу, чтобы вы кое-что сделали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1031.wav"
     },
     {
         "id": "M5920_S1000_H0050_001_a2b",
@@ -39,13 +42,15 @@
         "id": "M5920_S1000_H0060_001_a2b",
         "jp": "私は……彼に……",
         "en": "I want him... I mean...",
-        "ru": "Я хочу его... в смысле..."
+        "ru": "Я хочу его... в смысле...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1033.wav"
     },
     {
         "id": "M5920_S1000_H0070_001_adam",
         "jp": "機械生命体と、アンドロイドは同類と言えるなあ？",
         "en": "Perhaps we're not so different after all.",
-        "ru": "Всё-таки, возможно, мы не такие разные."
+        "ru": "Всё-таки, возможно, мы не такие разные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/735.wav"
     },
     {
         "id": "M5920_S1000_H0080_001_a9s",
@@ -63,19 +68,22 @@
         "id": "M5920_S1000_H0100_001_a2",
         "jp": "私達アンドロイドは、主たる人類を守るように作られている。",
         "en": "Androids were designed to protect their human masters.",
-        "ru": "Андроиды были разработаны для защиты своих создателей — людей."
+        "ru": "Андроиды были разработаны для защиты своих создателей — людей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/546.wav"
     },
     {
         "id": "M5920_S1000_H0110_001_eml",
         "jp": "無駄だとわかっていても、やらなきゃダメなんだッ！",
         "en": "Even if it's pointless, you still have to do it!",
-        "ru": "Даже если это бессмысленно, вы всё равно должны это делать!"
+        "ru": "Даже если это бессмысленно, вы всё равно должны это делать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1070.wav"
     },
     {
         "id": "M5920_S1000_H0120_001_cmd",
         "jp": "お前達二人は、最後のヨルハ部隊なんだ！",
         "en": "You two are the last remaining members of YoRHa.",
-        "ru": "Вы двое — последние оставшиеся члены YoRHa."
+        "ru": "Вы двое — последние оставшиеся члены YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/130.wav"
     },
     {
         "id": "M5920_S1000_H0130_001_eve",

@@ -219,7 +219,8 @@
         "id": "DLC1_DIFF_03",
         "jp": "HARD",
         "en": "Hard",
-        "ru": "Тяжело"
+        "ru": "Тяжело",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/68.wav"
     },
     {
         "id": "DLC1_DIFF_04",

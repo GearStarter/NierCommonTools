@@ -3,7 +3,8 @@
         "id": "M3000_S0330_G0000_001_a2b",
         "jp": "ポッド！司令部に通信、状況確認！",
         "en": "Pod, report our status to Command!",
-        "ru": "Бот, доложи наш статус Штабу!"
+        "ru": "Бот, доложи наш статус Штабу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/753.wav"
     },
     {
         "id": "M3000_S0330_G0010_001_pod042",
@@ -45,19 +46,22 @@
         "id": "M3000_S0330_G0060_001_a9s",
         "jp": "あのデカイのから妨害電波が出ているようです！",
         "en": "The jamming is coming from that thing!",
-        "ru": "Помехи исходят от этой штуки!"
+        "ru": "Помехи исходят от этой штуки!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1688.wav"
     },
     {
         "id": "M3000_S0330_G0070_001_a9s",
         "jp": "これでジャミングは解除された筈…！",
         "en": "That should take care of the jamming.",
-        "ru": "Теперь с помехами должно быть покончено."
+        "ru": "Теперь с помехами должно быть покончено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1689.wav"
     },
     {
         "id": "M3000_S0330_G0080_001_a2b",
         "jp": "司令部に通信！状況報告と救援要請！",
         "en": "Pod, send an emergency distress signal to Command!",
-        "ru": "Бот, пошли сигнал SOS Штабу!"
+        "ru": "Бот, пошли сигнал SOS Штабу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/756.wav"
     },
     {
         "id": "M3000_S0330_G0090_001_pod042",
@@ -75,43 +79,50 @@
         "id": "M3000_S0330_G0110_001_pod042",
         "jp": "通信ロスト。司令部に接続出来ず。",
         "en": "Alert: Connection lost. Unable to reach Command.",
-        "ru": "Внимание: соединение потеряно. Невозможно связаться со Штабом."
+        "ru": "Внимание: соединение потеряно. Невозможно связаться со Штабом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/719.wav"
     },
     {
         "id": "M3000_S0330_G0120_001_a2b",
         "jp": "くそっ、まだジャミングが……",
         "en": "Damn it, they're STILL jamming us?",
-        "ru": "Чёрт, они ВСЁ ЕЩЁ глушат нас?"
+        "ru": "Чёрт, они ВСЁ ЕЩЁ глушат нас?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/758.wav"
     },
     {
         "id": "M3000_S0330_G0130_001_pod042",
         "jp": "否定：通信環境は良好。",
         "en": "Negative. Signal reception is clear.",
-        "ru": "Отрицательно. Приём сигнала в порядке."
+        "ru": "Отрицательно. Приём сигнала в порядке.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/720.wav"
     },
     {
         "id": "M3000_S0330_G0140_001_pod042",
         "jp": "通信ロストは接続認証の失敗によるもの。",
         "en": "Connection lost due to server-side authentication failure.",
-        "ru": "Соединение потеряно ввиду отказа аутентификации со стороны сервера."
+        "ru": "Соединение потеряно ввиду отказа аутентификации со стороны сервера.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/721.wav"
     },
     {
         "id": "M3000_S0330_G0150_001_pod042",
         "jp": "現在、司令部の通信機能は完全に沈黙。",
         "en": "No responses coming from Command on any channel.",
-        "ru": "Штаб не отвечает на вызовы по всем каналам."
+        "ru": "Штаб не отвечает на вызовы по всем каналам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/722.wav"
     },
     {
         "id": "M3000_S0330_G0160_001_a2b",
         "jp": "バンカーが……一体、何が！？",
         "en": "Shit. What happened to the Bunker?",
-        "ru": "Дерьмо. Что произошло в Бункере?"
+        "ru": "Дерьмо. Что произошло в Бункере?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/759.wav"
     },
     {
         "id": "M3000_S0330_G0170_001_a2b",
         "jp": "駄目だッ……キリがない！",
         "en": "I can't keep doing this forever!",
-        "ru": "Я не смогу продолжать так вечно!"
+        "ru": "Я не смогу продолжать так вечно!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/760.wav"
     },
     {
         "id": "M3000_S0330_G0180_001_a9s",
@@ -123,13 +134,15 @@
         "id": "M3000_S0330_G0190_001_a9s",
         "jp": "バンカーには非常用のバックドアがあるから、",
         "en": "It's possible to access the Bunker through a backdoor in the system.",
-        "ru": "Есть возможность подключиться к Бункеру через лазейку в системе."
+        "ru": "Есть возможность подключиться к Бункеру через лазейку в системе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1691.wav"
     },
     {
         "id": "M3000_S0330_G0195_001_a9s",
         "jp": "そこから僕と２Ｂのパーソナルログデータを全部アップロードして、",
         "en": "I can use that to initiate an emergency upload of our personal log data.",
-        "ru": "Я могу использовать её для экстренной загрузки наших персональных данных."
+        "ru": "Я могу использовать её для экстренной загрузки наших персональных данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1692.wav"
     },
     {
         "id": "M3000_S0330_G0200_001_a9s",
@@ -165,7 +178,8 @@
         "id": "M3000_S0330_G0250_001_a2b",
         "jp": "９Ｓッ！まだ！？",
         "en": "Are you done yet!?",
-        "ru": "Ты ещё не закончил?!"
+        "ru": "Ты ещё не закончил?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/762.wav"
     },
     {
         "id": "M3000_S0330_G0260_001_a9s",

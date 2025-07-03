@@ -9,7 +9,8 @@
         "id": "M5900_S0010_G0000_001_eml",
         "jp": "すっかり……強くなりましたね……もう、僕の手助けは要らないですよね。",
         "en": "Wow, you've sure gotten strong! I doubt you'll be needing my help anymore.",
-        "ru": "Воу, вы стали очень сильны! Сомневаюсь, что моя помощь еще когда-нибудь понадобится."
+        "ru": "Воу, вы стали очень сильны! Сомневаюсь, что моя помощь еще когда-нибудь понадобится.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1058.wav"
     },
     {
         "id": "M5900_S0010_G0010_001_a2b",
@@ -33,7 +34,8 @@
         "id": "M5900_S0010_G0040_001_eml",
         "jp": "いえ、何でもないです。お元気で。",
         "en": "Um, nothing. Don't worry about it. Take care now!",
-        "ru": "Эм, ничего. Не беспокойся об этом. Береги себя!"
+        "ru": "Эм, ничего. Не беспокойся об этом. Береги себя!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1059.wav"
     },
     {
         "id": "M5900_S0010_G0050_001_a2b",
@@ -57,7 +59,8 @@
         "id": "M5900_S0010_G0080_001_a2b",
         "jp": "わかった。",
         "en": "Nice work.",
-        "ru": "Отличная работа."
+        "ru": "Отличная работа.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/984.wav"
     },
     {
         "id": "M5900_S0010_G0090_001_a9s",
@@ -81,13 +84,15 @@
         "id": "M5900_S0010_G0120_001_a9s",
         "jp": "用意がいいな。追うぞ。",
         "en": "Heh. Nice work. Let's go find him.",
-        "ru": "Хех. Отличная работа. Давай найдём его."
+        "ru": "Хех. Отличная работа. Давай найдём его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/314.wav"
     },
     {
         "id": "M5900_S0010_G0130_001_a2",
         "jp": "なんだか、あの丸っこいのの様子がおかしいな……",
         "en": "That round guy is acting kind of strange.",
-        "ru": "Этот круглый парень ведёт себя странно."
+        "ru": "Этот круглый парень ведёт себя странно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/605.wav"
     },
     {
         "id": "M5900_S0010_G0140_001_a2",
@@ -111,19 +116,22 @@
         "id": "M5900_S0020_S0000_001_a2b",
         "jp": "これは……エミール？？",
         "en": "Are these... Emil?",
-        "ru": "Это... Эмиль?"
+        "ru": "Это... Эмиль?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/315.wav"
     },
     {
         "id": "M5900_S0020_S0010_001_a9s",
         "jp": "これは……エミール！？",
         "en": "Are these... Emil?",
-        "ru": "Это... Эмиль?"
+        "ru": "Это... Эмиль?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/315.wav"
     },
     {
         "id": "M5900_S0020_S0020_001_a2",
         "jp": "ここは……一体……",
         "en": "What in the goddamn...?",
-        "ru": "Что за чертовщина?.."
+        "ru": "Что за чертовщина?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/608.wav"
     },
     {
         "id": "M5900_S0020_S0030_001_a2b",
@@ -141,7 +149,8 @@
         "id": "M5900_S0020_S0050_001_a2",
         "jp": "おいっ！大丈夫か！？",
         "en": "Round thing! You okay!?",
-        "ru": "Круглый! Ты в порядке?"
+        "ru": "Круглый! Ты в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/609.wav"
     },
     {
         "id": "M5900_S0020_S0060_001_eml",
@@ -171,7 +180,8 @@
         "id": "M5900_S0050_H0000_001_a2",
         "jp": "何だッ……これは！？",
         "en": "Oh, are you kidding me?",
-        "ru": "Да ты что, издеваешься надо мной?!"
+        "ru": "Да ты что, издеваешься надо мной?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/611.wav"
     },
     {
         "id": "M5900_S0100_G0000_001_emls",
@@ -207,7 +217,8 @@
         "id": "M5900_S0100_G0070_001_a2b",
         "jp": "そんな事言われたって……",
         "en": "Sound advice.",
-        "ru": "Звучит разумно."
+        "ru": "Звучит разумно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/990.wav"
     },
     {
         "id": "M5900_S0100_G0020_001_a9s",
@@ -237,19 +248,22 @@
         "id": "M5900_S0100_G0080_001_a9s",
         "jp": "分かってるよそんなの！",
         "en": "I know that!",
-        "ru": "Я знаю!"
+        "ru": "Я знаю!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/320.wav"
     },
     {
         "id": "M5900_S0100_G0030_001_a2",
         "jp": "何なんだッ！！",
         "en": "Okay, this is NOT good!",
-        "ru": "Ладно, это НЕ хорошо!"
+        "ru": "Ладно, это НЕ хорошо!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/612.wav"
     },
     {
         "id": "M5900_S0100_G0120_001_a2",
         "jp": "簡単に言うな！バカッ！！",
         "en": "It's not that easy, you dumbass!",
-        "ru": "Это не так-то просто, тупица!"
+        "ru": "Это не так-то просто, тупица!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/613.wav"
     },
     {
         "id": "M5900_S0110_G0000_001_emls",
@@ -261,7 +275,8 @@
         "id": "M5900_S0110_G0010_001_emls",
         "jp": "永遠……クルしい……イタイ……",
         "en": "Eternity... It hurts... It really hurts...",
-        "ru": "Вечность... Это больно... Это так больно..."
+        "ru": "Вечность... Это больно... Это так больно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1094.wav"
     },
     {
         "id": "M5900_S0110_G0020_001_emls",
@@ -303,7 +318,8 @@
         "id": "M5900_S0110_G0080_001_a9s",
         "jp": "くそっ……手がつけられないッ",
         "en": "I don't know how much more of this I can take!",
-        "ru": "Я не знаю, как долго смогу продержаться!"
+        "ru": "Я не знаю, как долго смогу продержаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/321.wav"
     },
     {
         "id": "M5900_S0110_G0090_001_pod042",
@@ -333,7 +349,8 @@
         "id": "M5900_S0110_G0130_001_eml",
         "jp": "あいつらは……僕が決着を……つけないと……",
         "en": "I need to settle things with them. On my own.",
-        "ru": "Мне нужно разобраться с ними. Самостоятельно."
+        "ru": "Мне нужно разобраться с ними. Самостоятельно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1064.wav"
     },
     {
         "id": "M5900_S0110_G0140_001_a2b",
@@ -345,13 +362,15 @@
         "id": "M5900_S0110_G0150_001_a9s",
         "jp": "いいから休んで！",
         "en": "Stop it! You have to stand down!",
-        "ru": "Остановись! Тебе следует отступить!"
+        "ru": "Остановись! Тебе следует отступить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/322.wav"
     },
     {
         "id": "M5900_S0110_G0160_001_a2",
         "jp": "子供は黙ってろ！！",
         "en": "Shut up already, kid!",
-        "ru": "Заткнись уже, малыш!"
+        "ru": "Заткнись уже, малыш!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/615.wav"
     },
     {
         "id": "M5900_S0120_G0000_001_emls",
@@ -375,7 +394,8 @@
         "id": "M5900_S0120_G0030_001_emls",
         "jp": "僕は！",
         "en": "I...",
-        "ru": "Я..."
+        "ru": "Я...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1853.wav"
     },
     {
         "id": "M5900_S0120_G0040_001_emls",
@@ -453,7 +473,8 @@
         "id": "M5900_S0120_G0160_001_emls",
         "jp": "お前に……お前たちに……",
         "en": "You... All of you...",
-        "ru": "Вы... Все вы..."
+        "ru": "Вы... Все вы...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1111.wav"
     },
     {
         "id": "M5900_S0120_G0170_001_emls",
@@ -465,61 +486,71 @@
         "id": "M5900_S0120_G0180_001_emls",
         "jp": "悲しみが！！",
         "en": "This sadness!",
-        "ru": "Эта печаль!"
+        "ru": "Эта печаль!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1113.wav"
     },
     {
         "id": "M5900_S0120_G0190_001_emls",
         "jp": "絶望が！！",
         "en": "This desperation!",
-        "ru": "Это отчаяние!"
+        "ru": "Это отчаяние!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1114.wav"
     },
     {
         "id": "M5900_S0120_G0200_001_emls",
         "jp": "わかルカああアアあああああああああっ",
         "en": "You know nothing about it!",
-        "ru": "Вы ничего не знаете!"
+        "ru": "Вы ничего не знаете!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1115.wav"
     },
     {
         "id": "M5900_S0120_G0210_001_eml",
         "jp": "だからって！！こんなの間違ってる！！",
         "en": "But even so! All of this is WRONG!",
-        "ru": "Но даже так! Всё это НЕПРАВИЛЬНО!"
+        "ru": "Но даже так! Всё это НЕПРАВИЛЬНО!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1065.wav"
     },
     {
         "id": "M5900_S0120_G0220_001_eml",
         "jp": "どんなに苦しくても、どんなに辛くても……",
         "en": "No matter how hard or how painful...",
-        "ru": "Не важно, как тяжело или как больно..."
+        "ru": "Не важно, как тяжело или как больно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1066.wav"
     },
     {
         "id": "M5900_S0120_G0230_001_eml",
         "jp": "あの人達は諦めたりしなかった。",
         "en": "They never gave up.",
-        "ru": "Они никогда не сдавались."
+        "ru": "Они никогда не сдавались.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1067.wav"
     },
     {
         "id": "M5900_S0120_G0240_001_eml",
         "jp": "いつか乗り越えられると信じて、戦ってたんだ！",
         "en": "They kept fighting because they believed they could overcome someday!",
-        "ru": "Они продолжали бороться, потому что верили, что когда-нибудь смогут победить!"
+        "ru": "Они продолжали бороться, потому что верили, что когда-нибудь смогут победить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1068.wav"
     },
     {
         "id": "M5900_S0120_G0250_001_eml",
         "jp": "そうですよね！？カイネさんッ！",
         "en": "Isn't that right, Kainé!?",
-        "ru": "Разве это не так, Кайне?!"
+        "ru": "Разве это не так, Кайне?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1069.wav"
     },
     {
         "id": "M5900_S0120_G0260_001_eml",
         "jp": "無駄だとわかっていても、やらなきゃダメなんだッ！",
         "en": "Even if it's pointless, you still have to do it!",
-        "ru": "Даже если это бессмысленно, вы всё равно должны это делать!"
+        "ru": "Даже если это бессмысленно, вы всё равно должны это делать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1070.wav"
     },
     {
         "id": "M5900_S0120_G0270_001_eml",
         "jp": "だって、あの人が、守ろうとした世界なんだからッッッ！！",
         "en": "Because this is the world my friend tried to save!",
-        "ru": "Потому что это мир, который мои друзья пытались спасти!"
+        "ru": "Потому что это мир, который мои друзья пытались спасти!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1071.wav"
     },
     {
         "id": "M5900_S0120_G0280_001_emls",
@@ -567,7 +598,8 @@
         "id": "M5900_S0130_S0060_001_eml",
         "jp": "だって……辛くて……苦しくて……",
         "en": "It was so hard... So painful...",
-        "ru": "Было так тяжело... Так больно..."
+        "ru": "Было так тяжело... Так больно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1075.wav"
     },
     {
         "id": "M5900_S0130_S0070_001_eml",
@@ -591,7 +623,8 @@
         "id": "M5900_S0130_S0100_001_eml",
         "jp": "でも、もうすぐ会えるから……きっと……",
         "en": "But now I get to see them again... Really soon...",
-        "ru": "Но теперь я увижу их снова... Очень скоро..."
+        "ru": "Но теперь я увижу их снова... Очень скоро...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1079.wav"
     },
     {
         "id": "M5900_S0130_S0110_001_a2b",
@@ -603,7 +636,8 @@
         "id": "M5900_S0130_S0120_001_a9s",
         "jp": "修理すれば、きっと良くなるよ……",
         "en": "Hold on, Emil. We'll repair you and get you back to normal.",
-        "ru": "Держись, Эмиль. Мы починим тебя и приведём в норму."
+        "ru": "Держись, Эмиль. Мы починим тебя и приведём в норму.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/325.wav"
     },
     {
         "id": "M5900_S0130_S0130_001_a2",

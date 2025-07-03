@@ -201,7 +201,8 @@
         "id": "M5104_S0010_G0230_001_a9s",
         "jp": "あー、せいせいしましたね！",
         "en": "About goddamn time!",
-        "ru": "Давно пора!"
+        "ru": "Давно пора!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/19.wav"
     },
     {
         "id": "M5104_S0010_G0240_001_a9s",
@@ -225,13 +226,15 @@
         "id": "M5104_S0010_G0270_001_a9s",
         "jp": "……馬鹿なロボットですよ。破壊されるまで、強さにこだわるなんて。",
         "en": "Stupid machine. All he cared about was getting stronger until we finally scrapped him.",
-        "ru": "Глупая машина. Всё, о чём он думал, это как ему стать сильнее. Пока мы, наконец, не уничтожили его."
+        "ru": "Глупая машина. Всё, о чём он думал, это как ему стать сильнее. Пока мы, наконец, не уничтожили его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/22.wav"
     },
     {
         "id": "M5104_S0010_G0280_001_a9s",
         "jp": "もう、会う事もないですし……本当に、せいせいしました……",
         "en": "But now we don't have to see him ever again. What a relief!",
-        "ru": "Но больше мы его никогда не увидим. Какое облегчение!"
+        "ru": "Но больше мы его никогда не увидим. Какое облегчение!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/23.wav"
     },
     {
         "id": "M5104_S0010_G0290_001_a2b",

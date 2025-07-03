@@ -9,7 +9,8 @@
         "id": "M3005_S1010_S0010_001_pod042",
         "jp": "状況を共有する。",
         "en": "Data exchange engaged.",
-        "ru": "Задействован обмен данными."
+        "ru": "Задействован обмен данными.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/767.wav"
     },
     {
         "id": "M3005_S1010_S0020_001_pod042",
@@ -21,7 +22,8 @@
         "id": "M3005_S1010_S0030_001_pod042",
         "jp": "死亡を確認。",
         "en": "Death confirmed.",
-        "ru": "Смерть подтверждена."
+        "ru": "Смерть подтверждена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/769.wav"
     },
     {
         "id": "M3005_S1010_S0040_001_pod153",
@@ -33,7 +35,8 @@
         "id": "M3005_S1010_S0050_001_pod153",
         "jp": "再起動可能状態にある。",
         "en": "Unit is ready for reactivation.",
-        "ru": "Единица готова к перезапуску."
+        "ru": "Единица готова к перезапуску.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/253.wav"
     },
     {
         "id": "M3005_S1010_S0060_001_pod042",
@@ -51,25 +54,29 @@
         "id": "M3005_S1010_S0080_001_pod153",
         "jp": "提案：ライトの点灯。",
         "en": "Proposal: Illuminate surrounding area.",
-        "ru": "Предложение: включите освещение."
+        "ru": "Предложение: включите освещение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/255.wav"
     },
     {
         "id": "M3005_S1010_S0090_001_pod042",
         "jp": "確認：Ａ２及び９Ｓ機体の安全の確保。",
         "en": "Analysis: Units 9S and A2 are safe.",
-        "ru": "Анализ: единицы 9S и A2 в безопасности."
+        "ru": "Анализ: единицы 9S и A2 в безопасности.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/771.wav"
     },
     {
         "id": "M3005_S1010_S0100_001_pod153",
         "jp": "問題ない。",
         "en": "No problems detected.",
-        "ru": "Проблем не выявлено."
+        "ru": "Проблем не выявлено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/256.wav"
     },
     {
         "id": "M3005_S1010_S0110_001_pod042",
         "jp": "ならば、残りの課題は一つ。",
         "en": "Only one issue remains.",
-        "ru": "Остался последний вопрос."
+        "ru": "Остался последний вопрос.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/772.wav"
     },
     {
         "id": "M3005_S1010_S0120_001_pod042",
@@ -93,6 +100,7 @@
         "id": "M3005_S1010_S0150_001_pod042",
         "jp": "Ａ２及び、９Ｓの位置を表示。",
         "en": "Displaying positions of units A2 and 9S.",
-        "ru": "Вывожу отображение позиций единиц A2 и 9S."
+        "ru": "Вывожу отображение позиций единиц A2 и 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/775.wav"
     }
 ]

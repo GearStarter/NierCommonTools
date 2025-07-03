@@ -9,19 +9,22 @@
         "id": "M1060_S0120_G0170_101_a9s",
         "jp": "僕は空母に搭載予定だったミサイルを使用出来ないか試してみます。",
         "en": "I'm going to see if we can use those missiles back on the shore.",
-        "ru": "Я проверю, сможем ли мы воспользоваться ракетами на побережье."
+        "ru": "Я проверю, сможем ли мы воспользоваться ракетами на побережье.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1454.wav"
     },
     {
         "id": "M1060_S0120_G0180_101_a9s",
         "jp": "コントロールを妨害されないよう、",
         "en": "But I need you to destroy the EMP unit on that thing's back.",
-        "ru": "Но мне нужно, чтобы ты уничтожила блок ЭМИ на его спине."
+        "ru": "Но мне нужно, чтобы ты уничтожила блок ЭМИ на его спине.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1455.wav"
     },
     {
         "id": "M1060_S0120_G0190_101_a9s",
         "jp": "敵の背面にあるＥＭＰ攻撃ユニットを破壊しておいてください！",
         "en": "Otherwise they're just going to go off course.",
-        "ru": "В противном случае они собьются с курса."
+        "ru": "В противном случае они собьются с курса.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1456.wav"
     },
     {
         "id": "M1060_S0120_G0200_101_a2b",

@@ -9,13 +9,15 @@
         "id": "M1010_S0030_G0010_001_a9s",
         "jp": "司令官からの命令で、\\n２Ｂさんのメンテナンスを担当する事になったんです。",
         "en": "The Commander's put me in charge of your maintenance, ma'am.",
-        "ru": "Командор назначила меня ответственным за ваше техобслуживание, мэм."
+        "ru": "Командор назначила меня ответственным за ваше техобслуживание, мэм.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1106.wav"
     },
     {
         "id": "M1010_S0030_G0020_001_a9s",
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
-        "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки."
+        "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
     },
     {
         "id": "M1010_S0030_G0030_001_a2b",
@@ -27,13 +29,15 @@
         "id": "M1010_S0030_G0040_001_a9s",
         "jp": "心配は要りませんよ？僕達９Ｓモデルは優秀な事で有名ですから。",
         "en": "Oh, don't worry. We 9S models are the best around, you know.",
-        "ru": "О, не волнуйтесь. Мы, модели типа S, знатоки своего дела, знаете ли."
+        "ru": "О, не волнуйтесь. Мы, модели типа S, знатоки своего дела, знаете ли.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1111.wav"
     },
     {
         "id": "M1010_S0030_G0050_001_a9s",
         "jp": "……って自分で言う事じゃないか。",
         "en": "Though I suppose we're not exactly known for our modesty.",
-        "ru": "Хотя, полагаю, скромностью мы не отличаемся."
+        "ru": "Хотя, полагаю, скромностью мы не отличаемся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1112.wav"
     },
     {
         "id": "M1010_S0030_G0060_001_a2b",
@@ -51,7 +55,8 @@
         "id": "M1010_S0030_G0062_001_a9s",
         "jp": "え？なんでしょう？",
         "en": "Hm? What is it, ma'am?",
-        "ru": "Хм? В чём дело, мэм?"
+        "ru": "Хм? В чём дело, мэм?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1115.wav"
     },
     {
         "id": "M1010_S0030_G0063_001_a2b",
@@ -69,7 +74,8 @@
         "id": "M1010_S0030_G0065_001_a2b",
         "jp": "……私の名前に『さん』は付けなくていい。",
         "en": "There's no need to be so formal.",
-        "ru": "Незачем быть столь формальным."
+        "ru": "Незачем быть столь формальным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/470.wav"
     },
     {
         "id": "M1010_S0030_G0066_001_a9s",
@@ -87,7 +93,8 @@
         "id": "M1010_S0030_G0080_001_a9s",
         "jp": "司令官が呼んでたから一緒に行きましょう。",
         "en": "The Commander was calling for you.",
-        "ru": "Командор вызывает вас."
+        "ru": "Командор вызывает вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav"
     },
     {
         "id": "M1010_S0030_G0085_001_a9s",
@@ -105,13 +112,15 @@
         "id": "M1010_S0030_G0010_001_a9s",
         "jp": "司令官からの命令で、\\n２Ｂさんのメンテナンスを担当する事になったんです。",
         "en": "The Commander's put me in charge of your maintenance, ma'am.",
-        "ru": "Командор назначила меня ответственным за ваше техобслуживание, мэм."
+        "ru": "Командор назначила меня ответственным за ваше техобслуживание, мэм.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1106.wav"
     },
     {
         "id": "M1010_S0030_G0020_001_a9s",
         "jp": "これから定期的にチェックしますね。",
         "en": "That means I'll be performing regular checks on you from now on.",
-        "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки."
+        "ru": "Это значит, что с этого момента я буду проводить ваши регулярные проверки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1108.wav"
     },
     {
         "id": "M1010_S0030_G0030_001_a2b",
@@ -123,13 +132,15 @@
         "id": "M1010_S0030_G0040_001_a9s",
         "jp": "心配は要りませんよ？僕達９Ｓモデルは優秀な事で有名ですから。",
         "en": "Oh, don't worry. We 9S models are the best around, you know.",
-        "ru": "О, не волнуйтесь. Мы, модели типа S, знатоки своего дела, знаете ли."
+        "ru": "О, не волнуйтесь. Мы, модели типа S, знатоки своего дела, знаете ли.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1111.wav"
     },
     {
         "id": "M1010_S0030_G0050_001_a9s",
         "jp": "……って自分で言う事じゃないか。",
         "en": "Though I suppose we're not exactly known for our modesty.",
-        "ru": "Хотя, полагаю, скромностью мы не отличаемся."
+        "ru": "Хотя, полагаю, скромностью мы не отличаемся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1112.wav"
     },
     {
         "id": "M1010_S0030_G0060_001_a2b",
@@ -147,7 +158,8 @@
         "id": "M1010_S0030_G0062_001_a9s",
         "jp": "え？なんでしょう？",
         "en": "Hm? What is it, ma'am?",
-        "ru": "Хм? В чём дело, мэм?"
+        "ru": "Хм? В чём дело, мэм?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1115.wav"
     },
     {
         "id": "M1010_S0030_G0063_001_a2b",
@@ -165,7 +177,8 @@
         "id": "M1010_S0030_G0065_001_a2b",
         "jp": "……私の名前に『さん』は付けなくていい。",
         "en": "There's no need to be so formal.",
-        "ru": "Незачем быть столь формальным."
+        "ru": "Незачем быть столь формальным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/470.wav"
     },
     {
         "id": "M1010_S0030_G0066_001_a9s",
@@ -183,7 +196,8 @@
         "id": "M1010_S0030_G0080_001_a9s",
         "jp": "司令官が呼んでたから一緒に行きましょう。",
         "en": "The Commander was calling for you.",
-        "ru": "Командор вызывает вас."
+        "ru": "Командор вызывает вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1120.wav"
     },
     {
         "id": "M1010_S0030_G0085_001_a9s",
@@ -207,7 +221,8 @@
         "id": "M1010_S0030_G0110_001_a2b",
         "jp": "はい。",
         "en": "Yes, Commander.",
-        "ru": "Так точно, Командор."
+        "ru": "Так точно, Командор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/472.wav"
     },
     {
         "id": "M1010_S0030_G0120_001_cmd",
@@ -243,7 +258,8 @@
         "id": "M1010_S0030_G0170_001_a9s",
         "jp": "あれ？レジスタンスとの連絡役には\\n別のヨルハ部隊員がアサインされていたんじゃ……",
         "en": "Doesn't YoRHa have a dedicated Resistance contact already?",
-        "ru": "Разве YoRHa не поддерживает прямую связь с Сопротивлением?"
+        "ru": "Разве YoRHa не поддерживает прямую связь с Сопротивлением?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1122.wav"
     },
     {
         "id": "M1010_S0030_G0180_001_cmd",
@@ -267,19 +283,22 @@
         "id": "M1010_S0030_G0210_001_a9s",
         "jp": "地上……って事は飛行ユニットで移動ですね。",
         "en": "The surface? That means we'll be getting flight units, huh?",
-        "ru": "Поверхность? Значит, нас отправят на полётных модулях, да?"
+        "ru": "Поверхность? Значит, нас отправят на полётных модулях, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1123.wav"
     },
     {
         "id": "M1010_S0030_G0220_001_a9s",
         "jp": "格納庫に行きましょう。",
         "en": "Better head for the hangar!",
-        "ru": "Отправляемся в ангар!"
+        "ru": "Отправляемся в ангар!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1124.wav"
     },
     {
         "id": "M1010_S0030_G0230_001_a9s",
         "jp": "飛行ユニットの運用コストは高いから\\nあんまり使わせてもらえないんですよね……",
         "en": "Heh. Usually we can't get NEAR flight units. They're way too expensive for us grunts.",
-        "ru": "Кхе. Обычно нам не дают использовать полётные модули КОАП.\\nОни слишком дорогие для обычных пехотинцев, таких как мы."
+        "ru": "Кхе. Обычно нам не дают использовать полётные модули КОАП.\\nОни слишком дорогие для обычных пехотинцев, таких как мы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1125.wav"
     },
     {
         "id": "M1010_S0030_G0240_001_a9s",
@@ -291,49 +310,57 @@
         "id": "M1010_S0030_G0000_300_a9s",
         "jp": "この先が格納庫ですね。\\n行きましょう。",
         "en": "The hangar's up ahead. Let's go.",
-        "ru": "Ангар впереди. Пойдём."
+        "ru": "Ангар впереди. Пойдём.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1105.wav"
     },
     {
         "id": "M1010_S0030_G0020_300_a9s",
         "jp": "２Ｂさん、携行品は足りてますか？\\nもし足りなければ、自室にある端末から補給してくださいね",
         "en": "Are you carrying enough supplies on you? If not, you can always use the terminal in your room to replenish them.",
-        "ru": "Достаточно ли у вас припасов? Если нет, вы можете использовать терминал в вашей комнате для пополнения."
+        "ru": "Достаточно ли у вас припасов? Если нет, вы можете использовать терминал в вашей комнате для пополнения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1109.wav"
     },
     {
         "id": "M1010_S0030_G0030_300_a9s",
         "jp": "そういえば……携行品は足りてたかな？",
         "en": "Come to think of it, do we have enough supplies?",
-        "ru": "Кстати, достаточно ли у вас припасов?"
+        "ru": "Кстати, достаточно ли у вас припасов?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1110.wav"
     },
     {
         "id": "M1010_S0030_G0040_300_a2b",
         "jp": "そこで補給してきたらどう？",
         "en": "What say we go stock up over there?",
-        "ru": "Как насчёт того, чтобы сходить за припасами?"
+        "ru": "Как насчёт того, чтобы сходить за припасами?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/466.wav"
     },
     {
         "id": "M1010_S0030_G0060_300_a9s",
         "jp": "ここ、僕の部屋なんですよ\\nいつでも好きな時に遊びに来てくださいね",
         "en": "This here's my room. Feel free to swing by whenever you want!",
-        "ru": "Это моя комната. Не стесняйся и заглядывай, когда захочешь!"
+        "ru": "Это моя комната. Не стесняйся и заглядывай, когда захочешь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1114.wav"
     },
     {
         "id": "M1010_S0030_G0070_300_a9s",
         "jp": "まぁ、何もないですけど",
         "en": "Not that there's much to do here...",
-        "ru": "Хотя делать тут особо нечего..."
+        "ru": "Хотя делать тут особо нечего...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1119.wav"
     },
     {
         "id": "M1010_S0030_G0080_300_a2b",
         "jp": "何か忘れ物でもしたの？",
         "en": "Is there something you forgot?",
-        "ru": "Ты что-то забыл здесь?"
+        "ru": "Ты что-то забыл здесь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/471.wav"
     },
     {
         "id": "M5920_S0040_G0000_001_a9s",
         "jp": "データをセーブするには、アクセスポイントに近い場所じゃないと\\n出来ません。",
         "en": "You need to be near an access point to save your data.",
-        "ru": "Для сохранения своих данных держись в зоне покрытия терминала."
+        "ru": "Для сохранения своих данных держись в зоне покрытия терминала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/337.wav"
     },
     {
         "id": "M5920_S0040_G0010_001_a9s",

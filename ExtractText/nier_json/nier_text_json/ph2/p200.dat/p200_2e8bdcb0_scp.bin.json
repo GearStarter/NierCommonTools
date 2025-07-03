@@ -3,13 +3,15 @@
         "id": "M1040_S0545_S0000_001_cmd",
         "jp": "司令部より全ヨルハ部隊へ。",
         "en": "YoRHa, this is your Commander.",
-        "ru": "YoRHa, на связи Командор."
+        "ru": "YoRHa, на связи Командор.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/56.wav"
     },
     {
         "id": "M1040_S0545_S0010_001_cmd",
         "jp": "数百年もの間発見されなかったエイリアン達の反応を確認した。",
         "en": "For the first time in centuries, we've intercepted a signal belonging to the aliens.",
-        "ru": "Впервые за столетия мы перехватили сигнал, который принадлежит пришельцам."
+        "ru": "Впервые за столетия мы перехватили сигнал, который принадлежит пришельцам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/57.wav"
     },
     {
         "id": "M1040_S0545_S0020_001_cmd",
@@ -21,19 +23,22 @@
         "id": "M1040_S0545_S0030_001_cmd",
         "jp": "エイリアンを殲滅すれば、長きに亘るこの戦争も終結する。",
         "en": "If we can destroy them, we can end this long and arduous war once and for all!",
-        "ru": "Если мы сможем их уничтожить, то завершим эту долгую и напряжённую войну раз и навсегда!"
+        "ru": "Если мы сможем их уничтожить, то завершим эту долгую и напряжённую войну раз и навсегда!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/59.wav"
     },
     {
         "id": "M1040_S0545_S0040_001_cmd",
         "jp": "現在、技術部の方で電波発信源の解析を進めているが、",
         "en": "Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.",
-        "ru": "Наша команда разведки пытается определить источник сигнала, но пока что безуспешно."
+        "ru": "Наша команда разведки пытается определить источник сигнала, но пока что безуспешно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/60.wav"
     },
     {
         "id": "M1040_S0545_S0050_001_cmd",
         "jp": "情報が不足している。",
         "en": "We need more data.",
-        "ru": "Нам нужно больше данных."
+        "ru": "Нам нужно больше данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/61.wav"
     },
     {
         "id": "M1040_S0545_S0060_001_cmd",
@@ -45,7 +50,8 @@
         "id": "M1040_S0545_S0070_001_cmd",
         "jp": "この好機を逃してはならない。",
         "en": "We can't let this chance slip through our fingers!",
-        "ru": "Мы не можем позволить этой возможности ускользнуть!"
+        "ru": "Мы не можем позволить этой возможности ускользнуть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/63.wav"
     },
     {
         "id": "M1040_S0545_S0080_001_cmd",
@@ -57,31 +63,36 @@
         "id": "M1040_S0550_G0001_001_a9s",
         "jp": "司令部の情報を元に、信号発信源を予測。マップにマークしました。",
         "en": "I used Command's data to determine the signal's source and marked it on the map.",
-        "ru": "Я использовал данные Штаба, чтобы определить источник сигнала и отметил его на карте."
+        "ru": "Я использовал данные Штаба, чтобы определить источник сигнала и отметил его на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1307.wav"
     },
     {
         "id": "M1040_S0550_G0010_001_a9s",
         "jp": "でもこれ、地下の深めの場所みたいですけど……",
         "en": "But it seems to be underground. Like, way underground.",
-        "ru": "Но, видимо, он под землёй. Глубоко под землёй."
+        "ru": "Но, видимо, он под землёй. Глубоко под землёй.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1308.wav"
     },
     {
         "id": "M1040_S0550_G0020_001_a2b",
         "jp": "行ってみれば判るよ……",
         "en": "Guess we'll see once we get there.",
-        "ru": "Увидим, как доберёмся до места."
+        "ru": "Увидим, как доберёмся до места.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/532.wav"
     },
     {
         "id": "M1040_S0550_G0021_001_a2b",
         "jp": "多分。",
         "en": "...If we're lucky.",
-        "ru": "Если нам повезёт..."
+        "ru": "Если нам повезёт...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/533.wav"
     },
     {
         "id": "M1040_S0550_G0030_001_a9s",
         "jp": "２Ｂって……大雑把なところがあるんですね。",
         "en": "You're not much for plans, are you, 2B?",
-        "ru": "Ты не особо любишь строить планы, да, 2B?"
+        "ru": "Ты не особо любишь строить планы, да, 2B?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1310.wav"
     },
     {
         "id": "M1040_S0545_S0001_001_a2b",
@@ -99,7 +110,8 @@
         "id": "M1040_S0545_S0003_001_a9s",
         "jp": "こんな巨大な空洞が、どうして……",
         "en": "Why is there such a huge cavern beneath the city?",
-        "ru": "Откуда под городом такая огромная пещера?"
+        "ru": "Откуда под городом такая огромная пещера?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1304.wav"
     },
     {
         "id": "M1040_S0545_S0090_300_a9s",
@@ -117,6 +129,7 @@
         "id": "M1040_S0550_G0130_300_pod042",
         "jp": "報告：強固なプロテクト。アクセス不可能。",
         "en": "Analysis: Strong software locks detected. Access impossible.",
-        "ru": "Анализ: обнаружены сильные блокировки ПО. Доступ невозможен."
+        "ru": "Анализ: обнаружены сильные блокировки ПО. Доступ невозможен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/636.wav"
     }
 ]

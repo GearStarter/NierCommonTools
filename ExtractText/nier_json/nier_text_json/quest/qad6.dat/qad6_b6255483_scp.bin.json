@@ -9,30 +9,35 @@
         "id": "M3060_S0032_G0090_001_pod153",
         "jp": "警告：閉鎖系防御システム。",
         "en": "Analysis: It is part of a closed defensive system.",
-        "ru": "Анализ: это часть закрытой системы защиты."
+        "ru": "Анализ: это часть закрытой системы защиты.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/359.wav"
     },
     {
         "id": "M3060_S0032_G0100_001_a9s",
         "jp": "どうやったら壊せるんだ！？",
         "en": "Well, how do I break it down!?",
-        "ru": "Ну и как мне его взломать?!"
+        "ru": "Ну и как мне его взломать?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1850.wav"
     },
     {
         "id": "M3060_S0032_G0110_001_pod153",
         "jp": "予測：当該自我データを暴走させる。",
         "en": "Hypothesis: Unit 9S could permit his self-consciousness data to lose control.",
-        "ru": "Предположение: единица 9S должна произвести потерю контроля над данными своего самосознания."
+        "ru": "Предположение: единица 9S должна произвести потерю контроля над данными своего самосознания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/360.wav"
     },
     {
         "id": "M3060_S0032_G0120_001_pod153",
         "jp": "その自爆エネルギーで防壁を一時的に麻痺させる事が可能。",
         "en": "The resulting energy surge has an acceptable probability of temporarily paralyzing the barrier.",
-        "ru": "Энергетический всплеск способен временно приостановить работу барьера."
+        "ru": "Энергетический всплеск способен временно приостановить работу барьера.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/361.wav"
     },
     {
         "id": "M3060_S0032_G0130_001_a9s",
         "jp": "それじゃあ入れないのと一緒だ！",
         "en": "That's almost as bad as not going in at all!",
-        "ru": "Дурная затея, но ничего другого не остаётся!"
+        "ru": "Дурная затея, но ничего другого не остаётся!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1851.wav"
     }
 ]

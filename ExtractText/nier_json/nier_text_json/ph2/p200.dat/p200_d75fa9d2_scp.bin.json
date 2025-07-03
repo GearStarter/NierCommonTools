@@ -15,7 +15,8 @@
         "id": "M1090_S0130_G0003_101_a2b",
         "jp": "これじゃあ、キリが無い……",
         "en": "This is never going to end...",
-        "ru": "Это никогда не закончится..."
+        "ru": "Это никогда не закончится...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/695.wav"
     },
     {
         "id": "M1090_S0130_G0004_101_pod042",
@@ -27,6 +28,7 @@
         "id": "M1090_S0130_G0005_101_pod042",
         "jp": "推奨：敵大型兵器の破壊。",
         "en": "Proposal: Destroy the Goliath.",
-        "ru": "Предложение: уничтожьте Голиафа."
+        "ru": "Предложение: уничтожьте Голиафа.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/702.wav"
     }
 ]

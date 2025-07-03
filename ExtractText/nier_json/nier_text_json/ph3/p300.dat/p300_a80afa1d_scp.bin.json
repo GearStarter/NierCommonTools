@@ -9,7 +9,8 @@
         "id": "M3015_S0010_G0010_001_pod153",
         "jp": "了解。圧縮会話モードを起動。",
         "en": "Affirmative. Launching compressed conversation mode.",
-        "ru": "Подтверждаю. Запускаю передачу в сжатом виде."
+        "ru": "Подтверждаю. Запускаю передачу в сжатом виде.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/258.wav"
     },
     {
         "id": "M3015_S0010_G0013_001_pod042",
@@ -27,7 +28,8 @@
         "id": "M3015_S0010_G0020_001_pod153",
         "jp": "圧縮会話モード終了。",
         "en": "Compressed conversation mode complete.",
-        "ru": "Передача данных в сжатом виде завершена."
+        "ru": "Передача данных в сжатом виде завершена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/261.wav"
     },
     {
         "id": "M3015_S0010_G0030_001_pod153",
@@ -39,7 +41,8 @@
         "id": "M3015_S0010_G0040_001_pod153",
         "jp": "Ａ２の記憶空間内にある２BデータがＡ２の自我に及ぼす影響について、\\n今後の報告を待つ。",
         "en": "Awaiting report on the effects of unit 2B's memory data on unit A2's self-consciousness.",
-        "ru": "Ожидаю отчёта об эффекте влияния блока данных единицы 2B на единицу A2."
+        "ru": "Ожидаю отчёта об эффекте влияния блока данных единицы 2B на единицу A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/263.wav"
     },
     {
         "id": "M3015_S0010_G0050_001_pod042",
@@ -51,6 +54,7 @@
         "id": "M3015_S0010_G0060_001_pod042",
         "jp": "支援活動の参考情報としてアップデートする。",
         "en": "Updating as reference data for support activity.",
-        "ru": "Обновление данных для проведения деятельности поддержки."
+        "ru": "Обновление данных для проведения деятельности поддержки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/822.wav"
     }
 ]

@@ -3,19 +3,22 @@
         "id": "M1030_S0115_S0000_201_a9s",
         "jp": "キカイは、見つけました。",
         "en": "They were found by the machines.",
-        "ru": "Их нашли машины."
+        "ru": "Их нашли машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1214.wav"
     },
     {
         "id": "M1030_S0115_S0010_201_a9s",
         "jp": "それをキカイはタカラモノと呼んでいました。",
         "en": "The machines called them \"treasures.\"",
-        "ru": "И машины назвали их \"сокровищами\"."
+        "ru": "И машины назвали их \"сокровищами\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1215.wav"
     },
     {
         "id": "M1030_S0115_S0020_201_a9s",
         "jp": "タカラモノの形は、みんな違いました。",
         "en": "Each treasure had a different shape.",
-        "ru": "У каждого сокровища была своя форма."
+        "ru": "У каждого сокровища была своя форма.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1216.wav"
     },
     {
         "id": "M1030_S0115_S0030_201_a9s",

@@ -237,31 +237,36 @@
         "id": "M5720_S0020_G0010_001_a9s",
         "jp": "……死んでたんだな。",
         "en": "I was afraid we'd find this.",
-        "ru": "Я боялся, что мы найдём это."
+        "ru": "Я боялся, что мы найдём это.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/289.wav"
     },
     {
         "id": "M5720_S0020_G0020_001_a9s",
         "jp": "遺品は、ドッグタグくらいか……",
         "en": "The only personal items are these dog tags...",
-        "ru": "Единственный личный предмет, это его жетон..."
+        "ru": "Единственный личный предмет, это его жетон...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/290.wav"
     },
     {
         "id": "M5720_S0020_G0030_001_a9s",
         "jp": "報告：残存する送信記録から、レジスタンスは後退しつつ\\n戦闘を行っていた模様。",
         "en": "Analysis: Remaining transmission records indicate the Resistance members were attempting to retreat from battle.",
-        "ru": "Анализ: оставшиеся записи передач указывают на то, что члены Сопротивления пытались отступить из битвы."
+        "ru": "Анализ: оставшиеся записи передач указывают на то, что члены Сопротивления пытались отступить из битвы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/513.wav"
     },
     {
         "id": "M5720_S0020_G0040_001_a9s",
         "jp": "最終送信元の座標解析終了。マップにマーク。",
         "en": "Analysis of final coordinates complete. Marking locations on map.",
-        "ru": "Анализ последних координат завершён. Отмечаю местоположения на карте."
+        "ru": "Анализ последних координат завершён. Отмечаю местоположения на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/514.wav"
     },
     {
         "id": "M5720_S0020_G0050_001_a9s",
         "jp": "よし……その辺りに行ってみよう。まだ生きてるかもしれない。",
         "en": "Let's go take a look. Maybe some of them will still be alive.",
-        "ru": "Пошли, посмотрим. Возможно, кто-то из них всё ещё жив."
+        "ru": "Пошли, посмотрим. Возможно, кто-то из них всё ещё жив.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/291.wav"
     },
     {
         "id": "M5720_S0020_G0060_001_pod153",
@@ -285,19 +290,22 @@
         "id": "M5720_S0020_G0090_001_a9s",
         "jp": "辛かっただろうな……",
         "en": "Talk about a bad way to go...",
-        "ru": "К слову о плохих путях для отступления..."
+        "ru": "К слову о плохих путях для отступления...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/293.wav"
     },
     {
         "id": "M5720_S0020_G0100_001_pod153",
         "jp": "報告：残存する通信記録に緊急支援要請を確認。",
         "en": "Alert: Emergency support request found in transmission records.",
-        "ru": "Внимание: в записях передач обнаружен запрос на немедленную поддержку."
+        "ru": "Внимание: в записях передач обнаружен запрос на немедленную поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/517.wav"
     },
     {
         "id": "M5720_S0020_G0110_001_a9s",
         "jp": "時間は？",
         "en": "When was it sent?",
-        "ru": "Когда он был отправлен?"
+        "ru": "Когда он был отправлен?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/294.wav"
     },
     {
         "id": "M5720_S0020_G0120_001_pod153",
@@ -309,7 +317,8 @@
         "id": "M5720_S0020_G0130_001_a9s",
         "jp": "まだ生きてる……助けに行くぞ！",
         "en": "That means they're still alive. Let's go!",
-        "ru": "Значит, они ещё живы. Идём!"
+        "ru": "Значит, они ещё живы. Идём!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/295.wav"
     },
     {
         "id": "M5920_S0020_G0280_001_pod153",
@@ -321,25 +330,29 @@
         "id": "M5720_S0020_G0140_001_a9s",
         "jp": "あそこだッ救助に向かう！！",
         "en": "Over there! Initiating rescue!",
-        "ru": "Здесь! Приступаю к спасению!"
+        "ru": "Здесь! Приступаю к спасению!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/296.wav"
     },
     {
         "id": "M5720_S0020_G0150_001_robolarge",
         "jp": "復讐ダ！復讐セヨ！",
         "en": "REVENGE! CLAIM YOUR REVENGE!",
-        "ru": "МЕСТЬ! ПРИМИТЕ ЖЕ ВОЗМЕЗДИЕ!"
+        "ru": "МЕСТЬ! ПРИМИТЕ ЖЕ ВОЗМЕЗДИЕ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/16.wav"
     },
     {
         "id": "M5720_S0020_G0160_001_robomedium",
         "jp": "仲間タチの無念を晴ラセ！！",
         "en": "Avenge the pain of our comrades!",
-        "ru": "Отомстим за боль наших товарищей!"
+        "ru": "Отомстим за боль наших товарищей!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/17.wav"
     },
     {
         "id": "M5720_S0020_G0170_001_robosmall",
         "jp": "憎い……アンドロイドがニクイ！",
         "en": "I HATE ANDROIDS! HATE THEM!",
-        "ru": "Я НЕНАВИЖУ АНДРОИДОВ! НЕНАВИЖУ ИХ!"
+        "ru": "Я НЕНАВИЖУ АНДРОИДОВ! НЕНАВИЖУ ИХ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/18.wav"
     },
     {
         "id": "M5720_S0020_G0180_001_robolarge",
@@ -351,7 +364,8 @@
         "id": "M5720_S0020_G0190_001_robomedium",
         "jp": "世界は暴力ダ！暴力こそがスベテなのだ！",
         "en": "Violence rules this world! Violence is all!",
-        "ru": "Насилие правит этим миром! Насилие — это всё!"
+        "ru": "Насилие правит этим миром! Насилие — это всё!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/20.wav"
     },
     {
         "id": "M5720_S0020_G0200_001_robosmall",
@@ -363,25 +377,29 @@
         "id": "M5720_S0020_G0210_001_robolarge",
         "jp": "逆らうヤツは八つ裂キ！",
         "en": "TEAR APART THOSE WHO RESIST US!",
-        "ru": "РАЗОРВАТЬ НА ЧАСТИ ТЕХ, КТО ПРОТИВОСТОИТ НАМ!"
+        "ru": "РАЗОРВАТЬ НА ЧАСТИ ТЕХ, КТО ПРОТИВОСТОИТ НАМ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/22.wav"
     },
     {
         "id": "M5720_S0020_G0220_001_robomedium",
         "jp": "殺して殺シテころしてコロシテコロシテやる！",
         "en": "Kill! Kill! Kill kill KILL KILL!",
-        "ru": "Убить! Убить! Убить, убить, УБИТЬ, УБИТЬ!"
+        "ru": "Убить! Убить! Убить, убить, УБИТЬ, УБИТЬ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/23.wav"
     },
     {
         "id": "M5720_S0020_G0230_001_robosmall",
         "jp": "燃やして殺ス！潰シテ殺す！",
         "en": "BURN THEM TO DEATH! CRUSH THEM TO DEATH!",
-        "ru": "СЖЕЧЬ ИХ! СОКРУШИТЬ ИХ!"
+        "ru": "СЖЕЧЬ ИХ! СОКРУШИТЬ ИХ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/24.wav"
     },
     {
         "id": "M5720_S0020_G0240_001_robolarge",
         "jp": "敵のイノチを奪い尽クセ！",
         "en": "DRAIN THEIR BLOOD! EVERY DROP!",
-        "ru": "ВЫПУСТИТЬ ИХ КРОВЬ! ДО ПОСЛЕДНЕЙ КАПЛИ!"
+        "ru": "ВЫПУСТИТЬ ИХ КРОВЬ! ДО ПОСЛЕДНЕЙ КАПЛИ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/25.wav"
     },
     {
         "id": "M5720_S0020_G0250_001_robomedium",
@@ -405,7 +423,8 @@
         "id": "M5720_S0020_G0280_001_robomedium",
         "jp": "機械生命体万歳！！",
         "en": "All hail the machines!",
-        "ru": "Во славу машин!"
+        "ru": "Во славу машин!",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/29.wav"
     },
     {
         "id": "M5720_S0020_G0290_001_robosmall",
@@ -423,7 +442,8 @@
         "id": "M5590_S0050_G0150_001_pod153",
         "jp": "敵性機械生命体の排除を確認。",
         "en": "The hostile machine lifeforms have been defeated.",
-        "ru": "Враждебные машины были уничтожены."
+        "ru": "Враждебные машины были уничтожены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/485.wav"
     },
     {
         "id": "M5720_S0020_G0310_001_pod153",
@@ -447,19 +467,22 @@
         "id": "M5720_S0020_G0340_001_pod153",
         "jp": "報告：以上で捜索依頼されていた全てのレジスタンスの死亡を確認。",
         "en": "Analysis: All missing Resistance members are deceased.",
-        "ru": "Анализ: все пропавшие члены Сопротивления мертвы."
+        "ru": "Анализ: все пропавшие члены Сопротивления мертвы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/521.wav"
     },
     {
         "id": "M5720_S0020_G0350_001_a9s",
         "jp": "そうか……遺品を渡しにいこう。",
         "en": "I suppose we'd better return their belongings.",
-        "ru": "Полагаю, нам лучше вернуть их вещи."
+        "ru": "Полагаю, нам лучше вернуть их вещи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/298.wav"
     },
     {
         "id": "M5720_S0030_G0140_001_a9s",
         "jp": "弔う風習……",
         "en": "A tradition of mourning the dead...",
-        "ru": "Традиция оплакивать мёртвых..."
+        "ru": "Традиция оплакивать мёртвых...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/300.wav"
     },
     {
         "id": "M5720_S0030_G0150_001_a9s",
@@ -477,7 +500,8 @@
         "id": "M5720_S0030_G0170_001_a9s",
         "jp": "弔いの意味はよくわからないけれど、もし僕達に魂があるなら、ここで……",
         "en": "I'm not quite sure what it means to mourn, or even if we have a soul to concern ourselves with...",
-        "ru": "Я не совсем уверен, что значит \"оплакивать\", и есть ли у нас душа, чтобы заботиться об этом..."
+        "ru": "Я не совсем уверен, что значит \"оплакивать\", и есть ли у нас душа, чтобы заботиться об этом...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/303.wav"
     },
     {
         "id": "M5720_S0030_G0180_001_a9s",
@@ -489,6 +513,7 @@
         "id": "M5720_S0030_G0190_001_a9s",
         "jp": "……僕も、すぐに行くから。",
         "en": "I'll be with you before long.",
-        "ru": "Совсем скоро я присоединюсь к тебе."
+        "ru": "Совсем скоро я присоединюсь к тебе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/305.wav"
     }
 ]

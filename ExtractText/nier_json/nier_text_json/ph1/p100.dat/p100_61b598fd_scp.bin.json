@@ -3,25 +3,29 @@
         "id": "M1020_S0010_G0000_011_pod042",
         "jp": "ポッド０４２からオペレーターへ。",
         "en": "Pod 042 to Operator.",
-        "ru": "Бот 042 докладывает оператору."
+        "ru": "Бот 042 докладывает оператору.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/605.wav"
     },
     {
         "id": "M1020_S0010_G0010_011_pod042",
         "jp": "レジスタンスリーダーより指定のあった場所の座標データを確認。",
         "en": "Coordinates confirmed for location specified by Resistance Leader.",
-        "ru": "Подтверждаю координаты местоположения, указанного лидером Сопротивления."
+        "ru": "Подтверждаю координаты местоположения, указанного лидером Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/606.wav"
     },
     {
         "id": "M1020_S0010_G0020_011_op60",
         "jp": "オペレーターよりポッド０４２へ。座標データ確認。",
         "en": "Understood, 042.",
-        "ru": "Принято, 042-й."
+        "ru": "Принято, 042-й.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/259.wav"
     },
     {
         "id": "M1020_S0010_G0030_011_op60",
         "jp": "目標地点にマーカーをポイント。",
         "en": "Placing marker on target.",
-        "ru": "Размещаю маркер цели."
+        "ru": "Размещаю маркер цели.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/260.wav"
     },
     {
         "id": "M1020_S0010_G0040_011_op60",
@@ -33,7 +37,8 @@
         "id": "M1020_S0010_G0050_011_op60",
         "jp": "ちゃんと準備してから行ってくださいね、２Bさん！",
         "en": "Please make sure you're ready before you go!",
-        "ru": "В пустыне негде будет пополнить запасы аммуниции, 2B."
+        "ru": "В пустыне негде будет пополнить запасы аммуниции, 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/262.wav"
     },
     {
         "id": "M1020_S0010_G0060_021_op210",
@@ -45,25 +50,29 @@
         "id": "M1020_S0010_G0070_021_op210",
         "jp": "レジスタンスリーダーより指定のあった場所の座標データを転送します。",
         "en": "Transferring coordinate data for the location specified by Resistance Leader.",
-        "ru": "Передаю координаты местоположения, указанного лидером Сопротивления."
+        "ru": "Передаю координаты местоположения, указанного лидером Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/117.wav"
     },
     {
         "id": "M1020_S0010_G0080_021_a9s",
         "jp": "さすがオペレーターさん！仕事が早いですね～",
         "en": "Nice, Operator! You work fast.",
-        "ru": "Круто, оператор! Вы быстро справились."
+        "ru": "Круто, оператор! Вы быстро справились.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1144.wav"
     },
     {
         "id": "M1020_S0010_G0090_021_op210",
         "jp": "無駄口を叩いていると不必要にエネルギー消費されます。",
         "en": "Mindless chatter drains energy, 9S.",
-        "ru": "Бессмысленная болтовня — трата энергии, 9S."
+        "ru": "Бессмысленная болтовня — трата энергии, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/118.wav"
     },
     {
         "id": "M1020_S0010_G0100_021_op210",
         "jp": "作戦行動に関係の無い発言は控えてください。",
         "en": "Please keep your comments reserved for mission-related topics.",
-        "ru": "Постарайтесь сдерживать свои комментарии при обсуждении деталей задания."
+        "ru": "Постарайтесь сдерживать свои комментарии при обсуждении деталей задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/119.wav"
     },
     {
         "id": "M1020_S0010_G0110_021_a9s",
@@ -81,25 +90,29 @@
         "id": "M5920_S0090_G0010_001_human",
         "jp": "現在、機械生命体との戦闘は膠着状態にある。",
         "en": "Currently, our struggle against the machine lifeforms is at a stalemate.",
-        "ru": "В настоящее время наша битва с машинами зашла в тупик."
+        "ru": "В настоящее время наша битва с машинами зашла в тупик.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/63.wav"
     },
     {
         "id": "M5920_S0090_G0020_001_human",
         "jp": "長期に渡る戦闘により諸君も疲弊している事だろう。",
         "en": "This battle has raged for far too long. I am sure all of you find the effort grueling.",
-        "ru": "И это сражение слишком затянулось. Я уверен, все вы очень измотаны."
+        "ru": "И это сражение слишком затянулось. Я уверен, все вы очень измотаны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/64.wav"
     },
     {
         "id": "M5920_S0090_G0030_001_human",
         "jp": "だが諦めずに奮闘を続けて欲しい。",
         "en": "But now is not the time to give up. Now, more than ever, we must forge on.",
-        "ru": "Но я хочу, чтобы вы продолжали сражаться."
+        "ru": "Но я хочу, чтобы вы продолжали сражаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/65.wav"
     },
     {
         "id": "M5920_S0090_G0040_001_human",
         "jp": "地球の奪還は、月面にいる数十万の人類の悲願なのだ。",
         "en": "Remember that several hundred thousand humans on the moon want nothing more than to return to Earth.",
-        "ru": "Помните, что сотни тысяч людей на Луне желают вернуться на родную планету, на Землю."
+        "ru": "Помните, что сотни тысяч людей на Луне желают вернуться на родную планету, на Землю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/66.wav"
     },
     {
         "id": "M5920_S0090_G0050_001_human",
@@ -111,13 +124,15 @@
         "id": "M5920_S0090_G0060_001_a9s",
         "jp": "……人類会議の放送はいつも堅苦しいですね〜",
         "en": "Those Council broadcasts are always so stiff.",
-        "ru": "Сообщения от совета всегда такие занудные."
+        "ru": "Сообщения от совета всегда такие занудные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/361.wav"
     },
     {
         "id": "M1020_S0010_G0200_001_resi",
         "jp": "リーダーから話は聞いてるよ。",
         "en": "Hey. Our leader told me all about you.",
-        "ru": "Эй. Наш лидер сообщила мне о вас."
+        "ru": "Эй. Наш лидер сообщила мне о вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/670.wav"
     },
     {
         "id": "M1020_S0010_G0201_001_resi",
@@ -129,13 +144,15 @@
         "id": "M1020_S0010_G0210_001_resi",
         "jp": "砂漠の機械共を退治してくれるって？",
         "en": "I hear you're planning to take out all the machines in the desert?",
-        "ru": "Слыхала я, что вы собираетесь разобраться с машинами в пустыне?"
+        "ru": "Слыхала я, что вы собираетесь разобраться с машинами в пустыне?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/672.wav"
     },
     {
         "id": "M1020_S0010_G0211_001_resi",
         "jp": "じゃあ、封鎖している入り口を開けなきゃね。",
         "en": "Guess that means we need to get that entrance open.",
-        "ru": "Полагаю, это значит, что надо бы открыть проход."
+        "ru": "Полагаю, это значит, что надо бы открыть проход.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/673.wav"
     },
     {
         "id": "M1020_S0010_G0212_001_a9s",
@@ -153,7 +170,8 @@
         "id": "M1020_S0010_G0214_001_resi",
         "jp": "巻き込まれたら危ないよね？",
         "en": "Wouldn't want to have anyone getting tangled up in that, now, would we?",
-        "ru": "Я не хотела, чтобы кто-нибудь пострадал."
+        "ru": "Я не хотела, чтобы кто-нибудь пострадал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/675.wav"
     },
     {
         "id": "M1020_S0010_G0250_001_resi",
@@ -171,12 +189,14 @@
         "id": "M1020_S0010_G0251_001_a9s",
         "jp": "封鎖しているゲートを爆発で開けるなんて……",
         "en": "Who opens a sealed gate with explosives?",
-        "ru": "Да кто вообще открывает запертые ворота взрывчаткой?"
+        "ru": "Да кто вообще открывает запертые ворота взрывчаткой?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1147.wav"
     },
     {
         "id": "M1020_S0010_G0252_001_a9s",
         "jp": "乱暴な人ですねぇ。",
         "en": "There's gotta be an easier way, right?",
-        "ru": "Наверняка же есть более лёгкий способ?"
+        "ru": "Наверняка же есть более лёгкий способ?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1148.wav"
     }
 ]

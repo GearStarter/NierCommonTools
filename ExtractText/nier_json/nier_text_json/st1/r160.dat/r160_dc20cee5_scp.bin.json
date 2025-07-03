@@ -9,13 +9,15 @@
         "id": "M5440_S0000_G0010_300_a2b",
         "jp": "これは……必要ない。",
         "en": "Hmm... Don't need this.",
-        "ru": "Хм... Мне это не нужно."
+        "ru": "Хм... Мне это не нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/949.wav"
     },
     {
         "id": "M5440_S0000_G0020_300_a2",
         "jp": "これは……必要なさそうだな。",
         "en": "This looks useless.",
-        "ru": "Выглядит бесполезным."
+        "ru": "Выглядит бесполезным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/574.wav"
     },
     {
         "id": "M5440_S0020_G0050_001_pod153",
@@ -27,6 +29,7 @@
         "id": "M5440_S0000_G0030_300_a9s",
         "jp": "これは……必要なさそうですね。",
         "en": "Doesn't look like I'll need this.",
-        "ru": "Не похоже, что оно мне нужно."
+        "ru": "Не похоже, что оно мне нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/213.wav"
     }
 ]

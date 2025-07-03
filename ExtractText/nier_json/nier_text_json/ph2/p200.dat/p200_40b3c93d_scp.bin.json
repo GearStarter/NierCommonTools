@@ -15,13 +15,15 @@
         "id": "M1090_S0020_G0020_201_a9s",
         "jp": "２Ｂに、何て言えば……",
         "en": "How do I tell 2B?",
-        "ru": "Как я скажу это 2B?"
+        "ru": "Как я скажу это 2B?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1570.wav"
     },
     {
         "id": "M1090_S0020_G0030_201_bcast",
         "jp": "緊急指令。コードF２。",
         "en": "Emergency Protocol, code F2.",
-        "ru": "Экстренный протокол, код F2."
+        "ru": "Экстренный протокол, код F2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/843.wav"
     },
     {
         "id": "M1090_S0020_G0040_201_bcast",
@@ -33,7 +35,8 @@
         "id": "M1090_S0020_G0050_201_bcast",
         "jp": "繰り返します。緊急指令。コードF２。",
         "en": "Repeat. Emergency Protocol, code F2.",
-        "ru": "Повторяю. Экстренный протокол, код F2."
+        "ru": "Повторяю. Экстренный протокол, код F2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/845.wav"
     },
     {
         "id": "M1090_S0020_G0060_201_bcast",
@@ -51,19 +54,22 @@
         "id": "M1090_S0020_G0080_201_pod153",
         "jp": "指令：９Ｓに出撃命令。",
         "en": "Alert: Mission orders received.",
-        "ru": "Внимание: получены детали задания."
+        "ru": "Внимание: получены детали задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/222.wav"
     },
     {
         "id": "M1090_S0020_G0090_201_pod153",
         "jp": "レジスタンスキャンプ付近の２Ｂを支援せよ。",
         "en": "Rendezvous with and support unit 2B near the Resistance camp.",
-        "ru": "Встретьтесь и окажите поддержку единице 2B близи лагеря Сопротивления."
+        "ru": "Встретьтесь и окажите поддержку единице 2B близи лагеря Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/223.wav"
     },
     {
         "id": "M1090_S0020_G0100_201_a9s",
         "jp": "詳細状況！",
         "en": "Any details?",
-        "ru": "А поподробнее?"
+        "ru": "А поподробнее?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1572.wav"
     },
     {
         "id": "M1090_S0020_G0110_201_pod153",
@@ -75,7 +81,8 @@
         "id": "M1090_S0020_G0120_201_a9s",
         "jp": "そんな……敵は弱体化した筈じゃ……",
         "en": "What? How? They're supposed to be weakened...",
-        "ru": "Что? Как же так? Они должны быть ослаблены..."
+        "ru": "Что? Как же так? Они должны быть ослаблены...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1573.wav"
     },
     {
         "id": "M1090_S0020_G0130_201_pod153",
@@ -153,7 +160,8 @@
         "id": "M1090_S0020_G0000_300_op",
         "jp": "何が起こってるの！？",
         "en": "What's going on!?",
-        "ru": "Что происходит?!"
+        "ru": "Что происходит?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1872.wav"
     },
     {
         "id": "M1090_S0020_G0002_300_op",
@@ -189,7 +197,8 @@
         "id": "M1090_S0020_G0000_300_op",
         "jp": "何が起こってるの！？",
         "en": "What's going on!?",
-        "ru": "Что происходит?!"
+        "ru": "Что происходит?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1872.wav"
     },
     {
         "id": "M1090_S0020_G0001_300_op",
@@ -201,7 +210,8 @@
         "id": "M1090_S0020_G0000_300_op",
         "jp": "何が起こってるの！？",
         "en": "What's going on!?",
-        "ru": "Что происходит?!"
+        "ru": "Что происходит?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1872.wav"
     },
     {
         "id": "M1090_S0020_G0001_300_op",

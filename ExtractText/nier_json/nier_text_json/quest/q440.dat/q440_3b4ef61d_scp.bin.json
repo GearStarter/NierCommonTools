@@ -129,13 +129,15 @@
         "id": "M5440_S0000_G0010_300_a2b",
         "jp": "これは……必要ない。",
         "en": "Hmm... Don't need this.",
-        "ru": "Хм... Мне это не нужно."
+        "ru": "Хм... Мне это не нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/949.wav"
     },
     {
         "id": "M5440_S0000_G0020_300_a2",
         "jp": "これは……必要なさそうだな。",
         "en": "This looks useless.",
-        "ru": "Это кажется бесполезным."
+        "ru": "Это кажется бесполезным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/574.wav"
     },
     {
         "id": "M5440_S0020_G0050_001_pod153",
@@ -147,7 +149,8 @@
         "id": "M5440_S0000_G0030_300_a9s",
         "jp": "これは……必要なさそうですね。",
         "en": "Doesn't look like I'll need this.",
-        "ru": "Не похоже, что мне это нужно."
+        "ru": "Не похоже, что мне это нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/213.wav"
     },
     {
         "id": "M5440_S0020_G0000_001_pod042",
@@ -159,13 +162,15 @@
         "id": "M5440_S0020_G0010_001_a2b",
         "jp": "これは……ガラクタ？",
         "en": "So it's junk, basically.",
-        "ru": "Просто хлам, по сути."
+        "ru": "Просто хлам, по сути.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/950.wav"
     },
     {
         "id": "M5440_S0020_G0020_001_a2",
         "jp": "ガラクタじゃないか。",
         "en": "Great. Useless crap.",
-        "ru": "Отлично. Бесполезный хлам."
+        "ru": "Отлично. Бесполезный хлам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/575.wav"
     },
     {
         "id": "M5440_S0020_G0030_001_pod042",
@@ -189,7 +194,8 @@
         "id": "M5440_S0020_G0060_001_a2b",
         "jp": "これは……ガラクタ？",
         "en": "So it's just a bunch of junk?",
-        "ru": "Так это просто кучка хлама?"
+        "ru": "Так это просто кучка хлама?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/214.wav"
     },
     {
         "id": "M5440_S0020_G0070_001_pod153",
@@ -225,7 +231,8 @@
         "id": "M5440_S0030_G0090_001_pod042",
         "jp": "解析完了：取得された機械生命体の部品を組み合わせる事で\\n何かの鍵となる。",
         "en": "Processing complete. Machine lifeform parts can be assembled into a key.",
-        "ru": "Обработка завершена. Части машин могут быть собраны в ключ."
+        "ru": "Обработка завершена. Части машин могут быть собраны в ключ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/458.wav"
     },
     {
         "id": "M5440_S0030_G0100_001_pod153",
@@ -249,7 +256,8 @@
         "id": "M5440_S0030_G0130_001_pod153",
         "jp": "解析完了：取得された機械生命体の部品を組み合わせる事で\\n何かの鍵となる。",
         "en": "Processing complete. Machine lifeform parts can be assembled into a key.",
-        "ru": "Обработка завершена. Части машин могут быть собраны в ключ."
+        "ru": "Обработка завершена. Части машин могут быть собраны в ключ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/458.wav"
     },
     {
         "id": "M5440_S0030_G0140_001_pod042",
@@ -279,7 +287,8 @@
         "id": "M5440_S0030_G0180_001_a2b",
         "jp": "蔵書室……あの縦長の場所か。",
         "en": "A library? Must be that long, narrow room.",
-        "ru": "Библиотека? Должно быть, это небольшая дальняя комната."
+        "ru": "Библиотека? Должно быть, это небольшая дальняя комната.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/952.wav"
     },
     {
         "id": "M5440_S0030_G0190_001_a2",
@@ -321,7 +330,8 @@
         "id": "M5440_S0030_G0010_001_a2b",
         "jp": "鍵……",
         "en": "Makes sense.",
-        "ru": "В этом есть смысл."
+        "ru": "В этом есть смысл.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/951.wav"
     },
     {
         "id": "M5440_S0030_G0020_001_pod153",
@@ -333,7 +343,8 @@
         "id": "M5440_S0030_G0030_001_a9s",
         "jp": "鍵か……",
         "en": "A key, huh?",
-        "ru": "Ключ?"
+        "ru": "Ключ?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/215.wav"
     },
     {
         "id": "M5440_S0030_G0040_001_pod042",
@@ -369,7 +380,8 @@
         "id": "M5440_S0050_G0030_001_n02",
         "jp": "ハイジョ……ハイジョ、ハイジョハイジョ！！",
         "en": "Eliminate intruder! Eliminate intruder!",
-        "ru": "Уничтожить нарушителей! Уничтожить нарушителей!"
+        "ru": "Уничтожить нарушителей! Уничтожить нарушителей!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1096.wav"
     },
     {
         "id": "M5440_S0050_G0040_001_a2b",
@@ -465,18 +477,21 @@
         "id": "M5440_S0050_G0110_001_a2b",
         "jp": "これが……財宝？",
         "en": "Is this the treasure?",
-        "ru": "Это сокровище?"
+        "ru": "Это сокровище?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/955.wav"
     },
     {
         "id": "M5440_S0050_G0160_001_a9s",
         "jp": "これが……財宝？",
         "en": "Wait. So is this the treasure?",
-        "ru": "Подожди. Так это сокровище?"
+        "ru": "Подожди. Так это сокровище?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/219.wav"
     },
     {
         "id": "M5440_S0050_G0210_001_a2",
         "jp": "これが……財宝？",
         "en": "So is this the treasure or what?",
-        "ru": "Так это сокровище или что?"
+        "ru": "Так это сокровище или что?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/580.wav"
     }
 ]

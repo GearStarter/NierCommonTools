@@ -3,25 +3,29 @@
         "id": "M1040_S0030_G0000_001_a2b",
         "jp": "全員が……白旗？",
         "en": "They all have white flags...",
-        "ru": "У всех белые флаги..."
+        "ru": "У всех белые флаги...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/522.wav"
     },
     {
         "id": "M1040_S0030_G0010_001_a9s",
         "jp": "戦う意思がない、って事でしょうか？",
         "en": "Looks like they really don't want to fight.",
-        "ru": "Похоже, они действительно не намерены сражаться."
+        "ru": "Похоже, они действительно не намерены сражаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1277.wav"
     },
     {
         "id": "M1040_S0030_G0070_001_a9s",
         "jp": "やっぱりこの村……何か変ですよ。",
         "en": "There's something weird about this village...",
-        "ru": "Эта деревня довольно странная..."
+        "ru": "Эта деревня довольно странная...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1278.wav"
     },
     {
         "id": "M1040_S0030_G0080_001_a9s",
         "jp": "戻って調べましょう。",
         "en": "We should go back and look around some more.",
-        "ru": "Нужно будет ещё как-нибудь вернуться и осмотреть здесь всё."
+        "ru": "Нужно будет ещё как-нибудь вернуться и осмотреть здесь всё.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1279.wav"
     },
     {
         "id": "M1040_S0030_G0005_300_a9s",
@@ -39,25 +43,29 @@
         "id": "M1040_S0030_G0100_001_pascal",
         "jp": "聞いていただきたい事があります。",
         "en": "Before we begin, there's something you must understand...",
-        "ru": "Прежде чем мы начнём, вам стоит кое-что понять..."
+        "ru": "Прежде чем мы начнём, вам стоит кое-что понять...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/382.wav"
     },
     {
         "id": "M1040_S0030_G0110_001_pascal",
         "jp": "私達は貴方の敵ではありません。",
         "en": "We are not your enemies.",
-        "ru": "Мы вам не враги."
+        "ru": "Мы вам не враги.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/383.wav"
     },
     {
         "id": "M1040_S0030_G0120_001_a9s",
         "jp": "２Ｂ！機械生命体の言う事なんて信じちゃダメです！",
         "en": "2B, we can't trust anything the machines say!",
-        "ru": "2B, мы не можем доверять словам машин!"
+        "ru": "2B, мы не можем доверять словам машин!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1280.wav"
     },
     {
         "id": "M1040_S0030_G0130_001_pascal",
         "jp": "……確かに、貴方達にとって私達、機械生命体は敵です。",
         "en": "I understand that you see us as the enemy, but...",
-        "ru": "Я понимаю, что вы видите в нас врагов, но..."
+        "ru": "Я понимаю, что вы видите в нас врагов, но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/384.wav"
     },
     {
         "id": "M1040_S0030_G0140_001_pascal",
@@ -69,13 +77,15 @@
         "id": "M1040_S0030_G0150_001_pascal",
         "jp": "この村に住む者達は……戦いから逃げてきた平和主義者しかいません。",
         "en": "Those who reside here desire nothing more than to live a peaceful existence.",
-        "ru": "Жители этой деревни желают лишь одного — мирной жизни."
+        "ru": "Жители этой деревни желают лишь одного — мирной жизни.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/386.wav"
     },
     {
         "id": "M1040_S0030_G0160_001_pascal",
         "jp": "良ければ、皆さん自身の目で確認してみてください……",
         "en": "Look around for yourself. You'll see that it's true.",
-        "ru": "Взгляните вокруг. И вы сами в этом убедитесь."
+        "ru": "Взгляните вокруг. И вы сами в этом убедитесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/387.wav"
     },
     {
         "id": "M1040_S0031_G0000_001_pascal",
@@ -153,19 +163,22 @@
         "id": "M1040_S0030_G0240_001_pascal",
         "jp": "対話する事でしか、相互理解は得られない……私はそう思っています。",
         "en": "After all, the only way to understand someone is to get to know them. Isn't that right?",
-        "ru": "В конце концов, единственный способ понять кого-либо — получше узнать его. Разве я не прав?"
+        "ru": "В конце концов, единственный способ понять кого-либо — получше узнать его. Разве я не прав?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/392.wav"
     },
     {
         "id": "M1040_S0030_G0250_001_a2b",
         "jp": "そう……",
         "en": "Fair enough.",
-        "ru": "Согласна."
+        "ru": "Согласна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/526.wav"
     },
     {
         "id": "M1040_S0030_G0170_001_pascal",
         "jp": "いかがでしょうか？",
         "en": "Well? What do you think?",
-        "ru": "Ну? Что думаете?"
+        "ru": "Ну? Что думаете?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/388.wav"
     },
     {
         "id": "M1040_S0030_G0180_001_a9s",
@@ -177,19 +190,22 @@
         "id": "M1040_S0030_G0190_001_pascal",
         "jp": "私達が平和を愛している事をご理解いただけましたか？",
         "en": "Now do you believe we're not a threat?",
-        "ru": "Теперь вы верите, что мы вам ничем не угрожаем?"
+        "ru": "Теперь вы верите, что мы вам ничем не угрожаем?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/389.wav"
     },
     {
         "id": "M1040_S0030_G0200_001_a9s",
         "jp": "口だけならいくらでも言える……",
         "en": "Your mouth can say anything it wants...",
-        "ru": "Сказать-то ты можешь всё, что угодно..."
+        "ru": "Сказать-то ты можешь всё, что угодно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1282.wav"
     },
     {
         "id": "M1040_S0030_G0210_001_a9s",
         "jp": "機械には心が無いんだから。",
         "en": "But you still don't have a heart.",
-        "ru": "Но у тебя всё равно нет сердца."
+        "ru": "Но у тебя всё равно нет сердца.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1283.wav"
     },
     {
         "id": "M1040_S0030_G0220_001_pascal",
@@ -201,7 +217,8 @@
         "id": "M1040_S0030_G0230_001_pascal",
         "jp": "でも、これからも良ければこの村に来てください。",
         "en": "Yes, well, you're free to visit our village whenever you like.",
-        "ru": "Да, и ещё кое-что: вы можете приходить в деревню, когда пожелаете."
+        "ru": "Да, и ещё кое-что: вы можете приходить в деревню, когда пожелаете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/391.wav"
     },
     {
         "id": "M1040_S0031_G0060_001_a9s",
@@ -285,7 +302,8 @@
         "id": "M1040_S0030_G0010_300_a2b",
         "jp": "９Ｓ、戻って機械生命体から情報を聞こう。",
         "en": "9S, let's go back and get some data from the machines.",
-        "ru": "9S, нужно ещё раз наведаться к машинам и расспросить их как следует."
+        "ru": "9S, нужно ещё раз наведаться к машинам и расспросить их как следует.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/525.wav"
     },
     {
         "id": "M5920_S0100_G0080_001_op60",
@@ -303,7 +321,8 @@
         "id": "M5920_S0100_G0100_001_op60",
         "jp": "実は、ちょっと好きだった先輩を食事に誘ったら断られちゃって……",
         "en": "Oh, there's this operator I kind of liked, but when I asked her out, she turned me down.",
-        "ru": "Ну, есть один оператор, которая мне нравится, но когда я пригласила её на свидание, она отказала."
+        "ru": "Ну, есть один оператор, которая мне нравится, но когда я пригласила её на свидание, она отказала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/365.wav"
     },
     {
         "id": "M5920_S0100_G0110_001_op60",
@@ -315,19 +334,22 @@
         "id": "M5920_S0100_G0120_001_a2b",
         "jp": "そ、そんな事……聞かれても。",
         "en": "I am definitely not the person to discuss this with.",
-        "ru": "Я определённо не лучший собеседник на подобные темы."
+        "ru": "Я определённо не лучший собеседник на подобные темы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1020.wav"
     },
     {
         "id": "M5920_S0100_G0130_001_op60",
         "jp": "もう、バンカーにいられないです……",
         "en": "I don't think I can stand spending one more day in this Bunker...",
-        "ru": "Не думаю, что смогу вынести в Бункере ещё хоть один день..."
+        "ru": "Не думаю, что смогу вынести в Бункере ещё хоть один день...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/367.wav"
     },
     {
         "id": "M5920_S0100_G0140_001_a2b",
         "jp": "……それは困る。作戦に支障があるから。",
         "en": "You leaving would be bad for me. It would affect mission efficiency.",
-        "ru": "Твой уход плохо отразится на мне. Это снизит эффективность выполнения задачи."
+        "ru": "Твой уход плохо отразится на мне. Это снизит эффективность выполнения задачи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1021.wav"
     },
     {
         "id": "M5920_S0100_G0150_001_op60",
@@ -357,7 +379,8 @@
         "id": "M5920_S0100_G0190_001_a2b",
         "jp": "……以上。通信終了。",
         "en": "That's all. Closing this channel.",
-        "ru": "На этом всё. Конец связи."
+        "ru": "На этом всё. Конец связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1024.wav"
     },
     {
         "id": "M5920_S0100_G0380_001_op210",
@@ -369,7 +392,8 @@
         "id": "M5920_S0100_G0390_001_op210",
         "jp": "本日は９Ｓに重要事項の連絡があります。",
         "en": "I have something important to discuss with you today.",
-        "ru": "Сегодня я хочу обсудить с вами нечто важное."
+        "ru": "Сегодня я хочу обсудить с вами нечто важное.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/242.wav"
     },
     {
         "id": "M5920_S0100_G0400_001_a9s",
@@ -381,13 +405,15 @@
         "id": "M5920_S0100_G0410_001_op210",
         "jp": "整備部から９Ｓの飛行ユニットの扱いについて苦情が入りました。",
         "en": "Our maintenance team filed a complaint about how you treat your flight unit.",
-        "ru": "Наша ремонтная команда подала жалобу на то, как вы относитесь к своему полётному модулю."
+        "ru": "Наша ремонтная команда подала жалобу на то, как вы относитесь к своему полётному модулю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/243.wav"
     },
     {
         "id": "M5920_S0100_G0420_001_op210",
         "jp": "勝手に改造するのは止めて欲しい、との事です。",
         "en": "They requested that you cease making unauthorized modifications.",
-        "ru": "Они просили, чтобы вы прекратили проводить несанкционированные модификации."
+        "ru": "Они просили, чтобы вы прекратили проводить несанкционированные модификации.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/244.wav"
     },
     {
         "id": "M5920_S0100_G0430_001_a9s",
@@ -399,7 +425,8 @@
         "id": "M5920_S0100_G0440_001_op210",
         "jp": "反論があるなら自分で整備部に行って話すなり殴るなりして\\n解決してください。",
         "en": "If you have a rebuttal, you need to discuss it with maintenance. Fight it out if you must.",
-        "ru": "Если у вас есть встречные доводы, обсудите их с ремонтной группой. Вам следует довести спор до конца."
+        "ru": "Если у вас есть встречные доводы, обсудите их с ремонтной группой. Вам следует довести спор до конца.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/245.wav"
     },
     {
         "id": "M5920_S0100_G0450_001_op210",
@@ -411,7 +438,8 @@
         "id": "M5920_S0100_G0460_001_a9s",
         "jp": "……オペレーターさんって意外と乱暴なのかな。",
         "en": "Geez. My operator's more prone to violence than I thought.",
-        "ru": "Блин. Мой оператор куда жёстче, чем я думал."
+        "ru": "Блин. Мой оператор куда жёстче, чем я думал.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/368.wav"
     },
     {
         "id": "M5920_S0090_G0130_001_human",
@@ -429,25 +457,29 @@
         "id": "M5920_S0090_G0150_001_human",
         "jp": "そして、我々人類は月に逃げ延びる事になった。",
         "en": "Millennia since mankind was forced to evacuate to the surface of the moon.",
-        "ru": "Тысячелетий с тех пор, как человечество было вынуждено эвакуироваться на поверхность Луны."
+        "ru": "Тысячелетий с тех пор, как человечество было вынуждено эвакуироваться на поверхность Луны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/76.wav"
     },
     {
         "id": "M5920_S0090_G0160_001_human",
         "jp": "しかし、今もなお諸君らの戦いによって、我々は存続する事が出来ている。",
         "en": "But thanks to your continued struggle, we have been able to survive.",
-        "ru": "Но, благодаря вашей неустанной борьбе, мы смогли выжить."
+        "ru": "Но, благодаря вашей неустанной борьбе, мы смогли выжить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/77.wav"
     },
     {
         "id": "M5920_S0090_G0170_001_human",
         "jp": "諸君らアンドロイド兵こそが、我々人類の最後の希望なのだ。",
         "en": "You, our android soldiers, are the last hope of humanity.",
-        "ru": "Вы, наши солдаты андроиды — последняя надежда человечества."
+        "ru": "Вы, наши солдаты андроиды — последняя надежда человечества.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/78.wav"
     },
     {
         "id": "M5920_S0090_G0180_001_human",
         "jp": "健闘を期待する。",
         "en": "We look forward to your continued success in combat.",
-        "ru": "Мы с нетерпением ждём ваших дальнейших успехов в бою."
+        "ru": "Мы с нетерпением ждём ваших дальнейших успехов в бою.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/79.wav"
     },
     {
         "id": "M5920_S0090_G0190_001_human",

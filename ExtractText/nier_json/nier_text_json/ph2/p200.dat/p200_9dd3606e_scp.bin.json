@@ -3,7 +3,8 @@
         "id": "M1090_S0230_G0000_001_a9s",
         "jp": "クソッ！ここにも敵が！",
         "en": "Damn it! They're here too!",
-        "ru": "Чёрт! Они и здесь!"
+        "ru": "Чёрт! Они и здесь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1584.wav"
     },
     {
         "id": "M1090_S0230_G0010_001_pascal",
@@ -15,37 +16,43 @@
         "id": "M1090_S0230_G0020_001_pascal",
         "jp": "ネットワークにぶら下がっている機械生命体が全部暴走したらしく……",
         "en": "It seems the machines on the network have gone berserk.",
-        "ru": "По-видимому, машины в этой сети впали в безумие."
+        "ru": "По-видимому, машины в этой сети впали в безумие.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/475.wav"
     },
     {
         "id": "M1090_S0230_G0030_001_pascal",
         "jp": "村の入口を封鎖して応戦しているのですが、",
         "en": "We've sealed off the entrance to the village and are trying to hold them off, but...",
-        "ru": "Мы заблокировали вход в деревню и пытаемся сдержать их, но..."
+        "ru": "Мы заблокировали вход в деревню и пытаемся сдержать их, но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/476.wav"
     },
     {
         "id": "M1090_S0230_G0040_001_pascal",
         "jp": "私達の武装では……",
         "en": "With these weapons, there's only so much we can do...",
-        "ru": "С таким оружием долго мы не продержимся..."
+        "ru": "С таким оружием долго мы не продержимся...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/477.wav"
     },
     {
         "id": "M1090_S0230_G0050_001_a2b",
         "jp": "まず、こいつを排除する。",
         "en": "Let's take these guys out first.",
-        "ru": "Давай сначала прихватим тех ребят."
+        "ru": "Давай сначала прихватим тех ребят.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/701.wav"
     },
     {
         "id": "M1090_S0230_G0060_001_pascal",
         "jp": "ありがとうございます……助かりました。",
         "en": "You saved us! Oh, thank you so much...",
-        "ru": "Ты спасла нас! Ох, огромное спасибо тебе..."
+        "ru": "Ты спасла нас! Ох, огромное спасибо тебе...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav"
     },
     {
         "id": "M1090_S0230_G0070_001_a2b",
         "jp": "一体、何があったんだ？",
         "en": "What happened here?",
-        "ru": "Что здесь произошло?"
+        "ru": "Что здесь произошло?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/702.wav"
     },
     {
         "id": "M1090_S0230_G0080_001_pascal",
@@ -57,7 +64,8 @@
         "id": "M1090_S0230_G0090_001_pascal",
         "jp": "おそらく、全体を統括しているユニットが暴走したかと。",
         "en": "I think the unit presiding over them may have gone mad.",
-        "ru": "Я считаю, что управляющая единица вышла из-под контроля."
+        "ru": "Я считаю, что управляющая единица вышла из-под контроля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/480.wav"
     },
     {
         "id": "M1090_S0230_G0100_001_a9s",
@@ -69,49 +77,57 @@
         "id": "M1090_S0230_G0110_001_a2b",
         "jp": "その統括しているユニットを破壊すれば、全体の活動が停止するの？",
         "en": "If we destroy this presiding unit, will it stop the rest?",
-        "ru": "Если мы его уничтожим, остановит ли это остальных?"
+        "ru": "Если мы его уничтожим, остановит ли это остальных?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/703.wav"
     },
     {
         "id": "M1090_S0230_G0120_001_pascal",
         "jp": "おそらく……",
         "en": "Most likely, yes...",
-        "ru": "Скорее всего, да..."
+        "ru": "Скорее всего, да...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav"
     },
     {
         "id": "M1090_S0230_G0130_001_a2b",
         "jp": "ポッド！イヴの位置を特定出来る？",
         "en": "Pod, I need you to locate Eve's current position.",
-        "ru": "Бот, мне нужна информация по местоположению Евы."
+        "ru": "Бот, мне нужна информация по местоположению Евы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/704.wav"
     },
     {
         "id": "M1090_S0230_G0140_001_pod042",
         "jp": "報告：位置は既に特定。地図にポイント完了。",
         "en": "Location has been detected and placed on map.",
-        "ru": "Местоположение обнаружено и отмечено на карте."
+        "ru": "Местоположение обнаружено и отмечено на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/703.wav"
     },
     {
         "id": "M1090_S0230_G0150_001_a2b",
         "jp": "私達がイヴを倒す。",
         "en": "We'll take care of Eve.",
-        "ru": "Мы позаботимся о Еве."
+        "ru": "Мы позаботимся о Еве.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/705.wav"
     },
     {
         "id": "M1090_S0230_G0160_001_a9s",
         "jp": "パスカルは村を守ってて！",
         "en": "You just worry about keeping the village safe, okay?",
-        "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?"
+        "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav"
     },
     {
         "id": "M1090_S0230_G1060_001_pascal",
         "jp": "ありがとうございます……助かりました。",
         "en": "You saved us! Oh, thank you so much...",
-        "ru": "Ты спасла нас! Ох, огромное спасибо тебе..."
+        "ru": "Ты спасла нас! Ох, огромное спасибо тебе...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/478.wav"
     },
     {
         "id": "M1090_S0230_G0070_001_a2b",
         "jp": "一体、何があったんだ？",
         "en": "What happened here?",
-        "ru": "Что здесь произошло?"
+        "ru": "Что здесь произошло?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/702.wav"
     },
     {
         "id": "M1090_S0230_G1080_001_pascal",
@@ -123,7 +139,8 @@
         "id": "M1090_S0230_G1090_001_pascal",
         "jp": "おそらく、全体を統括しているユニットが暴走したかと。",
         "en": "I think the unit presiding over them may have gone mad.",
-        "ru": "Я считаю, что управляющая единица вышла из-под контроля."
+        "ru": "Я считаю, что управляющая единица вышла из-под контроля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/480.wav"
     },
     {
         "id": "M1090_S0230_G0100_001_a9s",
@@ -135,42 +152,49 @@
         "id": "M1090_S0230_G0110_001_a2b",
         "jp": "その統括しているユニットを破壊すれば、全体の活動が停止するの？",
         "en": "If we destroy this presiding unit, will it stop the rest?",
-        "ru": "Если мы его уничтожим, остановит ли это остальных?"
+        "ru": "Если мы его уничтожим, остановит ли это остальных?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/703.wav"
     },
     {
         "id": "M1090_S0230_G1120_001_pascal",
         "jp": "おそらく……",
         "en": "Most likely, yes...",
-        "ru": "Скорее всего, да..."
+        "ru": "Скорее всего, да...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav"
     },
     {
         "id": "M1090_S0230_G0130_001_a2b",
         "jp": "ポッド！イヴの位置を特定出来る？",
         "en": "Pod, I need you to locate Eve's current position.",
-        "ru": "Бот, мне нужна информация по местоположению Евы."
+        "ru": "Бот, мне нужна информация по местоположению Евы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/704.wav"
     },
     {
         "id": "M1090_S0230_G0140_001_pod042",
         "jp": "報告：位置は既に特定。地図にポイント完了。",
         "en": "Location has been detected and placed on map.",
-        "ru": "Местоположение обнаружено и отмечено на карте."
+        "ru": "Местоположение обнаружено и отмечено на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/703.wav"
     },
     {
         "id": "M1090_S0230_G0150_001_a2b",
         "jp": "私達がイヴを倒す。",
         "en": "We'll take care of Eve.",
-        "ru": "Мы позаботимся о Еве."
+        "ru": "Мы позаботимся о Еве.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/705.wav"
     },
     {
         "id": "M1090_S0230_G0160_001_a9s",
         "jp": "パスカルは村を守ってて！",
         "en": "You just worry about keeping the village safe, okay?",
-        "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?"
+        "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav"
     },
     {
         "id": "M1090_S0230_G0170_001_pascal",
         "jp": "お気をつけて！",
         "en": "Do be careful!",
-        "ru": "Будьте осторожны!"
+        "ru": "Будьте осторожны!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/482.wav"
     }
 ]

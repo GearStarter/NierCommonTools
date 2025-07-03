@@ -327,31 +327,36 @@
         "id": "M5032_S0030_G0510_001_a9s",
         "jp": "自分から死を選ぶなんて……",
         "en": "Wow... It just chose death.",
-        "ru": "Ну и ну... Он выбрал смерть."
+        "ru": "Ну и ну... Он выбрал смерть.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1940.wav"
     },
     {
         "id": "M5032_S0030_G0520_001_a2b",
         "jp": "私達も、同じ。",
         "en": "We're no different.",
-        "ru": "Мы с ними похожи."
+        "ru": "Мы с ними похожи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/821.wav"
     },
     {
         "id": "M5032_S0030_G0530_001_a9s",
         "jp": "え？",
         "en": "Huh? How so?",
-        "ru": "А? И чем же?"
+        "ru": "А? И чем же?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1941.wav"
     },
     {
         "id": "M5032_S0030_G0540_001_a2b",
         "jp": "同じように大量の機械生命体を破壊してきた。",
         "en": "We've destroyed machines beyond counting.",
-        "ru": "Мы без конца уничтожаем машины."
+        "ru": "Мы без конца уничтожаем машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/822.wav"
     },
     {
         "id": "M5032_S0030_G0550_001_a2b",
         "jp": "もしそれが罪だと問われたら……",
         "en": "Perhaps someone sees that as a sin.",
-        "ru": "Возможно, кто-то из нас тоже видит в этом грех."
+        "ru": "Возможно, кто-то из нас тоже видит в этом грех.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/823.wav"
     },
     {
         "id": "M5032_S0030_G0560_001_a9s",

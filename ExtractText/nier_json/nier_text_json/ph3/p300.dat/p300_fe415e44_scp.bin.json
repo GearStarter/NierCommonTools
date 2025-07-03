@@ -9,13 +9,15 @@
         "id": "M3000_S0200_G0010_001_a2b",
         "jp": "状況は？",
         "en": "What's our status?",
-        "ru": "Каков наш статус?"
+        "ru": "Каков наш статус?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/722.wav"
     },
     {
         "id": "M3000_S0200_G0020_001_a9s",
         "jp": "作戦は開始。先行部隊は既に交戦中。",
         "en": "The operation is underway, and a few squads have already engaged the enemy.",
-        "ru": "Операция продолжается, и несколько отрядов уже вступили в бой с противником."
+        "ru": "Операция продолжается, и несколько отрядов уже вступили в бой с противником.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1651.wav"
     },
     {
         "id": "M3000_S0200_G0030_001_a9s",
@@ -27,7 +29,8 @@
         "id": "M3000_S0200_G0031_001_a9s",
         "jp": "先行部隊が交戦している場所をマップに転送しました。\\n援護に向かいましょう。",
         "en": "I forwarded our squads' current positions to your map. You should head over there ASAP.",
-        "ru": "Я отправил тебе расположение наших отрядов на карте. Тебе следует выдвигаться как можно скорее."
+        "ru": "Я отправил тебе расположение наших отрядов на карте. Тебе следует выдвигаться как можно скорее.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1654.wav"
     },
     {
         "id": "M3000_S0200_G0040_001_a2b",
@@ -39,7 +42,8 @@
         "id": "M3000_S0200_G0081_001_a9s",
         "jp": "視界が悪いですね……",
         "en": "Man, I can't see a thing...",
-        "ru": "Блин, я совсем ничего не вижу..."
+        "ru": "Блин, я совсем ничего не вижу...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1658.wav"
     },
     {
         "id": "M3000_S0200_G0082_001_pod153",
@@ -51,25 +55,29 @@
         "id": "M3000_S0200_G0083_001_a9s",
         "jp": "『イヴ』のネットワークが破壊されたのに、\\nどうして奴らは暴走してるんでしょう。",
         "en": "Why are they going nuts like this? I thought Eve's network was destroyed.",
-        "ru": "Почему они вдруг с ума посходили? Я думал, мы уничтожили сеть Евы."
+        "ru": "Почему они вдруг с ума посходили? Я думал, мы уничтожили сеть Евы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1659.wav"
     },
     {
         "id": "M3000_S0200_G0084_001_a2b",
         "jp": "……私達は、戦うだけ。",
         "en": "All we can do is fight.",
-        "ru": "Всё что мы можем — это сражаться."
+        "ru": "Всё что мы можем — это сражаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/728.wav"
     },
     {
         "id": "M3000_S0200_G0090_001_a7b",
         "jp": "こちら７Ｂ。先行攻撃部隊デルタ、隊長。",
         "en": "This is unit 7B with Vanguard Squadron Delta.",
-        "ru": "На связи 7B из авангарда отряда Дельта."
+        "ru": "На связи 7B из авангарда отряда Дельта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1070.wav"
     },
     {
         "id": "M3000_S0200_G0100_001_a7b",
         "jp": "交戦中の機械生命体が暴れていて手を付けられない。",
         "en": "We're currently pinned down by a number of machines that appear to have lost their minds.",
-        "ru": "Прямо сейчас нас прижала куча машин, которые, похоже, сошли с ума."
+        "ru": "Прямо сейчас нас прижала куча машин, которые, похоже, сошли с ума.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1071.wav"
     },
     {
         "id": "M3000_S0200_G0110_001_a2b",
@@ -81,13 +89,15 @@
         "id": "M3000_S0200_G0120_001_a2b",
         "jp": "今からそちらの援護に向かう。",
         "en": "We're heading over now to provide support.",
-        "ru": "Мы немедленно выдвигаемся для оказания поддержки."
+        "ru": "Мы немедленно выдвигаемся для оказания поддержки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/731.wav"
     },
     {
         "id": "M3000_S0200_G0130_001_a7b",
         "jp": "了解。感謝する。",
         "en": "Roger, 2B. Much appreciated.",
-        "ru": "Принято, 2B. Премного благодарна."
+        "ru": "Принято, 2B. Премного благодарна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1072.wav"
     },
     {
         "id": "M3000_S0200_G0140_001_a7b",
@@ -99,13 +109,15 @@
         "id": "M3000_S0200_G0150_001_a9s",
         "jp": "僕達は次の部隊の援護に向かいます！",
         "en": "We're heading out to support the next squad.",
-        "ru": "Мы выдвигаемся на поддержку к следующему отряду."
+        "ru": "Мы выдвигаемся на поддержку к следующему отряду.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1661.wav"
     },
     {
         "id": "M3000_S0200_G0160_001_a7b",
         "jp": "私達もそちらに同行し、援護しよう。",
         "en": "Understood. We'll join you there and lend a hand.",
-        "ru": "Поняла. Мы объединимся с вами и окажем поддержку."
+        "ru": "Поняла. Мы объединимся с вами и окажем поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1074.wav"
     },
     {
         "id": "M3000_S0200_G0170_001_a2b",
@@ -123,13 +135,15 @@
         "id": "M3000_S0200_G0031_300_a4b",
         "jp": "こちら４Ｂ。先行攻撃部隊アルファ、隊長。",
         "en": "This is 4B, captain of Vanguard Squadron Alpha.",
-        "ru": "На связи 4B, капитан авангарда отряда Альфа."
+        "ru": "На связи 4B, капитан авангарда отряда Альфа.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1053.wav"
     },
     {
         "id": "M3000_S0200_G0040_300_a4b",
         "jp": "敵の攻撃に手を焼いている。",
         "en": "We're being worn down by a fierce enemy attack.",
-        "ru": "Нас сильно потрепало после нападения противника."
+        "ru": "Нас сильно потрепало после нападения противника.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1054.wav"
     },
     {
         "id": "M3000_S0200_G0050_300_a2b",
@@ -141,13 +155,15 @@
         "id": "M3000_S0200_G0060_300_a2b",
         "jp": "今からそちらの援護に向かう。",
         "en": "We're on our way.",
-        "ru": "Мы уже в пути."
+        "ru": "Мы уже в пути.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/726.wav"
     },
     {
         "id": "M3000_S0200_G0070_300_a4b",
         "jp": "了解。感謝する。",
         "en": "Roger. And thanks.",
-        "ru": "Принято. Спасибо."
+        "ru": "Принято. Спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1055.wav"
     },
     {
         "id": "M3000_S0200_G0080_300_a4b",
@@ -159,13 +175,15 @@
         "id": "M3000_S0200_G0090_300_a9s",
         "jp": "僕達は次の部隊の援護に向かいます！",
         "en": "We're heading out to support other squadrons.",
-        "ru": "Мы выдвигаемся на поддержку другим отрядам."
+        "ru": "Мы выдвигаемся на поддержку другим отрядам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1660.wav"
     },
     {
         "id": "M3000_S0200_G0100_300_a4b",
         "jp": "我々もそちらに同行し、援護しよう。",
         "en": "We'll join you and provide further backup.",
-        "ru": "Мы присоединимся к вам и окажем дальнейшую поддержку."
+        "ru": "Мы присоединимся к вам и окажем дальнейшую поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1057.wav"
     },
     {
         "id": "M3000_S0200_G0392_300_telo",
@@ -177,13 +195,15 @@
         "id": "M3000_S0200_G0120_300_a3b",
         "jp": "こちら３Ｂ。シータ部隊隊長だ。",
         "en": "This is 3B, captain of Theta Squadron.",
-        "ru": "На связи 3B, капитан отряда Тета."
+        "ru": "На связи 3B, капитан отряда Тета.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1045.wav"
     },
     {
         "id": "M3000_S0200_G0130_300_a3b",
         "jp": "機械生命体共がどんどん増えていて手に負えない。",
         "en": "The enemy machines are multiplying in front of us. We can't hold this position!",
-        "ru": "Машины всё продолжают наступать. Мы не сможем удержать эту позицию!"
+        "ru": "Машины всё продолжают наступать. Мы не сможем удержать эту позицию!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1046.wav"
     },
     {
         "id": "M3000_S0200_G0140_300_a3b",
@@ -207,25 +227,29 @@
         "id": "M3000_S0200_G0180_001_a2b",
         "jp": "全滅……間に合わなかった。",
         "en": "Damn it, we took too long. They're gone.",
-        "ru": "Проклятие, мы слишком долго возились. Они погибли."
+        "ru": "Проклятие, мы слишком долго возились. Они погибли.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/733.wav"
     },
     {
         "id": "M3000_S0200_G0190_001_a9s",
         "jp": "２Ｂ。他のポイントも急いで援護しにいこう。",
         "en": "We should head to another area and provide support.",
-        "ru": "Мы должны отправиться в другую зону и оказать поддержку."
+        "ru": "Мы должны отправиться в другую зону и оказать поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1662.wav"
     },
     {
         "id": "M3000_S0200_G0200_001_a8b",
         "jp": "こちら攻撃部隊オメガの８Ｂ。担当区域を制圧した。",
         "en": "This is unit 8B with Attack Squadron Omega. We've gained control of our assigned zone.",
-        "ru": "На связи 8B из отряда Омега. Мы закрепились на предписанной нам зоне."
+        "ru": "На связи 8B из отряда Омега. Мы закрепились на предписанной нам зоне.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1075.wav"
     },
     {
         "id": "M3000_S0200_G0210_001_a8b",
         "jp": "他の地域の援護に向かう。",
         "en": "Heading out now to provide support elsewhere.",
-        "ru": "Выдвигаемся для оказания поддержки другим отрядам."
+        "ru": "Выдвигаемся для оказания поддержки другим отрядам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1076.wav"
     },
     {
         "id": "M3000_S0200_G0001_300_a9s",
@@ -237,13 +261,15 @@
         "id": "M3000_S0200_G0011_300_a9s",
         "jp": "一度ハッキングした機械生命体のようです！",
         "en": "This is a machine I've hacked into before!",
-        "ru": "Это же машина, которую я уже взламывал ранее!"
+        "ru": "Это же машина, которую я уже взламывал ранее!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1650.wav"
     },
     {
         "id": "M3000_S0200_G0021_300_a9s",
         "jp": "遅効性ウィルスを発動させて物理ダメージを与えれないか試してみます。",
         "en": "I'll set off the delayed virus to see if I can damage it physically.",
-        "ru": "Я запущу вирус с задержкой, чтобы проверить, смогу ли я навредить им физически."
+        "ru": "Я запущу вирус с задержкой, чтобы проверить, смогу ли я навредить им физически.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1652.wav"
     },
     {
         "id": "M5920_S0010_G0310_001_pod042",

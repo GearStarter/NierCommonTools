@@ -3,25 +3,29 @@
         "id": "M1060_S0010_G0091_001_a9s",
         "jp": "ここは好戦的な敵が多いですね。",
         "en": "There sure are a lot of hostile enemies here.",
-        "ru": "Здесь множество противников."
+        "ru": "Здесь множество противников.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1417.wav"
     },
     {
         "id": "M1060_S0010_G0092_001_a9s",
         "jp": "どうして機械生命体は襲ってくるタイプとそうでないタイプがいるんだろう……",
         "en": "Why are some machines so aggressive, while others couldn't care less about us?",
-        "ru": "Почему некоторые машины крайне агрессивны, в то время как другие попросту не обращают на нас внимания?"
+        "ru": "Почему некоторые машины крайне агрессивны, в то время как другие попросту не обращают на нас внимания?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1418.wav"
     },
     {
         "id": "M1060_S0040_G0000_001_a9s",
         "jp": "このあたりは前回の大戦争の時に地盤が破壊されてしまって……",
         "en": "The bedrock here was bombed out in the last war.",
-        "ru": "Коренные породы материка были разрушены бомбардировками в ходе последней войны."
+        "ru": "Коренные породы материка были разрушены бомбардировками в ходе последней войны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1419.wav"
     },
     {
         "id": "M1060_S0040_G0010_001_a9s",
         "jp": "街全体が沈下しつつあるんですよね。",
         "en": "Looks like the whole city is starting to sink as a result.",
-        "ru": "И с тех пор город начал уходить под воду."
+        "ru": "И с тех пор город начал уходить под воду.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1421.wav"
     },
     {
         "id": "M1060_S0040_G0011_001_pod042",
@@ -33,7 +37,8 @@
         "id": "M1060_S0040_G0012_001_a2b",
         "jp": "あれを守ればいいのか……",
         "en": "Is that what we need to protect?",
-        "ru": "Это то, что нам нужно защитить?"
+        "ru": "Это то, что нам нужно защитить?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/577.wav"
     },
     {
         "id": "M1060_S0040_G0020_001_a9s",
@@ -45,31 +50,36 @@
         "id": "M1060_S0040_G0030_001_a2b",
         "jp": "アンドロイドは風呂に入る必要はない。",
         "en": "Androids don't need to bathe.",
-        "ru": "У андроидов нет необходимости принимать душ."
+        "ru": "У андроидов нет необходимости принимать душ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/578.wav"
     },
     {
         "id": "M1060_S0040_G0040_001_a2b",
         "jp": "定期的な部品洗浄メンテナンスさえあれば問題ない筈。",
         "en": "As long as you perform regular cleaning and maintenance, bathing is unnecessary.",
-        "ru": "До тех пор, пока ты регулярно проводишь чистку и техобслуживание, купание тебе не потребуется."
+        "ru": "До тех пор, пока ты регулярно проводишь чистку и техобслуживание, купание тебе не потребуется.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/579.wav"
     },
     {
         "id": "M1060_S0040_G0050_001_a9s",
         "jp": "もー。２Ｂは……気分ですよ！気分。",
         "en": "Yeah, but come on, 2B, it still FEELS good!",
-        "ru": "Да ладно тебе, 2B, это же ТАК круто!"
+        "ru": "Да ладно тебе, 2B, это же ТАК круто!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1423.wav"
     },
     {
         "id": "M1060_S0040_G0060_001_a9s",
         "jp": "これで、このあたりの機械生命体は概ね排除できましたね……",
         "en": "I think that's the last of the machines.",
-        "ru": "Я думаю, это была последняя машина."
+        "ru": "Я думаю, это была последняя машина.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1424.wav"
     },
     {
         "id": "M1060_S0040_G0070_001_cmd",
         "jp": "２B、９S。",
         "en": "2B? 9S? Come in.",
-        "ru": "2B? 9S? Приём."
+        "ru": "2B? 9S? Приём.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/83.wav"
     },
     {
         "id": "M1060_S0040_G0080_001_a9s",
@@ -81,7 +91,8 @@
         "id": "M1060_S0040_G0090_001_cmd",
         "jp": "緊急司令だ。",
         "en": "Emergency orders incoming.",
-        "ru": "Ожидайте поступления срочных указаний."
+        "ru": "Ожидайте поступления срочных указаний.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/84.wav"
     },
     {
         "id": "M1060_S0040_G0100_001_cmd",
@@ -93,24 +104,28 @@
         "id": "M1060_S0040_G0110_001_cmd",
         "jp": "しかし、その空母が機械生命体達の攻撃を受け、交戦状態に入っている。",
         "en": "It's currently being engaged by a swarm of machines.",
-        "ru": "В настоящее время его осаждает множество машин."
+        "ru": "В настоящее время его осаждает множество машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/86.wav"
     },
     {
         "id": "M1060_S0040_G0120_001_cmd",
         "jp": "既に廃墟都市方面に駐留中の全ヨルハ部隊に連絡をしているが、\\n君達にも援護に参加して欲しい。",
         "en": "I've asked all YoRHa troops in the city ruins for assistance, and I'll need you to provide backup as well.",
-        "ru": "Я запросила поддержки у всех солдат YoRHa с городских руин, и мне нужно, чтобы вы также оказали помощь."
+        "ru": "Я запросила поддержки у всех солдат YoRHa с городских руин, и мне нужно, чтобы вы также оказали помощь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/87.wav"
     },
     {
         "id": "M1060_S0040_G0130_001_cmd",
         "jp": "マップデータ及び飛行ユニットを転送する。",
         "en": "I'm sending flight units and coordinates now.",
-        "ru": "Я высылаю полётные модули и координаты задания."
+        "ru": "Я высылаю полётные модули и координаты задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/88.wav"
     },
     {
         "id": "M1060_S0040_G0140_001_cmd",
         "jp": "以上。",
         "en": "Good luck. Out.",
-        "ru": "Удачи. Конец связи."
+        "ru": "Удачи. Конец связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_004/89.wav"
     }
 ]

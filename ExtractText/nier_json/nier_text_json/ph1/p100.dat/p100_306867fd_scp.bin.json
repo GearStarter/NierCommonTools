@@ -3,67 +3,78 @@
         "id": "M1010_S0060_G0000_001_a9s",
         "jp": "ここがレジスタンスキャンプか……",
         "en": "So this is the Resistance Camp, huh?",
-        "ru": "Значит, это и есть Лагерь Сопротивления, да?"
+        "ru": "Значит, это и есть Лагерь Сопротивления, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1138.wav"
     },
     {
         "id": "M1010_S0060_G0010_001_a9s",
         "jp": "まず、リーダーに情報を聞いてみましょうよ。",
         "en": "We should probably go talk to their leader first thing.",
-        "ru": "Пожалуй, для начала нам стоит поговорить с их лидером."
+        "ru": "Пожалуй, для начала нам стоит поговорить с их лидером.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1139.wav"
     },
     {
         "id": "M1010_S0060_G0020_001_ane",
         "jp": "お前達は……",
         "en": "You're...",
-        "ru": "Ты же..."
+        "ru": "Ты же...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/742.wav"
     },
     {
         "id": "M1010_S0060_G0025_001_ane",
         "jp": "二号……",
         "en": "Number Two...",
-        "ru": "Номер 2..."
+        "ru": "Номер 2...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/743.wav"
     },
     {
         "id": "M1010_S0060_G0030_001_a9s",
         "jp": "あれ？２Ｂの事、知ってるんですか？",
         "en": "Hmm? You know about 2B?",
-        "ru": "Хм? Вы знаете о 2B?"
+        "ru": "Хм? Вы знаете о 2B?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1140.wav"
     },
     {
         "id": "M1010_S0060_G0040_001_ane",
         "jp": "……いや、バンカーから連絡が来てたからな。",
         "en": "Um... Yes, well, the Bunker told me to expect you.",
-        "ru": "Эм... Да, ну, мне поступило сообщение из Бункера о том, что вы прибудете."
+        "ru": "Эм... Да, ну, мне поступило сообщение из Бункера о том, что вы прибудете.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/744.wav"
     },
     {
         "id": "M1010_S0060_G0050_001_ane",
         "jp": "私の名前はアネモネ。",
         "en": "My name is Anemone.",
-        "ru": "Меня зовут Анемона."
+        "ru": "Меня зовут Анемона.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/745.wav"
     },
     {
         "id": "M1010_S0060_G0060_001_ane",
         "jp": "この辺り一帯のアンドロイドレジスタンスを取りまとめている。",
         "en": "I'm the leader of the android Resistance that controls most of this territory.",
-        "ru": "Я лидер Сопротивления андроидов, которое контролирует большую часть здешней территории."
+        "ru": "Я лидер Сопротивления андроидов, которое контролирует большую часть здешней территории.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/746.wav"
     },
     {
         "id": "M1010_S0060_G0070_001_ane",
         "jp": "バンカーから話は聞いている。このエリアの調査担当になったらしいな。",
         "en": "You must be the new scouts we heard about.",
-        "ru": "Вы, должно быть, новобранцы-разведчики, о которых мы столько слышали."
+        "ru": "Вы, должно быть, новобранцы-разведчики, о которых мы столько слышали.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/747.wav"
     },
     {
         "id": "M1010_S0060_G0080_001_ane",
         "jp": "情報は私よりも他の連中の方が詳しいだろう。",
         "en": "Well, I'm sure my people will have plenty of information for you.",
-        "ru": "Я уверена, у моих подчинённых есть масса информации для вас."
+        "ru": "Я уверена, у моих подчинённых есть масса информации для вас.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/748.wav"
     },
     {
         "id": "M1010_S0060_G0090_001_ane",
         "jp": "私を通さなくていいから、好きに聞いてくれ。",
         "en": "Please, feel free to ask them anything you like.",
-        "ru": "Не стесняйтесь спрашивать их о чём угодно."
+        "ru": "Не стесняйтесь спрашивать их о чём угодно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/749.wav"
     },
     {
         "id": "M1010_S0060_G0100_001_ane",
@@ -153,7 +164,8 @@
         "id": "M1010_S0050_G0040_300_a9s",
         "jp": "ここは植物の侵食がかなり進んでいますが、\\n当時はかなり大きな都市だったんでしょうね。",
         "en": "This must have been quite a city once upon a time. Too bad vegetation's claimed most of it now...",
-        "ru": "Должно быть, раньше здесь был крупный город. Но буйная растительность взяла своё..."
+        "ru": "Должно быть, раньше здесь был крупный город. Но буйная растительность взяла своё...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1137.wav"
     },
     {
         "id": "M5920_S0100_G0000_001_op60",
@@ -171,25 +183,29 @@
         "id": "M5920_S0100_G0020_001_op60",
         "jp": "それは良かったです。今日の地球の天気は良いですか？",
         "en": "Good to hear. Say, how's the weather on Earth today? Good?",
-        "ru": "Рада слышать. Скажи, а какая сегодня погода на Земле? Хорошая?"
+        "ru": "Рада слышать. Скажи, а какая сегодня погода на Земле? Хорошая?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/360.wav"
     },
     {
         "id": "M5920_S0100_G0030_001_a2b",
         "jp": "問題なし……それは作戦に関係する情報？",
         "en": "It's fine. Does that question have anything to do with our operation?",
-        "ru": "Отличная. Этот вопрос как-то связан с нашей операцией?"
+        "ru": "Отличная. Этот вопрос как-то связан с нашей операцией?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1017.wav"
     },
     {
         "id": "M5920_S0100_G0040_001_op60",
         "jp": "いえいえ、そうではなくて。天気がいいと気分が良いのかなー、なんて。",
         "en": "Not really! I just figured it might feel nice to have some good weather.",
-        "ru": "Не совсем! Я просто представила, каково это — почувствовать хорошую погоду."
+        "ru": "Не совсем! Я просто представила, каково это — почувствовать хорошую погоду.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/361.wav"
     },
     {
         "id": "M5920_S0100_G0050_001_a2b",
         "jp": "気分が良くても良くなくても、作戦には関係ない。",
         "en": "Feeling nice has no bearing on completing missions.",
-        "ru": "Чувство приятного никак не относится к выполнению нашего задания."
+        "ru": "Чувство приятного никак не относится к выполнению нашего задания.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1018.wav"
     },
     {
         "id": "M5920_S0100_G0060_001_op60",
@@ -201,7 +217,8 @@
         "id": "M5920_S0100_G0070_001_op60",
         "jp": "それでは、また！",
         "en": "Anyway, talk to you later!",
-        "ru": "Ладно, до связи!"
+        "ru": "Ладно, до связи!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/363.wav"
     },
     {
         "id": "M5920_S0100_G0320_001_op210",
@@ -213,13 +230,15 @@
         "id": "M5920_S0100_G0330_001_a9s",
         "jp": "はーい。こちら９Ｓ。異常ありませーん。いやあ、今日も天気が良くて……",
         "en": "This is 9S. Nothing to report. Weather's sure nice today, though!",
-        "ru": "На связи 9S. Мне нечего доложить. Тем не менее, погодка сегодня отличная!"
+        "ru": "На связи 9S. Мне нечего доложить. Тем не менее, погодка сегодня отличная!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/363.wav"
     },
     {
         "id": "M5920_S0100_G0340_001_op210",
         "jp": "異常なしとの事。了解しました。",
         "en": "Nothing to report, copy that.",
-        "ru": "Нечего доложить, принято."
+        "ru": "Нечего доложить, принято.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/239.wav"
     },
     {
         "id": "M5920_S0100_G0350_001_op210",

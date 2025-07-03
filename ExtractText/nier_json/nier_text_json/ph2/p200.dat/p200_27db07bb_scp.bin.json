@@ -9,25 +9,29 @@
         "id": "M1060_S0050_G0010_001_cap",
         "jp": "この通信が届くアンドロイド部隊に支援要請。",
         "en": "Requesting support from any friendly units in range.",
-        "ru": "Запрашиваю поддержки от любых союзных единиц в радиусе."
+        "ru": "Запрашиваю поддержки от любых союзных единиц в радиусе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/925.wav"
     },
     {
         "id": "M1060_S0050_G0020_001_cap",
         "jp": "現在我々は敵軍の攻撃を受けている。",
         "en": "We've come under heavy fire from the enemy.",
-        "ru": "Мы попали под плотный вражеский огонь."
+        "ru": "Мы попали под плотный вражеский огонь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/926.wav"
     },
     {
         "id": "M1060_S0050_G0030_001_cap",
         "jp": "護衛艦は大破し行動不能になった。",
         "en": "Our escort ship has taken damage and is unable to engage.",
-        "ru": "Наш эскорт получил значительные повреждения и не может вступить в бой."
+        "ru": "Наш эскорт получил значительные повреждения и не может вступить в бой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/927.wav"
     },
     {
         "id": "M1060_S0050_G0040_001_cap",
         "jp": "手持ちの支援機で応戦しているが、押されている状態だ。",
         "en": "We're currently resisting with all remaining support fighters, but we can't hold them off for long.",
-        "ru": "На данный момент мы продолжаем бороться с оставшимися силами поддержки, но долго мы не продержимся."
+        "ru": "На данный момент мы продолжаем бороться с оставшимися силами поддержки, но долго мы не продержимся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/928.wav"
     },
     {
         "id": "M1060_S0050_G0050_001_cap",
@@ -39,13 +43,15 @@
         "id": "M1060_S0050_G0060_001_cap",
         "jp": "付近にいるアンドロイド部隊からの支援を求む。",
         "en": "We need immediate backup from any available android forces.",
-        "ru": "Запрашиваю немедленную поддержку любых союзных сил андроидов."
+        "ru": "Запрашиваю немедленную поддержку любых союзных сил андроидов.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/931.wav"
     },
     {
         "id": "M1060_S0050_G0070_001_a9s",
         "jp": "大型の敵、反応あります！",
         "en": "I'm picking up a large-scale enemy inbound!",
-        "ru": "Я засёк приближение крупного врага!"
+        "ru": "Я засёк приближение крупного врага!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1428.wav"
     },
     {
         "id": "M1060_S0052_S0000_001_a9s",
@@ -57,7 +63,8 @@
         "id": "M1060_S0056_G0000_001_a2b",
         "jp": "敵飛行兵器の破壊を確認。",
         "en": "Enemy aerial unit destroyed.",
-        "ru": "Воздушная единица врага уничтожена."
+        "ru": "Воздушная единица врага уничтожена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/581.wav"
     },
     {
         "id": "M1060_S0056_G0010_001_a2b",
@@ -75,18 +82,21 @@
         "id": "M1060_S0056_G0030_001_a9s",
         "jp": "まだ、大型の敵反応が残ってます！！",
         "en": "I'm still picking up a large enemy presence!",
-        "ru": "Я еще фиксирую присутствие гигантского противника!"
+        "ru": "Я еще фиксирую присутствие гигантского противника!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1431.wav"
     },
     {
         "id": "M1060_S0056_G0040_001_a2b",
         "jp": "え……その敵は今破壊した筈じゃ……",
         "en": "Didn't I kill that already?",
-        "ru": "Разве я уже не уничтожила его?"
+        "ru": "Разве я уже не уничтожила его?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/583.wav"
     },
     {
         "id": "M1060_S0056_G0050_001_a9s",
         "jp": "そんな……こんな大きな敵、どこに！？",
         "en": "What on...? If it's that big, we should be able to see it...",
-        "ru": "Что за...?! Если он настолько огромный, мы должны уже его увидеть..."
+        "ru": "Что за...?! Если он настолько огромный, мы должны уже его увидеть...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1432.wav"
     }
 ]

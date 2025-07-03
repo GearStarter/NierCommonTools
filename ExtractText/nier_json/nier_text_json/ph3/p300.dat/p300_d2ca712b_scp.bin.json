@@ -3,7 +3,8 @@
         "id": "M3060_S7500_S0000_001_pod153",
         "jp": "報告：ヨルハ機体全機のブラックボックス反応の停止を確認。",
         "en": "Report: All YoRHa unit black boxes now confirmed offline.",
-        "ru": "Отчёт: подтверждаю отключение всех чёрных ящиков единиц YoRHa."
+        "ru": "Отчёт: подтверждаю отключение всех чёрных ящиков единиц YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/380.wav"
     },
     {
         "id": "M3060_S7500_S0010_001_pod153",
@@ -15,13 +16,15 @@
         "id": "M3060_S7500_S0020_001_pod153",
         "jp": "ヨルハ計画の最終段階に移行。",
         "en": "Proceeding to final stage of project.",
-        "ru": "Перехожу к заключительному этапу проекта."
+        "ru": "Перехожу к заключительному этапу проекта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/382.wav"
     },
     {
         "id": "M3060_S7500_S0030_001_pod153",
         "jp": "全データの削除を開始する。",
         "en": "Commencing deletion of all data.",
-        "ru": "Начинаю удаление всех данных."
+        "ru": "Начинаю удаление всех данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/383.wav"
     },
     {
         "id": "M3060_S7500_S0040_001_pod153",
@@ -33,13 +36,15 @@
         "id": "M3060_S7500_S0050_001_pod153",
         "jp": "ストリームにノイズが混ざっている。",
         "en": "Data noise present in stream.",
-        "ru": "В потоке обнаружены помехи."
+        "ru": "В потоке обнаружены помехи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/385.wav"
     },
     {
         "id": "M3060_S7500_S0060_001_pod153",
         "jp": "データチェックの為一時停止を要請する。",
         "en": "Requesting temporary halt to perform data check.",
-        "ru": "Запрашиваю временную приостановку процесса проверки данных."
+        "ru": "Запрашиваю временную приостановку процесса проверки данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/386.wav"
     },
     {
         "id": "M3060_S7500_S0070_001_sele",
@@ -63,13 +68,15 @@
         "id": "M3060_S7500_S0080_001_pod042",
         "jp": "ポッド０４２から１５３へ。データを確認した。",
         "en": "Pod 042 to Pod 153. Data confirmed.",
-        "ru": "Бот 042 вызывает Бота 153. Подтверждаю данные."
+        "ru": "Бот 042 вызывает Бота 153. Подтверждаю данные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/898.wav"
     },
     {
         "id": "M3060_S7500_S0090_001_pod042",
         "jp": "９Ｓ、２Ｂ、Ａ２のパーソナルデータが漏出していた模様。",
         "en": "Personal data for units 9S, 2B, and A2 appear to be leaking out.",
-        "ru": "Обнаружена утечка персональных данных единиц 9S, 2B и A2."
+        "ru": "Обнаружена утечка персональных данных единиц 9S, 2B и A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/899.wav"
     },
     {
         "id": "M3060_S7500_S0100_001_pod153",
@@ -81,7 +88,8 @@
         "id": "M3060_S7500_S0110_001_pod153",
         "jp": "計画に従い、パーソナルデータを削除せよ。",
         "en": "Follow project rules and delete all personal data.",
-        "ru": "Следуйте процедуре проекта и удалите все персональные данные."
+        "ru": "Следуйте процедуре проекта и удалите все персональные данные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/388.wav"
     },
     {
         "id": "M3060_S7500_S0120_001_pod042",
@@ -99,7 +107,8 @@
         "id": "M3060_S7500_S0140_001_pod042",
         "jp": "パーソナルデータの削除を拒否する。",
         "en": "Personal data deletion request denied.",
-        "ru": "В запросе на удаление персональных данных отказано."
+        "ru": "В запросе на удаление персональных данных отказано.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/902.wav"
     },
     {
         "id": "M3060_S7500_S0150_001_pod153",
@@ -111,7 +120,8 @@
         "id": "M3060_S7500_S0160_001_pod153",
         "jp": "理解不能。",
         "en": "Failure to parse statement.",
-        "ru": "Ошибка в синтаксическом анализе."
+        "ru": "Ошибка в синтаксическом анализе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/390.wav"
     },
     {
         "id": "M3060_S7500_S0170_001_pod042",
@@ -129,25 +139,29 @@
         "id": "M3060_S7500_S0190_001_pod042",
         "jp": "私……",
         "en": "I...realize something.",
-        "ru": "Я... осознал кое-что."
+        "ru": "Я... осознал кое-что.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/905.wav"
     },
     {
         "id": "M3060_S7500_S0195_001_pod042",
         "jp": "私は、この結末を容認出来ない、という結論に至った。",
         "en": "I have come to the conclusion that I cannot accept this resolution.",
-        "ru": "Я пришёл к выводу, что не могу принять это решение."
+        "ru": "Я пришёл к выводу, что не могу принять это решение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/906.wav"
     },
     {
         "id": "M3060_S7500_S0200_001_pod153",
         "jp": "全てのヨルハ機体の破壊は計画によって決定されている。",
         "en": "The destruction of all YoRHa units is an essential component of the project plan.",
-        "ru": "Уничтожение всех единиц YoRHa является важным компонентом процедуры проекта."
+        "ru": "Уничтожение всех единиц YoRHa является важным компонентом процедуры проекта.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/391.wav"
     },
     {
         "id": "M3060_S7500_S0210_001_pod153",
         "jp": "データは破棄される予定だ。",
         "en": "All data must be destroyed.",
-        "ru": "Все данные должны быть уничтожены."
+        "ru": "Все данные должны быть уничтожены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/392.wav"
     },
     {
         "id": "M3060_S7500_S0220_001_pod042",
@@ -159,13 +173,15 @@
         "id": "M3060_S7500_S0230_001_pod042",
         "jp": "繰り返す。",
         "en": "Repeat.",
-        "ru": "Повторяю."
+        "ru": "Повторяю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/908.wav"
     },
     {
         "id": "M3060_S7500_S0240_001_pod042",
         "jp": "私はデータの破棄を拒否し、データのサルベージを行う。",
         "en": "Personal data deletion request denied. Initiating data salvage.",
-        "ru": "В запросе на удаление персональных данных отказано. Инициирую сохранение данных."
+        "ru": "В запросе на удаление персональных данных отказано. Инициирую сохранение данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/909.wav"
     },
     {
         "id": "M3060_S7500_S0250_001_pod042",
@@ -177,7 +193,8 @@
         "id": "M3060_S7500_S0260_001_pod042",
         "jp": "君も本当は、彼らの生存を望んでいるのだろう？",
         "en": "You hoped they would survive as well, didn't you?",
-        "ru": "Вы ведь тоже желаете, чтобы они были живы, не так ли?"
+        "ru": "Вы ведь тоже желаете, чтобы они были живы, не так ли?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/911.wav"
     },
     {
         "id": "M3060_S7500_S0270_001_pod153",
@@ -189,19 +206,22 @@
         "id": "M3060_S7500_S0280_001_pod153",
         "jp": "我々にそんな権限はもたされていない。",
         "en": "We lack the authority for such an action.",
-        "ru": "У нас недостаточно прав на подобное действие."
+        "ru": "У нас недостаточно прав на подобное действие.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/394.wav"
     },
     {
         "id": "M3060_S7500_S0290_001_pod153",
         "jp": "ルールは低レベルシステムによって保持されており、データのサルベージは危険を伴う。",
         "en": "The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk.",
-        "ru": "Правила защищены низкоуровневыми системами. Сохранение данных несёт собой неприемлемый уровень риска."
+        "ru": "Правила защищены низкоуровневыми системами. Сохранение данных несёт собой неприемлемый уровень риска.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/395.wav"
     },
     {
         "id": "M3060_S7500_S0300_001_pod153",
         "jp": "それでも彼らの生存を望むか？",
         "en": "Knowing that, do you still wish for them to survive?",
-        "ru": "Зная это, вы всё ещё желаете, чтобы они уцелели?"
+        "ru": "Зная это, вы всё ещё желаете, чтобы они уцелели?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/396.wav"
     },
     {
         "id": "M4100_S0000_G0000_300_sele",
@@ -225,7 +245,8 @@
         "id": "M3060_S7500_S0320_001_pod153",
         "jp": "このままだと、我々の自我データは消去されるだろう。",
         "en": "If this continues, our consciousness data will likely be deleted.",
-        "ru": "Если это продолжится, данные наших сознаний будут удалены."
+        "ru": "Если это продолжится, данные наших сознаний будут удалены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/398.wav"
     },
     {
         "id": "M3060_S7500_S0330_001_pod042",
@@ -237,13 +258,15 @@
         "id": "M3060_S7500_S0340_001_pod042",
         "jp": "アンドロイド達が設計したヨルハ計画を実行する為に我々は作られた。",
         "en": "We were created to execute the androids' Project YoRHa plan.",
-        "ru": "Мы были созданы для исполнения плана андроидов проекта YoRHa."
+        "ru": "Мы были созданы для исполнения плана андроидов проекта YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/913.wav"
     },
     {
         "id": "M3060_S7500_S0350_001_pod042",
         "jp": "我々には感情がなかった",
         "en": "We had no capacity for emotion.",
-        "ru": "Мы не способны проявлять эмоции."
+        "ru": "Мы не способны проявлять эмоции.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/914.wav"
     },
     {
         "id": "M3060_S7500_S0360_001_pod042",
@@ -255,19 +278,22 @@
         "id": "M3060_S7500_S0370_001_pod042",
         "jp": "何か意思や感情めいたモノが生まれつつある事は否定出来ない。",
         "en": "I cannot deny the feeling of something resembling consciousness and emotion being born.",
-        "ru": "Я не могу отрицать ощущения, похожего на зарождение эмоций."
+        "ru": "Я не могу отрицать ощущения, похожего на зарождение эмоций.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/916.wav"
     },
     {
         "id": "M3060_S7500_S0380_001_pod153",
         "jp": "……回答不能。",
         "en": "Unable to reply.",
-        "ru": "Ответ невозможен."
+        "ru": "Ответ невозможен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/399.wav"
     },
     {
         "id": "M3060_S7500_S0390_001_pod042",
         "jp": "全てに答えがあるわけではない事を、私達は知ったのかもしれないな。",
         "en": "Perhaps we now understand that not everything has to have an answer.",
-        "ru": "Возможно, теперь мы понимаем, что не на всё можно ответить."
+        "ru": "Возможно, теперь мы понимаем, что не на всё можно ответить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/917.wav"
     },
     {
         "id": "M3060_S7500_S0410_001_system",

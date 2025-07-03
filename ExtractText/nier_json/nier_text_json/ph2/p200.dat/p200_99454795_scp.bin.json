@@ -3,13 +3,15 @@
         "id": "M1080_S0080_G0080_201_a9s",
         "jp": "よし。",
         "en": "Nice.",
-        "ru": "Отлично."
+        "ru": "Отлично.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1537.wav"
     },
     {
         "id": "M1080_S0080_G0090_201_a9s",
         "jp": "次はこのまま、２Ｂのいる部屋のロックを解除……",
         "en": "Now I just have to unlock the door where 2B is...",
-        "ru": "Теперь мне нужно открыть дверь, где находится 2B..."
+        "ru": "Теперь мне нужно открыть дверь, где находится 2B...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1538.wav"
     },
     {
         "id": "M1080_S0080_G0091_201_a9s",
@@ -33,7 +35,8 @@
         "id": "M1080_S0080_G0110_300_a9s",
         "jp": "しまった！？\\n……早く２Ｂの所へ行かないと。",
         "en": "Uh oh... I'd better get to 2B fast!",
-        "ru": "Ох... Мне нужно поспешить к 2B!"
+        "ru": "Ох... Мне нужно поспешить к 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1542.wav"
     },
     {
         "id": "M1080_S0080_G0120_300_a9s",
@@ -57,30 +60,35 @@
         "id": "M1080_S0080_G0220_300_n02",
         "jp": "何を考えてる！！回路が壊れたのか！？",
         "en": "What are you thinking!? Have your circuits failed you!?",
-        "ru": "О чём ты думаешь?! У тебя микросхемы не в порядке?!"
+        "ru": "О чём ты думаешь?! У тебя микросхемы не в порядке?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1000.wav"
     },
     {
         "id": "M1080_S0080_G0230_300_n02",
         "jp": "カミになるのだ！カミになるのだ！カミになるのだ！",
         "en": "We shall become gods! We shall become gods! We shall become gods!",
-        "ru": "Мы должны стать богами! Мы должны стать богами! Мы должны стать богами!"
+        "ru": "Мы должны стать богами! Мы должны стать богами! Мы должны стать богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1001.wav"
     },
     {
         "id": "M1080_S0080_G0240_300_n02",
         "jp": "一体皆に何が起こったというのだ……",
         "en": "What happened to all of you?",
-        "ru": "Да что с вами такое?"
+        "ru": "Да что с вами такое?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1002.wav"
     },
     {
         "id": "M1080_S0080_G0150_300_a9s",
         "jp": "停止したロボットの残骸……",
         "en": "Look at all these broken machines...",
-        "ru": "Только посмотрите на все эти сломанные машины..."
+        "ru": "Только посмотрите на все эти сломанные машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav"
     },
     {
         "id": "M1080_S0080_G0160_300_a9s",
         "jp": "まだ幾つかは使えそうだな。\\n念の為ここの座標をバンカーに送っておこう。",
         "en": "A few still look usable. Better send these coordinates to the Bunker, just in case.",
-        "ru": "Некоторыми ещё можно воспользоваться. На всякий случай отправлю координаты в Бункер."
+        "ru": "Некоторыми ещё можно воспользоваться. На всякий случай отправлю координаты в Бункер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1548.wav"
     }
 ]

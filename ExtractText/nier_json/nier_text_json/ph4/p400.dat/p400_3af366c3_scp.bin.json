@@ -9,7 +9,8 @@
         "id": "M5095_S0100_G0010_001_announce",
         "jp": "運動機能試験を始メル。",
         "en": "Starting examination of motor functions.",
-        "ru": "Запуск проверки моторных функций."
+        "ru": "Запуск проверки моторных функций.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/11.wav"
     },
     {
         "id": "M5095_S0100_G0020_001_announce",
@@ -21,7 +22,8 @@
         "id": "M5095_S0100_G0030_001_announce",
         "jp": "ソレデハ試験を開始する。",
         "en": "Commencing examination.",
-        "ru": "Запуск проверки."
+        "ru": "Запуск проверки.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/13.wav"
     },
     {
         "id": "M5095_S0100_G0050_001_announce",
@@ -33,13 +35,15 @@
         "id": "M5095_S0100_G0060_001_announce",
         "jp": "成績記録：非常に悪イ。",
         "en": "Results: Extremely poor.",
-        "ru": "Результаты: Очень плохо."
+        "ru": "Результаты: Очень плохо.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/16.wav"
     },
     {
         "id": "M5095_S0100_G0070_001_announce",
         "jp": "次回試験マデニ対処シテオクヨウニ。",
         "en": "Measures must be taken before the next examination.",
-        "ru": "Требуется принять меры до следующей проверки."
+        "ru": "Требуется принять меры до следующей проверки.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/17.wav"
     },
     {
         "id": "M5095_S0100_G0080_001_announce",
@@ -57,6 +61,7 @@
         "id": "M5095_S0100_G0030_001_announce",
         "jp": "ソレデハ試験を開始する。",
         "en": "Commencing examination.",
-        "ru": "Запуск проверки."
+        "ru": "Запуск проверки.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/13.wav"
     }
 ]

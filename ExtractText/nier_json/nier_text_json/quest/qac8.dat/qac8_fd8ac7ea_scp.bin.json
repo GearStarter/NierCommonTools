@@ -3,13 +3,15 @@
         "id": "M0010_S0785_G0000_201_pod153",
         "jp": "９Ｓデータシステム破損。アクセス不良を検知。",
         "en": "9S data system damaged. Access impaired.",
-        "ru": "Система данных 9S повреждена. Доступ нарушен."
+        "ru": "Система данных 9S повреждена. Доступ нарушен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/165.wav"
     },
     {
         "id": "M0010_S0785_G0010_201_pod153",
         "jp": "自閉モードで再配置。",
         "en": "Redeploying in offline mode.",
-        "ru": "Переход в оффлайн режим."
+        "ru": "Переход в оффлайн режим.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/166.wav"
     },
     {
         "id": "M0010_S0785_G0020_201_a9s",
@@ -21,19 +23,22 @@
         "id": "M0010_S0785_G0030_201_pod153",
         "jp": "リカバリーセクタ。各ブロックのアクセス不良を解除せよ。",
         "en": "Recovery sector. Eliminate access impairments to all blocks.",
-        "ru": "Восстановление секторов. Устранение неисправностей доступа ко всем секторам."
+        "ru": "Восстановление секторов. Устранение неисправностей доступа ко всем секторам.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/167.wav"
     },
     {
         "id": "M0010_S0785_G0040_201_pod153",
         "jp": "視覚情報エラー修正。",
         "en": "Repairing visual data error.",
-        "ru": "Ошибка восстановления зрительных сенсоров."
+        "ru": "Ошибка восстановления зрительных сенсоров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/168.wav"
     },
     {
         "id": "M0010_S0785_G0050_201_pod153",
         "jp": "音声ユニット回復。周辺環境音確認。",
         "en": "Voice functionality recovered. External sound input confirmed.",
-        "ru": "Голосовые функции восстановлены. Вход внешних звуков подтверждён."
+        "ru": "Голосовые функции восстановлены. Вход внешних звуков подтверждён.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/169.wav"
     },
     {
         "id": "M0010_S0785_G0060_201_a2b",
@@ -51,19 +56,22 @@
         "id": "M0010_S0785_G0080_201_pod153",
         "jp": "ボディユニットのバイタル低下を確認。",
         "en": "Alert: Vital signs declining.",
-        "ru": "Внимание: показатели функционирования снижаются."
+        "ru": "Внимание: показатели функционирования снижаются.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/170.wav"
     },
     {
         "id": "M0010_S0785_G0090_201_pod153",
         "jp": "ボディユニットのバイタル危険値に突入。",
         "en": "Vital signs entering sub-optimal territory.",
-        "ru": "Показатели функционирования переходят в критическую зону."
+        "ru": "Показатели функционирования переходят в критическую зону.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/171.wav"
     },
     {
         "id": "M0010_S0785_G0100_201_pod153",
         "jp": "早急な回路修復が必要。",
         "en": "Urgent circuit repairs required.",
-        "ru": "Срочно необходим ремонт схем."
+        "ru": "Срочно необходим ремонт схем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/172.wav"
     },
     {
         "id": "M0010_S0785_G0110_201_pod153",
@@ -75,6 +83,7 @@
         "id": "M0010_S0785_G0120_201_pod153",
         "jp": "９Ｓの死亡を確認。",
         "en": "Unit 9S death confirmed.",
-        "ru": "Подтверждена смерть 9S."
+        "ru": "Подтверждена смерть 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/174.wav"
     }
 ]

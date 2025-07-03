@@ -15,31 +15,36 @@
         "id": "M3060_S0032_G0020_001_dbl",
         "jp": "約束しただろう！",
         "en": "Remember your promise?",
-        "ru": "Помнишь своё обещание?"
+        "ru": "Помнишь своё обещание?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/951.wav"
     },
     {
         "id": "M3060_S0032_G0030_001_a9s",
         "jp": "は？……何言ってるんだ！？",
         "en": "What are you talking about?",
-        "ru": "О чём ты?"
+        "ru": "О чём ты?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1843.wav"
     },
     {
         "id": "M3060_S0032_G0040_001_ppl",
         "jp": "９Ｓ！今のうちにハッキングして！",
         "en": "Come on, 9S! Hack in while you can!",
-        "ru": "Давай же, 9S! Взламывай, пока ещё можешь!"
+        "ru": "Давай же, 9S! Взламывай, пока ещё можешь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/655.wav"
     },
     {
         "id": "M3060_S0032_G0050_001_a9s",
         "jp": "訳がわからないッ！",
         "en": "None of this makes any sense!",
-        "ru": "Всё это бессмысленно!"
+        "ru": "Всё это бессмысленно!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1844.wav"
     },
     {
         "id": "M3060_S0032_G0060_001_ppl",
         "jp": "詳しい事は『塔』に入ってから説明するから！",
         "en": "We'll explain everything once we're inside!",
-        "ru": "Мы всё тебе объясним, как только попадём внутрь!"
+        "ru": "Мы всё тебе объясним, как только попадём внутрь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/656.wav"
     },
     {
         "id": "M3060_S0032_G0070_001_a9s",
@@ -51,19 +56,22 @@
         "id": "M3060_S0032_G0071_001_a9s",
         "jp": "ダメだ……デボル達を放ってはおけない！",
         "en": "No... We can't just abandon them!",
-        "ru": "Нет... Мы не можем просто бросить их!"
+        "ru": "Нет... Мы не можем просто бросить их!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1846.wav"
     },
     {
         "id": "M3060_S0032_G0072_001_a9s",
         "jp": "このままじゃ、デボル達は……！",
         "en": "If we don't do something, they're gonna...",
-        "ru": "Если мы что-нибудь не предпримем, они..."
+        "ru": "Если мы что-нибудь не предпримем, они...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1847.wav"
     },
     {
         "id": "M3060_S0032_G0073_001_pod153",
         "jp": "警告：戦闘地域からの離脱はアンドロイド、デボル・ポポルの放棄を\\n意味する。",
         "en": "Alert: Leaving the zone of combat would mean abandoning the androids Devola and Popola.",
-        "ru": "Внимание: выход из боевой зоны означает бросить андроидов Деволу и Пополу."
+        "ru": "Внимание: выход из боевой зоны означает бросить андроидов Деволу и Пополу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/356.wav"
     },
     {
         "id": "M3060_S0032_G0074_001_pod153",
@@ -75,25 +83,29 @@
         "id": "M3060_S0032_G0200_300_dbl",
         "jp": "９Ｓ！どこにいくつもりだ！このままだと持たないぞ…！",
         "en": "Where are you going, 9S? We need you!",
-        "ru": "Куда ты собрался, 9S? Ты нужен нам!"
+        "ru": "Куда ты собрался, 9S? Ты нужен нам!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/952.wav"
     },
     {
         "id": "M3060_S0032_G0210_300_ppl",
         "jp": "くっ…９Ｓ、早く戻ってきて！私たちだけではとても耐えられない！",
         "en": "9S, come back! We can't hold out by ourselves!",
-        "ru": "Вернись, 9S! Нам самим не справиться с этим!"
+        "ru": "Вернись, 9S! Нам самим не справиться с этим!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/657.wav"
     },
     {
         "id": "M3060_S0032_G0220_300_pod153",
         "jp": "警告：デボルとポポルに敵勢力が集中。危険な状態。",
         "en": "Alert: Enemy forces gathering around Devola and Popola. Situation critical.",
-        "ru": "Внимание: вражеские силы окружают Деволу и Пополу. Ситуация критическая."
+        "ru": "Внимание: вражеские силы окружают Деволу и Пополу. Ситуация критическая.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/355.wav"
     },
     {
         "id": "M3060_S0032_G0230_300_pod153",
         "jp": "推奨：速やかな救援行動。",
         "en": "Proposal: Provide rescue support immediately.",
-        "ru": "Предложение: немедленно обеспечьте спасательную поддержку."
+        "ru": "Предложение: немедленно обеспечьте спасательную поддержку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/358.wav"
     },
     {
         "id": "M3060_S0032_G0240_300_a9s",
@@ -105,7 +117,8 @@
         "id": "M3060_S0032_G0250_300_dbl",
         "jp": "くそ、ここまでか……",
         "en": "Damn... Looks like this is it.",
-        "ru": "Чёрт... Похоже, что всё."
+        "ru": "Чёрт... Похоже, что всё.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/953.wav"
     },
     {
         "id": "M3060_S0032_G0260_300_ppl",
@@ -117,19 +130,22 @@
         "id": "M3060_S0032_G0270_300_dbl",
         "jp": "９Ｓはハッキングに集中して、こっちは任せろ！",
         "en": "We've got this, 9S! You just focus on hacking!",
-        "ru": "Мы разберёмся, 9S! Сфокусируйся на взломе!"
+        "ru": "Мы разберёмся, 9S! Сфокусируйся на взломе!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/954.wav"
     },
     {
         "id": "M3060_S0032_G0280_300_dbl",
         "jp": "ハッキングで『塔』のロックを解除してくれ！",
         "en": "You need to hack the Tower lock open!",
-        "ru": "Ты должен взломать замок Башни!"
+        "ru": "Ты должен взломать замок Башни!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/955.wav"
     },
     {
         "id": "M3060_S0032_G0290_300_ppl",
         "jp": "９Ｓ！『塔』のハッキングをお願いッ！",
         "en": "9S! You must hack into the Tower!",
-        "ru": "9S! Ты должен взломать Башню!"
+        "ru": "9S! Ты должен взломать Башню!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/659.wav"
     },
     {
         "id": "M3060_S0032_G0300_300_ppl",
@@ -141,7 +157,8 @@
         "id": "M3060_S0032_G0310_300_dbl",
         "jp": "９Ｓッ！！もう、ダメだあああッ！",
         "en": "9S! I can't do this anymore!",
-        "ru": "9S! Я больше не выдержу!"
+        "ru": "9S! Я больше не выдержу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/956.wav"
     },
     {
         "id": "M3060_S0032_G0320_300_ppl",

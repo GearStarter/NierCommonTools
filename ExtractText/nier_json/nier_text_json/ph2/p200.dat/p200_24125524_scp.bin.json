@@ -21,13 +21,15 @@
         "id": "M1050_S0065_S0030_001_eml",
         "jp": "わわーっ！！！ちょっと待って！",
         "en": "Wait, what? No! Hold on!",
-        "ru": "Подождите, что? Нет! Стойте!"
+        "ru": "Подождите, что? Нет! Стойте!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/965.wav"
     },
     {
         "id": "M1050_S0065_S0040_001_a2b",
         "jp": "破壊する。",
         "en": "Good idea.",
-        "ru": "Хорошая идея."
+        "ru": "Хорошая идея.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/560.wav"
     },
     {
         "id": "M1050_S0065_S0050_001_eml",
@@ -39,6 +41,7 @@
         "id": "M1050_S0065_S0060_001_a9s",
         "jp": "何なんでしょう……アレ？",
         "en": "Okay, what WAS that?",
-        "ru": "Та-а-ак, и что это БЫЛО?"
+        "ru": "Та-а-ак, и что это БЫЛО?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1369.wav"
     }
 ]

@@ -9,7 +9,8 @@
         "id": "M5910_S0100_G0172_001_pod042",
         "jp": "おはようございます。Ａ２。",
         "en": "Good morning, A2.",
-        "ru": "Доброе утро, A2."
+        "ru": "Доброе утро, A2.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/52.wav"
     },
     {
         "id": "M5910_S0100_G0173_001_a2",
@@ -33,19 +34,22 @@
         "id": "M5910_S0200_G0000_001_a2",
         "jp": "くそっ……砂だらけでうっとうしいな……",
         "en": "All this goddamn sand is starting to piss me off.",
-        "ru": "Этот чёртов песок начинает меня раздражать."
+        "ru": "Этот чёртов песок начинает меня раздражать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/628.wav"
     },
     {
         "id": "M5910_S0200_G0010_001_pod042",
         "jp": "報告：燃料用濾過フィルターが劣化。",
         "en": "Alert: Fuel filter performance deteriorating.",
-        "ru": "Внимание: ухудшение производительности топливного фильтра."
+        "ru": "Внимание: ухудшение производительности топливного фильтра.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/55.wav"
     },
     {
         "id": "M5910_S0200_G0020_001_pod042",
         "jp": "砂漠での戦闘時に、微細な粒子が内部に入り込んだ模様。",
         "en": "Fine particulate matter seems to have entered the filter while fighting in the desert.",
-        "ru": "По-видимому, во время битвы мелкие песчинки привели к засорению фильтра."
+        "ru": "По-видимому, во время битвы мелкие песчинки привели к засорению фильтра.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/56.wav"
     },
     {
         "id": "M5910_S0200_G0030_001_pod042",
@@ -57,19 +61,22 @@
         "id": "M5910_S0200_G0040_001_a2",
         "jp": "交換って言われてもな……",
         "en": "You make it sound so easy.",
-        "ru": "Говоришь, будто всё так просто."
+        "ru": "Говоришь, будто всё так просто.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/629.wav"
     },
     {
         "id": "M5910_S0200_G0050_001_pod042",
         "jp": "レジスタンスキャンプで使用された過去記録を発見。",
         "en": "Records indicate said part was once used at the Resistance camp.",
-        "ru": "Записи указывают, что заявленная деталь использовалась в лагере Сопротивления."
+        "ru": "Записи указывают, что заявленная деталь использовалась в лагере Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/58.wav"
     },
     {
         "id": "M5910_S0200_G0060_001_a2",
         "jp": "レジスタンスキャンプ……",
         "en": "The Resistance camp...",
-        "ru": "Лагерь Сопротивления..."
+        "ru": "Лагерь Сопротивления...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/630.wav"
     },
     {
         "id": "M5910_S0200_G0070_001_pod042",
@@ -81,7 +88,8 @@
         "id": "M5910_S0200_G0080_001_a2",
         "jp": "いい……知ってる。",
         "en": "I know where it is.",
-        "ru": "Я знаю где он."
+        "ru": "Я знаю где он.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/631.wav"
     },
     {
         "id": "M5910_S0200_G0271_001_toolshop",
@@ -195,7 +203,8 @@
         "id": "M5910_S0200_G0400_001_pod042",
         "jp": "警告：濾過フィルターが破損すると燃料供給に深刻な問題が発生。",
         "en": "Alert: A broken filter will cause significant problems with fuel distribution.",
-        "ru": "Внимание: сломанный фильтр может вызвать ухудшение подачи топлива."
+        "ru": "Внимание: сломанный фильтр может вызвать ухудшение подачи топлива.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/60.wav"
     },
     {
         "id": "M5910_S0200_G0410_001_pod042",
@@ -207,7 +216,8 @@
         "id": "M5910_S0200_G0420_001_a2",
         "jp": "……わかってるよ。",
         "en": "Yeah. I know.",
-        "ru": "Ага. Я знаю."
+        "ru": "Ага. Я знаю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/632.wav"
     },
     {
         "id": "M5910_S0200_G0430_001_pod042",
@@ -219,12 +229,14 @@
         "id": "M5910_S0200_G0440_001_pod042",
         "jp": "マップにマーク完了。",
         "en": "Location marked on map.",
-        "ru": "Местоположение отмечено на карте."
+        "ru": "Местоположение отмечено на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/63.wav"
     },
     {
         "id": "M5910_S0200_G0450_001_a2",
         "jp": "うるさいな……",
         "en": "You don't know when to shut up, do you...",
-        "ru": "Ты явно не знаешь, когда тебе стоит заткнуться..."
+        "ru": "Ты явно не знаешь, когда тебе стоит заткнуться...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/633.wav"
     }
 ]

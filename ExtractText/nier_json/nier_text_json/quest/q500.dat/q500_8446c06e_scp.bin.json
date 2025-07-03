@@ -87,7 +87,8 @@
         "id": "M5500_S0010_G0140_001_andwoman",
         "jp": "良かった……",
         "en": "Thank goodness...",
-        "ru": "Это очень хорошо..."
+        "ru": "Это очень хорошо...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/279.wav"
     },
     {
         "id": "M5500_S0010_G0150_001_a9s",
@@ -273,7 +274,8 @@
         "id": "M5500_S0020_G0090_001_andwoman",
         "jp": "でも……",
         "en": "But...",
-        "ru": "Но..."
+        "ru": "Но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "M5500_S0020_G0100_001_a9s",
@@ -789,7 +791,8 @@
         "id": "M5500_S0060_G0320_001_andman",
         "jp": "だけど……",
         "en": "But...",
-        "ru": "Но..."
+        "ru": "Но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "M5500_S0060_G0330_001_andwoman",

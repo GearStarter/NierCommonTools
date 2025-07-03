@@ -3,31 +3,36 @@
         "id": "M1060_S0077_G0000_001_a9s",
         "jp": "くそっ！本体にも電磁波防壁があるのか……！",
         "en": "Oh, COME ON! Its got an electromagnetic barrier over its whole body!?",
-        "ru": "Да ладно! У него электромагнитный барьер по всему телу?!"
+        "ru": "Да ладно! У него электромагнитный барьер по всему телу?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1437.wav"
     },
     {
         "id": "M1060_S0077_G0010_001_a4b",
         "jp": "ははっ、苦戦しているようだな。",
         "en": "Heh. Having trouble over there?",
-        "ru": "Гхм. Какие-то проблемы?"
+        "ru": "Гхм. Какие-то проблемы?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1049.wav"
     },
     {
         "id": "M1060_S0077_G0020_001_a9s",
         "jp": "……ヨルハ部隊？",
         "en": "...Are you YoRHa?",
-        "ru": "...Ты из YoRHa?"
+        "ru": "...Ты из YoRHa?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1438.wav"
     },
     {
         "id": "M1060_S0077_G0030_001_a4b",
         "jp": "北部１２Ｃ防衛本部から派遣された猟兵部隊だ。",
         "en": "Hunter squadron, deploying out of North 12C Defense HQ.",
-        "ru": "Отряд охотников, из штаба обороны Север 12С."
+        "ru": "Отряд охотников, из штаба обороны Север 12С.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1050.wav"
     },
     {
         "id": "M1060_S0077_G0040_001_a4b",
         "jp": "私は隊長の４Ｂ。",
         "en": "I'm the commanding officer, 4B.",
-        "ru": "Я командующий офицер, 4В."
+        "ru": "Я командующий офицер, 4В.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1051.wav"
     },
     {
         "id": "M1060_S0077_G0050_001_a4b",
@@ -45,18 +50,21 @@
         "id": "M1060_S0077_G0070_001_a9s",
         "jp": "ここは増援部隊に任せましょう。",
         "en": "Let's leave this area to the reinforcements.",
-        "ru": "Давай оставим эту зону подкреплению."
+        "ru": "Давай оставим эту зону подкреплению.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1440.wav"
     },
     {
         "id": "M1060_S0077_G0080_001_a9s",
         "jp": "僕に考えがあります……",
         "en": "I have an idea.",
-        "ru": "У меня есть идея."
+        "ru": "У меня есть идея.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1441.wav"
     },
     {
         "id": "M1060_S0077_G0090_001_a9s",
         "jp": "場所をポイントしました！そこで合流しましょう。",
         "en": "You and I should meet up at the spot I just marked.",
-        "ru": "Я оставил пометку на карте, встретимся там."
+        "ru": "Я оставил пометку на карте, встретимся там.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1442.wav"
     }
 ]

@@ -1041,7 +1041,8 @@
         "id": "M6090_S0010_G1090_300_sele",
         "jp": "攻撃重視。",
         "en": "Attack",
-        "ru": "Атака"
+        "ru": "Атака",
+        "en_voice": "stream/Japanese/vo_plffff_0_003/1122.wav"
     },
     {
         "id": "M6090_S0010_G1100_300_sele",

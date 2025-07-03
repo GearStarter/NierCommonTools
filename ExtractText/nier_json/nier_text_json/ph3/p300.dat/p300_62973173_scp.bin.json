@@ -3,7 +3,8 @@
         "id": "M3060_S0050_G0000_001_a9s",
         "jp": "汚染された……ヨルハ機体！",
         "en": "Corrupted YoRHa units!",
-        "ru": "Заражённые единицы YoRHa!"
+        "ru": "Заражённые единицы YoRHa!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1858.wav"
     },
     {
         "id": "M3060_S0050_G0010_001_announce",
@@ -15,24 +16,28 @@
         "id": "M3060_S0050_G0020_001_announce",
         "jp": "この度は『塔』へのご来場、まことにありがとうございます。",
         "en": "We're so pleased you've chosen to visit the Tower today!",
-        "ru": "Мы очень рады, что вы решили посетить Башню именно сегодня!"
+        "ru": "Мы очень рады, что вы решили посетить Башню именно сегодня!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/822.wav"
     },
     {
         "id": "M3060_S0050_G0030_001_announce",
         "jp": "最後のサブユニットを解除したご来場者様への『ファイナルワン賞』は\\nこの先のお部屋にご用意しております。",
         "en": "Don't forget about the special prize for the guest who unlocks the last sub-unit in the room just ahead.",
-        "ru": "Не забывайте о вознаграждении, которое можно получить в комнате перед вами."
+        "ru": "Не забывайте о вознаграждении, которое можно получить в комнате перед вами.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/823.wav"
     },
     {
         "id": "M3060_S0050_G0040_001_announce",
         "jp": "ごゆっくりとお楽しみください！",
         "en": "You're going to LOVE IT!",
-        "ru": "Вам оно обязательно ПОНРАВИТСЯ!"
+        "ru": "Вам оно обязательно ПОНРАВИТСЯ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/824.wav"
     },
     {
         "id": "M3060_S0050_G0041_001_a9s",
         "jp": "皆殺しにしてやる……",
         "en": "I'm gonna kill you...",
-        "ru": "Я убью тебя..."
+        "ru": "Я убью тебя...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1859.wav"
     }
 ]

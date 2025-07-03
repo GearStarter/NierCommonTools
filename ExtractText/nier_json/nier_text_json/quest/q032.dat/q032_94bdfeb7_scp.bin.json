@@ -21,7 +21,8 @@
         "id": "M5031_S0030_G0205_001_a2b",
         "jp": "わかった。",
         "en": "Fair enough.",
-        "ru": "Ясно."
+        "ru": "Ясно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/526.wav"
     },
     {
         "id": "M5920_S0010_G0280_001_pod042",
@@ -39,31 +40,36 @@
         "id": "M5032_S0010_G0000_001_a2b",
         "jp": "工場の情報から何かわかった事はある？",
         "en": "Did you learn anything from the factory data?",
-        "ru": "Узнал что-нибудь из информации с завода?"
+        "ru": "Узнал что-нибудь из информации с завода?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/814.wav"
     },
     {
         "id": "M5032_S0010_G0010_001_a9s",
         "jp": "いえ、奴らの製造過程が分かっただけで……",
         "en": "Just how it was manufactured. Pretty boring, actually.",
-        "ru": "Только о том, как её произвели. Довольно скучно, на самом-то деле."
+        "ru": "Только о том, как её произвели. Довольно скучно, на самом-то деле.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1930.wav"
     },
     {
         "id": "M5032_S0010_G0020_001_a2b",
         "jp": "機械生命体についてはまだ判ってない事が多い。",
         "en": "There's still a lot about machines that we don't understand.",
-        "ru": "Мы ещё столько не знаем о машинах."
+        "ru": "Мы ещё столько не знаем о машинах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/816.wav"
     },
     {
         "id": "M5032_S0010_G0030_001_a2b",
         "jp": "どんな情報でもいいから、集めておかないと。",
         "en": "Gather as much data as you can, no matter how irrelevant it may seem.",
-        "ru": "Собери столько данных, сколько сможешь, невзирая на степень их важности."
+        "ru": "Собери столько данных, сколько сможешь, невзирая на степень их важности.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/817.wav"
     },
     {
         "id": "M5032_S0010_G0050_001_a9s",
         "jp": "これで、あの大型兵器を修理する為の部品が全部揃いましたね。",
         "en": "Okay. That should be everything we need to repair the machine.",
-        "ru": "Хорошо. Этого должно хватить для починки машины."
+        "ru": "Хорошо. Этого должно хватить для починки машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1934.wav"
     },
     {
         "id": "M5032_S0010_G0055_001_telo",
@@ -75,7 +81,8 @@
         "id": "M5032_S0010_G0080_300_a2b",
         "jp": "……中々素材が集まらない。",
         "en": "We still don't have what we need.",
-        "ru": "У нас всё ещё нет того, что нужно."
+        "ru": "У нас всё ещё нет того, что нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/819.wav"
     },
     {
         "id": "M5032_S0020_G0000_001_a9s",
@@ -219,49 +226,57 @@
         "id": "M5032_S0020_G0230_001_a9s",
         "jp": "変わったロボットでしたね……",
         "en": "What a strange machine...",
-        "ru": "Какая странная машина..."
+        "ru": "Какая странная машина...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1939.wav"
     },
     {
         "id": "M5032_S0010_G0000_300_a2b",
         "jp": "『新品のネジ』は大型２足から手に入れるとして、”大きな歯車”は？",
         "en": "We know we can find pristine screws on big bipedal machines, but what about large gears?",
-        "ru": "Мы знаем, что новенькие винты можно добыть из больших двуногих машин, но что насчёт больших шестерней?"
+        "ru": "Мы знаем, что новенькие винты можно добыть из больших двуногих машин, но что насчёт больших шестерней?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/815.wav"
     },
     {
         "id": "M5032_S0010_G0010_300_a9s",
         "jp": "困った時のオペレーターさん、ですよ。",
         "en": "Let's try the Operator again.",
-        "ru": "Давай попробуем опять спросить у оператора."
+        "ru": "Давай попробуем опять спросить у оператора.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1931.wav"
     },
     {
         "id": "M5032_S0010_G0080_300_a2b",
         "jp": "……中々素材が集まらない。",
         "en": "We still don't have what we need.",
-        "ru": "У нас всё ещё нет того, что нужно."
+        "ru": "У нас всё ещё нет того, что нужно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/819.wav"
     },
     {
         "id": "M5032_S0010_G0090_300_a9s",
         "jp": "破損がひどくて使えないものばかりでしたね。",
         "en": "Yeah. Most of the gears were too damaged to use.",
-        "ru": "Ага. Большинство приводов сильно повреждены."
+        "ru": "Ага. Большинство приводов сильно повреждены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1937.wav"
     },
     {
         "id": "M5032_S0010_G0100_300_a2b",
         "jp": "少しくらい壊れてても使えるんじゃ……",
         "en": "Surely just a LITTLE damage won't hurt?",
-        "ru": "И это ты называешь МАЛЕНЬКИМ ремонтом?"
+        "ru": "И это ты называешь МАЛЕНЬКИМ ремонтом?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/820.wav"
     },
     {
         "id": "M5032_S0010_G0110_300_a9s",
         "jp": "無茶言わないでください",
         "en": "Come on now, 2B.",
-        "ru": "Да ладно тебе, 2B."
+        "ru": "Да ладно тебе, 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1938.wav"
     },
     {
         "id": "M5032_S0010_G0020_300_a9s",
         "jp": "オペレーターさん、僕達『大きな歯車』を探してるんですけど、\\nどこで入手できるか教えてください。",
         "en": "9S to Operator! We're trying to track down a large gear. Any idea where to start the search?",
-        "ru": "9S вызывает оператора! Нам необходима большая шестерня. Есть идеи, где мы можем её отыскать?"
+        "ru": "9S вызывает оператора! Нам необходима большая шестерня. Есть идеи, где мы можем её отыскать?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1932.wav"
     },
     {
         "id": "M5032_S0010_G0030_300_op210",
@@ -273,25 +288,29 @@
         "id": "M5032_S0010_G0040_300_op210",
         "jp": "破壊時の破損が大きくて、めったに使えるものは手に入らないようですが。",
         "en": "Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.",
-        "ru": "Однако найти неповреждённую будет сложно. Эту деталь легко повредить при уничтожении корпуса машины."
+        "ru": "Однако найти неповреждённую будет сложно. Эту деталь легко повредить при уничтожении корпуса машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/192.wav"
     },
     {
         "id": "M5032_S0010_G0050_300_a9s",
         "jp": "なるほど……情報提供感謝します。",
         "en": "Thanks, Operator. That's good to know.",
-        "ru": "Спасибо, оператор. Приму это к сведению."
+        "ru": "Спасибо, оператор. Приму это к сведению.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1935.wav"
     },
     {
         "id": "M5032_S0010_G0060_300_a2b",
         "jp": "とりあえず、小型の機械生命体を倒しまくればいいのか。",
         "en": "Right. Let's go take out some small fry.",
-        "ru": "Ладно. Пора бы выудить из неё информацию."
+        "ru": "Ладно. Пора бы выудить из неё информацию.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/818.wav"
     },
     {
         "id": "M5032_S0010_G0070_300_a9s",
         "jp": "……２Ｂってホント大雑把ですよね。",
         "en": "Heh. Straight to the point as always, 2B!",
-        "ru": "Хех. Прямо к делу, как и всегда, 2B!"
+        "ru": "Хех. Прямо к делу, как и всегда, 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1936.wav"
     },
     {
         "id": "M5031_S0020_G0100_300_a2b",

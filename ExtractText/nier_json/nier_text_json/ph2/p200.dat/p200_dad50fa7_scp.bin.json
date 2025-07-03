@@ -9,13 +9,15 @@
         "id": "M1090_S0210_G0010_001_a2b",
         "jp": "大丈夫……",
         "en": "I'm fine...",
-        "ru": "Я в порядке..."
+        "ru": "Я в порядке...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/696.wav"
     },
     {
         "id": "M1090_S0210_G0020_001_a2b",
         "jp": "この化物を倒す。",
         "en": "Let's take this bastard down.",
-        "ru": "Прикончим этого ублюдка."
+        "ru": "Прикончим этого ублюдка.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/697.wav"
     },
     {
         "id": "M1090_S0210_G0030_001_a9s",
@@ -27,7 +29,8 @@
         "id": "M1090_S0220_G0000_001_a9s",
         "jp": "こんな数、どうすれば……！",
         "en": "What do we do? There's too many!",
-        "ru": "Что нам делать? Их слишком много!"
+        "ru": "Что нам делать? Их слишком много!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1579.wav"
     },
     {
         "id": "M1090_S0220_G0010_001_pascal",
@@ -57,7 +60,8 @@
         "id": "M1090_S0220_G0050_001_a9s",
         "jp": "パスカル！聞こえる！？",
         "en": "Pascal! Come in, Pascal!",
-        "ru": "Паскаль! Приём, Паскаль!"
+        "ru": "Паскаль! Приём, Паскаль!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1583.wav"
     },
     {
         "id": "M1090_S0220_G0060_001_a2b",

@@ -3,43 +3,50 @@
         "id": "M1020_S0040_G0230_001_a9s",
         "jp": "あそこに逃げ込んでます！",
         "en": "There it goes!",
-        "ru": "Смотри!"
+        "ru": "Смотри!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1176.wav"
     },
     {
         "id": "M1020_S0040_G0060_300_n02",
         "jp": "シツコイ！ニゲル！ニゲルッ！！",
         "en": "They don't give up! Run! Run!",
-        "ru": "Они не сдаются! Бежать! Бежать!"
+        "ru": "Они не сдаются! Бежать! Бежать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/796.wav"
     },
     {
         "id": "M1020_S0040_G0214_001_n02",
         "jp": "ニゲナキャー",
         "en": "Must! Run!",
-        "ru": "Должен! Бежать!"
+        "ru": "Должен! Бежать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/811.wav"
     },
     {
         "id": "M1020_S0040_G0090_300_a9s",
         "jp": "この先に多数の機械生命体反応を確認。",
         "en": "Multiple machines detected ahead.",
-        "ru": "Впереди обнаружено множество машин."
+        "ru": "Впереди обнаружено множество машин.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1171.wav"
     },
     {
         "id": "M1020_S0040_G0100_300_a9s",
         "jp": "でも、このアンドロイドの死体は一体……",
         "en": "But what's with these android bodies...?",
-        "ru": "Но откуда здесь столько тел андроидов?.."
+        "ru": "Но откуда здесь столько тел андроидов?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1172.wav"
     },
     {
         "id": "M1020_S0040_G0110_300_a2b",
         "jp": "注意して進もう。",
         "en": "Stay focused.",
-        "ru": "Будь начеку."
+        "ru": "Будь начеку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/485.wav"
     },
     {
         "id": "M1020_S0040_G0250_001_n02",
         "jp": "コドモ　コドモ　コドモ",
         "en": "Child. Child. Child.",
-        "ru": "Ребёнок. Ребёнок. Ребёнок."
+        "ru": "Ребёнок. Ребёнок. Ребёнок.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/814.wav"
     },
     {
         "id": "M1020_S0040_G0260_001_a2b",
@@ -51,19 +58,22 @@
         "id": "M1020_S0040_G0270_001_n02",
         "jp": "ダイスキ　ダイスキ",
         "en": "My. Love. My. Love.",
-        "ru": "Моя. Любимая. Моя. Любимая."
+        "ru": "Моя. Любимая. Моя. Любимая.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/815.wav"
     },
     {
         "id": "M1020_S0040_G0280_001_a9s",
         "jp": "２Ｂ……耳を貸しちゃダメです。",
         "en": "Don't listen to them, 2B.",
-        "ru": "Не слушай их, 2B."
+        "ru": "Не слушай их, 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1177.wav"
     },
     {
         "id": "M1020_S0040_G0290_001_n02",
         "jp": "イッショニイヨウ　イッショニイヨウ。",
         "en": "Together. Forever. Together. Forever.",
-        "ru": "Вместе. Навсегда. Вместе. Навсегда."
+        "ru": "Вместе. Навсегда. Вместе. Навсегда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/816.wav"
     },
     {
         "id": "M1020_S0040_G0300_001_n02",
@@ -75,43 +85,50 @@
         "id": "M1020_S0040_G0310_001_a9s",
         "jp": "こいつらに心なんか無い。",
         "en": "They don't have any feelings.",
-        "ru": "У них нет никаких чувств."
+        "ru": "У них нет никаких чувств.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1178.wav"
     },
     {
         "id": "M1020_S0040_G0320_001_a9s",
         "jp": "ただ、人間の言葉を真似してるだけだよ……",
         "en": "They're just imitating human speech.",
-        "ru": "Они попросту имитируют человеческую речь."
+        "ru": "Они попросту имитируют человеческую речь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1179.wav"
     },
     {
         "id": "M1020_S0040_G0330_001_a9s",
         "jp": "破壊しましょう。",
         "en": "Let's take them out.",
-        "ru": "Разберёмся с ними."
+        "ru": "Разберёмся с ними.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1180.wav"
     },
     {
         "id": "M1020_S0040_G0340_001_n02",
         "jp": "オッパイ",
         "en": "Feed. Me!",
-        "ru": "Накорми. Меня."
+        "ru": "Накорми. Меня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/818.wav"
     },
     {
         "id": "M1020_S0040_G0350_001_n02",
         "jp": "スキ　スキ　スキ　スキ",
         "en": "Love. Love. Love. Love.",
-        "ru": "Любовь. Любовь. Любовь. Любовь."
+        "ru": "Любовь. Любовь. Любовь. Любовь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/819.wav"
     },
     {
         "id": "M1020_S0040_G0070_300_n02",
         "jp": "ヤッテヤルッ！！",
         "en": "I'll get you for this!",
-        "ru": "Вот вы и попались!"
+        "ru": "Вот вы и попались!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/797.wav"
     },
     {
         "id": "M1020_S0040_G0351_001_n02",
         "jp": "アンドロイド　コロス！",
         "en": "Kill the androids!",
-        "ru": "Убить андроидов!"
+        "ru": "Убить андроидов!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/820.wav"
     },
     {
         "id": "M1020_S0040_G0352_001_n02",
@@ -123,19 +140,22 @@
         "id": "M1020_S0040_G0353_001_n02",
         "jp": "アイシテル！　コロス！",
         "en": "I love you! Kill!",
-        "ru": "Я люблю тебя! Убить!"
+        "ru": "Я люблю тебя! Убить!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/822.wav"
     },
     {
         "id": "M1020_S0040_G0354_001_n02",
         "jp": "ウラミ！　ツラミ！",
         "en": "Hatred! Pain!",
-        "ru": "Ненависть! Боль!"
+        "ru": "Ненависть! Боль!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/823.wav"
     },
     {
         "id": "M1020_S0040_G0355_001_n02",
         "jp": "ブチコワス！",
         "en": "Slaughter!",
-        "ru": "Резня!"
+        "ru": "Резня!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/824.wav"
     },
     {
         "id": "M1020_S0040_G0360_001_n02",

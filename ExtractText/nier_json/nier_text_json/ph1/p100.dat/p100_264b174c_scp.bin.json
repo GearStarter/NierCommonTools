@@ -45,13 +45,15 @@
         "id": "M5920_S0070_G0010_001_pod042",
         "jp": "システムメニュー上で表示可能。",
         "en": "Data may be displayed from the system menu.",
-        "ru": "С данными можно ознакомиться через системное меню."
+        "ru": "С данными можно ознакомиться через системное меню.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/146.wav"
     },
     {
         "id": "M5920_S0070_G0030_001_a9s",
         "jp": "マップデータですか……",
         "en": "Map data, huh?",
-        "ru": "Картографические данные?"
+        "ru": "Картографические данные?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/357.wav"
     },
     {
         "id": "M5920_S0070_G0040_001_a9s",
@@ -63,25 +65,29 @@
         "id": "M5920_S0070_G0050_001_a9s",
         "jp": "新しい衛星が配備されるといいんですけど。",
         "en": "Hopefully they deploy some new satellites soon.",
-        "ru": "Надеюсь, в скором времени они запустят парочку новых спутников."
+        "ru": "Надеюсь, в скором времени они запустят парочку новых спутников.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/359.wav"
     },
     {
         "id": "M5920_S0070_G0060_001_a2b",
         "jp": "大体わかればいい。",
         "en": "A general idea is good enough.",
-        "ru": "В целом, задумка довольно неплоха."
+        "ru": "В целом, задумка довольно неплоха.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1015.wav"
     },
     {
         "id": "M5920_S0070_G0070_001_a9s",
         "jp": "意外とたくましいですね……２Ｂは。",
         "en": "Heh. You don't let anything get in your way, do you?",
-        "ru": "Хех. Ты никогда не унываешь, да, 2В?"
+        "ru": "Хех. Ты никогда не унываешь, да, 2В?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/360.wav"
     },
     {
         "id": "M5920_S0060_G0280_001_a9s",
         "jp": "これは……旧世界の情報だな。",
         "en": "Oh, hey. This is data from the old world.",
-        "ru": "О, эй. Это же информация из старого мира."
+        "ru": "О, эй. Это же информация из старого мира.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/355.wav"
     },
     {
         "id": "M5920_S0060_G0290_001_a9s",

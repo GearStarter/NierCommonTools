@@ -3,19 +3,22 @@
         "id": "M4020_S0000_G0000_300_a9s",
         "jp": "中央エリアはかなり植物の侵食が進んでるな……",
         "en": "Plant life has claimed most of the central area...",
-        "ru": "Растительность заняла большую часть центральной зоны..."
+        "ru": "Растительность заняла большую часть центральной зоны...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1900.wav"
     },
     {
         "id": "M4020_S0000_G0010_300_a9s",
         "jp": "サイズもかなり大きい。",
         "en": "Big plants, too.",
-        "ru": "И растения довольно большие."
+        "ru": "И растения довольно большие.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1901.wav"
     },
     {
         "id": "M4020_S0000_G0020_300_pod153",
         "jp": "情報：人類退避後、植物の巨大化現象を確認。",
         "en": "Report: Records show that vegetation has grown to an abnormal size since the departure of humans.",
-        "ru": "Отчёт: в архивах указано, что растения выросли до аномальных размеров с момента ухода людей."
+        "ru": "Отчёт: в архивах указано, что растения выросли до аномальных размеров с момента ухода людей.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/423.wav"
     },
     {
         "id": "M4020_S0000_G0030_300_a9s",
@@ -33,6 +36,7 @@
         "id": "M1040_S0033_G0141_001_a9s",
         "jp": "その箱を動かせば、廃墟都市に出られますね。",
         "en": "We can get into the city ruins if we move that box.",
-        "ru": "Если сдвинем этот ящик, сможем попасть в руины города."
+        "ru": "Если сдвинем этот ящик, сможем попасть в руины города.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1287.wav"
     }
 ]

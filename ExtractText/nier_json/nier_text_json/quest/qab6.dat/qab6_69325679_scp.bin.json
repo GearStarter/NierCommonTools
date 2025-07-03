@@ -3,7 +3,8 @@
         "id": "M1080_S0020_G0000_201_pod153",
         "jp": "検査推奨：記憶エリア。",
         "en": "Proposal: Engage memory core diagnostics.",
-        "ru": "Предложение: включите диагностику ядра памяти."
+        "ru": "Предложение: включите диагностику ядра памяти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/198.wav"
     },
     {
         "id": "M1080_S0020_G0010_201_a9s",
@@ -27,7 +28,8 @@
         "id": "M1080_S0020_G0040_201_pod153",
         "jp": "記憶エリアチェック完了。問題なし。",
         "en": "Memory core diagnostics complete. No issues detected.",
-        "ru": "Диагностика ядра памяти завершена. Проблем не выявлено."
+        "ru": "Диагностика ядра памяти завершена. Проблем не выявлено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/200.wav"
     },
     {
         "id": "M1080_S0020_G0050_201_a9s",
@@ -39,7 +41,8 @@
         "id": "M1080_S0020_G0060_201_pod153",
         "jp": "検査推奨：視覚センサー処理系。",
         "en": "Proposal: Engage visual sensor diagnostics.",
-        "ru": "Предложение: включите диагностику визуальных сенсоров."
+        "ru": "Предложение: включите диагностику визуальных сенсоров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/201.wav"
     },
     {
         "id": "M1080_S0020_G0070_201_a9s",
@@ -51,13 +54,15 @@
         "id": "M1080_S0020_G0080_201_pod153",
         "jp": "視覚センサー処理系チェック完了。問題なし。",
         "en": "Visual sensor diagnostics complete. No issues detected.",
-        "ru": "Диагностика визуальных сенсоров завершена. Проблем не выявлено."
+        "ru": "Диагностика визуальных сенсоров завершена. Проблем не выявлено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/202.wav"
     },
     {
         "id": "M1080_S0020_G0090_201_pod153",
         "jp": "全チェック完了。",
         "en": "All checks complete.",
-        "ru": "Все проверки завершены."
+        "ru": "Все проверки завершены.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/203.wav"
     },
     {
         "id": "M1080_S0020_G0100_201_a9s",
@@ -69,19 +74,22 @@
         "id": "M1080_S0020_G0110_201_a9s",
         "jp": "データオーバーホールとか、やり過ぎだよ。",
         "en": "Don't you think it's overkill to perform a full data overhaul?",
-        "ru": "Не думаешь, что выполнять полную проверку данных — это перебор?"
+        "ru": "Не думаешь, что выполнять полную проверку данных — это перебор?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1486.wav"
     },
     {
         "id": "M1080_S0020_G0120_201_pod153",
         "jp": "機体９Ｓは敵に鹵獲され長時間の操作不能状態にあった。",
         "en": "Unit 9S was seized by the enemy and placed in a non-controlled state for an extended period of time.",
-        "ru": "Единица 9S была захвачена врагом и находилась в неконтролируемом состоянии длительный промежуток времени."
+        "ru": "Единица 9S была захвачена врагом и находилась в неконтролируемом состоянии длительный промежуток времени.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/204.wav"
     },
     {
         "id": "M1080_S0020_G0130_201_pod153",
         "jp": "その間に敵の論理ウィルスの潜伏を許してしまった可能性が……",
         "en": "There is a high probability of corruption by an enemy logic virus.",
-        "ru": "Высока вероятность поражения вражеским вирусом схем."
+        "ru": "Высока вероятность поражения вражеским вирусом схем.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/205.wav"
     },
     {
         "id": "M1080_S0020_G0140_201_a9s",
@@ -99,7 +107,8 @@
         "id": "M1080_S0020_G0160_201_a9s",
         "jp": "何……今の？",
         "en": "Huh? What was that?",
-        "ru": "А? Что это такое?"
+        "ru": "А? Что это такое?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1489.wav"
     },
     {
         "id": "M1080_S0020_G0170_201_pod153",
@@ -111,25 +120,29 @@
         "id": "M1080_S0020_G0180_201_a9s",
         "jp": "データ同期を中止。",
         "en": "Halt the data sync.",
-        "ru": "Останови синхронизацию данных."
+        "ru": "Останови синхронизацию данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1490.wav"
     },
     {
         "id": "M1080_S0020_G0190_201_pod153",
         "jp": "警告：データ同期は全ヨルハ機体の義務工程。",
         "en": "Alert: Data synchronization is mandatory for all YoRHa units.",
-        "ru": "Внимание: синхронизация данных обязательна для всех единиц YoRHa."
+        "ru": "Внимание: синхронизация данных обязательна для всех единиц YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/207.wav"
     },
     {
         "id": "M1080_S0020_G0200_201_a9s",
         "jp": "不明瞭なノイズがあったからね。",
         "en": "Yeah, I know that. But we just got some kind of weird noise.",
-        "ru": "Да, я знаю. Но у нас появились какие-то странные помехи."
+        "ru": "Да, я знаю. Но у нас появились какие-то странные помехи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1491.wav"
     },
     {
         "id": "M1080_S0020_G0210_201_a9s",
         "jp": "２Ｂのデータ同期プロセスも一旦保留しておいて。",
         "en": "Halt the data sync for 2B as well.",
-        "ru": "Также останови синхронизацию данных 2B."
+        "ru": "Также останови синхронизацию данных 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1492.wav"
     },
     {
         "id": "M1080_S0020_G0220_201_pod153",
@@ -141,127 +154,148 @@
         "id": "M1080_S0020_G0230_201_a9s",
         "jp": "万全を期する為に、データノイズの原因を探す。",
         "en": "Let's figure out where that noise came from. Just to be sure, you know?",
-        "ru": "Давай выясним, откуда исходят помехи. Просто, чтобы убедиться, хорошо?"
+        "ru": "Давай выясним, откуда исходят помехи. Просто, чтобы убедиться, хорошо?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1493.wav"
     },
     {
         "id": "M1080_S0020_G0240_201_a9s",
         "jp": "サーバーへのポートを開いて。",
         "en": "Open a port to the server.",
-        "ru": "Открой порт к серверу."
+        "ru": "Открой порт к серверу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1494.wav"
     },
     {
         "id": "M1080_S0020_G0250_201_a9s",
         "jp": "全部調べるのは無理だな……重要なポイントに絞って調べよう。",
         "en": "Hmm... No time to examine everything. Better stick to the main data nodes.",
-        "ru": "Хм... Нет времени всё проверять. Лучше придерживаться основных узлов данных."
+        "ru": "Хм... Нет времени всё проверять. Лучше придерживаться основных узлов данных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1495.wav"
     },
     {
         "id": "M1080_S0020_G0260_201_pod153",
         "jp": "検出：月面の人類会議サーバーへのポートログ。",
         "en": "Detected: Access log to Council of Humanity's lunar server.",
-        "ru": "Обнаружено: журнал доступа к Лунному серверу Совета Человечества."
+        "ru": "Обнаружено: журнал доступа к Лунному серверу Совета Человечества.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/209.wav"
     },
     {
         "id": "M1080_S0020_G0270_201_a9s",
         "jp": "どうして防壁がこんな所に……",
         "en": "What's a barrier doing here...?",
-        "ru": "Что здесь делает барьер?.."
+        "ru": "Что здесь делает барьер?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1496.wav"
     },
     {
         "id": "M1080_S0020_G0280_201_a9s",
         "jp": "これは月面への資材搬入記録か。",
         "en": "Hmm... Looks like records for supplies shipped to the moon.",
-        "ru": "Хм... Похоже на отчёты о поставках, отправляемых на Луну."
+        "ru": "Хм... Похоже на отчёты о поставках, отправляемых на Луну.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1497.wav"
     },
     {
         "id": "M1080_S0020_G0290_201_a9s",
         "jp": "でも、変だな……空のコンテナがやたらある。",
         "en": "Strange... There were a ton of empty containers.",
-        "ru": "Странно... Там было много пустых контейнеров."
+        "ru": "Странно... Там было много пустых контейнеров.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1498.wav"
     },
     {
         "id": "M1080_S0020_G0300_201_a9s",
         "jp": "何でこんな……無意味な事してるんだろう？",
         "en": "That's weird. Why would they do that?",
-        "ru": "Это странно. Почему они это делают?"
+        "ru": "Это странно. Почему они это делают?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1499.wav"
     },
     {
         "id": "M1080_S0020_G0310_201_pod153",
         "jp": "検出：ヨルハ機体保管記録。",
         "en": "Detected: YoRHa unit storage records.",
-        "ru": "Обнаружено: хранилище записей единиц YoRHa."
+        "ru": "Обнаружено: хранилище записей единиц YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/210.wav"
     },
     {
         "id": "M1080_S0020_G0320_201_a9s",
         "jp": "こんなに厳重に防御する意味ってなんだろう……",
         "en": "What's the point of all this heavy security?",
-        "ru": "Какой смысл в такой сильной системе безопасности здесь?"
+        "ru": "Какой смысл в такой сильной системе безопасности здесь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1500.wav"
     },
     {
         "id": "M1080_S0020_G0330_201_a9s",
         "jp": "ブラックボックスに関する情報だけ、全部潰されてる……",
         "en": "All the black box data has been deleted, but it looks like everything else is here.",
-        "ru": "Все данные чёрных ящиков были удалены, но, похоже, всё остальное на месте."
+        "ru": "Все данные чёрных ящиков были удалены, но, похоже, всё остальное на месте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1501.wav"
     },
     {
         "id": "M1080_S0020_G0340_201_a9s",
         "jp": "ん……？新しいポートが開いた。",
         "en": "...Huh? A new port just opened.",
-        "ru": "...А? Новый порт открылся."
+        "ru": "...А? Новый порт открылся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1502.wav"
     },
     {
         "id": "M1080_S0020_G0340_201_a9s",
         "jp": "ん……？新しいポートが開いた。",
         "en": "...Huh? A new port just opened.",
-        "ru": "...А? Новый порт открылся."
+        "ru": "...А? Новый порт открылся.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1502.wav"
     },
     {
         "id": "M1080_S0020_G0350_201_pod153",
         "jp": "検出：人類会議及びヨルハ計画記録インデックス。",
         "en": "Detected: Council of Humanity and Project YoRHa records index.",
-        "ru": "Обнаружено: индекс записей Совета Человечества и проекта YoRHa."
+        "ru": "Обнаружено: индекс записей Совета Человечества и проекта YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/211.wav"
     },
     {
         "id": "M1080_S0020_G0360_201_pod153",
         "jp": "警告：当該データへのアクセスは許可されていない。",
         "en": "Alert: We are not authorized to access this data.",
-        "ru": "Внимание: вы не авторизованы для доступа к этим данным."
+        "ru": "Внимание: вы не авторизованы для доступа к этим данным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/212.wav"
     },
     {
         "id": "M1080_S0020_G0370_201_a9s",
         "jp": "……変なデータが多すぎる。",
         "en": "Man, this stuff is all wrong...",
-        "ru": "Блин, здесь кругом ошибки..."
+        "ru": "Блин, здесь кругом ошибки...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1503.wav"
     },
     {
         "id": "M1080_S0020_G0380_201_a9s",
         "jp": "このデータも調べないとダメだ。",
         "en": "I need to check this out too.",
-        "ru": "Это тоже нужно проверить."
+        "ru": "Это тоже нужно проверить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1504.wav"
     },
     {
         "id": "M1080_S0020_G0390_201_a9s",
         "jp": "攻撃型の防壁！？",
         "en": "An attack barrier? Really!?",
-        "ru": "Атакующий барьер? Серьёзно?!"
+        "ru": "Атакующий барьер? Серьёзно?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1505.wav"
     },
     {
         "id": "M1080_S0020_G0400_201_a9s",
         "jp": "こんなのをサーバー内部に設置するなんて……",
         "en": "Why the heck would they install one of those in this server...?",
-        "ru": "Почему, чёрт возьми, они установили его на этом сервере?.."
+        "ru": "Почему, чёрт возьми, они установили его на этом сервере?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1506.wav"
     },
     {
         "id": "M1080_S0020_G0410_201_a9s",
         "jp": "このデータ……ヨルハ計画の中に、人類会議策定の見出しが入ってる……",
         "en": "Let's see... Looks like info about how the Council of Humanity was formed as part of Project YoRHa.",
-        "ru": "Давай-ка посмотрим... Похоже на информацию о том, как Совет Человечества был сформирован в рамках проекта YoRHa."
+        "ru": "Давай-ка посмотрим... Похоже на информацию о том, как Совет Человечества был сформирован в рамках проекта YoRHa.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1507.wav"
     },
     {
         "id": "M1080_S0020_G0420_201_a9s",
         "jp": "これじゃあ、順番が逆……",
         "en": "Wait. Isn't that backwards?",
-        "ru": "Подожди. Разве не наоборот?"
+        "ru": "Подожди. Разве не наоборот?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1508.wav"
     },
     {
         "id": "M1080_S0020_G0430_201_a9s",
@@ -285,7 +319,8 @@
         "id": "M1080_S0020_G0460_201_a9s",
         "jp": "鉄の軛から解き放たれ、",
         "en": "Release me from my yoke of iron!",
-        "ru": "Освободи меня от моих железных оков!"
+        "ru": "Освободи меня от моих железных оков!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1512.wav"
     },
     {
         "id": "M1080_S0020_G0470_201_a9s",
@@ -309,19 +344,22 @@
         "id": "M1080_S0020_G0500_201_a9s",
         "jp": "くそっ！見つかった？",
         "en": "Crap! Did they find me?",
-        "ru": "Чёрт! Они обнаружили меня?"
+        "ru": "Чёрт! Они обнаружили меня?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1516.wav"
     },
     {
         "id": "M1080_S0020_G0510_201_pod153",
         "jp": "否定：２Ｂからの緊急援護申請。",
         "en": "Negative. Emergency backup request from 2B.",
-        "ru": "Отрицательно. Срочный запрос о помощи от 2B."
+        "ru": "Отрицательно. Срочный запрос о помощи от 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/213.wav"
     },
     {
         "id": "M1080_S0020_G0520_201_a9s",
         "jp": "サーバー切断。ボディユニット起動。",
         "en": "Close the server connection and activate my body.",
-        "ru": "Закрой подключение к серверу и активируй моё тело."
+        "ru": "Закрой подключение к серверу и активируй моё тело.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1517.wav"
     },
     {
         "id": "M1080_S0020_G0530_201_a9s",

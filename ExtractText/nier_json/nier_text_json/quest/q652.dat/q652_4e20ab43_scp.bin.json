@@ -135,19 +135,22 @@
         "id": "M5652_S0020_G0060_001_a9s",
         "jp": "これが、レジスタンスの保管している資材か……",
         "en": "This must be the Resistance storage facility.",
-        "ru": "Должно быть, это склад Сопротивления."
+        "ru": "Должно быть, это склад Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/285.wav"
     },
     {
         "id": "M5652_S0020_G0100_001_a2",
         "jp": "これが、レジスタンスの保管している資材か……",
         "en": "So this is all the crap the Resistance was storing, huh?",
-        "ru": "Так это и есть хранилище хлама, принадлежащее Сопротивлению, да?"
+        "ru": "Так это и есть хранилище хлама, принадлежащее Сопротивлению, да?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/603.wav"
     },
     {
         "id": "M5652_S0020_G0070_001_resiman",
         "jp": "……けて……",
         "en": "...me...",
-        "ru": "...мне..."
+        "ru": "...мне...",
+        "en_voice": "stream/Japanese/vo_plffff_0_000/159.wav"
     },
     {
         "id": "M5652_S0020_G0080_001_resiman",
@@ -171,7 +174,8 @@
         "id": "M5652_S0020_G0110_001_resiman",
         "jp": "……けて……",
         "en": "...me...",
-        "ru": "...мне..."
+        "ru": "...мне...",
+        "en_voice": "stream/Japanese/vo_plffff_0_000/159.wav"
     },
     {
         "id": "M5652_S0020_G0120_001_resiman",

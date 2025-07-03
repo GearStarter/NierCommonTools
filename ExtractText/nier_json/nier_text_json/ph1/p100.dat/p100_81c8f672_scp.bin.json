@@ -3,7 +3,8 @@
         "id": "M1030_S0500_S0000_201_eve",
         "jp": "なぁ……にぃちゃん。",
         "en": "Brother...?",
-        "ru": "Брат?.."
+        "ru": "Брат?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1117.wav"
     },
     {
         "id": "M1030_S0500_S0010_201_eve",
@@ -42,13 +43,15 @@
         "id": "M1030_S0500_S0060_201_eve",
         "jp": "でも、何でこの植物を食わなくちゃいけないんだ？",
         "en": "But why are we eating this plant matter?",
-        "ru": "А зачем мы едим эти растительные штуковины?"
+        "ru": "А зачем мы едим эти растительные штуковины?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1120.wav"
     },
     {
         "id": "M1030_S0500_S0070_201_eve",
         "jp": "俺達機械生命体は、こんなの食わなくても動けるよ。",
         "en": "Machines don't need to eat things like this.",
-        "ru": "Машинам ни к чему питаться подобным."
+        "ru": "Машинам ни к чему питаться подобным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1121.wav"
     },
     {
         "id": "M1030_S0500_S0080_201_adam",
@@ -82,7 +85,8 @@
         "id": "M1030_S0500_S0120_201_eve",
         "jp": "でも、これが終わったら、一緒に遊んでくれる？",
         "en": "But once we're done, can we play together for a bit?",
-        "ru": "Но когда мы закончим со всем этим, поиграем чуточку вместе?"
+        "ru": "Но когда мы закончим со всем этим, поиграем чуточку вместе?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1123.wav"
     },
     {
         "id": "M1030_S0500_S0130_201_adam",

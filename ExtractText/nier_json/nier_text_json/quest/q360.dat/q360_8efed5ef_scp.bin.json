@@ -3,7 +3,8 @@
         "id": "M5360_S0010_G0000_001_a9s",
         "jp": "あのロボット……何か様子がおかしいな？",
         "en": "That machine... I think something's wrong with it.",
-        "ru": "Эта машина... Я думаю, с неё что-то не так."
+        "ru": "Эта машина... Я думаю, с неё что-то не так.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/199.wav"
     },
     {
         "id": "M5360_S0010_G0010_001_n02",
@@ -141,7 +142,8 @@
         "id": "M5360_S0020_G0060_001_a9s",
         "jp": "確かに……",
         "en": "Well, yeah, but...",
-        "ru": "Да, но всё же..."
+        "ru": "Да, но всё же...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/347.wav"
     },
     {
         "id": "M5360_S0030_G0080_001_a9s",
@@ -183,7 +185,8 @@
         "id": "M5360_S0040_G0080_001_a9s",
         "jp": "うっ……",
         "en": "...Oof.",
-        "ru": "...Уф."
+        "ru": "...Уф.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/46.wav"
     },
     {
         "id": "M5360_S0040_G0090_001_pod153",
@@ -231,13 +234,15 @@
         "id": "M5360_S0040_G0160_001_n02",
         "jp": "この世界に私達は不要だ！",
         "en": "This world has no need for us!",
-        "ru": "Этот мир не нуждается в нас!"
+        "ru": "Этот мир не нуждается в нас!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1080.wav"
     },
     {
         "id": "M5360_S0040_G0170_001_n02",
         "jp": "だから……",
         "en": "There is only one solution...",
-        "ru": "Есть только один выход..."
+        "ru": "Есть только один выход...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1081.wav"
     },
     {
         "id": "M5360_S0040_G0180_001_a9s",
@@ -249,7 +254,8 @@
         "id": "M5360_S0040_G0190_001_a9s",
         "jp": "機械生命体が、自死を選ぶなんて……",
         "en": "I can't believe that thing decided to end itself...",
-        "ru": "Поверить не могу, что он решил покончить с собой..."
+        "ru": "Поверить не могу, что он решил покончить с собой...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/201.wav"
     },
     {
         "id": "M5360_S0020_G0070_001_a9s",
@@ -261,6 +267,7 @@
         "id": "M5360_S0040_G0200_001_a9s",
         "jp": "あの機械生命体が落ちた場所……",
         "en": "This is where that machine fell...",
-        "ru": "Это место падения машины..."
+        "ru": "Это место падения машины...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/202.wav"
     }
 ]

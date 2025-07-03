@@ -3,13 +3,15 @@
         "id": "M1080_S0030_G0480_101_pascal",
         "jp": "同盟を結びたい機械生命体はこの奥にいるそうです。",
         "en": "The machines who seek to form an alliance with my village are hiding out here.",
-        "ru": "Машины, которые хотят заключить мир с моей деревней, находятся где-то здесь."
+        "ru": "Машины, которые хотят заключить мир с моей деревней, находятся где-то здесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/444.wav"
     },
     {
         "id": "M1080_S0030_G0490_101_pascal",
         "jp": "しかし気をつけて下さいね。",
         "en": "Still, you should probably be careful.",
-        "ru": "Тем не менее, будьте осторожны."
+        "ru": "Тем не менее, будьте осторожны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/445.wav"
     },
     {
         "id": "M1080_S0030_G0500_101_pascal",
@@ -21,31 +23,36 @@
         "id": "M1080_S0030_G0510_101_a2b",
         "jp": "自分達が、危険？",
         "en": "Even you?",
-        "ru": "Даже ты?"
+        "ru": "Даже ты?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/656.wav"
     },
     {
         "id": "M1080_S0030_G0520_101_pascal",
         "jp": "ええ、客観的事実です。",
         "en": "In truth, yes.",
-        "ru": "По правде говоря, да."
+        "ru": "По правде говоря, да.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/447.wav"
     },
     {
         "id": "M1080_S0030_G0530_101_pascal",
         "jp": "ネットワークから切り離された私達は、お互いの情報を共有していません。",
         "en": "Now that we're cut off from the network, we no longer share data with each other.",
-        "ru": "Теперь, когда мы отключены от сети, мы больше не обмениваемся данными друг с другом."
+        "ru": "Теперь, когда мы отключены от сети, мы больше не обмениваемся данными друг с другом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/448.wav"
     },
     {
         "id": "M1080_S0030_G0540_101_pascal",
         "jp": "言葉を交わしても、本心とは違うかもしれませんので。",
         "en": "We can speak, of course, but I find that language contains many ways to hide one's true intentions.",
-        "ru": "Мы можем говорить, это само собой, но при разговоре есть много способов скрыть свои истинные намерения."
+        "ru": "Мы можем говорить, это само собой, но при разговоре есть много способов скрыть свои истинные намерения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/449.wav"
     },
     {
         "id": "M1080_S0030_G0550_101_a2b",
         "jp": "……言葉、か。",
         "en": "It certainly does.",
-        "ru": "Это так."
+        "ru": "Это так.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/657.wav"
     },
     {
         "id": "M1080_S0030_G0000_300_pascal",
@@ -57,126 +64,147 @@
         "id": "M1080_S0040_S0000_101_n02",
         "jp": "ようこそ。神の宿る場所へ。",
         "en": "You enter the domain of God!",
-        "ru": "Вы ступаете на землю Божью!"
+        "ru": "Вы ступаете на землю Божью!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/945.wav"
     },
     {
         "id": "M1080_S0050_G0000_101_n02",
         "jp": "私達は、神の存在に気付きました。",
         "en": "We have come to know the existence of God.",
-        "ru": "Мы познали существование Бога."
+        "ru": "Мы познали существование Бога.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/946.wav"
     },
     {
         "id": "M1080_S0050_G0010_101_n02",
         "jp": "神の名の下に、全ての存在は平等であらねばなりません。",
         "en": "And by His word, all living things are to be considered equal.",
-        "ru": "И по Его слову, все живые существа считаются равными."
+        "ru": "И по Его слову, все живые существа считаются равными.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/948.wav"
     },
     {
         "id": "M1080_S0050_G0020_101_n02",
         "jp": "教祖が貴方がたと和平を結びたいと望んでおられます。",
         "en": "His Grace wishes to form a pact of peace with your people.",
-        "ru": "Его Светлость желает заключить мир с вашим народом."
+        "ru": "Его Светлость желает заключить мир с вашим народом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/950.wav"
     },
     {
         "id": "M1080_S0050_G0030_101_n02",
         "jp": "我々司祭がご案内いたします。奥のお部屋へ、どうぞ。",
         "en": "We, his humble priests, will guide you to him. This way.",
-        "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда."
+        "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/952.wav"
     },
     {
         "id": "M1080_S0050_G0000_101_n02",
         "jp": "私達は、神の存在に気付きました。",
         "en": "We have come to know the existence of God.",
-        "ru": "Мы познали существование Бога."
+        "ru": "Мы познали существование Бога.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/946.wav"
     },
     {
         "id": "M1080_S0050_G0010_101_n02",
         "jp": "神の名の下に、全ての存在は平等であらねばなりません。",
         "en": "And by His word, all living things are to be considered equal.",
-        "ru": "И по Его слову, все живые существа считаются равными."
+        "ru": "И по Его слову, все живые существа считаются равными.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/948.wav"
     },
     {
         "id": "M1080_S0050_G0020_101_n02",
         "jp": "教祖が貴方がたと和平を結びたいと望んでおられます。",
         "en": "His Grace wishes to form a pact of peace with your people.",
-        "ru": "Его Светлость желает заключить мир с вашим народом."
+        "ru": "Его Светлость желает заключить мир с вашим народом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/950.wav"
     },
     {
         "id": "M1080_S0050_G0030_101_n02",
         "jp": "我々司祭がご案内いたします。奥のお部屋へ、どうぞ。",
         "en": "We, his humble priests, will guide you to him. This way.",
-        "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда."
+        "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/952.wav"
     },
     {
         "id": "M1080_S0050_G0050_300_n02",
         "jp": "おやめ下さい！！\\n我々に戦闘の意思はありません！！",
         "en": "Stop! We have no desire to fight you!",
-        "ru": "Стой! Мы не желаем с тобой сражаться!"
+        "ru": "Стой! Мы не желаем с тобой сражаться!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/954.wav"
     },
     {
         "id": "M1080_S0050_G0060_300_pascal",
         "jp": "落ち着いて下さい！\\n我々は和平交渉の為にここに来たのですから……",
         "en": "Please, you must be calm! We have come to negotiate peace with you!",
-        "ru": "Пожалуйста, успокойтесь! Мы здесь для того, чтобы заключить мир с вами!"
+        "ru": "Пожалуйста, успокойтесь! Мы здесь для того, чтобы заключить мир с вами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/452.wav"
     },
     {
         "id": "M1080_S0050_G0090_101_prst",
         "jp": "こちらの通路をお進みください。",
         "en": "Down this corridor, if you would.",
-        "ru": "Следуйте вниз по коридору."
+        "ru": "Следуйте вниз по коридору.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/955.wav"
     },
     {
         "id": "M1080_S0050_G0100_101_prst",
         "jp": "教祖様のお部屋に行くには、このエレベーターに乗っていただければ。",
         "en": "Please board this elevator to access His Grace's sanctum.",
-        "ru": "Поднимитесь на этом лифте и вы попадёте в святилище Его Величества."
+        "ru": "Поднимитесь на этом лифте и вы попадёте в святилище Его Величества.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/956.wav"
     },
     {
         "id": "M1080_S0050_G0111_101_prst",
         "jp": "そんなに急いでも、教祖様は逃げませんよ。",
         "en": "You don't have to hurry so! His Grace won't run from you.",
-        "ru": "Не спешите! Его Светлость никуда от вас не сбежит."
+        "ru": "Не спешите! Его Светлость никуда от вас не сбежит.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav"
     },
     {
         "id": "M1080_S0050_G0111_101_prst",
         "jp": "そんなに急いでも、教祖様は逃げませんよ。",
         "en": "You don't have to hurry so! His Grace won't run from you.",
-        "ru": "Не спешите! Его Светлость никуда от вас не сбежит."
+        "ru": "Не спешите! Его Светлость никуда от вас не сбежит.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav"
     },
     {
         "id": "M1080_S0050_G0040_101_pascal",
         "jp": "予測した通り、非常に怪しい集団ですねぇ……",
         "en": "This all seems pretty shady if you ask me...",
-        "ru": "Это всё как-то напрягает, так, к слову..."
+        "ru": "Это всё как-то напрягает, так, к слову...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/450.wav"
     },
     {
         "id": "M1080_S0050_G0050_101_a2b",
         "jp": "じゃあ何でついてきた？",
         "en": "So why are you still here?",
-        "ru": "Так почему ты всё ещё здесь?"
+        "ru": "Так почему ты всё ещё здесь?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/658.wav"
     },
     {
         "id": "M1080_S0050_G0060_101_pascal",
         "jp": "２Ｂさんにここを紹介した以上……",
         "en": "Well, I brought you this far, didn't I?",
-        "ru": "Ну, я уже слишком сильно втянул тебя, не так ли?"
+        "ru": "Ну, я уже слишком сильно втянул тебя, не так ли?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/451.wav"
     },
     {
         "id": "M1080_S0050_G0070_101_pascal",
         "jp": "責任を持って最後までお付き合いする必要がありますので。",
         "en": "It's my duty to see this through to the end.",
-        "ru": "Довести это дело до конца — мой долг."
+        "ru": "Довести это дело до конца — мой долг.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/453.wav"
     },
     {
         "id": "M1080_S0050_G0080_101_a2b",
         "jp": "……一応、感謝しておく。",
         "en": "...Appreciated.",
-        "ru": "Весьма признательна..."
+        "ru": "Весьма признательна...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav"
     },
     {
         "id": "M1080_S0050_G0100_300_pascal",
         "jp": "まずは彼らの話だけでも聞いてみましょう。",
         "en": "We should at least hear them out.",
-        "ru": "По крайней мере, давай хотя бы выслушаем их."
+        "ru": "По крайней мере, давай хотя бы выслушаем их.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/454.wav"
     }
 ]

@@ -9,7 +9,8 @@
         "id": "M1080_S0080_G0000_201_a9s",
         "jp": "オペレーターさん！？何があったの？",
         "en": "Operator? What happened?",
-        "ru": "Оператор? Что случилось?"
+        "ru": "Оператор? Что случилось?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1532.wav"
     },
     {
         "id": "M1080_S0080_G0020_201_op210",
@@ -21,7 +22,8 @@
         "id": "M1080_S0080_G0030_201_op210",
         "jp": "その後２Ｂから支援要請があったけれど、電波状況が悪く……",
         "en": "We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.",
-        "ru": "Вскоре после этого мы получили запрос о поддержке от 2B, но не смогли ответить из-за плохого сигнала."
+        "ru": "Вскоре после этого мы получили запрос о поддержке от 2B, но не смогли ответить из-за плохого сигнала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/152.wav"
     },
     {
         "id": "M1080_S0080_G0040_201_a9s",
@@ -33,12 +35,14 @@
         "id": "M1080_S0080_G0000_300_pod153",
         "jp": "申請：サーバー管理室の利用。",
         "en": "Use of server administration room requested.",
-        "ru": "Запрошено разрешение на использование серверной."
+        "ru": "Запрошено разрешение на использование серверной.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/215.wav"
     },
     {
         "id": "M1080_S0080_G0010_300_pod153",
         "jp": "申請の許可を確認。\\nこの部屋の装置を使用することが可能。",
         "en": "Request granted. You may now use the device in this room.",
-        "ru": "Запрос одобрен. Теперь вы можете использовать устройство в этой комнате."
+        "ru": "Запрос одобрен. Теперь вы можете использовать устройство в этой комнате.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/217.wav"
     }
 ]

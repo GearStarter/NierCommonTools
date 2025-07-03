@@ -9,7 +9,8 @@
         "id": "M5181_S0010_G0010_001_a9s",
         "jp": "はーい。聞こえますよー",
         "en": "I'm here.",
-        "ru": "На связи."
+        "ru": "На связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/127.wav"
     },
     {
         "id": "M5181_S0010_G0020_001_op210",
@@ -21,19 +22,22 @@
         "id": "M5181_S0010_G0030_001_op210",
         "jp": "以上。",
         "en": "Over.",
-        "ru": "Конец связи."
+        "ru": "Конец связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/213.wav"
     },
     {
         "id": "M5181_S0010_G0040_001_a9s",
         "jp": "あ、ちょっ……",
         "en": "Hey, wait just a...",
-        "ru": "Эй, подождите..."
+        "ru": "Эй, подождите...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/128.wav"
     },
     {
         "id": "M5181_S0010_G0050_001_a9s",
         "jp": "……断る間もなかったな。",
         "en": "She didn't even give me a chance to turn her down this time!",
-        "ru": "В этот раз она мне даже шанса на отказ не оставила!"
+        "ru": "В этот раз она мне даже шанса на отказ не оставила!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/129.wav"
     },
     {
         "id": "M5180_S0000_G0000_300_op210",
@@ -45,25 +49,29 @@
         "id": "M5181_S0010_G0060_001_a9s",
         "jp": "昔はどうして沢山の人が一緒に暮らしていたのかなあ？",
         "en": "Why did all these people live together way back then, huh?",
-        "ru": "Почему в те времена люди жили все вместе, а?"
+        "ru": "Почему в те времена люди жили все вместе, а?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/130.wav"
     },
     {
         "id": "M5181_S0010_G0070_001_pod153",
         "jp": "大都市圏に於ける土地の不足によるもの。",
         "en": "Such living arrangements were due to a lack of available land in metropolitan areas.",
-        "ru": "Подобные условия проживания являются следствием нехватки свободных земельных площадей в городских районах."
+        "ru": "Подобные условия проживания являются следствием нехватки свободных земельных площадей в городских районах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/440.wav"
     },
     {
         "id": "M5181_S0010_G0080_001_a9s",
         "jp": "土地の不足かあ……不思議だな。",
         "en": "They ran out of space? How strange.",
-        "ru": "И они сбежали в космос? Как странно."
+        "ru": "И они сбежали в космос? Как странно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/131.wav"
     },
     {
         "id": "M5181_S0010_G0090_001_a9s",
         "jp": "地球はこんなに広いのに。",
         "en": "How is that possible when there's so much of it out there?",
-        "ru": "Как такое может быть, ведь здесь столько всего?"
+        "ru": "Как такое может быть, ведь здесь столько всего?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/132.wav"
     },
     {
         "id": "M5181_S0020_G0080_001_a9s",
@@ -87,13 +95,15 @@
         "id": "M5181_S0030_G0000_001_a9s",
         "jp": "よし。これくらいでいいか。",
         "en": "Okay, this should be enough. What do we have...?",
-        "ru": "Хорошо, этого будет достаточно. Итак, что мы имеем?.."
+        "ru": "Хорошо, этого будет достаточно. Итак, что мы имеем?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/133.wav"
     },
     {
         "id": "M5181_S0030_G0010_001_a9s",
         "jp": "『壊れたおもちゃ』『汚れた家計簿』『小さな靴』……",
         "en": "Broken toys... Dirty ledgers... Small shoes...",
-        "ru": "Сломанные игрушки... Грязная книга... Маленькие башмачки..."
+        "ru": "Сломанные игрушки... Грязная книга... Маленькие башмачки...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/134.wav"
     },
     {
         "id": "M5181_S0030_G0020_001_a9s",
@@ -123,19 +133,22 @@
         "id": "M5181_S0030_G0060_001_op210",
         "jp": "送信されたデータのダウンロードを完了しました。",
         "en": "I've received your data.",
-        "ru": "Я получила данные, что вы отправили."
+        "ru": "Я получила данные, что вы отправили.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/215.wav"
     },
     {
         "id": "M5181_S0030_G0070_001_a9s",
         "jp": "それは良かった。役に立ちそうですか？",
         "en": "Great. Does it seem useful?",
-        "ru": "Отлично. Были ли они полезными?"
+        "ru": "Отлично. Были ли они полезными?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/137.wav"
     },
     {
         "id": "M5181_S0030_G0080_001_op210",
         "jp": "情報が役立つかどうかは扱う側次第です。",
         "en": "That depends on what I do with it.",
-        "ru": "Зависит от того, что я с ними сделаю."
+        "ru": "Зависит от того, что я с ними сделаю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/216.wav"
     },
     {
         "id": "M5181_S0030_G0090_001_a9s",
@@ -147,25 +160,29 @@
         "id": "M5181_S0030_G0100_001_op210",
         "jp": "しかし、これは興味深いですね……",
         "en": "It IS, however, fascinating.",
-        "ru": "Однако они очень увлекательны."
+        "ru": "Однако они очень увлекательны.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/217.wav"
     },
     {
         "id": "M5181_S0030_G0110_001_op210",
         "jp": "大昔、人類が集団生活を送っていた事は知っていましたが、",
         "en": "I was aware that humans used to live in groups...",
-        "ru": "Я знала, что люди жили группами..."
+        "ru": "Я знала, что люди жили группами...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/218.wav"
     },
     {
         "id": "M5181_S0030_G0120_001_op210",
         "jp": "これほど多様性のある暮らし方をしているとは思いませんでした。",
         "en": "But I did not know they coexisted in such a wide variety of ways.",
-        "ru": "Но я даже не подозревала о том, насколько много было видов сосуществования."
+        "ru": "Но я даже не подозревала о том, насколько много было видов сосуществования.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/219.wav"
     },
     {
         "id": "M5181_S0030_G0130_001_op210",
         "jp": "記録からは家族単位での生活様式が成立している事が判りますね。",
         "en": "I'm sure you're aware that most humans subsisted in small familial units?",
-        "ru": "Я уверена, вы знаете, что многие люди жили малыми семейными ячейками?"
+        "ru": "Я уверена, вы знаете, что многие люди жили малыми семейными ячейками?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/220.wav"
     },
     {
         "id": "M5181_S0030_G0140_001_a9s",
@@ -177,13 +194,15 @@
         "id": "M5181_S0030_G0150_001_op210",
         "jp": "様々な制度で結ばれた一定人数のグループです。",
         "en": "A family is a group of people that share a connection by blood or social custom.",
-        "ru": "Семья — это группа людей, связанных кровным родством или социальным статусом."
+        "ru": "Семья — это группа людей, связанных кровным родством или социальным статусом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/221.wav"
     },
     {
         "id": "M5181_S0030_G0160_001_op210",
         "jp": "もし、私達アンドロイドが家族制度のようなシステムを……",
         "en": "If androids had a similar system of families...",
-        "ru": "Если бы у андроидов была подобная система семей..."
+        "ru": "Если бы у андроидов была подобная система семей...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/222.wav"
     },
     {
         "id": "M5181_S0030_G0170_001_op210",
@@ -195,19 +214,22 @@
         "id": "M5181_S0030_G0180_001_a9s",
         "jp": "オペレーターさん？",
         "en": "Operator? Are you there?",
-        "ru": "Оператор? Вы ещё на связи?"
+        "ru": "Оператор? Вы ещё на связи?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/140.wav"
     },
     {
         "id": "M5181_S0030_G0190_001_op210",
         "jp": "何でもありません。話しすぎました。",
         "en": "I've said too much.",
-        "ru": "Я сказала слишком много."
+        "ru": "Я сказала слишком много.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/224.wav"
     },
     {
         "id": "M5181_S0030_G0200_001_op210",
         "jp": "仕事に戻ります。",
         "en": "I must return to my duties.",
-        "ru": "Я должна вернуться к своим обязанностям."
+        "ru": "Я должна вернуться к своим обязанностям.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/225.wav"
     },
     {
         "id": "M5181_S0030_G0210_001_a9s",
@@ -219,25 +241,29 @@
         "id": "M5181_S0030_G0220_001_op210",
         "jp": "先ほどの補足があります。",
         "en": "I have additional information to relate.",
-        "ru": "Да, у меня есть дополнительная информация."
+        "ru": "Да, у меня есть дополнительная информация.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/226.wav"
     },
     {
         "id": "M5181_S0030_G0230_001_op210",
         "jp": "特別報酬をメールしましたので、確認してください。",
         "en": "I've sent mail with a reward. Please read it.",
-        "ru": "Я отправила письмо с наградой. Пожалуйста, прочтите его."
+        "ru": "Я отправила письмо с наградой. Пожалуйста, прочтите его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/227.wav"
     },
     {
         "id": "M5181_S0030_G0240_001_op210",
         "jp": "……一連の情報収集に感謝します。",
         "en": "...And 9S? Thank you.",
-        "ru": "...И ещё 9S... Спасибо."
+        "ru": "...И ещё 9S... Спасибо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/228.wav"
     },
     {
         "id": "M5181_S0030_G0250_001_a9s",
         "jp": "……また切れた。",
         "en": "Man, she disconnected me AGAIN!",
-        "ru": "Блин, она ВНОВЬ разъединила меня!"
+        "ru": "Блин, она ВНОВЬ разъединила меня!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/142.wav"
     },
     {
         "id": "M5181_S0030_G0260_001_a9s",
@@ -249,6 +275,7 @@
         "id": "M5181_S0030_G0270_001_pod153",
         "jp": "質問の意図が不明。",
         "en": "Purpose of question unknown.",
-        "ru": "Цель вопроса неизвестна."
+        "ru": "Цель вопроса неизвестна.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/442.wav"
     }
 ]

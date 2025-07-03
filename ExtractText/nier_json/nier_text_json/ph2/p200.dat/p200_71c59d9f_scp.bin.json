@@ -9,7 +9,8 @@
         "id": "M1050_S0195_S0010_201_smallrobot",
         "jp": "王様、ちっとも大きくなんねぇなあ。",
         "en": "His Majesty hasn't grown at all.",
-        "ru": "Его Величество так и не вырос."
+        "ru": "Его Величество так и не вырос.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/909.wav"
     },
     {
         "id": "M1050_S0195_S0020_201_smallrobot",
@@ -21,7 +22,8 @@
         "id": "M1050_S0195_S0030_201_smallrobot",
         "jp": "どうやったら大きくなる？",
         "en": "How can we make him bigger?",
-        "ru": "И как же нам сделать его больше?"
+        "ru": "И как же нам сделать его больше?",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/911.wav"
     },
     {
         "id": "M1050_S0195_S0040_201_smallrobot",
@@ -33,19 +35,22 @@
         "id": "M1050_S0195_S0050_201_smallrobot",
         "jp": "ワシらは頭が悪いからな……",
         "en": "We're too dumb to figure that out.",
-        "ru": "Мы слишком глупы, чтобы узнать об этом."
+        "ru": "Мы слишком глупы, чтобы узнать об этом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/913.wav"
     },
     {
         "id": "M1050_S0195_S0060_201_smallrobot",
         "jp": "でも、めんこいなあ、王様。",
         "en": "Sure is a cutie, though!",
-        "ru": "Однако, он такой милашка!"
+        "ru": "Однако, он такой милашка!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/914.wav"
     },
     {
         "id": "M1050_S0195_S0070_201_smallrobot",
         "jp": "ああ、ちっちゃくて、めんこいなあ……",
         "en": "Yeah! So tiny and cute!",
-        "ru": "Ага! Такой милашка и симпатяшка!"
+        "ru": "Ага! Такой милашка и симпатяшка!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/915.wav"
     },
     {
         "id": "M1050_S0195_S0080_201_smallrobot",
@@ -57,7 +62,8 @@
         "id": "M1050_S0195_S0090_201_smallrobot",
         "jp": "ああ……この森の国には、誰もいれちゃなんね……",
         "en": "Right. Can't let anyone into the forest kingdom...",
-        "ru": "Верно. Никто не должен проникнуть в лесное королевство..."
+        "ru": "Верно. Никто не должен проникнуть в лесное королевство...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/917.wav"
     },
     {
         "id": "M1050_S0195_S0100_201_smallrobot",
@@ -81,6 +87,7 @@
         "id": "M1050_S0195_S0130_201_smallrobot",
         "jp": "ここに入れちゃなんねぇ！",
         "en": "Don't let them in here!",
-        "ru": "Не пускайте их сюда!"
+        "ru": "Не пускайте их сюда!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/921.wav"
     }
 ]

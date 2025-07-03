@@ -3,13 +3,15 @@
         "id": "M3050_S0038_G0080_001_ppl",
         "jp": "ねぇ、９Ｓ……約束して。",
         "en": "9S? I need you to promise me something...",
-        "ru": "9S? Я хочу, чтобы ты обещал мне кое-что..."
+        "ru": "9S? Я хочу, чтобы ты обещал мне кое-что...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/653.wav"
     },
     {
         "id": "M3050_S0038_G0090_001_ppl",
         "jp": "一人で死のうとしないで。",
         "en": "Don't die alone.",
-        "ru": "Не умирай в одиночестве."
+        "ru": "Не умирай в одиночестве.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/654.wav"
     },
     {
         "id": "M3050_S0038_G0100_001_a9s",
@@ -21,7 +23,8 @@
         "id": "M3050_S0038_G0110_001_dbl",
         "jp": "２Ｂもそれを望んじゃいないだろうしな。",
         "en": "I don't think 2B would want that either.",
-        "ru": "Не думаю, что 2B желала бы этого."
+        "ru": "Не думаю, что 2B желала бы этого.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/950.wav"
     },
     {
         "id": "M3050_S0038_G0120_001_a9s",
@@ -45,13 +48,15 @@
         "id": "M3050_S0040_S0001_001_a9s",
         "jp": "何度も何度も……",
         "en": "Over and over...",
-        "ru": "Снова и снова..."
+        "ru": "Снова и снова...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1816.wav"
     },
     {
         "id": "M3050_S0042_G0000_001_a9s",
         "jp": "また、あの文字……",
         "en": "That language again...",
-        "ru": "И вновь тот же язык..."
+        "ru": "И вновь тот же язык...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1817.wav"
     },
     {
         "id": "M3050_S0042_G0010_001_pod153",
@@ -63,12 +68,14 @@
         "id": "M3050_S0042_G0020_001_a9s",
         "jp": "神……",
         "en": "God, huh...",
-        "ru": "Бога, да..."
+        "ru": "Бога, да...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1818.wav"
     },
     {
         "id": "M3050_S0042_G0030_001_a9s",
         "jp": "機械ごときがその名前を騙るか……",
         "en": "What are these machines doing talking about gods?",
-        "ru": "Да что эти жестянки могу знать о богах?"
+        "ru": "Да что эти жестянки могу знать о богах?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1819.wav"
     }
 ]

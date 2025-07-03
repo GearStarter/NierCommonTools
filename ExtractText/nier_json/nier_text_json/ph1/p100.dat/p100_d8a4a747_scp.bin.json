@@ -15,13 +15,15 @@
         "id": "M0010_S0120_G0020_201_op210",
         "jp": "ヨルハ部隊降下作戦が開始されました。",
         "en": "The YoRHa troops have commenced their descent.",
-        "ru": "Бойцы YoRHa уже приступили ко входу в атмосферу."
+        "ru": "Бойцы YoRHa уже приступили ко входу в атмосферу.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/99.wav"
     },
     {
         "id": "M0010_S0120_G0030_201_op210",
         "jp": "速やかに敵拠点の防衛システムを解除してください。",
         "en": "Disable the enemy base's defense systems immediately.",
-        "ru": "Произведите оперативное отключение системы защиты вражеской базы."
+        "ru": "Произведите оперативное отключение системы защиты вражеской базы.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/100.wav"
     },
     {
         "id": "M0010_S0120_G0040_201_a9s",
@@ -33,18 +35,21 @@
         "id": "M0010_S0120_G0020_300_pod153",
         "jp": "警告：速やかな作戦行動の遂行。",
         "en": "Alert: Proceed with mission operations immediately.",
-        "ru": "Внимание: переходите к выполнению задания в срочном порядке."
+        "ru": "Внимание: переходите к выполнению задания в срочном порядке.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/163.wav"
     },
     {
         "id": "M0010_S0120_G0010_300_pod153",
         "jp": "推奨：飛行ユニットへの搭乗。",
         "en": "Flight unit recommended.",
-        "ru": "Рекомендуется использовать полётный модуль."
+        "ru": "Рекомендуется использовать полётный модуль.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/162.wav"
     },
     {
         "id": "M0010_S0120_G0000_300_pod153",
         "jp": "警告：防衛システムは地上ルートから辿り着くのは不可能。",
         "en": "Alert: Defense systems cannot be reached from the ground.",
-        "ru": "Внимание: достигнуть системы защиты с земли не представляется возможным."
+        "ru": "Внимание: достигнуть системы защиты с земли не представляется возможным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/161.wav"
     }
 ]

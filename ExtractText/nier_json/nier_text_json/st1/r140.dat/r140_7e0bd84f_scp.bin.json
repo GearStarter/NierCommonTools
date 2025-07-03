@@ -3,7 +3,8 @@
         "id": "M3030_S0160_G0260_300_pascal",
         "jp": "…ああ、こんにちは。\\nここは静かで、邪魔が入らない良い場所ですよ。",
         "en": "Oh, hello there! Such a nice, quiet place here, isn't it? No distractions at all!",
-        "ru": "О, привет! Здесь такое приятное, тихое место, не так ли? Ничто не отвлекает!"
+        "ru": "О, привет! Здесь такое приятное, тихое место, не так ли? Ничто не отвлекает!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/538.wav"
     },
     {
         "id": "M3030_S0160_G0270_300_pascal",
@@ -27,7 +28,8 @@
         "id": "M3030_S0160_G0290_300_pascal",
         "jp": "パスカル？なんか聞き覚えがあるような……",
         "en": "Pascal? Hmm. That sounds oddly familiar.",
-        "ru": "Паскаль? Хм. Звучит довольно знакомо."
+        "ru": "Паскаль? Хм. Звучит довольно знакомо.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/540.wav"
     },
     {
         "id": "M3030_S0160_G0300_300_pascal",
@@ -39,7 +41,8 @@
         "id": "M3030_S0160_G0310_300_pascal",
         "jp": "よかったら、少し見ていきませんか？",
         "en": "Would you like to take a look at my wares?",
-        "ru": "Вы хотите взглянуть на мои товары?"
+        "ru": "Вы хотите взглянуть на мои товары?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/543.wav"
     },
     {
         "id": "M3030_S0160_G0340_300_pascal",
@@ -69,7 +72,8 @@
         "id": "M3030_S0160_G0350_300_pascal",
         "jp": "ゴミは早く処分しないといけませんね。",
         "en": "I really must do something about all this trash...",
-        "ru": "Я действительно должен что-то сделать со всем этим мусором..."
+        "ru": "Я действительно должен что-то сделать со всем этим мусором...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/548.wav"
     },
     {
         "id": "M3030_S0160_G0340_300_pascal",
@@ -99,6 +103,7 @@
         "id": "M3030_S0160_G0350_300_pascal",
         "jp": "ゴミは早く処分しないといけませんね。",
         "en": "I really must do something about all this trash...",
-        "ru": "Я действительно должен что-то сделать со всем этим мусором..."
+        "ru": "Я действительно должен что-то сделать со всем этим мусором...",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/548.wav"
     }
 ]

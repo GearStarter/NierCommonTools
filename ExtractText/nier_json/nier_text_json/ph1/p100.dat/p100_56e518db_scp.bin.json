@@ -3,7 +3,8 @@
         "id": "M1030_S0120_G0241_001_pod042",
         "jp": "報告：この部屋の下にレジスタンスの反応多数。",
         "en": "Alert: Multiple Resistance members detected beneath this room.",
-        "ru": "Внимание: под этой комнатой обнаружены члены Сопротивления."
+        "ru": "Внимание: под этой комнатой обнаружены члены Сопротивления.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/625.wav"
     },
     {
         "id": "M1030_S0210_G0000_101_a2b",
@@ -15,31 +16,36 @@
         "id": "M1030_S0210_G0001_101_a9s",
         "jp": "こんな形の機械生命体、記録にありません！",
         "en": "Our records don't say anything about a machine like this!",
-        "ru": "В наших архивах нет никакой информации о таких машинах!"
+        "ru": "В наших архивах нет никакой информации о таких машинах!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1238.wav"
     },
     {
         "id": "M1030_S0210_G0010_101_a9s",
         "jp": "敵からのハッキングです！",
         "en": "It's trying to hack us!",
-        "ru": "Она пытается нас взломать!"
+        "ru": "Она пытается нас взломать!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1239.wav"
     },
     {
         "id": "M1030_S0210_G0020_101_a9s",
         "jp": "電脳内でダメージを受けると機体に不具合が生じるから気をつけて！！",
         "en": "If we take hacking damage, it'll affect our bodies as well!",
-        "ru": "Если мы получим урон от взлома, то это подействует и на наши тела!"
+        "ru": "Если мы получим урон от взлома, то это подействует и на наши тела!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1240.wav"
     },
     {
         "id": "M1030_S0230_G0000_101_a2b",
         "jp": "アンドロイドの死体を再利用して攻撃してきてる！？",
         "en": "Are we seriously being attacked with dead androids?",
-        "ru": "Нас в самом деле атакуют тела мёртвых андроидов?"
+        "ru": "Нас в самом деле атакуют тела мёртвых андроидов?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/506.wav"
     },
     {
         "id": "M1030_S0230_G0010_101_a9s",
         "jp": "いや……これは……",
         "en": "Wait. I don't think...",
-        "ru": "Подожди. Я не думаю..."
+        "ru": "Подожди. Я не думаю...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1241.wav"
     },
     {
         "id": "M1030_S0230_G0020_101_a9s",
@@ -63,19 +69,22 @@
         "id": "M1030_S0230_G0050_101_a9s",
         "jp": "敵のハッキングパターンの解析が進みました。",
         "en": "I've almost analyzed the enemy's hacking pattern.",
-        "ru": "Я почти закончил анализ кода взлома противника."
+        "ru": "Я почти закончил анализ кода взлома противника.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1244.wav"
     },
     {
         "id": "M1030_S0230_G0060_101_a9s",
         "jp": "僕は相手に逆ハッキングを仕掛けます。",
         "en": "I'm going to try to hack it back.",
-        "ru": "Попробую осуществить обратный взлом."
+        "ru": "Попробую осуществить обратный взлом.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1245.wav"
     },
     {
         "id": "M1030_S0230_G0070_101_a9s",
         "jp": "援護してください！！",
         "en": "Keep it busy!",
-        "ru": "Отвлеки её!"
+        "ru": "Отвлеки её!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1246.wav"
     },
     {
         "id": "M1030_S0230_G0080_101_a2b",
@@ -111,12 +120,14 @@
         "id": "M1030_S0230_G0130_101_pod042",
         "jp": "警告：敵の自我データによる飽和攻撃。",
         "en": "Alert: Saturation attack triggered by enemy consciousness data.",
-        "ru": "Внимание: враг инициировал массивную атаку данными своей памяти."
+        "ru": "Внимание: враг инициировал массивную атаку данными своей памяти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/626.wav"
     },
     {
         "id": "M1030_S0230_G0140_101_pod042",
         "jp": "速やかに破壊しないと記憶領域に重大なダメージの懸念あり。",
         "en": "Failure to destroy it quickly may lead to serious damage in memory regions.",
-        "ru": "Если его быстро не уничтожить, это приведёт к серьёзным повреждениям секторов памяти."
+        "ru": "Если его быстро не уничтожить, это приведёт к серьёзным повреждениям секторов памяти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/627.wav"
     }
 ]

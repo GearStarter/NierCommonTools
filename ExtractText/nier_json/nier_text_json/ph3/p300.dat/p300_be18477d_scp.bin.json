@@ -3,7 +3,8 @@
         "id": "M3050_S0210_G0000_001_a2",
         "jp": "さっきの子は！？",
         "en": "Where'd he go!?",
-        "ru": "Куда он делся?!"
+        "ru": "Куда он делся?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/487.wav"
     },
     {
         "id": "M3050_S0210_G0010_001_pod042",
@@ -45,7 +46,8 @@
         "id": "M3050_S0210_G0070_001_lmachine",
         "jp": "ソノ子達に……",
         "en": "My brothers...",
-        "ru": "Братья мои..."
+        "ru": "Братья мои...",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/1027.wav"
     },
     {
         "id": "M3050_S0210_G0080_001_lmachine",
@@ -57,18 +59,21 @@
         "id": "M3050_S0210_G0090_001_a2",
         "jp": "お前達が何人のアンドロイドを殺したと思ってる……",
         "en": "How many androids do you think you've killed...?",
-        "ru": "По-твоему, скольких андроидов ты убил?.."
+        "ru": "По-твоему, скольких андроидов ты убил?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/489.wav"
     },
     {
         "id": "M3050_S0210_G0100_001_a2",
         "jp": "そうやって、命乞いをすれば……",
         "en": "You think begging for your lives will help?",
-        "ru": "Думаешь, мольбы о пощаде помогут тебе?"
+        "ru": "Думаешь, мольбы о пощаде помогут тебе?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/490.wav"
     },
     {
         "id": "M3050_S0210_G0110_001_a2",
         "jp": "許されるとでも思ってるのか！？",
         "en": "You think that's going to make me forget everything!?",
-        "ru": "Считаешь, это заставит меня позабыть обо всём?!"
+        "ru": "Считаешь, это заставит меня позабыть обо всём?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/491.wav"
     }
 ]

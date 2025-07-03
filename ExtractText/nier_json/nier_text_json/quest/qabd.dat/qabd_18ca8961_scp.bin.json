@@ -9,7 +9,8 @@
         "id": "M1090_S0270_G0010_201_a9s",
         "jp": "クソッ……こんな防壁……",
         "en": "Shit! Stupid barriers...",
-        "ru": "Дерьмо! Дурацкий барьер..."
+        "ru": "Дерьмо! Дурацкий барьер...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1595.wav"
     },
     {
         "id": "M1090_S0270_G0020_201_eve",
@@ -21,13 +22,15 @@
         "id": "M1090_S0270_G0030_201_eve",
         "jp": "にいちゃん……どうして……",
         "en": "Oh, brother... Why...?",
-        "ru": "Ох, брат... Почему?.."
+        "ru": "Ох, брат... Почему?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1152.wav"
     },
     {
         "id": "M1090_S0270_G0040_201_eve",
         "jp": "他の何も要らなかった……",
         "en": "I needed nothing else...",
-        "ru": "Мне ничего другого не нужно..."
+        "ru": "Мне ничего другого не нужно...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1153.wav"
     },
     {
         "id": "M1090_S0270_G0050_201_a9s",
@@ -39,43 +42,50 @@
         "id": "M1090_S0270_G0060_201_pod153",
         "jp": "警告：巨大な自我データの崩壊。データ汚染の危険あり。",
         "en": "Alert: Disruption detected in YoRHa unit 9S's self-consciousness data. Corruption potential critical.",
-        "ru": "Внимание: обнаружен распад данных самосознания единицы YoRHa 9S. Опасность критического повреждения."
+        "ru": "Внимание: обнаружен распад данных самосознания единицы YoRHa 9S. Опасность критического повреждения.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/233.wav"
     },
     {
         "id": "M1090_S0270_G0070_201_pod153",
         "jp": "推奨：退避。",
         "en": "Evacuation recommended.",
-        "ru": "Рекомендуется эвакуация."
+        "ru": "Рекомендуется эвакуация.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/234.wav"
     },
     {
         "id": "M1090_S0270_G0080_201_a9s",
         "jp": "ここまで来て、逃げる訳にはいかない！",
         "en": "Can't. Not when I'm this far in!",
-        "ru": "Не могу. Нет, я зашёл слишком далеко!"
+        "ru": "Не могу. Нет, я зашёл слишком далеко!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1597.wav"
     },
     {
         "id": "M1090_S0270_G0090_201_eve",
         "jp": "俺にとってはにいちゃんだけが……",
         "en": "My brother was everything to me...",
-        "ru": "Мой брат был всем для меня..."
+        "ru": "Мой брат был всем для меня...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1154.wav"
     },
     {
         "id": "M1090_S0270_G0100_201_eve",
         "jp": "にいちゃんと居る事だけが生きてる意味だった……",
         "en": "My life was contained in our moments...",
-        "ru": "Моя жизнь заключалась в наших общих мгновениях..."
+        "ru": "Моя жизнь заключалась в наших общих мгновениях...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1155.wav"
     },
     {
         "id": "M1090_S0270_G0110_201_pod153",
         "jp": "警告：ヨルハ機体９Ｓの自我データの汚染を検知。",
         "en": "Alert: Corruption confirmed in YoRHa unit 9S's self-consciousness data.",
-        "ru": "Внимание: подтверждено повреждение данных самосознания единицы YoRHa 9S."
+        "ru": "Внимание: подтверждено повреждение данных самосознания единицы YoRHa 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/235.wav"
     },
     {
         "id": "M1090_S0270_G0120_201_pod153",
         "jp": "推奨：早急な退避と治療。",
         "en": "Immediate evacuation and treatment recommended.",
-        "ru": "Рекомендуется немедленная эвакуация и лечение."
+        "ru": "Рекомендуется немедленная эвакуация и лечение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/236.wav"
     },
     {
         "id": "M1090_S0270_G0130_201_a9s",
@@ -87,25 +97,29 @@
         "id": "M1090_S0270_G0140_201_a9s",
         "jp": "イヴの持つ、オブジェクトコントロール機能を奪えれば……",
         "en": "If I can remove Eve's object control function...",
-        "ru": "Если я смогу отключить функции Евы по контролю объектов..."
+        "ru": "Если я смогу отключить функции Евы по контролю объектов...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1599.wav"
     },
     {
         "id": "M1090_S0270_G0150_201_eve",
         "jp": "ねぇ……にいちゃん……",
         "en": "Listen to me, Adam...",
-        "ru": "Послушай, Адам..."
+        "ru": "Послушай, Адам...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1156.wav"
     },
     {
         "id": "M1090_S0270_G0160_201_eve",
         "jp": "ぼく、たたかう事は嫌いじゃないよ……",
         "en": "I never disliked fighting.",
-        "ru": "Мне никогда не нравилось сражаться."
+        "ru": "Мне никогда не нравилось сражаться.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1157.wav"
     },
     {
         "id": "M1090_S0270_G0170_201_eve",
         "jp": "だけど、にいちゃんが傷つくのはイヤだよ……",
         "en": "But I didn't want you to be hurt.",
-        "ru": "Но я не хочу, чтобы тебя ранили."
+        "ru": "Но я не хочу, чтобы тебя ранили.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1158.wav"
     },
     {
         "id": "M1090_S0270_G0180_201_eve",
@@ -117,12 +131,14 @@
         "id": "M1090_S0270_G0190_201_eve",
         "jp": "だから、ふたりで、どこか、静かな場所に……",
         "en": "So let's go somewhere quiet. Together.",
-        "ru": "Давай пойдём куда-нибудь, где тихо. Вместе."
+        "ru": "Давай пойдём куда-нибудь, где тихо. Вместе.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1160.wav"
     },
     {
         "id": "M1090_S0270_G0200_201_eve",
         "jp": "にいちゃ……",
         "en": "My brother...",
-        "ru": "Мой брат..."
+        "ru": "Мой брат...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/1161.wav"
     }
 ]

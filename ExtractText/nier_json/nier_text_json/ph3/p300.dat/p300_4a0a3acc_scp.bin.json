@@ -3,13 +3,15 @@
         "id": "M3060_S0640_G0020_001_a2",
         "jp": "クソッ！何でまだ動けるんだ！？",
         "en": "Is this thing SERIOUSLY still kicking!?",
-        "ru": "СЕРЬЁЗНО?! Эта штука всё ещё шевелится?!"
+        "ru": "СЕРЬЁЗНО?! Эта штука всё ещё шевелится?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/529.wav"
     },
     {
         "id": "M3060_S0640_G0030_001_pod042",
         "jp": "推測：敵サーバーの残存データによるもの。",
         "en": "Speculation: It is driven by remaining data located within enemy servers.",
-        "ru": "Предположение: движение осуществляется ввиду данных, оставшихся на вражеских серверах."
+        "ru": "Предположение: движение осуществляется ввиду данных, оставшихся на вражеских серверах.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/881.wav"
     },
     {
         "id": "M3060_S0640_G0040_001_a2",
@@ -27,13 +29,15 @@
         "id": "M3060_S0640_G0000_001_spider",
         "jp": "ネット……ワーク……",
         "en": "Net...work...",
-        "ru": "Се... ть..."
+        "ru": "Се... ть...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/868.wav"
     },
     {
         "id": "M3060_S0640_G0010_001_spider",
         "jp": "アンド……ロイド",
         "en": "An...droids...",
-        "ru": "Ан... дроиды..."
+        "ru": "Ан... дроиды...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/869.wav"
     },
     {
         "id": "M3060_S0640_G0270_001_spider",
@@ -51,43 +55,50 @@
         "id": "M3060_S0640_G0290_001_spider",
         "jp": "穴を、フサイデ",
         "en": "Fill in this hole...",
-        "ru": "Заполните эту пустоту..."
+        "ru": "Заполните эту пустоту...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/889.wav"
     },
     {
         "id": "M3060_S0640_G0300_001_a2",
         "jp": "あの機械……",
         "en": "This is messed up.",
-        "ru": "Как запутанно."
+        "ru": "Как запутанно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/531.wav"
     },
     {
         "id": "M3060_S0640_G0310_001_a2",
         "jp": "何をグズグズと喋ってるんだ！？",
         "en": "What the hell is this thing going on about?",
-        "ru": "Что за чушь несёт эта штука?"
+        "ru": "Что за чушь несёт эта штука?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/532.wav"
     },
     {
         "id": "M3060_S0640_G0320_001_pod042",
         "jp": "報告：敵の過去記憶の流出。",
         "en": "Analysis: It appears to be a leak of the enemy's past memories.",
-        "ru": "Анализ: возможно, это утечка прошлых воспоминаний врага."
+        "ru": "Анализ: возможно, это утечка прошлых воспоминаний врага.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/882.wav"
     },
     {
         "id": "M3060_S0640_G0550_001_a2",
         "jp": "あのガレキは……？",
         "en": "What's all this junk?",
-        "ru": "Что это за хлам?"
+        "ru": "Что это за хлам?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/533.wav"
     },
     {
         "id": "M3060_S0640_G0560_001_pod042",
         "jp": "不明。何かの資材にする可能性。",
         "en": "Speculation: It is a resource of some kind.",
-        "ru": "Догадка: это ресурс... или нечто подобное."
+        "ru": "Догадка: это ресурс... или нечто подобное.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/883.wav"
     },
     {
         "id": "M3060_S0640_G0570_001_a2",
         "jp": "資材……何を作るんだ？",
         "en": "Used to make what?",
-        "ru": "Для чего он используется?"
+        "ru": "Для чего он используется?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/534.wav"
     },
     {
         "id": "M3060_S0640_G0580_001_pod042",
@@ -105,25 +116,29 @@
         "id": "M3060_S0640_G0340_001_spider",
         "jp": "神にナッタ神になった神になったダレがなった？",
         "en": "Become a god, become a god, become a god, who has become?",
-        "ru": "Стать богом, стать богом, стать богом, кто же им станет?"
+        "ru": "Стать богом, стать богом, стать богом, кто же им станет?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/891.wav"
     },
     {
         "id": "M3060_S0640_G0350_001_spider",
         "jp": "命をウバウ命を、命ヲウバウんだ",
         "en": "Take their... Take their lives... Take their...",
-        "ru": "Забрать их... Забрать их жизни... Забрать их..."
+        "ru": "Забрать их... Забрать их жизни... Забрать их...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/892.wav"
     },
     {
         "id": "M3060_S0640_G0360_001_spider",
         "jp": "神ニナル！",
         "en": "Become as gods!",
-        "ru": "Станем богами!"
+        "ru": "Станем богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/893.wav"
     },
     {
         "id": "M3060_S0640_G0370_001_spider",
         "jp": "神に！神に！……神ニ！",
         "en": "As gods! As gods! ...as gods!",
-        "ru": "Богами! Богами! ...богами!"
+        "ru": "Богами! Богами! ...богами!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/894.wav"
     },
     {
         "id": "M3060_S0640_G0380_001_spider",
@@ -165,13 +180,15 @@
         "id": "M3060_S0640_G0440_001_spider",
         "jp": "僕達は機械生命体",
         "en": "We are machines.",
-        "ru": "Мы — машины."
+        "ru": "Мы — машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/901.wav"
     },
     {
         "id": "M3060_S0640_G0450_001_spider",
         "jp": "僕達は機械生命体",
         "en": "We are machines.",
-        "ru": "Мы — машины."
+        "ru": "Мы — машины.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/901.wav"
     },
     {
         "id": "M3060_S0640_G0460_001_spider",
@@ -189,7 +206,8 @@
         "id": "M3060_S0640_G0480_001_spider",
         "jp": "私達は敵同士",
         "en": "Mutual enemies.",
-        "ru": "Естественные враги."
+        "ru": "Естественные враги.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/905.wav"
     },
     {
         "id": "M3060_S0640_G0490_001_spider",
@@ -201,13 +219,15 @@
         "id": "M3060_S0640_G0500_001_spider",
         "jp": "君は、何故生存するのか。",
         "en": "Why do you live?",
-        "ru": "Зачем вы живёте?"
+        "ru": "Зачем вы живёте?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/907.wav"
     },
     {
         "id": "M3060_S0640_G0510_001_spider",
         "jp": "僕は、何故存在するのか。",
         "en": "Why do we exist?",
-        "ru": "Зачем вы существуете?"
+        "ru": "Зачем вы существуете?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/908.wav"
     },
     {
         "id": "M3060_S0640_G0520_001_spider",
@@ -219,12 +239,14 @@
         "id": "M3060_S0640_G0530_001_spider",
         "jp": "光が。",
         "en": "The light.",
-        "ru": "Свет."
+        "ru": "Свет.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/910.wav"
     },
     {
         "id": "M3060_S0640_G0540_001_spider",
         "jp": "僕達は空に飛ぶんだ。",
         "en": "We will soar through the sky.",
-        "ru": "Мы воспарим в небеса."
+        "ru": "Мы воспарим в небеса.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/911.wav"
     }
 ]

@@ -225,7 +225,8 @@
         "id": "M5250_S0010_G0240_001_a9s",
         "jp": "へえ……",
         "en": "Seriously?",
-        "ru": "Серьёзно?"
+        "ru": "Серьёзно?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/576.wav"
     },
     {
         "id": "M5250_S0010_G0250_001_a9s",
@@ -381,18 +382,21 @@
         "id": "M5250_S0010_G0440_001_a9s",
         "jp": "賢いって一体何だろうな……",
         "en": "I'm not sure I even know what it means to be smart anymore.",
-        "ru": "Я даже уже не уверен, что понимаю, что значит быть умным."
+        "ru": "Я даже уже не уверен, что понимаю, что значит быть умным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/154.wav"
     },
     {
         "id": "M5250_S0010_G0450_001_pod153",
         "jp": "回答不能：質問の定義が曖昧な為。",
         "en": "Reply unknown. Terms are too vague to formulate a reasoned response.",
-        "ru": "Ответ неизвестен. Термины слишком расплывчаты, чтобы сформулировать аргументированный ответ."
+        "ru": "Ответ неизвестен. Термины слишком расплывчаты, чтобы сформулировать аргументированный ответ.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/443.wav"
     },
     {
         "id": "M5250_S0010_G0460_001_a9s",
         "jp": "だろうね。",
         "en": "Heh. Don't I know it...",
-        "ru": "Хех. Как будто я не знаю..."
+        "ru": "Хех. Как будто я не знаю...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/155.wav"
     }
 ]

@@ -45,7 +45,8 @@
         "id": "M5072_S0010_G0040_001_a9s",
         "jp": "何があったの？",
         "en": "What's going on?",
-        "ru": "Что происходит?"
+        "ru": "Что происходит?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1872.wav"
     },
     {
         "id": "M5072_S0010_G0050_001_n02",
@@ -135,25 +136,29 @@
         "id": "M5072_S0010_G0200_001_a9s",
         "jp": "でも……殺していい動物と、そうでない動物がいるなんて。",
         "en": "So it's okay to kill some animals, but not others?",
-        "ru": "А разве это нормально — одних животных убивать, а других нет?"
+        "ru": "А разве это нормально — одних животных убивать, а других нет?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/9.wav"
     },
     {
         "id": "M5072_S0010_G0210_001_a9s",
         "jp": "勝手な話ですね。",
         "en": "Seems kind of arbitrary, no?",
-        "ru": "Выглядит довольно своенравно, нет так ли?"
+        "ru": "Выглядит довольно своенравно, нет так ли?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/10.wav"
     },
     {
         "id": "M5072_S0010_G0220_001_a2b",
         "jp": "……ためらう権利なんかない。",
         "en": "We have no right to judge.",
-        "ru": "Мы не имеем права его осуждать."
+        "ru": "Мы не имеем права его осуждать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/835.wav"
     },
     {
         "id": "M5072_S0010_G0230_001_a2b",
         "jp": "私達は、殺すために作られた兵士だから。",
         "en": "We're soldiers that were created to kill.",
-        "ru": "Мы солдаты, которые были созданы, чтобы убивать."
+        "ru": "Мы солдаты, которые были созданы, чтобы убивать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/836.wav"
     },
     {
         "id": "M5072_S0010_G0240_001_a9s",
@@ -183,19 +188,22 @@
         "id": "M5072_S0010_G0280_001_a9s",
         "jp": "まさか、動物の群れのリーダーが機械生命体だなんて……",
         "en": "Wow... So the leader of the pack was a machine?",
-        "ru": "Ого... Так лидер этой стаи — машина?"
+        "ru": "Ого... Так лидер этой стаи — машина?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/12.wav"
     },
     {
         "id": "M5072_S0010_G0290_001_a9s",
         "jp": "群れは全て倒しましたね。",
         "en": "That's the last of them.",
-        "ru": "Вот и последний."
+        "ru": "Вот и последний.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/13.wav"
     },
     {
         "id": "M5072_S0010_G0300_001_a9s",
         "jp": "あのロボットに知らせましょう。",
         "en": "Let's go tell that machine that his animal friends are safe.",
-        "ru": "Идём, скажем той машине, что её друзья-животные в безопасности."
+        "ru": "Идём, скажем той машине, что её друзья-животные в безопасности.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/14.wav"
     },
     {
         "id": "M5072_S0010_G0180_001_n02",
@@ -213,31 +221,36 @@
         "id": "M5072_S0010_G0310_001_a2b",
         "jp": "……あの、動物を真似ていたロボット。",
         "en": "I've been thinking about the machine who was leading that pack.",
-        "ru": "Я думаю о машине, которая возглавляла стаю."
+        "ru": "Я думаю о машине, которая возглавляла стаю.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/838.wav"
     },
     {
         "id": "M5072_S0010_G0320_001_a9s",
         "jp": "はい？",
         "en": "Oh yeah?",
-        "ru": "И что?"
+        "ru": "И что?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/15.wav"
     },
     {
         "id": "M5072_S0010_G0330_001_a2b",
         "jp": "真似というより、動物そのものの様な行動を取っていた。",
         "en": "It seemed less like imitation and more like actual animal behavior.",
-        "ru": "Это не было похоже на имитацию, больше походило на повадки настоящих животных."
+        "ru": "Это не было похоже на имитацию, больше походило на повадки настоящих животных.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/839.wav"
     },
     {
         "id": "M5072_S0010_G0340_001_a9s",
         "jp": "言われてみれば不思議ですね。何か理由があったんでしょうか？",
         "en": "Yeah, I guess it was kind of odd. You thinking there's a reason for it?",
-        "ru": "Да, я думаю, это было несколько странновато. Как считаешь, этому есть какая-то причина?"
+        "ru": "Да, я думаю, это было несколько странновато. Как считаешь, этому есть какая-то причина?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/16.wav"
     },
     {
         "id": "M5072_S0010_G0350_001_a2b",
         "jp": "うん……",
         "en": "Perhaps.",
-        "ru": "Возможно."
+        "ru": "Возможно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/840.wav"
     },
     {
         "id": "M5072_S0010_G0360_001_n02",
@@ -375,13 +388,15 @@
         "id": "M5072_S0010_G0560_001_a9s",
         "jp": "動物を愛する事が出来るのに、仲間の機械生命体の死を望むなんて……",
         "en": "How can you love animals and yet not bat an eye at the death of a fellow machine?",
-        "ru": "Как ты можешь любить животных и наплевательски относиться к смерти машины?"
+        "ru": "Как ты можешь любить животных и наплевательски относиться к смерти машины?",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/17.wav"
     },
     {
         "id": "M5072_S0010_G0570_001_a9s",
         "jp": "……不思議ですね。機械生命体は。",
         "en": "I do not get these guys.",
-        "ru": "Я не понимаю этого парня."
+        "ru": "Я не понимаю этого парня.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/18.wav"
     },
     {
         "id": "M5072_S0010_G0580_001_a2b",

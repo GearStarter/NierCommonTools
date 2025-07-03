@@ -2169,19 +2169,22 @@
         "id": "SUPPORT_WORD_02_004",
         "jp": "けど、",
         "en": "But,",
-        "ru": "Но,"
+        "ru": "Но,",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "SUPPORT_WORD_02_005",
         "jp": "けれど、",
         "en": "But",
-        "ru": "Но"
+        "ru": "Но",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "SUPPORT_WORD_02_006",
         "jp": "けれども、",
         "en": "But...",
-        "ru": "Но..."
+        "ru": "Но...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/255.wav"
     },
     {
         "id": "SUPPORT_WORD_02_007",
@@ -2211,7 +2214,8 @@
         "id": "SUPPORT_WORD_02_011",
         "jp": "しかし、",
         "en": "However,",
-        "ru": "Однако,"
+        "ru": "Однако,",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/793.wav"
     },
     {
         "id": "SUPPORT_WORD_02_012",
@@ -2493,7 +2497,8 @@
         "id": "SUPPORT_WORD_02_058",
         "jp": "だけど、",
         "en": "Or",
-        "ru": "Или"
+        "ru": "Или",
+        "en_voice": "stream/Japanese/vo_plffff_0_000/354.wav"
     },
     {
         "id": "SUPPORT_WORD_02_059",

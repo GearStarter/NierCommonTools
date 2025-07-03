@@ -3,13 +3,15 @@
         "id": "M3030_S0025_G0000_001_a2",
         "jp": "よし……あとはこれをパスカルの所に持っていけばいいんだな。",
         "en": "Right. Now I just have to bring this to Pascal...",
-        "ru": "Верно. Теперь мне нужно отдать это Паскалю..."
+        "ru": "Верно. Теперь мне нужно отдать это Паскалю...",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/422.wav"
     },
     {
         "id": "M3030_S0025_G0010_001_pascal",
         "jp": "……聞こえますか！？Ａ２さん！",
         "en": "A2, can you hear me!?",
-        "ru": "A2, приём?!"
+        "ru": "A2, приём?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/497.wav"
     },
     {
         "id": "M3030_S0025_G0020_001_a2",
@@ -21,7 +23,8 @@
         "id": "M3030_S0025_G0030_001_pascal",
         "jp": "Ａ２さんッ！村が‥…大変なんです！",
         "en": "Help, A2! The village is in great trouble!",
-        "ru": "A2, помоги! Деревня в опасности!"
+        "ru": "A2, помоги! Деревня в опасности!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/498.wav"
     },
     {
         "id": "M3030_S0025_G0040_001_pascal",
@@ -33,19 +36,22 @@
         "id": "M3030_S0025_G0050_001_a2",
         "jp": "おいっ！パスカル！？どうした？",
         "en": "Pascal? Pascal, are you there!?",
-        "ru": "Паскаль? Паскаль, приём?!"
+        "ru": "Паскаль? Паскаль, приём?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/425.wav"
     },
     {
         "id": "M3030_S0025_G0060_001_a2",
         "jp": "一体……何が……！？",
         "en": "What the hell is going on!?",
-        "ru": "Что за хрень там творится?!"
+        "ru": "Что за хрень там творится?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/426.wav"
     },
     {
         "id": "M3030_S0025_G0070_001_pod042",
         "jp": "推測：貴重な情報源であるパスカルに問題が発生。",
         "en": "Hypothesis: The valuable source of information known as Pascal has encountered difficulty.",
-        "ru": "Предположение: у ценного источника информации, известного как Паскаль, возникли трудности."
+        "ru": "Предположение: у ценного источника информации, известного как Паскаль, возникли трудности.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/824.wav"
     },
     {
         "id": "M3030_S0025_G0080_001_pod042",
@@ -63,7 +69,8 @@
         "id": "M3030_S0025_G0100_300_pod042",
         "jp": "推奨：速やかなパスカル村の状態調査。",
         "en": "Proposal: Unit A2 should investigate the status of Pascal's village immediately.",
-        "ru": "Предложение: единице A2 следует немедленно узнать судьбу деревни Паскаля."
+        "ru": "Предложение: единице A2 следует немедленно узнать судьбу деревни Паскаля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/823.wav"
     },
     {
         "id": "M3030_S0025_G0110_300_a2",

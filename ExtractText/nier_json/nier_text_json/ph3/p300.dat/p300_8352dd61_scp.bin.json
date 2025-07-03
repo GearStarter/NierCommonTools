@@ -9,7 +9,8 @@
         "id": "M3000_S0500_G0010_001_pod042",
         "jp": "警告：追尾反応多数。",
         "en": "Alert: Multiple pursuers detected.",
-        "ru": "Внимание: обнаружены преследователи."
+        "ru": "Внимание: обнаружены преследователи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/725.wav"
     },
     {
         "id": "M3000_S0500_G0020_001_a2b",
@@ -21,19 +22,22 @@
         "id": "M3000_S0500_G0030_001_a9s",
         "jp": "いや……違う",
         "en": "No... Oh no...",
-        "ru": "Нет... О, нет..."
+        "ru": "Нет... О, нет...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1716.wav"
     },
     {
         "id": "M3000_S0500_G0040_001_a9s",
         "jp": "この反応は……！！",
         "en": "This signal, it's...",
-        "ru": "Этот сигнал, это же..."
+        "ru": "Этот сигнал, это же...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1717.wav"
     },
     {
         "id": "M3000_S0500_G0050_001_a2b",
         "jp": "ヨルハ部隊！！",
         "en": "It's YoRHa!",
-        "ru": "Это YoRHa!"
+        "ru": "Это YoRHa!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/778.wav"
     },
     {
         "id": "M3000_S0500_G0060_001_a2b",
@@ -57,19 +61,22 @@
         "id": "M3000_S0500_G0090_001_a2b",
         "jp": "９Ｓ！機体制御を貸して！",
         "en": "9S, I need to take over your controls!",
-        "ru": "9S, мне нужно, чтобы ты передал управление мне!"
+        "ru": "9S, мне нужно, чтобы ты передал управление мне!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/781.wav"
     },
     {
         "id": "M3000_S0500_G0100_001_a9s",
         "jp": "えっ！？",
         "en": "You need to WHAT!?",
-        "ru": "ЧЕГО тебе нужно?!"
+        "ru": "ЧЕГО тебе нужно?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1719.wav"
     },
     {
         "id": "M3000_S0500_G0110_001_a2b",
         "jp": "ここを突破するッ！",
         "en": "I'm getting us out of here!",
-        "ru": "Я вытащу нас отсюда!"
+        "ru": "Я вытащу нас отсюда!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/782.wav"
     },
     {
         "id": "M3000_S0500_G0120_001_a9s",
@@ -87,19 +94,22 @@
         "id": "M3000_S0500_G0140_001_pod042",
         "jp": "９Ｓ搭乗機体の制御を掌握。",
         "en": "Flight controls established for unit 9S.",
-        "ru": "Управление настроено для единицы 9S."
+        "ru": "Управление настроено для единицы 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/726.wav"
     },
     {
         "id": "M3000_S0500_G0150_001_pod042",
         "jp": "コース自動設定。",
         "en": "Setting automatic course.",
-        "ru": "Задаю установку автоматического курса."
+        "ru": "Задаю установку автоматического курса.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/727.wav"
     },
     {
         "id": "M3000_S0500_G0160_001_pod042",
         "jp": "戦線空域からの離脱ルートに入る。",
         "en": "Entering escape route from combat zone.",
-        "ru": "Ввожу маршрут побега из зоны боевых действий."
+        "ru": "Ввожу маршрут побега из зоны боевых действий.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/728.wav"
     },
     {
         "id": "M3000_S0500_G0170_001_a9s",
@@ -117,7 +127,8 @@
         "id": "M3000_S0500_G0190_001_a2b",
         "jp": "ステルス機能解除！",
         "en": "Stealth function released!",
-        "ru": "Функция невидимости доступна!"
+        "ru": "Функция невидимости доступна!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/783.wav"
     },
     {
         "id": "M3000_S0500_G0200_001_pod042",
@@ -129,7 +140,8 @@
         "id": "M3000_S0500_G0210_001_a9s",
         "jp": "そんなッ……２Ｂ！！",
         "en": "Wait! ...2B!",
-        "ru": "Подожди! ...2B!"
+        "ru": "Подожди! ...2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1723.wav"
     },
     {
         "id": "M3000_S0500_G0220_001_a9s",
@@ -141,37 +153,43 @@
         "id": "M3000_S0500_G0230_001_pod042",
         "jp": "警告：機体ダメージ甚大。",
         "en": "Alert: Critical damage to flight unit.",
-        "ru": "Внимание: критические повреждения полётного модуля."
+        "ru": "Внимание: критические повреждения полётного модуля.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/730.wav"
     },
     {
         "id": "M3000_S0500_G0240_001_pod042",
         "jp": "推奨：脱出。",
         "en": "Proposal: Eject immediately.",
-        "ru": "Предложение: немедленно катапультируйтесь."
+        "ru": "Предложение: немедленно катапультируйтесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/731.wav"
     },
     {
         "id": "M3000_S0500_G0250_001_a2b",
         "jp": "なんとか、地上に着陸しないと……",
         "en": "Gotta find a way to land this thing...",
-        "ru": "Я должна найти способ посадить эту штуку..."
+        "ru": "Я должна найти способ посадить эту штуку...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/784.wav"
     },
     {
         "id": "M3000_S0500_G0260_001_pod042",
         "jp": "警告：反応炉温度上昇。",
         "en": "Alert: Reactor core temperature rising.",
-        "ru": "Внимание: температура ядра реактора повышается."
+        "ru": "Внимание: температура ядра реактора повышается.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/732.wav"
     },
     {
         "id": "M3000_S0500_G0270_001_pod042",
         "jp": "警告：ＦＦＣＳ、ＮＦＣＳともに反応なし。",
         "en": "Alert: FFCS and NFCS systems unresponsive.",
-        "ru": "Внимание: системы МОДБ и МОББ не отвечают."
+        "ru": "Внимание: системы МОДБ и МОББ не отвечают.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/733.wav"
     },
     {
         "id": "M3000_S0500_G0280_001_pod042",
         "jp": "報告：攻撃手段を全て喪失。",
         "en": "Analysis: Offensive functionality lost.",
-        "ru": "Анализ: наступательный функционал утрачен."
+        "ru": "Анализ: наступательный функционал утрачен.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/734.wav"
     },
     {
         "id": "M3000_S0500_G0290_001_a2b",

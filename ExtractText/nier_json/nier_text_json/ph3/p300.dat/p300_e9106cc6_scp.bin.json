@@ -3,37 +3,43 @@
         "id": "M3000_S0200_G0220_001_op60",
         "jp": "２Ｂさん。新たな敵の出現を確認しました。",
         "en": "2B, we've sighted new enemies in the region.",
-        "ru": "2B, мы засекли новых противников в области."
+        "ru": "2B, мы засекли новых противников в области.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/297.wav"
     },
     {
         "id": "M3000_S0200_G0230_001_op60",
         "jp": "部隊オメガが挟撃を受け苦戦中です。",
         "en": "They've got Attack Squadron Omega surrounded and are giving them one hell of a fight.",
-        "ru": "Они окружили отряд Омега и вынудили их сражаться на полную катушку."
+        "ru": "Они окружили отряд Омега и вынудили их сражаться на полную катушку.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/298.wav"
     },
     {
         "id": "M3000_S0200_G0240_001_op60",
         "jp": "援護に向かってもらえますか？",
         "en": "Can you get over there and provide support ASAP?",
-        "ru": "Сможешь отправиться к ним и как можно скорее оказать поддержку?"
+        "ru": "Сможешь отправиться к ним и как можно скорее оказать поддержку?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/299.wav"
     },
     {
         "id": "M3000_S0200_G0250_001_a2b",
         "jp": "了解。",
         "en": "We're on it.",
-        "ru": "Мы в деле."
+        "ru": "Мы в деле.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/736.wav"
     },
     {
         "id": "M3000_S0200_G0260_001_a9s",
         "jp": "思ったより、苦戦していますね。",
         "en": "Man, this is tougher than I thought it would be.",
-        "ru": "Блин, это куда сложнее, чем планировалось."
+        "ru": "Блин, это куда сложнее, чем планировалось.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1664.wav"
     },
     {
         "id": "M3000_S0200_G0270_001_a2b",
         "jp": "……急がないと。",
         "en": "We need to hurry.",
-        "ru": "Нам нужно поспешить."
+        "ru": "Нам нужно поспешить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/739.wav"
     },
     {
         "id": "M3000_S0200_G0280_001_a2b",
@@ -45,31 +51,36 @@
         "id": "M3000_S0200_G0290_001_a2b",
         "jp": "これより、部隊オメガを援護する。",
         "en": "We're in position to provide support for Attack Squadron Omega.",
-        "ru": "Мы на позиции для оказания поддержки отряду Омега."
+        "ru": "Мы на позиции для оказания поддержки отряду Омега.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/741.wav"
     },
     {
         "id": "M3000_S0200_G0300_001_a8b",
         "jp": "援護感謝する。",
         "en": "Are we ever glad to see you!",
-        "ru": "Как же мы рады вас видеть!"
+        "ru": "Как же мы рады вас видеть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1077.wav"
     },
     {
         "id": "M3000_S0200_G0310_001_a8b",
         "jp": "いきなり囲まれて、苦戦していたところだ。",
         "en": "They came out of nowhere. We were fighting for our damn lives!",
-        "ru": "Они появились из ниоткуда. И принудили нас к сражению!"
+        "ru": "Они появились из ниоткуда. И принудили нас к сражению!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1078.wav"
     },
     {
         "id": "M3000_S0200_G0320_001_a2b",
         "jp": "このままいけば勝てる……",
         "en": "If this keeps up, we can win.",
-        "ru": "Если продолжим в том же духе, то сможем победить."
+        "ru": "Если продолжим в том же духе, то сможем победить.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/742.wav"
     },
     {
         "id": "M3000_S0200_G0330_001_a2b",
         "jp": "９Ｓ。さらに増援が来ないか、周辺を警戒して。",
         "en": "9S? Scan the area to see if any reinforcements are on the way.",
-        "ru": "9S, просканируй зону на наличие любых подкреплений противника."
+        "ru": "9S, просканируй зону на наличие любых подкреплений противника.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/743.wav"
     },
     {
         "id": "M3000_S0200_G0340_001_a9s",
@@ -87,7 +98,8 @@
         "id": "M3000_S0260_G0000_001_a9s",
         "jp": "大丈夫！？",
         "en": "Are you okay?",
-        "ru": "Ты в порядке?"
+        "ru": "Ты в порядке?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1670.wav"
     },
     {
         "id": "M3000_S0260_G0010_001_a2b",
@@ -105,7 +117,8 @@
         "id": "M3000_S0260_G0030_001_a9s",
         "jp": "援護するっ！！",
         "en": "I'll provide backup!",
-        "ru": "Я помогу!"
+        "ru": "Я помогу!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1673.wav"
     },
     {
         "id": "M3000_S0260_G0040_001_a9s",
@@ -117,19 +130,22 @@
         "id": "M3000_S0260_G0050_001_a9s",
         "jp": "一体、何がどうなってるんだ！",
         "en": "What the hell's going on here!?",
-        "ru": "Да что за чертовщина здесь творится?!"
+        "ru": "Да что за чертовщина здесь творится?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1675.wav"
     },
     {
         "id": "M3000_S0260_G0060_001_a9s",
         "jp": "２Ｂは……僕が守る！",
         "en": "I have to protect 2B!",
-        "ru": "Я обязан защитить 2B!"
+        "ru": "Я обязан защитить 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1676.wav"
     },
     {
         "id": "M3000_S0260_G0000_300_a9s",
         "jp": "くそ！次から次へと……",
         "en": "Damn it! There's no end to them!",
-        "ru": "Проклятие! Им нет конца!"
+        "ru": "Проклятие! Им нет конца!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1671.wav"
     },
     {
         "id": "M3000_S0260_G0010_300_a9s",
@@ -153,19 +169,22 @@
         "id": "M3000_S0300_G0020_300_a9s",
         "jp": "すぐにウィルスを除去するからがんばって！",
         "en": "I'll remove the virus right now. Hold on.",
-        "ru": "Я удалю вирус. Подожди."
+        "ru": "Я удалю вирус. Подожди.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1681.wav"
     },
     {
         "id": "M3000_S0300_G0000_001_a9s",
         "jp": "ウィルス汚染……さっきのＥＭＰ攻撃がトリガー！？",
         "en": "This viral attack... The EMP must have triggered it!?",
-        "ru": "Эта вирусная атака... Неужели это ЭМИ вызвал её?!"
+        "ru": "Эта вирусная атака... Неужели это ЭМИ вызвал её?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1677.wav"
     },
     {
         "id": "M3000_S0300_G0010_001_a9s",
         "jp": "なんとかしないと！",
         "en": "I gotta do something...",
-        "ru": "Я должен что-нибудь сделать..."
+        "ru": "Я должен что-нибудь сделать...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1678.wav"
     },
     {
         "id": "M3000_S0300_G0020_001_a9s",
@@ -177,7 +196,8 @@
         "id": "M3000_S0320_G0000_001_a9s",
         "jp": "汚染されて……乗っ取られてる！？",
         "en": "They've been infected and taken over!",
-        "ru": "Их заразили и взяли под контроль!"
+        "ru": "Их заразили и взяли под контроль!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1682.wav"
     },
     {
         "id": "M3000_S0320_G0010_001_a2b",
@@ -195,19 +215,22 @@
         "id": "M3000_S0320_G0030_001_a2b",
         "jp": "攻撃機能が動かない……！",
         "en": "Attack functions aren't working!",
-        "ru": "Атакующие функции не работают!"
+        "ru": "Атакующие функции не работают!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/751.wav"
     },
     {
         "id": "M3000_S0320_G0040_001_a9s",
         "jp": "ヨルハ部隊の識別信号だ！",
         "en": "That's because of their YoRHa IDs!",
-        "ru": "Это всё из-за их YoRHa ID!"
+        "ru": "Это всё из-за их YoRHa ID!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1684.wav"
     },
     {
         "id": "M3000_S0320_G0050_001_a9s",
         "jp": "僕が２Ｂをハッキングして識別回路を焼ききる！",
         "en": "2B, I need to hack into you and fry your identification circuit!",
-        "ru": "2B, мне придётся взломать тебя и поджарить твою идентификационную схему!"
+        "ru": "2B, мне придётся взломать тебя и поджарить твою идентификационную схему!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1685.wav"
     },
     {
         "id": "M3000_S0320_G0060_001_a2b",
@@ -219,7 +242,8 @@
         "id": "M3000_S0320_G0000_300_a2b",
         "jp": "９Ｓ、識別回路を……このままじゃ、攻撃出来ない。",
         "en": "9S, kill my identification circuit. I can't attack them like this.",
-        "ru": "9S, отруби мою идентификационную схему. Иначе я не смогу их атаковать."
+        "ru": "9S, отруби мою идентификационную схему. Иначе я не смогу их атаковать.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/748.wav"
     },
     {
         "id": "M3000_S0320_G0020_300_a9s",

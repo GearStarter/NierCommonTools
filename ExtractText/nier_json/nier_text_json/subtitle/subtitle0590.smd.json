@@ -21,7 +21,8 @@
         "id": "M1080_S0085_H0030_201_a9s",
         "jp": "鉄の軛から解き放たれ、",
         "en": "Release me from my yoke of iron!",
-        "ru": "Освободи меня от моих железных оков!"
+        "ru": "Освободи меня от моих железных оков!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1512.wav"
     },
     {
         "id": "M1080_S0085_H0040_201_a9s",
@@ -33,12 +34,14 @@
         "id": "M1080_S0085_H0050_201_a9s",
         "jp": "永遠に。",
         "en": "Forever and ever.",
-        "ru": "На веки вечные."
+        "ru": "На веки вечные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1410.wav"
     },
     {
         "id": "M1080_S0085_H0060_201_a9s",
         "jp": "永遠に。",
         "en": "Forever and ever.",
-        "ru": "На веки вечные."
+        "ru": "На веки вечные.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1410.wav"
     }
 ]

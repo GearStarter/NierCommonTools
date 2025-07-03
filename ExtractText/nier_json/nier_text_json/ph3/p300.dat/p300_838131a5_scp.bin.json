@@ -3,13 +3,15 @@
         "id": "M3040_S0200_G0000_001_a9s",
         "jp": "あれ……何だこれ……",
         "en": "Huh? What's going on here...?",
-        "ru": "Чего? Что здесь происходит?.."
+        "ru": "Чего? Что здесь происходит?..",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1798.wav"
     },
     {
         "id": "M3040_S0200_G0010_001_a9s",
         "jp": "身体が……",
         "en": "My body...",
-        "ru": "Моё тело..."
+        "ru": "Моё тело...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1799.wav"
     },
     {
         "id": "M3040_S0200_G0020_001_a9s",
@@ -27,7 +29,8 @@
         "id": "M3040_S0510_G0000_001_a9s",
         "jp": "僕の記憶に……",
         "en": "Stay the hell out...",
-        "ru": "Не смейте трогать..."
+        "ru": "Не смейте трогать...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1802.wav"
     },
     {
         "id": "M3040_S0510_G0010_001_a9s",
@@ -39,18 +42,21 @@
         "id": "M3040_S0510_G0020_001_a9s",
         "jp": "これは、僕の宝物だッ！",
         "en": "These belong to me and me alone!",
-        "ru": "Они принадлежат мне и только мне одному!"
+        "ru": "Они принадлежат мне и только мне одному!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1805.wav"
     },
     {
         "id": "M3040_S0510_G0030_001_a9s",
         "jp": "触るな！",
         "en": "Get away from them!",
-        "ru": "Не троньте их!"
+        "ru": "Не троньте их!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1807.wav"
     },
     {
         "id": "M3040_S0510_G0030_300_a9s",
         "jp": "…………殺してやる。",
         "en": "...You're going down.",
-        "ru": "...Тебе конец."
+        "ru": "...Тебе конец.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1808.wav"
     }
 ]

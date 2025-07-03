@@ -3,37 +3,43 @@
         "id": "M1050_S0050_G0000_001_a9s",
         "jp": "ここが……パスカルの言ってた商業施設の廃墟みたいですね。",
         "en": "This must be the commercial structure Pascal was talking about.",
-        "ru": "Должно быть, это торговое здание, о котором говорил Паскаль."
+        "ru": "Должно быть, это торговое здание, о котором говорил Паскаль.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1356.wav"
     },
     {
         "id": "M1050_S0050_G0010_001_a9s",
         "jp": "記録によると『デパート』という場所だったみたいです。",
         "en": "The records say it was once a facility known as a \"shopping center.\"",
-        "ru": "В записях говорится, что эта постройка известна как \"торговый центр\"."
+        "ru": "В записях говорится, что эта постройка известна как \"торговый центр\".",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1357.wav"
     },
     {
         "id": "M1050_S0050_G0020_001_a2b",
         "jp": "通れないな。",
         "en": "No getting through here.",
-        "ru": "Здесь нам не пройти."
+        "ru": "Здесь нам не пройти.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/557.wav"
     },
     {
         "id": "M1050_S0050_G0030_001_a9s",
         "jp": "何か仕掛けがあるんでしょうか……？",
         "en": "Maybe there's some kind of mechanism we could engage?",
-        "ru": "Может, здесь есть какой-нибудь механизм, который мы можем включить?"
+        "ru": "Может, здесь есть какой-нибудь механизм, который мы можем включить?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1358.wav"
     },
     {
         "id": "M1050_S0050_G0040_001_a9s",
         "jp": "僕らも人間だったら、こんな場所で楽しく買い物をしていたんですかね？",
         "en": "If we were human, we probably would have gone shopping and such here, right?",
-        "ru": "Если бы мы были людьми, то, возможно, приходили бы сюда за покупками, верно?"
+        "ru": "Если бы мы были людьми, то, возможно, приходили бы сюда за покупками, верно?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1359.wav"
     },
     {
         "id": "M1050_S0050_G0050_001_a2b",
         "jp": "仮定の話は無意味。",
         "en": "More meaningless conjecture.",
-        "ru": "Бессмысленное предположение."
+        "ru": "Бессмысленное предположение.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/558.wav"
     },
     {
         "id": "M1050_S0050_G0060_001_a9s",
@@ -63,25 +69,29 @@
         "id": "M1050_S0050_G0120_001_a9s",
         "jp": "何だよ……森の王って……",
         "en": "Who the heck is the Forest King?",
-        "ru": "Кто, черт возьми, этот Лесной король?"
+        "ru": "Кто, черт возьми, этот Лесной король?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1362.wav"
     },
     {
         "id": "M1050_S0050_G0130_001_a2b",
         "jp": "気を抜かないで。９Ｓ。",
         "en": "You're getting distracted.",
-        "ru": "Не отвлекайся, 9S."
+        "ru": "Не отвлекайся, 9S.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/559.wav"
     },
     {
         "id": "M1050_S0050_G0140_001_a9s",
         "jp": "そんな事言ったって、僕はスキャナーモデルだから……",
         "en": "Well, what do you expect? I'm a Scanner.",
-        "ru": "Ну, а чего ты ожидала? Я ведь сканер."
+        "ru": "Ну, а чего ты ожидала? Я ведь сканер.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1363.wav"
     },
     {
         "id": "M1050_S0050_G0150_001_a9s",
         "jp": "戦闘はあんまり得意じゃないんですよ！",
         "en": "Combat was never meant to be my forte.",
-        "ru": "Сражения никогда не были моей сильной стороной."
+        "ru": "Сражения никогда не были моей сильной стороной.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1364.wav"
     },
     {
         "id": "M1050_S0050_G0160_001_n02",
@@ -93,12 +103,14 @@
         "id": "M1050_S0050_G0170_001_a9s",
         "jp": "なんか、あいつ……",
         "en": "Check this guy...",
-        "ru": "Только глянь на него..."
+        "ru": "Только глянь на него...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1365.wav"
     },
     {
         "id": "M1050_S0050_G0180_001_a9s",
         "jp": "逃げてばかりですね。",
         "en": "He's just running away.",
-        "ru": "Он попросту убегает."
+        "ru": "Он попросту убегает.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1366.wav"
     }
 ]

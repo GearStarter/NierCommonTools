@@ -3,13 +3,15 @@
         "id": "M5091_S0010_G0250_001_a2b",
         "jp": "これは……",
         "en": "Huh. This is unexpected.",
-        "ru": "А? Это неожиданно."
+        "ru": "А? Это неожиданно.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/47.wav"
     },
     {
         "id": "M5091_S0010_G0260_001_a9s",
         "jp": "なんだ、これ……",
         "en": "Oh my gosh...",
-        "ru": "Эм..."
+        "ru": "Эм...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/50.wav"
     },
     {
         "id": "M5091_S0010_G0270_001_a2",
@@ -243,7 +245,8 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0040_001_moderator",
@@ -255,25 +258,29 @@
         "id": "M5091_S0030_G0090_001_moderator",
         "jp": "ではこれより、Ｄランクの戦闘を～開始！",
         "en": "It's time to kick off this D-rank match, folks!",
-        "ru": "Пора бы и закончить матч с D-рангом, ребятки!"
+        "ru": "Пора бы и закончить матч с D-рангом, ребятки!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/60.wav"
     },
     {
         "id": "M5091_S0030_G0100_001_moderator",
         "jp": "……と言ったら開始してくださいね～？",
         "en": "Er, I mean, once I say to begin, we'll kick it off. We won't start during the explanation of how to start... I'm making this very confusing.",
-        "ru": "Э, в общем, смотри: когда я скажу \"начали\" — мы начинаем. Мы не начинаем, пока не начинаем... Что-то я заболталась."
+        "ru": "Э, в общем, смотри: когда я скажу \"начали\" — мы начинаем. Мы не начинаем, пока не начинаем... Что-то я заболталась.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/61.wav"
     },
     {
         "id": "M5091_S0030_G0110_001_moderator",
         "jp": "……ええと、それじゃ、か、開始っ！",
         "en": "Uh, yeah. Anyway. This is for real. Now fight!",
-        "ru": "Ах да. В общем, хватит болтать. Битва начинается!"
+        "ru": "Ах да. В общем, хватит болтать. Битва начинается!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/62.wav"
     },
     {
         "id": "M5091_S0030_G0120_001_moderator",
         "jp": "そこまでとします！",
         "en": "That's it! We're finished!",
-        "ru": "Вот и всё! Мы закончили!"
+        "ru": "Вот и всё! Мы закончили!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/63.wav"
     },
     {
         "id": "M5091_S0030_G0130_001_reception",
@@ -303,19 +310,22 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0120_001_moderator",
         "jp": "そこまでとします！",
         "en": "That's it! We're finished!",
-        "ru": "Вот и всё! Мы закончили!"
+        "ru": "Вот и всё! Мы закончили!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/63.wav"
     },
     {
         "id": "M5091_S0030_G0170_001_moderator",
         "jp": "はーい、じゃあＣランクの戦闘をさりげなく始めますね～",
         "en": "Now then! Let's get this C-rank battle rolling!",
-        "ru": "Ну-ка! Время для битвы с С-рангом!"
+        "ru": "Ну-ка! Время для битвы с С-рангом!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/64.wav"
     },
     {
         "id": "M5091_S0030_G0180_001_moderator",
@@ -327,7 +337,8 @@
         "id": "M5091_S0030_G0190_001_moderator",
         "jp": "はーい。そこまでとしま～す。",
         "en": "This one's all over!",
-        "ru": "На этом всё!"
+        "ru": "На этом всё!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/66.wav"
     },
     {
         "id": "M5091_S0030_G0200_001_reception",
@@ -369,19 +380,22 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0190_001_moderator",
         "jp": "はーい。そこまでとしま～す。",
         "en": "This one's all over!",
-        "ru": "На этом всё!"
+        "ru": "На этом всё!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/66.wav"
     },
     {
         "id": "M5091_S0030_G0270_001_moderator",
         "jp": "血と油と歯車に魅せられし者達よ……",
         "en": "Are you ready for another feast of oil, gears, and blood?",
-        "ru": "Готовы ли вы к празднику с маслом, грудой шестеренок и кровью?"
+        "ru": "Готовы ли вы к празднику с маслом, грудой шестеренок и кровью?",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/67.wav"
     },
     {
         "id": "M5091_S0030_G0280_001_moderator",
@@ -405,7 +419,8 @@
         "id": "M5091_S0030_G0310_001_moderator",
         "jp": "そこまでとします！",
         "en": "That's it! We're done! It's over!",
-        "ru": "Вот оно! Отличное исполнение! Бой окончен!"
+        "ru": "Вот оно! Отличное исполнение! Бой окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/71.wav"
     },
     {
         "id": "M5091_S0030_G0320_001_reception",
@@ -423,25 +438,29 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0310_001_moderator",
         "jp": "そこまでとします！",
         "en": "That's it! We're done! It's over!",
-        "ru": "Вот оно! Отличное исполнение! Бой окончен!"
+        "ru": "Вот оно! Отличное исполнение! Бой окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/71.wav"
     },
     {
         "id": "M5091_S0030_G0340_001_moderator",
         "jp": "ここに立つ方々にはＡランクに相応しい戦いを期待します。",
         "en": "We're looking forward to a true A-rank contest from each and every one of you...",
-        "ru": "Мы жаждем увидеть настоящего веселья от каждого из А-ранга..."
+        "ru": "Мы жаждем увидеть настоящего веселья от каждого из А-ранга...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/72.wav"
     },
     {
         "id": "M5091_S0030_G0350_001_moderator",
         "jp": "どうか、ぐっちゃぐっちゃのぎっとぎとになるまで殺し合ってくださいね！",
         "en": "I want you to kill, kill, KILL! Kill until you're soaked in blood! Kill until your feet slip in pools of your own lubricants!",
-        "ru": "Я хочу, чтобы вы убивали, убивали, УБИВАЛИ! Убивайте, пока полностью не пропитаетесь кровью, пока ваши ноги не будут скользить по маслу поверженных врагов!"
+        "ru": "Я хочу, чтобы вы убивали, убивали, УБИВАЛИ! Убивайте, пока полностью не пропитаетесь кровью, пока ваши ноги не будут скользить по маслу поверженных врагов!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/73.wav"
     },
     {
         "id": "M5091_S0030_G0360_001_moderator",
@@ -453,7 +472,8 @@
         "id": "M5091_S0030_G0370_001_moderator",
         "jp": "そこまでとします！",
         "en": "The battle is over!",
-        "ru": "Бой окончен!"
+        "ru": "Бой окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/75.wav"
     },
     {
         "id": "M5091_S0030_G0380_001_reception",
@@ -495,25 +515,29 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0370_001_moderator",
         "jp": "そこまでとします！",
         "en": "The battle is over!",
-        "ru": "Бой окончен!"
+        "ru": "Бой окончен!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/75.wav"
     },
     {
         "id": "M5091_S0030_G0440_001_moderator",
         "jp": "Ｓランクの勇士達よ……",
         "en": "Warriors of the S-rank...",
-        "ru": "Воины S-ранга..."
+        "ru": "Воины S-ранга...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/76.wav"
     },
     {
         "id": "M5091_S0030_G0450_001_moderator",
         "jp": "どうか最高に美しい、至高の戦いを見せてくれたまえ……",
         "en": "Today, I want to see you revel in the glorious and refined combat arts...",
-        "ru": "Сегодня я хочу увидеть, как вы наслаждаетесь великолепием и утончённостью боевых искусств..."
+        "ru": "Сегодня я хочу увидеть, как вы наслаждаетесь великолепием и утончённостью боевых искусств...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/77.wav"
     },
     {
         "id": "M5091_S0030_G0460_001_moderator",
@@ -531,7 +555,8 @@
         "id": "M5091_S0030_G0480_001_moderator",
         "jp": "そこまでとします！",
         "en": "Finished! We're done!",
-        "ru": "Закончили! На этом всё!"
+        "ru": "Закончили! На этом всё!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/80.wav"
     },
     {
         "id": "M5091_S0030_G0490_001_reception",
@@ -597,7 +622,8 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0030_G0010_300_moderator",
@@ -615,13 +641,15 @@
         "id": "M5091_S0060_G0010_001_moderator",
         "jp": "戦いを極めた貴方のために、特別なランクを用意しました！",
         "en": "Alright, then I think you're ready to face the next challenge!",
-        "ru": "Хорошо, тогда я думаю, вы готовы к следующему испытанию!"
+        "ru": "Хорошо, тогда я думаю, вы готовы к следующему испытанию!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/82.wav"
     },
     {
         "id": "M5091_S0060_G0025_001_moderator",
         "jp": "常識外れの極限バトル……君は超えられるか！？",
         "en": "This is the ultimate, completely insane battle! Can you overcome the odds!?",
-        "ru": "Это последняя, совершенно безумная битва! Сможете ли вы справиться?!"
+        "ru": "Это последняя, совершенно безумная битва! Сможете ли вы справиться?!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/84.wav"
     },
     {
         "id": "M5091_S0060_G0030_001_moderator",
@@ -633,7 +661,8 @@
         "id": "M5091_S0060_G0040_001_moderator",
         "jp": "そこまで！",
         "en": "That's enough!",
-        "ru": "Достаточно!"
+        "ru": "Достаточно!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/86.wav"
     },
     {
         "id": "M5091_S0065_G0020_001_reception",
@@ -651,13 +680,15 @@
         "id": "M5091_S0030_G0030_001_moderator",
         "jp": "では、開始します！",
         "en": "Let the battle begin!",
-        "ru": "Да начнется бой!"
+        "ru": "Да начнется бой!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0060_G0040_001_moderator",
         "jp": "そこまで！",
         "en": "That's enough!",
-        "ru": "Достаточно!"
+        "ru": "Достаточно!",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/86.wav"
     },
     {
         "id": "M5091_S0065_G0020_001_reception",
@@ -1047,13 +1078,15 @@
         "id": "M5091_S0040_G0016_001_a2b",
         "jp": "これは……",
         "en": "Huh. This is unexpected.",
-        "ru": "А? Это неожиданно."
+        "ru": "А? Это неожиданно.",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/47.wav"
     },
     {
         "id": "M5091_S0040_G0017_001_a9s",
         "jp": "なんだ、これ……",
         "en": "Oh my gosh...",
-        "ru": "Эм..."
+        "ru": "Эм...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/50.wav"
     },
     {
         "id": "M5091_S0040_G0018_001_a2",
@@ -1227,7 +1260,8 @@
         "id": "M5091_S0040_G0250_001_a9s",
         "jp": "……僕にも、そういう面があるんだろうか。",
         "en": "I wonder if there's a side of me like that...",
-        "ru": "Интересно, есть ли в моём характере такая же черта..."
+        "ru": "Интересно, есть ли в моём характере такая же черта...",
+        "en_voice": "stream/English(US)/vo_plfffe_0_000/51.wav"
     },
     {
         "id": "M5091_S0040_G0260_001_pod042",

@@ -21,7 +21,8 @@
         "id": "M1060_S0070_G0150_011_a2b",
         "jp": "情報を開封して。",
         "en": "Go ahead.",
-        "ru": "Выкладывай."
+        "ru": "Выкладывай.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav"
     },
     {
         "id": "M1060_S0070_G0160_011_pod042",
@@ -45,7 +46,8 @@
         "id": "M1060_S0070_G0190_011_a2b",
         "jp": "つまり、上陸を阻止しなくては再び惨劇が起きる……",
         "en": "So basically, if this thing reaches land, we're screwed.",
-        "ru": "То есть, если эта штука достигнет земли, то нам конец."
+        "ru": "То есть, если эта штука достигнет земли, то нам конец.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/587.wav"
     },
     {
         "id": "M1060_S0070_G0200_011_pod042",
@@ -57,49 +59,57 @@
         "id": "M1060_S0070_G0020_001_a9s",
         "jp": "くそっ……ＥＭＰ攻撃で接近を防いでるのか……",
         "en": "Crap! It's blocking close-range attacks with EMP blasts.",
-        "ru": "Чёрт. Он блокирует ближние атаки с помощью ЭМИ-пушки."
+        "ru": "Чёрт. Он блокирует ближние атаки с помощью ЭМИ-пушки.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1434.wav"
     },
     {
         "id": "M1060_S0070_G0030_001_a9s",
         "jp": "なんとか別の方法で攻撃しないと……",
         "en": "We've got to find another way to damage it.",
-        "ru": "Нам нужно найти другой способ нанести ему урон."
+        "ru": "Нам нужно найти другой способ нанести ему урон.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav"
     },
     {
         "id": "M1060_S0070_G0040_011_op60",
         "jp": "２Bさんっ！衛星レーザーの直接攻撃承認が下りました！",
         "en": "2B, Command is attempting to launch a satellite laser strike on your target!",
-        "ru": "2B, Штаб собирается нанести орбитальный лазерный удар по твоей цели."
+        "ru": "2B, Штаб собирается нанести орбитальный лазерный удар по твоей цели.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/272.wav"
     },
     {
         "id": "M1060_S0070_G0050_011_op60",
         "jp": "でも、敵の発生する電磁波迷彩で照準が不安定になっています。",
         "en": "But the enemy's electromagnetic camouflage is making it impossible to aim.",
-        "ru": "Но электромагнитный камуфляж врага делает наведение невозможным."
+        "ru": "Но электромагнитный камуфляж врага делает наведение невозможным.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/273.wav"
     },
     {
         "id": "M1060_S0070_G0060_011_op60",
         "jp": "発生源を突き止めて、破壊してください！",
         "en": "We need you to find the emitter and take it out!",
-        "ru": "Необходимо, чтобы вы нашли источник и уничтожили его."
+        "ru": "Необходимо, чтобы вы нашли источник и уничтожили его.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/274.wav"
     },
     {
         "id": "M1060_S0070_G0070_011_a2b",
         "jp": "簡単に言う……",
         "en": "Oh, is that all?",
-        "ru": "И это всё?"
+        "ru": "И это всё?",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/585.wav"
     },
     {
         "id": "M1060_S0070_G0080_011_op60",
         "jp": "すみません！でも、よろしくお願いします！",
         "en": "I know, I know! But it's the only way!",
-        "ru": "Я знаю, знаю! Но это единственный способ!"
+        "ru": "Я знаю, знаю! Но это единственный способ!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/275.wav"
     },
     {
         "id": "M1060_S0070_G0131_011_pod042",
         "jp": "ＥＭＰ発生器の位置を確認。マップにマーク。",
         "en": "EMP generator target confirmed. Marking on map.",
-        "ru": "Цель подтверждена — генератор ЭМИ. Отмечаю на карте."
+        "ru": "Цель подтверждена — генератор ЭМИ. Отмечаю на карте.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/642.wav"
     },
     {
         "id": "M1060_S0070_G0132_011_pod042",
@@ -111,12 +121,14 @@
         "id": "M1060_S0070_G0210_011_op60",
         "jp": "妨害電磁波の消失を確認しました！",
         "en": "Electromagnetic interference eliminated!",
-        "ru": "Электромагнитные помехи устранены!"
+        "ru": "Электромагнитные помехи устранены!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/276.wav"
     },
     {
         "id": "M1060_S0070_G0220_011_op60",
         "jp": "衛星レーザー攻撃、着弾します！",
         "en": "Preparing for satellite laser strike!",
-        "ru": "Подготовка лазерного орбитального залпа!"
+        "ru": "Подготовка лазерного орбитального залпа!",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/277.wav"
     }
 ]

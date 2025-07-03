@@ -3,19 +3,22 @@
         "id": "M1060_S0140_S0000_201_a9s",
         "jp": "ミサイルコントロール起動",
         "en": "Activate missile controls.",
-        "ru": "Активирую управление ракетой."
+        "ru": "Активирую управление ракетой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1457.wav"
     },
     {
         "id": "M1060_S0140_S0010_201_a9s",
         "jp": "発射準備",
         "en": "Prepare to launch.",
-        "ru": "Подготовка к запуску."
+        "ru": "Подготовка к запуску.",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1458.wav"
     },
     {
         "id": "M1060_S0140_S0020_201_pod153",
         "jp": "ミサイルコントロール開始。",
         "en": "Missile controls engaged.",
-        "ru": "Управление ракетой получено."
+        "ru": "Управление ракетой получено.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/194.wav"
     },
     {
         "id": "M1060_S0140_S0030_201_pod153",
@@ -27,6 +30,7 @@
         "id": "M1060_S0140_S0040_201_a9s",
         "jp": "発射！",
         "en": "Fire!",
-        "ru": "Огонь!"
+        "ru": "Огонь!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1459.wav"
     }
 ]
