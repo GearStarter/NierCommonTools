@@ -43,13 +43,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/536.wav"
     },
     {
-        "id": "M3030_S0140_G0000_001_pascal",
-        "jp": "子供達が心配です……部屋に戻りましょう。",
-        "en": "I fear for the children. Let us hurry to them!",
-        "ru": "Я переживаю за детей. Надо поспешить к ним!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/536.wav"
-    },
-    {
         "id": "M3030_S0160_G0000_001_a2",
         "jp": "自分達のコアを……",
         "en": "Their own cores...?",
@@ -248,12 +241,5 @@
         "ru": "Я не могу оставить Паскаля одного...",
         "en_voice": "stream/English(US)/vo_plffff_0_001/466.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/548.wav"
-    },
-    {
-        "id": "M3030_S0160_G0150_001_pascal",
-        "jp": "この……苦痛に私は耐えられません……",
-        "en": "I...I cannot live with this heartbreak inside me.",
-        "ru": "Я... Я не могу жить с таким грузом.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/619.wav"
     }
 ]

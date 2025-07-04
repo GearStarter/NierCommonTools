@@ -56,12 +56,5 @@
         "jp": "測定基準を満たしてイナイ為、再試験を命ずる。",
         "en": "The required measurement standard has not been met. Reexamination is required.",
         "ru": "Требуемая норма не была выполнена. Необходима повторная проверка."
-    },
-    {
-        "id": "M5095_S0100_G0030_001_announce",
-        "jp": "ソレデハ試験を開始する。",
-        "en": "Commencing examination.",
-        "ru": "Запуск проверки.",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/13.wav"
     }
 ]

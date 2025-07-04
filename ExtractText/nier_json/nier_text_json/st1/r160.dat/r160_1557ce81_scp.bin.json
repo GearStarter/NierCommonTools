@@ -14,64 +14,10 @@
         "en_voice": "stream/English(US)/vo_plffff_0_003/1009.wav"
     },
     {
-        "id": "M3020_S0040_G0080_001_n02",
-        "jp": "我が……王のカタキ……！",
-        "en": "Revenge for our king!",
-        "ru": "Отомстим за нашего короля!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1008.wav"
-    },
-    {
         "id": "M3020_S0040_G0100_001_n02",
         "jp": "ニンゲンめ……！",
         "en": "Accursed humans!",
         "ru": "Проклятые андроиды!"
-    },
-    {
-        "id": "M3020_S0040_G0100_001_n02",
-        "jp": "ニンゲンめ……！",
-        "en": "Accursed humans!",
-        "ru": "Проклятые андроиды!"
-    },
-    {
-        "id": "M3020_S0040_G0080_001_n02",
-        "jp": "我が……王のカタキ……！",
-        "en": "Revenge for our king!",
-        "ru": "Отомстим за нашего короля!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1008.wav"
-    },
-    {
-        "id": "M3020_S0040_G0090_001_n02",
-        "jp": "オウサマ……王サマ！",
-        "en": "My king... My king...",
-        "ru": "Мой король... Мой король...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1009.wav"
-    },
-    {
-        "id": "M3020_S0040_G0080_001_n02",
-        "jp": "我が……王のカタキ……！",
-        "en": "Revenge for our king!",
-        "ru": "Отомстим за нашего короля!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1008.wav"
-    },
-    {
-        "id": "M3020_S0040_G0090_001_n02",
-        "jp": "オウサマ……王サマ！",
-        "en": "My king... My king...",
-        "ru": "Мой король... Мой король...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1009.wav"
-    },
-    {
-        "id": "M3020_S0040_G0100_001_n02",
-        "jp": "ニンゲンめ……！",
-        "en": "Accursed humans!",
-        "ru": "Проклятые андроиды!"
-    },
-    {
-        "id": "M3020_S0040_G0080_001_n02",
-        "jp": "我が……王のカタキ……！",
-        "en": "Revenge for our king!",
-        "ru": "Отомстим за нашего короля!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1008.wav"
     },
     {
         "id": "M1050_S0190_G0130_300_n02",
@@ -92,25 +38,5 @@
         "en": "Leave our kingdom!",
         "ru": "Покиньте наше королевство!",
         "en_voice": "stream/English(US)/vo_plffff_0_003/933.wav"
-    },
-    {
-        "id": "M3020_S0040_G0080_001_n02",
-        "jp": "我が……王のカタキ……！",
-        "en": "Revenge for our king!",
-        "ru": "Отомстим за нашего короля!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1008.wav"
-    },
-    {
-        "id": "M3020_S0040_G0090_001_n02",
-        "jp": "オウサマ……王サマ！",
-        "en": "My king... My king...",
-        "ru": "Мой король... Мой король...",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1009.wav"
-    },
-    {
-        "id": "M3020_S0040_G0100_001_n02",
-        "jp": "ニンゲンめ……！",
-        "en": "Accursed humans!",
-        "ru": "Проклятые андроиды!"
     }
 ]

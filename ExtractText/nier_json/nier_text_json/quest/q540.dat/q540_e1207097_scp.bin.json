@@ -64,33 +64,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/231.wav"
     },
     {
-        "id": "M5540_S0010_G0000_001_a9s",
-        "jp": "そんな……ヨルハ部隊員が脱走？\\nそれに、レジスタンスキャンプを襲ったなんて……",
-        "en": "YoRHa members deserting? And attacking the Resistance, no less...?",
-        "ru": "Члены YoRHa дезертировали? К тому же напали на Сопротивление?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/237.wav"
-    },
-    {
-        "id": "M5540_S0010_G0010_001_a2b",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
-    },
-    {
-        "id": "M5540_S0010_G0020_001_pod042",
-        "jp": "提案：被害を抑える為に、早期の捜索と当該ヨルハ部隊員の捕縛。",
-        "en": "Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.",
-        "ru": "Предложение: дезертиры YoRHa должны быть арестованы и заключены под стражу, чтобы свести сопутствующий урон к минимуму.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1036.wav"
-    },
-    {
-        "id": "M5540_S0010_G0030_001_a9s",
-        "jp": "捕縛って言ったって……",
-        "en": "Detained? Easy for you to say.",
-        "ru": "Арестованы? Тебе легко говорить.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/238.wav"
-    },
-    {
         "id": "M5540_S0030_G0000_001_a2b",
         "jp": "あれは……ヨルハ部隊……",
         "en": "They're from YoRHa.",
@@ -157,12 +130,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_001/321.wav"
     },
     {
-        "id": "M5540_S0030_G0010_001_pod042",
-        "jp": "報告：捕縛命令を受けているヨルハ部隊員２２Ｂ及び６４Ｂと確認。",
-        "en": "Alert: Targets are rogue units 22B and 64B, currently designated for detention.\\n\\n(need to get \"two two B\" and \"six four B\" version)",
-        "ru": "Внимание: цели 22B и 64В в настоящий момент подлежат аресту."
-    },
-    {
         "id": "M5540_S0030_G0050_001_64b",
         "jp": "クソッ……殺ってやる！！",
         "en": "Damn it... I'll kill you!",
@@ -181,174 +148,6 @@
         "jp": "２２Ｂ！クソッ！クソオオオオッ！！",
         "en": "22B! Ugh, damn it! Damn you to hell!",
         "ru": "22B! Угх, проклятие! Чёрт бы тебя побрал!"
-    },
-    {
-        "id": "M5540_S0030_G0110_001_22b",
-        "jp": "よくも……よくも仲間をッ！！！",
-        "en": "No... How could you!?",
-        "ru": "Нет... Как ты могла?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/461.wav"
-    },
-    {
-        "id": "M5540_S0030_G0120_001_64b",
-        "jp": "２２Ｂ！クソッ！クソオオオオッ！！",
-        "en": "22B! Ugh, damn it! Damn you to hell!",
-        "ru": "22B! Угх, проклятие! Чёрт бы тебя побрал!"
-    },
-    {
-        "id": "M5540_S0030_G0110_001_22b",
-        "jp": "よくも……よくも仲間をッ！！！",
-        "en": "No... How could you!?",
-        "ru": "Нет... Как ты могла?!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/461.wav"
-    },
-    {
-        "id": "M5540_S0030_G0120_001_64b",
-        "jp": "２２Ｂ！クソッ！クソオオオオッ！！",
-        "en": "22B! Ugh, damn it! Damn you to hell!",
-        "ru": "22B! Угх, проклятие! Чёрт бы тебя побрал!"
-    },
-    {
-        "id": "M5540_S0030_G0130_001_a8b",
-        "jp": "一体、これは……２２Ｂ……６４Ｂ……",
-        "en": "22B? 64B? What the hell...?",
-        "ru": "22B? 64В? Какого чёрта?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1079.wav"
-    },
-    {
-        "id": "M5540_S0030_G0140_001_pod042",
-        "jp": "確認：逃亡ヨルハ機体の元隊長８Ｂ。",
-        "en": "Alert: Target is former YoRHa captain 8B, currently wanted for desertion.",
-        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1038.wav"
-    },
-    {
-        "id": "M5540_S0030_G0150_001_pod042",
-        "jp": "推奨：捕縛。",
-        "en": "Proposal: Disable and detain at once.",
-        "ru": "Предложение: отключить и арестовать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1039.wav"
-    },
-    {
-        "id": "M5540_S0030_G0160_001_a8b",
-        "jp": "お前たちがやったのか！！",
-        "en": "You... You did this!",
-        "ru": "Вы... Вы сделали это!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1081.wav"
-    },
-    {
-        "id": "M5540_S0030_G0170_001_a9s",
-        "jp": "お願いっ！抵抗しないでください！",
-        "en": "Please! You have to stop fighting!",
-        "ru": "Пожалуйста! Ты должна прекратить сражаться!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/240.wav"
-    },
-    {
-        "id": "M5540_S0030_G0180_001_a8b",
-        "jp": "うるさいっ！何も……何も知らない癖に！！",
-        "en": "Shut up! You don't know anything!",
-        "ru": "Заткнись! Ты ничего не знаешь!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1081.wav"
-    },
-    {
-        "id": "M5540_S0030_G0190_001_a2b",
-        "jp": "クッ……",
-        "en": "Nnngh...",
-        "ru": "Нгх...",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
-    },
-    {
-        "id": "M5540_S0030_G0200_001_pod042",
-        "jp": "報告：機体８Ｂは近接戦闘特化型モデル。",
-        "en": "Analysis: Unit 8B specializes in close-quarters combat.",
-        "ru": "Анализ: 8В специализируется на ближнем бое."
-    },
-    {
-        "id": "M5540_S0030_G0210_001_pod042",
-        "jp": "推奨：遠距離攻撃による破壊。",
-        "en": "Proposal: Destroy enemy with long-range attacks.",
-        "ru": "Предложение: уничтожьте противника атаками дальнего боя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/0.wav"
-    },
-    {
-        "id": "M5540_S0030_G0220_001_a9s",
-        "jp": "破壊……破壊って……",
-        "en": "...Destroy? What happened to detain?",
-        "ru": "...Уничтожить? Почему не арестовать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/323.wav"
-    },
-    {
-        "id": "M5540_S0030_G0130_001_a8b",
-        "jp": "一体、これは……２２Ｂ……６４Ｂ……",
-        "en": "22B? 64B? What the hell...?",
-        "ru": "22B? 64В? Какого чёрта?..",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1079.wav"
-    },
-    {
-        "id": "M5540_S0030_G0140_001_pod042",
-        "jp": "確認：逃亡ヨルハ機体の元隊長８Ｂ。",
-        "en": "Alert: Target is former YoRHa captain 8B, currently wanted for desertion.",
-        "ru": "Внимание: цель, 8В, бывший капитан YoRHa, разыскивается за дезертирство.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1038.wav"
-    },
-    {
-        "id": "M5540_S0030_G0150_001_pod042",
-        "jp": "推奨：捕縛。",
-        "en": "Proposal: Disable and detain at once.",
-        "ru": "Предложение: отключить и арестовать.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/1039.wav"
-    },
-    {
-        "id": "M5540_S0030_G0160_001_a8b",
-        "jp": "お前たちがやったのか！！",
-        "en": "You... You did this!",
-        "ru": "Вы... Вы сделали это!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1080.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1081.wav"
-    },
-    {
-        "id": "M5540_S0030_G0170_001_a9s",
-        "jp": "お願いっ！抵抗しないでください！",
-        "en": "Please! You have to stop fighting!",
-        "ru": "Пожалуйста! Ты должна прекратить сражаться!",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/240.wav"
-    },
-    {
-        "id": "M5540_S0030_G0180_001_a8b",
-        "jp": "うるさいっ！何も……何も知らない癖に！！",
-        "en": "Shut up! You don't know anything!",
-        "ru": "Заткнись! Ты ничего не знаешь!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1081.wav"
-    },
-    {
-        "id": "M5540_S0030_G0190_001_a2b",
-        "jp": "クッ……",
-        "en": "Nnngh...",
-        "ru": "Нгх...",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/150.wav"
-    },
-    {
-        "id": "M5540_S0030_G0200_001_pod042",
-        "jp": "報告：機体８Ｂは近接戦闘特化型モデル。",
-        "en": "Analysis: Unit 8B specializes in close-quarters combat.",
-        "ru": "Анализ: 8В специализируется на ближнем бое."
-    },
-    {
-        "id": "M5540_S0030_G0210_001_pod042",
-        "jp": "推奨：遠距離攻撃による破壊。",
-        "en": "Proposal: Destroy enemy with long-range attacks.",
-        "ru": "Предложение: уничтожьте противника атаками дальнего боя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/0.wav"
-    },
-    {
-        "id": "M5540_S0030_G0220_001_a9s",
-        "jp": "破壊……破壊って……",
-        "en": "...Destroy? What happened to detain?",
-        "ru": "...Уничтожить? Почему не арестовать?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/241.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/323.wav"
     },
     {
         "id": "M5540_S0030_G0130_001_a8b",
@@ -528,12 +327,6 @@
         "en": "9S to Command, come in.",
         "ru": "9S вызывает Штаб, приём.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/247.wav"
-    },
-    {
-        "id": "M5540_S0030_G0400_001_op210",
-        "jp": "こちら２１Ｏ。どうしました？",
-        "en": "Operator 21O here. Go ahead.",
-        "ru": "Оператор 21О на связи. Продолжайте."
     },
     {
         "id": "M5540_S0030_G0410_001_a9s",

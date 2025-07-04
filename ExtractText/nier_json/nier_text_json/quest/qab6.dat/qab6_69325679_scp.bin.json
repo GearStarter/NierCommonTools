@@ -247,14 +247,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_000/1503.wav"
     },
     {
-        "id": "M1080_S0020_G0340_201_a9s",
-        "jp": "ん……？新しいポートが開いた。",
-        "en": "...Huh? A new port just opened.",
-        "ru": "...А? Новый порт открылся.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1502.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1503.wav"
-    },
-    {
         "id": "M1080_S0020_G0350_201_pod153",
         "jp": "検出：人類会議及びヨルハ計画記録インデックス。",
         "en": "Detected: Council of Humanity and Project YoRHa records index.",

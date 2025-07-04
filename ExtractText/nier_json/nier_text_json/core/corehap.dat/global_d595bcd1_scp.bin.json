@@ -146,39 +146,11 @@
         "en_voice": "stream/English(US)/vo_plffff_0_003/138.wav"
     },
     {
-        "id": "M5920_S0010_G0610_001_pod042",
-        "jp": "報告：当ポッドに対する親密度が限界まで上昇。",
-        "en": "Report: Your affinity with this pod has reached its maximum level.",
-        "ru": "Отчёт: ваша близость с данным ботом достигла максимального уровня.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/133.wav"
-    },
-    {
-        "id": "M5920_S0010_G0620_001_pod042",
-        "jp": "これらの無駄なケアは戦闘行為に対して不必要。",
-        "en": "Please note that excessive care is not necessary for combat-based activity.",
-        "ru": "Пожалуйста, учтите, что для ведения боевых действий чрезмерная забота не требуется.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/134.wav"
-    },
-    {
-        "id": "M5920_S0010_G0630_001_pod042",
-        "jp": "だが、当機はそうした無意味な行為を好ましいと判断する。",
-        "en": "However, this unit has determined that it finds said excessive care most enjoyable.",
-        "ru": "Однако данная единица определила чрезмерную заботу приятной для себя.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/135.wav"
-    },
-    {
         "id": "M5920_S0010_G0650_001_pod042",
         "jp": "今後、いかなる時もポッド０４２はヨルハ機体Ａ２を守ると誓おう。",
         "en": "Pod 042 promises to protect YoRHa unit A2 in any situation.",
         "ru": "Бот 042 обещает защищать единицу YoRHa A2 при любых обстоятельствах.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/137.wav"
-    },
-    {
-        "id": "M5920_S0010_G0660_001_pod042",
-        "jp": "以上。",
-        "en": "End report.",
-        "ru": "Конец отчёта.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/138.wav"
     },
     {
         "id": "M5920_S0020_G0610_001_pod153",
@@ -365,12 +337,6 @@
         "ru": "Это же... бот?"
     },
     {
-        "id": "M5920_S0030_G0040_001_pod042",
-        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
-        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
-        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
-    },
-    {
         "id": "M5920_S0030_G0080_001_a2",
         "jp": "どんな事情で捨てたんだか……",
         "en": "Wonder why it was abandoned...",
@@ -385,19 +351,6 @@
         "ru": "Эта штуковина ещё работает?",
         "en_voice": "stream/English(US)/vo_plffff_0_001/648.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/730.wav"
-    },
-    {
-        "id": "M5920_S0030_G0140_001_pod042",
-        "jp": "起動確認。アクセス成功。",
-        "en": "Activation complete. Access granted.",
-        "ru": "Активация выполнена. Доступ разрешён."
-    },
-    {
-        "id": "M5920_S0030_G0150_001_pod042",
-        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
-        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
-        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/222.wav"
     },
     {
         "id": "M5920_S0030_G0020_001_a9s",
@@ -446,12 +399,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/328.wav"
     },
     {
-        "id": "M5920_S0030_G0050_001_pod153",
-        "jp": "推測：所有者が何らかの理由でセーフモード状態で投棄。",
-        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
-        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
-    },
-    {
         "id": "M5920_S0030_G0120_001_a9s",
         "jp": "棄てられたポッドか……",
         "en": "Abandoned pod, huh?",
@@ -464,19 +411,6 @@
         "en": "Pod, reactivate this and try to overwrite the original owner ID.",
         "ru": "Бот, перезапусти его и перепиши ID предыдущего хозяина.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/332.wav"
-    },
-    {
-        "id": "M5920_S0030_G0160_001_pod153",
-        "jp": "起動確認。アクセス成功。",
-        "en": "Activation complete. Access granted.",
-        "ru": "Активация выполнена. Доступ разрешён."
-    },
-    {
-        "id": "M5920_S0030_G0170_001_pod153",
-        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
-        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
-        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/222.wav"
     },
     {
         "id": "M5920_S0030_G0180_001_a2b",
@@ -520,31 +454,12 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/652.wav"
     },
     {
-        "id": "M5920_S0030_G0220_001_pod042",
-        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
-        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
-        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
-    },
-    {
         "id": "M5920_S0030_G0250_001_a2",
         "jp": "それ、使えないかチェックしてみて。",
         "en": "Check and see if I can use it.",
         "ru": "Проверь, смогу ли я его использовать.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/653.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/735.wav"
-    },
-    {
-        "id": "M5920_S0030_G0280_001_pod042",
-        "jp": "起動確認。アクセス成功。",
-        "en": "Activation complete. Access granted.",
-        "ru": "Активация выполнена. Доступ разрешён."
-    },
-    {
-        "id": "M5920_S0030_G0290_001_pod042",
-        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
-        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
-        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/222.wav"
     },
     {
         "id": "M5920_S0030_G0200_001_a9s",
@@ -587,30 +502,11 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/334.wav"
     },
     {
-        "id": "M5920_S0030_G0230_001_pod153",
-        "jp": "報告：何らかの理由により、セーフモード状態で投棄された模様。",
-        "en": "Hypothesis: The owner discarded this pod and left it in safe mode. Motives unknown.",
-        "ru": "Предположение: владелец отказался от бота и перевёл его в ждущий режим. Причины неизвестны."
-    },
-    {
         "id": "M5920_S0030_G0270_001_a9s",
         "jp": "再起動と所有権の上書き確認。",
         "en": "Pod, reset this thing and try to overwrite the original owner ID.",
         "ru": "Бот, перезагрузи эту штуковину и перезапиши ID предыдущего владельца.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/336.wav"
-    },
-    {
-        "id": "M5920_S0030_G0300_001_pod153",
-        "jp": "起動確認。アクセス成功。",
-        "en": "Activation complete. Access granted.",
-        "ru": "Активация выполнена. Доступ разрешён."
-    },
-    {
-        "id": "M5920_S0030_G0310_001_pod153",
-        "jp": "所有者の上書き登録成功。特殊兵装が使用可能。",
-        "en": "Previous owner ID successfully overwritten. Special weaponry now available.",
-        "ru": "ID предыдущего владельца успешно перезаписан. Доступ к вооружению разблокирован.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/222.wav"
     },
     {
         "id": "M5920_S0010_G0180_001_pod042",

@@ -129,13 +129,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_002/540.wav"
     },
     {
-        "id": "M1090_S0230_G0070_001_a2b",
-        "jp": "一体、何があったんだ？",
-        "en": "What happened here?",
-        "ru": "Что здесь произошло?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/702.wav"
-    },
-    {
         "id": "M1090_S0230_G1080_001_pascal",
         "jp": "ネットワークに接続されている全ての機械生命体が一斉に暴走したんです。",
         "en": "The machines on the network all went berserk at the same moment.",
@@ -149,54 +142,12 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/480.wav"
     },
     {
-        "id": "M1090_S0230_G0100_001_a9s",
-        "jp": "あの……『イヴ』って機械生命体だ。",
-        "en": "It's Eve. It's got to be.",
-        "ru": "Это Ева. Наверняка он."
-    },
-    {
-        "id": "M1090_S0230_G0110_001_a2b",
-        "jp": "その統括しているユニットを破壊すれば、全体の活動が停止するの？",
-        "en": "If we destroy this presiding unit, will it stop the rest?",
-        "ru": "Если мы его уничтожим, остановит ли это остальных?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/703.wav"
-    },
-    {
         "id": "M1090_S0230_G1120_001_pascal",
         "jp": "おそらく……",
         "en": "Most likely, yes...",
         "ru": "Скорее всего, да...",
         "en_voice": "stream/English(US)/vo_plffff_0_002/481.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_002/543.wav"
-    },
-    {
-        "id": "M1090_S0230_G0130_001_a2b",
-        "jp": "ポッド！イヴの位置を特定出来る？",
-        "en": "Pod, I need you to locate Eve's current position.",
-        "ru": "Бот, мне нужна информация по местоположению Евы.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/704.wav"
-    },
-    {
-        "id": "M1090_S0230_G0140_001_pod042",
-        "jp": "報告：位置は既に特定。地図にポイント完了。",
-        "en": "Location has been detected and placed on map.",
-        "ru": "Местоположение обнаружено и отмечено на карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/703.wav"
-    },
-    {
-        "id": "M1090_S0230_G0150_001_a2b",
-        "jp": "私達がイヴを倒す。",
-        "en": "We'll take care of Eve.",
-        "ru": "Мы позаботимся о Еве.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/705.wav"
-    },
-    {
-        "id": "M1090_S0230_G0160_001_a9s",
-        "jp": "パスカルは村を守ってて！",
-        "en": "You just worry about keeping the village safe, okay?",
-        "ru": "Тебе следует побеспокоиться о безопасности деревни, хорошо?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1586.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1587.wav"
     },
     {
         "id": "M1090_S0230_G0170_001_pascal",

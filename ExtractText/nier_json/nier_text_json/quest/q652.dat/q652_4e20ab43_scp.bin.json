@@ -61,37 +61,6 @@
         "ru": "Эй, передумали насчёт этого парня, который выполняет доставку в пустыню?"
     },
     {
-        "id": "M5652_S0010_G0040_001_sele",
-        "jp": "様子を見に行く。",
-        "en": "Agree to look into it.",
-        "ru": "Согласиться на это."
-    },
-    {
-        "id": "M5652_S0010_G0050_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
-        "id": "M5652_S0010_G0080_001_resiman",
-        "jp": "ありがとう。助かるよ。",
-        "en": "Thanks. I appreciate it.",
-        "ru": "Спасибо. Я это ценю."
-    },
-    {
-        "id": "M5652_S0010_G0090_001_resiman",
-        "jp": "砂漠にいるレジスタンスの女に会いに行ったはずだ。よろしく頼む。",
-        "en": "There's a female Resistance member stationed in the desert who might know where he is.",
-        "ru": "В пустыне находится женщина, член Сопротивления, которая может знать, где он."
-    },
-    {
-        "id": "M5652_S0010_G0060_001_resiman",
-        "jp": "む……そうか。その気になったら言ってくれ。",
-        "en": "Really? Well, all right. Let me know if you change your mind.",
-        "ru": "Правда? Ну, хорошо. Дайте мне знать, если передумаете."
-    },
-    {
         "id": "M5652_S0010_G0100_001_resiman",
         "jp": "あいつなら、荷物の受け渡しの為に砂漠に行ったはずだ。よろしく頼む。",
         "en": "The guy who's usually here went to the desert to make a delivery. Hope you find him.",
@@ -184,18 +153,6 @@
         "jp": "けて……たすけてー",
         "en": "...lp me. Help me...",
         "ru": "...ите. Помогите мне..."
-    },
-    {
-        "id": "M5652_S0020_G0090_001_pod153",
-        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
-        "en": "Alert: Voice patterns detected from inside storage facility.",
-        "ru": "Внимание: внутри склада обнаружен чей-то голос."
-    },
-    {
-        "id": "M5652_S0020_G0130_001_pod042",
-        "jp": "荷物内に、声帯から発せられたと思われる音響効果を確認。",
-        "en": "Alert: Voice patterns detected from inside storage facility.",
-        "ru": "Внимание: внутри склада обнаружен чей-то голос."
     },
     {
         "id": "M5652_S0030_G0000_001_resiman",

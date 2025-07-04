@@ -28,34 +28,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/610.wav"
     },
     {
-        "id": "M1020_S0040_G0000_001_a2b",
-        "jp": "あれは……？",
-        "en": "What's that?",
-        "ru": "Что это такое?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/517.wav"
-    },
-    {
-        "id": "M1020_S0040_G0010_001_pod042",
-        "jp": "回答：人類の住居だったエリアの廃墟。",
-        "en": "Analysis: It is the ruin of a former human residential area.",
-        "ru": "Анализ: это руины жилого района людей.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/608.wav"
-    },
-    {
-        "id": "M1020_S0040_G0020_001_pod042",
-        "jp": "鉄骨とコンクリートで出来た高層建築に大勢で居住し、",
-        "en": "Large numbers of humans resided in such concrete and metal shelters.",
-        "ru": "Большое количество людей проживало в таких железобетонных жилищах.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/609.wav"
-    },
-    {
-        "id": "M1020_S0040_G0030_001_pod042",
-        "jp": "『マンモス団地』などと呼ばれていた。",
-        "en": "The structures were referred to by names such as \"apartment complex.\"",
-        "ru": "Строения такого типа назывались \"жилым комплексом\".",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/610.wav"
-    },
-    {
         "id": "M1020_S0040_G0040_021_a9s",
         "jp": "わざわざ大勢で集まって住むなんて……",
         "en": "I wonder why they insisted on living in such large groups.",

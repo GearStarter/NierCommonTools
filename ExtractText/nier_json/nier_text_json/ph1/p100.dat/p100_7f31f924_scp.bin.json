@@ -19,12 +19,6 @@
         "ru": "Брат... Брат..."
     },
     {
-        "id": "M0010_S0110_G0000_201_robo",
-        "jp": "ニイチャン……ニイチャン……",
-        "en": "Brother... Brother...",
-        "ru": "Брат... Брат..."
-    },
-    {
         "id": "M0010_S0110_G0020_300_robo",
         "jp": "ニイチャン……ウゴイテ……",
         "en": "Brother... Please start moving...",
@@ -46,13 +40,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_003/769.wav"
     },
     {
-        "id": "M0010_S0110_G0010_201_robo",
-        "jp": "ニイチャン……",
-        "en": "Brother...",
-        "ru": "Брат...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1117.wav"
-    },
-    {
         "id": "M0010_S0110_G0040_300_robo",
         "jp": "コレアゲレバ、ニイチャンウゴク。\\nナニカ、イレモノイル……",
         "en": "If I give my brother this, he'll move again. I need a container...",
@@ -72,12 +59,6 @@
         "en": "It will be okay now, Brother!",
         "ru": "Брат, всё будет хорошо!",
         "en_voice": "stream/English(US)/vo_plffff_0_003/772.wav"
-    },
-    {
-        "id": "M0010_S0110_G0000_201_robo",
-        "jp": "ニイチャン……ニイチャン……",
-        "en": "Brother... Brother...",
-        "ru": "Брат... Брат..."
     },
     {
         "id": "M0010_S0110_G0070_300_robo",

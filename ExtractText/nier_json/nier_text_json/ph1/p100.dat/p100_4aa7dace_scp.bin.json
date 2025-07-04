@@ -88,12 +88,6 @@
         "en_voice": "stream/English(US)/vo_plffff_1_000/53.wav"
     },
     {
-        "id": "M1010_S0010_G0100_300_a9s",
-        "jp": "了解です。",
-        "en": "Roger that.",
-        "ru": "Принято."
-    },
-    {
         "id": "M1010_S0010_G0130_300_a9s",
         "jp": "それでは、次は音声認識の設定です。",
         "en": "Now let's take a look at your voice recognition settings.",
@@ -173,12 +167,6 @@
         "ru": "Отлично! Теперь настройки должны быть в норме.",
         "en_voice": "stream/English(US)/vo_plffff_1_000/62.wav",
         "jp_voice": "stream/Japanese/vo_plffff_1_000/62.wav"
-    },
-    {
-        "id": "M1010_S0010_G0100_300_a9s",
-        "jp": "了解です。",
-        "en": "Roger that.",
-        "ru": "Принято."
     },
     {
         "id": "M1010_S0010_G0250_300_a9s",
@@ -351,18 +339,6 @@
         "en_voice": "stream/English(US)/vo_plffff_1_000/76.wav"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M1010_S0010_G0410_300_a9s",
         "jp": "ＯＫ、テスト終了です。",
         "en": "Okay, check complete.",
@@ -377,18 +353,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_1_000/80.wav"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M1010_S0010_G0460_300_a9s",
         "jp": "OK、テスト終了です。",
         "en": "Okay, check complete.",
@@ -401,18 +365,6 @@
         "ru": "Эм, а сейчас как?"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M1010_S0010_G0540_300_a9s",
         "jp": "OK、テスト終了です。",
         "en": "Okay, check complete.",
@@ -423,18 +375,6 @@
         "jp": "どうですか？",
         "en": "...Well?",
         "ru": "...Ну как?"
-    },
-    {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
     },
     {
         "id": "M1010_S0010_G0620_300_a9s",

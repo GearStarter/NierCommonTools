@@ -114,12 +114,6 @@
         "ru": "Я тоже... скоро... направлюсь туда..."
     },
     {
-        "id": "M6150_S0060_G0030_001_attractR",
-        "jp": "イマ……ボク……モ向カウヨ……",
-        "en": "I'll...be going there...soon...too...",
-        "ru": "Я тоже... скоро... направлюсь туда..."
-    },
-    {
         "id": "M6150_S0070_G0030_001_frightenedR",
         "jp": "ア、アンナ風に暴走スルナンテ……",
         "en": "I can't believe he'd go crazy like that...",
@@ -208,12 +202,6 @@
         "jp": "コナイダ大戦がアッタロ、アレデミンナ戦いナンテコリゴリスルカト思ッタケド。以前ニ増シテ、ココニハマる奴が増えタンダッテサ。",
         "en": "After that big battle the other day, I figured everyone would be sick of fighting, but it seems they've fallen in love with this place more than ever.",
         "ru": "Я полагаю, все устали после большой битвы на днях, но, кажется, они ещё больше полюбили это место."
-    },
-    {
-        "id": "M6150_S0120_G0050_001_questionR",
-        "jp": "ミンナ多クの仲間を失ッタし、怖い思イモシタダロウニ何でダロ？",
-        "en": "How could anyone want to be in a place like this after facing so many horrors and losing so many loved ones?",
-        "ru": "Кому захочется находиться в таком месте как это после встречи со столькими ужасами и потери стольких близких?"
     },
     {
         "id": "M6150_S0120_G0050_001_questionR",

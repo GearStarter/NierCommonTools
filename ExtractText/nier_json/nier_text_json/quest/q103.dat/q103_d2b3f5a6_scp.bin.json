@@ -54,24 +54,6 @@
         "ru": "Ах, как жаль. Приходите к отцу Серво, если передумаете."
     },
     {
-        "id": "M5103_S0010_G0040_001_robomaster",
-        "jp": "ドウじゃ？改造の成果を試サセてはクレンカのう？",
-        "en": "Dare you taste the forbidden fruits of his labors!?",
-        "ru": "Желаете ли вы вкусить запретных плодов его трудов?!"
-    },
-    {
-        "id": "M5103_S0010_G0050_001_sele",
-        "jp": "成果ヲ試スノニ付キ合ウ。",
-        "en": "Taste the forbidden fruits.",
-        "ru": "Вкусить запретных плодов."
-    },
-    {
-        "id": "M5103_S0010_G0060_001_sele",
-        "jp": "成果ヲ試スノニ付キ合ワナイ。",
-        "en": "Go hungry.",
-        "ru": "Уйти голодным."
-    },
-    {
         "id": "M5103_S0010_G0090_001_robomaster",
         "jp": "自分ガ凄過ぎテ涙が出そうジャ……！",
         "en": "Oh ho ho ho! Such power! It's almost blasphemous to even contemplate it!",
@@ -100,18 +82,6 @@
         "jp": "修行を再開シナイ。",
         "en": "Begin nothing.",
         "ru": "Не повторять."
-    },
-    {
-        "id": "M5103_S0010_G0070_001_robomaster",
-        "jp": "今マデと同じダと思ったら、大間違いじゃゾイ！",
-        "en": "Father Servo is born anew!",
-        "ru": "Отец Серво заново родился!"
-    },
-    {
-        "id": "M5103_S0010_G0080_001_robomaster",
-        "jp": "残念じゃ……気が変わったラまた来てオクレ。",
-        "en": "Ah, a pity. Come find Father Servo if you change your mind.",
-        "ru": "Ах, как жаль. Приходите к отцу Серво, если передумаете."
     },
     {
         "id": "M5103_S0010_G0104_300_robomaster",
@@ -169,48 +139,6 @@
         "ru": "Какая мудрость! Пусть на вас снизойдёт тысяча благословений некоего случайного бога!"
     },
     {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0010_G0240_001_pod042",
-        "jp": "依頼されていた資材を入手。",
-        "en": "Requested material obtained.",
-        "ru": "Получен требуемый материал."
-    },
-    {
-        "id": "M5920_S0020_G0240_001_pod153",
-        "jp": "依頼されていた資材を入手。",
-        "en": "Requested material obtained.",
-        "ru": "Получен требуемый материал."
-    },
-    {
-        "id": "M5103_S0010_G0194_300_robomaster",
-        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
-        "en": "Have you brought the required items?",
-        "ru": "Вы принесли необходимые предметы?"
-    },
-    {
-        "id": "M5103_S0010_G0195_300_sele",
-        "jp": "アイテムを渡す",
-        "en": "Give him the items.",
-        "ru": "Отдать ему предметы."
-    },
-    {
-        "id": "M5103_S0010_G0196_300_sele",
-        "jp": "アイテムを渡さない",
-        "en": "Turn him down.",
-        "ru": "Отказать ему."
-    },
-    {
         "id": "M5103_S0010_G0194_300_robomaster",
         "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
         "en": "Have you brought the required items?",
@@ -251,12 +179,6 @@
         "jp": "はは……最強……ね。",
         "en": "You don't say.",
         "ru": "Да что вы говорите."
-    },
-    {
-        "id": "M5103_S0020_G0030_001_robomaster",
-        "jp": "次にお前サン達が来るマデに、とことん強くなっテおくゾイ！",
-        "en": "Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!",
-        "ru": "Просто жди, дитя моё! К твоему возвращению отец Серво станет настолько сильным, что ты себе и не представляешь!"
     },
     {
         "id": "M5103_S0020_G0030_001_robomaster",

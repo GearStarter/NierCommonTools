@@ -66,48 +66,6 @@
         "ru": "Сказать машине, чтобы отстала."
     },
     {
-        "id": "M5224_S0010_G0020_001_n02",
-        "jp": "アー！恩人のパスカルさんにお礼がしたいなあ……",
-        "en": "I really need to show him how thankful I am!",
-        "ru": "Мне обязательно надо показать, насколько я ему благодарен!"
-    },
-    {
-        "id": "M5224_S0010_G0030_001_n02",
-        "jp": "……お礼がしたいんダヨネ？（チラッ）",
-        "en": "If ooooonly there were some way to thank him...\\nSooooome way...",
-        "ru": "Если бы был хоть о-о-один способ...\\nХоть о-о-один..."
-    },
-    {
-        "id": "M5224_S0010_G0040_001_sele",
-        "jp": "何か言いたそうなので聞いてみる。",
-        "en": "Stick around and hear him out.",
-        "ru": "Побыть рядом и выслушать его."
-    },
-    {
-        "id": "M5224_S0010_G0050_001_sele",
-        "jp": "面倒くさそうなので放置する。",
-        "en": "Leave before you get dragged into something.",
-        "ru": "Уйти, пока вас не втянули во что-нибудь."
-    },
-    {
-        "id": "M5224_S0010_G0080_001_n02",
-        "jp": "パスカルさんが好きな哲学書がレジスタンスキャンプに\\nあるらしいンデスケドネ……",
-        "en": "Anyway, I was thinking he might like a new philosophy book.\\nI hear they have such things over in the Resistance camp...",
-        "ru": "Так или иначе, я думаю, он может обрадоваться новой книге по философии. Я слышал, такую можно достать в лагере Сопротивления..."
-    },
-    {
-        "id": "M5224_S0010_G0090_001_sele",
-        "jp": "取ってきてやるよ。",
-        "en": "Agree to get the book.",
-        "ru": "Согласиться принести книгу."
-    },
-    {
-        "id": "M5224_S0010_G0100_001_sele",
-        "jp": "知らないよそんな事。",
-        "en": "Tell the machine to get bent.",
-        "ru": "Сказать машине, чтобы отстала."
-    },
-    {
         "id": "M5224_S0010_G0110_001_a2",
         "jp": "仕方ない……パスカルには世話になったから、\\nその哲学書ってのを取ってきてやるよ。",
         "en": "All right, I'll get your book. I owe that little clunker a favor or two anyway.",
@@ -130,12 +88,6 @@
         "jp": "そんな物騒な事するか……",
         "en": "Uh, yeah, no. I think there's a better way.",
         "ru": "Эм, да нет. Я думаю, есть более хороший способ."
-    },
-    {
-        "id": "M5224_S0010_G0130_001_n02",
-        "jp": "哲学書はレジスタンスキャンプの『アネモネ』ってヒトが\\n貯めこんでるらしいから奪ってきて！",
-        "en": "Apparently someone named \"Anemone\" has a large collection of such books, so you just need to go steal one!",
-        "ru": "У некой \"Анемоны\" есть большая коллекция таких книг, так что вам надо всего лишь взять и украсть одну!"
     },
     {
         "id": "M5224_S0020_G0150_001_ane",

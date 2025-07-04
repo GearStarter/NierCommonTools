@@ -32,20 +32,6 @@
         "ru": "Если я хочу попасть к 2B... Мне сперва нужно добраться до нижних уровней фабрики."
     },
     {
-        "id": "M1080_S0080_G0110_300_a9s",
-        "jp": "しまった！？\\n……早く２Ｂの所へ行かないと。",
-        "en": "Uh oh... I'd better get to 2B fast!",
-        "ru": "Ох... Мне нужно поспешить к 2B!",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1542.wav"
-    },
-    {
-        "id": "M1080_S0080_G0120_300_a9s",
-        "jp": "クソッ！\\nもっとパワーのある機体に乗り換えた方が良いかもしれないな……",
-        "en": "Damn it! Maybe I should've taken over something with a little more power...",
-        "ru": "Чёрт! Надо было взять с собой что-нибудь помощнее...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1544.wav"
-    },
-    {
         "id": "M1080_S0080_G0200_300_n02",
         "jp": "止めろ！！",
         "en": "Stop!",
@@ -78,20 +64,5 @@
         "en": "What happened to all of you?",
         "ru": "Да что с вами такое?",
         "en_voice": "stream/English(US)/vo_plffff_0_003/1002.wav"
-    },
-    {
-        "id": "M1080_S0080_G0150_300_a9s",
-        "jp": "停止したロボットの残骸……",
-        "en": "Look at all these broken machines...",
-        "ru": "Только посмотрите на все эти сломанные машины...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1547.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1548.wav"
-    },
-    {
-        "id": "M1080_S0080_G0160_300_a9s",
-        "jp": "まだ幾つかは使えそうだな。\\n念の為ここの座標をバンカーに送っておこう。",
-        "en": "A few still look usable. Better send these coordinates to the Bunker, just in case.",
-        "ru": "Некоторыми ещё можно воспользоваться. На всякий случай отправлю координаты в Бункер.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1548.wav"
     }
 ]

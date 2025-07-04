@@ -18,46 +18,10 @@
         "ru": "Мы не хотим неприятностей."
     },
     {
-        "id": "M6050_S0010_G2550_300_villager",
-        "jp": "ワタシたちは争いを望まない。",
-        "en": "We don't want trouble.",
-        "ru": "Мы не хотим неприятностей."
-    },
-    {
-        "id": "M6050_S0010_G2550_300_villager",
-        "jp": "ワタシたちは争いを望まない。",
-        "en": "We don't want trouble.",
-        "ru": "Мы не хотим неприятностей."
-    },
-    {
         "id": "M6050_S0010_G2580_300_villager",
         "jp": "争い事は嫌いデス。",
         "en": "I hate fighting.",
         "ru": "Я ненавижу сражаться."
-    },
-    {
-        "id": "M6050_S0010_G2580_300_villager",
-        "jp": "争い事は嫌いデス。",
-        "en": "I hate fighting.",
-        "ru": "Я ненавижу сражаться."
-    },
-    {
-        "id": "M6050_S0010_G2580_300_villager",
-        "jp": "争い事は嫌いデス。",
-        "en": "I hate fighting.",
-        "ru": "Я ненавижу сражаться."
-    },
-    {
-        "id": "M6050_S0010_G2540_300_villager",
-        "jp": "村の外が騒がしデスネ。",
-        "en": "What's that racket outside?",
-        "ru": "Что за шум снаружи?"
-    },
-    {
-        "id": "M6050_S0010_G2540_300_villager",
-        "jp": "村の外が騒がしデスネ。",
-        "en": "What's that racket outside?",
-        "ru": "Что за шум снаружи?"
     },
     {
         "id": "M6050_S0010_G2540_300_villager",
@@ -103,18 +67,6 @@
         "ru": "Мне не страшно. Мне совсем не страшно!"
     },
     {
-        "id": "M6050_S0010_G2720_300_villager",
-        "jp": "コワクない、コワクないヨ。",
-        "en": "I'm not scared. I'm not scared at all!",
-        "ru": "Мне не страшно. Мне совсем не страшно!"
-    },
-    {
-        "id": "M6050_S0010_G2720_300_villager",
-        "jp": "コワクない、コワクないヨ。",
-        "en": "I'm not scared. I'm not scared at all!",
-        "ru": "Мне не страшно. Мне совсем не страшно!"
-    },
-    {
         "id": "M6050_S0010_G2750_300_villager",
         "jp": "危ないところには近付かナイヨ。",
         "en": "I'm not going near anything dangerous.",
@@ -131,12 +83,6 @@
         "jp": "危険からはニゲナキャ。",
         "en": "We should stay out of danger.",
         "ru": "Мы должны держаться подальше от опасности."
-    },
-    {
-        "id": "M6050_S0010_G2700_300_villager",
-        "jp": "ナニかあったノ？",
-        "en": "Did something happen?",
-        "ru": "Что-то случилось?"
     },
     {
         "id": "M6050_S0010_G2840_300_villager",
@@ -181,12 +127,6 @@
         "ru": "Я уверен, скоро все успокоятся."
     },
     {
-        "id": "M6050_S0010_G2820_300_villager",
-        "jp": "しばらくしたら、ミンナ落ち着くはずダ。",
-        "en": "I'm sure everyone will calm down after a while.",
-        "ru": "Я уверен, скоро все успокоятся."
-    },
-    {
         "id": "M6050_S0010_G2670_300_villager",
         "jp": "話し合えば、キット分かりあえるハズ。",
         "en": "I'm sure we can talk this out somehow.",
@@ -221,18 +161,6 @@
         "jp": "ナ、ナニが起きてるノカナ。",
         "en": "Wh-What's going on?",
         "ru": "Ч-что происходит?"
-    },
-    {
-        "id": "M6050_S0010_G2890_300_villager",
-        "jp": "今は遊ぶのガマンするヨ。",
-        "en": "Guess I'll have to hold off on play for now.",
-        "ru": "Думаю, пока я воздержусь от игры."
-    },
-    {
-        "id": "M6050_S0010_G2890_300_villager",
-        "jp": "今は遊ぶのガマンするヨ。",
-        "en": "Guess I'll have to hold off on play for now.",
-        "ru": "Думаю, пока я воздержусь от игры."
     },
     {
         "id": "M6050_S0010_G2890_300_villager",

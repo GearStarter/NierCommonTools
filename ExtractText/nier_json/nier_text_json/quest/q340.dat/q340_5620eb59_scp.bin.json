@@ -97,54 +97,6 @@
         "ru": "Я понимаю, что вы заняты, но если у вас найдётся время, чтобы помочь мне, я буду очень благодарна."
     },
     {
-        "id": "M5340_S0010_G0070_001_sele",
-        "jp": "記憶回復を手伝う。",
-        "en": "Help her recover her memories.",
-        "ru": "Помочь ей вернуть воспоминания."
-    },
-    {
-        "id": "M5340_S0010_G0080_001_sele",
-        "jp": "記憶回復を手伝わない。",
-        "en": "Turn her down.",
-        "ru": "Отказать ей."
-    },
-    {
-        "id": "M5340_S0010_G0110_001_resiwoman",
-        "jp": "ありがとう！",
-        "en": "Thank you so much.",
-        "ru": "Большое вам спасибо."
-    },
-    {
-        "id": "M5340_S0010_G0120_001_resiwoman",
-        "jp": "もし、私の撮影した場所を見つけたら位置座標を教えて。",
-        "en": "If you find the location shown in any of these photos, please send me the coordinates.",
-        "ru": "Если вы обнаружите место, где были сделаны эти фотографии, пожалуйста, пришлите мне координаты."
-    },
-    {
-        "id": "M5340_S0010_G0130_001_resiwoman",
-        "jp": "何か思い出せるかもしれない……",
-        "en": "Hopefully that will help me recover my missing memories.",
-        "ru": "Надеюсь, это поможет мне восстановить утраченные воспоминания."
-    },
-    {
-        "id": "M5340_S0010_G0140_001_a9s",
-        "jp": "わかりました。もし見つけたらお知らせしますね。",
-        "en": "We'll let you know if we find anything.",
-        "ru": "Мы сообщим вам, если что-нибудь обнаружим."
-    },
-    {
-        "id": "M5340_S0010_G0150_001_resiwoman",
-        "jp": "お願いするね。",
-        "en": "Thank you.",
-        "ru": "Спасибо."
-    },
-    {
-        "id": "M5340_S0010_G0090_001_resiwoman",
-        "jp": "そう……また、気が向いたら声かけてね。",
-        "en": "Oh. Well, I understand. Feel free to stop by later if you manage to free up some time.",
-        "ru": "Эх. Ясно, я понимаю. Приходите ко мне, если у вас появится свободное время."
-    },
-    {
         "id": "M5340_S0020_G0000_001_a9s",
         "jp": "この写真の場所か……",
         "en": "Hmm... These places look familiar...",

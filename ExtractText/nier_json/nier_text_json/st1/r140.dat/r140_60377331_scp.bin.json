@@ -48,50 +48,9 @@
         "ru": "Мы не враги."
     },
     {
-        "id": "M1040_S0030_G0020_001_n02",
-        "jp": "ヤメテ！殺さなイデ！",
-        "en": "Stop! Do not kill!",
-        "ru": "Стой! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/846.wav"
-    },
-    {
-        "id": "M1040_S0030_G0030_001_n02",
-        "jp": "戦わない！戦ワナい！",
-        "en": "No fighting! No fighting!",
-        "ru": "Не дерись! Не дерись!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/847.wav"
-    },
-    {
-        "id": "M1040_S0030_G0040_001_n02",
-        "jp": "殺さナイデ！殺さナイで！",
-        "en": "Don't kill! Don't kill!",
-        "ru": "Не убивай! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/848.wav"
-    },
-    {
-        "id": "M1040_S0030_G0050_001_n02",
-        "jp": "悪イコトしてない……！",
-        "en": "We have done nothing bad!",
-        "ru": "Мы не делали ничего плохого!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/849.wav"
-    },
-    {
-        "id": "M1040_S0030_G0060_001_n02",
-        "jp": "ごメンナさい！ゴメンなさい！",
-        "en": "I'm sorry! I'm sorry!",
-        "ru": "Прости! Прости!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/850.wav"
-    },
-    {
         "id": "M6050_S0010_G0230_300_villager",
         "jp": "ああ、<SARU_JAN>さん……",
         "en": "Ah, <SARU_JAN>...",
         "ru": "Ах, <SARU_JAN>..."
-    },
-    {
-        "id": "M6050_S0010_G2700_300_villager",
-        "jp": "ナニかあったノ？",
-        "en": "Did something happen?",
-        "ru": "Что-то случилось?"
     }
 ]

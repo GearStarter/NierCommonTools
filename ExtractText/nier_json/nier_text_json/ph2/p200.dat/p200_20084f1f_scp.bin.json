@@ -150,57 +150,6 @@
         "ru": "Да заткнись уже... Ты меня смущаешь."
     },
     {
-        "id": "M1050_S0005_G0071_001_jackas",
-        "jp": "やあ。元気？",
-        "en": "Hey. How's it hangin'?",
-        "ru": "Йо. Как делишки?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/52.wav"
-    },
-    {
-        "id": "M1050_S0005_G0072_001_a2b",
-        "jp": "貴方は……",
-        "en": "You again...",
-        "ru": "Опять ты..."
-    },
-    {
-        "id": "M1050_S0005_G0073_001_jackas",
-        "jp": "君達のところの司令官に言われたんで、\\n新しくアクセスポイントを作っておいたよ。",
-        "en": "Your commander told me to build a new access point, so...here ya go.",
-        "ru": "Ваш командор приказала мне построить новые точки доступа и вот... получите, распишитесь.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/53.wav"
-    },
-    {
-        "id": "M1050_S0005_G0074_001_jackas",
-        "jp": "転送装置も動かせるようにしておいたから。",
-        "en": "Oh, and I got the stupid transporter up and running too.",
-        "ru": "А, и ещё я заставила работать этот тупой транспортёр.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/54.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/116.wav"
-    },
-    {
-        "id": "M1050_S0005_G0075_001_a9s",
-        "jp": "あ、ありがとうございます。",
-        "en": "Um, thank you?",
-        "ru": "Эм... спасибо?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1336.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1337.wav"
-    },
-    {
-        "id": "M1050_S0005_G0076_001_jackas",
-        "jp": "司令官は昔なじみなんだけど、アイツ、人に仕事させすぎだよね～",
-        "en": "I've known the Commander for a while now. She sure is good at pawning work off on people.",
-        "ru": "Знавала я Командора. Она отлично умеет напрягать разной работёнкой.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/55.wav"
-    },
-    {
-        "id": "M1050_S0005_G0077_001_jackas",
-        "jp": "今度会ったら文句言っといてよ。",
-        "en": "Next time you see her, give her some lip for me, will ya?",
-        "ru": "В следующий раз чмокни её за меня, лады?",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/56.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/118.wav"
-    },
-    {
         "id": "M1050_S0005_G0080_001_a2b",
         "jp": "これが転送装置……",
         "en": "So this has a transporter now, huh?",

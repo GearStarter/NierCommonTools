@@ -78,37 +78,5 @@
         "ru": "Я действительно должен что-то сделать со всем этим мусором...",
         "en_voice": "stream/English(US)/vo_plffff_0_002/548.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_002/610.wav"
-    },
-    {
-        "id": "M3030_S0160_G0340_300_pascal",
-        "jp": "ガラクタが落ちてたので集めました。\\nいかがですか？",
-        "en": "I've gathered up some of the junk from this place.\\nWhat do you think?",
-        "ru": "Я немного разобрал весь этот хлам.\\nЧто скажете теперь?"
-    },
-    {
-        "id": "M3030_S0160_G0320_300_pascal",
-        "jp": "こんなもの、何の役に立つのか分かりませんよね。\\n一体だれが捨てていったのでしょうか。",
-        "en": "Er, not that I'm sure what any of this actually does. Or why it was left here in the first place!",
-        "ru": "Эм, не то чтобы я уверен, что всё это действительно полезно. Или почему этот хлам оставили здесь изначально!"
-    },
-    {
-        "id": "M3030_S0160_G0330_300_a2",
-        "jp": "……",
-        "en": "......",
-        "ru": "......"
-    },
-    {
-        "id": "M3030_S0160_G0430_300_a9s",
-        "jp": "……",
-        "en": "......",
-        "ru": "......"
-    },
-    {
-        "id": "M3030_S0160_G0350_300_pascal",
-        "jp": "ゴミは早く処分しないといけませんね。",
-        "en": "I really must do something about all this trash...",
-        "ru": "Я действительно должен что-то сделать со всем этим мусором...",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/548.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/610.wav"
     }
 ]

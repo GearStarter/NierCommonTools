@@ -48,18 +48,6 @@
         "ru": "Не желаете ли увидеть новую модификацию отца Серво в действии?"
     },
     {
-        "id": "M5101_S0010_G0030_001_sele",
-        "jp": "成果ヲ試スノニ付キ合ウ。",
-        "en": "Spar with Father Servo.",
-        "ru": "Сразиться с отцом Серво."
-    },
-    {
-        "id": "M5101_S0010_G0040_001_sele",
-        "jp": "成果ヲ試スノニ付キ合ワナイ。",
-        "en": "Tell him to get bent.",
-        "ru": "Сказать ему, что б отвалил."
-    },
-    {
         "id": "M5101_S0010_G0070_001_robomaster",
         "jp": "オオ……ワシはこんなニ強くナッテいたのか……！",
         "en": "Heh heh. One cannot fail to be impressed by the strength of Father Servo.",
@@ -88,18 +76,6 @@
         "jp": "修行を再開シナイ。",
         "en": "Refuse.",
         "ru": "Отказаться."
-    },
-    {
-        "id": "M5101_S0010_G0050_001_robomaster",
-        "jp": "こノ間のワシとは一味違うゾイ！",
-        "en": "Time is a great wheel, yet do not expect things to transpire as they did when last we met.",
-        "ru": "Время подобно великому колесу, но не ждите, что в этот раз будет всё так же, как и в нашу последнюю встречу."
-    },
-    {
-        "id": "M5101_S0010_G0060_001_robomaster",
-        "jp": "残念じゃ……気が変わったラまた来てオクレ。",
-        "en": "Ah, a pity. Come find Father Servo if you change your mind.",
-        "ru": "Ах, как жаль. Приходите к отцу Серво, если передумаете."
     },
     {
         "id": "M5101_S0010_G0060_300_robomaster",
@@ -178,48 +154,6 @@
         "jp": "何が若人だ、まったくもう……",
         "en": "Would you stop calling me that already?",
         "ru": "Может уже прекратите меня так называть?"
-    },
-    {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0010_G0240_001_pod042",
-        "jp": "依頼されていた資材を入手。",
-        "en": "Requested material obtained.",
-        "ru": "Получен требуемый материал."
-    },
-    {
-        "id": "M5920_S0020_G0240_001_pod153",
-        "jp": "依頼されていた資材を入手。",
-        "en": "Requested material obtained.",
-        "ru": "Получен требуемый материал."
-    },
-    {
-        "id": "M5101_S0010_G0080_300_robomaster",
-        "jp": "オオ、アイテムを持ってきてくれたんじゃな？",
-        "en": "Have you brought the required items?",
-        "ru": "Вы принесли необходимые предметы?"
-    },
-    {
-        "id": "M5101_S0010_G0090_300_sele",
-        "jp": "アイテムを渡す",
-        "en": "Give him the items.",
-        "ru": "Отдать ему предметы."
-    },
-    {
-        "id": "M5101_S0010_G0100_300_sele",
-        "jp": "アイテムを渡さない",
-        "en": "Refuse.",
-        "ru": "Отказаться."
     },
     {
         "id": "M5101_S0010_G0080_300_robomaster",

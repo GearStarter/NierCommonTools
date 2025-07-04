@@ -74,20 +74,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_003/1023.wav"
     },
     {
-        "id": "M1080_S0050_G0000_101_n02",
-        "jp": "私達は、神の存在に気付きました。",
-        "en": "We have come to know the existence of God.",
-        "ru": "Мы познали существование Бога.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/946.wav"
-    },
-    {
-        "id": "M1080_S0050_G0010_101_n02",
-        "jp": "神の名の下に、全ての存在は平等であらねばなりません。",
-        "en": "And by His word, all living things are to be considered equal.",
-        "ru": "И по Его слову, все живые существа считаются равными.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/948.wav"
-    },
-    {
         "id": "M1080_S0050_G0020_101_n02",
         "jp": "教祖が貴方がたと和平を結びたいと望んでおられます。",
         "en": "His Grace wishes to form a pact of peace with your people.",
@@ -100,48 +86,6 @@
         "en": "We, his humble priests, will guide you to him. This way.",
         "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/952.wav"
-    },
-    {
-        "id": "M1080_S0050_G0000_101_n02",
-        "jp": "私達は、神の存在に気付きました。",
-        "en": "We have come to know the existence of God.",
-        "ru": "Мы познали существование Бога.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/946.wav"
-    },
-    {
-        "id": "M1080_S0050_G0010_101_n02",
-        "jp": "神の名の下に、全ての存在は平等であらねばなりません。",
-        "en": "And by His word, all living things are to be considered equal.",
-        "ru": "И по Его слову, все живые существа считаются равными.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/948.wav"
-    },
-    {
-        "id": "M1080_S0050_G0020_101_n02",
-        "jp": "教祖が貴方がたと和平を結びたいと望んでおられます。",
-        "en": "His Grace wishes to form a pact of peace with your people.",
-        "ru": "Его Светлость желает заключить мир с вашим народом.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/950.wav"
-    },
-    {
-        "id": "M1080_S0050_G0030_101_n02",
-        "jp": "我々司祭がご案内いたします。奥のお部屋へ、どうぞ。",
-        "en": "We, his humble priests, will guide you to him. This way.",
-        "ru": "Мы, его смиренные проповедники, проведём вас к нему. Сюда.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/952.wav"
-    },
-    {
-        "id": "M1080_S0050_G0050_300_n02",
-        "jp": "おやめ下さい！！\\n我々に戦闘の意思はありません！！",
-        "en": "Stop! We have no desire to fight you!",
-        "ru": "Стой! Мы не желаем с тобой сражаться!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/954.wav"
-    },
-    {
-        "id": "M1080_S0050_G0060_300_pascal",
-        "jp": "落ち着いて下さい！\\n我々は和平交渉の為にここに来たのですから……",
-        "en": "Please, you must be calm! We have come to negotiate peace with you!",
-        "ru": "Пожалуйста, успокойтесь! Мы здесь для того, чтобы заключить мир с вами!",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/452.wav"
     },
     {
         "id": "M1080_S0050_G0090_101_prst",
@@ -156,14 +100,6 @@
         "en": "Please board this elevator to access His Grace's sanctum.",
         "ru": "Поднимитесь на этом лифте и вы попадёте в святилище Его Величества.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/956.wav"
-    },
-    {
-        "id": "M1080_S0050_G0111_101_prst",
-        "jp": "そんなに急いでも、教祖様は逃げませんよ。",
-        "en": "You don't have to hurry so! His Grace won't run from you.",
-        "ru": "Не спешите! Его Светлость никуда от вас не сбежит.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/958.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/1036.wav"
     },
     {
         "id": "M1080_S0050_G0111_101_prst",
@@ -209,13 +145,5 @@
         "ru": "Весьма признательна...",
         "en_voice": "stream/English(US)/vo_plffff_0_000/671.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_000/659.wav"
-    },
-    {
-        "id": "M1080_S0050_G0100_300_pascal",
-        "jp": "まずは彼らの話だけでも聞いてみましょう。",
-        "en": "We should at least hear them out.",
-        "ru": "По крайней мере, давай хотя бы выслушаем их.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/454.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/516.wav"
     }
 ]

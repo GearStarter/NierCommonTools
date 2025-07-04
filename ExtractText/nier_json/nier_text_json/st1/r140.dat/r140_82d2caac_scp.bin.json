@@ -97,12 +97,6 @@
         "ru": "Одинокий мужчина — истинный солдат!"
     },
     {
-        "id": "M6050_S0010_G1510_300_villager",
-        "jp": "孤高の男こそ、真の戦士ナノダ。",
-        "en": "A solitary man is a true soldier!",
-        "ru": "Одинокий мужчина — истинный солдат!"
-    },
-    {
         "id": "M6050_S0010_G1520_300_villager",
         "jp": "デモ、タマになら遊びに来てもイイゾ。",
         "en": "But feel free to drop by whenever you want, okay?",
@@ -181,18 +175,6 @@
         "ru": "Держитесь подальше он неприятностей!"
     },
     {
-        "id": "M5221_S0000_G0020_300_robochild",
-        "jp": "オモチャタノシー！",
-        "en": "This is sooo fuuuun!",
-        "ru": "Это та-а-ак ве-е-есело!"
-    },
-    {
-        "id": "M6050_S0010_G0230_300_villager",
-        "jp": "ああ、<SARU_JAN>さん……",
-        "en": "Ah, <SARU_JAN>...",
-        "ru": "Ах, <SARU_JAN>..."
-    },
-    {
         "id": "M6050_S0010_G0550_300_villager",
         "jp": "我々が争うことに意味はありません。",
         "en": "There is no meaning in war.",
@@ -203,30 +185,6 @@
         "jp": "<SARU_JAN>の言う通りです。",
         "en": "<SARU_JAN>'s right.",
         "ru": "<SARU_JAN> прав."
-    },
-    {
-        "id": "M6050_S0010_G2600_300_papa",
-        "jp": "大変ダ、タイヘンダ。",
-        "en": "This is bad. This is really bad...",
-        "ru": "Это плохо. Это действительно плохо..."
-    },
-    {
-        "id": "M5803_S0010_G0010_001_robomother",
-        "jp": "ウウ……私はどうしタラよいのでショウカ……",
-        "en": "Rrrrgh! What am I supposed to DO!?",
-        "ru": "Р-р-р-р-р! И что же мне ДЕЛАТЬ?!"
-    },
-    {
-        "id": "M5040_S0010_G0145_001_papa",
-        "jp": "どうかウチの子を助けてやってください……",
-        "en": "Please, we beg of you. Save him...",
-        "ru": "Пожалуйста, мы умоляем тебя. Спаси его..."
-    },
-    {
-        "id": "M5040_S0010_G0145_001_papa",
-        "jp": "どうかウチの子を助けてやってください……",
-        "en": "Please, we beg of you. Save him...",
-        "ru": "Пожалуйста, мы умоляем тебя. Спаси его..."
     },
     {
         "id": "M5040_S0010_G0145_001_papa",
@@ -251,12 +209,6 @@
         "jp": "コンニチワ。\\n今日もイイ天気デスネ。",
         "en": "Hello. Nice day we're having!",
         "ru": "Привет. Хорошего дня!"
-    },
-    {
-        "id": "M5250_S0010_G0360_001_robostrange",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
     },
     {
         "id": "M5110_S0010_G0005_300_sister",
@@ -331,36 +283,6 @@
         "ru": "То, что я большой, не значит, что я сильный..."
     },
     {
-        "id": "M5520_S0020_G0030_001_pascal",
-        "jp": "素晴らしい！こんな貴重な情報、ありがとうございます……",
-        "en": "Superb! Thank you for this valuable information.",
-        "ru": "Великолепно! Спасибо за эту ценную информацию."
-    },
-    {
-        "id": "M5520_S0020_G0040_001_pascal",
-        "jp": "こちらお礼となります。どうか受け取ってください。",
-        "en": "Please take this as a reward.",
-        "ru": "Пожалуйста, возьмите эту награду."
-    },
-    {
-        "id": "M6050_S0010_G1530_300_pascal",
-        "jp": "ああ、ご無事でしたか。\\nとても大きな地震があったので、心配していました。",
-        "en": "Say, are you all right? There was a huge earthquake, so I was worried.",
-        "ru": "Скажите, вы в порядке? Здесь было огромное землетрясение, поэтому я беспокоился."
-    },
-    {
-        "id": "M6050_S0010_G1540_300_pascal",
-        "jp": "村人にもあなたたちにも、怪我がなくて良かったです。",
-        "en": "I'm glad you and the villagers are all okay.",
-        "ru": "Я рад, что вы и жители деревни в порядке."
-    },
-    {
-        "id": "M6050_S0010_G1550_300_villager",
-        "jp": "大したものはありませんが、ゆっくりしていってくださいね。",
-        "en": "I know there's not much to do here, but consider yourself at home.",
-        "ru": "Я знаю, здесь нечего делать, но чувствуйте себя как дома."
-    },
-    {
         "id": "M6050_S0010_G1530_300_pascal",
         "jp": "ああ、ご無事でしたか。\\nとても大きな地震があったので、心配していました。",
         "en": "Say, are you all right? There was a huge earthquake, so I was worried.",
@@ -397,18 +319,6 @@
         "ru": "Возвращайтесь ко мне в любое время."
     },
     {
-        "id": "M6050_S0010_G1390_300_sp",
-        "jp": "何かミテイキマスカ？",
-        "en": "Are you looking for something?",
-        "ru": "Вы что-то ищите?"
-    },
-    {
-        "id": "M6050_S0010_G1400_300_sp",
-        "jp": "イツデモ会いに来てクダサイネ。",
-        "en": "Come back and see me anytime.",
-        "ru": "Возвращайтесь ко мне в любое время."
-    },
-    {
         "id": "M6050_S0010_G1340_300_kj",
         "jp": "凄い地震がアッタナ、大丈夫だったカ？",
         "en": "That was some earthquake. Are you all right?",
@@ -427,50 +337,9 @@
         "ru": "Надеюсь, ребята в лесу в порядке."
     },
     {
-        "id": "M6050_S0010_G1350_300_kj",
-        "jp": "備えあればウレウことはないそうダ。\\n好きなダケ見ていってクレ。",
-        "en": "I've been told that providing is preventing. So buy whatever you like!",
-        "ru": "Мне сказали, что принимаются меры по предотвращению последствий. Поэтому покупайте что хотите!"
-    },
-    {
         "id": "M6050_S0010_G1370_300_kj",
         "jp": "イツデモ見に来てイイゾ。",
         "en": "Come see me any time.",
         "ru": "Приходите ко мне в любое время."
-    },
-    {
-        "id": "M1040_S0030_G0020_001_n02",
-        "jp": "ヤメテ！殺さなイデ！",
-        "en": "Stop! Do not kill!",
-        "ru": "Стой! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/846.wav"
-    },
-    {
-        "id": "M1040_S0030_G0030_001_n02",
-        "jp": "戦わない！戦ワナい！",
-        "en": "No fighting! No fighting!",
-        "ru": "Не дерись! Не дерись!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/847.wav"
-    },
-    {
-        "id": "M1040_S0030_G0040_001_n02",
-        "jp": "殺さナイデ！殺さナイで！",
-        "en": "Don't kill! Don't kill!",
-        "ru": "Не убивай! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/848.wav"
-    },
-    {
-        "id": "M1040_S0030_G0050_001_n02",
-        "jp": "悪イコトしてない……！",
-        "en": "We have done nothing bad!",
-        "ru": "Мы не делали ничего плохого!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/849.wav"
-    },
-    {
-        "id": "M1040_S0030_G0060_001_n02",
-        "jp": "ごメンナさい！ゴメンなさい！",
-        "en": "I'm sorry! I'm sorry!",
-        "ru": "Прости! Прости!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/850.wav"
     }
 ]

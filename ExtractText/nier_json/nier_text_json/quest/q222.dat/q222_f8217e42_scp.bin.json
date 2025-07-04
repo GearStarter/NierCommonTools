@@ -128,19 +128,6 @@
         "ru": "Не могла бы ты помочь нам?"
     },
     {
-        "id": "M5222_S0010_G0140_001_sele",
-        "jp": "手を貸す。",
-        "en": "Help Pascal.",
-        "ru": "Помочь Паскалю."
-    },
-    {
-        "id": "M5222_S0010_G0150_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
         "id": "M5222_S0010_G0210_001_pascal",
         "jp": "子供の修理に必要な素材は工場廃墟にあります。",
         "en": "The part needed to repair the child is in the area known as the abandoned factory.",

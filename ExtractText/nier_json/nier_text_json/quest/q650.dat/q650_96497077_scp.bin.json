@@ -102,42 +102,6 @@
         "ru": "Отлично. Огромное спасибо!"
     },
     {
-        "id": "M5650_S0010_G0100_001_resiman",
-        "jp": "この奥の倉庫の中に置き忘れた『移送用の荷物』を取ってこないと\\nいけないんだけど……",
-        "en": "I gotta get those packages for transport out of there...",
-        "ru": "Я должен достать эти коробки для транспортировки оттуда..."
-    },
-    {
-        "id": "M5650_S0020_G0000_300_resiman",
-        "jp": "取ってきてくれるのかい？",
-        "en": "Think you can get the goods for me?",
-        "ru": "Возможно, вы сможете достать их для меня?"
-    },
-    {
-        "id": "M5650_S0020_G0010_300_sele",
-        "jp": "仕方ないなぁ",
-        "en": "Agree to help.",
-        "ru": "Согласиться помочь."
-    },
-    {
-        "id": "M5650_S0020_G0020_300_sele",
-        "jp": "今は忙しい",
-        "en": "Reject the offer.",
-        "ru": "Отклонить предложение."
-    },
-    {
-        "id": "M5650_S0020_G0030_300_resiman",
-        "jp": "よろしくね！",
-        "en": "Great. Thanks a million!",
-        "ru": "Отлично. Огромное спасибо!"
-    },
-    {
-        "id": "M5650_S0010_G0030_001_resiman",
-        "jp": "ううん……まいったな。どうしようか……",
-        "en": "I'm really in a bind here. What am I going to do?",
-        "ru": "Я действительно в безвыходном положении. Что же мне делать?"
-    },
-    {
         "id": "M5650_S0020_G0040_300_pod042",
         "jp": "提案：一度外に出て気分転換を行う",
         "en": "Proposal: Taking a break from this activity may lead to greater mental acuity.",
@@ -172,18 +136,6 @@
         "jp": "提案：外に出て依頼主に荷物を届ける",
         "en": "Proposal: Head outside to deliver the goods to the client.",
         "ru": "Предложение: отправляйтесь наружу, чтобы отдать груз клиенту."
-    },
-    {
-        "id": "M5650_S0020_G0060_300_sele",
-        "jp": "外に出る",
-        "en": "Go outside.",
-        "ru": "Выйти наружу."
-    },
-    {
-        "id": "M5650_S0020_G0070_300_sele",
-        "jp": "作業を続ける",
-        "en": "Keep working.",
-        "ru": "Продолжить работать."
     },
     {
         "id": "M5651_S0020_G0020_001_pod042",

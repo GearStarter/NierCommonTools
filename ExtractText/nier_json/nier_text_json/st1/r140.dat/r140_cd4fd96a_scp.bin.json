@@ -192,96 +192,6 @@
         "ru": "Хорошо! Та-а-ак... Я желаю жить счастливо со всеми в деревне, вечно!"
     },
     {
-        "id": "M5221_S0030_G0130_001_robochild",
-        "jp": "アリガトウネ！",
-        "en": "It's a thank-you present!",
-        "ru": "Это подарок в благодарность!"
-    },
-    {
-        "id": "M5221_S0000_G0020_300_robochild",
-        "jp": "オモチャタノシー！",
-        "en": "This is sooo fuuuun!",
-        "ru": "Это та-а-ак ве-е-есело!"
-    },
-    {
-        "id": "M6050_S0010_G0230_300_villager",
-        "jp": "ああ、<SARU_JAN>さん……",
-        "en": "Ah, <SARU_JAN>...",
-        "ru": "Ах, <SARU_JAN>..."
-    },
-    {
-        "id": "M6050_S0010_G0550_300_villager",
-        "jp": "我々が争うことに意味はありません。",
-        "en": "There is no meaning in war.",
-        "ru": "В войне нет смысла."
-    },
-    {
-        "id": "M6050_S0010_G0560_300_villager",
-        "jp": "<SARU_JAN>の言う通りです。",
-        "en": "<SARU_JAN>'s right.",
-        "ru": "<SARU_JAN> прав."
-    },
-    {
-        "id": "M5802_S0010_G0230_001_robomother",
-        "jp": "ああっ……なんて立派なコトを言うヨウニなったのカシラ……",
-        "en": "Will you listen to my darling boy? He has a goal now! How wonderful!",
-        "ru": "Вы слышали моего дорогого мальчика? Теперь у него есть цель! Как чудесно!"
-    },
-    {
-        "id": "M5802_S0010_G0240_001_robomother",
-        "jp": "これも貴方のおかげです。ありがとうございました！",
-        "en": "And it's all thanks to you!",
-        "ru": "И это всё благодаря вам!"
-    },
-    {
-        "id": "M6050_S0010_G2600_300_papa",
-        "jp": "大変ダ、タイヘンダ。",
-        "en": "This is bad. This is really bad...",
-        "ru": "Это плохо. Это действительно плохо..."
-    },
-    {
-        "id": "M5803_S0010_G0010_001_robomother",
-        "jp": "ウウ……私はどうしタラよいのでショウカ……",
-        "en": "Rrrrgh! What am I supposed to DO!?",
-        "ru": "Р-р-р-р-р! И что же мне ДЕЛАТЬ?!"
-    },
-    {
-        "id": "M6050_S0010_G2930_300_villager",
-        "jp": "私たちの村へヨウコソ。",
-        "en": "Welcome to our village!",
-        "ru": "Добро пожаловать в нашу деревню!"
-    },
-    {
-        "id": "M6050_S0010_G2970_300_villager",
-        "jp": "何かゴヨウがあれば言ってくださいネ。",
-        "en": "Let me know if I can help you with anything.",
-        "ru": "Дайте мне знать, если я могу чем-то помочь."
-    },
-    {
-        "id": "M6050_S0010_G2960_300_villager",
-        "jp": "コンニチワ。\\n今日もイイ天気デスネ。",
-        "en": "Hello. Nice day we're having!",
-        "ru": "Привет. Хорошего дня!"
-    },
-    {
-        "id": "M5250_S0010_G0360_001_robostrange",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
-    },
-    {
-        "id": "M5110_S0010_G0005_300_sister",
-        "jp": "……妹は砂漠で見つかったソウデス",
-        "en": "I heard my sister was...found in the desert.",
-        "ru": "Я слышала, моя сестра была... найдена в пустыне."
-    },
-    {
-        "id": "M5110_S0010_G0006_300_sister",
-        "jp": "ワタシより先に動かなくナッテしまうナンテ……",
-        "en": "I can't believe she's no longer functioning while I'm still here...",
-        "ru": "Не могу поверить, что она больше не функционирует, в то время как я всё ещё здесь..."
-    },
-    {
         "id": "M6050_S0010_G3120_300_villager",
         "jp": "一人で遊んでも、ヤッパリ楽しくないネ。",
         "en": "It's no fun playing on your own.",
@@ -360,18 +270,6 @@
         "ru": "Если придется, то я даже буду сражаться, чтобы защитить моих друзей из деревни."
     },
     {
-        "id": "M5520_S0020_G0030_001_pascal",
-        "jp": "素晴らしい！こんな貴重な情報、ありがとうございます……",
-        "en": "Superb! Thank you for this valuable information.",
-        "ru": "Великолепно! Спасибо за эту ценную информацию."
-    },
-    {
-        "id": "M5520_S0020_G0040_001_pascal",
-        "jp": "こちらお礼となります。どうか受け取ってください。",
-        "en": "Please take this as a reward.",
-        "ru": "Прошу, примите это в качестве награды."
-    },
-    {
         "id": "M6050_S0010_G2080_300_pascal",
         "jp": "遥か上空で大きな爆発を観測しました。",
         "en": "I saw a huge explosion far off in the sky.",
@@ -394,36 +292,6 @@
         "jp": "ご自分の村だと思って、ゆっくりしていってくださいね。",
         "en": "Please make yourself at home.",
         "ru": "Прошу, чувствуйте себя как дома."
-    },
-    {
-        "id": "M6050_S0010_G2080_300_pascal",
-        "jp": "遥か上空で大きな爆発を観測しました。",
-        "en": "I saw a huge explosion far off in the sky.",
-        "ru": "Я видел огромный взрыв далеко в небе."
-    },
-    {
-        "id": "M6050_S0010_G2090_300_pascal",
-        "jp": "もしやとは思ったのですが……\\n貴方達ゆかりの場所でしたか。",
-        "en": "Forgive my intrusion, but...was it something connected with you?",
-        "ru": "Простите мне моё любопытство, но... это как-то связано с вами?"
-    },
-    {
-        "id": "M6050_S0010_G2100_300_pascal",
-        "jp": "この村が代わりを果たせるとは思いませんが、\\n私たちはいつでもあなたたちを歓迎します。",
-        "en": "I realize this village could never replace your home, but please know that you are always welcome here.",
-        "ru": "Я понимаю, что эта деревня никогда не сможет заменить вам дом, но знайте, что Вам всегда здесь рады."
-    },
-    {
-        "id": "M6050_S0010_G2110_300_pascal",
-        "jp": "ご自分の村だと思って、ゆっくりしていってくださいね。",
-        "en": "Please make yourself at home.",
-        "ru": "Прошу, чувствуйте себя как дома."
-    },
-    {
-        "id": "M6050_S0010_G1920_300_ps",
-        "jp": "好きなダケ見ていってクレ。",
-        "en": "Look around as much as you like.",
-        "ru": "Осматривайтесь вокруг столько, сколько захотите."
     },
     {
         "id": "M6050_S0010_G1930_300_ps",
@@ -454,46 +322,5 @@
         "jp": "マタ顔を出してクレ。",
         "en": "Come see me again.",
         "ru": "Приходите ко мне снова."
-    },
-    {
-        "id": "M1040_S0030_G0020_001_n02",
-        "jp": "ヤメテ！殺さなイデ！",
-        "en": "Stop! Do not kill!",
-        "ru": "Стой! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/846.wav"
-    },
-    {
-        "id": "M1040_S0030_G0030_001_n02",
-        "jp": "戦わない！戦ワナい！",
-        "en": "No fighting! No fighting!",
-        "ru": "Не дерись! Не дерись!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/847.wav"
-    },
-    {
-        "id": "M1040_S0030_G0040_001_n02",
-        "jp": "殺さナイデ！殺さナイで！",
-        "en": "Don't kill! Don't kill!",
-        "ru": "Не убивай! Не убивай!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/848.wav"
-    },
-    {
-        "id": "M1040_S0030_G0050_001_n02",
-        "jp": "悪イコトしてない……！",
-        "en": "We have done nothing bad!",
-        "ru": "Мы не делали ничего плохого!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/849.wav"
-    },
-    {
-        "id": "M1040_S0030_G0060_001_n02",
-        "jp": "ごメンナさい！ゴメンなさい！",
-        "en": "I'm sorry! I'm sorry!",
-        "ru": "Прости! Прости!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/850.wav"
-    },
-    {
-        "id": "M3060_S0036_G0050_001_a9s",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
     }
 ]

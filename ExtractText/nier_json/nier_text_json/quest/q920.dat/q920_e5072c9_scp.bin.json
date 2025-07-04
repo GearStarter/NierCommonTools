@@ -87,25 +87,5 @@
         "en": "So be it. You'll be a pile of ash by the time I'm done with you!",
         "ru": "Так и быть. Вы обратитесь в пепел, после того как я с вами закончу!",
         "en_voice": "stream/English(US)/vo_plffff_0_001/1089.wav"
-    },
-    {
-        "id": "M5920_S0080_G0200_001_eml",
-        "jp": "僕の負けです……残酷な実力社会です……",
-        "en": "I lost... I guess power's the only thing that counts in this world anymore, huh?",
-        "ru": "Я проиграл... Полагаю, сила — единственная вещь, с которой считаются в этом мире, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1090.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/1172.wav"
-    },
-    {
-        "id": "M5920_S0080_G0210_001_eml",
-        "jp": "ここは自由に使って下さい……",
-        "en": "Well, go ahead and use this room for whatever you like.\\nI don't mind.",
-        "ru": "Тогда, используйте эту комнату как пожелаете. Я не против."
-    },
-    {
-        "id": "M5920_S0080_G0170_001_eml",
-        "jp": "ふふふふふっ……正義は勝つのです！",
-        "en": "Hee hee hee heeeee! Justice prevails!",
-        "ru": "Хи-хи-хи-хи! Справедливость восторжествует!"
     }
 ]

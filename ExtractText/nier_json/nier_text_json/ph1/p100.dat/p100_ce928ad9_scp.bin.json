@@ -70,52 +70,5 @@
         "en": "Got it.",
         "ru": "Поняла.",
         "en_voice": "stream/English(US)/vo_plffff_2_000/33.wav"
-    },
-    {
-        "id": "M0010_S0795_S0000_001_a2b",
-        "jp": "制御システムを奪う！",
-        "en": "Seize its control system!",
-        "ru": "Осуществить захват контроля!",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/32.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/32.wav"
-    },
-    {
-        "id": "M0010_S0795_S0010_001_pod042",
-        "jp": "了解。",
-        "en": "Affirmative.",
-        "ru": "Подтверждаю.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/98.wav"
-    },
-    {
-        "id": "M0010_S0795_S0020_001_pod042",
-        "jp": "敵サブユニット侵入。",
-        "en": "Infiltrating enemy sub-unit.",
-        "ru": "Внедряюсь в узел противника.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/99.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/99.wav"
-    },
-    {
-        "id": "M0010_S0795_S0030_001_pod042",
-        "jp": "挙動テーブル変更終了。",
-        "en": "Behavior table adjusted.",
-        "ru": "Управление переписано.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/100.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/100.wav"
-    },
-    {
-        "id": "M0010_S0795_S0040_001_pod042",
-        "jp": "姿勢制御バーニアコントロール。",
-        "en": "Balance controls overridden.",
-        "ru": "Баланс перераспределён.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/101.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/101.wav"
-    },
-    {
-        "id": "M0010_S0795_S0050_001_pod042",
-        "jp": "敵兵器の従属化を完了。",
-        "en": "Enemy unit subjugation complete.",
-        "ru": "Захват вражеского узла завершён.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/102.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/102.wav"
     }
 ]

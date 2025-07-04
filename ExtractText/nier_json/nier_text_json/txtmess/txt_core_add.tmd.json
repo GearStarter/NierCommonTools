@@ -3711,36 +3711,6 @@
         "ru": "Вернуться в главное меню без сохранения?"
     },
     {
-        "id": "CORE_ITEM_NAME_000",
-        "jp": "回復薬：小",
-        "en": "Small Recovery",
-        "ru": "Малое лечение"
-    },
-    {
-        "id": "CORE_ITEM_NAME_001",
-        "jp": "回復薬：中",
-        "en": "Medium Recovery",
-        "ru": "Среднее лечение"
-    },
-    {
-        "id": "CORE_ITEM_NAME_002",
-        "jp": "回復薬：大",
-        "en": "Large Recovery",
-        "ru": "Большое лечение"
-    },
-    {
-        "id": "CORE_ITEM_NAME_003",
-        "jp": "回復薬：全",
-        "en": "Full Recovery",
-        "ru": "Полное лечение"
-    },
-    {
-        "id": "CORE_ITEM_NAME_050",
-        "jp": "耐電薬",
-        "en": "Volt-Proof Salve",
-        "ru": "Крем-диэлектрик"
-    },
-    {
         "id": "CORE_ITEM_NAME_060",
         "jp": "状態異常回復：視覚",
         "en": "Visual Cure",
@@ -3771,12 +3741,6 @@
         "ru": "Полный ремонт"
     },
     {
-        "id": "CORE_ITEM_NAME_100",
-        "jp": "物理攻撃力UP：小",
-        "en": "Melee Attack Up (S)",
-        "ru": "Урон (оружие) +"
-    },
-    {
         "id": "CORE_ITEM_NAME_102",
         "jp": "物理攻撃力UP：大",
         "en": "Melee Attack Up (L)",
@@ -3793,12 +3757,6 @@
         "jp": "射撃攻撃力UP：大",
         "en": "Ranged Attack Up (L)",
         "ru": "Урон (Бот) ++"
-    },
-    {
-        "id": "CORE_ITEM_NAME_120",
-        "jp": "物理ダメージ軽減：小",
-        "en": "Melee Defense Up (S)",
-        "ru": "Защита (удар) +"
     },
     {
         "id": "CORE_ITEM_NAME_122",
@@ -3927,22 +3885,10 @@
         "ru": "Новенький винт"
     },
     {
-        "id": "CORE_ITEM_NAME_525",
-        "jp": "小さな歯車",
-        "en": "Small Gear",
-        "ru": "Маленькая шестерня"
-    },
-    {
         "id": "CORE_ITEM_NAME_526",
         "jp": "大きな歯車",
         "en": "Large Gear",
         "ru": "Большая шестерня"
-    },
-    {
-        "id": "CORE_ITEM_NAME_530",
-        "jp": "錆びた塊",
-        "en": "Rusted Clump",
-        "ru": "Ржавая глыба"
     },
     {
         "id": "CORE_ITEM_NAME_531",
@@ -3951,22 +3897,10 @@
         "ru": "Осколок метеорита"
     },
     {
-        "id": "CORE_ITEM_NAME_535",
-        "jp": "チタン合金",
-        "en": "Titanium Alloy",
-        "ru": "Титановый сплав"
-    },
-    {
         "id": "CORE_ITEM_NAME_536",
         "jp": "形状記憶合金",
         "en": "Memory Alloy",
         "ru": "Особый сплав"
-    },
-    {
-        "id": "CORE_ITEM_NAME_540",
-        "jp": "壊れたゼンマイ",
-        "en": "Broken Key",
-        "ru": "Сломанный ключ"
     },
     {
         "id": "CORE_ITEM_NAME_545",
@@ -4071,36 +4005,6 @@
         "ru": "Пустой чип"
     },
     {
-        "id": "CORE_ITEM_NAME_600",
-        "jp": "銅鉱",
-        "en": "Copper Ore",
-        "ru": "Медная руда"
-    },
-    {
-        "id": "CORE_ITEM_NAME_601",
-        "jp": "鉄鉱",
-        "en": "Iron Ore",
-        "ru": "Железная руда"
-    },
-    {
-        "id": "CORE_ITEM_NAME_602",
-        "jp": "銀鉱",
-        "en": "Silver Ore",
-        "ru": "Серебряная руда"
-    },
-    {
-        "id": "CORE_ITEM_NAME_603",
-        "jp": "金鉱",
-        "en": "Gold Ore",
-        "ru": "Золотая руда"
-    },
-    {
-        "id": "CORE_ITEM_NAME_610",
-        "jp": "凹んだ金属板",
-        "en": "Dented Plate",
-        "ru": "Погнутая пластина"
-    },
-    {
         "id": "CORE_ITEM_NAME_621",
         "jp": "植物の種",
         "en": "Plant Seed",
@@ -4143,22 +4047,10 @@
         "ru": "Разорванная книга"
     },
     {
-        "id": "CORE_ITEM_NAME_628",
-        "jp": "機械油",
-        "en": "Machine Oil",
-        "ru": "Машинное масло"
-    },
-    {
         "id": "CORE_ITEM_NAME_629",
         "jp": "なめし剤",
         "en": "Tanning Agent",
         "ru": "Дубильное вещество"
-    },
-    {
-        "id": "CORE_ITEM_NAME_630",
-        "jp": "溶加材",
-        "en": "Filler Metal",
-        "ru": "Присадочный металл"
     },
     {
         "id": "CORE_ITEM_NAME_631",
@@ -4171,24 +4063,6 @@
         "jp": "パイライト",
         "en": "Pyrite",
         "ru": "Пирит"
-    },
-    {
-        "id": "CORE_ITEM_NAME_633",
-        "jp": "アンバー",
-        "en": "Amber",
-        "ru": "Янтарь"
-    },
-    {
-        "id": "CORE_ITEM_NAME_634",
-        "jp": "天然ゴム",
-        "en": "Natural Rubber",
-        "ru": "Натуральный каучук"
-    },
-    {
-        "id": "CORE_ITEM_NAME_635",
-        "jp": "錆びたボルト",
-        "en": "Rusty Bolt",
-        "ru": "Ржавый болт"
     },
     {
         "id": "CORE_ITEM_NAME_636",
@@ -4249,19 +4123,6 @@
         "jp": "凹んだソケット",
         "en": "Dented Socket",
         "ru": "Смятое гнездо"
-    },
-    {
-        "id": "CORE_ITEM_NAME_646",
-        "jp": "壊れた回路",
-        "en": "Broken Circuit",
-        "ru": "Сломанная схема"
-    },
-    {
-        "id": "CORE_ITEM_NAME_680",
-        "jp": "水晶",
-        "en": "Crystal",
-        "ru": "Кристалл",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/611.wav"
     },
     {
         "id": "CORE_ITEM_NAME_681",

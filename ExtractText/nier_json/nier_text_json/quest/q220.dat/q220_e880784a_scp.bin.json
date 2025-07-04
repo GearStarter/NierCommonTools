@@ -97,19 +97,6 @@
         "ru": "Ты убьёшь машину, которая нападает на детишек, когда они играют?"
     },
     {
-        "id": "M5220_S0010_G0090_001_sele",
-        "jp": "引き受ける。",
-        "en": "Agree to help.",
-        "ru": "Согласиться помочь."
-    },
-    {
-        "id": "M5220_S0010_G0100_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
         "id": "M5220_S0010_G0160_001_pascal",
         "jp": "子供たちの遊び場で暴れるロボットを退治してください。",
         "en": "Please slay the terrible machine that attacks our children while they play.",

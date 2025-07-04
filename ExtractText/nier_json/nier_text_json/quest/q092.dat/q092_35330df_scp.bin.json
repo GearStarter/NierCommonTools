@@ -97,24 +97,6 @@
         "ru": "В настоящий момент, самое большое число врагов, побеждённых вами в особом испытании на сложности <difficulty>: <m_count>."
     },
     {
-        "id": "M5092_S0010_G0100_001_robomaskrece",
-        "jp": "試練に挑戦してみるか？",
-        "en": "Do you wish to challenge the trials?",
-        "ru": "Желаете подвергнуться испытанию?"
-    },
-    {
-        "id": "M5092_S0020_G0010_001_sele",
-        "jp": "はい。",
-        "en": "Indeed.",
-        "ru": "Разумеется."
-    },
-    {
-        "id": "M5092_S0020_G0020_001_sele",
-        "jp": "いいえ。",
-        "en": "Not really.",
-        "ru": "Не совсем."
-    },
-    {
         "id": "M5092_S0055_G0010_001_robomaskrece",
         "jp": "我らが王よ、新たな試練を用意しておいた。",
         "en": "We prepared a special new trial for you, your Highness!",
@@ -241,25 +223,6 @@
         "ru": "Правила помогают нам справляться с трудностями. Таким образом, мы продолжаем расширять их, чтобы всем облегчить повседневную жизнь."
     },
     {
-        "id": "M5092_S0030_G0070_001_robomaskmode",
-        "jp": "始めッ！",
-        "en": "Begin!",
-        "ru": "Начали!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
-    },
-    {
-        "id": "M5092_S0030_G0080_001_robomaskmode",
-        "jp": "掟６１４４４に従い、試練を終了とシマス。",
-        "en": "Per Rule 61,444, I declare the trial to be complete.",
-        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
-    },
-    {
         "id": "M5092_S0030_G0140_001_robomaskmode",
         "jp": "掟６２１１７：試練は「三分以内に終わるベシ」。",
         "en": "Rule 62,117: The trial must end within 3 minutes!",
@@ -305,25 +268,6 @@
         "ru": "Мы должны добывать маски из прошлого и продолжать расширять наши правила."
     },
     {
-        "id": "M5092_S0030_G0070_001_robomaskmode",
-        "jp": "始めッ！",
-        "en": "Begin!",
-        "ru": "Начали!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
-    },
-    {
-        "id": "M5092_S0030_G0080_001_robomaskmode",
-        "jp": "掟６１４４４に従い、試練を終了とシマス。",
-        "en": "Per Rule 61,444, I declare the trial to be complete.",
-        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
-    },
-    {
         "id": "M5092_S0030_G0190_001_robomaskmode",
         "jp": "掟５４９３：「闇の中で己を見失ってはナラナイ」……",
         "en": "Rule 5,493: Do not lose sight of yourself in the darkness...",
@@ -367,25 +311,6 @@
         "ru": "Не важно, в какую эпоху вы живёте, жизнь — это вечная борьба."
     },
     {
-        "id": "M5092_S0030_G0070_001_robomaskmode",
-        "jp": "始めッ！",
-        "en": "Begin!",
-        "ru": "Начали!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
-    },
-    {
-        "id": "M5092_S0030_G0080_001_robomaskmode",
-        "jp": "掟６１４４４に従い、試練を終了とシマス。",
-        "en": "Per Rule 61,444, I declare the trial to be complete.",
-        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
-    },
-    {
         "id": "M5092_S0030_G0250_001_robomaskmode",
         "jp": "掟５４９４：「地に足を付いてはならない」。",
         "en": "Rule 5,494: Do not let your feet touch the ground.",
@@ -421,25 +346,6 @@
         "jp": "我らでさえこれなのだから、昔の人の苦労はいかばかりか……",
         "en": "Think, then, how our great ancestors must have felt. Think how terrible it must have been for them.",
         "ru": "Интересно, как тогда должны были чувствовать себя наши великие предки. Как, должно быть, ужасно это было для них."
-    },
-    {
-        "id": "M5092_S0030_G0070_001_robomaskmode",
-        "jp": "始めッ！",
-        "en": "Begin!",
-        "ru": "Начали!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
-    },
-    {
-        "id": "M5092_S0030_G0080_001_robomaskmode",
-        "jp": "掟６１４４４に従い、試練を終了とシマス。",
-        "en": "Per Rule 61,444, I declare the trial to be complete.",
-        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
     },
     {
         "id": "M5092_S0030_G0310_001_robomaskmode",
@@ -539,25 +445,6 @@
         "jp": "この地にあった国は、最後は自分達で作った掟によって滅びたらしいのでな……",
         "en": "For it is said that the people of this land met their end at the hands of their own rules...",
         "ru": "Ибо сказано, что люди этой земли встретили свой конец из-за собственных правил..."
-    },
-    {
-        "id": "M5092_S0030_G0070_001_robomaskmode",
-        "jp": "始めッ！",
-        "en": "Begin!",
-        "ru": "Начали!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/172.wav"
-    },
-    {
-        "id": "M5092_S0030_G0080_001_robomaskmode",
-        "jp": "掟６１４４４に従い、試練を終了とシマス。",
-        "en": "Per Rule 61,444, I declare the trial to be complete.",
-        "ru": "Согласно правилу 61444, я объявляю испытание завершённым."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
     },
     {
         "id": "M5092_S0060_G0000_001_robomaskmode",
@@ -705,46 +592,15 @@
         "ru": "Какая жалость. В соответствии правилу 61891, я предлагаю вам снова пройти испытание."
     },
     {
-        "id": "M5092_S0030_G0010_300_robomaskmode",
-        "jp": "掟６１４４６に従い、試練失敗とする。",
-        "en": "In accordance with Rule 61,446, I hereby declare you to have failed the trial.",
-        "ru": "Таким образом, в соответствии с правилом 61446, я объявляю о том, что вы провалили испытание.",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/170.wav"
-    },
-    {
-        "id": "M5092_S0060_G0025_001_robomaskrece",
-        "jp": "今の試練で我らが王は<_count>体の機械生命体を撃破した。",
-        "en": "In this trial, you defeated this many enemies: <_count>.",
-        "ru": "Количество врагов, которых вы одолели в этом испытании: <_count>."
-    },
-    {
         "id": "M5092_S0060_G0040_001_robomaskrece",
         "jp": "我らが王よ。またの挑戦を待っている。",
         "en": "We look forward to seeing you again, your Majesty!",
         "ru": "Ваше Величество, мы с нетерпением ждём нашей следующей встречи."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
     },
     {
         "id": "M5092_S0060_G0035_001_robomaskrece",
         "jp": "この仮面は勇者のみに許される束縛の証……",
         "en": "This mask is a symbol of restraint that only worthy heroes may wear.",
         "ru": "Эта маска — символ самообладания, который могут носить только достойные герои."
-    },
-    {
-        "id": "M5092_S0060_G0040_001_robomaskrece",
-        "jp": "我らが王よ。またの挑戦を待っている。",
-        "en": "We look forward to seeing you again, your Majesty!",
-        "ru": "Ваше Величество, мы с нетерпением ждём нашей следующей встречи."
-    },
-    {
-        "id": "M5092_S0060_G0030_001_robomaskrece",
-        "jp": "掟６９８３４に従い、報酬を与えよう。",
-        "en": "In accordance with Rule 69,834, I shall now grant you your reward.",
-        "ru": "В соответствии с правилом 69834, сейчас я вручу вам награду."
     }
 ]

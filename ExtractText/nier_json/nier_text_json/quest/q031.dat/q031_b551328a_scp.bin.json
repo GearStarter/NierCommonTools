@@ -93,12 +93,6 @@
         "ru": "Бот, отыщи местоположение подходящих противников."
     },
     {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
         "id": "M5920_S0020_G0280_001_pod153",
         "jp": "目標地点の情報を入手。マップにマーク。",
         "en": "Target location data obtained. Marking on map.",
@@ -237,18 +231,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_000/526.wav"
     },
     {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
         "id": "M5031_S0020_G0000_300_a2b",
         "jp": "中々素材が集まらない……",
         "en": "We can't seem to locate the required material.",
@@ -262,13 +244,6 @@
         "ru": "Может, стоит спросить у оператора?",
         "en_voice": "stream/English(US)/vo_plffff_0_000/1919.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/46.wav"
-    },
-    {
-        "id": "M5031_S0020_G0070_300_a2b",
-        "jp": "……中々素材が集まらない。",
-        "en": "Finding this stuff is proving tougher than I'd hoped.",
-        "ru": "Найти этот материал оказалось сложнее, чем я представлял.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/811.wav"
     },
     {
         "id": "M5540_S0030_G0400_001_op210",

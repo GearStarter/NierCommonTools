@@ -34,40 +34,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_003/928.wav"
     },
     {
-        "id": "M1050_S0195_S0134_201_n02",
-        "jp": "この先には行かせぬ！",
-        "en": "You will go no further!",
-        "ru": "Дальше вы не пройдёте!"
-    },
-    {
-        "id": "M1050_S0195_S0135_201_n02",
-        "jp": "王をお守りするのだ！その為なら命など惜しくはない！",
-        "en": "We will protect the king with our very lives!",
-        "ru": "Мы защитим Короля даже ценой жизни!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/925.wav"
-    },
-    {
-        "id": "M1050_S0195_S0136_201_n02",
-        "jp": "絶対に通すなっ！！",
-        "en": "Don't give them a single inch!",
-        "ru": "Не дайте им продвинуться ни на дюйм!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/926.wav"
-    },
-    {
-        "id": "M1050_S0195_S0137_201_n02",
-        "jp": "王様バンザーイ！",
-        "en": "All hail the king!",
-        "ru": "Да здравствует Король!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/927.wav"
-    },
-    {
-        "id": "M1050_S0195_S0138_201_n02",
-        "jp": "ここは我らの国だ！我らの愛する場所なのだ！",
-        "en": "This is our beloved nation!",
-        "ru": "Вот он, наш любимый народ!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/928.wav"
-    },
-    {
         "id": "M1050_S0210_G0000_001_a9s",
         "jp": "２Ｂ！あれ……アンドロイドだよ！",
         "en": "2B! That's...an android!",
@@ -397,13 +363,6 @@
         "en": "Please pass through.",
         "ru": "Прошу, проходите.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/943.wav"
-    },
-    {
-        "id": "M1050_S0230_G0100_300_n02",
-        "jp": "ワタシハココデミハリヲツヅケマス。",
-        "en": "We will continue to stand guard.",
-        "ru": "Мы продолжим охранять вход.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/944.wav"
     },
     {
         "id": "M1050_S0230_G0100_300_n02",

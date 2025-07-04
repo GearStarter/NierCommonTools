@@ -156,12 +156,6 @@
         "ru": "Вы ранены? Почему бы вам немного не передохнуть?"
     },
     {
-        "id": "M6090_S0010_G0000_300_ane",
-        "jp": "調子はどうだ？\\nあまり無茶するなよ。",
-        "en": "How's it going? You hanging in there?",
-        "ru": "Как дела? Скучаете?"
-    },
-    {
         "id": "M6090_S0010_G0010_300_ane",
         "jp": "もし手が空いていたら、困ってるやつを助けてやってほしい。",
         "en": "If you're bored, there are plenty of people here who could use your help.",
@@ -174,178 +168,16 @@
         "ru": "Вам что-нибудь нужно?"
     },
     {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
         "id": "M6090_S0020_G0040_300_kj",
         "jp": "また来いよ！",
         "en": "Come again!",
         "ru": "Приходите ещё!"
-    },
-    {
-        "id": "M5770_S0030_G0111_001_a2b",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
-        "en": "Hey, so where do you get these older weapon models from?",
-        "ru": "Эй, так где вы получаете эти старые модели оружия?"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0112_001_a2",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているんだ？",
-        "en": "So where do all these older weapon models come from, huh?",
-        "ru": "Так откуда все эти модели старого оружия, а?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
     },
     {
         "id": "M6090_S0030_G0020_300_kj",
         "jp": "大変だったな……武器がいるんだろ？\\nゆっくり見て行ってくれ。",
         "en": "It sounds rough out there, so I bet you need weapons, right? Take your time and look around.",
         "ru": "Похоже, снаружи непростая обстановка, я уверен, что вам нужно оружие, верно? Не торопитесь и осмотритесь."
-    },
-    {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
-        "id": "M6090_S0020_G0040_300_kj",
-        "jp": "また来いよ！",
-        "en": "Come again!",
-        "ru": "Приходите ещё!"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
     },
     {
         "id": "M6090_S0030_G0021_300_kj",
@@ -366,172 +198,10 @@
         "ru": "Оружие YoRHa сохраняет внешние воспоминания тех, кто использовал его. Пожалуйста, хорошо заботьтесь о... ней."
     },
     {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
-        "id": "M6090_S0020_G0040_300_kj",
-        "jp": "また来いよ！",
-        "en": "Come again!",
-        "ru": "Приходите ещё!"
-    },
-    {
-        "id": "M5770_S0030_G0112_001_a2",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているんだ？",
-        "en": "So where do all these older weapon models come from, huh?",
-        "ru": "Так откуда все эти модели старого оружия, а?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
-    },
-    {
         "id": "M6090_S0020_G0020_300_kj",
         "jp": "色々大変だが、戦うにはまず攻撃力が重要だ。\\n武器の整備はちゃんとしておけよ。",
         "en": "It's been tough lately, but it's important to get rest. Make sure you keep your weapons in good order, too.",
         "ru": "В последнее время было непросто, и отдых тоже важен. Кроме того, обязательно поддерживайте своё оружие в хорошем состоянии."
-    },
-    {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
-        "id": "M6090_S0020_G0040_300_kj",
-        "jp": "また来いよ！",
-        "en": "Come again!",
-        "ru": "Приходите ещё!"
-    },
-    {
-        "id": "M5770_S0030_G0111_001_a2b",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
-        "en": "Hey, so where do you get these older weapon models from?",
-        "ru": "Эй, так где вы получаете эти старые модели оружия?"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
     },
     {
         "id": "M6090_S0020_G0030_300_kj",
@@ -540,268 +210,22 @@
         "ru": "О, вам нужно оружие?"
     },
     {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
-        "id": "M6090_S0020_G0040_300_kj",
-        "jp": "また来いよ！",
-        "en": "Come again!",
-        "ru": "Приходите ещё!"
-    },
-    {
-        "id": "M5770_S0030_G0111_001_a2b",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
-        "en": "Hey, so where do you get these older weapon models from?",
-        "ru": "Эй, так где вы получаете эти старые модели оружия?"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
-    },
-    {
         "id": "M6090_S0010_G0020_300_kj",
         "jp": "やあ。\\n武器の整備ならいつでも任せてくれ。",
         "en": "Hey there! I'm here for all your weapon-related needs.",
         "ru": "Привет! Я занимаюсь любыми вопросами, связанными с оружием."
     },
     {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
         "id": "M6090_S0010_G0040_300_kj",
         "jp": "また来いよ！",
         "en": "Don't be a stranger!",
         "ru": "Заглядывайте почаще!"
-    },
-    {
-        "id": "M5770_S0030_G0111_001_a2b",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
-        "en": "Hey, so where do you get these older weapon models from?",
-        "ru": "Эй, так где вы получаете эти старые модели оружия?"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
     },
     {
         "id": "M6090_S0010_G0030_300_kj",
         "jp": "武器が必要か？",
         "en": "Do you need weapons?",
         "ru": "Вам нужно оружие?"
-    },
-    {
-        "id": "M6090_S0030_G0041_300_kj",
-        "jp": "よし、これでこの武器は Lv.3 に鍛え上げた。",
-        "en": "Right-o! This weapon is now Level 3.",
-        "ru": "Да-а-а! Теперь это оружие 3-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0042_300_kj",
-        "jp": "ウチで出来るのはここまでだが……\\nこの世界には Lv.4 に鍛え上げる名工がいるらしい。",
-        "en": "That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.",
-        "ru": "Это всё, что я могу сделать здесь, но я слышал, что есть в мире ремесленник, который сможет улучшить оружие до 4-го уровня."
-    },
-    {
-        "id": "M6090_S0030_G0043_300_kj",
-        "jp": "そんなヤツがいたら師匠になってもらいたいもんだ。",
-        "en": "If I ever met someone like that, I'd want them to teach me all they knew!",
-        "ru": "Если встречу кого-то подобного, попрошу его научить меня всему, что он знает!"
-    },
-    {
-        "id": "M6090_S0010_G0040_300_kj",
-        "jp": "また来いよ！",
-        "en": "Don't be a stranger!",
-        "ru": "Заглядывайте почаще!"
-    },
-    {
-        "id": "M5770_S0030_G0111_001_a2b",
-        "jp": "そういえば、武器を作る為の原型素材はどうやって入荷しているの？",
-        "en": "Hey, so where do you get these older weapon models from?",
-        "ru": "Эй, так где вы получаете эти старые модели оружия?"
-    },
-    {
-        "id": "M5770_S0030_G0110_001_a9s",
-        "jp": "そういえば、武器を修理調整するにも原型になる武器が必要ですよね？\\nどうやって入荷してるんですか？",
-        "en": "Hey, so you craft new weapons from older models, right? But where do the older models come from?",
-        "ru": "Эй, так вы создаёте новое оружие из старых моделей, верно? Но откуда берутся старые модели?"
-    },
-    {
-        "id": "M5770_S0030_G0120_001_kj",
-        "jp": "ああ、この店の主人が送ってくるんだよ。",
-        "en": "Oh, the lady who owns the place sends 'em over every once in a while.",
-        "ru": "Ну, дамочка, управляющая этим местом, периодически отправляет мне его."
-    },
-    {
-        "id": "M5770_S0030_G0130_001_kj",
-        "jp": "『アコール』って女がここの経営者で、\\nオレは店番と整備を手伝っているだけなんだ。",
-        "en": "Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.",
-        "ru": "Её зовут Аккорд, и она владелица этого бизнеса. Я просто обслуживаю клиентов и поддерживаю ремонтные устройства в рабочем состоянии."
-    },
-    {
-        "id": "M5770_S0030_G0140_001_kj",
-        "jp": "経営者って言っても、何年かに一度フラッと戻ってくるくらいで、\\n普段は配送ドローンで武器だけ送ってくるんだ。",
-        "en": "I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.",
-        "ru": "Если честно, я вижу её только раз в несколько лет. Обычно она использует дронов для доставки товаров."
-    },
-    {
-        "id": "M5770_S0030_G0150_001_kj",
-        "jp": "どこで手に入れてくるのか知らないが、状態の良い武器が多いな。",
-        "en": "I don't know where she gets this stuff, but most of it's in pretty good condition!",
-        "ru": "Я не знаю, где она берёт все эти вещи, но большинство из них в довольно хорошем состоянии!"
-    },
-    {
-        "id": "M5770_S0030_G0160_001_kj",
-        "jp": "もし、出先で会う事があったら、よろしく言っておいてくれ。",
-        "en": "Say, if you ever happen to run into her, say hello from me, all right?",
-        "ru": "Если вы случайно столкнётесь с ней, передайте привет от меня, хорошо?"
-    },
-    {
-        "id": "M6090_S0030_G0011_300_kj",
-        "jp": "購入した武器はウチで強化する事も出来る。",
-        "en": "You can upgrade the weapons you buy here.",
-        "ru": "Здесь вы можете улучшить ваше оружие."
-    },
-    {
-        "id": "M6090_S0030_G0012_300_kj",
-        "jp": "金と強化素材が必要になるが、それに見合った強さにはなるぜ。\\nそれに武器によっては特殊能力が増えるモノもある。",
-        "en": "How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.",
-        "ru": "Чем больше денег и материалов вложите в оружие, тем сильнее оно станет. Некоторые улучшения также добавляют оружию различные полезные эффекты."
-    },
-    {
-        "id": "M6090_S0030_G0013_300_kj",
-        "jp": "気が向いたら試してくれ。",
-        "en": "Give it a try if you like.",
-        "ru": "Попробуйте, если хотите."
     },
     {
         "id": "M6090_S0030_G0050_300_toolshop",
@@ -822,12 +246,6 @@
         "ru": "Если вам что-то нужно, дайте мне знать."
     },
     {
-        "id": "M6090_S0030_G0070_300_toolshop",
-        "jp": "またのお越しを！",
-        "en": "Come back soon!",
-        "ru": "Возвращайтесь поскорее!"
-    },
-    {
         "id": "M6090_S0020_G0050_300_toolshop",
         "jp": "いらっしゃいませ。\\n良いものそろってるよ！",
         "en": "Welcome. We have loads of good stuff here!",
@@ -846,12 +264,6 @@
         "ru": "Вы что-то ищите?"
     },
     {
-        "id": "M6090_S0020_G0070_300_toolshop",
-        "jp": "またのお越しを！",
-        "en": "Come back soon!",
-        "ru": "Возвращайтесь поскорее!"
-    },
-    {
         "id": "M6090_S0010_G0050_300_toolshop",
         "jp": "いらっしゃいませ。\\n何か買っていくかい？",
         "en": "Welcome. What are you buying?",
@@ -868,12 +280,6 @@
         "jp": "何か買っていくかい？",
         "en": "What would you like to buy?",
         "ru": "Хотите что-то купить?"
-    },
-    {
-        "id": "M6090_S0010_G0070_300_toolshop",
-        "jp": "またのお越しを！",
-        "en": "Come back soon!",
-        "ru": "Возвращайтесь поскорее!"
     },
     {
         "id": "M6090_S0010_G0830_300_bs",
@@ -918,24 +324,6 @@
         "ru": "Требуется ли вам техобслуживание?"
     },
     {
-        "id": "M6090_S0010_G0900_300_sele",
-        "jp": "強化・合成を行う。",
-        "en": "Shop",
-        "ru": "Магазин"
-    },
-    {
-        "id": "M6090_S0010_G0910_300_sele",
-        "jp": "機体の相談をする。",
-        "en": "Ask for Advice",
-        "ru": "Спросить совета"
-    },
-    {
-        "id": "M6090_S0010_G0915_300_sele",
-        "jp": "とくにない。",
-        "en": "Never Mind",
-        "ru": "Не важно"
-    },
-    {
         "id": "M6090_S0010_G0920_300_bs",
         "jp": "何についてお話しましょうか？",
         "en": "What would you like advice on?",
@@ -970,12 +358,6 @@
         "jp": "３Ｄ酔いするんだけど……",
         "en": "Motion Sickness",
         "ru": "Раскачивание"
-    },
-    {
-        "id": "M6090_S0010_G0975_300_sele",
-        "jp": "戻る。",
-        "en": "Back",
-        "ru": "Назад"
     },
     {
         "id": "M6090_S0010_G0990_300_bs",
@@ -1055,30 +437,6 @@
         "jp": "調整しない。",
         "en": "Never Mind",
         "ru": "Не важно"
-    },
-    {
-        "id": "M6090_S0010_G1110_300_bs",
-        "jp": "わかりました。設定させていただきますね。",
-        "en": "Got it. I'll get you set up right away.",
-        "ru": "Поняла. Я произведу вашу настройку прямо сейчас."
-    },
-    {
-        "id": "M6090_S0010_G1120_300_bs",
-        "jp": "はい。完了しました。",
-        "en": "Okay, you're all set.",
-        "ru": "Хорошо, настройка завершена."
-    },
-    {
-        "id": "M6090_S0010_G1110_300_bs",
-        "jp": "わかりました。設定させていただきますね。",
-        "en": "Got it. I'll get you set up right away.",
-        "ru": "Поняла. Я произведу вашу настройку прямо сейчас."
-    },
-    {
-        "id": "M6090_S0010_G1120_300_bs",
-        "jp": "はい。完了しました。",
-        "en": "Okay, you're all set.",
-        "ru": "Хорошо, настройка завершена."
     },
     {
         "id": "M6090_S0010_G1110_300_bs",
@@ -1220,18 +578,6 @@
         "ru": "Так, всё сделано! Кое-что вы можете позже настроить самостоятельно, если хотите."
     },
     {
-        "id": "M6090_S0010_G1300_300_bs",
-        "jp": "わかりました。では、こちらでカメラを設定しますね。",
-        "en": "Okay, I'll adjust your camera settings.",
-        "ru": "Хорошо, я отрегулировала настройки камеры."
-    },
-    {
-        "id": "M6090_S0010_G1310_300_bs",
-        "jp": "調整終了です。細かい部分の調整はご自分でしてくださいね。",
-        "en": "There, all done! You can fine-tune things yourself later if you want.",
-        "ru": "Так, всё сделано! Кое-что вы можете позже настроить самостоятельно, если хотите."
-    },
-    {
         "id": "M6090_S0010_G1320_300_bs",
         "jp": "わかりました。",
         "en": "You're the boss.",
@@ -1274,28 +620,10 @@
         "ru": "В последнее время становится всё опаснее. Обязательно подготовьтесь."
     },
     {
-        "id": "M6090_S0030_G0320_300_dbl",
-        "jp": "気をつけてな。",
-        "en": "Take care.",
-        "ru": "Берегите себя."
-    },
-    {
         "id": "M6090_S0020_G0770_300_dbl",
         "jp": "いらっしゃい。\\n足りないものはないか？",
         "en": "Welcome. Is there anything you need?",
         "ru": "Добро пожаловать. Вам что-то нужно?"
-    },
-    {
-        "id": "M6090_S0020_G0790_300_dbl",
-        "jp": "がんばれよ。",
-        "en": "Good luck.",
-        "ru": "Удачи."
-    },
-    {
-        "id": "M6090_S0020_G0780_300_dbl",
-        "jp": "やあ、何か見ていくか？",
-        "en": "Are you looking for something?",
-        "ru": "Вы что-то ищите?"
     },
     {
         "id": "M6090_S0020_G0790_300_dbl",
@@ -1334,12 +662,6 @@
         "ru": "Будет нелегко, поэтому нам всем стоит подготовиться."
     },
     {
-        "id": "M6090_S0030_G0350_300_ppl",
-        "jp": "気をつけてね。",
-        "en": "Take care.",
-        "ru": "Берегите себя."
-    },
-    {
         "id": "M6090_S0020_G0800_300_ppl",
         "jp": "いらっしゃい。\\n足りないものはないかしら？",
         "en": "Welcome. Is there anything you need?",
@@ -1356,60 +678,6 @@
         "jp": "あら、何が必要かしら？",
         "en": "What do you need?",
         "ru": "Вам что-то нужно?"
-    },
-    {
-        "id": "M6090_S0020_G0820_300_ppl",
-        "jp": "応援してるわ。",
-        "en": "I'm rooting for you.",
-        "ru": "Я на вашей стороне."
-    },
-    {
-        "id": "M6090_S0030_G0330_300_ppl",
-        "jp": "おかえりなさい。\\n足りないものはないかしら？",
-        "en": "Welcome back. You need anything?",
-        "ru": "Добро пожаловать. Вам что-то нужно?"
-    },
-    {
-        "id": "M6090_S0030_G0350_300_ppl",
-        "jp": "気をつけてね。",
-        "en": "Take care.",
-        "ru": "Берегите себя."
-    },
-    {
-        "id": "M6090_S0030_G0340_300_ppl",
-        "jp": "大変だと思うけど……\\n準備はしっかりしないと。",
-        "en": "It's not going to be easy, so we've got to be prepared.",
-        "ru": "Будет нелегко, поэтому нам всем стоит подготовиться."
-    },
-    {
-        "id": "M6090_S0030_G0350_300_ppl",
-        "jp": "気をつけてね。",
-        "en": "Take care.",
-        "ru": "Берегите себя."
-    },
-    {
-        "id": "M6090_S0020_G0800_300_ppl",
-        "jp": "いらっしゃい。\\n足りないものはないかしら？",
-        "en": "Welcome. Is there anything you need?",
-        "ru": "Добро пожаловать. Вам что-то нужно?"
-    },
-    {
-        "id": "M6090_S0020_G0820_300_ppl",
-        "jp": "応援してるわ。",
-        "en": "I'm rooting for you.",
-        "ru": "Я на вашей стороне."
-    },
-    {
-        "id": "M6090_S0020_G0810_300_ppl",
-        "jp": "あら、何が必要かしら？",
-        "en": "What do you need?",
-        "ru": "Вам что-то нужно?"
-    },
-    {
-        "id": "M6090_S0020_G0820_300_ppl",
-        "jp": "応援してるわ。",
-        "en": "I'm rooting for you.",
-        "ru": "Я на вашей стороне."
     },
     {
         "id": "M6090_S0020_G0830_300_ys",
@@ -1476,47 +744,5 @@
         "jp": "穏やかな曲も癒されて好きなんだが、激しい曲も戦意が高まっていいよな。",
         "en": "I like calm songs because they're soothing, but intense songs get you ready to kick some tail!",
         "ru": "Мне нравятся спокойные песни, потому что они успокаивают. Динамичные же могут помочь взбодриться."
-    },
-    {
-        "id": "M6090_S0120_G0000_300_ys",
-        "jp": "音楽を聞くと落ち着くな……お前もそう思うだろ？",
-        "en": "It's so relaxing to listen to music...don't you agree?",
-        "ru": "Прослушивание музыки так расслабляет... Вы согласны?"
-    },
-    {
-        "id": "M6090_S0120_G0010_300_sele",
-        "jp": "思う",
-        "en": "Yep.",
-        "ru": "Ага."
-    },
-    {
-        "id": "M6090_S0120_G0020_300_sele",
-        "jp": "思わない",
-        "en": "Nope.",
-        "ru": "Не-а."
-    },
-    {
-        "id": "M6090_S0120_G0030_300_ys",
-        "jp": "お前とは話が合いそうだ。よし、これをやろう。",
-        "en": "I could tell you were a connoisseur just by looking at you! Here, have this.",
-        "ru": "Взглянув на вас, я с уверенностью могу сказать: вы — ценитель! Вот, взгляните."
-    },
-    {
-        "id": "M6090_S0120_G0040_300_ys",
-        "jp": "これは昔ジュークボックスと呼ばれていた箱で、音楽を再生する機械だ。",
-        "en": "This is what people used to call a \"jukebox,\" a machine that plays music.",
-        "ru": "Это то, что люди называли \"музыкальный проигрыватель\", машина, которая воспроизводит музыку."
-    },
-    {
-        "id": "M6090_S0120_G0050_300_ys",
-        "jp": "レコードがあれば好きな音楽を流せる。自由に使ってくれ。",
-        "en": "You can play any song you like on it, as long as you have the necessary records. It's yours to use!",
-        "ru": "Вы можете прослушать любую понравившуюся вам песню, если у вас есть аудиозапись. Он ваш, пользуйтесь!"
-    },
-    {
-        "id": "M6090_S0120_G0060_300_ys",
-        "jp": "そうか、残念だな。",
-        "en": "You don't? Hmm. That's too bad.",
-        "ru": "Вы не согласны? Хм. Это очень плохо."
     }
 ]

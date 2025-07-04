@@ -94,18 +94,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/923.wav"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M3060_S9000_G0200_001_pod042",
         "jp": "この選択肢を選ぶと、君は世界の誰かを救う事が出来る。",
         "en": "Selecting this option enables you to save someone somewhere in the world.",
@@ -124,18 +112,6 @@
         "jp": "それでも、見ず知らずの誰かを助けたいと願うか？",
         "en": "Do you still wish to rescue someone—a total stranger—in spite of this?",
         "ru": "Вы всё ещё желаете помочь кому-то абсолютно незнакомому в обмен на сохранения?"
-    },
-    {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
     },
     {
         "id": "M3060_S9000_G0230_001_pod042",
@@ -175,18 +151,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_002/994.wav"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M3060_S9000_G0280_001_pod042",
         "jp": "君が必死で解除したデバッグモードもチャプターセレクトも……",
         "en": "You worked so hard to unlock Debug Mode and Chapter Select...",
@@ -206,18 +170,6 @@
         "jp": "それでも、助けたいと願うか？",
         "en": "Do you...still wish to help?",
         "ru": "Вы... всё ещё желаете помочь?"
-    },
-    {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
     },
     {
         "id": "M3060_S9000_G0310_001_pod042",
@@ -242,34 +194,10 @@
         "ru": "Вы всё ещё желаете помочь?"
     },
     {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
-    },
-    {
         "id": "M3060_S9000_G0340_001_pod042",
         "jp": "本当に……本当にそれで良いのか？",
         "en": "And you are truly—TRULY—sure about this?",
         "ru": "Вы точно, ТОЧНО в этом уверены?"
-    },
-    {
-        "id": "M4100_S0000_G0000_300_sele",
-        "jp": "はい",
-        "en": "Yes",
-        "ru": "Да"
-    },
-    {
-        "id": "M4100_S0000_G0010_300_sele",
-        "jp": "いいえ",
-        "en": "No",
-        "ru": "Нет"
     },
     {
         "id": "M3060_S9000_G0350_001_pod042",
@@ -291,13 +219,6 @@
         "en": "I will convey your will to this world.",
         "ru": "Я исполню ваше желание в этом мире.",
         "en_voice": "stream/English(US)/vo_plffff_0_002/942.wav"
-    },
-    {
-        "id": "M3060_S9000_G0190_001_pod042",
-        "jp": "了解：タイトルに戻る。",
-        "en": "Understood. Returning to title screen.",
-        "ru": "Принято. Перемещаю в главное меню.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/924.wav"
     },
     {
         "id": "M3060_S9000_G0380_001_pod042",
@@ -360,12 +281,5 @@
         "jp": "本当にありがとうございました。",
         "en": "Thank you for playing.",
         "ru": "Благодарим вас за то, что играли."
-    },
-    {
-        "id": "M3060_S9000_G0190_001_pod042",
-        "jp": "了解：タイトルに戻る。",
-        "en": "Understood. Returning to title screen.",
-        "ru": "Принято. Перемещаю в главное меню.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/924.wav"
     }
 ]

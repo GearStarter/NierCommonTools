@@ -42,13 +42,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_001/456.wav"
     },
     {
-        "id": "M5920_S0110_G0050_001_a2b",
-        "jp": "こちらヨルハ部隊所属、２Ｂ……",
-        "en": "This is YoRHa unit 2B...",
-        "ru": "На связи единица YoRHa 2B...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1030.wav"
-    },
-    {
         "id": "M5920_S0110_G0060_001_a2b",
         "jp": "この記録を聞いた者がいたら、伝えて欲しい……事がある……",
         "en": "If anyone is listening to this, there's something I need you to do.",

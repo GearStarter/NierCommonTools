@@ -378,12 +378,5 @@
         "en": "H-Hey! Don't disconnect me!",
         "ru": "Э-эй! Не разъединяйте вот так!",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/208.wav"
-    },
-    {
-        "id": "M5920_S0020_G0180_001_pod153",
-        "jp": "報告：アクセスポイントからメール受信の連絡。",
-        "en": "Report: Mail notification received from access point.",
-        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/545.wav"
     }
 ]

@@ -90,12 +90,6 @@
         "ru": "Э, ох... Эти показания выглядят так себе..."
     },
     {
-        "id": "M6010_S0100_G0440_300_op",
-        "jp": "健闘を祈ります。",
-        "en": "Good luck.",
-        "ru": "Удачи."
-    },
-    {
         "id": "M6010_S0090_G0320_300_ys",
         "jp": "……あ、ちょっとまってくれ、２Ｂが来た……",
         "en": "Oh, hold on a second, 2B's here...",
@@ -124,12 +118,6 @@
         "jp": "……ヤツのコツが分かったよ。とりあえず全部喋らせて疑問点だけ質問する。\\nこれがベストだ。",
         "en": "I've figured out how to deal with her. Just let her say all she wants to say first and then ask only about the points that don't make sense.",
         "ru": "Я выяснила, как нам с ней быть. Сначала дайте ей сказать всё, что она хочет, а затем задавайте бессмысленные вопросы."
-    },
-    {
-        "id": "M6010_S0090_G0350_300_ys",
-        "jp": "説明が網羅的だから、その方が効率がいいんだ。",
-        "en": "Her explanations are comprehensive, so that works best.",
-        "ru": "Её объяснения довольно исчерпывающи, это сработает лучше всего."
     },
     {
         "id": "M6010_S0090_G0350_300_ys",

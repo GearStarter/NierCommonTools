@@ -570,11 +570,5 @@
         "en": "I'm sorry. I need to stay here for a while. You go on ahead.",
         "ru": "Простите. Мне нужно остаться здесь на время. А вы идите.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/1037.wav"
-    },
-    {
-        "id": "M5330_S0020_G0170_001_eml",
-        "jp": "……",
-        "en": "......",
-        "ru": "......"
     }
 ]

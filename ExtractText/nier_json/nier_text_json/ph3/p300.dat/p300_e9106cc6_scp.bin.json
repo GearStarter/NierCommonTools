@@ -264,29 +264,5 @@
         "en": "Got it!",
         "ru": "Понял!",
         "jp_voice": "stream/Japanese/vo_plffff_0_000/4.wav"
-    },
-    {
-        "id": "M5920_S0010_G0310_001_pod042",
-        "jp": "警告：予定されていた作戦区域から離脱中。",
-        "en": "Alert: Exiting the planned operational area.",
-        "ru": "Внимание: вы покидаете зону операции."
-    },
-    {
-        "id": "M5920_S0010_G0320_001_pod042",
-        "jp": "推奨：作戦区域への早急な復帰。",
-        "en": "Proposal: Return to the operational area immediately.",
-        "ru": "Предложение: немедленно вернитесь в зону операции."
-    },
-    {
-        "id": "M5920_S0020_G0310_001_pod153",
-        "jp": "警告：予定されていた作戦区域から離脱中。",
-        "en": "Alert: Exiting the planned operational area.",
-        "ru": "Внимание: вы покидаете зону операции."
-    },
-    {
-        "id": "M5920_S0020_G0320_001_pod153",
-        "jp": "推奨：作戦区域への早急な復帰。",
-        "en": "Proposal: Return to the operational area immediately.",
-        "ru": "Предложение: немедленно вернитесь в зону операции."
     }
 ]

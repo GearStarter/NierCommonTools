@@ -30,78 +30,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
     },
     {
-        "id": "M5910_S0100_G0155_001_pascal",
-        "jp": "…………",
-        "en": "...",
-        "ru": "..."
-    },
-    {
-        "id": "M3030_S0100_G0070_001_select",
-        "jp": "この工場は安全か？",
-        "en": "Is this factory safe?",
-        "ru": "Эта фабрика безопасна?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/448.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/530.wav"
-    },
-    {
-        "id": "M3030_S0100_G0080_001_select",
-        "jp": "もう少し情報が欲しいな……",
-        "en": "We really need more info...",
-        "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
-    },
-    {
-        "id": "M5910_S0100_G0155_001_pascal",
-        "jp": "…………",
-        "en": "...",
-        "ru": "..."
-    },
-    {
-        "id": "M3030_S0100_G0080_001_select",
-        "jp": "もう少し情報が欲しいな……",
-        "en": "We really need more info...",
-        "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
-    },
-    {
-        "id": "M5910_S0100_G0155_001_pascal",
-        "jp": "…………",
-        "en": "...",
-        "ru": "..."
-    },
-    {
-        "id": "M3030_S0100_G0060_001_select",
-        "jp": "死んだ仲間は再生できないのか？",
-        "en": "Can't you regenerate your dead villagers?",
-        "ru": "Ты сможешь восстановить мёртвых жителей?",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/447.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/529.wav"
-    },
-    {
-        "id": "M3030_S0100_G0080_001_select",
-        "jp": "もう少し情報が欲しいな……",
-        "en": "We really need more info...",
-        "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
-    },
-    {
-        "id": "M5910_S0100_G0155_001_pascal",
-        "jp": "…………",
-        "en": "...",
-        "ru": "..."
-    },
-    {
-        "id": "M3030_S0100_G0080_001_select",
-        "jp": "もう少し情報が欲しいな……",
-        "en": "We really need more info...",
-        "ru": "Нам нужно больше информации...",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/449.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/531.wav"
-    },
-    {
         "id": "M3030_S0100_G0000_001_a2",
         "jp": "大丈夫か！？パスカル。",
         "en": "Pascal! Are you okay?",
@@ -318,12 +246,5 @@
         "jp": "わ、私も、援護します！！",
         "en": "You...you must let me help you!",
         "ru": "Ты... ты должна мне помочь!"
-    },
-    {
-        "id": "M3030_S0110_G0121_001_pascal",
-        "jp": "あいつらを叩き潰して、ぶっ殺します！",
-        "en": "I will smash them up and kill them!",
-        "ru": "Я их всех разнесу!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/591.wav"
     }
 ]

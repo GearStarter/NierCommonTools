@@ -1,79 +1,5 @@
 [
     {
-        "id": "M1060_S0070_G0000_001_a2b",
-        "jp": "これが……機械生命体！？",
-        "en": "Is that...a machine?",
-        "ru": "Это... машина?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/584.wav"
-    },
-    {
-        "id": "M1060_S0070_G0010_001_a9s",
-        "jp": "こんな大きいの……見たことない……",
-        "en": "It's freakin' HUGE...",
-        "ru": "Да он просто ОГРОМЕННЫЙ...",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1434.wav"
-    },
-    {
-        "id": "M1060_S0070_G0140_011_pod042",
-        "jp": "通知：司令部から敵の情報を入手。",
-        "en": "Enemy data obtained from Command.",
-        "ru": "От Штаба поступила информация о противнике."
-    },
-    {
-        "id": "M1060_S0070_G0150_011_a2b",
-        "jp": "情報を開封して。",
-        "en": "Go ahead.",
-        "ru": "Выкладывай.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/586.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/586.wav"
-    },
-    {
-        "id": "M1060_S0070_G0160_011_pod042",
-        "jp": "巨大機械生命体は、３２０年前に確認されたのが唯一の記録。",
-        "en": "The only known record of this machine lifeform is a lone sighting 320 years ago.",
-        "ru": "Единственная известная запись об этой машине сделана 320 лет назад."
-    },
-    {
-        "id": "M1060_S0070_G0170_011_pod042",
-        "jp": "上陸後に超々強力電磁波攻撃を敢行。",
-        "en": "Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.",
-        "ru": "Достигнув суши, он атаковал, высвободив разрушительную электромагнитную волну."
-    },
-    {
-        "id": "M1060_S0070_G0180_011_pod042",
-        "jp": "当時の戦闘では、護衛部隊のレジスタンスが全滅。",
-        "en": "All Resistance fighters in the vicinity were annihilated.",
-        "ru": "Все бойцы Сопротивления поблизости были уничтожены."
-    },
-    {
-        "id": "M1060_S0070_G0190_011_a2b",
-        "jp": "つまり、上陸を阻止しなくては再び惨劇が起きる……",
-        "en": "So basically, if this thing reaches land, we're screwed.",
-        "ru": "То есть, если эта штука достигнет земли, то нам конец.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/587.wav"
-    },
-    {
-        "id": "M1060_S0070_G0200_011_pod042",
-        "jp": "その推論を支持。",
-        "en": "Affirmative.",
-        "ru": "Подтверждаю."
-    },
-    {
-        "id": "M1060_S0070_G0020_001_a9s",
-        "jp": "くそっ……ＥＭＰ攻撃で接近を防いでるのか……",
-        "en": "Crap! It's blocking close-range attacks with EMP blasts.",
-        "ru": "Чёрт. Он блокирует ближние атаки с помощью ЭМИ-пушки.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1434.wav"
-    },
-    {
-        "id": "M1060_S0070_G0030_001_a9s",
-        "jp": "なんとか別の方法で攻撃しないと……",
-        "en": "We've got to find another way to damage it.",
-        "ru": "Нам нужно найти другой способ нанести ему урон.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1435.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1436.wav"
-    },
-    {
         "id": "M1060_S0070_G0040_011_op60",
         "jp": "２Bさんっ！衛星レーザーの直接攻撃承認が下りました！",
         "en": "2B, Command is attempting to launch a satellite laser strike on your target!",
@@ -108,19 +34,6 @@
         "en": "I know, I know! But it's the only way!",
         "ru": "Я знаю, знаю! Но это единственный способ!",
         "en_voice": "stream/English(US)/vo_plffff_0_002/275.wav"
-    },
-    {
-        "id": "M1060_S0070_G0131_011_pod042",
-        "jp": "ＥＭＰ発生器の位置を確認。マップにマーク。",
-        "en": "EMP generator target confirmed. Marking on map.",
-        "ru": "Цель подтверждена — генератор ЭМИ. Отмечаю на карте.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/642.wav"
-    },
-    {
-        "id": "M1060_S0070_G0132_011_pod042",
-        "jp": "推奨：ＥＭＰ発生器の速やかな破壊。",
-        "en": "Proposal: Destroy the generator quickly.",
-        "ru": "Предложение: незамедлительно уничтожьте генератор."
     },
     {
         "id": "M1060_S0070_G0210_011_op60",

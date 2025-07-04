@@ -169,13 +169,6 @@
         "ru": "Принято."
     },
     {
-        "id": "M5920_S0010_G0180_001_pod042",
-        "jp": "報告：アクセスポイントからメール受信の連絡。",
-        "en": "Report: Mail notification received from access point.",
-        "ru": "Отчёт: от терминала поступило уведомление о новом входящем сообщении.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/545.wav"
-    },
-    {
         "id": "M1080_S0030_G0250_101_a2b",
         "jp": "機械生命体達の動向か……",
         "en": "\"Analyze current trends among the machines?\" ...Huh.",

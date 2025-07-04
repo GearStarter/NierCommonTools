@@ -30,42 +30,6 @@
         "ru": "А теперь идите. Удачи и веселья!"
     },
     {
-        "id": "M5660_S0010_G0020_001_roborece",
-        "jp": "スタンプは園内のどこかにありマス。探してみてクダサイネ。",
-        "en": "You'll find the stamps inside the amusement park. Make sure to search high and low!",
-        "ru": "Печати можно собрать внутри парка развлечений. Убедитесь, что обыскали его сверху донизу!"
-    },
-    {
-        "id": "M5660_S0010_G0040_001_roborece",
-        "jp": "それじゃあ、お楽しみクダサイ！",
-        "en": "Off you go then. Good luck, and have fun!",
-        "ru": "А теперь идите. Удачи и веселья!"
-    },
-    {
-        "id": "M5660_S0030_G0000_001_pod042",
-        "jp": "スタンプを発見。",
-        "en": "Stamp discovered.",
-        "ru": "Обнаружена печать."
-    },
-    {
-        "id": "M5660_S0030_G0010_001_pod042",
-        "jp": "推奨：カードへの押印。",
-        "en": "Proposal: Imprint the stamp upon the card.",
-        "ru": "Предложение: поставьте печать на карточку."
-    },
-    {
-        "id": "M5660_S0030_G0020_001_pod153",
-        "jp": "スタンプを発見。",
-        "en": "Stamp discovered.",
-        "ru": "Обнаружена печать."
-    },
-    {
-        "id": "M5660_S0030_G0030_001_pod153",
-        "jp": "推奨：カードへの押印。",
-        "en": "Proposal: Imprint the stamp upon the card.",
-        "ru": "Предложение: поставьте печать на карточку."
-    },
-    {
         "id": "M5660_S0030_G0000_001_pod042",
         "jp": "スタンプを発見。",
         "en": "Stamp discovered.",
@@ -154,22 +118,10 @@
         "ru": "Печать? Конечно! Я отпечатаю всё, что тебе нужно! А-ха-ха-ха!"
     },
     {
-        "id": "M5660_S0055_G0040_001_robosmail",
-        "jp": "アッハッハ……この世界ハおかしいネェ……",
-        "en": "Aaaah ha ha ha! The world is hilarious!",
-        "ru": "Аха-ха-ха-ха! Мир такой весёлый!"
-    },
-    {
         "id": "M5660_S0055_G0080_001_robokiller",
         "jp": "フザケンナヨ！機械生命体ダッテ生キテルンダヨ！",
         "en": "BACK OFF, ASSHOLE! WE MACHINES ARE ALIVE! YOU GOT THAT?",
         "ru": "ОТВАЛИ, МУДИЛА! МЫ, МАШИНЫ, ЖИВЫЕ! ВЫ ПОНЯЛИ ЭТО?"
-    },
-    {
-        "id": "M5660_S0055_G0090_001_robokiller",
-        "jp": "ミンナミンナシネ！スタンプもシネ！",
-        "en": "YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!",
-        "ru": "ВЫ ДОЛЖНЫ УМЕРЕТЬ! ВЫ ВСЕ ДОЛЖНЫ УМЕРЕТЬ! И ЭТА ПРОКЛЯТАЯ ПЕЧАТЬ ТОЖЕ ДОЛЖНА УМЕРЕТЬ!"
     },
     {
         "id": "M5660_S0055_G0090_001_robokiller",
@@ -190,22 +142,10 @@
         "ru": "Вот... Возьмите... Э-хе-хе-хе..."
     },
     {
-        "id": "M5660_S0055_G0010_001_roboeerie",
-        "jp": "じゃあアゲル……ふフッ……",
-        "en": "Here... Take it... Eh heh heh heh...",
-        "ru": "Вот... Возьмите... Э-хе-хе-хе..."
-    },
-    {
         "id": "M5660_S0055_G0020_001_roboyell",
         "jp": "オイシャコラー！スタンプ？スタンプ！？",
         "en": "Yahoo! Stamps! Stamps stamps stamps!",
         "ru": "Йеху! Печати! Печати-печати-печати!"
-    },
-    {
-        "id": "M5660_S0055_G0030_001_roboyell",
-        "jp": "オッケーダゼ！スタンプオシテヤルゼ！ヤルゼ！",
-        "en": "One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!",
-        "ru": "Ещё одна печать на подходе! О, да, я люблю печати. Сделаем это!"
     },
     {
         "id": "M5660_S0055_G0030_001_roboyell",
@@ -224,12 +164,6 @@
         "jp": "ホラ……ボクの涙デスタンプを押してあげ……ウワーン！",
         "en": "Fine... I'll stamp it with m-m-my tears! Waaaaaah!",
         "ru": "Отлично... Я отпечатаю её со слезами! Ва-а-а-а!"
-    },
-    {
-        "id": "M5660_S0055_G0060_001_robocry",
-        "jp": "うううっ……悲シイ……スタンプなんカホシインデスネ。",
-        "en": "*sniff* S-So sad... I g-guess you want a dumb stamp, huh?",
-        "ru": "*хнык* Т-так грустно... я п-полагаю, вам нужна дурацкая печать, да?"
     },
     {
         "id": "M5660_S0040_G0000_001_robozombie",
@@ -256,12 +190,6 @@
         "ru": "Тебе легко говорить.",
         "en_voice": "stream/English(US)/vo_plffff_0_000/979.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_000/980.wav"
-    },
-    {
-        "id": "M5660_S0040_G0000_001_robozombie",
-        "jp": "イッショニ……アソボ……",
-        "en": "Leeeet's...plaaaaay...",
-        "ru": "Давай... играть..."
     },
     {
         "id": "M5660_S0040_G0040_001_pod153",
@@ -597,18 +525,6 @@
         "jp": "ハイ、コレをドウゾ。スタンプを全部集めた方へお渡しスル景品デス。",
         "en": "Anyway, here you go: One deluxe prize, coming up.",
         "ru": "В любом случае, это вам: один шикарный приз за старания."
-    },
-    {
-        "id": "M5660_S0060_G0120_001_roborece",
-        "jp": "マタ遊びに来てクダサイネ！",
-        "en": "Come again anytime!",
-        "ru": "Возвращайтесь в любое время!"
-    },
-    {
-        "id": "M5660_S0060_G0090_001_roborece",
-        "jp": "貴方が楽シメルかドウカは、貴方ノ心ノ問題にしか存在シマセン。",
-        "en": "Whether or not you enjoy something simply depends on your own heart.",
-        "ru": "Получаете ли вы удовольствие или нет от чего-нибудь, зависит лишь от вашего сердца."
     },
     {
         "id": "M5660_S0060_G0120_001_roborece",

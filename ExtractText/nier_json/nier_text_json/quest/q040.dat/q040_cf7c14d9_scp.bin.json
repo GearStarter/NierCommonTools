@@ -24,18 +24,6 @@
         "ru": "Прошу, приведите моего ребёнка домой. Умоляю!"
     },
     {
-        "id": "M5040_S0010_G0100_001_sele",
-        "jp": "子供を連れ戻す。",
-        "en": "Agree to help.",
-        "ru": "Согласиться помочь."
-    },
-    {
-        "id": "M5040_S0010_G0110_001_sele",
-        "jp": "忙しいので無視する。",
-        "en": "Refuse to help.",
-        "ru": "Отказаться помочь."
-    },
-    {
         "id": "M5040_S0010_G0000_001_robomother",
         "jp": "待って！待ちなさい！",
         "en": "Hey! Stop right this instant!",
@@ -103,12 +91,6 @@
         "jp": "はあっ。２Ｂはお人好しなんだから……",
         "en": "Heh. Look at you, you big softie.",
         "ru": "Хех. Только взгляните на себя, вы просто взрослая тряпка."
-    },
-    {
-        "id": "M5040_S0010_G0140_001_robomother",
-        "jp": "お願いします。ウチの子を連れ戻してください！",
-        "en": "Please bring my child home. Please!",
-        "ru": "Прошу, приведите моего ребёнка домой. Умоляю!"
     },
     {
         "id": "M5040_S0010_G0150_001_a9s",
@@ -323,32 +305,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/3.wav"
     },
     {
-        "id": "M5040_S0020_G0040_001_robochild",
-        "jp": "ウ……ヒック……",
-        "en": "Nnngh... *sniff*",
-        "ru": "Нгх... *шмыгает*"
-    },
-    {
-        "id": "M5040_S0020_G0030_001_a9s",
-        "jp": "怖かった？もう大丈夫だよ。",
-        "en": "Easy there, little guy. It's all right. You weren't scared, were you?",
-        "ru": "Полегче, малыш. Всё хорошо. Ты ведь не испугался, не так ли?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/76.wav"
-    },
-    {
-        "id": "M5040_S0020_G0220_001_a9s",
-        "jp": "一緒に帰ろう？",
-        "en": "So quit with the whining and let us take you home already.",
-        "ru": "Так что хватит ныть и дай нам уже довести тебя до дома.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/0.wav"
-    },
-    {
-        "id": "M5040_S0020_G0230_001_robochild",
-        "jp": "……ウン。",
-        "en": "...'Kay.",
-        "ru": "...Хорошо."
-    },
-    {
         "id": "M5040_S0020_G0231_001_a9s",
         "jp": "あれ……あの小さな機械生命体が見当たりませんね。",
         "en": "Huh? I don't see that little machine anywhere.",
@@ -368,20 +324,6 @@
         "jp": "最初の場所に戻っているかもしれません。探してみましょう。",
         "en": "He may have gone back to where we first found him.\\nLet's look around.",
         "ru": "Наверное он вернулся на то место, где мы с ним впервые встретились.\\nДавай поищем его."
-    },
-    {
-        "id": "M5040_S0020_G0240_001_a2b",
-        "jp": "あの小さい機械生命体が……",
-        "en": "Oh. That's...unfortunate.",
-        "ru": "Ох. Как... неудачно вышло.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/832.wav"
-    },
-    {
-        "id": "M5040_S0020_G0250_001_a9s",
-        "jp": "仕方ないですね……戻って母親に説明しましょう。",
-        "en": "Yeah, this is rough. Better go tell Mom what happened.",
-        "ru": "Ага, жёстко. Нам стоит рассказать матери о том, что произошло.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/3.wav"
     },
     {
         "id": "M5040_S0030_G0000_001_a9s",
@@ -563,12 +505,6 @@
         "jp": "そんな……！",
         "en": "No...",
         "ru": "Нет..."
-    },
-    {
-        "id": "M5040_S0040_G0240_001_robomother",
-        "jp": "そんな……そんな……",
-        "en": "No no no no no...",
-        "ru": "Нет нет нет нет..."
     },
     {
         "id": "M5040_S0040_G0240_001_robomother",

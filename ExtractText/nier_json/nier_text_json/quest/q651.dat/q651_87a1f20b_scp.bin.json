@@ -49,19 +49,6 @@
         "ru": "Не желаете ли помочь?"
     },
     {
-        "id": "M5651_S0010_G0060_001_sele",
-        "jp": "助ける。",
-        "en": "Help him out.",
-        "ru": "Помочь ему."
-    },
-    {
-        "id": "M5651_S0010_G0070_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
         "id": "M5651_S0010_G0100_001_resiman",
         "jp": "え！本当に！？",
         "en": "What, really?",
@@ -80,30 +67,6 @@
         "ru": "Надеюсь, поиск всех этих коробок не будет слишком затруднительным!"
     },
     {
-        "id": "M5650_S0020_G0000_300_resiman",
-        "jp": "取ってきてくれるのかい？",
-        "en": "Think you can get the goods for me?",
-        "ru": "Думаете, сможете достать товары для меня?"
-    },
-    {
-        "id": "M5650_S0020_G0010_300_sele",
-        "jp": "仕方ないなぁ",
-        "en": "Agree to help.",
-        "ru": "Согласиться помочь."
-    },
-    {
-        "id": "M5650_S0020_G0020_300_sele",
-        "jp": "今は忙しい",
-        "en": "Reject the offer.",
-        "ru": "Отклонить предложение."
-    },
-    {
-        "id": "M5650_S0020_G0030_300_resiman",
-        "jp": "よろしくね！",
-        "en": "Great. Thanks a million!",
-        "ru": "Отлично. Огромное спасибо!"
-    },
-    {
         "id": "M5651_S0010_G0080_001_resiman",
         "jp": "ううん……そっか……また、先輩に怒られちゃうな……",
         "en": "Really? Man, my supervisor is really going to have my hide for this...",
@@ -114,131 +77,9 @@
         "jp": "あ！もしかして荷物を取りに行く気になってくれたのか！？",
         "en": "Don't suppose you changed your mind about helping with those packages, eh?",
         "ru": "Мне совершенно никак не обойтись без помощи с этими коробками."
-    },
-    {
-        "id": "M5651_S0010_G0060_001_sele",
-        "jp": "助ける。",
-        "en": "Help him out.",
-        "ru": "Помочь ему."
-    },
-    {
-        "id": "M5651_S0010_G0070_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
-        "id": "M5651_S0010_G0090_001_resiman",
-        "jp": "あ！もしかして荷物を取りに行く気になってくれたのか！？",
-        "en": "Don't suppose you changed your mind about helping with those packages, eh?",
-        "ru": "Мне совершенно никак не обойтись без помощи с этими коробками."
-    },
-    {
-        "id": "M5651_S0010_G0060_001_sele",
-        "jp": "助ける。",
-        "en": "Help him out.",
-        "ru": "Помочь ему."
-    },
-    {
-        "id": "M5651_S0010_G0070_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
-        "id": "M5650_S0020_G0030_300_resiman",
-        "jp": "よろしくね！",
-        "en": "Great. Thanks a million!",
-        "ru": "Отлично. Огромное спасибо!"
-    },
-    {
-        "id": "M5651_S0010_G0080_001_resiman",
-        "jp": "ううん……そっか……また、先輩に怒られちゃうな……",
-        "en": "Really? Man, my supervisor is really going to have my hide for this...",
-        "ru": "Серьёзно? Мой начальник спустит с меня шкуру из-за этого..."
-    },
-    {
-        "id": "M5650_S0020_G0050_300_pod153",
-        "jp": "提案：一度外に出て気分転換を行う",
-        "en": "Proposal: Taking a break from this activity may lead to greater mental acuity.",
-        "ru": "Предложение: отдых от текущей деятельности может привести к улучшению работы мозга."
-    },
-    {
-        "id": "M5650_S0020_G0060_300_sele",
-        "jp": "外に出る",
-        "en": "Go outside.",
-        "ru": "Выйти наружу."
-    },
-    {
-        "id": "M5650_S0020_G0070_300_sele",
-        "jp": "作業を続ける",
-        "en": "Keep working.",
-        "ru": "Продолжить работать."
-    },
-    {
-        "id": "M5650_S0020_G0040_300_pod042",
-        "jp": "提案：一度外に出て気分転換を行う",
-        "en": "Proposal: Taking a break from this activity may lead to greater mental acuity.",
-        "ru": "Предложение: отдых от текущей деятельности может привести к улучшению работы мозга."
-    },
-    {
-        "id": "M5650_S0020_G0060_300_sele",
-        "jp": "外に出る",
-        "en": "Go outside.",
-        "ru": "Выйти наружу."
-    },
-    {
-        "id": "M5650_S0020_G0070_300_sele",
-        "jp": "作業を続ける",
-        "en": "Keep working.",
-        "ru": "Продолжить работать."
-    },
-    {
-        "id": "M5650_S0020_G0052_300_pod153",
-        "jp": "提案：外に出て依頼主に荷物を届ける",
-        "en": "Proposal: Head outside to deliver the goods to the client.",
-        "ru": "Предложение: отправляйтесь наружу, чтобы отдать груз клиенту."
-    },
-    {
-        "id": "M5650_S0020_G0060_300_sele",
-        "jp": "外に出る",
-        "en": "Go outside.",
-        "ru": "Выйти наружу."
-    },
-    {
-        "id": "M5650_S0020_G0070_300_sele",
-        "jp": "作業を続ける",
-        "en": "Keep working.",
-        "ru": "Продолжить работать."
-    },
-    {
-        "id": "M5650_S0020_G0051_300_pod042",
-        "jp": "提案：外に出て依頼主に荷物を届ける",
-        "en": "Proposal: Head outside to deliver the goods to the client.",
-        "ru": "Предложение: отправляйтесь наружу, чтобы отдать груз клиенту."
-    },
-    {
-        "id": "M5650_S0020_G0060_300_sele",
-        "jp": "外に出る",
-        "en": "Go outside.",
-        "ru": "Выйти наружу."
-    },
-    {
-        "id": "M5650_S0020_G0070_300_sele",
-        "jp": "作業を続ける",
-        "en": "Keep working.",
-        "ru": "Продолжить работать."
     },
     {
         "id": "M5651_S0020_G0000_001_pod153",
-        "jp": "『移送用の荷物』と思われるオブジェクトをマーク。",
-        "en": "Marking objects likely to be the targeted packages.",
-        "ru": "Помечаю объекты, которые похожи на необходимые коробки."
-    },
-    {
-        "id": "M5651_S0020_G0020_001_pod042",
         "jp": "『移送用の荷物』と思われるオブジェクトをマーク。",
         "en": "Marking objects likely to be the targeted packages.",
         "ru": "Помечаю объекты, которые похожи на необходимые коробки."

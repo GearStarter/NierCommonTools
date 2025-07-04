@@ -144,25 +144,6 @@
         "ru": "Пожалуйста, спаси 2B..."
     },
     {
-        "id": "M6010_S0060_G0020_300_op60",
-        "jp": "無事でよかった……",
-        "en": "I'm glad you're safe.",
-        "ru": "Я рада, что ты цела."
-    },
-    {
-        "id": "M6010_S0060_G0030_300_op60",
-        "jp": "今地上との通信がすごく不安定になってます。\\nあまり無茶はしないでくださいね。",
-        "en": "Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?",
-        "ru": "Связь с Землёй крайне нестабильна. Пожалуйста, не действуйте опрометчиво, хорошо?"
-    },
-    {
-        "id": "M6010_S0060_G0040_300_op60",
-        "jp": "お気をつけて……！",
-        "en": "Be careful!",
-        "ru": "Будьте осторожны!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_002/544.wav"
-    },
-    {
         "id": "M6010_S0070_G0100_300_op60",
         "jp": "ちょっと！任務はどうしたんですか！？\\n命令違反で怒られますよ！",
         "en": "Hey, why are you still here? Do you want to get caught for violating orders!?",
@@ -265,19 +246,6 @@
         "ru": "Чрезмерная активность сразу после ремонта не рекомендуется. Пожалуйста, воздержись от перегрузок."
     },
     {
-        "id": "M6010_S0060_G0050_300_op210",
-        "jp": "……あなたは無謀な行動をとりやすい傾向があります。\\nくれぐれも気をつけてください。",
-        "en": "You tend to act recklessly. Please be cautious going forward.",
-        "ru": "Вы склонны действовать безрассудно. Прошу, будьте осторожны."
-    },
-    {
-        "id": "M6010_S0060_G0060_300_op210",
-        "jp": "……気をつけて。",
-        "en": "Be careful.",
-        "ru": "Будьте осторожны!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/1142.wav"
-    },
-    {
         "id": "M6010_S0070_G0130_300_op210",
         "jp": "どうしてここへ？何か問題でも？",
         "en": "Why are you here? Is there a problem?",
@@ -350,18 +318,6 @@
         "ru": "Вам требуется какое-то техобслуживание?"
     },
     {
-        "id": "M6012_S0022_G1250_300_bs",
-        "jp": "機体の性能に物足りなさを感じたら、いつでも来てください。",
-        "en": "If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.",
-        "ru": "Если вы чувствуете неудовлетворённость эффективностью своего тела, просто приходите! Мы вмиг всё поправим."
-    },
-    {
-        "id": "M6010_S0010_G1230_300_bs",
-        "jp": "機体のメンテナンスなら任せてください。",
-        "en": "Need any maintenance done? You've come to the right person!",
-        "ru": "Требуется техобслуживание? Это ко мне!"
-    },
-    {
         "id": "M6010_S0010_G1250_300_bs",
         "jp": "スキャナーモデルの中でも、僕の腕は一級品ですからね。\\n頼りにしてくれて構いませんよ。",
         "en": "My skills are first-class, even for a scanner model. You can count on me!",
@@ -372,11 +328,5 @@
         "jp": "メンテナンスをお望みですね？",
         "en": "Need any maintenance done?",
         "ru": "Требуется провести какое-то техобслуживание?"
-    },
-    {
-        "id": "M6010_S0010_G1250_300_bs",
-        "jp": "スキャナーモデルの中でも、僕の腕は一級品ですからね。\\n頼りにしてくれて構いませんよ。",
-        "en": "My skills are first-class, even for a scanner model. You can count on me!",
-        "ru": "Я обладаю выдающимися навыками, даже среди других моделей типа S. Можешь рассчитывать на меня!"
     }
 ]

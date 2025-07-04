@@ -191,13 +191,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
-        "id": "M1020_S0010_G0250_001_resi",
-        "jp": "……あんまり無理しないようにね。",
-        "en": "Don't go trying to be a hero, all right?",
-        "ru": "Не слишком геройствуйте там, хорошо?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
-    },
-    {
         "id": "M1020_S0010_G0251_001_a9s",
         "jp": "封鎖しているゲートを爆発で開けるなんて……",
         "en": "Who opens a sealed gate with explosives?",

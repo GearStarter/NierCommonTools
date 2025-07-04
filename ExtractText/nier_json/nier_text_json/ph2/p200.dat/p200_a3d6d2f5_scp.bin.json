@@ -109,42 +109,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_000/547.wav"
     },
     {
-        "id": "M1050_S0010_G0120_001_a9s",
-        "jp": "でも、仕事って大変ですよね～",
-        "en": "Man, this job can be pretty rough sometimes, huh?",
-        "ru": "Эта работёнка временами может быть довольно тяжёлой, да?",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1345.wav"
-    },
-    {
-        "id": "M1050_S0010_G0130_001_a2b",
-        "jp": "作戦に好き嫌いはない。",
-        "en": "We don't get to choose our assignments.",
-        "ru": "У нас нет права выбирать наше предназначение.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/548.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/548.wav"
-    },
-    {
-        "id": "M1050_S0010_G0140_001_a2b",
-        "jp": "９Ｓ、貴方は感情を出し過ぎ。",
-        "en": "And you should work on keeping your opinions in check.",
-        "ru": "И ты должен работать, держа своё мнение при себе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/549.wav"
-    },
-    {
-        "id": "M1050_S0010_G0150_001_a2b",
-        "jp": "私達ヨルハ部隊は感情を出す事は禁止されてるはず。",
-        "en": "YoRHa aren't allowed to be emotional, remember?",
-        "ru": "YoRHa запрещено проявлять эмоции, помнишь?"
-    },
-    {
-        "id": "M1050_S0010_G0160_001_a9s",
-        "jp": "そうは言っても、個体差があるから仕方ない気がします……",
-        "en": "I think some of us are better at that than others...",
-        "ru": "Я думаю, некоторые из нас в этом лучше, чем другие...",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1346.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1347.wav"
-    },
-    {
         "id": "M1050_S0010_G0170_001_a9s",
         "jp": "あのアダムとイヴって特殊個体も、まるで感情があるような。",
         "en": "Speaking of emotion, those Adam and Eve units sure seemed less than logical.",

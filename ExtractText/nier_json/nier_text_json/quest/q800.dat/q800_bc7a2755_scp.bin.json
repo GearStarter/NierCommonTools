@@ -25,19 +25,6 @@
         "ru": "Откройте эту дверь и побыстрее вытащите моего никчёмного сына!"
     },
     {
-        "id": "M5800_S0010_G0070_001_sele",
-        "jp": "協力する。",
-        "en": "Help the mother.",
-        "ru": "Помочь матери."
-    },
-    {
-        "id": "M5800_S0010_G0080_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
         "id": "M5800_S0010_G0000_001_robomother",
         "jp": "助けてクダサイ！助けてクダサイ！",
         "en": "You there! You must help me at once!",
@@ -129,12 +116,6 @@
         "ru": "Р-р-р-р-р! И что же мне ДЕЛАТЬ?!"
     },
     {
-        "id": "M5800_S0010_G0100_001_robomother",
-        "jp": "どうかこの扉を開けて、中に入る息子を引きずり出してクダサイ！",
-        "en": "Get this door open and drag my good-for-nothing son out here this instant!",
-        "ru": "Откройте эту дверь и побыстрее вытащите моего никчёмного сына!"
-    },
-    {
         "id": "M5800_S0010_G0190_001_a9s",
         "jp": "クソッ……意外と手強いな。",
         "en": "...Damn. That lock's stronger than I thought.",
@@ -205,17 +186,5 @@
         "jp": "コレからは息子の不安を受け止めラレルヨウニ、私も頑張りマスネ。",
         "en": "I'll try to help my son deal with his fears better from now on.",
         "ru": "Теперь я попытаюсь помочь моему сыну разобраться с его страхами."
-    },
-    {
-        "id": "M5800_S0010_G0300_001_robomother",
-        "jp": "コレからは息子の不安を受け止めラレルヨウニ、私も頑張りマスネ。",
-        "en": "I'll try to help my son deal with his fears better from now on.",
-        "ru": "Теперь я попытаюсь помочь моему сыну разобраться с его страхами."
-    },
-    {
-        "id": "M5800_S0010_G0260_001_robochild",
-        "jp": "うわーん！ママー！",
-        "en": "Waaaaaah! Mamaaaaa!",
-        "ru": "Ва-а-а-а! Мама-а-а-а!"
     }
 ]

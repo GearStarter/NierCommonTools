@@ -67,25 +67,6 @@
         "ru": "Мне нужно, чтобы вы повсеместно собирали ингредиенты. Это для исследования к моменту, когда люди вернутся и снова освоятся на Земле."
     },
     {
-        "id": "M5530_S0010_G0040_001_sele",
-        "jp": "協力する。",
-        "en": "Help out.",
-        "ru": "Помочь."
-    },
-    {
-        "id": "M5530_S0010_G0050_001_sele",
-        "jp": "断る。",
-        "en": "Refuse.",
-        "ru": "Отказаться.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
-        "id": "M6080_S0010_G0020_300_sp",
-        "jp": "おう、よく来たな。\\nまぁ、ゆっくりしていってくれ。",
-        "en": "Welcome, and thank you for visiting my shop. Feel free to look around.",
-        "ru": "Добро пожаловать и спасибо, что посетили мой магазин. Не стесняйтесь, осматривайтесь."
-    },
-    {
         "id": "M5530_S0010_G0090_001_resiitem",
         "jp": "頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\\nたのんだぞ。",
         "en": "Just bring back whatever moose and boar meat you find, all right? And thanks!",
@@ -133,24 +114,11 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/233.wav"
     },
     {
-        "id": "M5530_S0020_G0020_001_pod153",
-        "jp": "疑問：アンドロイドは、水からエネルギーを生成可能。\\nレジスタンスにとって動物の肉は不必要。",
-        "en": "Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?",
-        "ru": "Вопрос: поскольку андроиды генерируют энергию из воды, что Сопротивление намеревается делать с животным белком?"
-    },
-    {
         "id": "M5530_S0020_G0024_001_a9s",
         "jp": "さあ……気分の問題なんじゃない？たまには食べたくなるとかさ。",
         "en": "Who knows. Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then.",
         "ru": "Кто знает. Возможно, это вопрос субъективных ощущений. Например, некоторые андроиды просто хотят есть время от времени.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/232.wav"
-    },
-    {
-        "id": "M5530_S0020_G0030_001_pod153",
-        "jp": "理解不能。",
-        "en": "It appears illogical.",
-        "ru": "Это звучит нелогично.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/473.wav"
     },
     {
         "id": "M5530_S0020_G0045_001_a9s",
@@ -290,17 +258,5 @@
         "jp": "じゃあな！",
         "en": "See you around!",
         "ru": "Увидимся!"
-    },
-    {
-        "id": "M6080_S0010_G0020_300_sp",
-        "jp": "おう、よく来たな。\\nまぁ、ゆっくりしていってくれ。",
-        "en": "Welcome, and thank you for visiting my shop. Feel free to look around.",
-        "ru": "Добро пожаловать и спасибо, что посетили мой магазин. Не стесняйтесь, осматривайтесь."
-    },
-    {
-        "id": "M5530_S0010_G0090_001_resiitem",
-        "jp": "頼んでいた『シカの肉』と『イノシシの肉』が集まったら教えてくれ。\\nたのんだぞ。",
-        "en": "Just bring back whatever moose and boar meat you find, all right? And thanks!",
-        "ru": "Просто принесите любое мясо кабана и лося, которое найдёте, хорошо? И спасибо!"
     }
 ]

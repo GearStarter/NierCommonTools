@@ -48,12 +48,6 @@
         "ru": "......"
     },
     {
-        "id": "M5440_S0050_G0260_001_n02",
-        "jp": "マアミロザマアミロザマアミロザマアミロザマアミ\\nロザマアミロザマアミロザマアミロザマアミロザマ",
-        "en": "cause they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had",
-        "ru": "потому что они пришли они пришли они пришли они пришли они пришли они пришли они пришли они пришли они пришли они пришли они"
-    },
-    {
         "id": "M5440_S0010_G0000_001_n02",
         "jp": "シッテルカイモリノクニノウワサヲアソコノオシロニ\\nハショダイノロボットオウガノコシタザイホウガネ",
         "en": "Hey friend didja hear all them rumors 'bout that place with the trees and the bushes and the leaves and the castle built by the first machine king and the big ol' treasure",
@@ -156,12 +150,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_001/295.wav"
     },
     {
-        "id": "M5440_S0020_G0000_001_pod042",
-        "jp": "解析：機械生命体の部品。",
-        "en": "Analysis: This part belongs to a machine lifeform.",
-        "ru": "Анализ: эти части принадлежат машине."
-    },
-    {
         "id": "M5440_S0020_G0010_001_a2b",
         "jp": "これは……ガラクタ？",
         "en": "So it's junk, basically.",
@@ -187,12 +175,6 @@
         "jp": "推奨：保管。",
         "en": "Proposal: It should be confiscated for safekeeping.",
         "ru": "Предложение: вещь должна быть изъята на сохранение."
-    },
-    {
-        "id": "M5440_S0020_G0050_001_pod153",
-        "jp": "解析：機械生命体の部品。",
-        "en": "Analysis: This part belongs to a machine lifeform.",
-        "ru": "Анализ: эти части принадлежат машине."
     },
     {
         "id": "M5440_S0020_G0060_001_a2b",
@@ -327,23 +309,11 @@
         "ru": "Обнаружена замочная скважина. Вероятно, понадобится соответствующий ключ."
     },
     {
-        "id": "M5440_S0030_G0000_001_pod042",
-        "jp": "鍵穴を確認。適応する鍵が必要。",
-        "en": "Keyhole detected. A corresponding key will likely be required.",
-        "ru": "Обнаружена замочная скважина. Вероятно, понадобится соответствующий ключ."
-    },
-    {
         "id": "M5440_S0030_G0010_001_a2b",
         "jp": "鍵……",
         "en": "Makes sense.",
         "ru": "В этом есть смысл.",
         "en_voice": "stream/English(US)/vo_plffff_0_000/951.wav"
-    },
-    {
-        "id": "M5440_S0030_G0020_001_pod153",
-        "jp": "鍵穴を確認。適応する鍵が必要。",
-        "en": "Keyhole detected. A corresponding key will likely be required.",
-        "ru": "Обнаружена замочная скважина. Вероятно, понадобится соответствующий ключ."
     },
     {
         "id": "M5440_S0030_G0030_001_a9s",

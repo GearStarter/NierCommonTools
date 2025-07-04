@@ -420,18 +420,6 @@
         "ru": "2B и 9S из YoRHa, да? Нет, простите, ничего не припоминаю."
     },
     {
-        "id": "M5121_S0010_G0010_300_manager",
-        "jp": "ごめんなさい、また後で来てくれる？",
-        "en": "Sorry, but can you come back later?",
-        "ru": "Простите, но не могли бы вы зайти чуть попозже?"
-    },
-    {
-        "id": "M5121_S0010_G0020_300_manager",
-        "jp": "皆が必死に戦ってるのに、うだうだ言っていられないわよね……\\nがんばらなくちゃ……",
-        "en": "I can't just sit here while everyone's fighting so hard around me. I need to shape up...",
-        "ru": "Я не могу сидеть, сложа руки, пока все вокруг меня стараются изо всех сил. Мне нужно взяться за работу..."
-    },
-    {
         "id": "M6090_S0010_G0110_300_manager",
         "jp": "この先は資材置き場につながってるの。\\n悪いけど、関係者以外立ち入り禁止だよ。",
         "en": "Up ahead is the material storage site. \\nSorry, but it's off-limits.",

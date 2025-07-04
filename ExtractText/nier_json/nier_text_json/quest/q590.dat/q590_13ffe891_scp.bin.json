@@ -51,48 +51,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
     },
     {
-        "id": "M5590_S0010_G0150_001_resistance",
-        "jp": "お？見ない顔だな。",
-        "en": "Hey, I haven't seen you before.",
-        "ru": "Эй, я не видел вас прежде.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/691.wav"
-    },
-    {
-        "id": "M5590_S0010_G0160_001_resistance",
-        "jp": "俺はここで、旧世界の調査をしているんだ。",
-        "en": "I'm here conducting research on the old world.",
-        "ru": "Я здесь провожу исследования старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/692.wav"
-    },
-    {
-        "id": "M5590_S0010_G0170_001_resistance",
-        "jp": "もし砂漠で、何か遺産っぽい物を見つけたら持ってきてくれよ。\\n礼ははずむぜ？",
-        "en": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.",
-        "ru": "Если вы найдёте в пустыне что-нибудь похожее на реликвию, можете принести это мне? Я найду способ наградить вас за труды.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
-    },
-    {
-        "id": "M5590_S0010_G0150_001_resistance",
-        "jp": "お？見ない顔だな。",
-        "en": "Hey, I haven't seen you before.",
-        "ru": "Эй, я не видел вас прежде.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/691.wav"
-    },
-    {
-        "id": "M5590_S0010_G0160_001_resistance",
-        "jp": "俺はここで、旧世界の調査をしているんだ。",
-        "en": "I'm here conducting research on the old world.",
-        "ru": "Я здесь провожу исследования старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/692.wav"
-    },
-    {
-        "id": "M5590_S0010_G0170_001_resistance",
-        "jp": "もし砂漠で、何か遺産っぽい物を見つけたら持ってきてくれよ。\\n礼ははずむぜ？",
-        "en": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.",
-        "ru": "Если вы найдёте в пустыне что-нибудь похожее на реликвию, можете принести это мне? Я найду способ наградить вас за труды.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
-    },
-    {
         "id": "M5590_S0020_G0040_001_resistance",
         "jp": "お、何か面白い物を拾ってきたのか？",
         "en": "Did you find something for me?",
@@ -332,33 +290,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_000/971.wav"
     },
     {
-        "id": "M5590_S0050_G0000_001_robolarge",
-        "jp": "ちょーっと待テ！オレ達の前を通るノはユルサない！",
-        "en": "Hold! You cannot pass! It is unforgivable!",
-        "ru": "Стоять! Сюда нельзя! Это непростительно!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1097.wav"
-    },
-    {
-        "id": "M5590_S0050_G0010_001_robosmall",
-        "jp": "ユルサナイ！",
-        "en": "UNFORGIVABLE!!",
-        "ru": "НЕПРОСТИТЕЛЬНО!!"
-    },
-    {
-        "id": "M5590_S0050_G0020_001_robolarge",
-        "jp": "カネもイノチも置いてイケ！",
-        "en": "Give us your money and your life!",
-        "ru": "Требуем кошелёк и жизнь!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1099.wav"
-    },
-    {
-        "id": "M5590_S0050_G0030_001_robosmall",
-        "jp": "オイテイケ！",
-        "en": "AND YOUR LIFE!",
-        "ru": "И ЖИЗНЬ!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1100.wav"
-    },
-    {
         "id": "M5590_S0050_G0050_001_a9s",
         "jp": "何だっ！？",
         "en": "Uh oh.",
@@ -372,33 +303,6 @@
         "ru": "Что это были за парни?",
         "en_voice": "stream/English(US)/vo_plffff_0_001/271.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_001/353.wav"
-    },
-    {
-        "id": "M5590_S0050_G0000_001_robolarge",
-        "jp": "ちょーっと待テ！オレ達の前を通るノはユルサない！",
-        "en": "Hold! You cannot pass! It is unforgivable!",
-        "ru": "Стоять! Сюда нельзя! Это непростительно!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1097.wav"
-    },
-    {
-        "id": "M5590_S0050_G0010_001_robosmall",
-        "jp": "ユルサナイ！",
-        "en": "UNFORGIVABLE!!",
-        "ru": "НЕПРОСТИТЕЛЬНО!!"
-    },
-    {
-        "id": "M5590_S0050_G0020_001_robolarge",
-        "jp": "カネもイノチも置いてイケ！",
-        "en": "Give us your money and your life!",
-        "ru": "Требуем кошелёк и жизнь!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1099.wav"
-    },
-    {
-        "id": "M5590_S0050_G0030_001_robosmall",
-        "jp": "オイテイケ！",
-        "en": "AND YOUR LIFE!",
-        "ru": "И ЖИЗНЬ!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/1100.wav"
     },
     {
         "id": "M5590_S0050_G0060_001_a2",
@@ -529,69 +433,6 @@
         "jp": "戦闘が娯楽に……？何考えてるんだ。人類は。",
         "en": "Warfare as entertainment? Humans really were crazy.",
         "ru": "Война как развлечение? Люди действительно были безумны."
-    },
-    {
-        "id": "M5590_S0010_G0150_001_resistance",
-        "jp": "お？見ない顔だな。",
-        "en": "Hey, I haven't seen you before.",
-        "ru": "Эй, я не видел вас прежде.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/691.wav"
-    },
-    {
-        "id": "M5590_S0010_G0160_001_resistance",
-        "jp": "俺はここで、旧世界の調査をしているんだ。",
-        "en": "I'm here conducting research on the old world.",
-        "ru": "Я здесь провожу исследования старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/692.wav"
-    },
-    {
-        "id": "M5590_S0010_G0170_001_resistance",
-        "jp": "もし砂漠で、何か遺産っぽい物を見つけたら持ってきてくれよ。\\n礼ははずむぜ？",
-        "en": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.",
-        "ru": "Если вы найдёте в пустыне что-нибудь похожее на реликвию, можете принести это мне? Я найду способ наградить вас за труды.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
-    },
-    {
-        "id": "M5590_S0010_G0150_001_resistance",
-        "jp": "お？見ない顔だな。",
-        "en": "Hey, I haven't seen you before.",
-        "ru": "Эй, я не видел вас прежде.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/691.wav"
-    },
-    {
-        "id": "M5590_S0010_G0160_001_resistance",
-        "jp": "俺はここで、旧世界の調査をしているんだ。",
-        "en": "I'm here conducting research on the old world.",
-        "ru": "Я здесь провожу исследования старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/692.wav"
-    },
-    {
-        "id": "M5590_S0010_G0170_001_resistance",
-        "jp": "もし砂漠で、何か遺産っぽい物を見つけたら持ってきてくれよ。\\n礼ははずむぜ？",
-        "en": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.",
-        "ru": "Если вы найдёте в пустыне что-нибудь похожее на реликвию, можете принести это мне? Я найду способ наградить вас за труды.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
-    },
-    {
-        "id": "M5590_S0010_G0150_001_resistance",
-        "jp": "お？見ない顔だな。",
-        "en": "Hey, I haven't seen you before.",
-        "ru": "Эй, я не видел вас прежде.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/691.wav"
-    },
-    {
-        "id": "M5590_S0010_G0160_001_resistance",
-        "jp": "俺はここで、旧世界の調査をしているんだ。",
-        "en": "I'm here conducting research on the old world.",
-        "ru": "Я здесь провожу исследования старого мира.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/692.wav"
-    },
-    {
-        "id": "M5590_S0010_G0170_001_resistance",
-        "jp": "もし砂漠で、何か遺産っぽい物を見つけたら持ってきてくれよ。\\n礼ははずむぜ？",
-        "en": "If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.",
-        "ru": "Если вы найдёте в пустыне что-нибудь похожее на реликвию, можете принести это мне? Я найду способ наградить вас за труды.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/693.wav"
     },
     {
         "id": "M5590_S0050_G0280_001_resistance",

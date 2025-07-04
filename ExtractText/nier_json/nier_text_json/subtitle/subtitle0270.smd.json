@@ -6,23 +6,10 @@
         "ru": "Это единица тактической поддержки Бот 042."
     },
     {
-        "id": "M1030_S0040_S0010_201_pod042",
-        "jp": "操作主権は２Ｂにセットされている。",
-        "en": "Control has been assigned to 2B.",
-        "ru": "Управление единицей присвоено 2B."
-    },
-    {
         "id": "M1030_S0040_S0020_201_pod153",
         "jp": "こちら随行支援ユニット：ポッド１５３。",
         "en": "This is Weapon Support Pod 153.",
         "ru": "Это единица тактической поддержки Бот 153."
-    },
-    {
-        "id": "M1030_S0040_S0030_201_pod153",
-        "jp": "操作主権は９Sにセットされている。",
-        "en": "Control has been assigned to 9S.",
-        "ru": "Управление единицей присвоено 9S.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/184.wav"
     },
     {
         "id": "M1030_S0040_S0040_201_pod042",
@@ -31,29 +18,9 @@
         "ru": "Запрашиваю обмен боевыми данными."
     },
     {
-        "id": "M1030_S0040_S0050_201_pod153",
-        "jp": "承認。",
-        "en": "Exchange accepted.",
-        "ru": "Запрос обмена принят.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/185.wav"
-    },
-    {
-        "id": "M1030_S0040_S0060_201_pod042",
-        "jp": "提案：効率化の為に諸データの交換を随時行う事。",
-        "en": "Proposal: Data should be exchanged regularly for greater efficiency.",
-        "ru": "Предложение: для повышения эффективности обмен следует проводить на регулярной основе.",
-        "en_voice": "stream/English(US)/vo_plffff_0_002/619.wav"
-    },
-    {
         "id": "M1030_S0040_S0070_201_pod153",
         "jp": "承認：効率化の為に諸データの交換を随時行う。",
         "en": "Proposal accepted. Data will be exchanged regularly.",
         "ru": "Предложение принято. Для повышения эффективности обмен будет производиться регулярно."
-    },
-    {
-        "id": "M1030_S0040_S0080_201_pod042",
-        "jp": "以上。",
-        "en": "End communication.",
-        "ru": "Конец связи."
     }
 ]

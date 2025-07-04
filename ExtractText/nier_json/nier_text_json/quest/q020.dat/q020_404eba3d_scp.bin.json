@@ -289,61 +289,6 @@
         "ru": "Нас попросили передать вам подарок..."
     },
     {
-        "id": "M5020_S0040_G0200_001_sarutoru",
-        "jp": "ふむ、それなら聞こう。",
-        "en": "A gift? Let me see.",
-        "ru": "Подарок? Дайте взглянуть на него."
-    },
-    {
-        "id": "M5020_S0040_G0210_001_a9s",
-        "jp": "ええと……これですね。",
-        "en": "Here you go.",
-        "ru": "Вот, пожалуйста."
-    },
-    {
-        "id": "M5020_S0040_G0220_001_sarutoru",
-        "jp": "……ふむ、なるほど。",
-        "en": "Ah, yes. Fascinating...",
-        "ru": "Ах, да. Потрясающе..."
-    },
-    {
-        "id": "M5020_S0040_G0230_001_a2b",
-        "jp": "それを渡した女性型ロボットは、\\n貴方の事をミステリアスでクールだと言っていた。",
-        "en": "The machine who gave this to us said you were both \"suspicious\" and \"alluring.\"",
-        "ru": "Машина-девушка, давшая это нам, сказала, что вы одновременно \"подозрительны\" и \"очаровательны\"."
-    },
-    {
-        "id": "M5020_S0040_G0240_001_sarutoru",
-        "jp": "ふうん、単なるガラスだね。ガラス以外の何物でもない。つまりこれは——",
-        "en": "It seems this so-called \"gift\" is nothing more than a piece of unadorned glass. Therefore, I can only surmise that—",
-        "ru": "Как я вижу, этот так называемый \"подарок\" — всего лишь кусок невзрачного стекла. По нему я могу только догадываться о том, что..."
-    },
-    {
-        "id": "M5020_S0040_G0250_001_a9s",
-        "jp": "あの、これをくれた女性に対して、何か一言は……？",
-        "en": "Um, do you want us to bring a message back to the woman who gave this to you?",
-        "ru": "Эм, вы не желаете отправить ответное письмо той женщине, что отправила вам подарок?"
-    },
-    {
-        "id": "M5020_S0040_G0260_001_sarutoru",
-        "jp": "ないね。何もない。単なるガラスだしね。",
-        "en": "For a mere trifle? No.",
-        "ru": "За такой-то пустяк? Нет."
-    },
-    {
-        "id": "M5020_S0040_G0270_001_a9s",
-        "jp": "はあ……",
-        "en": "Okay then.",
-        "ru": "Как скажете.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/1767.wav"
-    },
-    {
-        "id": "M5020_S0040_G0280_001_a2b",
-        "jp": "……行こう、９Ｓ。",
-        "en": "Let's go.",
-        "ru": "Идём."
-    },
-    {
         "id": "M5020_S0040_G0290_001_sarutoru",
         "jp": "最早、全ての物は必要が無いのだ。この場所も、この村も、そして私も——",
         "en": "Indeed, is there any purpose or need to the objects we find in the world? Consider, if you will, this place. Or this village. Or even myself, if such a—",
@@ -414,72 +359,6 @@
         "jp": "あと、もう一つプレゼントを預かってきている。",
         "en": "I have another present for you...",
         "ru": "У нас есть ещё один подарок для вас..."
-    },
-    {
-        "id": "M5020_S0040_G0310_001_sarutoru",
-        "jp": "ふむ、それなら聞こう。",
-        "en": "A present? Of what sort?",
-        "ru": "Подарок? И что это?"
-    },
-    {
-        "id": "M5020_S0040_G0320_001_a9s",
-        "jp": "ええと……この化石か。",
-        "en": "It's a fossil. One of your followers asked us to deliver it to you.",
-        "ru": "Это старенькая вещь. Один из ваших последователей попросил нас доставить её вам."
-    },
-    {
-        "id": "M5020_S0040_G0330_001_sarutoru",
-        "jp": "……ふむ、なるほど。",
-        "en": "I see, I see.",
-        "ru": "Ясно-ясно."
-    },
-    {
-        "id": "M5020_S0040_G0340_001_a2b",
-        "jp": "それを渡した女性型ロボットは、\\n貴方の事を探究心旺盛で情熱的だと言っていた。",
-        "en": "She said you were \"indescribably passionate\" when it came to learning. Or something like that.",
-        "ru": "Она сказала, что вы \"очень страстны\", когда дело доходит до обучения. Или что-то в этом духе."
-    },
-    {
-        "id": "M5020_S0040_G0350_001_sarutoru",
-        "jp": "機械の化石か。何の役にも立たないなぁ。",
-        "en": "A mechanical fossil. No use at all.",
-        "ru": "Старинный механизм. Абсолютно бесполезен."
-    },
-    {
-        "id": "M5020_S0040_G0360_001_a9s",
-        "jp": "あの、これをくれた女性に対して、何か一言は……？",
-        "en": "Do you want us to tell her anything on your behalf, or...",
-        "ru": "Вы не хотите, чтобы мы передали ей что-нибудь от вашего лица, или..."
-    },
-    {
-        "id": "M5020_S0040_G0370_001_sarutoru",
-        "jp": "ないね。何もない。役に立たないガラクタだしね。",
-        "en": "I'll not waste words on mere junk.",
-        "ru": "Я не бросаюсь словами из какой-то рухляди."
-    },
-    {
-        "id": "M5020_S0040_G0380_001_a9s",
-        "jp": "ガラクタって……",
-        "en": "Junk!?",
-        "ru": "Рухляди?!"
-    },
-    {
-        "id": "M5020_S0040_G0390_001_a2b",
-        "jp": "……",
-        "en": "......",
-        "ru": "......"
-    },
-    {
-        "id": "M5020_S0020_G0000_300_sarutoru",
-        "jp": "おや、君達も私の講義を受けにきたのかね？",
-        "en": "Oh ho! Have you come to hear my lecture as well?",
-        "ru": "Хо-хо! Вы тоже пришли послушать мою лекцию?"
-    },
-    {
-        "id": "M5020_S0020_G0010_300_a9s",
-        "jp": "いえ、結構です。",
-        "en": "I'm good, thanks.",
-        "ru": "Нет, спасибо."
     },
     {
         "id": "M5020_S0020_G0000_300_sarutoru",

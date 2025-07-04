@@ -60,18 +60,6 @@
         "ru": "Желаете ли инвестировать в изобретения величайшего гения в мире?"
     },
     {
-        "id": "M5240_S0010_G0060_001_sele",
-        "jp": "はい。",
-        "en": "Invest.",
-        "ru": "Да."
-    },
-    {
-        "id": "M5240_S0010_G0070_001_sele",
-        "jp": "いいえ。",
-        "en": "Turn him down.",
-        "ru": "Нет."
-    },
-    {
         "id": "M5240_S0030_G0130_001_robophd",
         "jp": "おお、ワタクシに投資する気になりましたか？",
         "en": "Oh ho! Changed our mind about investing, have we?",
@@ -228,72 +216,6 @@
         "ru": "Нисколько."
     },
     {
-        "id": "M5240_S0010_G0080_001_robophd",
-        "jp": "おお、ありがたき幸せ！恐悦至極にございます！！",
-        "en": "Joy! Elation! I'd not thought myself capable of such.",
-        "ru": "Класс! Здорово! Я так рад!"
-    },
-    {
-        "id": "M5240_S0010_G0100_001_robophd",
-        "jp": "して、いかほど投資していただけるのでしょうか？",
-        "en": "Now then! What care you to invest?",
-        "ru": "Итак, сколько желаете инвестировать?"
-    },
-    {
-        "id": "M5240_S0010_G0101_001_sele",
-        "jp": "１０G",
-        "en": "10 G",
-        "ru": "10 G"
-    },
-    {
-        "id": "M5240_S0010_G0102_001_sele",
-        "jp": "１００Ｇ",
-        "en": "100 G",
-        "ru": "100 G"
-    },
-    {
-        "id": "M5240_S0010_G0103_001_sele",
-        "jp": "５００Ｇ",
-        "en": "500 G",
-        "ru": "500 G"
-    },
-    {
-        "id": "M5240_S0010_G0104_001_sele",
-        "jp": "１０００Ｇ",
-        "en": "1000 G",
-        "ru": "1000 G"
-    },
-    {
-        "id": "M5240_S0010_G0105_001_sele",
-        "jp": "２５００Ｇ",
-        "en": "2500 G",
-        "ru": "2500 G"
-    },
-    {
-        "id": "M5240_S0010_G0106_001_sele",
-        "jp": "５０００Ｇ",
-        "en": "5000 G",
-        "ru": "5000 G"
-    },
-    {
-        "id": "M5240_S0010_G0107_001_sele",
-        "jp": "１００００Ｇ",
-        "en": "10,000 G",
-        "ru": "10000 G"
-    },
-    {
-        "id": "M5240_S0010_G0108_001_sele",
-        "jp": "２００００Ｇ",
-        "en": "20,000 G",
-        "ru": "20000 G"
-    },
-    {
-        "id": "M5240_S0010_G0109_001_sele",
-        "jp": "投資を止める。",
-        "en": "Don't invest.",
-        "ru": "Нисколько."
-    },
-    {
         "id": "M5240_S0010_G0200_001_robophd",
         "jp": "ああ、残念ながら今回の発明で資金が枯渇してしまいました。",
         "en": "Alas, but sadly this staggering work of genius has exhausted my funding.",
@@ -306,28 +228,10 @@
         "ru": "Желаете произвести дополнительные инвестиции?"
     },
     {
-        "id": "M5240_S0010_G0060_001_sele",
-        "jp": "はい。",
-        "en": "Invest.",
-        "ru": "Да."
-    },
-    {
-        "id": "M5240_S0010_G0070_001_sele",
-        "jp": "いいえ。",
-        "en": "Turn him down.",
-        "ru": "Нет."
-    },
-    {
         "id": "M5240_S0010_G0110_001_robophd",
         "jp": "ありがとうございます！知者不惑とはまさにこのこと。",
         "en": "Very wise, very wise. A shrewd investor knows to strike when the iron is hot, eh?",
         "ru": "Благодарю! Вы намного умнее, чем кажетесь."
-    },
-    {
-        "id": "M5240_S0010_G0120_001_robophd",
-        "jp": "今後ともよろしくお願い申し上げます。",
-        "en": "I look forward to a fruitful working relationship in the future! Quite!",
-        "ru": "Надеюсь на вашу поддержку в будущем!"
     },
     {
         "id": "M5240_S0010_G0190_001_robophd",
@@ -346,18 +250,6 @@
         "jp": "どうでしょう？ここで思い切って１０００００Ｇほど投資していただけませんか？",
         "en": "What say you? Might you be willing to loosen your purse strings and aid me with the meager sum of 100,000 G?",
         "ru": "Может быть вложитесь еще? На этот раз мне нужна лишь небольшая сумма в 100000 G."
-    },
-    {
-        "id": "M5240_S0030_G0020_001_sele",
-        "jp": "はい。",
-        "en": "Invest.",
-        "ru": "Да."
-    },
-    {
-        "id": "M5240_S0030_G0030_001_sele",
-        "jp": "いいえ。",
-        "en": "Turn him down.",
-        "ru": "Нет."
     },
     {
         "id": "M5240_S0030_G0100_001_robophd",

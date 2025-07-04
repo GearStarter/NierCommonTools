@@ -165,19 +165,5 @@
         "en": "Try not to overdo it, 9S.",
         "ru": "Не перегружай себя, 9S.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/648.wav"
-    },
-    {
-        "id": "M3020_S0020_G0020_001_dbl",
-        "jp": "見つけてきた私に感謝しろよ？",
-        "en": "A little thank-you for saving your butt would be nice!",
-        "ru": "Было бы приятно услышать хоть немного благодарностей за то, что твою задницу спасли!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/1020.wav"
-    },
-    {
-        "id": "M3020_S0020_G0230_001_ppl",
-        "jp": "あまり無理しないでね……９Ｓ。",
-        "en": "Try not to overdo it, 9S.",
-        "ru": "Не перегружай себя, 9S.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/648.wav"
     }
 ]

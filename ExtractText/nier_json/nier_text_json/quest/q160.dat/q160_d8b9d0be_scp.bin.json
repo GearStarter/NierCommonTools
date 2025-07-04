@@ -90,12 +90,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_002/319.wav"
     },
     {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
         "id": "M5160_S0020_G0060_001_op210",
         "jp": "オペレーターより９Ｓへ。",
         "en": "Operator to 9S.",
@@ -142,12 +136,6 @@
         "en": "\"Gotcha\" is not an approved form of radio engagement, 9S. Operator 21O out.",
         "ru": "\"Ясно\" не является уставной формой при радиосвязи, 9S. Оператор 21O — конец связи.",
         "jp_voice": "stream/Japanese/vo_plffff_0_002/260.wav"
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
     },
     {
         "id": "M5160_S0030_G0000_001_op60",

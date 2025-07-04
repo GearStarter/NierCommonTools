@@ -36,36 +36,6 @@
         "ru": "О-о-о да-а-а! Вы проиграете!"
     },
     {
-        "id": "M5300_S0010_G0000_001_robobusy",
-        "jp": "毎日を、真っ直ぐに生きていますか！？",
-        "en": "You there! Ho! Are you living every day on the straight and narrow!?",
-        "ru": "Вы, там! Эй! Вы каждый день проживаете в ограничениях и узком пространстве?!"
-    },
-    {
-        "id": "M5300_S0010_G0010_001_robobusy",
-        "jp": "迷っちゃ駄目だ。人生は短いんだ！疾風のように生きて行こう！",
-        "en": "Life is a fleeting moment! We must fly straight like an arrow so we never lose our way!",
-        "ru": "Жизнь — мимолётный момент! И мы должны двигаться подобно стреле, никогда не сбиваться с пути!"
-    },
-    {
-        "id": "M5300_S0010_G0020_001_robobusy",
-        "jp": "そういうわけで、どちらが速いか僕と勝負だ！自分を信じて明日を掴め！",
-        "en": "So let us see which of us is faster! Believe in yourself and grasp the future with both hands!",
-        "ru": "Давайте же посмотрим, кто из нас быстрее! Поверьте в себя и крепко схватите обеими руками своё будущее!"
-    },
-    {
-        "id": "M5300_S0010_G0030_001_sele",
-        "jp": "勝負する！",
-        "en": "Take him on!",
-        "ru": "Принять вызов!"
-    },
-    {
-        "id": "M5300_S0010_G0040_001_sele",
-        "jp": "勝負しない！",
-        "en": "Ignore him!",
-        "ru": "Игнорировать его!"
-    },
-    {
         "id": "M5920_S0140_G0025_001_robobusy",
         "jp": "第一回スピード競争選手権",
         "en": "Here we go! The First Speed Championship!",
@@ -140,54 +110,6 @@
         "ru": "А теперь поднимайтесь и бросьте мне вызов вновь!"
     },
     {
-        "id": "M5300_S0010_G0110_001_robobusy",
-        "jp": "人生は短い！帯に短しタスキニナガシ！",
-        "en": "Life is too short for you to spend it running about in useless circles!",
-        "ru": "Жизнь слишком коротка, чтобы проводить её в бесполезных рамках!"
-    },
-    {
-        "id": "M5300_S0010_G0020_001_robobusy",
-        "jp": "そういうわけで、どちらが速いか僕と勝負だ！自分を信じて明日を掴め！",
-        "en": "So let us see which of us is faster! Believe in yourself and grasp the future with both hands!",
-        "ru": "Давайте же посмотрим, кто из нас быстрее! Поверьте в себя и крепко схватите обеими руками своё будущее!"
-    },
-    {
-        "id": "M5300_S0010_G0030_001_sele",
-        "jp": "勝負する！",
-        "en": "Take him on!",
-        "ru": "Принять вызов!"
-    },
-    {
-        "id": "M5300_S0010_G0040_001_sele",
-        "jp": "勝負しない！",
-        "en": "Ignore him!",
-        "ru": "Игнорировать его!"
-    },
-    {
-        "id": "M5300_S0010_G0050_001_robobusy",
-        "jp": "よーし、負けないぞ！",
-        "en": "Oooo yeaaaaah! You're goin' down!",
-        "ru": "О-о-о да-а-а! Вы проиграете!"
-    },
-    {
-        "id": "M5300_S0010_G0020_001_robobusy",
-        "jp": "そういうわけで、どちらが速いか僕と勝負だ！自分を信じて明日を掴め！",
-        "en": "So let us see which of us is faster! Believe in yourself and grasp the future with both hands!",
-        "ru": "Давайте же посмотрим, кто из нас быстрее! Поверьте в себя и крепко схватите обеими руками своё будущее!"
-    },
-    {
-        "id": "M5300_S0010_G0030_001_sele",
-        "jp": "勝負する！",
-        "en": "Take him on!",
-        "ru": "Принять вызов!"
-    },
-    {
-        "id": "M5300_S0010_G0040_001_sele",
-        "jp": "勝負しない！",
-        "en": "Ignore him!",
-        "ru": "Игнорировать его!"
-    },
-    {
         "id": "M5300_S0020_G0000_001_robobusy",
         "jp": "やあ、こんにちはッ！また熱い勝負がしたくなったんだね？",
         "en": "Hello hello hello! Ready to challenge me again?",
@@ -224,36 +146,6 @@
         "ru": "Превосходный ответ!"
     },
     {
-        "id": "M5300_S0020_G0000_001_robobusy",
-        "jp": "やあ、こんにちはッ！また熱い勝負がしたくなったんだね？",
-        "en": "Hello hello hello! Ready to challenge me again?",
-        "ru": "Здрасьте-здрасьте-здрастье! Готовы к ещё одному соревнованию?"
-    },
-    {
-        "id": "M5300_S0020_G0010_001_robobusy",
-        "jp": "素晴らしい！それでこそボクが認めた心の同志！",
-        "en": "Wonderful! I knew you couldn't resist the thrill of the chase the moment I laid eyes on you!",
-        "ru": "Чудно! Я знал, что вы не сможете устоять перед жаждой скорости, что я увидел в ваших глазах!"
-    },
-    {
-        "id": "M5300_S0020_G0020_001_robobusy",
-        "jp": "さあ、魂が震えるようなレースをしよう！",
-        "en": "Now let's have a race that will make our very souls quiver with delight!",
-        "ru": "А теперь давайте устроим гонку, которая наполнит трепетом наши души!"
-    },
-    {
-        "id": "M5300_S0020_G0030_001_sele",
-        "jp": "勝負する！！",
-        "en": "Yes, let's quiver!",
-        "ru": "Пора трепетать!"
-    },
-    {
-        "id": "M5300_S0020_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "I'd prefer not to quiver!",
-        "ru": "Пожалуй, обойдусь!"
-    },
-    {
         "id": "M5300_S0020_G0025_001_robobusy",
         "jp": "第二回スピード競争選手権",
         "en": "Here we go! The Second Speed Championship!",
@@ -270,32 +162,6 @@
         "jp": "明日へ向かってレッツゴー！",
         "en": "It's time to race your way into tomorrow, TODAY!",
         "ru": "Пора пронестись по пути в завтра, СЕГОДНЯ!"
-    },
-    {
-        "id": "M5920_S0140_G0020_001_n02",
-        "jp": "３",
-        "en": "Three...",
-        "ru": "Три...",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/32.wav"
-    },
-    {
-        "id": "M5920_S0140_G0030_001_n02",
-        "jp": "２",
-        "en": "Two...",
-        "ru": "Два..."
-    },
-    {
-        "id": "M5920_S0140_G0040_001_n02",
-        "jp": "１",
-        "en": "One...",
-        "ru": "Один..."
-    },
-    {
-        "id": "M5920_S0140_G0050_001_n02",
-        "jp": "スタート！",
-        "en": "Go!",
-        "ru": "Вперёд!",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/35.wav"
     },
     {
         "id": "M5300_S0020_G0080_001_robobusy",
@@ -326,54 +192,6 @@
         "jp": "キミならやれる！だから、次の勝負まで本気はお預けだッ",
         "en": "I know you can do this! I KNOW it! Now get out there and give it everything you've got!",
         "ru": "Я знаю, вы сможете! Я ЗНАЮ это! А теперь идите и выложитесь на полную!"
-    },
-    {
-        "id": "M5300_S0020_G0000_001_robobusy",
-        "jp": "やあ、こんにちはッ！また熱い勝負がしたくなったんだね？",
-        "en": "Hello hello hello! Ready to challenge me again?",
-        "ru": "Здрасьте-здрасьте-здрастье! Готовы к ещё одному соревнованию?"
-    },
-    {
-        "id": "M5300_S0020_G0020_001_robobusy",
-        "jp": "さあ、魂が震えるようなレースをしよう！",
-        "en": "Now let's have a race that will make our very souls quiver with delight!",
-        "ru": "А теперь давайте устроим гонку, которая наполнит трепетом наши души!"
-    },
-    {
-        "id": "M5300_S0020_G0030_001_sele",
-        "jp": "勝負する！！",
-        "en": "Yes, let's quiver!",
-        "ru": "Пора трепетать!"
-    },
-    {
-        "id": "M5300_S0020_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "I'd prefer not to quiver!",
-        "ru": "Пожалуй, обойдусь!"
-    },
-    {
-        "id": "M5300_S0020_G0050_001_robobusy",
-        "jp": "よーし、ナイスな返事だ！",
-        "en": "An excellent response!",
-        "ru": "Превосходный ответ!"
-    },
-    {
-        "id": "M5300_S0020_G0020_001_robobusy",
-        "jp": "さあ、魂が震えるようなレースをしよう！",
-        "en": "Now let's have a race that will make our very souls quiver with delight!",
-        "ru": "А теперь давайте устроим гонку, которая наполнит трепетом наши души!"
-    },
-    {
-        "id": "M5300_S0020_G0030_001_sele",
-        "jp": "勝負する！！",
-        "en": "Yes, let's quiver!",
-        "ru": "Пора трепетать!"
-    },
-    {
-        "id": "M5300_S0020_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "I'd prefer not to quiver!",
-        "ru": "Пожалуй, обойдусь!"
     },
     {
         "id": "M5300_S0030_G0000_001_robobusy",
@@ -412,36 +230,6 @@
         "ru": "А-ха-ха! Сегодня мы продемонстрируем миру, что такое скорость!"
     },
     {
-        "id": "M5300_S0030_G0000_001_robobusy",
-        "jp": "こんにちはッ！こんにちはッ！こんにちはッ！こんにちはッ！",
-        "en": "Hello hello hello hello helloooooo!",
-        "ru": "Здравствуйте здравствуйте здравствуйте здравствуйте-е-е-е!"
-    },
-    {
-        "id": "M5300_S0030_G0010_001_robobusy",
-        "jp": "いよいよ究極の速さを目指したくなった……そうだろう？",
-        "en": "I feel it in my core—today is the day we pursue the ultimate in speed!",
-        "ru": "Я чувствую это своим ядром, сегодня мы достигнем ультимативной скорости!"
-    },
-    {
-        "id": "M5300_S0030_G0020_001_robobusy",
-        "jp": "今から一緒に、そびえる速度の壁を叩き壊そう！\\n自分の可能性を諦めるなッ",
-        "en": "We shall break down all barriers! Sound! Light! Tachyon!\\nNever doubt your true potential!",
-        "ru": "Мы прорвёмся через все барьеры! Звуковой! Световой! Тахионный!\\nНикогда не сомневайтесь в своём истинном потенциале!"
-    },
-    {
-        "id": "M5300_S0030_G0030_001_sele",
-        "jp": "勝負する！！！",
-        "en": "Let's do it!",
-        "ru": "Сделать это!"
-    },
-    {
-        "id": "M5300_S0030_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "Let's not do it!",
-        "ru": "Не делать этого!"
-    },
-    {
         "id": "M5300_S0030_G0025_001_robobusy",
         "jp": "第三回スピード競争選手権",
         "en": "Here we go! The Third Speed Championship!",
@@ -458,32 +246,6 @@
         "jp": "いくぞっ！！我らの輝かしい未来へ！！",
         "en": "Now fly! Fly onward to a shining future!",
         "ru": "Полетели! Вперёд, навстречу светлому будущему!"
-    },
-    {
-        "id": "M5920_S0140_G0020_001_n02",
-        "jp": "３",
-        "en": "Three...",
-        "ru": "Три...",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/32.wav"
-    },
-    {
-        "id": "M5920_S0140_G0030_001_n02",
-        "jp": "２",
-        "en": "Two...",
-        "ru": "Два..."
-    },
-    {
-        "id": "M5920_S0140_G0040_001_n02",
-        "jp": "１",
-        "en": "One...",
-        "ru": "Один..."
-    },
-    {
-        "id": "M5920_S0140_G0050_001_n02",
-        "jp": "スタート！",
-        "en": "Go!",
-        "ru": "Вперёд!",
-        "en_voice": "stream/English(US)/vo_plffff_0_004/35.wav"
     },
     {
         "id": "M5300_S0030_G0080_001_robobusy",
@@ -570,54 +332,6 @@
         "ru": "Наполните своё сердце топливом эмоций и максимизируйте свой потенциал!"
     },
     {
-        "id": "M5300_S0030_G0010_001_robobusy",
-        "jp": "いよいよ究極の速さを目指したくなった……そうだろう？",
-        "en": "I feel it in my core—today is the day we pursue the ultimate in speed!",
-        "ru": "Я чувствую это своим ядром, сегодня мы достигнем ультимативной скорости!"
-    },
-    {
-        "id": "M5300_S0030_G0020_001_robobusy",
-        "jp": "今から一緒に、そびえる速度の壁を叩き壊そう！\\n自分の可能性を諦めるなッ",
-        "en": "We shall break down all barriers! Sound! Light! Tachyon!\\nNever doubt your true potential!",
-        "ru": "Мы прорвёмся через все барьеры! Звуковой! Световой! Тахионный!\\nНикогда не сомневайтесь в своём истинном потенциале!"
-    },
-    {
-        "id": "M5300_S0030_G0030_001_sele",
-        "jp": "勝負する！！！",
-        "en": "Let's do it!",
-        "ru": "Сделать это!"
-    },
-    {
-        "id": "M5300_S0030_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "Let's not do it!",
-        "ru": "Не делать этого!"
-    },
-    {
-        "id": "M5300_S0030_G0050_001_robobusy",
-        "jp": "よーし、光の速さで突き進もう！",
-        "en": "Aaah ha ha! Today we show the world what it means to be speed itself!",
-        "ru": "А-ха-ха! Сегодня мы продемонстрируем миру, что такое скорость!"
-    },
-    {
-        "id": "M5300_S0030_G0020_001_robobusy",
-        "jp": "今から一緒に、そびえる速度の壁を叩き壊そう！\\n自分の可能性を諦めるなッ",
-        "en": "We shall break down all barriers! Sound! Light! Tachyon!\\nNever doubt your true potential!",
-        "ru": "Мы прорвёмся через все барьеры! Звуковой! Световой! Тахионный!\\nНикогда не сомневайтесь в своём истинном потенциале!"
-    },
-    {
-        "id": "M5300_S0030_G0030_001_sele",
-        "jp": "勝負する！！！",
-        "en": "Let's do it!",
-        "ru": "Сделать это!"
-    },
-    {
-        "id": "M5300_S0030_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "Let's not do it!",
-        "ru": "Не делать этого!"
-    },
-    {
         "id": "M5300_S0010_G0000_300_speedstar",
         "jp": "勝敗は速さでしか決まらない！",
         "en": "Speed will decide this contest! Speed above all!",
@@ -649,203 +363,5 @@
         "en": "That isn't going to work on me!",
         "ru": "Со мной такое не пройдёт!",
         "en_voice": "stream/English(US)/vo_plffff_0_003/1063.wav"
-    },
-    {
-        "id": "M5300_S0010_G0000_001_robobusy",
-        "jp": "毎日を、真っ直ぐに生きていますか！？",
-        "en": "You there! Ho! Are you living every day on the straight and narrow!?",
-        "ru": "Вы, там! Эй! Вы каждый день проживаете в ограничениях и узком пространстве?!"
-    },
-    {
-        "id": "M5300_S0010_G0010_001_robobusy",
-        "jp": "迷っちゃ駄目だ。人生は短いんだ！疾風のように生きて行こう！",
-        "en": "Life is a fleeting moment! We must fly straight like an arrow so we never lose our way!",
-        "ru": "Жизнь — мимолётный момент! И мы должны двигаться подобно стреле, никогда не сбиваться с пути!"
-    },
-    {
-        "id": "M5300_S0010_G0020_001_robobusy",
-        "jp": "そういうわけで、どちらが速いか僕と勝負だ！自分を信じて明日を掴め！",
-        "en": "So let us see which of us is faster! Believe in yourself and grasp the future with both hands!",
-        "ru": "Давайте же посмотрим, кто из нас быстрее! Поверьте в себя и крепко схватите обеими руками своё будущее!"
-    },
-    {
-        "id": "M5300_S0010_G0030_001_sele",
-        "jp": "勝負する！",
-        "en": "Take him on!",
-        "ru": "Принять вызов!"
-    },
-    {
-        "id": "M5300_S0010_G0040_001_sele",
-        "jp": "勝負しない！",
-        "en": "Ignore him!",
-        "ru": "Игнорировать его!"
-    },
-    {
-        "id": "M5300_S0010_G0050_001_robobusy",
-        "jp": "よーし、負けないぞ！",
-        "en": "Oooo yeaaaaah! You're goin' down!",
-        "ru": "О-о-о да-а-а! Вы проиграете!"
-    },
-    {
-        "id": "M5300_S0010_G0000_001_robobusy",
-        "jp": "毎日を、真っ直ぐに生きていますか！？",
-        "en": "You there! Ho! Are you living every day on the straight and narrow!?",
-        "ru": "Вы, там! Эй! Вы каждый день проживаете в ограничениях и узком пространстве?!"
-    },
-    {
-        "id": "M5300_S0010_G0010_001_robobusy",
-        "jp": "迷っちゃ駄目だ。人生は短いんだ！疾風のように生きて行こう！",
-        "en": "Life is a fleeting moment! We must fly straight like an arrow so we never lose our way!",
-        "ru": "Жизнь — мимолётный момент! И мы должны двигаться подобно стреле, никогда не сбиваться с пути!"
-    },
-    {
-        "id": "M5300_S0010_G0020_001_robobusy",
-        "jp": "そういうわけで、どちらが速いか僕と勝負だ！自分を信じて明日を掴め！",
-        "en": "So let us see which of us is faster! Believe in yourself and grasp the future with both hands!",
-        "ru": "Давайте же посмотрим, кто из нас быстрее! Поверьте в себя и крепко схватите обеими руками своё будущее!"
-    },
-    {
-        "id": "M5300_S0010_G0030_001_sele",
-        "jp": "勝負する！",
-        "en": "Take him on!",
-        "ru": "Принять вызов!"
-    },
-    {
-        "id": "M5300_S0010_G0040_001_sele",
-        "jp": "勝負しない！",
-        "en": "Ignore him!",
-        "ru": "Игнорировать его!"
-    },
-    {
-        "id": "M5300_S0020_G0000_001_robobusy",
-        "jp": "やあ、こんにちはッ！また熱い勝負がしたくなったんだね？",
-        "en": "Hello hello hello! Ready to challenge me again?",
-        "ru": "Здрасьте-здрасьте-здрастье! Готовы к ещё одному соревнованию?"
-    },
-    {
-        "id": "M5300_S0020_G0010_001_robobusy",
-        "jp": "素晴らしい！それでこそボクが認めた心の同志！",
-        "en": "Wonderful! I knew you couldn't resist the thrill of the chase the moment I laid eyes on you!",
-        "ru": "Чудно! Я знал, что вы не сможете устоять перед жаждой скорости, что я увидел в ваших глазах!"
-    },
-    {
-        "id": "M5300_S0020_G0020_001_robobusy",
-        "jp": "さあ、魂が震えるようなレースをしよう！",
-        "en": "Now let's have a race that will make our very souls quiver with delight!",
-        "ru": "А теперь давайте устроим гонку, которая наполнит трепетом наши души!"
-    },
-    {
-        "id": "M5300_S0020_G0030_001_sele",
-        "jp": "勝負する！！",
-        "en": "Yes, let's quiver!",
-        "ru": "Пора трепетать!"
-    },
-    {
-        "id": "M5300_S0020_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "I'd prefer not to quiver!",
-        "ru": "Пожалуй, обойдусь!"
-    },
-    {
-        "id": "M5300_S0020_G0050_001_robobusy",
-        "jp": "よーし、ナイスな返事だ！",
-        "en": "An excellent response!",
-        "ru": "Превосходный ответ!"
-    },
-    {
-        "id": "M5300_S0020_G0000_001_robobusy",
-        "jp": "やあ、こんにちはッ！また熱い勝負がしたくなったんだね？",
-        "en": "Hello hello hello! Ready to challenge me again?",
-        "ru": "Здрасьте-здрасьте-здрастье! Готовы к ещё одному соревнованию?"
-    },
-    {
-        "id": "M5300_S0020_G0010_001_robobusy",
-        "jp": "素晴らしい！それでこそボクが認めた心の同志！",
-        "en": "Wonderful! I knew you couldn't resist the thrill of the chase the moment I laid eyes on you!",
-        "ru": "Чудно! Я знал, что вы не сможете устоять перед жаждой скорости, что я увидел в ваших глазах!"
-    },
-    {
-        "id": "M5300_S0020_G0020_001_robobusy",
-        "jp": "さあ、魂が震えるようなレースをしよう！",
-        "en": "Now let's have a race that will make our very souls quiver with delight!",
-        "ru": "А теперь давайте устроим гонку, которая наполнит трепетом наши души!"
-    },
-    {
-        "id": "M5300_S0020_G0030_001_sele",
-        "jp": "勝負する！！",
-        "en": "Yes, let's quiver!",
-        "ru": "Пора трепетать!"
-    },
-    {
-        "id": "M5300_S0020_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "I'd prefer not to quiver!",
-        "ru": "Пожалуй, обойдусь!"
-    },
-    {
-        "id": "M5300_S0030_G0000_001_robobusy",
-        "jp": "こんにちはッ！こんにちはッ！こんにちはッ！こんにちはッ！",
-        "en": "Hello hello hello hello helloooooo!",
-        "ru": "Здравствуйте здравствуйте здравствуйте здравствуйте-е-е-е!"
-    },
-    {
-        "id": "M5300_S0030_G0010_001_robobusy",
-        "jp": "いよいよ究極の速さを目指したくなった……そうだろう？",
-        "en": "I feel it in my core—today is the day we pursue the ultimate in speed!",
-        "ru": "Я чувствую это своим ядром, сегодня мы достигнем ультимативной скорости!"
-    },
-    {
-        "id": "M5300_S0030_G0020_001_robobusy",
-        "jp": "今から一緒に、そびえる速度の壁を叩き壊そう！\\n自分の可能性を諦めるなッ",
-        "en": "We shall break down all barriers! Sound! Light! Tachyon!\\nNever doubt your true potential!",
-        "ru": "Мы прорвёмся через все барьеры! Звуковой! Световой! Тахионный!\\nНикогда не сомневайтесь в своём истинном потенциале!"
-    },
-    {
-        "id": "M5300_S0030_G0030_001_sele",
-        "jp": "勝負する！！！",
-        "en": "Let's do it!",
-        "ru": "Сделать это!"
-    },
-    {
-        "id": "M5300_S0030_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "Let's not do it!",
-        "ru": "Не делать этого!"
-    },
-    {
-        "id": "M5300_S0030_G0050_001_robobusy",
-        "jp": "よーし、光の速さで突き進もう！",
-        "en": "Aaah ha ha! Today we show the world what it means to be speed itself!",
-        "ru": "А-ха-ха! Сегодня мы продемонстрируем миру, что такое скорость!"
-    },
-    {
-        "id": "M5300_S0030_G0000_001_robobusy",
-        "jp": "こんにちはッ！こんにちはッ！こんにちはッ！こんにちはッ！",
-        "en": "Hello hello hello hello helloooooo!",
-        "ru": "Здравствуйте здравствуйте здравствуйте здравствуйте-е-е-е!"
-    },
-    {
-        "id": "M5300_S0030_G0010_001_robobusy",
-        "jp": "いよいよ究極の速さを目指したくなった……そうだろう？",
-        "en": "I feel it in my core—today is the day we pursue the ultimate in speed!",
-        "ru": "Я чувствую это своим ядром, сегодня мы достигнем ультимативной скорости!"
-    },
-    {
-        "id": "M5300_S0030_G0020_001_robobusy",
-        "jp": "今から一緒に、そびえる速度の壁を叩き壊そう！\\n自分の可能性を諦めるなッ",
-        "en": "We shall break down all barriers! Sound! Light! Tachyon!\\nNever doubt your true potential!",
-        "ru": "Мы прорвёмся через все барьеры! Звуковой! Световой! Тахионный!\\nНикогда не сомневайтесь в своём истинном потенциале!"
-    },
-    {
-        "id": "M5300_S0030_G0030_001_sele",
-        "jp": "勝負する！！！",
-        "en": "Let's do it!",
-        "ru": "Сделать это!"
-    },
-    {
-        "id": "M5300_S0030_G0040_001_sele",
-        "jp": "勝負しない！！！",
-        "en": "Let's not do it!",
-        "ru": "Не делать этого!"
     }
 ]

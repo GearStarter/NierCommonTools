@@ -67,12 +67,6 @@
         "ru": "Вам что-нибудь нужно?"
     },
     {
-        "id": "M6100_S0010_G0030_300_n02",
-        "jp": "オ願いシマス。ドウカお救い下サイ。",
-        "en": "Please... Please save me.",
-        "ru": "Пожалуйста... Прошу, спаси меня."
-    },
-    {
         "id": "M1080_S0070_G0160_300_n02",
         "jp": "ああ神よ、どうか皆に正気をお戻し下さい。",
         "en": "O God, please restore them to their senses...",
@@ -173,13 +167,6 @@
         "en": "No! Please don't kill me!",
         "ru": "Нет! Пожалуйста, не убивай меня!",
         "en_voice": "stream/English(US)/vo_plffff_0_003/981.wav"
-    },
-    {
-        "id": "M1080_S0050_G0050_300_n02",
-        "jp": "おやめ下さい！！\\n我々に戦闘の意思はありません！！",
-        "en": "Stop! We have no desire to fight you!",
-        "ru": "Стой! Мы не желаем с тобой сражаться!",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/954.wav"
     },
     {
         "id": "M1080_S0050_G0050_300_n02",

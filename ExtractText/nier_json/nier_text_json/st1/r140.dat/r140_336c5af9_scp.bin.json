@@ -24,66 +24,6 @@
         "ru": "Спросить о магазине."
     },
     {
-        "id": "M5250_S0010_G0010_001_a9s",
-        "jp": "ちょっと聞きたい事があるんだけど……",
-        "en": "I wanted to ask you something.",
-        "ru": "Я хочу спросить кое-что."
-    },
-    {
-        "id": "M5250_S0010_G0030_001_sele",
-        "jp": "村での暮らしについて聞く。",
-        "en": "Ask about life in the village.",
-        "ru": "Спросить о жизни в деревне."
-    },
-    {
-        "id": "M5250_S0010_G0040_001_sele",
-        "jp": "店舗について聞く。",
-        "en": "Ask about the shop.",
-        "ru": "Спросить о магазине."
-    },
-    {
-        "id": "M5250_S0010_G0010_001_a9s",
-        "jp": "ちょっと聞きたい事があるんだけど……",
-        "en": "I wanted to ask you something.",
-        "ru": "Я хочу спросить кое-что."
-    },
-    {
-        "id": "M5250_S0010_G0040_001_sele",
-        "jp": "店舗について聞く。",
-        "en": "Ask about the shop.",
-        "ru": "Спросить о магазине."
-    },
-    {
-        "id": "M5250_S0010_G0010_001_a9s",
-        "jp": "ちょっと聞きたい事があるんだけど……",
-        "en": "I wanted to ask you something.",
-        "ru": "Я хочу спросить кое-что."
-    },
-    {
-        "id": "M5250_S0010_G0020_001_sele",
-        "jp": "平和主義について聞く。",
-        "en": "Ask about being pacifists.",
-        "ru": "Спросить о жизни пацифистов."
-    },
-    {
-        "id": "M5250_S0010_G0040_001_sele",
-        "jp": "店舗について聞く。",
-        "en": "Ask about the shop.",
-        "ru": "Спросить о магазине."
-    },
-    {
-        "id": "M5250_S0010_G0010_001_a9s",
-        "jp": "ちょっと聞きたい事があるんだけど……",
-        "en": "I wanted to ask you something.",
-        "ru": "Я хочу спросить кое-что."
-    },
-    {
-        "id": "M5250_S0010_G0040_001_sele",
-        "jp": "店舗について聞く。",
-        "en": "Ask about the shop.",
-        "ru": "Спросить о магазине."
-    },
-    {
         "id": "M5250_S0010_G0000_001_pascal",
         "jp": "あら、９Ｓさん。どうされました？",
         "en": "Hello, 9S. What's on your mind?",
@@ -210,12 +150,6 @@
         "ru": "Хех. Выглядит забавно. Что ты делаешь?"
     },
     {
-        "id": "M5250_S0010_G0220_001_robochildrenA",
-        "jp": "アノネ、コイツヘンナノ！",
-        "en": "This kid's being weird!",
-        "ru": "Этот ребёнок странный!"
-    },
-    {
         "id": "M5250_S0010_G0230_001_robochildrenB",
         "jp": "価値ノ高イ硬貨ト安イ硬貨、ドッチガホシイ？ッテ聞クト、\\n安イ硬貨ガホシイッテ言ウンダゼ。",
         "en": "Yeah! I asked if he wanted a coin that's low value or one that's high value, and he said he wanted the worthless one!",
@@ -259,18 +193,6 @@
         "ru": "Видите? Он странный!"
     },
     {
-        "id": "M5250_S0010_G0300_001_robochildrenB",
-        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
-        "en": "Yeah. What a dummy!",
-        "ru": "Ага. Вот же дурачок!"
-    },
-    {
-        "id": "M5250_S0010_G0310_001_robostrange",
-        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
-        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
-        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
-    },
-    {
         "id": "M5250_S0010_G0320_001_a9s",
         "jp": "……計算用の回路に問題があるのかな。それとも思考回路自体が\\nおかしいのか。",
         "en": "Hmm. This little guy might have a bad mathematical processor. Or maybe his logic circuits got crossed somehow...",
@@ -281,36 +203,6 @@
         "jp": "……ちょっと中を覗いてみるか。",
         "en": "I should probably take a look inside.",
         "ru": "Вероятно, мне стоит заглянуть внутрь."
-    },
-    {
-        "id": "M5250_S0010_G0300_001_robochildrenB",
-        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
-        "en": "Yeah. What a dummy!",
-        "ru": "Ага. Вот же дурачок!"
-    },
-    {
-        "id": "M5250_S0010_G0310_001_robostrange",
-        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
-        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
-        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
-    },
-    {
-        "id": "M5250_S0010_G0290_001_robochildrenA",
-        "jp": "ネ？コイツヘンデショ？",
-        "en": "See? He's weird!",
-        "ru": "Видите? Он странный!"
-    },
-    {
-        "id": "M5250_S0010_G0300_001_robochildrenB",
-        "jp": "コウイウノハ馬鹿ッテ言ウンダヨ！",
-        "en": "Yeah. What a dummy!",
-        "ru": "Ага. Вот же дурачок!"
-    },
-    {
-        "id": "M5250_S0010_G0310_001_robostrange",
-        "jp": "バカ？ボクバカ？エヘヘ〜、アリガト〜",
-        "en": "I'M A DUMMY? HEE HEE! THANKS A LOT!",
-        "ru": "Я ДУРАЧОК? ХЕ-ХЕ! БОЛЬШОЕ СПАСИБО!"
     },
     {
         "id": "M5250_S0010_G0340_001_a9s",
@@ -324,12 +216,6 @@
         "en": "Hmm...",
         "ru": "Хм...",
         "jp_voice": "stream/Japanese/vo_plffff_0_003/481.wav"
-    },
-    {
-        "id": "M5250_S0010_G0360_001_robostrange",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
     },
     {
         "id": "M5250_S0010_G0370_001_a9s",
@@ -372,12 +258,6 @@
         "jp": "これは口止め料だ。",
         "en": "Here's a little hush money to smooth things over.",
         "ru": "Вот, небольшая сумма за ваше молчание."
-    },
-    {
-        "id": "M5250_S0010_G0410_001_robostrange",
-        "jp": "いいかい？愚か者だと思わせておいた方が真実に近づくのだ。\\n覚えておきたまえ。",
-        "en": "There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.",
-        "ru": "Здесь скрыт важный урок: чем больше окружающие считают вас глупцом, тем больше вы узнаёте об их истинной натуре."
     },
     {
         "id": "M5250_S0010_G0440_001_a9s",

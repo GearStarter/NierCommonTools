@@ -25,18 +25,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_000/526.wav"
     },
     {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
         "id": "M5032_S0010_G0000_001_a2b",
         "jp": "工場の情報から何かわかった事はある？",
         "en": "Did you learn anything from the factory data?",
@@ -249,13 +237,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_001/58.wav"
     },
     {
-        "id": "M5032_S0010_G0080_300_a2b",
-        "jp": "……中々素材が集まらない。",
-        "en": "We still don't have what we need.",
-        "ru": "У нас всё ещё нет того, что нужно.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/819.wav"
-    },
-    {
         "id": "M5032_S0010_G0090_300_a9s",
         "jp": "破損がひどくて使えないものばかりでしたね。",
         "en": "Yeah. Most of the gears were too damaged to use.",
@@ -320,11 +301,5 @@
         "en": "Heh. Straight to the point as always, 2B!",
         "ru": "Хех. Прямо к делу, как и всегда, 2B!",
         "en_voice": "stream/English(US)/vo_plffff_0_000/1936.wav"
-    },
-    {
-        "id": "M5031_S0020_G0100_300_a2b",
-        "jp": "今はこいつを修理している場合じゃない",
-        "en": "Now's not the time to be fixing this thing.",
-        "ru": "Сейчас не время чинить эту штуковину."
     }
 ]

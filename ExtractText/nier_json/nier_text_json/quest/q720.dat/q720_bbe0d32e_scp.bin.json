@@ -102,18 +102,6 @@
         "ru": "Я хочу найти их, но не могу бросить свою работу здесь..."
     },
     {
-        "id": "M5720_S0010_G0070_001_sele",
-        "jp": "捜索を手伝う。",
-        "en": "Help with the search.",
-        "ru": "Помочь с поисками."
-    },
-    {
-        "id": "M5720_S0010_G0080_001_sele",
-        "jp": "捜索を手伝わない。",
-        "en": "Decline the request.",
-        "ru": "Отклонить просьбу."
-    },
-    {
         "id": "M5720_S0010_G0190_001_resiman",
         "jp": "あいつらの連絡が途絶えたのは水没都市だ。もし死んでいたら……\\n代わりに遺品を集めてきてくれ。",
         "en": "I lost contact with my friends in the flooded city. If they're dead, could you please retrieve their personal items for me?",
@@ -328,12 +316,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/295.wav"
     },
     {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
         "id": "M5720_S0020_G0140_001_a9s",
         "jp": "あそこだッ救助に向かう！！",
         "en": "Over there! Initiating rescue!",
@@ -445,13 +427,6 @@
         "jp": "ギヒッ",
         "en": "EEEEE HEE HEE!",
         "ru": "ИХИ-ХИ-ХИ!"
-    },
-    {
-        "id": "M5590_S0050_G0150_001_pod153",
-        "jp": "敵性機械生命体の排除を確認。",
-        "en": "The hostile machine lifeforms have been defeated.",
-        "ru": "Враждебные машины были уничтожены.",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/485.wav"
     },
     {
         "id": "M5720_S0020_G0310_001_pod153",

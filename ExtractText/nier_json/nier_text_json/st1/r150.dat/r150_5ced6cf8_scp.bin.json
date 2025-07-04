@@ -19,36 +19,10 @@
         "ru": "Увидимся."
     },
     {
-        "id": "M6030_S0010_G0400_300_sp",
-        "jp": "何か交換していくかい？",
-        "en": "So then! What can I do ya for?",
-        "ru": "Итак! Что я могу для вас сделать?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
-    },
-    {
-        "id": "M6030_S0010_G0410_300_sp",
-        "jp": "また……な。",
-        "en": "See ya.",
-        "ru": "Увидимся."
-    },
-    {
         "id": "M6030_S0010_G0270_300_sp",
         "jp": "君達のおかげでまともな商品がそろってきたよ。",
         "en": "Thanks to you, I have a decent lineup of products.",
         "ru": "Благодаря вам, у меня приличная линейка продуктов."
-    },
-    {
-        "id": "M6030_S0010_G0280_300_sp",
-        "jp": "何か交換していくかい？",
-        "en": "Wanna do business?",
-        "ru": "Хотите провести сделку?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
-    },
-    {
-        "id": "M6030_S0010_G0290_300_sp",
-        "jp": "また寄ってくれよ。",
-        "en": "Come back any time.",
-        "ru": "Возвращайтесь в любое время."
     },
     {
         "id": "M6030_S0010_G0280_300_sp",
@@ -117,25 +91,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
-        "id": "M6030_S0010_G0180_300_sp",
-        "jp": "また寄ってくれよ。",
-        "en": "Come back any time.",
-        "ru": "Возвращайтесь в любое время."
-    },
-    {
-        "id": "M6030_S0010_G0170_300_sp",
-        "jp": "何か交換していくかい？",
-        "en": "Here to do a little business?",
-        "ru": "Прибыли, чтобы совершить небольшую сделку?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
-    },
-    {
-        "id": "M6030_S0010_G0180_300_sp",
-        "jp": "また寄ってくれよ。",
-        "en": "Come back any time.",
-        "ru": "Возвращайтесь в любое время."
-    },
-    {
         "id": "M1020_S0010_G0160_001_resi",
         "jp": "ああ、君達がヨルハか。話は聞いてるよ。",
         "en": "You're from YoRHa, right? I've heard about you guys.",
@@ -162,22 +117,6 @@
         "ru": "Если вам что-нибудь нужно, лучше позаботьтесь об этом здесь, пока можете.",
         "en_voice": "stream/English(US)/vo_plffff_0_003/669.wav",
         "jp_voice": "stream/Japanese/vo_plffff_0_003/747.wav"
-    },
-    {
-        "id": "M1020_S0010_G0300_001_resi",
-        "jp": "何か交換していくかい？",
-        "en": "What can I help you with?",
-        "ru": "Чем я могу помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
-    },
-    {
-        "id": "M1020_S0010_G0300_001_resi",
-        "jp": "何か交換していくかい？",
-        "en": "What can I help you with?",
-        "ru": "Чем я могу помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/683.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/761.wav"
     },
     {
         "id": "M1020_S0010_G0120_001_resi",
@@ -252,20 +191,6 @@
         "jp": "ありがと。",
         "en": "So I guess...you know. Thanks or whatever.",
         "ru": "Поэтому, ну... вы знаете. Спасибо."
-    },
-    {
-        "id": "M1020_S0010_G0250_001_resi",
-        "jp": "……あんまり無理しないようにね。",
-        "en": "Don't go trying to be a hero, all right?",
-        "ru": "И не пытайтесь геройствовать, хорошо?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
-    },
-    {
-        "id": "M1020_S0010_G0250_001_resi",
-        "jp": "……あんまり無理しないようにね。",
-        "en": "Don't go trying to be a hero, all right?",
-        "ru": "И не пытайтесь геройствовать, хорошо?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/756.wav"
     },
     {
         "id": "M6030_S0010_G0261_300_js",
@@ -465,18 +390,6 @@
         "ru": "Пс! Эй! Эй, друг! Не желаешь ли наркотиков?"
     },
     {
-        "id": "M6030_S0010_G0470_300_ys",
-        "jp": "ありがとう……これで……フフフフッ……",
-        "en": "See you later... Hee! Heeee hee hee hee...",
-        "ru": "Увидимся позже... Хи! Хи-хи-хи-хи..."
-    },
-    {
-        "id": "M6030_S0010_G0480_300_ys",
-        "jp": "……",
-        "en": "......",
-        "ru": "..."
-    },
-    {
         "id": "M6030_S0010_G0330_300_ys",
         "jp": "お疲れ様です！\\nあなたの活動記録は欠かさずチェックしてます！",
         "en": "Hey there! Hope you don't mind, but I've been tracking your activity log.",
@@ -625,11 +538,5 @@
         "jp": "外カラ来タノカ。",
         "en": "Did you come from the outside?",
         "ru": "Вы пришли снаружи?"
-    },
-    {
-        "id": "M5590_S0050_G0360_001_resistance",
-        "jp": "どんな文明があったんだろうなあ……この場所には。",
-        "en": "I wonder what kind of civilization used to exist here...",
-        "ru": "Интересно, какая цивилизация здесь жила..."
     }
 ]

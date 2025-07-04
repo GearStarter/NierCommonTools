@@ -98,36 +98,10 @@
         "ru": "ДЕВОЛА! ...Слушай, извини за все эти наши просьбы. Я знаю, что твоё время ценно. Пожалуйста, дай нам знать, если сможешь помочь позже."
     },
     {
-        "id": "M6090_S0020_G0780_300_dbl",
-        "jp": "やあ、何か見ていくか？",
-        "en": "Are you looking for something?",
-        "ru": "Ты что-то ищешь?"
-    },
-    {
         "id": "M5560_S0010_G0100_001_dbl",
         "jp": "ところで、仕事を手伝ってくれる気になったか？",
         "en": "Soooo, any chance you might help us out?",
         "ru": "Итак, ты нам всё-таки поможешь?"
-    },
-    {
-        "id": "M5560_S0010_G0060_001_sele",
-        "jp": "手伝う。",
-        "en": "Help the twins.",
-        "ru": "Помочь близняшкам.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/538.wav"
-    },
-    {
-        "id": "M5560_S0010_G0070_001_sele",
-        "jp": "断る。",
-        "en": "Decline.",
-        "ru": "Отказать.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/679.wav"
-    },
-    {
-        "id": "M6090_S0020_G0780_300_dbl",
-        "jp": "やあ、何か見ていくか？",
-        "en": "Are you looking for something?",
-        "ru": "Ты что-то ищешь?"
     },
     {
         "id": "M5560_S0010_G0130_001_dbl",
@@ -140,24 +114,6 @@
         "jp": "『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。",
         "en": "We need some stripped screws, small gears, and machine oil.",
         "ru": "Нам нужно немного сорванных винтов, маленьких шестерней и машинного масла."
-    },
-    {
-        "id": "M5560_S0010_G0111_001_dbl",
-        "jp": "『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。",
-        "en": "You can get stripped screws from the machines that look like they've been stacked on top of each other.",
-        "ru": "Сорванные винты можно добыть из машин, выглядящих так, будто их взгромоздили друг на друга."
-    },
-    {
-        "id": "M5560_S0010_G0112_001_dbl",
-        "jp": "『小さな歯車』は足の短い小型の機械生命体から取れたと思う。",
-        "en": "I think you can get small gears from the small machines with the short legs.",
-        "ru": "Маленькие шестерни можно достать из машин с короткими ногами."
-    },
-    {
-        "id": "M5560_S0010_G0113_001_ppl",
-        "jp": "『機械油』は廃工場の廃車トラック付近にあったと思うわ。",
-        "en": "You should be able to find some machine oil near a deserted truck at the abandoned factory.",
-        "ru": "Немного масла есть неподалёку от брошенного грузовика рядом с заброшенной фабрикой."
     },
     {
         "id": "M5560_S0010_G0150_001_a9s",
@@ -171,66 +127,6 @@
         "jp": "赤毛の双子に言われてた資材が揃ったな……渡しに行くか。",
         "en": "That's everything those redhead twins wanted.\\nGuess I'll hand it over.",
         "ru": "Вот и всё, что просили красноволосые близняшки. Теперь нужно передать это им."
-    },
-    {
-        "id": "M5560_S0010_G0130_001_dbl",
-        "jp": "そういえば、依頼品の方はどうなってる？",
-        "en": "Have you tracked down those materials I was asking about?",
-        "ru": "Как идут поиски материалов, которые я просила?"
-    },
-    {
-        "id": "M5560_S0010_G0140_001_ppl",
-        "jp": "『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。",
-        "en": "We need some stripped screws, small gears, and machine oil.",
-        "ru": "Нам нужно немного сорванных винтов, маленьких шестерней и машинного масла."
-    },
-    {
-        "id": "M5560_S0010_G0111_001_dbl",
-        "jp": "『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。",
-        "en": "You can get stripped screws from the machines that look like they've been stacked on top of each other.",
-        "ru": "Сорванные винты можно добыть из машин, выглядящих так, будто их взгромоздили друг на друга."
-    },
-    {
-        "id": "M5560_S0010_G0112_001_dbl",
-        "jp": "『小さな歯車』は足の短い小型の機械生命体から取れたと思う。",
-        "en": "I think you can get small gears from the small machines with the short legs.",
-        "ru": "Маленькие шестерни можно достать из машин с короткими ногами."
-    },
-    {
-        "id": "M5560_S0010_G0113_001_ppl",
-        "jp": "『機械油』は廃工場の廃車トラック付近にあったと思うわ。",
-        "en": "You should be able to find some machine oil near a deserted truck at the abandoned factory.",
-        "ru": "Немного масла есть неподалёку от брошенного грузовика рядом с заброшенной фабрикой."
-    },
-    {
-        "id": "M5560_S0010_G0130_001_dbl",
-        "jp": "そういえば、依頼品の方はどうなってる？",
-        "en": "Have you tracked down those materials I was asking about?",
-        "ru": "Как идут поиски материалов, которые я просила?"
-    },
-    {
-        "id": "M5560_S0010_G0140_001_ppl",
-        "jp": "『磨り減ったネジ』と『小さな歯車』、それに『機械油』があれば助かるわ。",
-        "en": "We need some stripped screws, small gears, and machine oil.",
-        "ru": "Нам нужно немного сорванных винтов, маленьких шестерней и машинного масла."
-    },
-    {
-        "id": "M5560_S0010_G0111_001_dbl",
-        "jp": "『磨り減ったネジ』は積み上がった機械生命体から取れるはずだ。",
-        "en": "You can get stripped screws from the machines that look like they've been stacked on top of each other.",
-        "ru": "Сорванные винты можно добыть из машин, выглядящих так, будто их взгромоздили друг на друга."
-    },
-    {
-        "id": "M5560_S0010_G0112_001_dbl",
-        "jp": "『小さな歯車』は足の短い小型の機械生命体から取れたと思う。",
-        "en": "I think you can get small gears from the small machines with the short legs.",
-        "ru": "Маленькие шестерни можно достать из машин с короткими ногами."
-    },
-    {
-        "id": "M5560_S0010_G0113_001_ppl",
-        "jp": "『機械油』は廃工場の廃車トラック付近にあったと思うわ。",
-        "en": "You should be able to find some machine oil near a deserted truck at the abandoned factory.",
-        "ru": "Немного масла есть неподалёку от брошенного грузовика рядом с заброшенной фабрикой."
     },
     {
         "id": "M5560_S0030_G0000_001_dbl",
@@ -311,34 +207,10 @@
         "ru": "Может быть, позже согласишься помочь нам снова?"
     },
     {
-        "id": "M5560_S0030_G0000_001_dbl",
-        "jp": "これこれ！ありがとう、助かったよ。",
-        "en": "Let's see... Yep! That's everything. Thanks for the help.",
-        "ru": "Давай-ка посмотрим... Да! Это всё. Спасибо за помощь."
-    },
-    {
-        "id": "M5560_S0030_G0010_001_ppl",
-        "jp": "じゃあデボル、早速作業に取り掛かりましょう。",
-        "en": "Then it's time for us to get to work, Devola.",
-        "ru": "Итак, нам пора приниматься за работу, Девола."
-    },
-    {
         "id": "M5560_S0030_G0030_001_a2",
         "jp": "お前達は何を作っているんだ？",
         "en": "So what are you guys making?",
         "ru": "Так что вы делаете?"
-    },
-    {
-        "id": "M5560_S0030_G0040_001_dbl",
-        "jp": "見れば判るだろ？キャンプの日用品だよ。",
-        "en": "Isn't it obvious? Daily necessities.",
-        "ru": "Разве это не очевидно? Предметы первой необходимости."
-    },
-    {
-        "id": "M5560_S0030_G0050_001_ppl",
-        "jp": "私達の仕事は雑用が多いから……",
-        "en": "We're often asked to handle various odd jobs around the camp.",
-        "ru": "Нас часто просят делать различную черную работу в лагере."
     },
     {
         "id": "M5560_S0030_G0070_001_a2",
@@ -347,45 +219,9 @@
         "ru": "И почему же они грузят вас подобным?"
     },
     {
-        "id": "M5560_S0030_G0080_001_ppl",
-        "jp": "……いいの。これが私達の仕事だから。",
-        "en": "Oh, it's no bother! We're happy to help however we can.",
-        "ru": "Ох, это не беда! Мы рады помогать всем, чем можем."
-    },
-    {
-        "id": "M5560_S0030_G0090_001_dbl",
-        "jp": "そうそう。仕事があるだけ、ありがたいと思わなきゃ。",
-        "en": "Frankly, we're thankful to just have a job of any kind.",
-        "ru": "Честно, мы с радостью делаем любую работу."
-    },
-    {
-        "id": "M5560_S0030_G0100_001_dbl",
-        "jp": "これはお礼だ。受け取ってくれ。",
-        "en": "Anyway, enough gabbing. Here's your reward.",
-        "ru": "В любом случае, хватит болтать. Вот твоя награда."
-    },
-    {
         "id": "M5560_S0030_G0120_001_a2",
         "jp": "こんなに貰うほど、働いてないぞ。",
         "en": "Uh, guys? This is a LOT.",
         "ru": "Ух, серьезно? Тут так МНОГО."
-    },
-    {
-        "id": "M5560_S0030_G0130_001_dbl",
-        "jp": "いいんだよ。どうせアタシ達には使うアテもないしね。",
-        "en": "Just take it already! It's not like we have anything to spend it on.",
-        "ru": "Просто возьми уже! Мы вряд ли столько потратим."
-    },
-    {
-        "id": "M5560_S0030_G0140_001_ppl",
-        "jp": "もらっておいて。",
-        "en": "Go on. You earned it.",
-        "ru": "Соглашайся. Ты заслуживаешь этого."
-    },
-    {
-        "id": "M5560_S0030_G0150_001_dbl",
-        "jp": "また、手伝ってくれよな。",
-        "en": "Maybe you'll agree to help us again later?",
-        "ru": "Может быть, позже согласишься помочь нам снова?"
     }
 ]

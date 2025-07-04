@@ -24,18 +24,6 @@
         "ru": "Мне нужно, чтобы вы выгрузили журнал моей подруги из этого бота..."
     },
     {
-        "id": "M5130_S0010_G0140_001_sele",
-        "jp": "協力する。",
-        "en": "Help her out.",
-        "ru": "Помочь ей."
-    },
-    {
-        "id": "M5130_S0010_G0150_001_sele",
-        "jp": "協力しない。",
-        "en": "Refuse.",
-        "ru": "Отказаться."
-    },
-    {
         "id": "M5130_S0010_G0000_001_resiwoman",
         "jp": "あ……う……",
         "en": "Owwwwww...",
@@ -118,12 +106,6 @@
         "jp": "ありがとう！",
         "en": "Thank you.",
         "ru": "Спасибо."
-    },
-    {
-        "id": "M5130_S0010_G0130_001_resiwoman",
-        "jp": "この壊れたポッドがライフログを撮っているハズだから、取り出してくれない？",
-        "en": "This broken Pod was recording her life log. Think you can get it for me?",
-        "ru": "Этот сломанный бот вёл журнал её жизнедеятельности. Сможете извлечь его для меня?"
     },
     {
         "id": "M5130_S0010_G0180_001_a9s",
@@ -252,24 +234,6 @@
         "ru": "Эй, и... спасибо."
     },
     {
-        "id": "M5130_S0030_G0060_001_resiwoman",
-        "jp": "この赤いフードのレジスタンスが彼女の仇……",
-        "en": "That person in the red hood killed my friend...",
-        "ru": "Этот андроид в красном капюшоне убил мою подругу..."
-    },
-    {
-        "id": "M5130_S0030_G0070_001_resiwoman",
-        "jp": "仲間を殺すなんて、許せないッ！",
-        "en": "And she's going to pay for it!",
-        "ru": "И она заплатит за это!"
-    },
-    {
-        "id": "M5130_S0030_G0110_001_resiwoman",
-        "jp": "犯人を探しだして……殺す。",
-        "en": "To kill the bastard who murdered my friend!",
-        "ru": "Убить тварь, что убила мою подругу!"
-    },
-    {
         "id": "M5130_S0030_G0190_001_a2b",
         "jp": "お人好し。",
         "en": "Well. Aren't we generous?",
@@ -381,12 +345,6 @@
         "jp": "ありがとうございます！",
         "en": "Thanks. I appreciate it.",
         "ru": "Спасибо. Премного благодарен."
-    },
-    {
-        "id": "M5130_S0120_G0120_001_resiwoman2",
-        "jp": "フード、手に入るといいね。",
-        "en": "Hope you manage to get a hood of your own!",
-        "ru": "Надеюсь, тебе удастся достать еще один такой капюшон!"
     },
     {
         "id": "M5130_S0120_G0120_001_resiwoman2",
@@ -539,18 +497,6 @@
         "ru": "Постарайтесь не угодить в один из её взрывов, хорошо?"
     },
     {
-        "id": "M5130_S0130_G0190_001_resiman",
-        "jp": "彼女なら今、砂漠の洞窟に地質調査に行ってるハズだ。",
-        "en": "I think she's off doing geological research in one of the desert caves.",
-        "ru": "Я думаю, она проводит геологические изыскания в одной из пустынных пещер."
-    },
-    {
-        "id": "M5130_S0130_G0220_001_resiman",
-        "jp": "君達も吹き飛ばされないように気をつけろよ。",
-        "en": "Just make sure you don't get caught up in one of her explosions, you hear?",
-        "ru": "Постарайтесь не угодить в один из её взрывов, хорошо?"
-    },
-    {
         "id": "M5130_S0130_G0240_001_a9s",
         "jp": "あの……ジャッカス……さん？",
         "en": "Excuse me? Are you...um...\"Jackass\"?",
@@ -663,18 +609,6 @@
         "jp": "ありがとうございました。失礼します。",
         "en": "Uh, well, thanks for your help. We'll be on our way.",
         "ru": "Эм, ну, спасибо за помощь. Мы, пожалуй, пойдём."
-    },
-    {
-        "id": "M5130_S0130_G0390_001_jackas",
-        "jp": "でも、今思えば、不思議なヤツだったな……",
-        "en": "That's even stupider than Jackass!",
-        "ru": "Да это даже тупее, чем Джекэсс!"
-    },
-    {
-        "id": "M5130_S0130_G0400_001_jackas",
-        "jp": "ずっと笑ってたよ。",
-        "en": "That lady WAS pretty creepy, though.\\nKept grinning at me like a crazy person.",
-        "ru": "Однако, эта дамочка была УЖАСНО пугающей.\\nУхмылялась мне, как сумасшедшая."
     },
     {
         "id": "M5130_S0140_G0000_001_pod153",
@@ -795,18 +729,6 @@
         "jp": "……判りました。では、始めます。",
         "en": "...All right. I'm heading in.",
         "ru": "...Хорошо. Приступаю."
-    },
-    {
-        "id": "M5130_S0140_G0170_001_resiwoman",
-        "jp": "……構わない。私は真実が知りたい。だからお願い！",
-        "en": "I don't care. I have to know the truth. Please!",
-        "ru": "Не важно. Я должна узнать правду. Пожалуйста!"
-    },
-    {
-        "id": "M5130_S0010_G0190_001_telo",
-        "jp": "ライフログから画像を取り出した。",
-        "en": "You extracted the images from the life log.",
-        "ru": "Вы извлекли изображения из журнала."
     },
     {
         "id": "M5130_S0150_G0010_001_resiwoman",
@@ -945,18 +867,6 @@
         "jp": "……行こう、９Ｓ……",
         "en": "...Let's go.",
         "ru": "...Идём."
-    },
-    {
-        "id": "M5130_S0150_G0190_001_resiwoman",
-        "jp": "友達を殺すのが……ヒヒッ……任務……",
-        "en": "I follow orders. I kill my friends. Eee hee hee!",
-        "ru": "Я следовала приказам. Я убила своих друзей. И-хи-хи!"
-    },
-    {
-        "id": "M5130_S0150_G0220_001_resiwoman",
-        "jp": "ヒヒッ……友達を殺したくなったら言ってね……私のしごと仕事シゴト仕事しごと\\n仕事シゴト仕事しごとナン仕事だから……ウフ",
-        "en": "Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...",
-        "ru": "И-хи-хи-хи! Желаете убить друга? Любимого? Таковая моя работа! Моя работа! Хи-хи! Моя работа! И-хи-хи! Моя р-работа, моя р-р-работа, мо-я-я-я р-рабо-и-хи-хи-хи..."
     },
     {
         "id": "M5130_S0150_G0240_001_a9s",

@@ -22,21 +22,6 @@
         "en_voice": "stream/English(US)/vo_plffff_2_000/20.wav"
     },
     {
-        "id": "M0010_S0700_G0032_101_a9s",
-        "jp": "ああ、鳥ですか。",
-        "en": "You mean the birds?",
-        "ru": "Ты про птиц?",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/54.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_2_000/54.wav"
-    },
-    {
-        "id": "M0010_S0700_G0033_101_a9s",
-        "jp": "環境の変化があったのか、動物や植物は\\n旧世界の時よりも増えているみたいですね。",
-        "en": "Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.",
-        "ru": "Да, теперь тут гораздо больше флоры и фауны, чем раньше. Вероятно, из-за изменений в окружающей среде.",
-        "en_voice": "stream/English(US)/vo_plffff_2_000/55.wav"
-    },
-    {
         "id": "M0010_S0700_G0061_101_a9s",
         "jp": "その橋の先に別の施設があるはずです。",
         "en": "There should be another facility across that bridge.",

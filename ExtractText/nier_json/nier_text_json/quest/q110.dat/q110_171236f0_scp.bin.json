@@ -60,18 +60,6 @@
         "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
     },
     {
-        "id": "M5110_S0010_G0021_001_sele",
-        "jp": "探す。",
-        "en": "Agree to help look for her.",
-        "ru": "Согласиться помочь с поисками."
-    },
-    {
-        "id": "M5110_S0010_G0022_001_sele",
-        "jp": "探さない。",
-        "en": "Refuse to help.",
-        "ru": "Отказаться помочь."
-    },
-    {
         "id": "M5110_S0010_G0080_001_a9s",
         "jp": "妹想いのお姉さん……",
         "en": "She sure cares about her little sister, huh?",
@@ -422,12 +410,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/47.wav"
     },
     {
-        "id": "M5110_S0030_G0000_001_roboimouto",
-        "jp": "うう……おうちにかえりたいヨゥ……おねえサン……",
-        "en": "I wanna go hoooome... Siiiiisteeeeer! Where are you!?",
-        "ru": "Я хочу домо-о-о-й... Сестра-а-а! Где же ты?!"
-    },
-    {
         "id": "M5110_S0040_G0000_001_roboimouto",
         "jp": "ここまでくれば、もうだいジョーブ！ひとりでかえれルヨ！",
         "en": "Hey, I know this place! I can get home by myself now.",
@@ -507,18 +489,6 @@
         "ru": "Я обещаю больше не доставлять проблем своей сестре."
     },
     {
-        "id": "M5110_S0010_G0001_300_sister",
-        "jp": "妹を連れ戻してくれてありがとうございました。",
-        "en": "Thank you for bringing my sister home.",
-        "ru": "Спасибо, что привели мою сестру домой."
-    },
-    {
-        "id": "M5110_S0010_G0004_300_youngsister",
-        "jp": "もうお姉ちゃんに心配かけるようなコトはしないヨ",
-        "en": "I promise not to make my sister worry any more.",
-        "ru": "Я обещаю больше не доставлять проблем своей сестре."
-    },
-    {
         "id": "M5110_S0030_G0180_001_a2b",
         "jp": "９Ｓ……あの迷子だった子が見当たらない。",
         "en": "9S? Where's the girl?",
@@ -565,23 +535,5 @@
         "jp": "ごめんごめん。次からは見失わないようにするから。",
         "en": "Sorry! Sorry. We'll try to walk slower, okay?",
         "ru": "Извини! Мы попробуем идти помедленнее, хорошо?"
-    },
-    {
-        "id": "M5110_S0010_G0070_001_roboane",
-        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
-        "en": "Can you please help me find my little sister? She's lost in the desert!",
-        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
-    },
-    {
-        "id": "M5110_S0010_G0070_001_roboane",
-        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
-        "en": "Can you please help me find my little sister? She's lost in the desert!",
-        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
-    },
-    {
-        "id": "M5110_S0010_G0070_001_roboane",
-        "jp": "砂漠で迷子になってイル私の妹を、どうか探してくだサイ！",
-        "en": "Can you please help me find my little sister? She's lost in the desert!",
-        "ru": "Не могли бы вы помочь мне отыскать мою младшую сестру? Она потерялась в пустыне!"
     }
 ]

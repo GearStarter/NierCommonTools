@@ -180,24 +180,6 @@
         "ru": "Но эй, попытка не пытка. Не похоже, что у нас есть какие-то другие варианты."
     },
     {
-        "id": "M5121_S0010_G0060_001_manager",
-        "jp": "はあ……気になる……気になり過ぎる……",
-        "en": "*sigh* Why can't I stop thinking about it...?",
-        "ru": "*вздох* И почему я никак не могу перестать думать об этом?.."
-    },
-    {
-        "id": "M5121_S0010_G0180_001_sele",
-        "jp": "『開くと音の鳴る箱』を探す。",
-        "en": "Go look for the missing item.",
-        "ru": "Отправиться на поиски."
-    },
-    {
-        "id": "M5121_S0010_G0190_001_sele",
-        "jp": "神経質な相手なので放置する。",
-        "en": "Let the weirdo work it out herself.",
-        "ru": "Пусть чудачка сама разбирается."
-    },
-    {
         "id": "M5121_S0010_G0000_300_manager",
         "jp": "『開くと音の鳴る箱』は見つかった？",
         "en": "Did you find the music box I asked you about?",
@@ -316,11 +298,5 @@
         "jp": "あなた達も、奥に自由に出入りしていいからね。",
         "en": "Oh, and you two are welcome to enter the back anytime you like from now on.",
         "ru": "О, кстати, теперь вы можете пройти внутрь, приходите в любое время."
-    },
-    {
-        "id": "M5121_S0010_G0000_300_manager",
-        "jp": "『開くと音の鳴る箱』は見つかった？",
-        "en": "Did you find the music box I asked you about?",
-        "ru": "Вы нашли музыкальную шкатулку, о которой я говорила?"
     }
 ]

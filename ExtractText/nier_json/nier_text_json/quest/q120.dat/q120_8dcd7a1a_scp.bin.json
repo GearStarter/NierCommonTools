@@ -90,36 +90,6 @@
         "ru": "Отказаться помочь."
     },
     {
-        "id": "M5120_S0010_G0030_001_toolshop",
-        "jp": "何か買っていくかい？",
-        "en": "So then! To business. What can I get you?",
-        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
-    },
-    {
-        "id": "M5120_S0010_G0060_001_toolshop",
-        "jp": "今、チップ関係は機材不調で休業中だ。",
-        "en": "I'd love to sell plug-in chips, but I don't have the necessary raw materials.",
-        "ru": "Я бы с удовольствием продавал их, но у меня нет нужного сырья для их создания."
-    },
-    {
-        "id": "M5120_S0010_G0070_001_toolshop",
-        "jp": "修理資材があれば対応出来るんだが……",
-        "en": "Now, if I happened to GET those raw materials, I bet we could do business. But until then...",
-        "ru": "Но, если вдруг случится так, что у меня ПОЯВИТСЯ сырьё, я бы смог сделать парочку. А до той поры..."
-    },
-    {
-        "id": "M5120_S0010_G0130_001_sele",
-        "jp": "依頼を引き受ける。",
-        "en": "Agree to help.",
-        "ru": "Согласиться помочь."
-    },
-    {
-        "id": "M5120_S0010_G0140_001_sele",
-        "jp": "依頼を断る。",
-        "en": "Refuse to help.",
-        "ru": "Отказаться помочь."
-    },
-    {
         "id": "M5120_S0010_G0150_001_a2b",
         "jp": "……了解。",
         "en": "All right.",
@@ -154,24 +124,6 @@
         "jp": "もし時間があれば、修理用の資材を頼まれてくれないか？",
         "en": "If you've got the time, can you help me find some raw materials?",
         "ru": "Если вы сейчас свободны, может поможете мне раздобыть материалы?"
-    },
-    {
-        "id": "M5920_S0010_G0280_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5920_S0020_G0280_001_pod153",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M5120_S0010_G0030_001_toolshop",
-        "jp": "何か買っていくかい？",
-        "en": "So then! To business. What can I get you?",
-        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
     },
     {
         "id": "M5120_S0010_G0200_001_toolshop",
@@ -220,18 +172,6 @@
         "jp": "はーい。",
         "en": "Yeah, yeah...",
         "ru": "Ладно, ладно..."
-    },
-    {
-        "id": "M5120_S0010_G0030_001_toolshop",
-        "jp": "何か買っていくかい？",
-        "en": "So then! To business. What can I get you?",
-        "ru": "Ну что ж! Давайте к делу. Чем могу вам помочь?"
-    },
-    {
-        "id": "M5120_S0010_G0200_001_toolshop",
-        "jp": "依頼した『壊れたゼンマイ』、『小さな歯車』、『壊れた回路』を\\n忘れないでくれよ。",
-        "en": "I need one broken key, one small gear, and one broken circuit. Don’t forget!",
-        "ru": "Мне нужны: 1 сломанный ключ, 1 маленькая шестерня и 1 сломанная схема. Не забудьте!"
     },
     {
         "id": "M5120_S0030_G0000_001_toolshop",

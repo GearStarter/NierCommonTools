@@ -98,24 +98,6 @@
         "ru": "Продолжайте усердно работать, чтобы получить лучший результат!"
     },
     {
-        "id": "M5091_S0020_G0040_001_reception",
-        "jp": "バトルに参加するかい？",
-        "en": "Care to join the fray?",
-        "ru": "Хотите поучаствовать в сражении?"
-    },
-    {
-        "id": "M5091_S0020_G0050_001_sele",
-        "jp": "バトルに参加する。",
-        "en": "Sign up to fight.",
-        "ru": "Записаться на участие."
-    },
-    {
-        "id": "M5091_S0020_G0060_001_sele",
-        "jp": "バトルに参加しない。",
-        "en": "Walk away.",
-        "ru": "Уйти."
-    },
-    {
         "id": "M5091_S0055_G0000_001_reception",
         "jp": "待ってたよ！君のために特別なランクを用意したんだ！",
         "en": "We prepared a special new rank for you! Hope you like lots of pain!",
@@ -252,12 +234,6 @@
         "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
-        "id": "M5091_S0030_G0040_001_moderator",
-        "jp": "そこまでとします！",
-        "en": "That's all she wrote, folks!",
-        "ru": "На этом всё, ребятки!"
-    },
-    {
         "id": "M5091_S0030_G0090_001_moderator",
         "jp": "ではこれより、Ｄランクの戦闘を～開始！",
         "en": "It's time to kick off this D-rank match, folks!",
@@ -308,21 +284,6 @@
         "jp": "ロボットの癖に何様って感じだよね？アハハッ！",
         "en": "Not that a hunk of junk like that even has a life worth begging for! Ha ha!",
         "ru": "Этот кусок металлического хлама не заслужил пощады! Ха-ха!"
-    },
-    {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
-    },
-    {
-        "id": "M5091_S0030_G0120_001_moderator",
-        "jp": "そこまでとします！",
-        "en": "That's it! We're finished!",
-        "ru": "Вот и всё! Мы закончили!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/63.wav"
     },
     {
         "id": "M5091_S0030_G0170_001_moderator",
@@ -382,21 +343,6 @@
         "ru": "НЕТ. НЕТ! НЕЕЕЕЕЕЕЕЕТ!"
     },
     {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
-    },
-    {
-        "id": "M5091_S0030_G0190_001_moderator",
-        "jp": "はーい。そこまでとしま～す。",
-        "en": "This one's all over!",
-        "ru": "На этом всё!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/66.wav"
-    },
-    {
         "id": "M5091_S0030_G0270_001_moderator",
         "jp": "血と油と歯車に魅せられし者達よ……",
         "en": "Are you ready for another feast of oil, gears, and blood?",
@@ -441,21 +387,6 @@
         "jp": "コノ戦イニ勝テバ……解放サレル……勝タナキャ……",
         "en": "IF I WIN...I AM FREE. I MUST WIN. I MUST...",
         "ru": "ЕСЛИ Я ВЫИГРАЮ... Я ОСВОБОЖУСЬ. Я ДОЛЖЕН ВЫИГРАТЬ. ДОЛЖЕН..."
-    },
-    {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
-    },
-    {
-        "id": "M5091_S0030_G0310_001_moderator",
-        "jp": "そこまでとします！",
-        "en": "That's it! We're done! It's over!",
-        "ru": "Вот оно! Отличное исполнение! Бой окончен!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/71.wav"
     },
     {
         "id": "M5091_S0030_G0340_001_moderator",
@@ -519,21 +450,6 @@
         "jp": "まあ、壊れたら取りかえればいいんだしな。",
         "en": "Not like I can't just get another one.",
         "ru": "Не похоже, чтоб я не мог найти себе другую."
-    },
-    {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
-    },
-    {
-        "id": "M5091_S0030_G0370_001_moderator",
-        "jp": "そこまでとします！",
-        "en": "The battle is over!",
-        "ru": "Бой окончен!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/75.wav"
     },
     {
         "id": "M5091_S0030_G0440_001_moderator",
@@ -623,20 +539,6 @@
         "ru": "Эй, хочешь чего-нибудь интересненького?"
     },
     {
-        "id": "M5091_S0040_G0012_001_reception",
-        "jp": "アソコの奥に行ってみな？面白いモノがあるぜ。",
-        "en": "Have a look back there. You'll love it!",
-        "ru": "Обернись. Тебе понравится!"
-    },
-    {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
-    },
-    {
         "id": "M5091_S0030_G0010_300_moderator",
         "jp": "そこまでとします！",
         "en": "That's all she wrote, folks!",
@@ -669,33 +571,6 @@
         "jp": "それでは、開始！",
         "en": "Ready? Fight!",
         "ru": "Готовы? НАЧАЛИ!"
-    },
-    {
-        "id": "M5091_S0060_G0040_001_moderator",
-        "jp": "そこまで！",
-        "en": "That's enough!",
-        "ru": "Достаточно!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/86.wav"
-    },
-    {
-        "id": "M5091_S0065_G0020_001_reception",
-        "jp": "お疲れさま。今回の戦いで掛かった時間は<time>だ。",
-        "en": "The time you took to complete this battle is: <time>.",
-        "ru": "Время, затраченное на битву: <time>."
-    },
-    {
-        "id": "M5091_S0065_G0030_001_reception",
-        "jp": "次の君の熱い挑戦を待っているよ。",
-        "en": "I'm sure you can do better!",
-        "ru": "Я уверен, ты сможешь лучше!"
-    },
-    {
-        "id": "M5091_S0030_G0030_001_moderator",
-        "jp": "では、開始します！",
-        "en": "Let the battle begin!",
-        "ru": "Да начнется бой!",
-        "en_voice": "stream/English(US)/vo_plfffe_0_000/58.wav",
-        "jp_voice": "stream/Japanese/vo_plfffe_0_000/58.wav"
     },
     {
         "id": "M5091_S0060_G0040_001_moderator",
@@ -777,22 +652,10 @@
         "ru": "Выйти"
     },
     {
-        "id": "M5091_S0030_G0010_300_moderator",
-        "jp": "そこまでとします！",
-        "en": "That's all she wrote, folks!",
-        "ru": "На этом всё, ребятки!"
-    },
-    {
         "id": "M5091_S0030_G0020_300_reception",
         "jp": "残念だったな！これに懲りずにまた挑戦してくれよ！",
         "en": "Tough luck. But don't let it stop you—just try, try again!",
         "ru": "Везёт, как утопленнику. Не расстраивайся, попробуй ещё раз!"
-    },
-    {
-        "id": "M5091_S0030_G0010_300_moderator",
-        "jp": "そこまでとします！",
-        "en": "That's all she wrote, folks!",
-        "ru": "На этом всё, ребятки!"
     },
     {
         "id": "M5091_S0060_G0052_001_reception",
@@ -805,12 +668,6 @@
         "jp": "使用前には『必ず』説明を読むんだぞ……？",
         "en": "Make ABSOLUTELY sure you read the instructions before using it, okay?",
         "ru": "Обязательно УДОСТОВЕРЬТЕСЬ, что прочитали инструкцию, прежде чем использовать его, хорошо?"
-    },
-    {
-        "id": "M5091_S0060_G0050_001_reception",
-        "jp": "今回の景品はこれだ。受け取ってくれ。",
-        "en": "Here's your reward.",
-        "ru": "Вот ваша награда!"
     },
     {
         "id": "M5091_S0060_G0050_001_reception",
@@ -861,18 +718,6 @@
         "ru": "Да? Вам ещё что-то нужно?"
     },
     {
-        "id": "M5091_S0070_G0010_300_sele",
-        "jp": "アレと戦わせて欲しい。",
-        "en": "I wanna fight you-know-who.",
-        "ru": "Я хочу сразиться с сам-знаешь-кем."
-    },
-    {
-        "id": "M5091_S0070_G0020_300_sele",
-        "jp": "特に用はない。",
-        "en": "Nope.",
-        "ru": "Не-а."
-    },
-    {
         "id": "M5091_S0070_G0060_001_secretary",
         "jp": "あいにくですが、私の一存では決めかねますので。",
         "en": "I'm sorry, I'm not authorized to make that decision.",
@@ -883,18 +728,6 @@
         "jp": "お客様……一応お伺いしますが、どのようなご用件でしょうか？",
         "en": "Okay, I'm going to ask again, because I'm nice: IS there something I can help you with?",
         "ru": "Хорошо, спрошу снова, только потому, что я милашка: могу ли я вам чем-то помочь?"
-    },
-    {
-        "id": "M5091_S0070_G0010_300_sele",
-        "jp": "アレと戦わせて欲しい。",
-        "en": "I wanna fight you-know-who.",
-        "ru": "Я хочу сразиться с сам-знаешь-кем."
-    },
-    {
-        "id": "M5091_S0070_G0020_300_sele",
-        "jp": "特に用はない。",
-        "en": "Nope.",
-        "ru": "Не-а."
     },
     {
         "id": "M5091_S0070_G0080_001_secretary",
@@ -925,18 +758,6 @@
         "jp": "恐れ入りますが、本当に、本当に戦って問題ないでしょうか？\\nコレが最後の確認になります。",
         "en": "Are you REALLY super duper sure you want to do this? This is your last chance to back out!",
         "ru": "Вы ДЕЙСТВИТЕЛЬНО уверены, что хотите это сделать? Это ваш последний шанс отказаться!"
-    },
-    {
-        "id": "M5091_S0070_G0170_300_sele",
-        "jp": "はい",
-        "en": "Immersion schmimmersion!",
-        "ru": "Погружение-попогружение!"
-    },
-    {
-        "id": "M5091_S0070_G0180_300_sele",
-        "jp": "やめる",
-        "en": "I most certainly am not.",
-        "ru": "Точно не я."
     },
     {
         "id": "M5091_S0070_G0110_001_secretary",
@@ -1303,12 +1124,6 @@
         "jp": "おいおい。せっかく許可出してやってるんだから見ていけよ。",
         "en": "Hey, come on now! I'm letting you have a look! Don't be rude!",
         "ru": "Эй, ну ты чего! Взгляни! Не будь такой грубой!"
-    },
-    {
-        "id": "M5091_S0030_G0070_001_roboman",
-        "jp": "スミマセン、スミマセン。",
-        "en": "I AM SORRY. I AM SORRY.",
-        "ru": "Я ИЗВИНЯЮСЬ. Я ИЗВИНЯЮСЬ."
     },
     {
         "id": "M5091_S0030_G0085_001_andman",

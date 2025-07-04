@@ -42,12 +42,6 @@
         "ru": "Некоторые думают, что это место — смехотворно; они просто наивные идиоты, непонимающие насколько здесь здорово. Мне жаль их. Как считаешь?"
     },
     {
-        "id": "M6120_S0010_G0030_001_resi",
-        "jp": "ここの施設をたまに悪く言うバカがいるんだが、ココの楽しさが分からないなんて本当に可哀相な奴らだ。お前もそう思うだろ？",
-        "en": "Some people make fun of this place, but they're just simple-minded idiots who don't know what fun is. I feel sorry for 'em. Don't you?",
-        "ru": "Некоторые думают, что это место — смехотворно; они просто наивные идиоты, непонимающие насколько здесь здорово. Мне жаль их. Как считаешь?"
-    },
-    {
         "id": "M6120_S0020_G0000_001_resi",
         "jp": "どうだい、アンタも楽しんでるかい？",
         "en": "Hey there. Having fun?",
@@ -82,12 +76,6 @@
         "jp": "それに、ここの金の一部は上に流れているしな。\\nまぁ組織っていうのはそんなものさ。",
         "en": "Besides, some of the money we make here goes directly towards the top. That's society for ya.",
         "ru": "Кроме того, часть выручки, которую мы здесь делаем, направляется руководству. Такое вот наше общество."
-    },
-    {
-        "id": "M6120_S0020_G0060_001_resi",
-        "jp": "アンタも、あんまり余計な事に首を突っ込まない方が身のためだぜ。",
-        "en": "You'd better not poke your nose where it don't belong either, ya hear?",
-        "ru": "Не суй свой нос в чужой вопрос, понятно?"
     },
     {
         "id": "M6120_S0020_G0060_001_resi",
@@ -174,12 +162,6 @@
         "ru": "Извините, это место недоступно."
     },
     {
-        "id": "M6120_S0070_G0000_001_resi",
-        "jp": "悪いが此処から先は立入禁止だ。",
-        "en": "Sorry, this place is off-limits.",
-        "ru": "Извините, это место недоступно."
-    },
-    {
         "id": "M6120_S0070_G0020_001_resi",
         "jp": "どうだい、これ以上に面白い見世物はそうないだろ？",
         "en": "You're not gonna find any better entertainment than this place, lemme tell ya.",
@@ -208,12 +190,6 @@
         "jp": "アイツは負けが続いて金を返せなくなって、どこかに連れて行かれちまったよ。全く馬鹿なやつだよ。",
         "en": "She kept losin' until she ran out of money, then she got dragged off somewhere. Dumb broad.",
         "ru": "Она проигрывала до тех пор, пока не кончились деньги, а потом её куда-то утащили. Глупая баба."
-    },
-    {
-        "id": "M6120_S0080_G0040_001_resi",
-        "jp": "俺はまだやれる。ヨシ次はもっと大穴狙いだ……",
-        "en": "That won't happen to me though! I'm ready for my next big win!",
-        "ru": "Со мной такого не случится! Я готов к следующей большой победе!"
     },
     {
         "id": "M6120_S0080_G0040_001_resi",
@@ -462,12 +438,6 @@
         "ru": "Не знаю, правильно ли всё это, быть может, мы все давным-давно сошли с ума..."
     },
     {
-        "id": "M6120_S0170_G0100_001_resi",
-        "jp": "ここにいる奴らが正常なのか狂っているのか、誰が判断出来るんだろうな……",
-        "en": "I dunno whether we're all doin' the right thing, or if we're all just completely deranged...",
-        "ru": "Не знаю, правильно ли всё это, быть может, мы все давным-давно сошли с ума..."
-    },
-    {
         "id": "M6120_S0180_G0000_001_resi",
         "jp": "クソッ、また負けだ！！",
         "en": "Dammit, I lost again!",
@@ -490,18 +460,6 @@
         "jp": "クソッ、バトルになんか参加するんじゃなかった！",
         "en": "Man, I should NOT have tried becoming a contestant!",
         "ru": "Блин, мне НЕ стоило участвовать!"
-    },
-    {
-        "id": "M6120_S0180_G0000_001_resi",
-        "jp": "クソッ、また負けだ！！",
-        "en": "Dammit, I lost again!",
-        "ru": "Чёрт, я снова продул..."
-    },
-    {
-        "id": "M6120_S0180_G0010_001_resi",
-        "jp": "いっそ、俺もバトルに参加してみるか……",
-        "en": "Maybe I should try becoming a contestant...",
-        "ru": "Может, мне стоит поучаствовать..."
     },
     {
         "id": "M6120_S0190_G0000_001_resi",
@@ -580,12 +538,6 @@
         "jp": "アイツなら100連勝してココから抜け出してくれると思ったが……",
         "en": "I was sure he was gonna get 100 victories and escape this place, but there you go...",
         "ru": "Я думал, что он одержит 100 побед и покинет это место, но вы..."
-    },
-    {
-        "id": "M6120_S0200_G0070_001_resi",
-        "jp": "所詮、アンドロイドも機械生命体も定められた運命からは逃れられないのか……",
-        "en": "Just goes to show that no one can escape their destiny, be they android or machine.",
-        "ru": "Просто пришли и дали понять, что невозможно избежать своей судьбы, будь ты андроид или машина."
     },
     {
         "id": "M6120_S0200_G0070_001_resi",

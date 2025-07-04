@@ -21,30 +21,6 @@
         "jp_voice": "stream/Japanese/vo_plffff_0_000/923.wav"
     },
     {
-        "id": "M5330_S0000_G0030_001_a2",
-        "jp": "変わった花だな……",
-        "en": "What a weird flower...",
-        "ru": "Какой необычный цветок..."
-    },
-    {
-        "id": "M5330_S0000_G0040_001_a9s",
-        "jp": "……",
-        "en": "...",
-        "ru": "..."
-    },
-    {
-        "id": "M5330_S0000_G0010_001_a2b",
-        "jp": "不思議な花だ……",
-        "en": "What an odd flower...",
-        "ru": "Какой странный цветок..."
-    },
-    {
-        "id": "M5330_S0000_G0020_001_a9s",
-        "jp": "不思議な花だ……",
-        "en": "That's a peculiar little flower...",
-        "ru": "Какой необычный маленький цветок..."
-    },
-    {
         "id": "M5330_S0010_G0030_001_eml",
         "jp": "……",
         "en": "......",
@@ -355,18 +331,5 @@
         "en": "You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone.",
         "ru": "Вы помогли мне найти мои бесценные воспоминания. Теперь я смогу продолжить своё дело, пусть даже я совсем один.",
         "en_voice": "stream/English(US)/vo_plffff_0_001/1057.wav"
-    },
-    {
-        "id": "M5330_S0080_G0300_001_eml",
-        "jp": "おかげで、大切なものを思い出す事ができました。この思い出があれば、\\n僕は一人でも頑張れます。",
-        "en": "You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone.",
-        "ru": "Вы помогли мне найти мои бесценные воспоминания. Теперь я смогу продолжить своё дело, пусть даже я совсем один.",
-        "en_voice": "stream/English(US)/vo_plffff_0_001/1057.wav"
-    },
-    {
-        "id": "M5330_S0010_G0190_001_eml",
-        "jp": "もし、月の涙を見つけた時は、この周波数に通信してください。",
-        "en": "If you find another Lunar Tear, just let me know on this frequency, all right?",
-        "ru": "Если вы найдёте ещё лунную слезу, просто свяжитесь со мной, хорошо?"
     }
 ]

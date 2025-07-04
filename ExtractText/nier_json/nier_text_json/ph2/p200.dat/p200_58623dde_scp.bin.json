@@ -521,12 +521,6 @@
         "en_voice": "stream/English(US)/vo_plffff_0_001/767.wav"
     },
     {
-        "id": "M1070_S0020_G0280_101_ane",
-        "jp": "……ん？何か用か？",
-        "en": "Hm? What's up?",
-        "ru": "Хм? Что-то нужно?"
-    },
-    {
         "id": "M1070_S0020_G0000_300_dbl",
         "jp": "……",
         "en": "......",
@@ -563,27 +557,6 @@
         "en": "And you don't have to trust every idiot that wanders by!",
         "ru": "А тебе не следует доверять каждому проходимцу!",
         "en_voice": "stream/English(US)/vo_plffff_0_001/933.wav"
-    },
-    {
-        "id": "M1070_S0020_G0400_101_ppl",
-        "jp": "ごめんなさいね。何か御用でも？",
-        "en": "...I'm sorry about that. Can we help you?",
-        "ru": "Прошу прощения за это... Можем мы чем-то помочь?",
-        "en_voice": "stream/English(US)/vo_plffff_0_003/636.wav"
-    },
-    {
-        "id": "M1070_S0020_G0410_101_sele",
-        "jp": "スキャナーを探している。",
-        "en": "I need a scanner.",
-        "ru": "Мне нужен сканер."
-    },
-    {
-        "id": "M1070_S0020_G0420_101_sele",
-        "jp": "いや……特にない。",
-        "en": "No, not really.",
-        "ru": "Нет, не совсем.",
-        "en_voice": "stream/English(US)/vo_plffff_0_000/610.wav",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/610.wav"
     },
     {
         "id": "M1070_S0020_G0400_101_ppl",
@@ -852,18 +825,6 @@
         "en": "Thank you. You should stay here until the rescue team arrives.",
         "ru": "Спасибо. Оставайся здесь до прибытия спасательной команды.",
         "en_voice": "stream/English(US)/vo_plffff_0_000/620.wav"
-    },
-    {
-        "id": "M5920_S0010_G0281_001_pod042",
-        "jp": "目標地点の情報を入手。マップにマーク。",
-        "en": "Target location data obtained. Marking on map.",
-        "ru": "Получены данные о местоположении цели. Отмечаю на карте."
-    },
-    {
-        "id": "M1070_S0040_G0120_101_ys",
-        "jp": "う……",
-        "en": "Nnngh...",
-        "ru": "Нгх..."
     },
     {
         "id": "M1070_S0040_G0230_101_a2b",
