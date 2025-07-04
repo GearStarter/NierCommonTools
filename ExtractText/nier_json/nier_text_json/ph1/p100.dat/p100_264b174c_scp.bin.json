@@ -3,44 +3,51 @@
         "id": "M5920_S0010_G0360_001_pod042",
         "jp": "警告：アクセスポイントに通信障害。",
         "en": "Alert: Access point communications jammed.",
-        "ru": "Внимание: связь с терминалом нарушена."
+        "ru": "Внимание: связь с терминалом нарушена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/108.wav"
     },
     {
         "id": "M5920_S0020_G0360_001_pod153",
         "jp": "警告：アクセスポイントに通信障害。",
         "en": "Alert: Access point communications jammed.",
-        "ru": "Внимание: связь с терминалом нарушена."
+        "ru": "Внимание: связь с терминалом нарушена.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/563.wav"
     },
     {
         "id": "M5920_S0010_G0370_001_pod042",
         "jp": "予測：当該地帯の敵による通信妨害。",
         "en": "Hypothesis: Jamming caused by enemies in local vicinity.",
-        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала."
+        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/109.wav"
     },
     {
         "id": "M5920_S0020_G0370_001_pod153",
         "jp": "予測：当該地帯の敵による通信妨害。",
         "en": "Hypothesis: Jamming caused by enemies in local vicinity.",
-        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала."
+        "ru": "Предположение: сбой вызван противниками, находящимися вблизи терминала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/564.wav"
     },
     {
         "id": "M5920_S0010_G0380_001_pod042",
         "jp": "推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。",
         "en": "Proposal: Eliminate enemies in vicinity and restore access point immediately.",
-        "ru": "Предложение: устраните противников и восстановите работу терминала."
+        "ru": "Предложение: устраните противников и восстановите работу терминала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/110.wav"
     },
     {
         "id": "M5920_S0020_G0380_001_pod153",
         "jp": "推奨：当該地域の敵排除と、アクセスポイントの速やかな復旧。",
         "en": "Proposal: Eliminate enemies in vicinity and restore access point immediately.",
-        "ru": "Предложение: устраните противников и восстановите работу терминала."
+        "ru": "Предложение: устраните противников и восстановите работу терминала.",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/565.wav"
     },
     {
         "id": "M5920_S0070_G0000_001_pod042",
         "jp": "バンカーよりマップデータを入手。",
         "en": "Map data obtained from Bunker.",
         "ru": "Картографические данные получены из Бункера.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_003/223.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_003/223.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/145.wav"
     },
     {
         "id": "M5920_S0070_G0010_001_pod042",
@@ -62,7 +69,8 @@
         "id": "M5920_S0070_G0040_001_a9s",
         "jp": "衛星から取得出来る解像度が粗くて、\\nあまり正確な形状が把握出来ないんですよね。",
         "en": "It's hard to get an accurate picture from this—our satellite resolution isn't so hot.",
-        "ru": "По этой карте трудно ориентироваться — разрешение наших спутников далеко не лучшее."
+        "ru": "По этой карте трудно ориентироваться — разрешение наших спутников далеко не лучшее.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/358.wav"
     },
     {
         "id": "M5920_S0070_G0050_001_a9s",
@@ -98,6 +106,7 @@
         "jp": "旧世界の情報か……",
         "en": "Old-world data, huh?",
         "ru": "Информация из старого мира, да?",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/438.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/438.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/356.wav"
     }
 ]

@@ -219,7 +219,8 @@
         "id": "M5920_S0100_G0060_001_op60",
         "jp": "ははっ……２Ｂさんらしいですね。",
         "en": "Hee hee! That is so like you, 2B.",
-        "ru": "Хи-хи! Это так похоже на тебя, 2B."
+        "ru": "Хи-хи! Это так похоже на тебя, 2B.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/362.wav"
     },
     {
         "id": "M5920_S0100_G0070_001_op60",
@@ -253,20 +254,23 @@
         "id": "M5920_S0100_G0350_001_op210",
         "jp": "天気の情報は必要ありません。以上です。",
         "en": "And...no need for a weather report. Operator 21O out.",
-        "ru": "И... не стоит докладывать мне о погоде. Оператор 21O — конец связи."
+        "ru": "И... не стоит докладывать мне о погоде. Оператор 21O — конец связи.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/240.wav"
     },
     {
         "id": "M5920_S0100_G0360_001_a9s",
         "jp": "いやあ、オペレーターさん、相変わらずカタイなあ……",
         "en": "Aw, you don't have to be so formal all the time, Operator.",
-        "ru": "Эх, оператор, не нужно постоянно быть такой формальной."
+        "ru": "Эх, оператор, не нужно постоянно быть такой формальной.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/364.wav"
     },
     {
         "id": "M5920_S0100_G0370_001_a9s",
         "jp": "そこがいいところな気もしますけど。",
         "en": "Though I kinda like that about you.",
         "ru": "Хотя, мне нравится эта твоя черта.",
-        "jp_voice": "stream/Japanese/vo_plffff_0_001/447.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_001/447.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/365.wav"
     },
     {
         "id": "M6090_S0010_G0015_300_kj",

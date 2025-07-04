@@ -17,7 +17,8 @@
         "id": "M1080_S0080_G0120_300_a9s",
         "jp": "クソッ！\\nもっとパワーのある機体に乗り換えた方が良いかもしれないな……",
         "en": "Damn it! Maybe I should've taken over something with a little more power...",
-        "ru": "Чёрт! Надо было взять с собой что-нибудь помощнее..."
+        "ru": "Чёрт! Надо было взять с собой что-нибудь помощнее...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1544.wav"
     },
     {
         "id": "M1080_S0080_G0150_300_a9s",
@@ -31,7 +32,8 @@
         "id": "M1080_S0080_G0300_300_a9s",
         "jp": "よし、このエレベーターをハッキングで起動させれば、\\n２Ｂ達が脱出することが出来ますね！！",
         "en": "All right. If I can hack this elevator and get it running, I can get 2B and everyone else out of here!",
-        "ru": "Отлично. Смогу взломать лифт — вытащу 2B и всех остальных отсюда!"
+        "ru": "Отлично. Смогу взломать лифт — вытащу 2B и всех остальных отсюда!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1551.wav"
     },
     {
         "id": "M1080_S0075_G0000_101_pod153",
@@ -49,7 +51,8 @@
         "id": "M1080_S0070_G0180_101_rbot9s",
         "jp": "待って待って待って！２Ｂ！",
         "en": "Whoa, whoa, whoa, whoa, whoa! 2B!",
-        "ru": "Ой-ой-ой-ой-ой! 2B!"
+        "ru": "Ой-ой-ой-ой-ой! 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1519.wav"
     },
     {
         "id": "M1080_S0070_G0190_101_rbot9s",
@@ -62,7 +65,8 @@
         "id": "M1080_S0070_G0200_101_a2b",
         "jp": "……９Ｓ！？",
         "en": "...9S!?",
-        "ru": "...9S?!"
+        "ru": "...9S?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/670.wav"
     },
     {
         "id": "M1080_S0070_G0210_101_a9s",
@@ -77,7 +81,8 @@
         "jp": "これから工場のシステムに侵入し、お二人を脱出させます！",
         "en": "I'm gonna break into this factory's systems and get you outta here!",
         "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1522.wav"
     },
     {
         "id": "M1080_S0070_G0230_101_a2b",

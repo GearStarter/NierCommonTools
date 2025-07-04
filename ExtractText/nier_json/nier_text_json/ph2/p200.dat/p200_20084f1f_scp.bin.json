@@ -23,7 +23,8 @@
         "id": "M1050_S0005_G0000_001_op60",
         "jp": "２Ｂさん！こちらオペレーターの６Oです。",
         "en": "2B, this is Operator 6O.",
-        "ru": "2B, на связи оператор 6О."
+        "ru": "2B, на связи оператор 6О.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/269.wav"
     },
     {
         "id": "M1050_S0005_G0010_001_op60",
@@ -83,7 +84,8 @@
         "id": "M1050_S0005_G0071_001_jackas",
         "jp": "やあ。元気？",
         "en": "Hey. How's it hangin'?",
-        "ru": "Йо. Как делишки?"
+        "ru": "Йо. Как делишки?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/52.wav"
     },
     {
         "id": "M1050_S0005_G0072_001_a2b",
@@ -95,7 +97,8 @@
         "id": "M1050_S0005_G0073_001_jackas",
         "jp": "君達のところの司令官に言われたんで、\\n新しくアクセスポイントを作っておいたよ。",
         "en": "Your commander told me to build a new access point, so...here ya go.",
-        "ru": "Ваш командор приказала мне построить новые точки доступа и вот... получите, распишитесь."
+        "ru": "Ваш командор приказала мне построить новые точки доступа и вот... получите, распишитесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/53.wav"
     },
     {
         "id": "M1050_S0005_G0074_001_jackas",
@@ -117,7 +120,8 @@
         "id": "M1050_S0005_G0076_001_jackas",
         "jp": "司令官は昔なじみなんだけど、アイツ、人に仕事させすぎだよね～",
         "en": "I've known the Commander for a while now. She sure is good at pawning work off on people.",
-        "ru": "Знавала я Командора. Она отлично умеет напрягать разной работёнкой."
+        "ru": "Знавала я Командора. Она отлично умеет напрягать разной работёнкой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/55.wav"
     },
     {
         "id": "M1050_S0005_G0077_001_jackas",
@@ -149,7 +153,8 @@
         "id": "M1050_S0005_G0071_001_jackas",
         "jp": "やあ。元気？",
         "en": "Hey. How's it hangin'?",
-        "ru": "Йо. Как делишки?"
+        "ru": "Йо. Как делишки?",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/52.wav"
     },
     {
         "id": "M1050_S0005_G0072_001_a2b",
@@ -161,7 +166,8 @@
         "id": "M1050_S0005_G0073_001_jackas",
         "jp": "君達のところの司令官に言われたんで、\\n新しくアクセスポイントを作っておいたよ。",
         "en": "Your commander told me to build a new access point, so...here ya go.",
-        "ru": "Ваш командор приказала мне построить новые точки доступа и вот... получите, распишитесь."
+        "ru": "Ваш командор приказала мне построить новые точки доступа и вот... получите, распишитесь.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/53.wav"
     },
     {
         "id": "M1050_S0005_G0074_001_jackas",
@@ -183,7 +189,8 @@
         "id": "M1050_S0005_G0076_001_jackas",
         "jp": "司令官は昔なじみなんだけど、アイツ、人に仕事させすぎだよね～",
         "en": "I've known the Commander for a while now. She sure is good at pawning work off on people.",
-        "ru": "Знавала я Командора. Она отлично умеет напрягать разной работёнкой."
+        "ru": "Знавала я Командора. Она отлично умеет напрягать разной работёнкой.",
+        "en_voice": "stream/English(US)/vo_plffff_0_002/55.wav"
     },
     {
         "id": "M1050_S0005_G0077_001_jackas",

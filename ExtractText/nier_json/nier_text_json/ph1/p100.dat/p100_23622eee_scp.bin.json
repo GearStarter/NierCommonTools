@@ -17,7 +17,8 @@
         "id": "M1030_S0120_G0011_001_a2b",
         "jp": "これは……",
         "en": "What the....",
-        "ru": "Что за..."
+        "ru": "Что за...",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/497.wav"
     },
     {
         "id": "M1030_S0120_G0012_001_a9s",
@@ -82,7 +83,8 @@
         "jp": "どこかから奥に進めると思うんですけど……",
         "en": "There's got to be some way to proceed further in...",
         "ru": "Должен быть другой способ попасть внутрь...",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1223.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1223.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1222.wav"
     },
     {
         "id": "M1030_S0120_G0050_300_a9s",
@@ -126,7 +128,8 @@
         "id": "M1030_S0120_G0080_001_n02",
         "jp": "アソボウ！　アソボウ！",
         "en": "Let's play! Let's play!",
-        "ru": "Давайте играть! Давайте играть!"
+        "ru": "Давайте играть! Давайте играть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/835.wav"
     },
     {
         "id": "M1030_S0120_G0090_001_n02",
@@ -153,7 +156,8 @@
         "id": "M1030_S0120_G0120_001_n02",
         "jp": "アソボウ！　遊ボウ！",
         "en": "Let's play! Let's play!",
-        "ru": "Давайте играть! Давайте играть!"
+        "ru": "Давайте играть! Давайте играть!",
+        "en_voice": "stream/English(US)/vo_plffff_0_003/839.wav"
     },
     {
         "id": "M1030_S0120_G0150_001_a9s",
@@ -167,7 +171,8 @@
         "id": "M1030_S0120_G0160_001_a9s",
         "jp": "見逃すと後でマズイ事になりそうです。倒しておきましょう！",
         "en": "We'll regret it later if we let them escape, so let's take 'em out!",
-        "ru": "Если дадим ей уйти, то пожалеем об этом — за ней!"
+        "ru": "Если дадим ей уйти, то пожалеем об этом — за ней!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1234.wav"
     },
     {
         "id": "M1030_S0120_G0170_001_a9s",
@@ -273,6 +278,7 @@
         "id": "M5920_S0060_G0080_001_a9s",
         "jp": "……そう、ですか。",
         "en": "Oh. Um...all right.",
-        "ru": "О. Эм... ладно."
+        "ru": "О. Эм... ладно.",
+        "en_voice": "stream/English(US)/vo_plffff_0_001/344.wav"
     }
 ]

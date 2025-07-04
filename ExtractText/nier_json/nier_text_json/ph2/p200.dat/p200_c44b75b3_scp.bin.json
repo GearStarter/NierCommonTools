@@ -167,7 +167,8 @@
         "id": "M1080_S0070_G0180_101_rbot9s",
         "jp": "待って待って待って！２Ｂ！",
         "en": "Whoa, whoa, whoa, whoa, whoa! 2B!",
-        "ru": "Ой-ой-ой-ой-ой! 2B!"
+        "ru": "Ой-ой-ой-ой-ой! 2B!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1519.wav"
     },
     {
         "id": "M1080_S0070_G0190_101_rbot9s",
@@ -180,7 +181,8 @@
         "id": "M1080_S0070_G0200_101_a2b",
         "jp": "……９Ｓ！？",
         "en": "...9S!?",
-        "ru": "...9S?!"
+        "ru": "...9S?!",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/670.wav"
     },
     {
         "id": "M1080_S0070_G0210_101_a9s",
@@ -195,7 +197,8 @@
         "jp": "これから工場のシステムに侵入し、お二人を脱出させます！",
         "en": "I'm gonna break into this factory's systems and get you outta here!",
         "ru": "Я собираюсь взломать системы этой фабрики и вытащить тебя отсюда!",
-        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav"
+        "jp_voice": "stream/Japanese/vo_plffff_0_000/1523.wav",
+        "en_voice": "stream/English(US)/vo_plffff_0_000/1522.wav"
     },
     {
         "id": "M1080_S0070_G0050_300_a9s",
