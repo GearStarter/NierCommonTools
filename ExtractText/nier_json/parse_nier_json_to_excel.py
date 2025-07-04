@@ -1,11 +1,15 @@
 import json
 import os
 from openpyxl import Workbook
+from openpyxl.styles import PatternFill
 from pathlib import Path
 
 def parse_json_files(folder_path, sheet, row_start=1):
     # Определяем возможные поля
     fields = ["id", "jp", "en", "ru", "en_voice", "jp_voice"]
+    
+    # Определяем желтую заливку
+    yellow_fill = PatternFill(start_color="FFFF00", end_color="FFFF00", fill_type="solid")
     
     # Рекурсивно обходим все файлы в папке
     for item in Path(folder_path).rglob("*.json"):
@@ -17,6 +21,9 @@ def parse_json_files(folder_path, sheet, row_start=1):
                     for field in fields:
                         sheet[f"A{row_start}"] = field
                         sheet[f"B{row_start}"] = entry.get(field, "")
+                        # Применяем желтую заливку для "en_voice" если значение в B пустое
+                        if field == "en_voice" and not entry.get(field):
+                            sheet[f"A{row_start}"].fill = yellow_fill
                         row_start += 1
                     # Добавляем пустую строку между группами
                     row_start += 1
